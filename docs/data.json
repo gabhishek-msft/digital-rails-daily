@@ -1,13 +1,13 @@
 {
   "date": "May 13, 2026",
   "categories": {
-    "zkp": {
-      "title": "Zero-Knowledge Proofs",
+    "zkp-finance": {
+      "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
         {
-          "title": "Nova Folding Scheme Achieves New Performance Benchmarks",
+          "title": "Nova Folding Scheme Achieves New Performance Benchmarks for Settlement",
           "description": "Microsoft Research announces improvements to Nova folding-based ZKP system, reducing prover time by 3x for institutional settlement workloads.",
           "url": "#",
           "source": "CoinDesk",
@@ -15,34 +15,65 @@
           "image": ""
         },
         {
-          "title": "Ethereum Foundation Funds ZK Research Grants",
-          "description": "New round of grants targeting zero-knowledge proof scalability and privacy applications in regulated finance.",
+          "title": "DTCC Uses Zero-Knowledge Proofs for Privacy-Preserving Clearing",
+          "description": "DTCC completes Phase 2 of digital securities pilot with ZKP-based verification of tokenized Treasury securities.",
           "url": "#",
-          "source": "The Block",
+          "source": "Reuters",
           "published": "2026-05-13T06:00:00Z",
+          "image": ""
+        },
+        {
+          "title": "Goldman Sachs Explores ZK-Rollups for Cross-Border FX Settlement",
+          "description": "Investment bank tests zero-knowledge rollup technology to compress and verify foreign exchange trades.",
+          "url": "#",
+          "source": "Bloomberg",
+          "published": "2026-05-12T14:00:00Z",
+          "image": ""
+        }
+      ]
+    },
+    "zkp-beyond": {
+      "title": "ZKP Beyond Finance",
+      "icon": "🔐",
+      "color": "#e6a200",
+      "articles": [
+        {
+          "title": "EU Digital Identity Wallet to Use ZKP for Age Verification",
+          "description": "European Commission adopts zero-knowledge proofs for privacy-preserving credential verification.",
+          "url": "#",
+          "source": "Wired",
+          "published": "2026-05-13T10:00:00Z",
+          "image": ""
+        },
+        {
+          "title": "NHS Pilots ZKP-Based Patient Consent Verification",
+          "description": "UK health service tests zero-knowledge proofs for cross-hospital data sharing without revealing records.",
+          "url": "#",
+          "source": "Healthcare IT News",
+          "published": "2026-05-12T16:00:00Z",
+          "image": ""
+        },
+        {
+          "title": "Stanford Research: ZKPs Enable Private Supply Chain Audits",
+          "description": "New paper shows how ZKPs allow suppliers to prove ESG compliance without revealing proprietary processes.",
+          "url": "#",
+          "source": "MIT Technology Review",
+          "published": "2026-05-12T12:00:00Z",
           "image": ""
         }
       ]
     },
     "finserv": {
-      "title": "Financial Institutions & Digital Assets",
+      "title": "Financial Institutions and Digital Assets",
       "icon": "🏦",
       "color": "#00a4ef",
       "articles": [
-        {
-          "title": "DTCC Completes Phase 2 of Digital Securities Pilot on Azure",
-          "description": "DTCC clearing tokenized Treasury securities with privacy-preserving verification using Project Nova.",
-          "url": "#",
-          "source": "Reuters",
-          "published": "2026-05-13T09:00:00Z",
-          "image": ""
-        },
         {
           "title": "JPMorgan Expands Tokenized Deposit Network to 5 Countries",
           "description": "Major expansion of Onyx platform for cross-border wholesale payments using tokenized deposits.",
           "url": "#",
           "source": "Bloomberg",
-          "published": "2026-05-13T07:00:00Z",
+          "published": "2026-05-13T09:00:00Z",
           "image": ""
         },
         {
@@ -51,6 +82,14 @@
           "url": "#",
           "source": "FT",
           "published": "2026-05-12T15:00:00Z",
+          "image": ""
+        },
+        {
+          "title": "BlackRock Tokenized Fund Surpasses 2B in Assets",
+          "description": "BUIDL fund on Ethereum becomes largest tokenized money market fund attracting institutional allocators.",
+          "url": "#",
+          "source": "The Block",
+          "published": "2026-05-12T11:00:00Z",
           "image": ""
         }
       ]
@@ -69,17 +108,17 @@
           "image": ""
         },
         {
-          "title": "NHS Pilots Blockchain for Patient Record Consent",
-          "description": "UK health service tests privacy-preserving consent verification for cross-hospital data sharing.",
+          "title": "Energy Web Foundation Launches Carbon Credit Registry on Chain",
+          "description": "Blockchain-based registry enables transparent carbon credit issuance and retirement for utilities.",
           "url": "#",
-          "source": "Healthcare IT News",
-          "published": "2026-05-12T14:00:00Z",
+          "source": "GreenBiz",
+          "published": "2026-05-12T13:00:00Z",
           "image": ""
         }
       ]
     },
     "players": {
-      "title": "Technology Players & Headwinds",
+      "title": "Technology Players and Headwinds",
       "icon": "🚀",
       "color": "#7b68ee",
       "subcategories": {
@@ -88,8 +127,8 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Succinct Labs Raises Series B for ZK Prover Network",
-              "description": "SP1 Hypercube prover network startup secures funding to expand enterprise proof marketplace.",
+              "title": "Succinct Labs Raises 55M Series B for ZK Prover Network",
+              "description": "SP1 prover network startup secures funding to expand enterprise proof marketplace.",
               "url": "#",
               "source": "TechCrunch",
               "published": "2026-05-13T10:00:00Z",
@@ -97,7 +136,7 @@
             },
             {
               "title": "Fireblocks Launches Institutional DeFi Access Layer",
-              "description": "Custody platform enables banks to access DeFi protocols through permissioned compliance wrappers.",
+              "description": "Custody platform enables banks to access DeFi through permissioned compliance wrappers.",
               "url": "#",
               "source": "Blockworks",
               "published": "2026-05-12T16:00:00Z",
@@ -110,7 +149,7 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "Azure Expands Confidential Computing for Digital Assets",
+              "title": "Azure Expands Confidential Computing for Digital Asset Workloads",
               "description": "Microsoft expands SGX/SNP enclave availability to 12 new regions for blockchain and ZKP workloads.",
               "url": "#",
               "source": "ZDNet",
@@ -118,8 +157,8 @@
               "image": ""
             },
             {
-              "title": "AWS Adds Managed Blockchain Node Runner Support",
-              "description": "Amazon expands managed node infrastructure for Ethereum, Polygon, and Avalanche validators.",
+              "title": "AWS Adds Managed Blockchain Node Support for 3 New Chains",
+              "description": "Amazon expands managed node infrastructure for Ethereum, Polygon, and Avalanche.",
               "url": "#",
               "source": "AWS Blog",
               "published": "2026-05-12T18:00:00Z",
