@@ -7,27 +7,27 @@
       "color": "#ffb900",
       "articles": [
         {
-          "title": "Zcash to Roll Out Quantum-Recoverable Wallets, Go Quantum-Proof by 2027",
-          "description": "Zcash announces plans for quantum-resistant zero-knowledge proof systems to protect financial transactions from future quantum computing threats.",
-          "url": "https://www.coindesk.com/tech/2026/05/08/zcash-to-roll-out-quantum-recoverable-wallets-within-a-month-go-quantum-proof-by-2027",
+          "title": "Ethereum Future Hinges on Zero-Knowledge Proofs Says EF Director",
+          "description": "Ethereum Foundation co-executive director Hsiao-Wei Wang describes ZKP as central to Ethereum midterm roadmap with many amazing breakthroughs in past two years.",
+          "url": "https://www.coindesk.com/business/2026/01/11/ethereum-s-future-hinges-on-zero-knowledge-proofs-ef-director-says",
           "source": "CoinDesk",
-          "published": "2026-05-08T12:00:00Z",
+          "published": "2026-05-13T09:00:00Z",
           "image": ""
         },
         {
-          "title": "DTCC Moves DTC-Custodied Treasuries Onchain via Canton Network",
-          "description": "DTCC brings custodied Treasury securities onchain using Canton Network privacy-preserving blockchain infrastructure.",
-          "url": "https://blockworks.co/news/cantons-rwa-rails",
-          "source": "Blockworks",
-          "published": "2026-01-01T10:00:00Z",
+          "title": "Citrea Unveils US Treasury-Backed Stablecoin Using ZK Bitcoin Ecosystem",
+          "description": "First stablecoin issued through MoonPay launchpad aims to solve liquidity fragmentation by issuing natively on ZK-powered Citrea Bitcoin L2.",
+          "url": "https://www.coindesk.com/business/2026/01/15/citrea-unveils-u-s-treasury-backed-stablecoin-for-its-bitcoin-ecosystem",
+          "source": "CoinDesk",
+          "published": "2026-05-13T08:00:00Z",
           "image": ""
         },
         {
-          "title": "Ethereum Foundation Unveils Clear Signing Standard Against Phishing",
-          "description": "New standard aims to prevent billions in losses from phishing attacks by making transaction approvals safer with cryptographic verification.",
-          "url": "https://www.coindesk.com/tech/2026/05/12/the-ethereum-foundation-unveils-new-clear-signing-standard-to-stop-users-from-approving-malicious-crypto-transactions",
-          "source": "CoinDesk",
-          "published": "2026-05-12T09:00:00Z",
+          "title": "Bank of England DLT Challenge Finds Trade Offs for Wholesale Settlement",
+          "description": "BoE and BIS Innovation Hub explore how blockchain and ZK technology could transform wholesale settlement infrastructure.",
+          "url": "https://www.ledgerinsights.com/bank-of-england-dlt-challenge-finds-trade-offs-for-wholesale-settlement/",
+          "source": "Ledger Insights",
+          "published": "2026-05-13T07:00:00Z",
           "image": ""
         }
       ]
@@ -38,27 +38,27 @@
       "color": "#e6a200",
       "articles": [
         {
+          "title": "AI Agents Need Identity and Zero-Knowledge Proofs Are the Solution",
+          "description": "ZKPs could become backbone of trusted AI and digital identity, giving individuals and orgs a way to interact safely across platforms and borders.",
+          "url": "https://www.coindesk.com/opinion/2025/11/19/ai-agents-need-identity-and-zero-knowledge-proofs-are-the-solution",
+          "source": "CoinDesk",
+          "published": "2026-05-13T11:00:00Z",
+          "image": ""
+        },
+        {
           "title": "Solana Alpenglow Consensus Overhaul Live for Testing",
-          "description": "The biggest consensus overhaul in Solana history brings new cryptographic proving mechanisms to the network testing environment.",
-          "url": "https://www.coindesk.com/tech/2026/05/11/the-biggest-consensus-overhaul-in-solana-history-is-officially-live-for-testing",
+          "description": "Biggest consensus overhaul in Solana history moves to community test cluster with new cryptographic proving mechanisms for validators.",
+          "url": "https://www.coindesk.com/tech/2026/05/13/the-protocol-solana-s-alpenglow-upgrade-is-live-for-testing",
           "source": "CoinDesk",
-          "published": "2026-05-11T14:00:00Z",
+          "published": "2026-05-13T16:48:00Z",
           "image": ""
         },
         {
-          "title": "AI Agents and ZKP Converge at Consensus Miami Hackathon",
-          "description": "Startups combine AI agents with zero-knowledge proofs for privacy-preserving autonomous systems at major crypto hackathon.",
-          "url": "https://www.coindesk.com/tech/2026/05/08/ai-agents-fueled-a-frenzy-of-startup-building-at-the-consensus-miami-easya-hackathon",
+          "title": "Ethereum Clear Signing Standard Uses Cryptographic Verification Against Phishing",
+          "description": "New standard aims to prevent billions in losses from phishing by making transaction approvals safer with cryptographic proofs.",
+          "url": "https://www.coindesk.com/tech/2026/05/12/the-ethereum-foundation-unveils-new-clear-signing-standard-to-stop-users-from-approving-malicious-crypto-transactions",
           "source": "CoinDesk",
-          "published": "2026-05-08T11:00:00Z",
-          "image": ""
-        },
-        {
-          "title": "Ronin Transitions to Ethereum Layer 2 with ZK Proving",
-          "description": "Gaming blockchain Ronin announces transition from independent sidechain to Ethereum L2, leveraging zero-knowledge proofs for security.",
-          "url": "https://www.coindesk.com/tech/2026/05/11/ronin-set-to-transition-to-ethereum-layer-2-from-independent-sidechain",
-          "source": "CoinDesk",
-          "published": "2026-05-11T08:00:00Z",
+          "published": "2026-05-13T06:00:00Z",
           "image": ""
         }
       ]
@@ -69,27 +69,43 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "DTCC Moves DTC-Custodied Treasuries Onchain via Canton",
-          "description": "DTCC brings real-world Treasury securities onchain using Canton privacy-preserving DLT, marking major institutional adoption milestone.",
-          "url": "https://blockworks.co/news/cantons-rwa-rails",
-          "source": "Blockworks",
-          "published": "2026-01-01T10:00:00Z",
-          "image": ""
-        },
-        {
-          "title": "Ranger ICO Could Re-Accelerate MetaDAO Volumes and Revenue",
-          "description": "New token sale on MetaDAO governance platform signals growing institutional interest in decentralized decision markets.",
-          "url": "https://blockworks.co/news/rangers-ico-metadao",
-          "source": "Blockworks",
-          "published": "2026-01-06T09:00:00Z",
-          "image": ""
-        },
-        {
-          "title": "LayerZero Acknowledges Mistake in 292M Kelp Exploit Response",
-          "description": "Cross-chain messaging protocol admits error in handling of major exploit, raising questions about bridge security for institutional users.",
-          "url": "https://www.coindesk.com/tech/2026/05/09/layerzero-says-it-made-a-mistake-in-usd292-million-kelp-exploit",
+          "title": "NUVA Connects Figure 19B of Tokenized Assets to Ethereum",
+          "description": "Protocol led by veteran BNY executive aims to connect real-world assets with DeFi markets starting with HELOCs and Treasuries.",
+          "url": "https://www.coindesk.com/business/2026/05/13/animoca-backed-nuva-connects-figure-s-usd19-billion-of-tokenized-assets-to-ethereum",
           "source": "CoinDesk",
-          "published": "2026-05-09T15:00:00Z",
+          "published": "2026-05-13T15:00:00Z",
+          "image": ""
+        },
+        {
+          "title": "Charles Schwab Begins US Rollout of Spot Crypto Trading for Retail",
+          "description": "Major brokerage launches spot cryptocurrency trading access for retail customers across the United States.",
+          "url": "https://www.coindesk.com/business/2026/05/13/charles-schwab-begins-rollout-of-spot-crypto-trading-for-retail",
+          "source": "CoinDesk",
+          "published": "2026-05-13T10:00:00Z",
+          "image": ""
+        },
+        {
+          "title": "JPMorgan Files to Launch New Tokenized Fund as Wall Street Race Heats Up",
+          "description": "JPMorgan enters tokenized fund space as competition intensifies among major Wall Street firms for digital asset products.",
+          "url": "https://www.coindesk.com/business/2026/05/12/jpmorgan-files-to-launch-new-tokenized-fund-as-wall-street-tokenization-race-heats-up",
+          "source": "CoinDesk",
+          "published": "2026-05-13T14:00:00Z",
+          "image": ""
+        },
+        {
+          "title": "Telecom Giant KDDI Acquires 14.9% Stake in Coincheck for 65M",
+          "description": "Japanese telecom signs business alliance for revenue sharing and customer referrals to expand crypto access in Japan.",
+          "url": "https://www.coindesk.com/business/2026/05/13/telecom-giant-kddi-to-acquire-14-9-stake-in-coincheck-group-in-usd65-million-deal",
+          "source": "CoinDesk",
+          "published": "2026-05-13T15:30:00Z",
+          "image": ""
+        },
+        {
+          "title": "Societe Generale to Accept Tokenized Collateral on Canton Network",
+          "description": "SocGen announces plans to accept tokenized collateral as margin for Prime Services clients and launch repo on Canton.",
+          "url": "https://www.ledgerinsights.com/societe-generale-to-accept-tokenized-collateral-launch-repo-on-canton-network/",
+          "source": "Ledger Insights",
+          "published": "2026-05-13T12:00:00Z",
           "image": ""
         }
       ]
@@ -100,19 +116,19 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Vitalik Buterin Calls for Trustless Reset at DevConnect Buenos Aires",
-          "description": "Ethereum co-founder and community push for renewed focus on decentralized, trustless systems across industries beyond just finance.",
-          "url": "https://blockworks.co/news/ethereum-trustless-manifesto",
-          "source": "Blockworks",
-          "published": "2025-11-17T12:00:00Z",
+          "title": "Ronin Transitions to Ethereum Layer 2 from Independent Sidechain",
+          "description": "Gaming blockchain Ronin executes hard fork to become Ethereum L2, improving security while maintaining high throughput for gaming.",
+          "url": "https://www.coindesk.com/tech/2026/05/11/ronin-set-to-transition-to-ethereum-layer-2-from-independent-sidechain",
+          "source": "CoinDesk",
+          "published": "2026-05-13T08:00:00Z",
           "image": ""
         },
         {
-          "title": "Ancient Inca Sites May Have Used Blockchain-Like Public Ledger Systems",
-          "description": "Research suggests the need for public verifiable ledger systems predates modern blockchain by centuries.",
-          "url": "https://blockworks.co/news/inca-blockchain",
-          "source": "Blockworks",
-          "published": "2025-11-18T10:00:00Z",
+          "title": "Metaplanet Delays Preferred Share Listing Amid Japanese Market Structure",
+          "description": "Bitcoin treasury company navigates challenging Japanese market structure for its preferred share listing plans.",
+          "url": "https://www.coindesk.com/markets/2026/05/13/metaplanet-delays-preferred-share-listing-amid-challenging-japanese-market-structure",
+          "source": "CoinDesk",
+          "published": "2026-05-13T17:00:00Z",
           "image": ""
         }
       ]
@@ -127,19 +143,27 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "AI Agents Fuel Startup Building Frenzy at Consensus Miami",
-              "description": "New wave of crypto startups combine AI agents with blockchain infrastructure at major industry hackathon.",
-              "url": "https://www.coindesk.com/tech/2026/05/08/ai-agents-fueled-a-frenzy-of-startup-building-at-the-consensus-miami-easya-hackathon",
+              "title": "Zero-Knowledge Identity Startup Self Raises 9M with Points Program",
+              "description": "Self raised 9M to expand its ZKP identity platform and introduced rewards program to drive on-chain verification adoption.",
+              "url": "https://www.coindesk.com/business/2025/11/13/zero-knowledge-identity-startup-self-raises-usd9m-introduces-points-program",
               "source": "CoinDesk",
-              "published": "2026-05-08T11:00:00Z",
+              "published": "2026-05-13T13:00:00Z",
               "image": ""
             },
             {
-              "title": "Lighter LIT Launches Trading at Hyperliquid-Level Fee Multiples",
-              "description": "New DeFi trading platform enters market competing directly with Hyperliquid on fees and execution speed.",
-              "url": "https://blockworks.co/news/cantons-rwa-rails",
-              "source": "Blockworks",
-              "published": "2026-01-01T10:00:00Z",
+              "title": "Stablecoin Yield Infrastructure Project Raises 13.5M Led by Sky Ecosystem",
+              "description": "New DeFi infrastructure startup secures funding to build stablecoin yield products for institutional market.",
+              "url": "https://www.coindesk.com/business/2026/05/12/stablecoin-yield-infrastructure-project-raises-usd13-5m-in-round-led-by-sky-ecosystem",
+              "source": "CoinDesk",
+              "published": "2026-05-13T11:00:00Z",
+              "image": ""
+            },
+            {
+              "title": "Ledger Puts US IPO Plans on Hold Due to Market Conditions",
+              "description": "French crypto security firm reassesses potential 4B US listing as volatile conditions weigh on investor appetite for crypto IPOs.",
+              "url": "https://www.coindesk.com/business/2026/05/13/crypto-wallet-provider-ledger-puts-u-s-ipo-plans-on-hold-due-to-market-conditions",
+              "source": "CoinDesk",
+              "published": "2026-05-13T15:00:00Z",
               "image": ""
             }
           ]
@@ -149,19 +173,19 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "Solana Alpenglow Upgrade Marks Biggest Cloud Infrastructure Shift",
-              "description": "Major protocol upgrade requires validator infrastructure changes across cloud providers hosting Solana nodes.",
-              "url": "https://www.coindesk.com/tech/2026/05/13/the-protocol-solana-s-alpenglow-upgrade-is-live-for-testing",
+              "title": "eToro Reiterates Commitment to Crypto Despite Falling Q1 Activity",
+              "description": "Trading platform maintains crypto strategy even as first quarter activity declines across the industry.",
+              "url": "https://www.coindesk.com/business/2026/05/13/etoro-reiterates-commitment-to-crypto-despite-falling-activity-in-q1",
               "source": "CoinDesk",
-              "published": "2026-05-13T14:00:00Z",
+              "published": "2026-05-13T10:00:00Z",
               "image": ""
             },
             {
-              "title": "Some Systems Improve by Failing - And Crypto Has No Choice",
-              "description": "Analysis of how hyperscaler-grade resilience patterns are being adopted by blockchain infrastructure providers.",
-              "url": "https://blockworks.co/news/failure-is-an-option",
-              "source": "Blockworks",
-              "published": "2025-12-31T09:00:00Z",
+              "title": "LayerZero Apologizes for 292M Kelp Exploit Configuration Mistake",
+              "description": "Cross-chain protocol admits it allowed its DVN to act as single point of failure for high-value transactions.",
+              "url": "https://www.coindesk.com/tech/2026/05/09/layerzero-says-it-made-a-mistake-in-usd292-million-kelp-exploit",
+              "source": "CoinDesk",
+              "published": "2026-05-13T09:00:00Z",
               "image": ""
             }
           ]

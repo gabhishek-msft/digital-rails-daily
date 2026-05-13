@@ -201,7 +201,7 @@ def generate_html(news_data):
                 pub_date = ""
 
         return f"""
-        <div class="card" data-article-id="{art_id}" onclick="toggleRead(this)">
+        <div class="card" data-article-id="{art_id}" data-published="{article.get('published', '')}" onclick="toggleRead(this)">
             <div class="read-badge" title="Click card to mark as read/unread">&#x2713;</div>
             {img_html}
             <div class="card-body">
@@ -270,6 +270,9 @@ header .subtitle {{ color:#8899aa; margin-top:8px; font-size:1rem; }}
 .refresh-spin {{ animation:spin 1s linear infinite; }}
 @keyframes spin {{ from {{ transform:rotate(0deg); }} to {{ transform:rotate(360deg); }} }}
 .stats {{ font-size:0.8rem; color:#667788; padding:0 8px; }}
+.date-filter {{ padding:7px 14px; border-radius:8px; border:1px solid #1a3050; background:#111927; color:#e0e8f0; font-size:0.85rem; cursor:pointer; appearance:none; -webkit-appearance:none; background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%238899aa' stroke-width='2'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E"); background-repeat:no-repeat; background-position:right 10px center; padding-right:30px; }}
+.date-filter:hover {{ border-color:#00a4ef; }}
+.date-filter:focus {{ outline:none; border-color:#00a4ef; }}
 main {{ max-width:1400px; margin:0 auto; padding:30px 20px; }}
 .category {{ margin-bottom:50px; }}
 .category h2 {{ font-size:1.6rem; font-weight:700; margin-bottom:4px; }}
@@ -303,6 +306,11 @@ footer {{ text-align:center; padding:30px; color:#445566; font-size:0.8rem; bord
 </header>
 <div class="toolbar">
     {nav_links}
+    <span class="divider"></span>
+    <select class="date-filter" id="date-range" onchange="applyDateFilter()" title="Filter by date range">
+        <option value="today">Today</option>
+        <option value="7days">Last 7 Days</option>
+    </select>
     <span class="divider"></span>
     <button class="btn" id="btn-refresh" onclick="refreshFeed()" title="Refresh news feed">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M1 4v6h6M23 20v-6h-6"/><path d="M20.49 9A9 9 0 0 0 5.64 5.64L1 10m22 4l-4.64 4.36A9 9 0 0 1 3.51 15"/></svg>
@@ -377,19 +385,37 @@ function toggleFilter() {{
 }}
 
 function applyFilter() {{
+    const range = document.getElementById('date-range').value;
+    const now = new Date();
+    const todayStart = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+    const sevenDaysAgo = new Date(now.getTime() - 7 * 24 * 60 * 60 * 1000);
+
     document.querySelectorAll('.card[data-article-id]').forEach(card => {{
-        if (showUnreadOnly && card.classList.contains('read')) {{
-            card.classList.add('hidden');
-        }} else {{
-            card.classList.remove('hidden');
+        let hidden = false;
+        // Date filter
+        const pub = card.dataset.published;
+        if (pub) {{
+            const pubDate = new Date(pub);
+            if (range === 'today' && pubDate < todayStart) hidden = true;
+            if (range === '7days' && pubDate < sevenDaysAgo) hidden = true;
         }}
+        // Unread filter
+        if (showUnreadOnly && card.classList.contains('read')) hidden = true;
+
+        card.classList.toggle('hidden', hidden);
     }});
+    updateStats();
+}}
+
+function applyDateFilter() {{
+    applyFilter();
 }}
 
 function updateStats() {{
+    const visible = document.querySelectorAll('.card[data-article-id]:not(.hidden)').length;
+    const read = document.querySelectorAll('.card[data-article-id]:not(.hidden).read').length;
     const total = document.querySelectorAll('.card[data-article-id]').length;
-    const read = document.querySelectorAll('.card.read').length;
-    document.getElementById('stats').textContent = `${{read}}/${{total}} read`;
+    document.getElementById('stats').textContent = `${{visible}} shown | ${{read}} read of ${{total}}`;
 }}
 
 function refreshFeed() {{
@@ -409,7 +435,7 @@ document.addEventListener('DOMContentLoaded', () => {{
             card.classList.add('read');
         }}
     }});
-    updateStats();
+    applyFilter();
 }});
 </script>
 </body>

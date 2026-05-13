@@ -22,6 +22,9 @@ header .subtitle { color:#8899aa; margin-top:8px; font-size:1rem; }
 .refresh-spin { animation:spin 1s linear infinite; }
 @keyframes spin { from { transform:rotate(0deg); } to { transform:rotate(360deg); } }
 .stats { font-size:0.8rem; color:#667788; padding:0 8px; }
+.date-filter { padding:7px 14px; border-radius:8px; border:1px solid #1a3050; background:#111927; color:#e0e8f0; font-size:0.85rem; cursor:pointer; appearance:none; -webkit-appearance:none; background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%238899aa' stroke-width='2'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E"); background-repeat:no-repeat; background-position:right 10px center; padding-right:30px; }
+.date-filter:hover { border-color:#00a4ef; }
+.date-filter:focus { outline:none; border-color:#00a4ef; }
 main { max-width:1400px; margin:0 auto; padding:30px 20px; }
 .category { margin-bottom:50px; }
 .category h2 { font-size:1.6rem; font-weight:700; margin-bottom:4px; }
@@ -61,6 +64,11 @@ footer { text-align:center; padding:30px; color:#445566; font-size:0.8rem; borde
     <a href="#players">🚀 Technology Players and Headwinds</a>
     
     <span class="divider"></span>
+    <select class="date-filter" id="date-range" onchange="applyDateFilter()" title="Filter by date range">
+        <option value="today">Today</option>
+        <option value="7days">Last 7 Days</option>
+    </select>
+    <span class="divider"></span>
     <button class="btn" id="btn-refresh" onclick="refreshFeed()" title="Refresh news feed">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M1 4v6h6M23 20v-6h-6"/><path d="M20.49 9A9 9 0 0 0 5.64 5.64L1 10m22 4l-4.64 4.36A9 9 0 0 1 3.51 15"/></svg>
         Refresh
@@ -80,179 +88,109 @@ footer { text-align:center; padding:30px; color:#445566; font-size:0.8rem; borde
         <section class="category" id="zkp-finance">
             <h2><span class="cat-icon">🛡️</span> ZKP in Finance</h2>
             <div class="accent" style="background:#ffb900;"></div><div class="cards-grid">
-        <div class="card" data-article-id="Zcash_to_Roll_Out_Quantum-Recoverable_Wallets,_Go_Quantum-Pr" onclick="toggleRead(this)">
+        <div class="card" data-article-id="Ethereum_Future_Hinges_on_Zero-Knowledge_Proofs_Says_EF_Dire" data-published="2026-05-13T09:00:00Z" onclick="toggleRead(this)">
             <div class="read-badge" title="Click card to mark as read/unread">&#x2713;</div>
             
             <div class="card-body">
                 <div class="card-meta">
                     <span class="source">CoinDesk</span>
-                    <span class="date">May 08, 12:00</span>
+                    <span class="date">May 13, 09:00</span>
                 </div>
-                <h3><a href="https://www.coindesk.com/tech/2026/05/08/zcash-to-roll-out-quantum-recoverable-wallets-within-a-month-go-quantum-proof-by-2027" target="_blank" rel="noopener" onclick="event.stopPropagation()">Zcash to Roll Out Quantum-Recoverable Wallets, Go Quantum-Proof by 2027</a></h3>
-                <p>Zcash announces plans for quantum-resistant zero-knowledge proof systems to protect financial transactions from future quantum computing threats.</p>
+                <h3><a href="https://www.coindesk.com/business/2026/01/11/ethereum-s-future-hinges-on-zero-knowledge-proofs-ef-director-says" target="_blank" rel="noopener" onclick="event.stopPropagation()">Ethereum Future Hinges on Zero-Knowledge Proofs Says EF Director</a></h3>
+                <p>Ethereum Foundation co-executive director Hsiao-Wei Wang describes ZKP as central to Ethereum midterm roadmap with many amazing breakthroughs in past </p>
             </div>
         </div>
-        <div class="card" data-article-id="DTCC_Moves_DTC-Custodied_Treasuries_Onchain_via_Canton_Netwo" onclick="toggleRead(this)">
-            <div class="read-badge" title="Click card to mark as read/unread">&#x2713;</div>
-            
-            <div class="card-body">
-                <div class="card-meta">
-                    <span class="source">Blockworks</span>
-                    <span class="date">Jan 01, 10:00</span>
-                </div>
-                <h3><a href="https://blockworks.co/news/cantons-rwa-rails" target="_blank" rel="noopener" onclick="event.stopPropagation()">DTCC Moves DTC-Custodied Treasuries Onchain via Canton Network</a></h3>
-                <p>DTCC brings custodied Treasury securities onchain using Canton Network privacy-preserving blockchain infrastructure.</p>
-            </div>
-        </div>
-        <div class="card" data-article-id="Ethereum_Foundation_Unveils_Clear_Signing_Standard_Against_P" onclick="toggleRead(this)">
+        <div class="card" data-article-id="Citrea_Unveils_US_Treasury-Backed_Stablecoin_Using_ZK_Bitcoi" data-published="2026-05-13T08:00:00Z" onclick="toggleRead(this)">
             <div class="read-badge" title="Click card to mark as read/unread">&#x2713;</div>
             
             <div class="card-body">
                 <div class="card-meta">
                     <span class="source">CoinDesk</span>
-                    <span class="date">May 12, 09:00</span>
+                    <span class="date">May 13, 08:00</span>
                 </div>
-                <h3><a href="https://www.coindesk.com/tech/2026/05/12/the-ethereum-foundation-unveils-new-clear-signing-standard-to-stop-users-from-approving-malicious-crypto-transactions" target="_blank" rel="noopener" onclick="event.stopPropagation()">Ethereum Foundation Unveils Clear Signing Standard Against Phishing</a></h3>
-                <p>New standard aims to prevent billions in losses from phishing attacks by making transaction approvals safer with cryptographic verification.</p>
+                <h3><a href="https://www.coindesk.com/business/2026/01/15/citrea-unveils-u-s-treasury-backed-stablecoin-for-its-bitcoin-ecosystem" target="_blank" rel="noopener" onclick="event.stopPropagation()">Citrea Unveils US Treasury-Backed Stablecoin Using ZK Bitcoin Ecosystem</a></h3>
+                <p>First stablecoin issued through MoonPay launchpad aims to solve liquidity fragmentation by issuing natively on ZK-powered Citrea Bitcoin L2.</p>
+            </div>
+        </div>
+        <div class="card" data-article-id="Bank_of_England_DLT_Challenge_Finds_Trade_Offs_for_Wholesale" data-published="2026-05-13T07:00:00Z" onclick="toggleRead(this)">
+            <div class="read-badge" title="Click card to mark as read/unread">&#x2713;</div>
+            
+            <div class="card-body">
+                <div class="card-meta">
+                    <span class="source">Ledger Insights</span>
+                    <span class="date">May 13, 07:00</span>
+                </div>
+                <h3><a href="https://www.ledgerinsights.com/bank-of-england-dlt-challenge-finds-trade-offs-for-wholesale-settlement/" target="_blank" rel="noopener" onclick="event.stopPropagation()">Bank of England DLT Challenge Finds Trade Offs for Wholesale Settlement</a></h3>
+                <p>BoE and BIS Innovation Hub explore how blockchain and ZK technology could transform wholesale settlement infrastructure.</p>
             </div>
         </div></div></section>
         <section class="category" id="zkp-beyond">
             <h2><span class="cat-icon">🔐</span> ZKP Beyond Finance</h2>
             <div class="accent" style="background:#e6a200;"></div><div class="cards-grid">
-        <div class="card" data-article-id="Solana_Alpenglow_Consensus_Overhaul_Live_for_Testing" onclick="toggleRead(this)">
+        <div class="card" data-article-id="AI_Agents_Need_Identity_and_Zero-Knowledge_Proofs_Are_the_So" data-published="2026-05-13T11:00:00Z" onclick="toggleRead(this)">
             <div class="read-badge" title="Click card to mark as read/unread">&#x2713;</div>
             
             <div class="card-body">
                 <div class="card-meta">
                     <span class="source">CoinDesk</span>
-                    <span class="date">May 11, 14:00</span>
+                    <span class="date">May 13, 11:00</span>
                 </div>
-                <h3><a href="https://www.coindesk.com/tech/2026/05/11/the-biggest-consensus-overhaul-in-solana-history-is-officially-live-for-testing" target="_blank" rel="noopener" onclick="event.stopPropagation()">Solana Alpenglow Consensus Overhaul Live for Testing</a></h3>
-                <p>The biggest consensus overhaul in Solana history brings new cryptographic proving mechanisms to the network testing environment.</p>
+                <h3><a href="https://www.coindesk.com/opinion/2025/11/19/ai-agents-need-identity-and-zero-knowledge-proofs-are-the-solution" target="_blank" rel="noopener" onclick="event.stopPropagation()">AI Agents Need Identity and Zero-Knowledge Proofs Are the Solution</a></h3>
+                <p>ZKPs could become backbone of trusted AI and digital identity, giving individuals and orgs a way to interact safely across platforms and borders.</p>
             </div>
         </div>
-        <div class="card" data-article-id="AI_Agents_and_ZKP_Converge_at_Consensus_Miami_Hackathon" onclick="toggleRead(this)">
+        <div class="card" data-article-id="Solana_Alpenglow_Consensus_Overhaul_Live_for_Testing" data-published="2026-05-13T16:48:00Z" onclick="toggleRead(this)">
             <div class="read-badge" title="Click card to mark as read/unread">&#x2713;</div>
             
             <div class="card-body">
                 <div class="card-meta">
                     <span class="source">CoinDesk</span>
-                    <span class="date">May 08, 11:00</span>
+                    <span class="date">May 13, 16:48</span>
                 </div>
-                <h3><a href="https://www.coindesk.com/tech/2026/05/08/ai-agents-fueled-a-frenzy-of-startup-building-at-the-consensus-miami-easya-hackathon" target="_blank" rel="noopener" onclick="event.stopPropagation()">AI Agents and ZKP Converge at Consensus Miami Hackathon</a></h3>
-                <p>Startups combine AI agents with zero-knowledge proofs for privacy-preserving autonomous systems at major crypto hackathon.</p>
+                <h3><a href="https://www.coindesk.com/tech/2026/05/13/the-protocol-solana-s-alpenglow-upgrade-is-live-for-testing" target="_blank" rel="noopener" onclick="event.stopPropagation()">Solana Alpenglow Consensus Overhaul Live for Testing</a></h3>
+                <p>Biggest consensus overhaul in Solana history moves to community test cluster with new cryptographic proving mechanisms for validators.</p>
             </div>
         </div>
-        <div class="card" data-article-id="Ronin_Transitions_to_Ethereum_Layer_2_with_ZK_Proving" onclick="toggleRead(this)">
+        <div class="card" data-article-id="Ethereum_Clear_Signing_Standard_Uses_Cryptographic_Verificat" data-published="2026-05-13T06:00:00Z" onclick="toggleRead(this)">
             <div class="read-badge" title="Click card to mark as read/unread">&#x2713;</div>
             
             <div class="card-body">
                 <div class="card-meta">
                     <span class="source">CoinDesk</span>
-                    <span class="date">May 11, 08:00</span>
+                    <span class="date">May 13, 06:00</span>
                 </div>
-                <h3><a href="https://www.coindesk.com/tech/2026/05/11/ronin-set-to-transition-to-ethereum-layer-2-from-independent-sidechain" target="_blank" rel="noopener" onclick="event.stopPropagation()">Ronin Transitions to Ethereum Layer 2 with ZK Proving</a></h3>
-                <p>Gaming blockchain Ronin announces transition from independent sidechain to Ethereum L2, leveraging zero-knowledge proofs for security.</p>
+                <h3><a href="https://www.coindesk.com/tech/2026/05/12/the-ethereum-foundation-unveils-new-clear-signing-standard-to-stop-users-from-approving-malicious-crypto-transactions" target="_blank" rel="noopener" onclick="event.stopPropagation()">Ethereum Clear Signing Standard Uses Cryptographic Verification Against Phishing</a></h3>
+                <p>New standard aims to prevent billions in losses from phishing by making transaction approvals safer with cryptographic proofs.</p>
             </div>
         </div></div></section>
         <section class="category" id="finserv">
             <h2><span class="cat-icon">🏦</span> Financial Institutions and Digital Assets</h2>
             <div class="accent" style="background:#00a4ef;"></div><div class="cards-grid">
-        <div class="card" data-article-id="DTCC_Moves_DTC-Custodied_Treasuries_Onchain_via_Canton" onclick="toggleRead(this)">
-            <div class="read-badge" title="Click card to mark as read/unread">&#x2713;</div>
-            
-            <div class="card-body">
-                <div class="card-meta">
-                    <span class="source">Blockworks</span>
-                    <span class="date">Jan 01, 10:00</span>
-                </div>
-                <h3><a href="https://blockworks.co/news/cantons-rwa-rails" target="_blank" rel="noopener" onclick="event.stopPropagation()">DTCC Moves DTC-Custodied Treasuries Onchain via Canton</a></h3>
-                <p>DTCC brings real-world Treasury securities onchain using Canton privacy-preserving DLT, marking major institutional adoption milestone.</p>
-            </div>
-        </div>
-        <div class="card" data-article-id="Ranger_ICO_Could_Re-Accelerate_MetaDAO_Volumes_and_Revenue" onclick="toggleRead(this)">
-            <div class="read-badge" title="Click card to mark as read/unread">&#x2713;</div>
-            
-            <div class="card-body">
-                <div class="card-meta">
-                    <span class="source">Blockworks</span>
-                    <span class="date">Jan 06, 09:00</span>
-                </div>
-                <h3><a href="https://blockworks.co/news/rangers-ico-metadao" target="_blank" rel="noopener" onclick="event.stopPropagation()">Ranger ICO Could Re-Accelerate MetaDAO Volumes and Revenue</a></h3>
-                <p>New token sale on MetaDAO governance platform signals growing institutional interest in decentralized decision markets.</p>
-            </div>
-        </div>
-        <div class="card" data-article-id="LayerZero_Acknowledges_Mistake_in_292M_Kelp_Exploit_Response" onclick="toggleRead(this)">
+        <div class="card" data-article-id="NUVA_Connects_Figure_19B_of_Tokenized_Assets_to_Ethereum" data-published="2026-05-13T15:00:00Z" onclick="toggleRead(this)">
             <div class="read-badge" title="Click card to mark as read/unread">&#x2713;</div>
             
             <div class="card-body">
                 <div class="card-meta">
                     <span class="source">CoinDesk</span>
-                    <span class="date">May 09, 15:00</span>
+                    <span class="date">May 13, 15:00</span>
                 </div>
-                <h3><a href="https://www.coindesk.com/tech/2026/05/09/layerzero-says-it-made-a-mistake-in-usd292-million-kelp-exploit" target="_blank" rel="noopener" onclick="event.stopPropagation()">LayerZero Acknowledges Mistake in 292M Kelp Exploit Response</a></h3>
-                <p>Cross-chain messaging protocol admits error in handling of major exploit, raising questions about bridge security for institutional users.</p>
-            </div>
-        </div></div></section>
-        <section class="category" id="industries">
-            <h2><span class="cat-icon">🏥</span> Blockchain Beyond Finance</h2>
-            <div class="accent" style="background:#00cc88;"></div><div class="cards-grid">
-        <div class="card" data-article-id="Vitalik_Buterin_Calls_for_Trustless_Reset_at_DevConnect_Buen" onclick="toggleRead(this)">
-            <div class="read-badge" title="Click card to mark as read/unread">&#x2713;</div>
-            
-            <div class="card-body">
-                <div class="card-meta">
-                    <span class="source">Blockworks</span>
-                    <span class="date">Nov 17, 12:00</span>
-                </div>
-                <h3><a href="https://blockworks.co/news/ethereum-trustless-manifesto" target="_blank" rel="noopener" onclick="event.stopPropagation()">Vitalik Buterin Calls for Trustless Reset at DevConnect Buenos Aires</a></h3>
-                <p>Ethereum co-founder and community push for renewed focus on decentralized, trustless systems across industries beyond just finance.</p>
+                <h3><a href="https://www.coindesk.com/business/2026/05/13/animoca-backed-nuva-connects-figure-s-usd19-billion-of-tokenized-assets-to-ethereum" target="_blank" rel="noopener" onclick="event.stopPropagation()">NUVA Connects Figure 19B of Tokenized Assets to Ethereum</a></h3>
+                <p>Protocol led by veteran BNY executive aims to connect real-world assets with DeFi markets starting with HELOCs and Treasuries.</p>
             </div>
         </div>
-        <div class="card" data-article-id="Ancient_Inca_Sites_May_Have_Used_Blockchain-Like_Public_Ledg" onclick="toggleRead(this)">
-            <div class="read-badge" title="Click card to mark as read/unread">&#x2713;</div>
-            
-            <div class="card-body">
-                <div class="card-meta">
-                    <span class="source">Blockworks</span>
-                    <span class="date">Nov 18, 10:00</span>
-                </div>
-                <h3><a href="https://blockworks.co/news/inca-blockchain" target="_blank" rel="noopener" onclick="event.stopPropagation()">Ancient Inca Sites May Have Used Blockchain-Like Public Ledger Systems</a></h3>
-                <p>Research suggests the need for public verifiable ledger systems predates modern blockchain by centuries.</p>
-            </div>
-        </div></div></section>
-        <section class="category" id="players">
-            <h2><span class="cat-icon">🚀</span> Technology Players and Headwinds</h2>
-            <div class="accent" style="background:#7b68ee;"></div>
-            <h3 class="sub-heading">💡 Startups</h3>
-            <div class="cards-grid">
-        <div class="card" data-article-id="AI_Agents_Fuel_Startup_Building_Frenzy_at_Consensus_Miami" onclick="toggleRead(this)">
+        <div class="card" data-article-id="Charles_Schwab_Begins_US_Rollout_of_Spot_Crypto_Trading_for_" data-published="2026-05-13T10:00:00Z" onclick="toggleRead(this)">
             <div class="read-badge" title="Click card to mark as read/unread">&#x2713;</div>
             
             <div class="card-body">
                 <div class="card-meta">
                     <span class="source">CoinDesk</span>
-                    <span class="date">May 08, 11:00</span>
+                    <span class="date">May 13, 10:00</span>
                 </div>
-                <h3><a href="https://www.coindesk.com/tech/2026/05/08/ai-agents-fueled-a-frenzy-of-startup-building-at-the-consensus-miami-easya-hackathon" target="_blank" rel="noopener" onclick="event.stopPropagation()">AI Agents Fuel Startup Building Frenzy at Consensus Miami</a></h3>
-                <p>New wave of crypto startups combine AI agents with blockchain infrastructure at major industry hackathon.</p>
+                <h3><a href="https://www.coindesk.com/business/2026/05/13/charles-schwab-begins-rollout-of-spot-crypto-trading-for-retail" target="_blank" rel="noopener" onclick="event.stopPropagation()">Charles Schwab Begins US Rollout of Spot Crypto Trading for Retail</a></h3>
+                <p>Major brokerage launches spot cryptocurrency trading access for retail customers across the United States.</p>
             </div>
         </div>
-        <div class="card" data-article-id="Lighter_LIT_Launches_Trading_at_Hyperliquid-Level_Fee_Multip" onclick="toggleRead(this)">
-            <div class="read-badge" title="Click card to mark as read/unread">&#x2713;</div>
-            
-            <div class="card-body">
-                <div class="card-meta">
-                    <span class="source">Blockworks</span>
-                    <span class="date">Jan 01, 10:00</span>
-                </div>
-                <h3><a href="https://blockworks.co/news/cantons-rwa-rails" target="_blank" rel="noopener" onclick="event.stopPropagation()">Lighter LIT Launches Trading at Hyperliquid-Level Fee Multiples</a></h3>
-                <p>New DeFi trading platform enters market competing directly with Hyperliquid on fees and execution speed.</p>
-            </div>
-        </div></div>
-            <h3 class="sub-heading">☁️ Hyperscalers</h3>
-            <div class="cards-grid">
-        <div class="card" data-article-id="Solana_Alpenglow_Upgrade_Marks_Biggest_Cloud_Infrastructure_" onclick="toggleRead(this)">
+        <div class="card" data-article-id="JPMorgan_Files_to_Launch_New_Tokenized_Fund_as_Wall_Street_R" data-published="2026-05-13T14:00:00Z" onclick="toggleRead(this)">
             <div class="read-badge" title="Click card to mark as read/unread">&#x2713;</div>
             
             <div class="card-body">
@@ -260,20 +198,126 @@ footer { text-align:center; padding:30px; color:#445566; font-size:0.8rem; borde
                     <span class="source">CoinDesk</span>
                     <span class="date">May 13, 14:00</span>
                 </div>
-                <h3><a href="https://www.coindesk.com/tech/2026/05/13/the-protocol-solana-s-alpenglow-upgrade-is-live-for-testing" target="_blank" rel="noopener" onclick="event.stopPropagation()">Solana Alpenglow Upgrade Marks Biggest Cloud Infrastructure Shift</a></h3>
-                <p>Major protocol upgrade requires validator infrastructure changes across cloud providers hosting Solana nodes.</p>
+                <h3><a href="https://www.coindesk.com/business/2026/05/12/jpmorgan-files-to-launch-new-tokenized-fund-as-wall-street-tokenization-race-heats-up" target="_blank" rel="noopener" onclick="event.stopPropagation()">JPMorgan Files to Launch New Tokenized Fund as Wall Street Race Heats Up</a></h3>
+                <p>JPMorgan enters tokenized fund space as competition intensifies among major Wall Street firms for digital asset products.</p>
             </div>
         </div>
-        <div class="card" data-article-id="Some_Systems_Improve_by_Failing_-_And_Crypto_Has_No_Choice" onclick="toggleRead(this)">
+        <div class="card" data-article-id="Telecom_Giant_KDDI_Acquires_14.9%_Stake_in_Coincheck_for_65M" data-published="2026-05-13T15:30:00Z" onclick="toggleRead(this)">
             <div class="read-badge" title="Click card to mark as read/unread">&#x2713;</div>
             
             <div class="card-body">
                 <div class="card-meta">
-                    <span class="source">Blockworks</span>
-                    <span class="date">Dec 31, 09:00</span>
+                    <span class="source">CoinDesk</span>
+                    <span class="date">May 13, 15:30</span>
                 </div>
-                <h3><a href="https://blockworks.co/news/failure-is-an-option" target="_blank" rel="noopener" onclick="event.stopPropagation()">Some Systems Improve by Failing - And Crypto Has No Choice</a></h3>
-                <p>Analysis of how hyperscaler-grade resilience patterns are being adopted by blockchain infrastructure providers.</p>
+                <h3><a href="https://www.coindesk.com/business/2026/05/13/telecom-giant-kddi-to-acquire-14-9-stake-in-coincheck-group-in-usd65-million-deal" target="_blank" rel="noopener" onclick="event.stopPropagation()">Telecom Giant KDDI Acquires 14.9% Stake in Coincheck for 65M</a></h3>
+                <p>Japanese telecom signs business alliance for revenue sharing and customer referrals to expand crypto access in Japan.</p>
+            </div>
+        </div>
+        <div class="card" data-article-id="Societe_Generale_to_Accept_Tokenized_Collateral_on_Canton_Ne" data-published="2026-05-13T12:00:00Z" onclick="toggleRead(this)">
+            <div class="read-badge" title="Click card to mark as read/unread">&#x2713;</div>
+            
+            <div class="card-body">
+                <div class="card-meta">
+                    <span class="source">Ledger Insights</span>
+                    <span class="date">May 13, 12:00</span>
+                </div>
+                <h3><a href="https://www.ledgerinsights.com/societe-generale-to-accept-tokenized-collateral-launch-repo-on-canton-network/" target="_blank" rel="noopener" onclick="event.stopPropagation()">Societe Generale to Accept Tokenized Collateral on Canton Network</a></h3>
+                <p>SocGen announces plans to accept tokenized collateral as margin for Prime Services clients and launch repo on Canton.</p>
+            </div>
+        </div></div></section>
+        <section class="category" id="industries">
+            <h2><span class="cat-icon">🏥</span> Blockchain Beyond Finance</h2>
+            <div class="accent" style="background:#00cc88;"></div><div class="cards-grid">
+        <div class="card" data-article-id="Ronin_Transitions_to_Ethereum_Layer_2_from_Independent_Sidec" data-published="2026-05-13T08:00:00Z" onclick="toggleRead(this)">
+            <div class="read-badge" title="Click card to mark as read/unread">&#x2713;</div>
+            
+            <div class="card-body">
+                <div class="card-meta">
+                    <span class="source">CoinDesk</span>
+                    <span class="date">May 13, 08:00</span>
+                </div>
+                <h3><a href="https://www.coindesk.com/tech/2026/05/11/ronin-set-to-transition-to-ethereum-layer-2-from-independent-sidechain" target="_blank" rel="noopener" onclick="event.stopPropagation()">Ronin Transitions to Ethereum Layer 2 from Independent Sidechain</a></h3>
+                <p>Gaming blockchain Ronin executes hard fork to become Ethereum L2, improving security while maintaining high throughput for gaming.</p>
+            </div>
+        </div>
+        <div class="card" data-article-id="Metaplanet_Delays_Preferred_Share_Listing_Amid_Japanese_Mark" data-published="2026-05-13T17:00:00Z" onclick="toggleRead(this)">
+            <div class="read-badge" title="Click card to mark as read/unread">&#x2713;</div>
+            
+            <div class="card-body">
+                <div class="card-meta">
+                    <span class="source">CoinDesk</span>
+                    <span class="date">May 13, 17:00</span>
+                </div>
+                <h3><a href="https://www.coindesk.com/markets/2026/05/13/metaplanet-delays-preferred-share-listing-amid-challenging-japanese-market-structure" target="_blank" rel="noopener" onclick="event.stopPropagation()">Metaplanet Delays Preferred Share Listing Amid Japanese Market Structure</a></h3>
+                <p>Bitcoin treasury company navigates challenging Japanese market structure for its preferred share listing plans.</p>
+            </div>
+        </div></div></section>
+        <section class="category" id="players">
+            <h2><span class="cat-icon">🚀</span> Technology Players and Headwinds</h2>
+            <div class="accent" style="background:#7b68ee;"></div>
+            <h3 class="sub-heading">💡 Startups</h3>
+            <div class="cards-grid">
+        <div class="card" data-article-id="Zero-Knowledge_Identity_Startup_Self_Raises_9M_with_Points_P" data-published="2026-05-13T13:00:00Z" onclick="toggleRead(this)">
+            <div class="read-badge" title="Click card to mark as read/unread">&#x2713;</div>
+            
+            <div class="card-body">
+                <div class="card-meta">
+                    <span class="source">CoinDesk</span>
+                    <span class="date">May 13, 13:00</span>
+                </div>
+                <h3><a href="https://www.coindesk.com/business/2025/11/13/zero-knowledge-identity-startup-self-raises-usd9m-introduces-points-program" target="_blank" rel="noopener" onclick="event.stopPropagation()">Zero-Knowledge Identity Startup Self Raises 9M with Points Program</a></h3>
+                <p>Self raised 9M to expand its ZKP identity platform and introduced rewards program to drive on-chain verification adoption.</p>
+            </div>
+        </div>
+        <div class="card" data-article-id="Stablecoin_Yield_Infrastructure_Project_Raises_13.5M_Led_by_" data-published="2026-05-13T11:00:00Z" onclick="toggleRead(this)">
+            <div class="read-badge" title="Click card to mark as read/unread">&#x2713;</div>
+            
+            <div class="card-body">
+                <div class="card-meta">
+                    <span class="source">CoinDesk</span>
+                    <span class="date">May 13, 11:00</span>
+                </div>
+                <h3><a href="https://www.coindesk.com/business/2026/05/12/stablecoin-yield-infrastructure-project-raises-usd13-5m-in-round-led-by-sky-ecosystem" target="_blank" rel="noopener" onclick="event.stopPropagation()">Stablecoin Yield Infrastructure Project Raises 13.5M Led by Sky Ecosystem</a></h3>
+                <p>New DeFi infrastructure startup secures funding to build stablecoin yield products for institutional market.</p>
+            </div>
+        </div>
+        <div class="card" data-article-id="Ledger_Puts_US_IPO_Plans_on_Hold_Due_to_Market_Conditions" data-published="2026-05-13T15:00:00Z" onclick="toggleRead(this)">
+            <div class="read-badge" title="Click card to mark as read/unread">&#x2713;</div>
+            
+            <div class="card-body">
+                <div class="card-meta">
+                    <span class="source">CoinDesk</span>
+                    <span class="date">May 13, 15:00</span>
+                </div>
+                <h3><a href="https://www.coindesk.com/business/2026/05/13/crypto-wallet-provider-ledger-puts-u-s-ipo-plans-on-hold-due-to-market-conditions" target="_blank" rel="noopener" onclick="event.stopPropagation()">Ledger Puts US IPO Plans on Hold Due to Market Conditions</a></h3>
+                <p>French crypto security firm reassesses potential 4B US listing as volatile conditions weigh on investor appetite for crypto IPOs.</p>
+            </div>
+        </div></div>
+            <h3 class="sub-heading">☁️ Hyperscalers</h3>
+            <div class="cards-grid">
+        <div class="card" data-article-id="eToro_Reiterates_Commitment_to_Crypto_Despite_Falling_Q1_Act" data-published="2026-05-13T10:00:00Z" onclick="toggleRead(this)">
+            <div class="read-badge" title="Click card to mark as read/unread">&#x2713;</div>
+            
+            <div class="card-body">
+                <div class="card-meta">
+                    <span class="source">CoinDesk</span>
+                    <span class="date">May 13, 10:00</span>
+                </div>
+                <h3><a href="https://www.coindesk.com/business/2026/05/13/etoro-reiterates-commitment-to-crypto-despite-falling-activity-in-q1" target="_blank" rel="noopener" onclick="event.stopPropagation()">eToro Reiterates Commitment to Crypto Despite Falling Q1 Activity</a></h3>
+                <p>Trading platform maintains crypto strategy even as first quarter activity declines across the industry.</p>
+            </div>
+        </div>
+        <div class="card" data-article-id="LayerZero_Apologizes_for_292M_Kelp_Exploit_Configuration_Mis" data-published="2026-05-13T09:00:00Z" onclick="toggleRead(this)">
+            <div class="read-badge" title="Click card to mark as read/unread">&#x2713;</div>
+            
+            <div class="card-body">
+                <div class="card-meta">
+                    <span class="source">CoinDesk</span>
+                    <span class="date">May 13, 09:00</span>
+                </div>
+                <h3><a href="https://www.coindesk.com/tech/2026/05/09/layerzero-says-it-made-a-mistake-in-usd292-million-kelp-exploit" target="_blank" rel="noopener" onclick="event.stopPropagation()">LayerZero Apologizes for 292M Kelp Exploit Configuration Mistake</a></h3>
+                <p>Cross-chain protocol admits it allowed its DVN to act as single point of failure for high-value transactions.</p>
             </div>
         </div></div></section>
 </main>
@@ -333,19 +377,37 @@ function toggleFilter() {
 }
 
 function applyFilter() {
+    const range = document.getElementById('date-range').value;
+    const now = new Date();
+    const todayStart = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+    const sevenDaysAgo = new Date(now.getTime() - 7 * 24 * 60 * 60 * 1000);
+
     document.querySelectorAll('.card[data-article-id]').forEach(card => {
-        if (showUnreadOnly && card.classList.contains('read')) {
-            card.classList.add('hidden');
-        } else {
-            card.classList.remove('hidden');
+        let hidden = false;
+        // Date filter
+        const pub = card.dataset.published;
+        if (pub) {
+            const pubDate = new Date(pub);
+            if (range === 'today' && pubDate < todayStart) hidden = true;
+            if (range === '7days' && pubDate < sevenDaysAgo) hidden = true;
         }
+        // Unread filter
+        if (showUnreadOnly && card.classList.contains('read')) hidden = true;
+
+        card.classList.toggle('hidden', hidden);
     });
+    updateStats();
+}
+
+function applyDateFilter() {
+    applyFilter();
 }
 
 function updateStats() {
+    const visible = document.querySelectorAll('.card[data-article-id]:not(.hidden)').length;
+    const read = document.querySelectorAll('.card[data-article-id]:not(.hidden).read').length;
     const total = document.querySelectorAll('.card[data-article-id]').length;
-    const read = document.querySelectorAll('.card.read').length;
-    document.getElementById('stats').textContent = `${read}/${total} read`;
+    document.getElementById('stats').textContent = `${visible} shown | ${read} read of ${total}`;
 }
 
 function refreshFeed() {
@@ -365,7 +427,7 @@ document.addEventListener('DOMContentLoaded', () => {
             card.classList.add('read');
         }
     });
-    updateStats();
+    applyFilter();
 });
 </script>
 </body>
