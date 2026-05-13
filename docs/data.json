@@ -7,27 +7,27 @@
       "color": "#ffb900",
       "articles": [
         {
-          "title": "Nova Folding Scheme Achieves New Performance Benchmarks for Settlement",
-          "description": "Microsoft Research announces improvements to Nova folding-based ZKP system, reducing prover time by 3x for institutional settlement workloads.",
-          "url": "https://www.coindesk.com/tech/zero-knowledge-proofs/",
+          "title": "Zcash to Roll Out Quantum-Recoverable Wallets, Go Quantum-Proof by 2027",
+          "description": "Zcash announces plans for quantum-resistant zero-knowledge proof systems to protect financial transactions from future quantum computing threats.",
+          "url": "https://www.coindesk.com/tech/2026/05/08/zcash-to-roll-out-quantum-recoverable-wallets-within-a-month-go-quantum-proof-by-2027",
           "source": "CoinDesk",
-          "published": "2026-05-13T08:00:00Z",
+          "published": "2026-05-08T12:00:00Z",
           "image": ""
         },
         {
-          "title": "DTCC Uses Zero-Knowledge Proofs for Privacy-Preserving Clearing",
-          "description": "DTCC completes Phase 2 of digital securities pilot with ZKP-based verification of tokenized Treasury securities.",
-          "url": "https://www.reuters.com/technology/",
-          "source": "Reuters",
-          "published": "2026-05-13T06:00:00Z",
+          "title": "DTCC Moves DTC-Custodied Treasuries Onchain via Canton Network",
+          "description": "DTCC brings custodied Treasury securities onchain using Canton Network privacy-preserving blockchain infrastructure.",
+          "url": "https://blockworks.co/news/cantons-rwa-rails",
+          "source": "Blockworks",
+          "published": "2026-01-01T10:00:00Z",
           "image": ""
         },
         {
-          "title": "Goldman Sachs Explores ZK-Rollups for Cross-Border FX Settlement",
-          "description": "Investment bank tests zero-knowledge rollup technology to compress and verify foreign exchange trades.",
-          "url": "https://www.bloomberg.com/crypto",
-          "source": "Bloomberg",
-          "published": "2026-05-12T14:00:00Z",
+          "title": "Ethereum Foundation Unveils Clear Signing Standard Against Phishing",
+          "description": "New standard aims to prevent billions in losses from phishing attacks by making transaction approvals safer with cryptographic verification.",
+          "url": "https://www.coindesk.com/tech/2026/05/12/the-ethereum-foundation-unveils-new-clear-signing-standard-to-stop-users-from-approving-malicious-crypto-transactions",
+          "source": "CoinDesk",
+          "published": "2026-05-12T09:00:00Z",
           "image": ""
         }
       ]
@@ -38,27 +38,27 @@
       "color": "#e6a200",
       "articles": [
         {
-          "title": "EU Digital Identity Wallet to Use ZKP for Age Verification",
-          "description": "European Commission adopts zero-knowledge proofs for privacy-preserving credential verification in digital identity wallets.",
-          "url": "https://www.wired.com/tag/zero-knowledge-proofs/",
-          "source": "Wired",
-          "published": "2026-05-13T10:00:00Z",
+          "title": "Solana Alpenglow Consensus Overhaul Live for Testing",
+          "description": "The biggest consensus overhaul in Solana history brings new cryptographic proving mechanisms to the network testing environment.",
+          "url": "https://www.coindesk.com/tech/2026/05/11/the-biggest-consensus-overhaul-in-solana-history-is-officially-live-for-testing",
+          "source": "CoinDesk",
+          "published": "2026-05-11T14:00:00Z",
           "image": ""
         },
         {
-          "title": "NHS Pilots ZKP-Based Patient Consent Verification",
-          "description": "UK health service tests zero-knowledge proofs for cross-hospital data sharing without revealing medical records.",
-          "url": "https://www.healthcareitnews.com/blockchain",
-          "source": "Healthcare IT News",
-          "published": "2026-05-12T16:00:00Z",
+          "title": "AI Agents and ZKP Converge at Consensus Miami Hackathon",
+          "description": "Startups combine AI agents with zero-knowledge proofs for privacy-preserving autonomous systems at major crypto hackathon.",
+          "url": "https://www.coindesk.com/tech/2026/05/08/ai-agents-fueled-a-frenzy-of-startup-building-at-the-consensus-miami-easya-hackathon",
+          "source": "CoinDesk",
+          "published": "2026-05-08T11:00:00Z",
           "image": ""
         },
         {
-          "title": "Stanford Research: ZKPs Enable Private Supply Chain Audits",
-          "description": "New paper shows how ZKPs allow suppliers to prove ESG compliance without revealing proprietary processes.",
-          "url": "https://www.technologyreview.com/topic/computing/",
-          "source": "MIT Technology Review",
-          "published": "2026-05-12T12:00:00Z",
+          "title": "Ronin Transitions to Ethereum Layer 2 with ZK Proving",
+          "description": "Gaming blockchain Ronin announces transition from independent sidechain to Ethereum L2, leveraging zero-knowledge proofs for security.",
+          "url": "https://www.coindesk.com/tech/2026/05/11/ronin-set-to-transition-to-ethereum-layer-2-from-independent-sidechain",
+          "source": "CoinDesk",
+          "published": "2026-05-11T08:00:00Z",
           "image": ""
         }
       ]
@@ -69,27 +69,27 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "JPMorgan Expands Tokenized Deposit Network to 5 Countries",
-          "description": "Major expansion of Onyx platform for cross-border wholesale payments using tokenized deposits.",
-          "url": "https://www.bloomberg.com/crypto",
-          "source": "Bloomberg",
-          "published": "2026-05-13T09:00:00Z",
+          "title": "DTCC Moves DTC-Custodied Treasuries Onchain via Canton",
+          "description": "DTCC brings real-world Treasury securities onchain using Canton privacy-preserving DLT, marking major institutional adoption milestone.",
+          "url": "https://blockworks.co/news/cantons-rwa-rails",
+          "source": "Blockworks",
+          "published": "2026-01-01T10:00:00Z",
           "image": ""
         },
         {
-          "title": "EU MiCA Implementation Drives Stablecoin Compliance Wave",
-          "description": "Financial institutions accelerate compliance programs as MiCA enforcement begins across EU.",
-          "url": "https://www.ft.com/digital-assets",
-          "source": "FT",
-          "published": "2026-05-12T15:00:00Z",
+          "title": "Ranger ICO Could Re-Accelerate MetaDAO Volumes and Revenue",
+          "description": "New token sale on MetaDAO governance platform signals growing institutional interest in decentralized decision markets.",
+          "url": "https://blockworks.co/news/rangers-ico-metadao",
+          "source": "Blockworks",
+          "published": "2026-01-06T09:00:00Z",
           "image": ""
         },
         {
-          "title": "BlackRock Tokenized Fund Surpasses 2B in Assets",
-          "description": "BUIDL fund on Ethereum becomes largest tokenized money market fund attracting institutional allocators.",
-          "url": "https://www.theblock.co/latest",
-          "source": "The Block",
-          "published": "2026-05-12T11:00:00Z",
+          "title": "LayerZero Acknowledges Mistake in 292M Kelp Exploit Response",
+          "description": "Cross-chain messaging protocol admits error in handling of major exploit, raising questions about bridge security for institutional users.",
+          "url": "https://www.coindesk.com/tech/2026/05/09/layerzero-says-it-made-a-mistake-in-usd292-million-kelp-exploit",
+          "source": "CoinDesk",
+          "published": "2026-05-09T15:00:00Z",
           "image": ""
         }
       ]
@@ -100,19 +100,19 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Maersk Scales Blockchain Supply Chain Tracking to 12 Ports",
-          "description": "Shipping giant expands DLT tracking for real-time cargo provenance and customs clearance.",
-          "url": "https://www.supplychaindive.com/topic/technology/",
-          "source": "Supply Chain Dive",
-          "published": "2026-05-13T05:00:00Z",
+          "title": "Vitalik Buterin Calls for Trustless Reset at DevConnect Buenos Aires",
+          "description": "Ethereum co-founder and community push for renewed focus on decentralized, trustless systems across industries beyond just finance.",
+          "url": "https://blockworks.co/news/ethereum-trustless-manifesto",
+          "source": "Blockworks",
+          "published": "2025-11-17T12:00:00Z",
           "image": ""
         },
         {
-          "title": "Energy Web Foundation Launches Carbon Credit Registry on Chain",
-          "description": "Blockchain-based registry enables transparent carbon credit issuance and retirement for utilities.",
-          "url": "https://www.greenbiz.com/collections/blockchain",
-          "source": "GreenBiz",
-          "published": "2026-05-12T13:00:00Z",
+          "title": "Ancient Inca Sites May Have Used Blockchain-Like Public Ledger Systems",
+          "description": "Research suggests the need for public verifiable ledger systems predates modern blockchain by centuries.",
+          "url": "https://blockworks.co/news/inca-blockchain",
+          "source": "Blockworks",
+          "published": "2025-11-18T10:00:00Z",
           "image": ""
         }
       ]
@@ -127,19 +127,19 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Succinct Labs Raises 55M Series B for ZK Prover Network",
-              "description": "SP1 prover network startup secures funding to expand enterprise proof marketplace.",
-              "url": "https://techcrunch.com/category/crypto/",
-              "source": "TechCrunch",
-              "published": "2026-05-13T10:00:00Z",
+              "title": "AI Agents Fuel Startup Building Frenzy at Consensus Miami",
+              "description": "New wave of crypto startups combine AI agents with blockchain infrastructure at major industry hackathon.",
+              "url": "https://www.coindesk.com/tech/2026/05/08/ai-agents-fueled-a-frenzy-of-startup-building-at-the-consensus-miami-easya-hackathon",
+              "source": "CoinDesk",
+              "published": "2026-05-08T11:00:00Z",
               "image": ""
             },
             {
-              "title": "Fireblocks Launches Institutional DeFi Access Layer",
-              "description": "Custody platform enables banks to access DeFi through permissioned compliance wrappers.",
-              "url": "https://blockworks.co/news",
+              "title": "Lighter LIT Launches Trading at Hyperliquid-Level Fee Multiples",
+              "description": "New DeFi trading platform enters market competing directly with Hyperliquid on fees and execution speed.",
+              "url": "https://blockworks.co/news/cantons-rwa-rails",
               "source": "Blockworks",
-              "published": "2026-05-12T16:00:00Z",
+              "published": "2026-01-01T10:00:00Z",
               "image": ""
             }
           ]
@@ -149,19 +149,19 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "Azure Expands Confidential Computing for Digital Asset Workloads",
-              "description": "Microsoft expands SGX/SNP enclave availability to 12 new regions for blockchain and ZKP workloads.",
-              "url": "https://www.zdnet.com/topic/cloud/",
-              "source": "ZDNet",
-              "published": "2026-05-13T11:00:00Z",
+              "title": "Solana Alpenglow Upgrade Marks Biggest Cloud Infrastructure Shift",
+              "description": "Major protocol upgrade requires validator infrastructure changes across cloud providers hosting Solana nodes.",
+              "url": "https://www.coindesk.com/tech/2026/05/13/the-protocol-solana-s-alpenglow-upgrade-is-live-for-testing",
+              "source": "CoinDesk",
+              "published": "2026-05-13T14:00:00Z",
               "image": ""
             },
             {
-              "title": "AWS Adds Managed Blockchain Node Support for 3 New Chains",
-              "description": "Amazon expands managed node infrastructure for Ethereum, Polygon, and Avalanche.",
-              "url": "https://aws.amazon.com/blogs/blockchain/",
-              "source": "AWS Blog",
-              "published": "2026-05-12T18:00:00Z",
+              "title": "Some Systems Improve by Failing - And Crypto Has No Choice",
+              "description": "Analysis of how hyperscaler-grade resilience patterns are being adopted by blockchain infrastructure providers.",
+              "url": "https://blockworks.co/news/failure-is-an-option",
+              "source": "Blockworks",
+              "published": "2025-12-31T09:00:00Z",
               "image": ""
             }
           ]
