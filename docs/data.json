@@ -1,0 +1,133 @@
+{
+  "date": "May 13, 2026",
+  "categories": {
+    "zkp": {
+      "title": "Zero-Knowledge Proofs",
+      "icon": "🛡️",
+      "color": "#ffb900",
+      "articles": [
+        {
+          "title": "Nova Folding Scheme Achieves New Performance Benchmarks",
+          "description": "Microsoft Research announces improvements to Nova folding-based ZKP system, reducing prover time by 3x for institutional settlement workloads.",
+          "url": "#",
+          "source": "CoinDesk",
+          "published": "2026-05-13T08:00:00Z",
+          "image": ""
+        },
+        {
+          "title": "Ethereum Foundation Funds ZK Research Grants",
+          "description": "New round of grants targeting zero-knowledge proof scalability and privacy applications in regulated finance.",
+          "url": "#",
+          "source": "The Block",
+          "published": "2026-05-13T06:00:00Z",
+          "image": ""
+        }
+      ]
+    },
+    "finserv": {
+      "title": "Financial Institutions & Digital Assets",
+      "icon": "🏦",
+      "color": "#00a4ef",
+      "articles": [
+        {
+          "title": "DTCC Completes Phase 2 of Digital Securities Pilot on Azure",
+          "description": "DTCC clearing tokenized Treasury securities with privacy-preserving verification using Project Nova.",
+          "url": "#",
+          "source": "Reuters",
+          "published": "2026-05-13T09:00:00Z",
+          "image": ""
+        },
+        {
+          "title": "JPMorgan Expands Tokenized Deposit Network to 5 Countries",
+          "description": "Major expansion of Onyx platform for cross-border wholesale payments using tokenized deposits.",
+          "url": "#",
+          "source": "Bloomberg",
+          "published": "2026-05-13T07:00:00Z",
+          "image": ""
+        },
+        {
+          "title": "EU MiCA Implementation Drives Stablecoin Compliance Wave",
+          "description": "Financial institutions accelerate compliance programs as MiCA enforcement begins across EU.",
+          "url": "#",
+          "source": "FT",
+          "published": "2026-05-12T15:00:00Z",
+          "image": ""
+        }
+      ]
+    },
+    "industries": {
+      "title": "Blockchain Beyond Finance",
+      "icon": "🏥",
+      "color": "#00cc88",
+      "articles": [
+        {
+          "title": "Maersk Scales Blockchain Supply Chain Tracking to 12 Ports",
+          "description": "Shipping giant expands DLT tracking for real-time cargo provenance and customs clearance.",
+          "url": "#",
+          "source": "Supply Chain Dive",
+          "published": "2026-05-13T05:00:00Z",
+          "image": ""
+        },
+        {
+          "title": "NHS Pilots Blockchain for Patient Record Consent",
+          "description": "UK health service tests privacy-preserving consent verification for cross-hospital data sharing.",
+          "url": "#",
+          "source": "Healthcare IT News",
+          "published": "2026-05-12T14:00:00Z",
+          "image": ""
+        }
+      ]
+    },
+    "players": {
+      "title": "Technology Players & Headwinds",
+      "icon": "🚀",
+      "color": "#7b68ee",
+      "subcategories": {
+        "startups": {
+          "title": "Startups",
+          "icon": "💡",
+          "articles": [
+            {
+              "title": "Succinct Labs Raises Series B for ZK Prover Network",
+              "description": "SP1 Hypercube prover network startup secures funding to expand enterprise proof marketplace.",
+              "url": "#",
+              "source": "TechCrunch",
+              "published": "2026-05-13T10:00:00Z",
+              "image": ""
+            },
+            {
+              "title": "Fireblocks Launches Institutional DeFi Access Layer",
+              "description": "Custody platform enables banks to access DeFi protocols through permissioned compliance wrappers.",
+              "url": "#",
+              "source": "Blockworks",
+              "published": "2026-05-12T16:00:00Z",
+              "image": ""
+            }
+          ]
+        },
+        "hyperscalers": {
+          "title": "Hyperscalers",
+          "icon": "☁️",
+          "articles": [
+            {
+              "title": "Azure Expands Confidential Computing for Digital Assets",
+              "description": "Microsoft expands SGX/SNP enclave availability to 12 new regions for blockchain and ZKP workloads.",
+              "url": "#",
+              "source": "ZDNet",
+              "published": "2026-05-13T11:00:00Z",
+              "image": ""
+            },
+            {
+              "title": "AWS Adds Managed Blockchain Node Runner Support",
+              "description": "Amazon expands managed node infrastructure for Ethereum, Polygon, and Avalanche validators.",
+              "url": "#",
+              "source": "AWS Blog",
+              "published": "2026-05-12T18:00:00Z",
+              "image": ""
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Digital Rails Daily</title>
+<style>
+* { margin:0; padding:0; box-sizing:border-box; }
+body { font-family:'Segoe UI',system-ui,sans-serif; background:#0a0f1a; color:#e0e8f0; line-height:1.6; }
+header { background:linear-gradient(135deg,#080d18,#13243b); padding:40px 20px; text-align:center; border-bottom:1px solid #1a3050; }
+header h1 { font-size:2.5rem; font-weight:700; }
+header h1 span { color:#00a4ef; }
+header .date { color:#8899aa; margin-top:8px; font-size:1rem; }
+nav { background:#0d1520; padding:12px 20px; display:flex; gap:16px; justify-content:center; flex-wrap:wrap; border-bottom:1px solid #1a3050; position:sticky; top:0; z-index:100; }
+nav a { color:#8899aa; text-decoration:none; padding:8px 16px; border-radius:8px; font-size:0.9rem; transition:all 0.2s; }
+nav a:hover { background:rgba(0,164,239,0.1); color:#00a4ef; }
+main { max-width:1400px; margin:0 auto; padding:30px 20px; }
+.category { margin-bottom:50px; }
+.category h2 { font-size:1.6rem; font-weight:700; margin-bottom:4px; }
+.cat-icon { font-size:1.4rem; }
+.accent { width:60px; height:3px; border-radius:2px; margin:8px 0 20px; }
+.sub-heading { font-size:1.1rem; color:#8899aa; margin:20px 0 12px; font-weight:600; }
+.cards-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(320px,1fr)); gap:20px; margin-bottom:20px; }
+.card { background:#111927; border:1px solid #1a3050; border-radius:12px; overflow:hidden; transition:transform 0.2s,border-color 0.2s; }
+.card:hover { transform:translateY(-2px); border-color:rgba(0,164,239,0.4); }
+.card img { width:100%; height:160px; object-fit:cover; }
+.card-body { padding:16px; }
+.card-meta { display:flex; justify-content:space-between; font-size:0.75rem; color:#667788; margin-bottom:8px; }
+.card h3 { font-size:0.95rem; font-weight:600; margin-bottom:8px; line-height:1.4; }
+.card h3 a { color:#e0e8f0; text-decoration:none; }
+.card h3 a:hover { color:#00a4ef; }
+.card p { font-size:0.82rem; color:#8899aa; line-height:1.5; }
+footer { text-align:center; padding:30px; color:#445566; font-size:0.8rem; border-top:1px solid #1a3050; }
+.empty { color:#556677; font-style:italic; padding:20px; text-align:center; }
+@media(max-width:768px) { header h1 { font-size:1.8rem; } .cards-grid { grid-template-columns:1fr; } }
+</style>
+</head>
+<body>
+<header>
+    <h1>Digital <span>Rails</span> Daily</h1>
+    <div class="date">📰 May 13, 2026 — Your daily digest of blockchain, ZKP, and digital asset news</div>
+</header>
+<nav>
+    <a href="#zkp">🛡️ ZKP</a>
+    <a href="#finserv">🏦 Financial Institutions</a>
+    <a href="#industries">🏥 Beyond Finance</a>
+    <a href="#players">🚀 Tech Players</a>
+</nav>
+<main>
+
+        <section class="category" id="zkp">
+            <h2><span class="cat-icon">🛡️</span> Zero-Knowledge Proofs</h2>
+            <div class="accent" style="background:#ffb900;"></div><div class="cards-grid">
+        <div class="card">
+            
+            <div class="card-body">
+                <div class="card-meta">
+                    <span class="source">CoinDesk</span>
+                    <span class="date">May 13, 08:00</span>
+                </div>
+                <h3><a href="#" target="_blank" rel="noopener">Nova Folding Scheme Achieves New Performance Benchmarks</a></h3>
+                <p>Microsoft Research announces improvements to Nova folding-based ZKP system, reducing prover time by 3x for institutional settlement workloads.</p>
+            </div>
+        </div>
+        <div class="card">
+            
+            <div class="card-body">
+                <div class="card-meta">
+                    <span class="source">The Block</span>
+                    <span class="date">May 13, 06:00</span>
+                </div>
+                <h3><a href="#" target="_blank" rel="noopener">Ethereum Foundation Funds ZK Research Grants</a></h3>
+                <p>New round of grants targeting zero-knowledge proof scalability and privacy applications in regulated finance.</p>
+            </div>
+        </div></div></section>
+        <section class="category" id="finserv">
+            <h2><span class="cat-icon">🏦</span> Financial Institutions & Digital Assets</h2>
+            <div class="accent" style="background:#00a4ef;"></div><div class="cards-grid">
+        <div class="card">
+            
+            <div class="card-body">
+                <div class="card-meta">
+                    <span class="source">Reuters</span>
+                    <span class="date">May 13, 09:00</span>
+                </div>
+                <h3><a href="#" target="_blank" rel="noopener">DTCC Completes Phase 2 of Digital Securities Pilot on Azure</a></h3>
+                <p>DTCC clearing tokenized Treasury securities with privacy-preserving verification using Project Nova.</p>
+            </div>
+        </div>
+        <div class="card">
+            
+            <div class="card-body">
+                <div class="card-meta">
+                    <span class="source">Bloomberg</span>
+                    <span class="date">May 13, 07:00</span>
+                </div>
+                <h3><a href="#" target="_blank" rel="noopener">JPMorgan Expands Tokenized Deposit Network to 5 Countries</a></h3>
+                <p>Major expansion of Onyx platform for cross-border wholesale payments using tokenized deposits.</p>
+            </div>
+        </div>
+        <div class="card">
+            
+            <div class="card-body">
+                <div class="card-meta">
+                    <span class="source">FT</span>
+                    <span class="date">May 12, 15:00</span>
+                </div>
+                <h3><a href="#" target="_blank" rel="noopener">EU MiCA Implementation Drives Stablecoin Compliance Wave</a></h3>
+                <p>Financial institutions accelerate compliance programs as MiCA enforcement begins across EU.</p>
+            </div>
+        </div></div></section>
+        <section class="category" id="industries">
+            <h2><span class="cat-icon">🏥</span> Blockchain Beyond Finance</h2>
+            <div class="accent" style="background:#00cc88;"></div><div class="cards-grid">
+        <div class="card">
+            
+            <div class="card-body">
+                <div class="card-meta">
+                    <span class="source">Supply Chain Dive</span>
+                    <span class="date">May 13, 05:00</span>
+                </div>
+                <h3><a href="#" target="_blank" rel="noopener">Maersk Scales Blockchain Supply Chain Tracking to 12 Ports</a></h3>
+                <p>Shipping giant expands DLT tracking for real-time cargo provenance and customs clearance.</p>
+            </div>
+        </div>
+        <div class="card">
+            
+            <div class="card-body">
+                <div class="card-meta">
+                    <span class="source">Healthcare IT News</span>
+                    <span class="date">May 12, 14:00</span>
+                </div>
+                <h3><a href="#" target="_blank" rel="noopener">NHS Pilots Blockchain for Patient Record Consent</a></h3>
+                <p>UK health service tests privacy-preserving consent verification for cross-hospital data sharing.</p>
+            </div>
+        </div></div></section>
+        <section class="category" id="players">
+            <h2><span class="cat-icon">🚀</span> Technology Players & Headwinds</h2>
+            <div class="accent" style="background:#7b68ee;"></div>
+            <h3 class="sub-heading">💡 Startups</h3>
+            <div class="cards-grid">
+        <div class="card">
+            
+            <div class="card-body">
+                <div class="card-meta">
+                    <span class="source">TechCrunch</span>
+                    <span class="date">May 13, 10:00</span>
+                </div>
+                <h3><a href="#" target="_blank" rel="noopener">Succinct Labs Raises Series B for ZK Prover Network</a></h3>
+                <p>SP1 Hypercube prover network startup secures funding to expand enterprise proof marketplace.</p>
+            </div>
+        </div>
+        <div class="card">
+            
+            <div class="card-body">
+                <div class="card-meta">
+                    <span class="source">Blockworks</span>
+                    <span class="date">May 12, 16:00</span>
+                </div>
+                <h3><a href="#" target="_blank" rel="noopener">Fireblocks Launches Institutional DeFi Access Layer</a></h3>
+                <p>Custody platform enables banks to access DeFi protocols through permissioned compliance wrappers.</p>
+            </div>
+        </div></div>
+            <h3 class="sub-heading">☁️ Hyperscalers</h3>
+            <div class="cards-grid">
+        <div class="card">
+            
+            <div class="card-body">
+                <div class="card-meta">
+                    <span class="source">ZDNet</span>
+                    <span class="date">May 13, 11:00</span>
+                </div>
+                <h3><a href="#" target="_blank" rel="noopener">Azure Expands Confidential Computing for Digital Assets</a></h3>
+                <p>Microsoft expands SGX/SNP enclave availability to 12 new regions for blockchain and ZKP workloads.</p>
+            </div>
+        </div>
+        <div class="card">
+            
+            <div class="card-body">
+                <div class="card-meta">
+                    <span class="source">AWS Blog</span>
+                    <span class="date">May 12, 18:00</span>
+                </div>
+                <h3><a href="#" target="_blank" rel="noopener">AWS Adds Managed Blockchain Node Runner Support</a></h3>
+                <p>Amazon expands managed node infrastructure for Ethereum, Polygon, and Avalanche validators.</p>
+            </div>
+        </div></div></section>
+</main>
+<footer>
+    Digital Rails Daily &bull; Auto-generated via GitHub Actions &bull; Powered by NewsAPI
+</footer>
+</body>
+</html>
