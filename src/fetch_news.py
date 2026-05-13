@@ -397,19 +397,8 @@ function refreshFeed() {{
     const svg = btn.querySelector('svg');
     svg.classList.add('refresh-spin');
     btn.disabled = true;
-
-    // Reload data.json and rebuild cards
-    fetch('data.json?t=' + Date.now())
-        .then(r => r.json())
-        .then(data => {{
-            // Full page reload to pick up new data
-            location.reload();
-        }})
-        .catch(err => {{
-            svg.classList.remove('refresh-spin');
-            btn.disabled = false;
-            alert('Could not refresh. Check if data.json is available.');
-        }});
+    // Reload the page to pick up any new data
+    setTimeout(() => location.reload(), 300);
 }}
 
 // Initialize: restore read state on page load

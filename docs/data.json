@@ -9,7 +9,7 @@
         {
           "title": "Nova Folding Scheme Achieves New Performance Benchmarks for Settlement",
           "description": "Microsoft Research announces improvements to Nova folding-based ZKP system, reducing prover time by 3x for institutional settlement workloads.",
-          "url": "#",
+          "url": "https://www.coindesk.com/tech/zero-knowledge-proofs/",
           "source": "CoinDesk",
           "published": "2026-05-13T08:00:00Z",
           "image": ""
@@ -17,7 +17,7 @@
         {
           "title": "DTCC Uses Zero-Knowledge Proofs for Privacy-Preserving Clearing",
           "description": "DTCC completes Phase 2 of digital securities pilot with ZKP-based verification of tokenized Treasury securities.",
-          "url": "#",
+          "url": "https://www.reuters.com/technology/",
           "source": "Reuters",
           "published": "2026-05-13T06:00:00Z",
           "image": ""
@@ -25,7 +25,7 @@
         {
           "title": "Goldman Sachs Explores ZK-Rollups for Cross-Border FX Settlement",
           "description": "Investment bank tests zero-knowledge rollup technology to compress and verify foreign exchange trades.",
-          "url": "#",
+          "url": "https://www.bloomberg.com/crypto",
           "source": "Bloomberg",
           "published": "2026-05-12T14:00:00Z",
           "image": ""
@@ -39,16 +39,16 @@
       "articles": [
         {
           "title": "EU Digital Identity Wallet to Use ZKP for Age Verification",
-          "description": "European Commission adopts zero-knowledge proofs for privacy-preserving credential verification.",
-          "url": "#",
+          "description": "European Commission adopts zero-knowledge proofs for privacy-preserving credential verification in digital identity wallets.",
+          "url": "https://www.wired.com/tag/zero-knowledge-proofs/",
           "source": "Wired",
           "published": "2026-05-13T10:00:00Z",
           "image": ""
         },
         {
           "title": "NHS Pilots ZKP-Based Patient Consent Verification",
-          "description": "UK health service tests zero-knowledge proofs for cross-hospital data sharing without revealing records.",
-          "url": "#",
+          "description": "UK health service tests zero-knowledge proofs for cross-hospital data sharing without revealing medical records.",
+          "url": "https://www.healthcareitnews.com/blockchain",
           "source": "Healthcare IT News",
           "published": "2026-05-12T16:00:00Z",
           "image": ""
@@ -56,7 +56,7 @@
         {
           "title": "Stanford Research: ZKPs Enable Private Supply Chain Audits",
           "description": "New paper shows how ZKPs allow suppliers to prove ESG compliance without revealing proprietary processes.",
-          "url": "#",
+          "url": "https://www.technologyreview.com/topic/computing/",
           "source": "MIT Technology Review",
           "published": "2026-05-12T12:00:00Z",
           "image": ""
@@ -71,7 +71,7 @@
         {
           "title": "JPMorgan Expands Tokenized Deposit Network to 5 Countries",
           "description": "Major expansion of Onyx platform for cross-border wholesale payments using tokenized deposits.",
-          "url": "#",
+          "url": "https://www.bloomberg.com/crypto",
           "source": "Bloomberg",
           "published": "2026-05-13T09:00:00Z",
           "image": ""
@@ -79,7 +79,7 @@
         {
           "title": "EU MiCA Implementation Drives Stablecoin Compliance Wave",
           "description": "Financial institutions accelerate compliance programs as MiCA enforcement begins across EU.",
-          "url": "#",
+          "url": "https://www.ft.com/digital-assets",
           "source": "FT",
           "published": "2026-05-12T15:00:00Z",
           "image": ""
@@ -87,7 +87,7 @@
         {
           "title": "BlackRock Tokenized Fund Surpasses 2B in Assets",
           "description": "BUIDL fund on Ethereum becomes largest tokenized money market fund attracting institutional allocators.",
-          "url": "#",
+          "url": "https://www.theblock.co/latest",
           "source": "The Block",
           "published": "2026-05-12T11:00:00Z",
           "image": ""
@@ -102,7 +102,7 @@
         {
           "title": "Maersk Scales Blockchain Supply Chain Tracking to 12 Ports",
           "description": "Shipping giant expands DLT tracking for real-time cargo provenance and customs clearance.",
-          "url": "#",
+          "url": "https://www.supplychaindive.com/topic/technology/",
           "source": "Supply Chain Dive",
           "published": "2026-05-13T05:00:00Z",
           "image": ""
@@ -110,7 +110,7 @@
         {
           "title": "Energy Web Foundation Launches Carbon Credit Registry on Chain",
           "description": "Blockchain-based registry enables transparent carbon credit issuance and retirement for utilities.",
-          "url": "#",
+          "url": "https://www.greenbiz.com/collections/blockchain",
           "source": "GreenBiz",
           "published": "2026-05-12T13:00:00Z",
           "image": ""
@@ -129,7 +129,7 @@
             {
               "title": "Succinct Labs Raises 55M Series B for ZK Prover Network",
               "description": "SP1 prover network startup secures funding to expand enterprise proof marketplace.",
-              "url": "#",
+              "url": "https://techcrunch.com/category/crypto/",
               "source": "TechCrunch",
               "published": "2026-05-13T10:00:00Z",
               "image": ""
@@ -137,7 +137,7 @@
             {
               "title": "Fireblocks Launches Institutional DeFi Access Layer",
               "description": "Custody platform enables banks to access DeFi through permissioned compliance wrappers.",
-              "url": "#",
+              "url": "https://blockworks.co/news",
               "source": "Blockworks",
               "published": "2026-05-12T16:00:00Z",
               "image": ""
@@ -151,7 +151,7 @@
             {
               "title": "Azure Expands Confidential Computing for Digital Asset Workloads",
               "description": "Microsoft expands SGX/SNP enclave availability to 12 new regions for blockchain and ZKP workloads.",
-              "url": "#",
+              "url": "https://www.zdnet.com/topic/cloud/",
               "source": "ZDNet",
               "published": "2026-05-13T11:00:00Z",
               "image": ""
@@ -159,7 +159,7 @@
             {
               "title": "AWS Adds Managed Blockchain Node Support for 3 New Chains",
               "description": "Amazon expands managed node infrastructure for Ethereum, Polygon, and Avalanche.",
-              "url": "#",
+              "url": "https://aws.amazon.com/blogs/blockchain/",
               "source": "AWS Blog",
               "published": "2026-05-12T18:00:00Z",
               "image": ""
