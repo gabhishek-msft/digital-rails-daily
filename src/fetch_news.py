@@ -302,7 +302,7 @@ footer {{ text-align:center; padding:30px; color:#445566; font-size:0.8rem; bord
 <body>
 <header>
     <h1>Digital <span>Rails</span> Daily</h1>
-    <div class="subtitle">Your daily digest of blockchain, ZKP, and digital asset news &mdash; {news_data['date']}</div>
+    <div class="subtitle">Your daily digest of blockchain, ZKP, and digital asset news &mdash; <span id="current-date"></span></div>
 </header>
 <div class="toolbar">
     {nav_links}
@@ -429,6 +429,11 @@ function refreshFeed() {{
 
 // Initialize: restore read state on page load
 document.addEventListener('DOMContentLoaded', () => {{
+    // Set current date in header
+    const now = new Date();
+    const options = {{ year: 'numeric', month: 'long', day: 'numeric' }};
+    document.getElementById('current-date').textContent = now.toLocaleDateString('en-US', options);
+
     const readMap = getReadArticles();
     document.querySelectorAll('.card[data-article-id]').forEach(card => {{
         if (readMap[card.dataset.articleId]) {{
