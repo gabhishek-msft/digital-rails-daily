@@ -1,5 +1,5 @@
 {
-  "date": "May 13, 2026",
+  "date": "May 14, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -7,28 +7,52 @@
       "color": "#ffb900",
       "articles": [
         {
-          "title": "Ethereum Future Hinges on Zero-Knowledge Proofs Says EF Director",
-          "description": "Ethereum Foundation co-executive director Hsiao-Wei Wang describes ZKP as central to Ethereum midterm roadmap with many amazing breakthroughs in past two years.",
-          "url": "https://www.coindesk.com/business/2026/01/11/ethereum-s-future-hinges-on-zero-knowledge-proofs-ef-director-says",
-          "source": "CoinDesk",
-          "published": "2026-05-13T09:00:00Z",
-          "image": ""
+          "title": "XRP Is Quietly Taking Over And These Are The Things That Investors Keep Missing",
+          "description": "Crypto pundit Pumpius has highlighted how XRP is quietly taking over with several upgrades and features on the XRP Ledger (XRPL). In line with this, the pundit also declared that this year will be the altcoin’s best year yet as it “moves the world.” XRP Is Qu…",
+          "url": "http://www.newsbtc.com/xrp-news/xrp-is-quietly-taking-over/",
+          "source": "newsBTC",
+          "published": "2026-05-13T19:00:45Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2026/05/XRP-from-Peakpx-12.jpg?fit=800%2C456"
         },
         {
-          "title": "Citrea Unveils US Treasury-Backed Stablecoin Using ZK Bitcoin Ecosystem",
-          "description": "First stablecoin issued through MoonPay launchpad aims to solve liquidity fragmentation by issuing natively on ZK-powered Citrea Bitcoin L2.",
-          "url": "https://www.coindesk.com/business/2026/01/15/citrea-unveils-u-s-treasury-backed-stablecoin-for-its-bitcoin-ecosystem",
-          "source": "CoinDesk",
-          "published": "2026-05-13T08:00:00Z",
-          "image": ""
+          "title": "What Is Polygon CDK Privacy Upgrade & How Institutions Can Build a Private Blockchain",
+          "description": "Learn what the Polygon CDK privacy upgrade is and how institutions can build a private blockchain with compliance, zero-knowledge proofs, private data handling, and access to global liquidity.",
+          "url": "https://www.c-sharpcorner.com/article/what-is-polygon-cdk-privacy-upgrade-how-institutions-can-build-a-private-block/",
+          "source": "C-sharpcorner.com",
+          "published": "2026-05-13T14:03:42Z",
+          "image": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
         },
         {
-          "title": "Bank of England DLT Challenge Finds Trade Offs for Wholesale Settlement",
-          "description": "BoE and BIS Innovation Hub explore how blockchain and ZK technology could transform wholesale settlement infrastructure.",
-          "url": "https://www.ledgerinsights.com/bank-of-england-dlt-challenge-finds-trade-offs-for-wholesale-settlement/",
-          "source": "Ledger Insights",
-          "published": "2026-05-13T07:00:00Z",
-          "image": ""
+          "title": "Google found the first AI-generated zero-day exploit. It stopped the attack before it started.",
+          "description": "Google has identified the first zero-day exploit it believes was developed with artificial intelligence. The criminal threat actor that built it planned to use it in a mass exploitation event. Google’s Threat Intelligence Group discovered the vulnerability be…",
+          "url": "https://thenextweb.com/news/google-ai-zero-day-exploit-cybersecurity-arms-race/",
+          "source": "The Next Web",
+          "published": "2026-05-12T18:56:00Z",
+          "image": "https://media.thenextweb.com/2026/05/google-ai-zero-day-exploit-cybersecurity-arms-race.avif"
+        },
+        {
+          "title": "AI-Driven Malware and Autonomous Hacking Explained",
+          "description": "Explore the rise of AI-driven malware and autonomous hacking. Understand the technologies, risks, defenses, and future of cybersecurity in the age of intelligent attacks.",
+          "url": "https://www.c-sharpcorner.com/article/ai-driven-malware-and-autonomous-hacking-explained/",
+          "source": "C-sharpcorner.com",
+          "published": "2026-05-12T08:24:48Z",
+          "image": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
+        },
+        {
+          "title": "Govt presents Policy and Program for FY 2026/27",
+          "description": "KATHMANDU: President Ram Chandra Paudel presented the Government of Nepal’s Policy and Programme for the fiscal year 2026/27 before a joint sitting of the Federal Parliament on May 11, 2026, in accordance with Article 95 of the Constitution. The document outl…",
+          "url": "https://english.khabarhub.com/2026/11/548336/",
+          "source": "Khabarhub.com",
+          "published": "2026-05-11T14:30:55Z",
+          "image": "https://english.khabarhub.com/wp-content/uploads/2026/05/Ram-Chandra-Paudel-1.jpg"
+        },
+        {
+          "title": "Polygon reduces block time to 1.75 seconds as payments push accelerates",
+          "description": "Polygon delivered its first block time reduction upgrade since genesis, as the network seeks to position for more high-frequency applications such as private stablecoin payments.",
+          "url": "https://cointelegraph.com/news/polygon-reduces-block-production-time-175-second",
+          "source": "Cointelegraph",
+          "published": "2026-05-07T14:49:54Z",
+          "image": "https://payload.cointelegraph.com/api/article-covers/file/Cube%20blockchain%20science%20scientist%20(1).jpg?prefix=media%2Farticle-covers"
         }
       ]
     },
@@ -38,75 +62,139 @@
       "color": "#e6a200",
       "articles": [
         {
-          "title": "AI Agents Need Identity and Zero-Knowledge Proofs Are the Solution",
-          "description": "ZKPs could become backbone of trusted AI and digital identity, giving individuals and orgs a way to interact safely across platforms and borders.",
-          "url": "https://www.coindesk.com/opinion/2025/11/19/ai-agents-need-identity-and-zero-knowledge-proofs-are-the-solution",
-          "source": "CoinDesk",
-          "published": "2026-05-13T11:00:00Z",
-          "image": ""
+          "title": "Armata Pharmaceuticals Announces First Quarter 2026 Results and Provides Corporate Update",
+          "description": "Entered into secured credit agreement with Innoviva for $25 million maturing in 2029 LOS ANGELES, May 13, 2026 /PRNewswire/ -- Armata Pharmaceuticals, Inc. (NYSE American: ARMP) (\"Armata\" or the \"Company\"), a late clinical-stage biotechnology company focused …",
+          "url": "https://www.prnewswire.com/news-releases/armata-pharmaceuticals-announces-first-quarter-2026-results-and-provides-corporate-update-302771303.html",
+          "source": "PRNewswire",
+          "published": "2026-05-13T20:30:00Z",
+          "image": "https://mma.prnewswire.com/media/884786/Armata_Logo.jpg?p=facebook"
         },
         {
-          "title": "Solana Alpenglow Consensus Overhaul Live for Testing",
-          "description": "Biggest consensus overhaul in Solana history moves to community test cluster with new cryptographic proving mechanisms for validators.",
-          "url": "https://www.coindesk.com/tech/2026/05/13/the-protocol-solana-s-alpenglow-upgrade-is-live-for-testing",
-          "source": "CoinDesk",
-          "published": "2026-05-13T16:48:00Z",
-          "image": ""
+          "title": "Tuya Inc. to Hold Annual General Meeting on June 18, 2026",
+          "description": "SANTA CLARA, Calif., May 13, 2026 /PRNewswire/ -- Tuya Inc. (\"Tuya\" or the \"Company\") (NYSE: TUYA; HKEX: 2391), a global leading AI cloud platform service provider, today announced that it will hold an annual general meeting of the Company's shareholders (the…",
+          "url": "https://www.prnewswire.com/news-releases/tuya-inc-to-hold-annual-general-meeting-on-june-18-2026-302771184.html",
+          "source": "PRNewswire",
+          "published": "2026-05-13T20:30:00Z",
+          "image": null
         },
         {
-          "title": "Ethereum Clear Signing Standard Uses Cryptographic Verification Against Phishing",
-          "description": "New standard aims to prevent billions in losses from phishing by making transaction approvals safer with cryptographic proofs.",
-          "url": "https://www.coindesk.com/tech/2026/05/12/the-ethereum-foundation-unveils-new-clear-signing-standard-to-stop-users-from-approving-malicious-crypto-transactions",
-          "source": "CoinDesk",
-          "published": "2026-05-13T06:00:00Z",
-          "image": ""
+          "title": "Team, Inc. Reports First Quarter 2026 Results",
+          "description": "SUGAR LAND, Texas, May 13, 2026 (GLOBE NEWSWIRE) -- Team, Inc. (NYSE: TISI) (“TEAM” or the “Company”), a global, leading provider of specialty industrial services offering customers access to a full suite of conventional, specialized, and proprietary inspecti…",
+          "url": "https://www.globenewswire.com/news-release/2026/05/13/3294466/0/en/Team-Inc-Reports-First-Quarter-2026-Results.html",
+          "source": "GlobeNewswire",
+          "published": "2026-05-13T20:30:00Z",
+          "image": "https://ml.globenewswire.com/Resource/Download/2884d64b-9a4c-4e75-bdbd-0a3d49059b1c"
+        },
+        {
+          "title": "Ian Walker's death haunted his friends. His sister's love solved the mystery",
+          "description": "Ian Walker was one of the most promising athletes in the country until his life started to unravel, and the search for the truth in his tragic story has finally come to light.",
+          "url": "https://www.abc.net.au/news/2026-05-14/tragic-death-of-ian-walker-and-how-his-abuse-was-uncovered/106591296",
+          "source": "ABC News (AU)",
+          "published": "2026-05-13T20:08:14Z",
+          "image": "https://live-production.wcms.abc-cdn.net.au/62db1919b497ea597bbcba5ba8676504?impolicy=wcms_watermark_news&cropH=1106&cropW=1966&xPos=322&yPos=0&width=862&height=485&imformat=generic"
+        },
+        {
+          "title": "Show HN: DAG-BFT with multi-attribute reputation",
+          "description": "Savitri Network — Rust implementation of a Proof-of-Unity (PoU) blockchain protocol with Byzantine Fault Tolerant (BFT) finalisation - Savitri-Network/savitri-network",
+          "url": "https://github.com/Savitri-Network/savitri-network",
+          "source": "Github.com",
+          "published": "2026-05-13T19:07:14Z",
+          "image": "https://opengraph.githubassets.com/77f2d87a276758bd8f462beffce95b2682cd0622f46586b66b61cc33993dddf3/Savitri-Network/savitri-network"
+        },
+        {
+          "title": "XRP Is Quietly Taking Over And These Are The Things That Investors Keep Missing",
+          "description": "Crypto pundit Pumpius has highlighted how XRP is quietly taking over with several upgrades and features on the XRP Ledger (XRPL). In line with this, the pundit also declared that this year will be the altcoin’s best year yet as it “moves the world.” XRP Is Qu…",
+          "url": "http://www.newsbtc.com/xrp-news/xrp-is-quietly-taking-over/",
+          "source": "newsBTC",
+          "published": "2026-05-13T19:00:45Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2026/05/XRP-from-Peakpx-12.jpg?fit=800%2C456"
+        },
+        {
+          "title": "SAP Unveils Business AI Platform to Power the Autonomous Enterprise",
+          "description": "A bold new vision from SAP will enable customers to use agentic AI accurately, securely, and at scale.",
+          "url": "https://news.sap.com/2026/05/sap-sapphire-keynote-business-ai-platform-power-autonomous-enterprise/",
+          "source": "Sap.com",
+          "published": "2026-05-13T16:01:00Z",
+          "image": "https://news.sap.com/wp-content/blogs.dir/1/files/2026/05/12/SAP_SAPPHIRE25ORL_14708.jpg"
+        },
+        {
+          "title": "What Is Polygon CDK Privacy Upgrade & How Institutions Can Build a Private Blockchain",
+          "description": "Learn what the Polygon CDK privacy upgrade is and how institutions can build a private blockchain with compliance, zero-knowledge proofs, private data handling, and access to global liquidity.",
+          "url": "https://www.c-sharpcorner.com/article/what-is-polygon-cdk-privacy-upgrade-how-institutions-can-build-a-private-block/",
+          "source": "C-sharpcorner.com",
+          "published": "2026-05-13T14:03:42Z",
+          "image": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
         }
       ]
     },
     "finserv": {
-      "title": "Financial Institutions and Digital Assets",
+      "title": "Financial Institutions & Digital Assets",
       "icon": "🏦",
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "NUVA Connects Figure 19B of Tokenized Assets to Ethereum",
-          "description": "Protocol led by veteran BNY executive aims to connect real-world assets with DeFi markets starting with HELOCs and Treasuries.",
-          "url": "https://www.coindesk.com/business/2026/05/13/animoca-backed-nuva-connects-figure-s-usd19-billion-of-tokenized-assets-to-ethereum",
-          "source": "CoinDesk",
-          "published": "2026-05-13T15:00:00Z",
-          "image": ""
+          "title": "What Is AI Mining in Crypto? Top 5 Best AI Mining Platforms to Earn in 2026",
+          "description": "AI mining crypto refers to mining systems that use automation, predictive models, and data-driven tools to support cryptocurrency mining. Machines still perform the actual work,...\nThe post What Is AI Mining in Crypto? Top 5 Best AI Mining Platforms to Earn i…",
+          "url": "https://bitcoinfoundation.org/news/ai/what-is-ai-mining-crypto-top-5-best-ai-mining-platforms-earn-2026/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-05-13T20:24:36Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/05/mining-1.webp"
         },
         {
-          "title": "Charles Schwab Begins US Rollout of Spot Crypto Trading for Retail",
-          "description": "Major brokerage launches spot cryptocurrency trading access for retail customers across the United States.",
-          "url": "https://www.coindesk.com/business/2026/05/13/charles-schwab-begins-rollout-of-spot-crypto-trading-for-retail",
-          "source": "CoinDesk",
-          "published": "2026-05-13T10:00:00Z",
-          "image": ""
+          "title": "Caliber Reports First Quarter 2026 Financial Results",
+          "description": "First Quarter Platform Revenue and Adjusted EBITDA Loss In Line with Internal Plan; Caliber Reaffirms 2026 Full-Year Guidance First Quarter Platform Revenue and Adjusted EBITDA Loss In Line with Internal Plan; Caliber Reaffirms 2026 Full-Year Guidance",
+          "url": "https://www.globenewswire.com/news-release/2026/05/13/3294450/0/en/Caliber-Reports-First-Quarter-2026-Financial-Results.html",
+          "source": "GlobeNewswire",
+          "published": "2026-05-13T20:15:00Z",
+          "image": "https://ml.globenewswire.com/Resource/Download/338edb26-153e-4b48-95eb-2738303fb4c7"
         },
         {
-          "title": "JPMorgan Files to Launch New Tokenized Fund as Wall Street Race Heats Up",
-          "description": "JPMorgan enters tokenized fund space as competition intensifies among major Wall Street firms for digital asset products.",
-          "url": "https://www.coindesk.com/business/2026/05/12/jpmorgan-files-to-launch-new-tokenized-fund-as-wall-street-tokenization-race-heats-up",
-          "source": "CoinDesk",
-          "published": "2026-05-13T14:00:00Z",
-          "image": ""
+          "title": "What Is Venice Token? Why This Underrated AI Coin Is Skyrocketing",
+          "description": "So many traders wonder about Venice Token lately. What exactly is it? Why does its price climb while others stall? Could this overlooked AI-based coin...\nThe post What Is Venice Token? Why This Underrated AI Coin Is Skyrocketing appeared first on Bitcoin Foun…",
+          "url": "https://bitcoinfoundation.org/news/altcoins/what-is-venice-token-why-this-underrated-ai-coin-is-skyrocketing/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-05-13T20:11:10Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/05/VVV1-1.webp"
         },
         {
-          "title": "Telecom Giant KDDI Acquires 14.9% Stake in Coincheck for 65M",
-          "description": "Japanese telecom signs business alliance for revenue sharing and customer referrals to expand crypto access in Japan.",
-          "url": "https://www.coindesk.com/business/2026/05/13/telecom-giant-kddi-to-acquire-14-9-stake-in-coincheck-group-in-usd65-million-deal",
-          "source": "CoinDesk",
-          "published": "2026-05-13T15:30:00Z",
-          "image": ""
+          "title": "Is Litecoin Dead? Why Traders Are Losing Confidence in LTC in 2026",
+          "description": "Litecoin still exists. Plain truth, that one. Trickier part hits different though – by 2026, activity inside its network shows signs of life, yet outside...\nThe post Is Litecoin Dead? Why Traders Are Losing Confidence in LTC in 2026 appeared first on Bitcoin …",
+          "url": "https://bitcoinfoundation.org/news/altcoins/why-traders-are-losing-confidence-in-ltc-in-2026/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-05-13T20:03:22Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/05/Litecoin1-1.webp"
         },
         {
-          "title": "Societe Generale to Accept Tokenized Collateral on Canton Network",
-          "description": "SocGen announces plans to accept tokenized collateral as margin for Prime Services clients and launch repo on Canton.",
-          "url": "https://www.ledgerinsights.com/societe-generale-to-accept-tokenized-collateral-launch-repo-on-canton-network/",
-          "source": "Ledger Insights",
-          "published": "2026-05-13T12:00:00Z",
-          "image": ""
+          "title": "Abaxx Technologies Inc. to List on the Toronto Stock Exchange (TSX)",
+          "description": "TORONTO, May 13, 2026 (GLOBE NEWSWIRE) — Abaxx Technologies Inc. (CBOE:ABXX)(OTCQX:ABXXF) (“Abaxx” or the “Company”), a financial software and market infrastructure company, majority shareholder of Abaxx Singapore Pte. Ltd., the owner of Abaxx Commodity Excha…",
+          "url": "https://financialpost.com/globe-newswire/abaxx-technologies-inc-to-list-on-the-toronto-stock-exchange-tsx",
+          "source": "Financial Post",
+          "published": "2026-05-13T20:00:38Z",
+          "image": null
+        },
+        {
+          "title": "Senators File Clarity Act Amendments on DeFi, Trump Family, and Jeffrey Epstein",
+          "description": "The Senate Banking Committee will vote tomorrow on the new additions to the crypto bill, before deciding whether to refer it to the Senate floor.",
+          "url": "https://decrypt.co/367781/clarity-act-amendments-defi-trump-family-jeffrey-epstein",
+          "source": "Decrypt",
+          "published": "2026-05-13T19:35:48Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/us-capitol-decrypt-style-01-gID_7.jpg"
+        },
+        {
+          "title": "5 Things to Know about the CLARITY Act",
+          "description": "The US Senate Banking Committee unveiled the latest version of the CLARITY Act this week. The Act aims to establish a clear regulatory framework for digital assets. The CLARITY Act offers enforceable guardrails for digital asset markets in an effort to protec…",
+          "url": "https://finovate.com/5-things-to-know-about-the-clarity-act/",
+          "source": "Finovate.com",
+          "published": "2026-05-13T19:32:35Z",
+          "image": null
+        },
+        {
+          "title": "The crypto Clarity Act returns to the Senate this week. The banks are already trying to kill it.",
+          "description": "Hello and welcome to Regulator, the newsletter for Verge subscribers that goes into tech shenanigans that take place in the backrooms of Washington. Really, it sometimes does feel like the online series The Backrooms: a parallel universe with no internal logi…",
+          "url": "https://www.theverge.com/column/929752/the-crypto-clarity-act-returns-to-the-senate-this-week-the-banks-are-already-trying-to-kill-it",
+          "source": "The Verge",
+          "published": "2026-05-13T19:11:58Z",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25263345/STK432_Government_A_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
         }
       ]
     },
@@ -116,25 +204,73 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Ronin Transitions to Ethereum Layer 2 from Independent Sidechain",
-          "description": "Gaming blockchain Ronin executes hard fork to become Ethereum L2, improving security while maintaining high throughput for gaming.",
-          "url": "https://www.coindesk.com/tech/2026/05/11/ronin-set-to-transition-to-ethereum-layer-2-from-independent-sidechain",
-          "source": "CoinDesk",
-          "published": "2026-05-13T08:00:00Z",
-          "image": ""
+          "title": "What Is AI Mining in Crypto? Top 5 Best AI Mining Platforms to Earn in 2026",
+          "description": "AI mining crypto refers to mining systems that use automation, predictive models, and data-driven tools to support cryptocurrency mining. Machines still perform the actual work,...\nThe post What Is AI Mining in Crypto? Top 5 Best AI Mining Platforms to Earn i…",
+          "url": "https://bitcoinfoundation.org/news/ai/what-is-ai-mining-crypto-top-5-best-ai-mining-platforms-earn-2026/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-05-13T20:24:36Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/05/mining-1.webp"
         },
         {
-          "title": "Metaplanet Delays Preferred Share Listing Amid Japanese Market Structure",
-          "description": "Bitcoin treasury company navigates challenging Japanese market structure for its preferred share listing plans.",
-          "url": "https://www.coindesk.com/markets/2026/05/13/metaplanet-delays-preferred-share-listing-amid-challenging-japanese-market-structure",
-          "source": "CoinDesk",
-          "published": "2026-05-13T17:00:00Z",
-          "image": ""
+          "title": "Caliber Reports First Quarter 2026 Financial Results",
+          "description": "First Quarter Platform Revenue and Adjusted EBITDA Loss In Line with Internal Plan; Caliber Reaffirms 2026 Full-Year Guidance First Quarter Platform Revenue and Adjusted EBITDA Loss In Line with Internal Plan; Caliber Reaffirms 2026 Full-Year Guidance",
+          "url": "https://www.globenewswire.com/news-release/2026/05/13/3294450/0/en/Caliber-Reports-First-Quarter-2026-Financial-Results.html",
+          "source": "GlobeNewswire",
+          "published": "2026-05-13T20:15:00Z",
+          "image": "https://ml.globenewswire.com/Resource/Download/338edb26-153e-4b48-95eb-2738303fb4c7"
+        },
+        {
+          "title": "What Is Venice Token? Why This Underrated AI Coin Is Skyrocketing",
+          "description": "So many traders wonder about Venice Token lately. What exactly is it? Why does its price climb while others stall? Could this overlooked AI-based coin...\nThe post What Is Venice Token? Why This Underrated AI Coin Is Skyrocketing appeared first on Bitcoin Foun…",
+          "url": "https://bitcoinfoundation.org/news/altcoins/what-is-venice-token-why-this-underrated-ai-coin-is-skyrocketing/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-05-13T20:11:10Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/05/VVV1-1.webp"
+        },
+        {
+          "title": "Is Litecoin Dead? Why Traders Are Losing Confidence in LTC in 2026",
+          "description": "Litecoin still exists. Plain truth, that one. Trickier part hits different though – by 2026, activity inside its network shows signs of life, yet outside...\nThe post Is Litecoin Dead? Why Traders Are Losing Confidence in LTC in 2026 appeared first on Bitcoin …",
+          "url": "https://bitcoinfoundation.org/news/altcoins/why-traders-are-losing-confidence-in-ltc-in-2026/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-05-13T20:03:22Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/05/Litecoin1-1.webp"
+        },
+        {
+          "title": "How to Buy Poly Truth ($PTRUE): The AI Prediction Market Tool Explained",
+          "description": "Prediction markets have been growing fast, from crypto price bets to election forecasting and sports outcomes. But there's a persistent problem most platforms don't address: users are essentially guessing. They pick a side based on gut feeling, social media n…",
+          "url": "https://cryptoslate.com/how-to-buy-poly-truth-ptrue-the-ai-prediction-market-tool-explained/",
+          "source": "CryptoSlate",
+          "published": "2026-05-13T16:30:04Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/05/polytruth-cover.jpg"
+        },
+        {
+          "title": "Supply Chain Management Market to Reach USD 93.9 Billion, Globally, by 2034 at 10.9% CAGR: Allied Market Research",
+          "description": "The Supply Chain Management (SCM) market is witnessing steady adoption across manufacturing companies, retail enterprises, logistics providers, healthcare organizations, e-commerce platforms, and government agencies due to its critical role in enhancing opera…",
+          "url": "https://www.prnewswire.com/news-releases/supply-chain-management-market-to-reach-usd-93-9-billion-globally-by-2034-at-10-9-cagr-allied-market-research-302771121.html",
+          "source": "PRNewswire",
+          "published": "2026-05-13T14:49:00Z",
+          "image": "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook"
+        },
+        {
+          "title": "Fireblocks integrates RAW signing with Iagon’s Cardano nodes for institutional ADA access",
+          "description": "The integration enhances institutional engagement with Cardano, potentially increasing ADA liquidity and influencing network governance.\nThe post Fireblocks integrates RAW signing with Iagon’s Cardano nodes for institutional ADA access appeared first on Crypt…",
+          "url": "https://cryptobriefing.com/fireblocks-iagon-cardano-ada-integration/",
+          "source": "Crypto Briefing",
+          "published": "2026-05-13T14:35:59Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/13103558/announcing-our-support-for-cardano-ada-1-800x420.jpeg"
+        },
+        {
+          "title": "What Is a Stablecoin Sandwich and How Does It Work",
+          "description": "Learn what a stablecoin sandwich is, how it works in cross-border payments, and why companies like Stripe, Visa, and Mastercard use this model for faster and cheaper global settlements.",
+          "url": "https://www.c-sharpcorner.com/article/what-is-a-stablecoin-sandwich-and-how-does-it-work/",
+          "source": "C-sharpcorner.com",
+          "published": "2026-05-13T14:09:50Z",
+          "image": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
         }
       ]
     },
     "players": {
-      "title": "Technology Players and Headwinds",
+      "title": "Technology Players & Headwinds",
       "icon": "🚀",
       "color": "#7b68ee",
       "subcategories": {
@@ -143,28 +279,36 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Zero-Knowledge Identity Startup Self Raises 9M with Points Program",
-              "description": "Self raised 9M to expand its ZKP identity platform and introduced rewards program to drive on-chain verification adoption.",
-              "url": "https://www.coindesk.com/business/2025/11/13/zero-knowledge-identity-startup-self-raises-usd9m-introduces-points-program",
-              "source": "CoinDesk",
-              "published": "2026-05-13T13:00:00Z",
-              "image": ""
+              "title": "Elliptic reels in $120M for its cryptocurrency analytics platform",
+              "description": "Elliptic Enterprises Ltd., a startup that helps crypto industry players detect illicit blockchain transactions, has raised $120 million in funding. The startup stated in its announcement of the Series D round today that growth equity firm One Peak was the lea…",
+              "url": "https://siliconangle.com/2026/05/12/elliptic-reels-120m-cryptocurrency-analytics-platform/",
+              "source": "SiliconANGLE News",
+              "published": "2026-05-12T20:22:22Z",
+              "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/Elliptic.png"
             },
             {
-              "title": "Stablecoin Yield Infrastructure Project Raises 13.5M Led by Sky Ecosystem",
-              "description": "New DeFi infrastructure startup secures funding to build stablecoin yield products for institutional market.",
-              "url": "https://www.coindesk.com/business/2026/05/12/stablecoin-yield-infrastructure-project-raises-usd13-5m-in-round-led-by-sky-ecosystem",
-              "source": "CoinDesk",
-              "published": "2026-05-13T11:00:00Z",
-              "image": ""
+              "title": "Helsing aims to raise $1.2B at $18B valuation led by Dragoneer",
+              "description": "Helsing's valuation surge underscores the growing strategic importance of AI in defense, reshaping investment priorities and military tech dynamics.\nThe post Helsing aims to raise $1.2B at $18B valuation led by Dragoneer appeared first on Crypto Briefing.",
+              "url": "https://cryptobriefing.com/helsing-raise-1-2b-18b-valuation-dragoneer/",
+              "source": "Crypto Briefing",
+              "published": "2026-05-12T18:09:07Z",
+              "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/12140907/europe-s-defense-ai-giant-helsing-funding-nears-1-2b-at-18b--1-800x420.jpeg"
             },
             {
-              "title": "Ledger Puts US IPO Plans on Hold Due to Market Conditions",
-              "description": "French crypto security firm reassesses potential 4B US listing as volatile conditions weigh on investor appetite for crypto IPOs.",
-              "url": "https://www.coindesk.com/business/2026/05/13/crypto-wallet-provider-ledger-puts-u-s-ipo-plans-on-hold-due-to-market-conditions",
-              "source": "CoinDesk",
-              "published": "2026-05-13T15:00:00Z",
-              "image": ""
+              "title": "Sky Ecosystem, Plasma Co-Lead $13.5M Raise for Yield Platform 'Osero'",
+              "description": "Stablecoin yield startup Osero is also launching with access to a $2.5B USDS credit facility extended by Sky Ecosystem.",
+              "url": "https://www.bankless.com/read/news/sky-ecosystem-plamsa-co-lead-13-5m-raise-for-yield-platform-osero",
+              "source": "Bankless.com",
+              "published": "2026-05-12T17:57:05Z",
+              "image": "https://s.yimg.com/ny/api/res/1.2/QK5bI6pmdAMLuWBBGkoGmQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/bankless_325/f3943728b3edb8e5fbf780fc4c156f68"
+            },
+            {
+              "title": "Kevin Hartz: AI branding lacks genuine innovation, larger VC funds exhibit arrogance, and the startup landscape is shifting towards younger founders | Uncapped with Jack Altman",
+              "description": "Venture capital's shift towards younger founders signals a tech industry evolution amid bubble concerns.\nThe post Kevin Hartz: AI branding lacks genuine innovation, larger VC funds exhibit arrogance, and the startup landscape is shifting towards younger found…",
+              "url": "https://cryptobriefing.com/kevin-hartz-ai-branding-lacks-genuine-innovation-larger-vc-funds-exhibit-arrogance-and-the-startup-landscape-is-shifting-towards-younger-founders-uncapped-with-jack-altman/",
+              "source": "Crypto Briefing",
+              "published": "2026-05-12T10:03:59Z",
+              "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/03/10151644/podcast-cover-uncapped-800x420.jpg"
             }
           ]
         },
@@ -173,20 +317,68 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "eToro Reiterates Commitment to Crypto Despite Falling Q1 Activity",
-              "description": "Trading platform maintains crypto strategy even as first quarter activity declines across the industry.",
-              "url": "https://www.coindesk.com/business/2026/05/13/etoro-reiterates-commitment-to-crypto-despite-falling-activity-in-q1",
-              "source": "CoinDesk",
-              "published": "2026-05-13T10:00:00Z",
-              "image": ""
+              "title": "Supply Chain Management Market to Reach USD 93.9 Billion, Globally, by 2034 at 10.9% CAGR: Allied Market Research",
+              "description": "The Supply Chain Management (SCM) market is witnessing steady adoption across manufacturing companies, retail enterprises, logistics providers, healthcare organizations, e-commerce platforms, and government agencies due to its critical role in enhancing opera…",
+              "url": "https://www.prnewswire.com/news-releases/supply-chain-management-market-to-reach-usd-93-9-billion-globally-by-2034-at-10-9-cagr-allied-market-research-302771121.html",
+              "source": "PRNewswire",
+              "published": "2026-05-13T14:49:00Z",
+              "image": "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook"
             },
             {
-              "title": "LayerZero Apologizes for 292M Kelp Exploit Configuration Mistake",
-              "description": "Cross-chain protocol admits it allowed its DVN to act as single point of failure for high-value transactions.",
-              "url": "https://www.coindesk.com/tech/2026/05/09/layerzero-says-it-made-a-mistake-in-usd292-million-kelp-exploit",
+              "title": "Coinbase-backed x402 adds batch settlement for AI agent payments",
+              "description": "Coinbase launched batch settlement for the x402 payment protocol, seeking to create a scalable foundation for autonomous AI agents transacting on the blockchain.",
+              "url": "https://cointelegraph.com/news/coinbase-launches-x402-batch-settlement-ai-payments",
+              "source": "Cointelegraph",
+              "published": "2026-05-13T12:05:10Z",
+              "image": "https://resizer.ctmedia.io/cdn-cgi/image/width=1280,format=auto,quality=80,onerror=redirect/https://s3-images.ctmedia.io/media/article-covers/hi-coinbases-x402-crypto-payments-over-http-for-ai-and-apis.jpg"
+            },
+            {
+              "title": "BlockchAIn Appoints Christopher Iannacone to Lead Execution of AI Data Center Conversion",
+              "description": "BlockchAIn Appoints Christopher Iannacone to Lead Execution of AI Data Center Conversion...",
+              "url": "https://www.globenewswire.com/news-release/2026/05/12/3292855/0/en/BlockchAIn-Appoints-Christopher-Iannacone-to-Lead-Execution-of-AI-Data-Center-Conversion.html",
+              "source": "GlobeNewswire",
+              "published": "2026-05-12T12:31:00Z",
+              "image": "https://ml.globenewswire.com/Resource/Download/94b53111-09c3-494f-97f0-3d7a05d435d2"
+            },
+            {
+              "title": "[Latest] Global Clinical Informatics Market Size/Share Worth USD 962.41 Billion by 2035 at a 13.36% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
+              "description": "[220+ Pages Latest Report] According to a market research study published by Custom Market Insights, the demand analysis of Global Clinical Informatics Market size & share revenue was valued at approximately USD 274.64 Billion in 2025 and is expected to reach…",
+              "url": "https://www.globenewswire.com/news-release/2026/05/12/3292553/0/en/Latest-Global-Clinical-Informatics-Market-Size-Share-Worth-USD-962-41-Billion-by-2035-at-a-13-36-CAGR-Custom-Market-Insights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segment.html",
+              "source": "GlobeNewswire",
+              "published": "2026-05-12T08:30:00Z",
+              "image": "https://ml.globenewswire.com/Resource/Download/74609d89-5437-4826-b7b8-31238ea2e65c"
+            },
+            {
+              "title": "The hottest place for startups to strike a deal? The F1 paddock | TechCrunch",
+              "description": "F1 Grands Prix have emerged as a new place to see and be seen if you are a founder or investor.",
+              "url": "https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/",
+              "source": "TechCrunch",
+              "published": "2026-05-10T14:12:56Z",
+              "image": "https://techcrunch.com/wp-content/uploads/2026/05/F1-miami-paddock-Getty.jpg?resize=1200,801"
+            },
+            {
+              "title": "Agentic commerce will run on crypto rails, PayPal and Google reps tell Consensus Miami",
+              "description": "Senior figures from PayPal and Google Cloud said open payment protocols, machine-readable merchant catalogs and multi-party crypto custody are needed to scale agentic commerce.",
+              "url": "https://www.coindesk.com/business/2026/05/10/agentic-commerce-will-run-on-crypto-rails-paypal-and-google-reps-tell-consensus-miami",
               "source": "CoinDesk",
-              "published": "2026-05-13T09:00:00Z",
-              "image": ""
+              "published": "2026-05-10T14:02:06Z",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/5a3a1c73d58c0d900a0709bd5ab1d20c5a56a1eb-2048x1152.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
+            },
+            {
+              "title": "The Praxian Genocidal Kill Chain – Part 1",
+              "description": "In this two-part article series, Iain Davis examines how a class of Silicon Valley oligarchs have set about destabilising the planet in order to achieve their goal of a multipolar world of interconnected smart-city states; that is, a regionalised world that t…",
+              "url": "https://www.activistpost.com/the-praxian-genocidal-kill-chain-part-1/",
+              "source": "Activistpost.com",
+              "published": "2026-05-09T10:00:00Z",
+              "image": "https://www.activistpost.com/wp-content/uploads/2026/05/Praxian_01-1536x982-1.webp"
+            },
+            {
+              "title": "Filecoin (FIL) Price Prediction 2026 – Bullish Scenario, Risks & ROI Potential",
+              "description": "Filecoin is a blockchain-based storage market, a systems-level infrastructure in which users can rent out unused hard drive space instead of relying on centralized providers...\nThe post Filecoin (FIL) Price Prediction 2026 – Bullish Scenario, Risks & ROI Pote…",
+              "url": "https://bitcoinfoundation.org/news/prediction-markets/filecoin-fil-price-prediction-2026-bullish-scenario-risks-roi-potential/",
+              "source": "Bitcoinfoundation.org",
+              "published": "2026-05-08T10:16:59Z",
+              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/05/1-1778148230.webp"
             }
           ]
         }

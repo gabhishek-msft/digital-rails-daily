@@ -98,7 +98,7 @@ def fetch_news_api(query, page_size=5):
     if not NEWS_API_KEY:
         return []
 
-    from_date = (datetime.now() - timedelta(days=2)).strftime("%Y-%m-%d")
+    from_date = (datetime.now() - timedelta(days=7)).strftime("%Y-%m-%d")
     url = (
         f"https://newsapi.org/v2/everything?"
         f"q={quote(query)}&from={from_date}&sortBy=publishedAt"
