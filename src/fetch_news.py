@@ -308,8 +308,8 @@ footer {{ text-align:center; padding:30px; color:#445566; font-size:0.8rem; bord
     {nav_links}
     <span class="divider"></span>
     <select class="date-filter" id="date-range" onchange="applyDateFilter()" title="Filter by date range">
-        <option value="today">Today</option>
         <option value="7days">Last 7 Days</option>
+        <option value="today">Today</option>
     </select>
     <span class="divider"></span>
     <button class="btn" id="btn-refresh" onclick="refreshFeed()" title="Refresh news feed">
