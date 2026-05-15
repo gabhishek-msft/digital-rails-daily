@@ -210,7 +210,7 @@ def generate_html(news_data):
                     <span class="date">{pub_date}</span>
                 </div>
                 <h3><a href="{article.get('url', '#')}" target="_blank" rel="noopener" onclick="event.stopPropagation()">{article.get('title', '')}</a></h3>
-                <p>{article.get('description', '')[:150]}</p>
+                <p>{(article.get('description') or '')[:150]}</p>
             </div>
         </div>"""
 
