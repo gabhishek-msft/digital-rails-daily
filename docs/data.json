@@ -1,11 +1,19 @@
 {
-  "date": "May 15, 2026",
+  "date": "May 16, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "Ripple insider warns XRP holders as fake airdrop scams surge across XRPL",
+          "description": "The XRP Ledger (XRPL) is seeing a drastic rise in fraud attempts targeting its users as the network draws more institutional activity, higher transaction volumes, and renewed attention from XRP traders. On May 14, David Schwartz, the former chief technology o…",
+          "url": "https://cryptoslate.com/ripple-insider-warns-xrp-holders-as-fake-airdrop-scams-surge-across-xrpl/",
+          "source": "CryptoSlate",
+          "published": "2026-05-14T17:05:42Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/05/xrp-airdrop-scam.jpg"
+        },
         {
           "title": "Sensex today | Stock Market Highlights: Sensex gains 789 pts, Nifty ends at 23,689 as US-China trade talks lift investor sentiment",
           "description": "Sensex, Nifty, Share Prices Highlights: Indian shares rose on Thursday, supported by steady earnings ​and signs of progress in U.S.-China trade relations, though sentiment ‌remained fragile as elevated oil prices and foreign ​outflows drove the rupee to anoth…",
@@ -37,22 +45,6 @@
           "source": "C-sharpcorner.com",
           "published": "2026-05-13T14:03:42Z",
           "image": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
-        },
-        {
-          "title": "Google found the first AI-generated zero-day exploit. It stopped the attack before it started.",
-          "description": "Google has identified the first zero-day exploit it believes was developed with artificial intelligence. The criminal threat actor that built it planned to use it in a mass exploitation event. Google’s Threat Intelligence Group discovered the vulnerability be…",
-          "url": "https://thenextweb.com/news/google-ai-zero-day-exploit-cybersecurity-arms-race/",
-          "source": "The Next Web",
-          "published": "2026-05-12T18:56:00Z",
-          "image": "https://media.thenextweb.com/2026/05/google-ai-zero-day-exploit-cybersecurity-arms-race.avif"
-        },
-        {
-          "title": "Govt presents Policy and Program for FY 2026/27",
-          "description": "KATHMANDU: President Ram Chandra Paudel presented the Government of Nepal’s Policy and Programme for the fiscal year 2026/27 before a joint sitting of the Federal Parliament on May 11, 2026, in accordance with Article 95 of the Constitution. The document outl…",
-          "url": "https://english.khabarhub.com/2026/11/548336/",
-          "source": "Khabarhub.com",
-          "published": "2026-05-11T14:30:55Z",
-          "image": "https://english.khabarhub.com/wp-content/uploads/2026/05/Ram-Chandra-Paudel-1.jpg"
         }
       ]
     },
@@ -62,68 +54,68 @@
       "color": "#e6a200",
       "articles": [
         {
-          "title": "Improving security posture with default context-aware access for all SAML applications",
-          "description": null,
-          "url": "https://workspaceupdates.googleblog.com/2026/05/default-CAA-for-SAML.html",
-          "source": "Googleblog.com",
-          "published": "2026-05-14T16:13:41Z",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgS9bgfyuvYjf8KyLOd8lbtGbN2jrgERY5zleZp5jiuT3aKRFpt_3r4j-vKhXRVFNUqAczjfjnQlJ2cErz2achs3bedg8QcY0CB-N93LtmKsXA_l7lk_01gt5SaFt5HpwEi75S3BSzxOX-_IqhjGOpmhjzoqC37C5x57TXdxh1oWxxTaDI6phMvutiOXD2m/w1200-h630-p-k-no-nu/CAA%20for%20SAML.png"
+          "title": "Community Bank discloses security lapse after unauthorized AI app exposure",
+          "description": "The incident underscores the urgent need for robust AI governance in banking to prevent internal mishandling of sensitive data.\nThe post Community Bank discloses security lapse after unauthorized AI app exposure appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/community-bank-unauthorized-ai-data-breach/",
+          "source": "Crypto Briefing",
+          "published": "2026-05-15T07:57:03Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/15035702/us-bank-discloses-security-lapse-after-sharing-customer-data-1-800x420.jpeg"
         },
         {
-          "title": "Michael Flatley ‘fully’ secures control of Lord of the Dance, bringing end to legal dispute",
-          "description": "Judgment says dancer will ‘operate and run’ shows ‘solely’ through Switzer Consulting Ltd ‘or a subsidiary of that company’",
-          "url": "https://www.irishtimes.com/crime-law/courts/2026/05/14/michael-flatley-fully-secures-control-of-lord-of-the-dance-bringing-end-to-legal-dispute/",
-          "source": "The Irish Times",
-          "published": "2026-05-14T16:12:31Z",
-          "image": "https://www.irishtimes.com/resizer/v2/XZLURTCFLZDWVFEELSSOJX5GJM.jpg?smart=true&auth=84a167bf96ea97807b298420915f0e22c93eab8f362008f0dee6a92564678a82&width=1200&height=630"
+          "title": "Spotify Down Again: Drake's Triple Album Frenzy Crashes Service for Thousands on May 15",
+          "description": "Spotify experienced widespread disruptions due to Drake's surprise release of three albums, overwhelming servers and causing user frustration. The incident highlights challenges in handling massive streaming traffic.",
+          "url": "https://www.ibtimes.com.au/drake-triple-album-release-crashes-spotify-1868867",
+          "source": "Ibtimes.com.au",
+          "published": "2026-05-15T07:56:02Z",
+          "image": "https://d.ibtimes.com.au/en/full/1880345/spotify-s-among-winners-wall-street-since-start-year-its-share-price-34-percent.jpg"
         },
         {
-          "title": "Segment Heap support for C++ projects in Visual Studio",
-          "description": "Learn how Visual Studio enables Segment Heap by default for new C++ projects and how to adopt and verify it in existing builds.\nThe post Segment Heap support for C++ projects in Visual Studio appeared first on C++ Team Blog.",
-          "url": "https://devblogs.microsoft.com/cppblog/segment-heap-support-for-c-projects-in-visual-studio/",
-          "source": "Microsoft.com",
-          "published": "2026-05-14T16:09:51Z",
-          "image": "https://devblogs.microsoft.com/cppblog/wp-content/uploads/sites/9/2018/08/cplusplusfeature.png"
+          "title": "Dell Latitude 7310 SupportAssist Utility 5.5.14.0",
+          "description": "The Dell Update - SupportAssist Update Plugin works in conjunction with the Dell Update application to keep your systems recovery environment up to date with the latest version of SupportAssist OS Recovery. SupportAssist OS Recovery is a powerful recovery too…",
+          "url": "https://drivers.softpedia.com/get/laptop-notebook/Dell/Dell-Latitude-7310-SupportAssist-Utility-5-5-14-0.shtml",
+          "source": "Softpedia.com",
+          "published": "2026-05-15T07:47:01Z",
+          "image": "https://cdnssl.softpedia.com/_img/softpedia_logo_rss.png"
         },
         {
-          "title": "ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories",
-          "description": "Everything is still on fire.\nThis week feels dumb in the worst way — bad links, weak checks, fake help desks, shady forum posts, and people turning supply chain attacks into some cursed little game for clout and cash. Half of it feels new. Half of it feels li…",
-          "url": "https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html",
-          "source": "Internet",
-          "published": "2026-05-14T16:07:46Z",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjImYNT-qC7frGzEXeok3KDX_JNMKote6V1FVXIpkAoSEER2z1YyT8dpFq5RtRhBQ0cweEPbBIuioDWFf5rw_Mf-0V6rXR2ZrMh2ISDa7X7NlV9zIGsoLSAnyd_86eVkrR4wU24yxbuCYaAmyGFwlF77YCjvgU3n43P-yFT-pzjsmQ35Oaut1klg62bs_-i/s1700-e365/threatsday-2.jpg"
+          "title": "Save 25% when you buy $50 of select Coca-Cola Products (1 replies)",
+          "description": "BODYARMOR\nCoca-Cola\nCoca-Cola Zero\nCoke Zero\nDiet Coke\nDunkin' Donuts\nFanta\n& More [amazon.com]\n\nPlease report the deal if expired (click report -> expired)\nMy other deals",
+          "url": "https://slickdeals.net/f/19525098-save-25-when-you-buy-50-of-select-coca-cola-products",
+          "source": "Slickdeals.net",
+          "published": "2026-05-15T07:26:17Z",
+          "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/20394168.thumb"
         },
         {
-          "title": "YABATECH matriculates 17,130 students, warns against cultism",
-          "description": "Yaba College of Technology (YABATECH) matriculates 17,130 new students, urging them to champion innovation and shun cultism and examination malpractice.\n\nRead More: https://punchng.com/yabatech-matriculates-17130-students-warns-against-cultism/",
-          "url": "https://punchng.com/yabatech-matriculates-17130-students-warns-against-cultism/",
-          "source": "The Punch",
-          "published": "2026-05-14T16:06:52Z",
-          "image": "https://cdn.punchng.com/2021/04/YABATECH.jpg"
-        },
-        {
-          "title": "The Complete Guide to Freeze-Dried Food: What It Is, How to Use It, and Why It Belongs in Every Pantry",
-          "description": "Everything you need to know about freeze-dried food -- how it works, what to buy first, how to store it, and how to cook with it every day. Includes honest company reviews, meals in a jar, and tips for making pouch meals actually taste good.",
-          "url": "https://thesurvivalmom.com/freeze-dried-food-guide/",
-          "source": "Thesurvivalmom.com",
-          "published": "2026-05-14T15:53:16Z",
-          "image": "https://thesurvivalmom.com/wp-content/uploads/2019/07/freeze-dried-dehydrated1.jpg"
-        },
-        {
-          "title": "How AI is Silently Rewriting the Rules of Cyber Attacks",
-          "description": "Artificial intelligence is altering the cybersecurity landscape, creating new challenges as cybercriminals adopt AI to enhance their tactics. Matthew Berman examines how AI is being used to execute complex attacks, such as AI-driven zero-day exploits and supp…",
-          "url": "https://www.geeky-gadgets.com/autonomous-malware-threats-2026/",
+          "title": "How Beginners Are Going from Zero to Deployed Apps Using Codex",
+          "description": "Codex is an AI-powered coding assistant designed to support developers in creating and deploying applications more efficiently. In his feature, David Ondrej outlines how beginners can progress from no prior experience to launching a fully functional app. A ke…",
+          "url": "https://www.geeky-gadgets.com/codex-ai-full-course-2026/",
           "source": "Geeky Gadgets",
-          "published": "2026-05-14T12:45:00Z",
-          "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/05/zero-day-exploit.jpg"
+          "published": "2026-05-15T07:15:00Z",
+          "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/05/Codex-AI-Generating-A-Web-Application.jpg"
         },
         {
-          "title": "On Interpolatable Archives",
+          "title": "Evolving Classrooms for Diverse Minds and Futures",
+          "description": "Learning something new is, biologically, a transformation of the brain. With each experience, neural connections are reorganized, creating and strengthening synapses. Far more than simply accumulating information, learning is about reconfiguring internal stru…",
+          "url": "https://www.archdaily.com/1041145/evolving-classrooms-for-diverse-minds-and-futures",
+          "source": "ArchDaily",
+          "published": "2026-05-15T06:45:00Z",
+          "image": "https://images.adsttc.com/media/images/69f8/c1a4/c748/940e/b9bf/58d3/large_jpg/if-the-brain-is-fluid-then-the-classroom-cannot-remain-a-cage_50.jpg?1777910201"
+        },
+        {
+          "title": "Ripple Research Lead Reveals What’s Next For The XRP Ledger",
+          "description": "RippleX Head of Research Aanchal Malhotra said the next phase of XRP Ledger development is focused on privacy, zero-knowledge proofs and post-quantum readiness, framing the work as an effort to future-proof the network without compromising its core settlement…",
+          "url": "https://bitcoinist.com/ripple-research-whats-next-for-xrp-ledger/",
+          "source": "Bitcoinist",
+          "published": "2026-05-15T06:00:27Z",
+          "image": "https://bitcoinist.com/wp-content/uploads/2026/05/ChatGPT-Image-14.-Mai-2026-14_33_09.png"
+        },
+        {
+          "title": "On Interpolatable Archives (Clean)",
           "description": "AI Latent Spaces as Shapeshifting Skeleton Libraries and Explosion Drawings bearing cognitive hazards and new opportunities to play.",
-          "url": "https://goodinternet.substack.com/p/interpolatable-archives",
+          "url": "https://goodinternet.substack.com/p/on-interpolatable-archives-clean",
           "source": "Substack.com",
-          "published": "2026-05-14T11:08:11Z",
-          "image": "https://substackcdn.com/image/fetch/$s_!x-Cc!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4c25daa-f288-4113-aaf2-fdb87478950f_1536x886.png"
+          "published": "2026-05-14T20:50:40Z",
+          "image": "https://substackcdn.com/image/fetch/$s_!2VaM!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f430e94-7f15-4396-bf60-3db312d11b5b_1068x514.jpeg"
         }
       ]
     },
@@ -133,68 +125,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Libraries and Public Access to Federal Data: Chris Marcum Talks to the Public Data Project",
-          "description": "On May 7, 2026, Molly Hardy, Project Lead for the Public Data Project, sat down for an interview with Chris Marcum, Senior Fellow for Data Policy at the Data Foundation and former Senior Statistician at the White House Office of Management and Budget. Please …",
-          "url": "https://lil.law.harvard.edu/blog/2026/05/14/libraries-and-public-access-to-federal-data/",
-          "source": "Harvard School of Engineering and Applied Sciences",
-          "published": "2026-05-14T16:00:00Z",
-          "image": "https://lil.law.harvard.edu/assets/thumbs/800x800r/lil-primary-black.png"
+          "title": "How rising crude oil prices and market volatility could impact your personal finances",
+          "description": "Stock market volatility driven by rising crude oil prices, FII sell-offs, and inflation concerns reshapes the personal finance outlook, underscoring the importance of disciplined SIP investing, diversification, and long-term wealth creation.&nbsp;",
+          "url": "https://www.livemint.com/money/personal-finance/how-rising-crude-oil-prices-and-market-volatility-could-impact-your-personal-finances-11778828102818.html",
+          "source": "Livemint",
+          "published": "2026-05-15T07:59:23Z",
+          "image": "https://www.livemint.com/lm-img/img/2026/05/15/1600x900/logo/3-0-137462672-iStock-1093830158-0_1679829829158_1778829646205_ec93f7ec-88a9-43c6-92ea-96103d524fbd.jpg"
         },
         {
-          "title": "Mschf Designs Kit, Capsule for OTB-backed Soccer Club L.R. Vicenza",
-          "description": "The collection is centered on the “golf sucks” tag line and theme envisioned by the Brooklyn-based art collective, known for stirring controversies.",
-          "url": "http://wwd.com/menswear-news/mens-sportswear/mschf-capsule-lr-vicenza-soccer-club-diesel-otb-1238952910/",
-          "source": "WWD",
-          "published": "2026-05-14T16:00:00Z",
-          "image": "https://wwd.com/wp-content/uploads/2026/05/The-L.R.-Vicenza-x-Mschf-campaign.jpg?crop=0px%2C72px%2C2000px%2C1119px&resize=1000%2C563"
+          "title": "Explained: What is US Senate’s CLARITY Act and why does it matter for crypto investors?",
+          "description": "The Republican-led Senate Banking Committee has advanced the long-awaited CLARITY Act, a landmark crypto regulation bill aimed at defining digital assets, resolving SEC–CFTC jurisdiction overlap, and setting rules for decentralised platforms. The move brings …",
+          "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/explained-what-is-us-senates-clarity-act-and-why-does-it-matter-for-crypto-investors/articleshow/131111787.cms",
+          "source": "The Times of India",
+          "published": "2026-05-15T07:57:05Z",
+          "image": "https://img.etimg.com/thumb/msid-131111885,width-1200,height-630,imgsize-88042,overlay-etmarkets/articleshow.jpg"
         },
         {
-          "title": "Matrixdock expands tokenized silver XAGm to Sui for active DeFi use",
-          "description": "Matrixdock's expansion to Sui enhances DeFi's asset diversity, offering new strategies but necessitating scrutiny of custody and audit practices.\nThe post Matrixdock expands tokenized silver XAGm to Sui for active DeFi use appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/matrixdock-tokenized-silver-xagm-sui/",
+          "title": "Arc, Canton and Tempo raise over $1B for privacy-focused blockchains",
+          "description": "The significant funding for privacy-focused blockchains highlights growing institutional interest in secure, scalable digital finance solutions.\nThe post Arc, Canton and Tempo raise over $1B for privacy-focused blockchains appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/arc-canton-tempo-billion-privacy-blockchains/",
           "source": "Crypto Briefing",
-          "published": "2026-05-14T15:44:35Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/14114432/matrixdock-silver-xagm-matrixdock-1-800x420.png"
+          "published": "2026-05-15T07:56:39Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/15035638/arc-canton-and-tempo-surpass-1b-in-funding-as-institutions-b-1-800x420.jpeg"
         },
         {
-          "title": "Vitalik Buterin’s Top Statements: How ETH Price Reacts to Ethereum Founder’s Words",
-          "description": "Most people get it wrong when they think Vitalik runs Ethereum like a boss running a firm. Right off the bat, that idea needs to...\nThe post Vitalik Buterin’s Top Statements: How ETH Price Reacts to Ethereum Founder’s Words appeared first on Bitcoin Foundatio…",
-          "url": "https://bitcoinfoundation.org/news/ethereum/how-eth-price-reacts-to-ethereum-founders-words/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-05-14T15:42:21Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/05/Vitalik1.webp"
+          "title": "JPMorgan Chase Files Application for a Blockchain-Based Money Market Fund Targeting Stablecoin Issuers",
+          "description": "JPMorgan Chase has filed an application with the U.S. Securities and Exchange Commission for a blockchain-based money market fund designed in part for stablecoin issuers. According to the filing, the fund would use blockchain infrastructure developed by Kinex…",
+          "url": "https://dailyhodl.com/2026/05/15/jpmorgan-chase-files-application-for-a-blockchain-based-money-market-fund-targeting-stablecoin-issuers/",
+          "source": "The Daily Hodl",
+          "published": "2026-05-15T07:04:58Z",
+          "image": "https://dailyhodl.com/wp-content/uploads/2025/05/based-on-monetary-policy.jpg?resize=1365,800"
         },
         {
-          "title": "Crypto Token ZCash Attracts Nostalgic Bitcoin Enthusiasts",
-          "description": "Cryptocurrency investors disillusioned by bitcoin are reportedly flocking to a new token: Zcash. That’s according to a report Thursday (May 14) from the Wall Street Journal (WSJ), which said this shift to the privacy-focused Zcash comes as bitcoin enthusiasts…",
-          "url": "https://www.pymnts.com/cryptocurrency/2026/crypto-token-zcash-attracts-nostalgic-bitcoin-enthusiasts/",
-          "source": "pymnts.com",
-          "published": "2026-05-14T15:31:00Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2026/04/bitcoin-digital-assets-1.jpg"
+          "title": "7.io Expands Its Vision for the Future of Web3 Entertainment and Crypto Gambling",
+          "description": "KUALA LUMPUR, Malaysia, May 15, 2026 (GLOBE NEWSWIRE) -- 7.io today announced its continued expansion into the next generation of Web3-powered entertainment and online gaming infrastructure, driven by growing global demand for instant transactions, transparen…",
+          "url": "https://www.globenewswire.com/news-release/2026/05/15/3295570/0/en/7-io-Expands-Its-Vision-for-the-Future-of-Web3-Entertainment-and-Crypto-Gambling.html",
+          "source": "GlobeNewswire",
+          "published": "2026-05-15T06:44:00Z",
+          "image": "https://ml.globenewswire.com/Resource/Download/fcab6e4b-7d94-4c77-a7fa-4a7cff92bab0"
         },
         {
-          "title": "CLARITY Act clears major Senate Committee hurdle, advances to the full Senate floor",
-          "description": "The Senate Banking Committee has voted to advance the Digital Asset Market CLARITY Act, clearing a major hurdle for the most comprehensive crypto regulation bill in US history. On May 14, the panel approved the legislation on bipartisan lines, sending the leg…",
-          "url": "https://cryptoslate.com/clarity-act-clears-major-senate-committee-hurdle-advances-to-the-full-senate-floor/",
-          "source": "CryptoSlate",
-          "published": "2026-05-14T15:19:07Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/05/clarityAct.jpg"
+          "title": "FalconX expands tokenized credit facility to Monad network",
+          "description": "FalconX's expansion into tokenized credit on Monad could enhance DeFi liquidity but raises concerns about smart contract and liquidity risks.\nThe post FalconX expands tokenized credit facility to Monad network appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/falconx-tokenized-credit-monad-network/",
+          "source": "Crypto Briefing",
+          "published": "2026-05-15T05:53:49Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/15015349/falconx-expands-tokenised-lending-to-monad-grafa-1-800x420.jpeg"
         },
         {
-          "title": "Ripple CEO Sees Stablecoins, Tokenization and AI Payments Driving Crypto Adoption",
-          "description": "Ripple CEO Brad Garlinghouse says the next stage of crypto adoption is being shaped less by market cycles and more ...",
-          "url": "https://www.cryptoprowl.com/releases/ripple-ceo-sees-stablecoins-tokenization-and-ai-payments-driving-crypto-adoption-5481",
-          "source": "Cryptoprowl.com",
-          "published": "2026-05-14T15:19:00Z",
-          "image": "https://s.yimg.com/os/en/cryptoprowl_304/0abcedc7bf91ed40638613392403283c"
+          "title": "Coinbase CEO predicts global Bitcoin legalization after US market structure passage",
+          "description": "Global crypto adoption could accelerate as US regulatory clarity sets a precedent, influencing G20 nations to align their frameworks.\nThe post Coinbase CEO predicts global Bitcoin legalization after US market structure passage appeared first on Crypto Briefin…",
+          "url": "https://cryptobriefing.com/coinbase-ceo-global-bitcoin-legalization-prediction/",
+          "source": "Crypto Briefing",
+          "published": "2026-05-15T02:18:33Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/14221832/coinbase-ceo-brian-armstrong-calls-senate-crypto-bill-a-true-1-800x420.jpeg"
         },
         {
-          "title": "Celestia Price Prediction 2026: Is TIA the Future of Modular Blockchains?",
-          "description": "Unlike existing Layer-1 blockchains that execute, reach consensus, and provide data availability on top of the same blockchain, Celestia blockchain modularizes these layers, permitting developers...\nThe post Celestia Price Prediction 2026: Is TIA the Future o…",
-          "url": "https://bitcoinfoundation.org/news/altcoins/celestia-price-prediction-2026-is-tia-the-future-of-modular-blockchains/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-05-14T15:13:22Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/05/1-1778763831.webp"
+          "title": "Ripple Maxi Says Banks Are Trying To Kill XRP And RLUSD, What’s The Truth?",
+          "description": "Ripple, XRP, and RLUSD have become the focus of a new controversy after crypto commentator Pumpius claimed major banking groups are lobbying against legislation that could strengthen Ripple’s stablecoin ecosystem. The claim gained traction after internal mess…",
+          "url": "https://bitcoinist.com/ripple-banks-trying-to-kill-xrp-rlusd/",
+          "source": "Bitcoinist",
+          "published": "2026-05-15T00:30:10Z",
+          "image": "https://bitcoinist.com/wp-content/uploads/2026/05/XRP-Bnaks.jpeg"
         }
       ]
     },
@@ -204,68 +196,68 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Mschf Designs Kit, Capsule for OTB-backed Soccer Club L.R. Vicenza",
-          "description": "The collection is centered on the “golf sucks” tag line and theme envisioned by the Brooklyn-based art collective, known for stirring controversies.",
-          "url": "http://wwd.com/menswear-news/mens-sportswear/mschf-capsule-lr-vicenza-soccer-club-diesel-otb-1238952910/",
-          "source": "WWD",
-          "published": "2026-05-14T16:00:00Z",
-          "image": "https://wwd.com/wp-content/uploads/2026/05/The-L.R.-Vicenza-x-Mschf-campaign.jpg?crop=0px%2C72px%2C2000px%2C1119px&resize=1000%2C563"
+          "title": "Explained: What is US Senate’s CLARITY Act and why does it matter for crypto investors?",
+          "description": "The Republican-led Senate Banking Committee has advanced the long-awaited CLARITY Act, a landmark crypto regulation bill aimed at defining digital assets, resolving SEC–CFTC jurisdiction overlap, and setting rules for decentralised platforms. The move brings …",
+          "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/explained-what-is-us-senates-clarity-act-and-why-does-it-matter-for-crypto-investors/articleshow/131111787.cms",
+          "source": "The Times of India",
+          "published": "2026-05-15T07:57:05Z",
+          "image": "https://img.etimg.com/thumb/msid-131111885,width-1200,height-630,imgsize-88042,overlay-etmarkets/articleshow.jpg"
         },
         {
-          "title": "Matrixdock expands tokenized silver XAGm to Sui for active DeFi use",
-          "description": "Matrixdock's expansion to Sui enhances DeFi's asset diversity, offering new strategies but necessitating scrutiny of custody and audit practices.\nThe post Matrixdock expands tokenized silver XAGm to Sui for active DeFi use appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/matrixdock-tokenized-silver-xagm-sui/",
+          "title": "Arc, Canton and Tempo raise over $1B for privacy-focused blockchains",
+          "description": "The significant funding for privacy-focused blockchains highlights growing institutional interest in secure, scalable digital finance solutions.\nThe post Arc, Canton and Tempo raise over $1B for privacy-focused blockchains appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/arc-canton-tempo-billion-privacy-blockchains/",
           "source": "Crypto Briefing",
-          "published": "2026-05-14T15:44:35Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/14114432/matrixdock-silver-xagm-matrixdock-1-800x420.png"
+          "published": "2026-05-15T07:56:39Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/15035638/arc-canton-and-tempo-surpass-1b-in-funding-as-institutions-b-1-800x420.jpeg"
         },
         {
-          "title": "Vitalik Buterin’s Top Statements: How ETH Price Reacts to Ethereum Founder’s Words",
-          "description": "Most people get it wrong when they think Vitalik runs Ethereum like a boss running a firm. Right off the bat, that idea needs to...\nThe post Vitalik Buterin’s Top Statements: How ETH Price Reacts to Ethereum Founder’s Words appeared first on Bitcoin Foundatio…",
-          "url": "https://bitcoinfoundation.org/news/ethereum/how-eth-price-reacts-to-ethereum-founders-words/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-05-14T15:42:21Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/05/Vitalik1.webp"
+          "title": "JPMorgan Chase Files Application for a Blockchain-Based Money Market Fund Targeting Stablecoin Issuers",
+          "description": "JPMorgan Chase has filed an application with the U.S. Securities and Exchange Commission for a blockchain-based money market fund designed in part for stablecoin issuers. According to the filing, the fund would use blockchain infrastructure developed by Kinex…",
+          "url": "https://dailyhodl.com/2026/05/15/jpmorgan-chase-files-application-for-a-blockchain-based-money-market-fund-targeting-stablecoin-issuers/",
+          "source": "The Daily Hodl",
+          "published": "2026-05-15T07:04:58Z",
+          "image": "https://dailyhodl.com/wp-content/uploads/2025/05/based-on-monetary-policy.jpg?resize=1365,800"
         },
         {
-          "title": "Celestia Price Prediction 2026: Is TIA the Future of Modular Blockchains?",
-          "description": "Unlike existing Layer-1 blockchains that execute, reach consensus, and provide data availability on top of the same blockchain, Celestia blockchain modularizes these layers, permitting developers...\nThe post Celestia Price Prediction 2026: Is TIA the Future o…",
-          "url": "https://bitcoinfoundation.org/news/altcoins/celestia-price-prediction-2026-is-tia-the-future-of-modular-blockchains/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-05-14T15:13:22Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/05/1-1778763831.webp"
+          "title": "Group linked to Trump sons seeks $400M from US defense department for Kazakhstan tungsten mine",
+          "description": "The request highlights potential conflicts of interest and underscores the geopolitical shift towards diversifying critical mineral sources.\nThe post Group linked to Trump sons seeks $400M from US defense department for Kazakhstan tungsten mine appeared first…",
+          "url": "https://cryptobriefing.com/trump-sons-400m-kazakhstan-tungsten-mine/",
+          "source": "Crypto Briefing",
+          "published": "2026-05-15T05:29:37Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/15012936/us-eyes-up-to-700-million-for-kazakhstan-tungsten-project-to-1-800x420.jpeg"
         },
         {
-          "title": "Strategic prioritization of blockchain diffusion factors by an integrated fuzzy Delphi-Dombi LMAW model: A case study in Bangladesh healthcare sectors",
-          "description": "Over the recent years, blockchain technology has been an essential practice in enhancing profitability in healthcare supply chains, especially in emerging economies. Nevertheless, regulatory uncertainty, management resistance and inadequate technological infr…",
-          "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348578",
-          "source": "Plos.org",
-          "published": "2026-05-14T14:00:00Z",
-          "image": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0348578.g005&size=inline"
-        },
-        {
-          "title": "Scott Wiener Opposes a California Billionaire Tax. So Do His Tech CEO Backers.",
-          "description": "Crypto executive Chris Larsen has spent millions fighting billionaire tax measures, and he’s the largest individual donor to a PAC backing Wiener.\nThe post Scott Wiener Opposes a California Billionaire Tax. So Do His Tech CEO Backers. appeared first on The In…",
-          "url": "https://theintercept.com/2026/05/14/scott-wiener-billionaire-tax-california-house-race/",
-          "source": "The Intercept",
-          "published": "2026-05-14T10:07:00Z",
-          "image": "https://theintercept.com/wp-content/uploads/2026/05/GettyImages-2268737312-e1778698306567.jpg?fit=4200%2C2100&w=1200&h=800"
-        },
-        {
-          "title": "Global Payment Processing Solutions Market Report 2026: Forecasts Indicate Growth from $38.3 Billion in 2025 to $88.4 Billion by 2032",
-          "description": "The growing demand for seamless omnichannel payment experiences, driven by digital wallets and mobile payments, presents lucrative opportunities globally The growing demand for seamless omnichannel payment experiences, driven by digital wallets and mobile pay…",
-          "url": "https://www.globenewswire.com/news-release/2026/05/14/3294667/28124/en/Global-Payment-Processing-Solutions-Market-Report-2026-Forecasts-Indicate-Growth-from-38-3-Billion-in-2025-to-88-4-Billion-by-2032.html",
-          "source": "GlobeNewswire",
-          "published": "2026-05-14T09:39:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/6670d724-3f08-49ba-bc76-e492f5366e6f"
-        },
-        {
-          "title": "Supply Chain Management Market to Reach USD 93.9 Billion, Globally, by 2034 at 10.9% CAGR: Allied Market Research",
-          "description": "The Supply Chain Management (SCM) market is witnessing steady adoption across manufacturing companies, retail enterprises, logistics providers, healthcare organizations, e-commerce platforms, and government agencies due to its critical role in enhancing opera…",
-          "url": "https://www.prnewswire.com/news-releases/supply-chain-management-market-to-reach-usd-93-9-billion-globally-by-2034-at-10-9-cagr-allied-market-research-302771121.html",
+          "title": "Sharps Technology Adopts Limited Duration Stockholder Rights Plan",
+          "description": "MELVILLE, N.Y., May 14, 2026 /PRNewswire/ -- Sharps Technology, Inc. (\"Sharps Technology\" or the \"Company\") (NASDAQ: STSS) today announced that its Board of Directors has adopted a limited duration stockholder rights plan (the \"Rights Plan\") to protect stockh…",
+          "url": "https://www.prnewswire.com/news-releases/sharps-technology-adopts-limited-duration-stockholder-rights-plan-302772955.html",
           "source": "PRNewswire",
-          "published": "2026-05-13T14:49:00Z",
-          "image": "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook"
+          "published": "2026-05-14T22:07:00Z",
+          "image": "https://mma.prnewswire.com/media/2980698/Sharps_Logo.jpg?p=facebook"
+        },
+        {
+          "title": "VCI Global Launches Strategic Gold Treasury Program Integrating Physical Gold and Tether Gold",
+          "description": "Company Advances Long-Term Treasury Diversification Strategy Through Physical Gold Reserves and Gold-Linked Digital Assets Company Advances Long-Term Treasury Diversification Strategy Through Physical Gold Reserves and Gold-Linked Digital Assets",
+          "url": "https://www.globenewswire.com/news-release/2026/05/14/3295424/0/en/VCI-Global-Launches-Strategic-Gold-Treasury-Program-Integrating-Physical-Gold-and-Tether-Gold.html",
+          "source": "GlobeNewswire",
+          "published": "2026-05-14T20:30:00Z",
+          "image": "https://ml.globenewswire.com/Resource/Download/a5732b87-b5d4-4b9e-8452-fed90f097c33"
+        },
+        {
+          "title": "Could Zcash Be the Next Bitcoin? Here’s Why Some Crypto Veterans Are Starting to Think So",
+          "description": "Zcash has significantly outperformed the broader crypto market over the past month, surging more than 52.5% while Bitcoin posted a comparatively modest 9.4% gain.",
+          "url": "https://zycrypto.com/could-zcash-be-the-next-bitcoin-heres-why-some-crypto-veterans-are-starting-to-think-so/",
+          "source": "ZyCrypto",
+          "published": "2026-05-14T19:32:33Z",
+          "image": "https://zycrypto.com/wp-content/uploads/2026/05/Could-Zcash-Be-the-Next-Bitcoin-Heres-Why-Some-Crypto-Veterans-Are-Starting-to-Think-So.jpg"
+        },
+        {
+          "title": "Why the Smartest Leader Usually Fails",
+          "description": "Why the Smartest Leader Usually Fails written by John Jantsch read more at Duct Tape Marketing\nCatch the full episode: Overview Most companies hit a ceiling not because of strategy or market conditions, but because the leader is still trying to be the smartes…",
+          "url": "https://ducttapemarketing.com/why-the-smartest-leader-usually-fails/",
+          "source": "Ducttapemarketing.com",
+          "published": "2026-05-14T19:17:31Z",
+          "image": "https://ducttapemarketing.com/wp-content/uploads/2026/05/getty-images-tjWTlhrJ4fk-unsplash-scaled.jpg"
         }
       ]
     },
@@ -278,6 +270,30 @@
           "title": "Startups",
           "icon": "💡",
           "articles": [
+            {
+              "title": "Isomorphic Labs raises $2.1B for AI-powered drug discovery, backed by Alphabet and sovereign wealth funds",
+              "description": "Isomorphic Labs' funding highlights AI's potential to revolutionize drug discovery, but success hinges on bridging computational and clinical gaps.\nThe post Isomorphic Labs raises $2.1B for AI-powered drug discovery, backed by Alphabet and sovereign wealth fu…",
+              "url": "https://cryptobriefing.com/isomorphic-labs-2b-ai-drug-discovery/",
+              "source": "Crypto Briefing",
+              "published": "2026-05-15T05:05:02Z",
+              "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/15010456/google-backed-isomorphic-labs-raises-2-1b-for-ai-drug-discov-1-800x420.jpeg"
+            },
+            {
+              "title": "Wispr AI in talks to raise $260M at $2B valuation, led by Menlo Ventures",
+              "description": "Wispr AI's rapid valuation surge highlights potential investor optimism but raises questions about sustainability and market fundamentals.\nThe post Wispr AI in talks to raise $260M at $2B valuation, led by Menlo Ventures appeared first on Crypto Briefing.",
+              "url": "https://cryptobriefing.com/wispr-ai-260m-raise-2b-valuation/",
+              "source": "Crypto Briefing",
+              "published": "2026-05-15T02:19:36Z",
+              "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/14221930/wispr-ai-to-raise-260-million-at-a-2-billion-valuation-silic-1-800x420.jpeg"
+            },
+            {
+              "title": "Wispr seeks funding that would value AI voice startup at $2B",
+              "description": "Wispr's potential $2B valuation highlights the growing investor confidence in AI-driven productivity tools, despite fierce competition from tech giants.\nThe post Wispr seeks funding that would value AI voice startup at $2B appeared first on Crypto Briefing.",
+              "url": "https://cryptobriefing.com/wispr-ai-startup-2b-valuation-funding/",
+              "source": "Crypto Briefing",
+              "published": "2026-05-14T21:07:03Z",
+              "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/14170659/menlo-ventures-to-back-wispr-ai-in-260m-raise-for-voice-to-t-1.jpeg"
+            },
             {
               "title": "Stablecoin-powered neobank Fasset raises $51 million to expand across emerging markets",
               "description": "The Shariah-compliant digital bank is part of a growing wave of fintech startups building banking and payments services on top of blockchain and stablecoin rails.",
@@ -293,30 +309,6 @@
               "source": "Crypto Briefing",
               "published": "2026-05-14T11:55:18Z",
               "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/14075512/blackrock-logo-symbol-meaning-history-png-brand-1-800x420.png"
-            },
-            {
-              "title": "10 Thursday AM Reads",
-              "description": "NOTE: Apologies for the “Critical Error” mess that showed up yesterday. Turns out, it was a WordPress memory issue that has since been resolved… My morning train WFH reads: • Anthropic Was Behind. Now It’s the AI Boom’s Front-Runner. After years as also-ran, …",
-              "url": "https://ritholtz.com/2026/05/10-thursday-am-reads-493/",
-              "source": "Ritholtz.com",
-              "published": "2026-05-14T10:30:17Z",
-              "image": "https://ritholtz.com/wp-content/uploads/2029/12/snapback.png"
-            },
-            {
-              "title": "Scott Wiener Opposes a California Billionaire Tax. So Do His Tech CEO Backers.",
-              "description": "Crypto executive Chris Larsen has spent millions fighting billionaire tax measures, and he’s the largest individual donor to a PAC backing Wiener.\nThe post Scott Wiener Opposes a California Billionaire Tax. So Do His Tech CEO Backers. appeared first on The In…",
-              "url": "https://theintercept.com/2026/05/14/scott-wiener-billionaire-tax-california-house-race/",
-              "source": "The Intercept",
-              "published": "2026-05-14T10:07:00Z",
-              "image": "https://theintercept.com/wp-content/uploads/2026/05/GettyImages-2268737312-e1778698306567.jpg?fit=4200%2C2100&w=1200&h=800"
-            },
-            {
-              "title": "Vapi reaches $500M valuation after Amazon Ring selects its AI platform",
-              "description": "Vapi's success with Amazon Ring could catalyze broader adoption of AI voice platforms, reshaping enterprise customer interaction strategies.\nThe post Vapi reaches $500M valuation after Amazon Ring selects its AI platform appeared first on Crypto Briefing.",
-              "url": "https://cryptobriefing.com/vapi-500m-valuation-amazon-ring-ai/",
-              "source": "Crypto Briefing",
-              "published": "2026-05-14T05:41:30Z",
-              "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/14014127/ai-voice-startup-vapi-hits-500m-valuation-after-winning-amaz-1-800x420.jpeg"
             }
           ]
         },
@@ -324,6 +316,14 @@
           "title": "Hyperscalers",
           "icon": "☁️",
           "articles": [
+            {
+              "title": "Why the Smartest Leader Usually Fails",
+              "description": "Why the Smartest Leader Usually Fails written by John Jantsch read more at Duct Tape Marketing\nCatch the full episode: Overview Most companies hit a ceiling not because of strategy or market conditions, but because the leader is still trying to be the smartes…",
+              "url": "https://ducttapemarketing.com/why-the-smartest-leader-usually-fails/",
+              "source": "Ducttapemarketing.com",
+              "published": "2026-05-14T19:17:31Z",
+              "image": "https://ducttapemarketing.com/wp-content/uploads/2026/05/getty-images-tjWTlhrJ4fk-unsplash-scaled.jpg"
+            },
             {
               "title": "Microsoft Announces General Availability of Azure SDK for Rust",
               "description": "Azure SDK for Rust is now generally available! Build secure, high-performance cloud apps on Azure with idiomatic Rust libraries. A major win for Rust devs!",
@@ -363,14 +363,6 @@
               "source": "GlobeNewswire",
               "published": "2026-05-12T08:30:00Z",
               "image": "https://ml.globenewswire.com/Resource/Download/74609d89-5437-4826-b7b8-31238ea2e65c"
-            },
-            {
-              "title": "The hottest place for startups to strike a deal? The F1 paddock | TechCrunch",
-              "description": "F1 Grands Prix have emerged as a new place to see and be seen if you are a founder or investor.",
-              "url": "https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/",
-              "source": "TechCrunch",
-              "published": "2026-05-10T14:12:56Z",
-              "image": "https://techcrunch.com/wp-content/uploads/2026/05/F1-miami-paddock-Getty.jpg?resize=1200,801"
             },
             {
               "title": "Agentic commerce will run on crypto rails, PayPal and Google reps tell Consensus Miami",
