@@ -1,11 +1,27 @@
 {
-  "date": "May 16, 2026",
+  "date": "May 17, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "Zcash vs Bitcoin in 2026: Is Zcash a Better Privacy Coin Than Bitcoin for Investors?",
+          "description": "Zcash vs Bitcoin in 2026 debate is centered on Bitcoin’s role as an inflation hedge or macro “digital gold” asset due to ETF listings and...\nThe post Zcash vs Bitcoin in 2026: Is Zcash a Better Privacy Coin Than Bitcoin for Investors? appeared first on Bitcoi…",
+          "url": "https://bitcoinfoundation.org/news/bitcoin/zcash-vs-bitcoin-in-2026-is-zcash-a-better-privacy-coin-than-bitcoin-for-investors/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-05-15T11:39:44Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/05/1-2-1778838113.webp"
+        },
+        {
+          "title": "Device As a Service (DaaS) Market Size to Hit USD 3.14 Trillion by 2035 | Research by SNS Insider",
+          "description": "Global Device as a Service Market Size, Share & Segmentation, By Component, Device Type, Organization Size, End-Use Industry, Region and Forecast 2026-2035",
+          "url": "https://www.globenewswire.com/news-release/2026/05/15/3295752/0/en/Device-As-a-Service-DaaS-Market-Size-to-Hit-USD-3-14-Trillion-by-2035-Research-by-SNS-Insider.html",
+          "source": "GlobeNewswire",
+          "published": "2026-05-15T11:30:00Z",
+          "image": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2"
+        },
         {
           "title": "Ripple insider warns XRP holders as fake airdrop scams surge across XRPL",
           "description": "The XRP Ledger (XRPL) is seeing a drastic rise in fraud attempts targeting its users as the network draws more institutional activity, higher transaction volumes, and renewed attention from XRP traders. On May 14, David Schwartz, the former chief technology o…",
@@ -29,22 +45,6 @@
           "source": "ZyCrypto",
           "published": "2026-05-14T02:36:53Z",
           "image": "https://zycrypto.com/wp-content/uploads/2023/10/Charles-Hoskinson-Shuts-Down-Claims-That-Cardanos-Game-Changing-Hydra-Upgrade-Has-Failed.jpg"
-        },
-        {
-          "title": "XRP Is Quietly Taking Over And These Are The Things That Investors Keep Missing",
-          "description": "Crypto pundit Pumpius has highlighted how XRP is quietly taking over with several upgrades and features on the XRP Ledger (XRPL). In line with this, the pundit also declared that this year will be the altcoin’s best year yet as it “moves the world.” XRP Is Qu…",
-          "url": "http://www.newsbtc.com/xrp-news/xrp-is-quietly-taking-over/",
-          "source": "newsBTC",
-          "published": "2026-05-13T19:00:45Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2026/05/XRP-from-Peakpx-12.jpg?fit=800%2C456"
-        },
-        {
-          "title": "What Is Polygon CDK Privacy Upgrade & How Institutions Can Build a Private Blockchain",
-          "description": "Learn what the Polygon CDK privacy upgrade is and how institutions can build a private blockchain with compliance, zero-knowledge proofs, private data handling, and access to global liquidity.",
-          "url": "https://www.c-sharpcorner.com/article/what-is-polygon-cdk-privacy-upgrade-how-institutions-can-build-a-private-block/",
-          "source": "C-sharpcorner.com",
-          "published": "2026-05-13T14:03:42Z",
-          "image": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
         }
       ]
     },
@@ -54,68 +54,68 @@
       "color": "#e6a200",
       "articles": [
         {
-          "title": "Community Bank discloses security lapse after unauthorized AI app exposure",
-          "description": "The incident underscores the urgent need for robust AI governance in banking to prevent internal mishandling of sensitive data.\nThe post Community Bank discloses security lapse after unauthorized AI app exposure appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/community-bank-unauthorized-ai-data-breach/",
+          "title": "mithril-llm added to PyPI",
+          "description": "A firewall for LLMs — block prompt injection, jailbreaks, and PII exfiltration in real time.",
+          "url": "https://pypi.org/project/mithril-llm/",
+          "source": "Pypi.org",
+          "published": "2026-05-16T08:16:23Z",
+          "image": "https://pypi.org/static/images/twitter.abaf4b19.webp"
+        },
+        {
+          "title": "codeloom 0.1.0",
+          "description": "Local-first code graph builder with 5-signal hybrid search for AI coding agents",
+          "url": "https://pypi.org/project/codeloom/",
+          "source": "Pypi.org",
+          "published": "2026-05-16T07:53:36Z",
+          "image": "https://pypi.org/static/images/twitter.abaf4b19.webp"
+        },
+        {
+          "title": "Home loan planning tips to avoid costly financial mistakes when buying a family home",
+          "description": "Buying a home with family requires smart home loan planning, clear ownership roles, sustainable EMI management, legal agreements, and careful budgeting to avoid financial stress and long-term repayment challenges.",
+          "url": "https://www.livemint.com/money/personal-finance/home-loan-planning-tips-to-avoid-costly-financial-mistakes-when-buying-a-family-home-11778783988621.html",
+          "source": "Livemint",
+          "published": "2026-05-16T07:36:11Z",
+          "image": "https://www.livemint.com/lm-img/img/2026/05/14/1600x900/logo/shutterstock_1716988259327_1778784377563_304eb79e-e069-4f96-8a13-7a4daee3b1c4.jpg"
+        },
+        {
+          "title": "Bhagavad Gita for Entrepreneurs: Krishna’s Wisdom for Building Without Burning Out",
+          "description": "The Bhagavad Gita's wisdom for entrepreneurs: how to act without burnout, build with purpose, lead through example, and navigate the startup rollercoaster with equanimity and clarity.",
+          "url": "https://nextbigwhat.com/bhagavad-gita-for-entrepreneurs-krishna-s-wisdom-for-building-without/",
+          "source": "Nextbigwhat.com",
+          "published": "2026-05-16T07:25:51Z",
+          "image": "https://i0.wp.com/nextbigwhat.com/wp-content/uploads/2026/05/bhagavad-gita-for-entrepreneurs-krishna-s-wisdom-for-building-without-.jpg?fit=1200%2C630&ssl=1"
+        },
+        {
+          "title": "SOL Strategies acquires Houdini Swap and Darklake Labs to enhance Solana infrastructure",
+          "description": "SOL Strategies' acquisitions position it to attract institutional capital by enhancing privacy and cross-chain capabilities on Solana.\nThe post SOL Strategies acquires Houdini Swap and Darklake Labs to enhance Solana infrastructure appeared first on Crypto Br…",
+          "url": "https://cryptobriefing.com/sol-strategies-acquires-houdini-swap-darklake/",
           "source": "Crypto Briefing",
-          "published": "2026-05-15T07:57:03Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/15035702/us-bank-discloses-security-lapse-after-sharing-customer-data-1-800x420.jpeg"
+          "published": "2026-05-15T21:04:42Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/15170441/solana-sol-logo-crypto-logos-4-1-800x420.png"
         },
         {
-          "title": "Spotify Down Again: Drake's Triple Album Frenzy Crashes Service for Thousands on May 15",
-          "description": "Spotify experienced widespread disruptions due to Drake's surprise release of three albums, overwhelming servers and causing user frustration. The incident highlights challenges in handling massive streaming traffic.",
-          "url": "https://www.ibtimes.com.au/drake-triple-album-release-crashes-spotify-1868867",
-          "source": "Ibtimes.com.au",
-          "published": "2026-05-15T07:56:02Z",
-          "image": "https://d.ibtimes.com.au/en/full/1880345/spotify-s-among-winners-wall-street-since-start-year-its-share-price-34-percent.jpg"
+          "title": "For ‘Survivor’ Legends Who Keep Coming Back, Outplaying and Outlasting Is a ‘Religious Experience’",
+          "description": "In the lead-up to the Season 50 finale, \"Survivor\" regulars Ozzy Lusth, Dee Valladares, and Stephenie LaGrossa Kendrick tell IndieWire why the game keeps pulling them back.",
+          "url": "https://www.indiewire.com/awards/consider-this/survivor-50-why-legends-keep-coming-back-1235194186/",
+          "source": "IndieWire",
+          "published": "2026-05-15T19:30:00Z",
+          "image": "https://www.indiewire.com/wp-content/uploads/2026/05/Screen-Shot-2026-05-15-at-11.21.32-AM.png?w=650"
         },
         {
-          "title": "Dell Latitude 7310 SupportAssist Utility 5.5.14.0",
-          "description": "The Dell Update - SupportAssist Update Plugin works in conjunction with the Dell Update application to keep your systems recovery environment up to date with the latest version of SupportAssist OS Recovery. SupportAssist OS Recovery is a powerful recovery too…",
-          "url": "https://drivers.softpedia.com/get/laptop-notebook/Dell/Dell-Latitude-7310-SupportAssist-Utility-5-5-14-0.shtml",
-          "source": "Softpedia.com",
-          "published": "2026-05-15T07:47:01Z",
-          "image": "https://cdnssl.softpedia.com/_img/softpedia_logo_rss.png"
+          "title": "The AWS AI Security Framework: Securing AI with the right controls, at the right layers, at the right phases",
+          "description": "TL;DR for busy executives The AWS AI Security Framework helps security leaders move fast and stay secure with AI. Security compounds from day 1 as workloads evolve from prototype to production to scale. Assess first. Request a no-cost SHIP engagement to basel…",
+          "url": "https://aws.amazon.com/blogs/security/the-aws-ai-security-framework-securing-ai-with-the-right-controls-at-the-right-layers-at-the-right-phases/",
+          "source": "Amazon.com",
+          "published": "2026-05-15T17:38:16Z",
+          "image": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2026/05/13/AWS-AI-Security-Framework-1260x630.jpg"
         },
         {
-          "title": "Save 25% when you buy $50 of select Coca-Cola Products (1 replies)",
-          "description": "BODYARMOR\nCoca-Cola\nCoca-Cola Zero\nCoke Zero\nDiet Coke\nDunkin' Donuts\nFanta\n& More [amazon.com]\n\nPlease report the deal if expired (click report -> expired)\nMy other deals",
-          "url": "https://slickdeals.net/f/19525098-save-25-when-you-buy-50-of-select-coca-cola-products",
-          "source": "Slickdeals.net",
-          "published": "2026-05-15T07:26:17Z",
-          "image": "https://slickdeals.net/attachment/1/1/7/1/5/2/7/450x450/20394168.thumb"
-        },
-        {
-          "title": "How Beginners Are Going from Zero to Deployed Apps Using Codex",
-          "description": "Codex is an AI-powered coding assistant designed to support developers in creating and deploying applications more efficiently. In his feature, David Ondrej outlines how beginners can progress from no prior experience to launching a fully functional app. A ke…",
-          "url": "https://www.geeky-gadgets.com/codex-ai-full-course-2026/",
-          "source": "Geeky Gadgets",
-          "published": "2026-05-15T07:15:00Z",
-          "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/05/Codex-AI-Generating-A-Web-Application.jpg"
-        },
-        {
-          "title": "Evolving Classrooms for Diverse Minds and Futures",
-          "description": "Learning something new is, biologically, a transformation of the brain. With each experience, neural connections are reorganized, creating and strengthening synapses. Far more than simply accumulating information, learning is about reconfiguring internal stru…",
-          "url": "https://www.archdaily.com/1041145/evolving-classrooms-for-diverse-minds-and-futures",
-          "source": "ArchDaily",
-          "published": "2026-05-15T06:45:00Z",
-          "image": "https://images.adsttc.com/media/images/69f8/c1a4/c748/940e/b9bf/58d3/large_jpg/if-the-brain-is-fluid-then-the-classroom-cannot-remain-a-cage_50.jpg?1777910201"
-        },
-        {
-          "title": "Ripple Research Lead Reveals What’s Next For The XRP Ledger",
-          "description": "RippleX Head of Research Aanchal Malhotra said the next phase of XRP Ledger development is focused on privacy, zero-knowledge proofs and post-quantum readiness, framing the work as an effort to future-proof the network without compromising its core settlement…",
-          "url": "https://bitcoinist.com/ripple-research-whats-next-for-xrp-ledger/",
-          "source": "Bitcoinist",
-          "published": "2026-05-15T06:00:27Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/05/ChatGPT-Image-14.-Mai-2026-14_33_09.png"
-        },
-        {
-          "title": "On Interpolatable Archives (Clean)",
-          "description": "AI Latent Spaces as Shapeshifting Skeleton Libraries and Explosion Drawings bearing cognitive hazards and new opportunities to play.",
-          "url": "https://goodinternet.substack.com/p/on-interpolatable-archives-clean",
-          "source": "Substack.com",
-          "published": "2026-05-14T20:50:40Z",
-          "image": "https://substackcdn.com/image/fetch/$s_!2VaM!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f430e94-7f15-4396-bf60-3db312d11b5b_1068x514.jpeg"
+          "title": "The mediating roles of personal mastery and health-promoting behaviors in the relationship between self-regulatory fatigue and quality of life among patients with type 2 diabetes mellitus",
+          "description": "Background Quality of life (QoL) is a pivotal prognostic indicator for patients with Type 2 Diabetes Mellitus (T2DM). While the impact of various factors on QoL is recognized, the complex interplay between psychological and behavioral determinants remains und…",
+          "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349561",
+          "source": "Plos.org",
+          "published": "2026-05-15T14:00:00Z",
+          "image": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0349561.g002&size=inline"
         }
       ]
     },
@@ -125,68 +125,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "How rising crude oil prices and market volatility could impact your personal finances",
-          "description": "Stock market volatility driven by rising crude oil prices, FII sell-offs, and inflation concerns reshapes the personal finance outlook, underscoring the importance of disciplined SIP investing, diversification, and long-term wealth creation.&nbsp;",
-          "url": "https://www.livemint.com/money/personal-finance/how-rising-crude-oil-prices-and-market-volatility-could-impact-your-personal-finances-11778828102818.html",
-          "source": "Livemint",
-          "published": "2026-05-15T07:59:23Z",
-          "image": "https://www.livemint.com/lm-img/img/2026/05/15/1600x900/logo/3-0-137462672-iStock-1093830158-0_1679829829158_1778829646205_ec93f7ec-88a9-43c6-92ea-96103d524fbd.jpg"
-        },
-        {
-          "title": "Explained: What is US Senate’s CLARITY Act and why does it matter for crypto investors?",
-          "description": "The Republican-led Senate Banking Committee has advanced the long-awaited CLARITY Act, a landmark crypto regulation bill aimed at defining digital assets, resolving SEC–CFTC jurisdiction overlap, and setting rules for decentralised platforms. The move brings …",
-          "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/explained-what-is-us-senates-clarity-act-and-why-does-it-matter-for-crypto-investors/articleshow/131111787.cms",
-          "source": "The Times of India",
-          "published": "2026-05-15T07:57:05Z",
-          "image": "https://img.etimg.com/thumb/msid-131111885,width-1200,height-630,imgsize-88042,overlay-etmarkets/articleshow.jpg"
-        },
-        {
-          "title": "Arc, Canton and Tempo raise over $1B for privacy-focused blockchains",
-          "description": "The significant funding for privacy-focused blockchains highlights growing institutional interest in secure, scalable digital finance solutions.\nThe post Arc, Canton and Tempo raise over $1B for privacy-focused blockchains appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/arc-canton-tempo-billion-privacy-blockchains/",
-          "source": "Crypto Briefing",
-          "published": "2026-05-15T07:56:39Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/15035638/arc-canton-and-tempo-surpass-1b-in-funding-as-institutions-b-1-800x420.jpeg"
-        },
-        {
-          "title": "JPMorgan Chase Files Application for a Blockchain-Based Money Market Fund Targeting Stablecoin Issuers",
-          "description": "JPMorgan Chase has filed an application with the U.S. Securities and Exchange Commission for a blockchain-based money market fund designed in part for stablecoin issuers. According to the filing, the fund would use blockchain infrastructure developed by Kinex…",
-          "url": "https://dailyhodl.com/2026/05/15/jpmorgan-chase-files-application-for-a-blockchain-based-money-market-fund-targeting-stablecoin-issuers/",
-          "source": "The Daily Hodl",
-          "published": "2026-05-15T07:04:58Z",
-          "image": "https://dailyhodl.com/wp-content/uploads/2025/05/based-on-monetary-policy.jpg?resize=1365,800"
-        },
-        {
-          "title": "7.io Expands Its Vision for the Future of Web3 Entertainment and Crypto Gambling",
-          "description": "KUALA LUMPUR, Malaysia, May 15, 2026 (GLOBE NEWSWIRE) -- 7.io today announced its continued expansion into the next generation of Web3-powered entertainment and online gaming infrastructure, driven by growing global demand for instant transactions, transparen…",
-          "url": "https://www.globenewswire.com/news-release/2026/05/15/3295570/0/en/7-io-Expands-Its-Vision-for-the-Future-of-Web3-Entertainment-and-Crypto-Gambling.html",
-          "source": "GlobeNewswire",
-          "published": "2026-05-15T06:44:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/fcab6e4b-7d94-4c77-a7fa-4a7cff92bab0"
-        },
-        {
-          "title": "FalconX expands tokenized credit facility to Monad network",
-          "description": "FalconX's expansion into tokenized credit on Monad could enhance DeFi liquidity but raises concerns about smart contract and liquidity risks.\nThe post FalconX expands tokenized credit facility to Monad network appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/falconx-tokenized-credit-monad-network/",
-          "source": "Crypto Briefing",
-          "published": "2026-05-15T05:53:49Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/15015349/falconx-expands-tokenised-lending-to-monad-grafa-1-800x420.jpeg"
-        },
-        {
-          "title": "Coinbase CEO predicts global Bitcoin legalization after US market structure passage",
-          "description": "Global crypto adoption could accelerate as US regulatory clarity sets a precedent, influencing G20 nations to align their frameworks.\nThe post Coinbase CEO predicts global Bitcoin legalization after US market structure passage appeared first on Crypto Briefin…",
-          "url": "https://cryptobriefing.com/coinbase-ceo-global-bitcoin-legalization-prediction/",
-          "source": "Crypto Briefing",
-          "published": "2026-05-15T02:18:33Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/14221832/coinbase-ceo-brian-armstrong-calls-senate-crypto-bill-a-true-1-800x420.jpeg"
-        },
-        {
-          "title": "Ripple Maxi Says Banks Are Trying To Kill XRP And RLUSD, What’s The Truth?",
-          "description": "Ripple, XRP, and RLUSD have become the focus of a new controversy after crypto commentator Pumpius claimed major banking groups are lobbying against legislation that could strengthen Ripple’s stablecoin ecosystem. The claim gained traction after internal mess…",
-          "url": "https://bitcoinist.com/ripple-banks-trying-to-kill-xrp-rlusd/",
+          "title": "South Korea To Unveil Tokenized Securities Rules In July As Crypto Regulation Advances",
+          "description": "South Korean authorities are set to release detailed rules for the issuance, infrastructure, and distribution of tokenized securities, as the country advances its efforts to implement crypto market regulations in 2027. Related Reading: Bank Of England To Ease…",
+          "url": "https://bitcoinist.com/south-korea-tokenized-securities-crypto-regulation/",
           "source": "Bitcoinist",
-          "published": "2026-05-15T00:30:10Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/05/XRP-Bnaks.jpeg"
+          "published": "2026-05-16T08:00:03Z",
+          "image": "https://bitcoinist.com/wp-content/uploads/2025/01/lauren-seo-YAf3-xZBc0I-unsplash.jpg"
+        },
+        {
+          "title": "Bitcoin Power Law Forecasts Price Bottom Of $42,800 – Details",
+          "description": "Bitcoin’s price performance in the last week saw a slowdown to the asset’s relief rally that began in early April. According to data from CoinMarketCap, the market price declined by 1.45% in a range-bound week, during which bulls failed to overcome a key resi…",
+          "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-power-law-forecasts-price-bottom-of-42800-details/",
+          "source": "newsBTC",
+          "published": "2026-05-16T07:00:40Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2026/05/pexels-photo-5980743.jpeg"
+        },
+        {
+          "title": "Stablecoins: What They Are and How They Work",
+          "description": "Podcast Transcript One of the most talked-about topics in finance today is stablecoins.  Stablecoins have the potential to totally upend the world of banking and finance.  Banks, governments, and tech companies are looking at stablecoins to determine how they…",
+          "url": "https://everything-everywhere.com/stablecoins-what-they-are-and-how-they-work/",
+          "source": "Everything-everywhere.com",
+          "published": "2026-05-16T06:22:27Z",
+          "image": "https://photos.smugmug.com/Other/n-hRFP2/Podcast-Images/i-vV6d7NH/0/NMZGSVdZfSK7K8xRk6zDxCkNpwFDN2kjMrDncJZq7/L/2140epart-L.jpg"
+        },
+        {
+          "title": "animica 0.1.16",
+          "description": "Animica blockchain CLI and client libraries — node, wallet, miner, contracts, and useful-work jobs.",
+          "url": "https://pypi.org/project/animica/0.1.16/",
+          "source": "Pypi.org",
+          "published": "2026-05-16T05:07:16Z",
+          "image": null
+        },
+        {
+          "title": "XRP ETF Accumulation Pushes Marex Group Among Top Holders",
+          "description": "Marex Group’s own stock climbed more than 15% in a week after the Nasdaq-listed financial services firm disclosed a combined $9.4 million position across two spot XRP exchange-traded funds, landing it among the top institutional holders of XRP ETF shares in t…",
+          "url": "https://bitcoinist.com/xrp-etf-accumulation-pushes-marex-group-into-top-3-holders/",
+          "source": "Bitcoinist",
+          "published": "2026-05-16T05:00:43Z",
+          "image": "https://bitcoinist.com/wp-content/uploads/2026/05/a_2ac9bf.webp"
+        },
+        {
+          "title": "Ethereum Sell Signal That Last Preceded A 63% Drop Flashes Again",
+          "description": "Ethereum has seen a Tom Demark (TD) Sequential sell signal on its weekly chart, something that last led to a major drawdown for the asset. Ethereum Has Seen A TD Sequential Sell Signal In a new post on X, analyst Ali Martinez has highlighted a TD Sequential s…",
+          "url": "http://www.newsbtc.com/news/ethereum/ethereum-sell-last-preceded-63-drop-flashes-again/",
+          "source": "newsBTC",
+          "published": "2026-05-16T05:00:25Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2026/05/eth_290cc5.png?fit=1152%2C768"
+        },
+        {
+          "title": "Institutional investors flocked to establish new stakes in semiconductor firms in first quarter",
+          "description": "Institutional investors actively bought shares in semiconductor companies such as Micron and Intel during the first quarter. This move positioned them to benefit from a significant market rally. Demand for memory chips, fueled by AI development, drove substan…",
+          "url": "https://economictimes.indiatimes.com/tech/technology/institutional-investors-flocked-to-establish-new-stakes-in-semiconductor-firms-in-first-quarter/articleshow/131131201.cms",
+          "source": "The Times of India",
+          "published": "2026-05-16T03:57:35Z",
+          "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-32868,resizemode-75,msid-131131201/tech/technology/institutional-investors-flocked-to-establish-new-stakes-in-semiconductor-firms-in-first-quarter.jpg"
+        },
+        {
+          "title": "U Power Reports Financial Results for Full Year of 2025",
+          "description": "Transitioning to a Provider of Sustainable Mobility and Energy Solutions by Expanding into AI-Driven Energy Management Solutions for IDCs SHANGHAI, May 15, 2026 /PRNewswire/ -- U Power Limited (Nasdaq: UCAR) (the \"Company\" or \"U Power\"), a provider of AI-inte…",
+          "url": "https://www.prnewswire.com/news-releases/u-power-reports-financial-results-for-full-year-of-2025-302773936.html",
+          "source": "PRNewswire",
+          "published": "2026-05-15T21:11:00Z",
+          "image": null
         }
       ]
     },
@@ -196,68 +196,68 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Explained: What is US Senate’s CLARITY Act and why does it matter for crypto investors?",
-          "description": "The Republican-led Senate Banking Committee has advanced the long-awaited CLARITY Act, a landmark crypto regulation bill aimed at defining digital assets, resolving SEC–CFTC jurisdiction overlap, and setting rules for decentralised platforms. The move brings …",
-          "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/explained-what-is-us-senates-clarity-act-and-why-does-it-matter-for-crypto-investors/articleshow/131111787.cms",
-          "source": "The Times of India",
-          "published": "2026-05-15T07:57:05Z",
-          "image": "https://img.etimg.com/thumb/msid-131111885,width-1200,height-630,imgsize-88042,overlay-etmarkets/articleshow.jpg"
+          "title": "Stablecoins: What They Are and How They Work",
+          "description": "Podcast Transcript One of the most talked-about topics in finance today is stablecoins.  Stablecoins have the potential to totally upend the world of banking and finance.  Banks, governments, and tech companies are looking at stablecoins to determine how they…",
+          "url": "https://everything-everywhere.com/stablecoins-what-they-are-and-how-they-work/",
+          "source": "Everything-everywhere.com",
+          "published": "2026-05-16T06:22:27Z",
+          "image": "https://photos.smugmug.com/Other/n-hRFP2/Podcast-Images/i-vV6d7NH/0/NMZGSVdZfSK7K8xRk6zDxCkNpwFDN2kjMrDncJZq7/L/2140epart-L.jpg"
         },
         {
-          "title": "Arc, Canton and Tempo raise over $1B for privacy-focused blockchains",
-          "description": "The significant funding for privacy-focused blockchains highlights growing institutional interest in secure, scalable digital finance solutions.\nThe post Arc, Canton and Tempo raise over $1B for privacy-focused blockchains appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/arc-canton-tempo-billion-privacy-blockchains/",
+          "title": "animica 0.1.16",
+          "description": "Animica blockchain CLI and client libraries — node, wallet, miner, contracts, and useful-work jobs.",
+          "url": "https://pypi.org/project/animica/0.1.16/",
+          "source": "Pypi.org",
+          "published": "2026-05-16T05:07:16Z",
+          "image": null
+        },
+        {
+          "title": "Ethereum Sell Signal That Last Preceded A 63% Drop Flashes Again",
+          "description": "Ethereum has seen a Tom Demark (TD) Sequential sell signal on its weekly chart, something that last led to a major drawdown for the asset. Ethereum Has Seen A TD Sequential Sell Signal In a new post on X, analyst Ali Martinez has highlighted a TD Sequential s…",
+          "url": "http://www.newsbtc.com/news/ethereum/ethereum-sell-last-preceded-63-drop-flashes-again/",
+          "source": "newsBTC",
+          "published": "2026-05-16T05:00:25Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2026/05/eth_290cc5.png?fit=1152%2C768"
+        },
+        {
+          "title": "Quantum-enhanced federated blockchain for privacy-preserving cardiovascular intelligence",
+          "description": "Scientific Reports - Quantum-enhanced federated blockchain for privacy-preserving cardiovascular intelligence",
+          "url": "https://www.nature.com/articles/s41598-026-47521-7",
+          "source": "Nature.com",
+          "published": "2026-05-16T00:00:00Z",
+          "image": null
+        },
+        {
+          "title": "US Treasury yields surge to new highs as liquidity tightens, pushing Bitcoin back below $82,000 resistance",
+          "description": "Bitcoin’s latest retreat below $80,000 shows how quickly the bond market has reclaimed control of crypto trading, even after lawmakers advanced one of the industry’s most closely watched regulatory bills. Data from CryptoSlate showed that the top asset was tr…",
+          "url": "https://cryptoslate.com/us-treasury-yields-surge-to-new-highs-as-liquidity-tightens-pushing-bitcoin-back-below-82000-resistance/",
+          "source": "CryptoSlate",
+          "published": "2026-05-15T19:10:23Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/05/us-treasury-bitcoin.jpg"
+        },
+        {
+          "title": "Medicare to offer free CBD to select patients under new Trump administration program",
+          "description": "The program's success could reshape healthcare policy, boost cannabis research, and impact financial systems tied to the cannabis industry.\nThe post Medicare to offer free CBD to select patients under new Trump administration program appeared first on Crypto …",
+          "url": "https://cryptobriefing.com/medicare-free-cbd-trump-program/",
           "source": "Crypto Briefing",
-          "published": "2026-05-15T07:56:39Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/15035638/arc-canton-and-tempo-surpass-1b-in-funding-as-institutions-b-1-800x420.jpeg"
+          "published": "2026-05-15T19:04:32Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/15150430/trump-order-aims-to-expedite-marijuana-rescheduling-launches-1-800x420.jpeg"
         },
         {
-          "title": "JPMorgan Chase Files Application for a Blockchain-Based Money Market Fund Targeting Stablecoin Issuers",
-          "description": "JPMorgan Chase has filed an application with the U.S. Securities and Exchange Commission for a blockchain-based money market fund designed in part for stablecoin issuers. According to the filing, the fund would use blockchain infrastructure developed by Kinex…",
-          "url": "https://dailyhodl.com/2026/05/15/jpmorgan-chase-files-application-for-a-blockchain-based-money-market-fund-targeting-stablecoin-issuers/",
-          "source": "The Daily Hodl",
-          "published": "2026-05-15T07:04:58Z",
-          "image": "https://dailyhodl.com/wp-content/uploads/2025/05/based-on-monetary-policy.jpg?resize=1365,800"
-        },
-        {
-          "title": "Group linked to Trump sons seeks $400M from US defense department for Kazakhstan tungsten mine",
-          "description": "The request highlights potential conflicts of interest and underscores the geopolitical shift towards diversifying critical mineral sources.\nThe post Group linked to Trump sons seeks $400M from US defense department for Kazakhstan tungsten mine appeared first…",
-          "url": "https://cryptobriefing.com/trump-sons-400m-kazakhstan-tungsten-mine/",
+          "title": "Kraken’s Ink flagship lender taps RedStone as official oracle provider",
+          "description": "The swift integration of RedStone as an oracle provider highlights the critical need for resilient infrastructure in rapidly growing DeFi ecosystems.\nThe post Kraken’s Ink flagship lender taps RedStone as official oracle provider appeared first on Crypto Brie…",
+          "url": "https://cryptobriefing.com/kraken-ink-flagship-lender-tydro-taps-redstone-official-oracle-provider/",
           "source": "Crypto Briefing",
-          "published": "2026-05-15T05:29:37Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/15012936/us-eyes-up-to-700-million-for-kazakhstan-tungsten-project-to-1-800x420.jpeg"
+          "published": "2026-05-15T18:00:08Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/15110336/74c442f7-07e4-4ca9-bb4b-ad25943dd490-800x420.jpg"
         },
         {
-          "title": "Sharps Technology Adopts Limited Duration Stockholder Rights Plan",
-          "description": "MELVILLE, N.Y., May 14, 2026 /PRNewswire/ -- Sharps Technology, Inc. (\"Sharps Technology\" or the \"Company\") (NASDAQ: STSS) today announced that its Board of Directors has adopted a limited duration stockholder rights plan (the \"Rights Plan\") to protect stockh…",
-          "url": "https://www.prnewswire.com/news-releases/sharps-technology-adopts-limited-duration-stockholder-rights-plan-302772955.html",
-          "source": "PRNewswire",
-          "published": "2026-05-14T22:07:00Z",
-          "image": "https://mma.prnewswire.com/media/2980698/Sharps_Logo.jpg?p=facebook"
-        },
-        {
-          "title": "VCI Global Launches Strategic Gold Treasury Program Integrating Physical Gold and Tether Gold",
-          "description": "Company Advances Long-Term Treasury Diversification Strategy Through Physical Gold Reserves and Gold-Linked Digital Assets Company Advances Long-Term Treasury Diversification Strategy Through Physical Gold Reserves and Gold-Linked Digital Assets",
-          "url": "https://www.globenewswire.com/news-release/2026/05/14/3295424/0/en/VCI-Global-Launches-Strategic-Gold-Treasury-Program-Integrating-Physical-Gold-and-Tether-Gold.html",
+          "title": "Investview, Inc. (“INVU”) Reports Financial Results and Operational Highlights for the First Quarter Ended March 31, 2026",
+          "description": "Haverford, PA, May 15, 2026 (GLOBE NEWSWIRE) -- Investview, Inc. (OTCQB: INVU) operates a diversified series of business units across key sectors, including a direct-to-consumer (“DTC”) marketing platform designed to promote, sell, and distribute its products…",
+          "url": "https://www.globenewswire.com/news-release/2026/05/15/3296065/0/en/Investview-Inc-INVU-Reports-Financial-Results-and-Operational-Highlights-for-the-First-Quarter-Ended-March-31-2026.html",
           "source": "GlobeNewswire",
-          "published": "2026-05-14T20:30:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/a5732b87-b5d4-4b9e-8452-fed90f097c33"
-        },
-        {
-          "title": "Could Zcash Be the Next Bitcoin? Here’s Why Some Crypto Veterans Are Starting to Think So",
-          "description": "Zcash has significantly outperformed the broader crypto market over the past month, surging more than 52.5% while Bitcoin posted a comparatively modest 9.4% gain.",
-          "url": "https://zycrypto.com/could-zcash-be-the-next-bitcoin-heres-why-some-crypto-veterans-are-starting-to-think-so/",
-          "source": "ZyCrypto",
-          "published": "2026-05-14T19:32:33Z",
-          "image": "https://zycrypto.com/wp-content/uploads/2026/05/Could-Zcash-Be-the-Next-Bitcoin-Heres-Why-Some-Crypto-Veterans-Are-Starting-to-Think-So.jpg"
-        },
-        {
-          "title": "Why the Smartest Leader Usually Fails",
-          "description": "Why the Smartest Leader Usually Fails written by John Jantsch read more at Duct Tape Marketing\nCatch the full episode: Overview Most companies hit a ceiling not because of strategy or market conditions, but because the leader is still trying to be the smartes…",
-          "url": "https://ducttapemarketing.com/why-the-smartest-leader-usually-fails/",
-          "source": "Ducttapemarketing.com",
-          "published": "2026-05-14T19:17:31Z",
-          "image": "https://ducttapemarketing.com/wp-content/uploads/2026/05/getty-images-tjWTlhrJ4fk-unsplash-scaled.jpg"
+          "published": "2026-05-15T17:05:00Z",
+          "image": "https://ml.globenewswire.com/Resource/Download/1479b4ab-1583-4ddf-8020-4785be0c75d8"
         }
       ]
     },
@@ -270,6 +270,14 @@
           "title": "Startups",
           "icon": "💡",
           "articles": [
+            {
+              "title": "Cerebras’ monster IPO, Cisco’s big quarter, and the AI factory’s real impact",
+              "description": "Are IPOs finally back? It sure looks like it, if Cerebras’ monster initial public offering this week is any indication. After raising its offering price twice, the stock rose 68% on the first day of trading, as the maker of huge artificial intelligence chips …",
+              "url": "https://siliconangle.com/2026/05/15/cerebras-monster-ipo-ciscos-big-quarter-ai-factorys-real-impact/",
+              "source": "SiliconANGLE News",
+              "published": "2026-05-15T14:00:54Z",
+              "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/Cerebras-Chip-Moonshot-Golden-Wafer-v4.png"
+            },
             {
               "title": "Isomorphic Labs raises $2.1B for AI-powered drug discovery, backed by Alphabet and sovereign wealth funds",
               "description": "Isomorphic Labs' funding highlights AI's potential to revolutionize drug discovery, but success hinges on bridging computational and clinical gaps.\nThe post Isomorphic Labs raises $2.1B for AI-powered drug discovery, backed by Alphabet and sovereign wealth fu…",
@@ -316,6 +324,14 @@
           "title": "Hyperscalers",
           "icon": "☁️",
           "articles": [
+            {
+              "title": "Google to hire hundreds of engineers for AI customer support",
+              "description": "Google's AI hiring surge highlights the growing demand for regulatory-compliant AI solutions, impacting enterprise tech and Web3 infrastructure.\nThe post Google to hire hundreds of engineers for AI customer support appeared first on Crypto Briefing.",
+              "url": "https://cryptobriefing.com/google-hiring-hundreds-engineers-ai-support/",
+              "source": "Crypto Briefing",
+              "published": "2026-05-15T16:39:42Z",
+              "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/15123941/google-s-new-logo-is-trying-really-hard-to-look-friendly-wir-1-800x420.jpeg"
+            },
             {
               "title": "Why the Smartest Leader Usually Fails",
               "description": "Why the Smartest Leader Usually Fails written by John Jantsch read more at Duct Tape Marketing\nCatch the full episode: Overview Most companies hit a ceiling not because of strategy or market conditions, but because the leader is still trying to be the smartes…",
@@ -371,14 +387,6 @@
               "source": "CoinDesk",
               "published": "2026-05-10T14:02:06Z",
               "image": "https://cdn.sanity.io/images/s3y3vcno/production/5a3a1c73d58c0d900a0709bd5ab1d20c5a56a1eb-2048x1152.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
-            },
-            {
-              "title": "The Praxian Genocidal Kill Chain – Part 1",
-              "description": "In this two-part article series, Iain Davis examines how a class of Silicon Valley oligarchs have set about destabilising the planet in order to achieve their goal of a multipolar world of interconnected smart-city states; that is, a regionalised world that t…",
-              "url": "https://www.activistpost.com/the-praxian-genocidal-kill-chain-part-1/",
-              "source": "Activistpost.com",
-              "published": "2026-05-09T10:00:00Z",
-              "image": "https://www.activistpost.com/wp-content/uploads/2026/05/Praxian_01-1536x982-1.webp"
             }
           ]
         }
