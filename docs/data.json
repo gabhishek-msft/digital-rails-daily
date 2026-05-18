@@ -1,11 +1,19 @@
 {
-  "date": "May 17, 2026",
+  "date": "May 18, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "Crypto Exchange Battle 2026: KuCoin vs OKX — Where Do Traders Prefer to Trade?",
+          "description": "The KuCoin vs OKX comparison 2026 does not come down to one clear winner. Both support international crypto trading activity, but differences appear beneath the...\nThe post Crypto Exchange Battle 2026: KuCoin vs OKX — Where Do Traders Prefer to Trade? appeare…",
+          "url": "https://bitcoinfoundation.org/news/crypto-companies-news/crypto-exchange-battle-2026-kucoin-vs-okx/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-05-16T09:55:35Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/05/compar-1.webp"
+        },
         {
           "title": "Zcash vs Bitcoin in 2026: Is Zcash a Better Privacy Coin Than Bitcoin for Investors?",
           "description": "Zcash vs Bitcoin in 2026 debate is centered on Bitcoin’s role as an inflation hedge or macro “digital gold” asset due to ETF listings and...\nThe post Zcash vs Bitcoin in 2026: Is Zcash a Better Privacy Coin Than Bitcoin for Investors? appeared first on Bitcoi…",
@@ -31,14 +39,6 @@
           "image": "https://cryptoslate.com/wp-content/uploads/2026/05/xrp-airdrop-scam.jpg"
         },
         {
-          "title": "Sensex today | Stock Market Highlights: Sensex gains 789 pts, Nifty ends at 23,689 as US-China trade talks lift investor sentiment",
-          "description": "Sensex, Nifty, Share Prices Highlights: Indian shares rose on Thursday, supported by steady earnings ​and signs of progress in U.S.-China trade relations, though sentiment ‌remained fragile as elevated oil prices and foreign ​outflows drove the rupee to anoth…",
-          "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-14th-may-2026/article70974643.ece",
-          "source": "BusinessLine",
-          "published": "2026-05-14T10:36:06Z",
-          "image": "https://bl-i.thgim.com/public/incoming/i38me4/article70974667.ece/alternates/LANDSCAPE_1200/iStock-1255683032%201.jpg"
-        },
-        {
           "title": "Charles Hoskinson Says Cardano Never Abandoned Scaling Amid Community Criticism",
           "description": "Charles Hoskinson, Cardano founder, pushed back strongly against claims that Cardano had “abandoned scaling in favor of governance.”",
           "url": "https://zycrypto.com/charles-hoskinson-says-cardano-never-abandoned-scaling-amid-community-criticism/",
@@ -54,68 +54,68 @@
       "color": "#e6a200",
       "articles": [
         {
-          "title": "mithril-llm added to PyPI",
-          "description": "A firewall for LLMs — block prompt injection, jailbreaks, and PII exfiltration in real time.",
-          "url": "https://pypi.org/project/mithril-llm/",
+          "title": "More women, freshers migrating for better blue, grey-collar jobs: Report",
+          "description": "Freshers' or first-time job seekers' cross-city application rate climbed 11 per cent compared to a far softer 5 per cent increase among experienced workers",
+          "url": "https://www.thehindubusinessline.com/news/more-women-freshers-migrating-for-better-blue-grey-collar-jobs-report/article70990038.ece",
+          "source": "BusinessLine",
+          "published": "2026-05-17T09:52:36Z",
+          "image": "https://bl-i.thgim.com/public/incoming/bqvrvj/article70990055.ece/alternates/LANDSCAPE_1200/IMG_bl08_Happy_women_2_1_CSAV8NHR.jpg"
+        },
+        {
+          "title": "4x Months Restor Hair Regrowth Minoxidil 5% Extra Strength (Men & Woman) + 50x Panamax 500mg $40.99 Delivered @PharmacySavings",
+          "description": "Hi Ozbargainers, With antihistamine sales slowing at this this time of year as the wet weather sets in, we always see a surge in demand for Minoxidil 5% extra strength hair regrowth liquids and …",
+          "url": "https://www.ozbargain.com.au/node/959574",
+          "source": "Ozbargain.com.au",
+          "published": "2026-05-17T09:49:47Z",
+          "image": "https://files.ozbargain.com.au/n/74/959574x.jpg?h=579ef97c"
+        },
+        {
+          "title": "Nagaland Lottery Results Sunday (17-05-2026): Check timings, winning tickets, and other details",
+          "description": "Nagaland State Lottery results for the Sambad Morning Sunday Weekly Draw are out, with a top prize of Rs 1 crore. Winners can claim prizes up to Rs 10,000 from distributors, while larger amounts require a formal application to the Director of Nagaland State L…",
+          "url": "https://economictimes.indiatimes.com/news/new-updates/nagaland-lottery-results-sunday-17-05-2026-check-timings-winning-tickets-and-other-details/articleshow/131151661.cms",
+          "source": "The Times of India",
+          "published": "2026-05-17T09:41:35Z",
+          "image": "https://img.etimg.com/thumb/msid-131151702,width-1200,height-630,imgsize-1322257,overlay-economictimes/articleshow.jpg"
+        },
+        {
+          "title": "Playing Atari ST Music on the Amiga with Zero CPU",
+          "description": "How to emulate an Atari YM2149 audio chip on Amiga at litteraly 0 CPU cost, by Arnaud Carré",
+          "url": "https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/",
+          "source": "Github.io",
+          "published": "2026-05-17T08:00:04Z",
+          "image": "https://arnaud-carre.github.io/assets/img/ymemu/fastym_title.jpg"
+        },
+        {
+          "title": "Nephrocare Health Services: Business Built By Founder Who Turned Personal Struggle Into Scalable Impact.",
+          "description": "Nephrocare Health Services: Business Built By Founder Who Turned Personal Struggle Into Scalable Impact.substack.com",
+          "url": "https://mannashar.substack.com/p/nephrocare-health-services-business",
+          "source": "Substack.com",
+          "published": "2026-05-17T07:39:28Z",
+          "image": "https://substackcdn.com/image/fetch/$s_!-p-n!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F815f4611-b09b-431a-af9b-f745b37f72b3_971x540.png"
+        },
+        {
+          "title": "mcp-memory-service 10.59.2",
+          "description": "Semantic memory layer for AI applications. REST API + MCP transport + knowledge graph + autonomous consolidation. Works with 14+ AI clients. Self-host, zero cloud cost.",
+          "url": "https://pypi.org/project/mcp-memory-service/10.59.2/",
           "source": "Pypi.org",
-          "published": "2026-05-16T08:16:23Z",
-          "image": "https://pypi.org/static/images/twitter.abaf4b19.webp"
+          "published": "2026-05-17T07:14:29Z",
+          "image": null
         },
         {
-          "title": "codeloom 0.1.0",
-          "description": "Local-first code graph builder with 5-signal hybrid search for AI coding agents",
-          "url": "https://pypi.org/project/codeloom/",
-          "source": "Pypi.org",
-          "published": "2026-05-16T07:53:36Z",
-          "image": "https://pypi.org/static/images/twitter.abaf4b19.webp"
+          "title": "App days are numbered: The end state of software will be private, personal, verified, and AI agent-built",
+          "description": "AI agents could end the app era by turning software into verified, user-built systems AI agents may make running code written by strangers one of those behaviors that later generations struggle to process. A society can normalize a risk for decades, then late…",
+          "url": "https://cryptoslate.com/app-days-are-numbered-the-end-state-of-software-is-private-personal-verified-and-ai-agent-built/",
+          "source": "CryptoSlate",
+          "published": "2026-05-16T15:35:44Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/05/software-trust.jpg"
         },
         {
-          "title": "Home loan planning tips to avoid costly financial mistakes when buying a family home",
-          "description": "Buying a home with family requires smart home loan planning, clear ownership roles, sustainable EMI management, legal agreements, and careful budgeting to avoid financial stress and long-term repayment challenges.",
-          "url": "https://www.livemint.com/money/personal-finance/home-loan-planning-tips-to-avoid-costly-financial-mistakes-when-buying-a-family-home-11778783988621.html",
-          "source": "Livemint",
-          "published": "2026-05-16T07:36:11Z",
-          "image": "https://www.livemint.com/lm-img/img/2026/05/14/1600x900/logo/shutterstock_1716988259327_1778784377563_304eb79e-e069-4f96-8a13-7a4daee3b1c4.jpg"
-        },
-        {
-          "title": "Bhagavad Gita for Entrepreneurs: Krishna’s Wisdom for Building Without Burning Out",
-          "description": "The Bhagavad Gita's wisdom for entrepreneurs: how to act without burnout, build with purpose, lead through example, and navigate the startup rollercoaster with equanimity and clarity.",
-          "url": "https://nextbigwhat.com/bhagavad-gita-for-entrepreneurs-krishna-s-wisdom-for-building-without/",
-          "source": "Nextbigwhat.com",
-          "published": "2026-05-16T07:25:51Z",
-          "image": "https://i0.wp.com/nextbigwhat.com/wp-content/uploads/2026/05/bhagavad-gita-for-entrepreneurs-krishna-s-wisdom-for-building-without-.jpg?fit=1200%2C630&ssl=1"
-        },
-        {
-          "title": "SOL Strategies acquires Houdini Swap and Darklake Labs to enhance Solana infrastructure",
-          "description": "SOL Strategies' acquisitions position it to attract institutional capital by enhancing privacy and cross-chain capabilities on Solana.\nThe post SOL Strategies acquires Houdini Swap and Darklake Labs to enhance Solana infrastructure appeared first on Crypto Br…",
-          "url": "https://cryptobriefing.com/sol-strategies-acquires-houdini-swap-darklake/",
-          "source": "Crypto Briefing",
-          "published": "2026-05-15T21:04:42Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/15170441/solana-sol-logo-crypto-logos-4-1-800x420.png"
-        },
-        {
-          "title": "For ‘Survivor’ Legends Who Keep Coming Back, Outplaying and Outlasting Is a ‘Religious Experience’",
-          "description": "In the lead-up to the Season 50 finale, \"Survivor\" regulars Ozzy Lusth, Dee Valladares, and Stephenie LaGrossa Kendrick tell IndieWire why the game keeps pulling them back.",
-          "url": "https://www.indiewire.com/awards/consider-this/survivor-50-why-legends-keep-coming-back-1235194186/",
-          "source": "IndieWire",
-          "published": "2026-05-15T19:30:00Z",
-          "image": "https://www.indiewire.com/wp-content/uploads/2026/05/Screen-Shot-2026-05-15-at-11.21.32-AM.png?w=650"
-        },
-        {
-          "title": "The AWS AI Security Framework: Securing AI with the right controls, at the right layers, at the right phases",
-          "description": "TL;DR for busy executives The AWS AI Security Framework helps security leaders move fast and stay secure with AI. Security compounds from day 1 as workloads evolve from prototype to production to scale. Assess first. Request a no-cost SHIP engagement to basel…",
-          "url": "https://aws.amazon.com/blogs/security/the-aws-ai-security-framework-securing-ai-with-the-right-controls-at-the-right-layers-at-the-right-phases/",
-          "source": "Amazon.com",
-          "published": "2026-05-15T17:38:16Z",
-          "image": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2026/05/13/AWS-AI-Security-Framework-1260x630.jpg"
-        },
-        {
-          "title": "The mediating roles of personal mastery and health-promoting behaviors in the relationship between self-regulatory fatigue and quality of life among patients with type 2 diabetes mellitus",
-          "description": "Background Quality of life (QoL) is a pivotal prognostic indicator for patients with Type 2 Diabetes Mellitus (T2DM). While the impact of various factors on QoL is recognized, the complex interplay between psychological and behavioral determinants remains und…",
-          "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349561",
-          "source": "Plos.org",
-          "published": "2026-05-15T14:00:00Z",
-          "image": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0349561.g002&size=inline"
+          "title": "Crypto Exchange Battle 2026: KuCoin vs OKX — Where Do Traders Prefer to Trade?",
+          "description": "The KuCoin vs OKX comparison 2026 does not come down to one clear winner. Both support international crypto trading activity, but differences appear beneath the...\nThe post Crypto Exchange Battle 2026: KuCoin vs OKX — Where Do Traders Prefer to Trade? appeare…",
+          "url": "https://bitcoinfoundation.org/news/crypto-companies-news/crypto-exchange-battle-2026-kucoin-vs-okx/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-05-16T09:55:35Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/05/compar-1.webp"
         }
       ]
     },
@@ -125,68 +125,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "South Korea To Unveil Tokenized Securities Rules In July As Crypto Regulation Advances",
-          "description": "South Korean authorities are set to release detailed rules for the issuance, infrastructure, and distribution of tokenized securities, as the country advances its efforts to implement crypto market regulations in 2027. Related Reading: Bank Of England To Ease…",
-          "url": "https://bitcoinist.com/south-korea-tokenized-securities-crypto-regulation/",
-          "source": "Bitcoinist",
-          "published": "2026-05-16T08:00:03Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2025/01/lauren-seo-YAf3-xZBc0I-unsplash.jpg"
+          "title": "Expert Says XRP Is Poised for a Face-Melting Rally as XRPL Climbs RWA Rankings— Why $10 Is in Focus",
+          "description": "XRP community educator X Finance Bull has sparked fresh debate across the market, suggesting that XRP may be on the verge of a face-melting rally as momentum across the XRP Ledger continues to build. Pointing to rising activity and improving rankings in the R…",
+          "url": "https://zycrypto.com/expert-says-xrp-is-poised-for-a-face-melting-rally-as-xrpl-climbs-rwa-rankings-why-10-is-in-focus/",
+          "source": "ZyCrypto",
+          "published": "2026-05-17T09:21:36Z",
+          "image": "https://zycrypto.com/wp-content/uploads/2026/03/Ripples-XRP-Whales-Eye-1.7-Trillion-Payments-Industry-as-New-SWIFT-Narrative-Gains-Momentum.jpg"
         },
         {
-          "title": "Bitcoin Power Law Forecasts Price Bottom Of $42,800 – Details",
-          "description": "Bitcoin’s price performance in the last week saw a slowdown to the asset’s relief rally that began in early April. According to data from CoinMarketCap, the market price declined by 1.45% in a range-bound week, during which bulls failed to overcome a key resi…",
-          "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-power-law-forecasts-price-bottom-of-42800-details/",
-          "source": "newsBTC",
-          "published": "2026-05-16T07:00:40Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2026/05/pexels-photo-5980743.jpeg"
-        },
-        {
-          "title": "Stablecoins: What They Are and How They Work",
-          "description": "Podcast Transcript One of the most talked-about topics in finance today is stablecoins.  Stablecoins have the potential to totally upend the world of banking and finance.  Banks, governments, and tech companies are looking at stablecoins to determine how they…",
-          "url": "https://everything-everywhere.com/stablecoins-what-they-are-and-how-they-work/",
-          "source": "Everything-everywhere.com",
-          "published": "2026-05-16T06:22:27Z",
-          "image": "https://photos.smugmug.com/Other/n-hRFP2/Podcast-Images/i-vV6d7NH/0/NMZGSVdZfSK7K8xRk6zDxCkNpwFDN2kjMrDncJZq7/L/2140epart-L.jpg"
-        },
-        {
-          "title": "animica 0.1.16",
-          "description": "Animica blockchain CLI and client libraries — node, wallet, miner, contracts, and useful-work jobs.",
-          "url": "https://pypi.org/project/animica/0.1.16/",
+          "title": "nwo-mr added to PyPI",
+          "description": "Mixed Reality layer for NWO Robotics - enabling AI agents to embody avatars, simulate robotics, and participate in virtual economies",
+          "url": "https://pypi.org/project/nwo-mr/",
           "source": "Pypi.org",
-          "published": "2026-05-16T05:07:16Z",
-          "image": null
+          "published": "2026-05-17T09:20:57Z",
+          "image": "https://pypi.org/static/images/twitter.abaf4b19.webp"
         },
         {
-          "title": "XRP ETF Accumulation Pushes Marex Group Among Top Holders",
-          "description": "Marex Group’s own stock climbed more than 15% in a week after the Nasdaq-listed financial services firm disclosed a combined $9.4 million position across two spot XRP exchange-traded funds, landing it among the top institutional holders of XRP ETF shares in t…",
-          "url": "https://bitcoinist.com/xrp-etf-accumulation-pushes-marex-group-into-top-3-holders/",
-          "source": "Bitcoinist",
-          "published": "2026-05-16T05:00:43Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/05/a_2ac9bf.webp"
+          "title": "A7A5 stablecoin aims to evolve beyond sanctions as trade tool",
+          "description": "A7A5's evolution highlights stablecoins' potential as geopolitical tools, challenging traditional banking and dollar dominance in global trade.\nThe post A7A5 stablecoin aims to evolve beyond sanctions as trade tool appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/a7a5-stablecoin-sanctions-trade-tool/",
+          "source": "Crypto Briefing",
+          "published": "2026-05-17T08:06:46Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/17040640/a7a5-the-ruble-backed-stablecoin-crosses-100-billion-in-tran-1-800x420.jpeg"
         },
         {
-          "title": "Ethereum Sell Signal That Last Preceded A 63% Drop Flashes Again",
-          "description": "Ethereum has seen a Tom Demark (TD) Sequential sell signal on its weekly chart, something that last led to a major drawdown for the asset. Ethereum Has Seen A TD Sequential Sell Signal In a new post on X, analyst Ali Martinez has highlighted a TD Sequential s…",
-          "url": "http://www.newsbtc.com/news/ethereum/ethereum-sell-last-preceded-63-drop-flashes-again/",
-          "source": "newsBTC",
-          "published": "2026-05-16T05:00:25Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2026/05/eth_290cc5.png?fit=1152%2C768"
+          "title": "A major bank just moved its stablecoin strategy into Wall Street’s hidden financing machine",
+          "description": "Societe Generale plans to bring SG-FORGE's EUR CoinVertible and USD CoinVertible to Canton Network as part of a push into collateral, repo financing, and settlement. The May 13 move puts the French bank's stablecoin effort closer to the operating layer of ins…",
+          "url": "https://cryptoslate.com/societe-generale-stablecoins-canton-repo-collateral/",
+          "source": "CryptoSlate",
+          "published": "2026-05-17T07:36:07Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/05/sgforce-canton.jpg"
         },
         {
-          "title": "Institutional investors flocked to establish new stakes in semiconductor firms in first quarter",
-          "description": "Institutional investors actively bought shares in semiconductor companies such as Micron and Intel during the first quarter. This move positioned them to benefit from a significant market rally. Demand for memory chips, fueled by AI development, drove substan…",
-          "url": "https://economictimes.indiatimes.com/tech/technology/institutional-investors-flocked-to-establish-new-stakes-in-semiconductor-firms-in-first-quarter/articleshow/131131201.cms",
-          "source": "The Times of India",
-          "published": "2026-05-16T03:57:35Z",
-          "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-32868,resizemode-75,msid-131131201/tech/technology/institutional-investors-flocked-to-establish-new-stakes-in-semiconductor-firms-in-first-quarter.jpg"
+          "title": "DayOne plans dual IPO in Singapore and US with potential $20 billion valuation",
+          "description": "DayOne's dual IPO strategy could enhance its global market presence, leveraging diverse capital sources and mitigating geopolitical risks.\nThe post DayOne plans dual IPO in Singapore and US with potential $20 billion valuation appeared first on Crypto Briefin…",
+          "url": "https://cryptobriefing.com/dayone-dual-ipo-singapore-us/",
+          "source": "Crypto Briefing",
+          "published": "2026-05-17T05:50:05Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/17015003/dayone-mulls-us-20-billion-ipo-in-us-dual-listing-with-singa-1-800x420.jpeg"
         },
         {
-          "title": "U Power Reports Financial Results for Full Year of 2025",
-          "description": "Transitioning to a Provider of Sustainable Mobility and Energy Solutions by Expanding into AI-Driven Energy Management Solutions for IDCs SHANGHAI, May 15, 2026 /PRNewswire/ -- U Power Limited (Nasdaq: UCAR) (the \"Company\" or \"U Power\"), a provider of AI-inte…",
-          "url": "https://www.prnewswire.com/news-releases/u-power-reports-financial-results-for-full-year-of-2025-302773936.html",
-          "source": "PRNewswire",
-          "published": "2026-05-15T21:11:00Z",
-          "image": null
+          "title": "CLARITY Act survives near-collapse after last-minute Senate compromise",
+          "description": "The CLARITY Act's survival highlights the fragile nature of bipartisan cooperation and signals potential shifts in crypto regulation dynamics.\nThe post CLARITY Act survives near-collapse after last-minute Senate compromise appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/clarity-act-senate-committee-compromise/",
+          "source": "Crypto Briefing",
+          "published": "2026-05-17T03:15:13Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/16231512/u-s-senate-opens-a-new-session-with-a-record-set-by-mcconnel-1-1-800x420.jpeg"
+        },
+        {
+          "title": "Bank of Japan’s Himino calls for holistic approach to future monetary system",
+          "description": "Himino's call for a unified monetary system highlights the need for regulatory frameworks to ensure stability and interoperability in digital finance.\nThe post Bank of Japan’s Himino calls for holistic approach to future monetary system appeared first on Cryp…",
+          "url": "https://cryptobriefing.com/boj-himino-holistic-monetary-system/",
+          "source": "Crypto Briefing",
+          "published": "2026-05-16T18:30:24Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/16143023/boj-s-himino-calls-for-holistic-approach-on-global-monetary--1-800x420.jpeg"
+        },
+        {
+          "title": "Intesa Sanpaolo increases crypto exposure to $231M in Q1",
+          "description": "Intesa's crypto strategy signals a shift towards institutional acceptance, potentially reshaping the competitive landscape in digital finance.\nThe post Intesa Sanpaolo increases crypto exposure to $231M in Q1 appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/intesa-sanpaolo-crypto-exposure-231m-q1/",
+          "source": "Crypto Briefing",
+          "published": "2026-05-16T16:49:55Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/16124946/intesa-sanpaolo-crypto-exposure-jumps-in-q1-2026-1-800x420.jpeg"
         }
       ]
     },
@@ -196,28 +196,60 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Stablecoins: What They Are and How They Work",
-          "description": "Podcast Transcript One of the most talked-about topics in finance today is stablecoins.  Stablecoins have the potential to totally upend the world of banking and finance.  Banks, governments, and tech companies are looking at stablecoins to determine how they…",
-          "url": "https://everything-everywhere.com/stablecoins-what-they-are-and-how-they-work/",
-          "source": "Everything-everywhere.com",
-          "published": "2026-05-16T06:22:27Z",
-          "image": "https://photos.smugmug.com/Other/n-hRFP2/Podcast-Images/i-vV6d7NH/0/NMZGSVdZfSK7K8xRk6zDxCkNpwFDN2kjMrDncJZq7/L/2140epart-L.jpg"
+          "title": "Expert Says XRP Is Poised for a Face-Melting Rally as XRPL Climbs RWA Rankings— Why $10 Is in Focus",
+          "description": "XRP community educator X Finance Bull has sparked fresh debate across the market, suggesting that XRP may be on the verge of a face-melting rally as momentum across the XRP Ledger continues to build. Pointing to rising activity and improving rankings in the R…",
+          "url": "https://zycrypto.com/expert-says-xrp-is-poised-for-a-face-melting-rally-as-xrpl-climbs-rwa-rankings-why-10-is-in-focus/",
+          "source": "ZyCrypto",
+          "published": "2026-05-17T09:21:36Z",
+          "image": "https://zycrypto.com/wp-content/uploads/2026/03/Ripples-XRP-Whales-Eye-1.7-Trillion-Payments-Industry-as-New-SWIFT-Narrative-Gains-Momentum.jpg"
         },
         {
-          "title": "animica 0.1.16",
-          "description": "Animica blockchain CLI and client libraries — node, wallet, miner, contracts, and useful-work jobs.",
-          "url": "https://pypi.org/project/animica/0.1.16/",
+          "title": "nwo-mr added to PyPI",
+          "description": "Mixed Reality layer for NWO Robotics - enabling AI agents to embody avatars, simulate robotics, and participate in virtual economies",
+          "url": "https://pypi.org/project/nwo-mr/",
           "source": "Pypi.org",
-          "published": "2026-05-16T05:07:16Z",
-          "image": null
+          "published": "2026-05-17T09:20:57Z",
+          "image": "https://pypi.org/static/images/twitter.abaf4b19.webp"
         },
         {
-          "title": "Ethereum Sell Signal That Last Preceded A 63% Drop Flashes Again",
-          "description": "Ethereum has seen a Tom Demark (TD) Sequential sell signal on its weekly chart, something that last led to a major drawdown for the asset. Ethereum Has Seen A TD Sequential Sell Signal In a new post on X, analyst Ali Martinez has highlighted a TD Sequential s…",
-          "url": "http://www.newsbtc.com/news/ethereum/ethereum-sell-last-preceded-63-drop-flashes-again/",
-          "source": "newsBTC",
-          "published": "2026-05-16T05:00:25Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2026/05/eth_290cc5.png?fit=1152%2C768"
+          "title": "A7A5 stablecoin aims to evolve beyond sanctions as trade tool",
+          "description": "A7A5's evolution highlights stablecoins' potential as geopolitical tools, challenging traditional banking and dollar dominance in global trade.\nThe post A7A5 stablecoin aims to evolve beyond sanctions as trade tool appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/a7a5-stablecoin-sanctions-trade-tool/",
+          "source": "Crypto Briefing",
+          "published": "2026-05-17T08:06:46Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/17040640/a7a5-the-ruble-backed-stablecoin-crosses-100-billion-in-tran-1-800x420.jpeg"
+        },
+        {
+          "title": "Samsung and labor union resume negotiations to avert massive strike",
+          "description": "A prolonged strike at Samsung could disrupt global semiconductor supply chains, impacting tech industries and escalating hardware costs.\nThe post Samsung and labor union resume negotiations to avert massive strike appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/samsung-labor-union-strike-negotiations/",
+          "source": "Crypto Briefing",
+          "published": "2026-05-17T06:59:02Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/17025902/samsung-holds-desperate-final-talks-with-union-over-18-day-c-1-800x420.jpeg"
+        },
+        {
+          "title": "Cathie Wood sells $40.6 million of popular semiconductor stock",
+          "description": "Cathie Wood, chief of Ark Investment Management, is known for actively trading her holdings, sometimes selling stocks during sharp market pullbacks...",
+          "url": "https://www.thestreet.com/investing/stocks/cathie-wood-sells-40-6-million-of-taiwan-semiconductor-stock-tsmc-tsm",
+          "source": "TheStreet",
+          "published": "2026-05-16T23:23:51Z",
+          "image": "https://s.yimg.com/os/en/thestreet_881/59b7510439060414de8276fdfc3235c0"
+        },
+        {
+          "title": "Cathie Wood, Ross Gerber Snap Up The Same 10 Stocks — Here's The Unlikely Portfolio Crossover",
+          "description": "For retail investors, few names are more recognizable than Ross Gerber and Cathie Wood. Both are known for their high-profile media appearances, active...",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-ross-gerber-snap-203008080.html",
+          "source": "Yahoo Entertainment",
+          "published": "2026-05-16T20:30:08Z",
+          "image": "https://s.yimg.com/os/en/benzinga_79/498347167006c8334700f3bf97484fbd"
+        },
+        {
+          "title": "China and US reach tentative tariff reduction agreement after summit talks",
+          "description": "The tentative tariff reduction agreement between China and the US could boost global risk sentiment, benefiting equities and digital assets.\nThe post China and US reach tentative tariff reduction agreement after summit talks appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/china-us-tariff-reduction-agreement/",
+          "source": "Crypto Briefing",
+          "published": "2026-05-16T18:03:40Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/16140339/us-china-have-agreed-on-framework-to-implement-trade-deal-lu-1-800x420.jpeg"
         },
         {
           "title": "Quantum-enhanced federated blockchain for privacy-preserving cardiovascular intelligence",
@@ -226,38 +258,6 @@
           "source": "Nature.com",
           "published": "2026-05-16T00:00:00Z",
           "image": null
-        },
-        {
-          "title": "US Treasury yields surge to new highs as liquidity tightens, pushing Bitcoin back below $82,000 resistance",
-          "description": "Bitcoin’s latest retreat below $80,000 shows how quickly the bond market has reclaimed control of crypto trading, even after lawmakers advanced one of the industry’s most closely watched regulatory bills. Data from CryptoSlate showed that the top asset was tr…",
-          "url": "https://cryptoslate.com/us-treasury-yields-surge-to-new-highs-as-liquidity-tightens-pushing-bitcoin-back-below-82000-resistance/",
-          "source": "CryptoSlate",
-          "published": "2026-05-15T19:10:23Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/05/us-treasury-bitcoin.jpg"
-        },
-        {
-          "title": "Medicare to offer free CBD to select patients under new Trump administration program",
-          "description": "The program's success could reshape healthcare policy, boost cannabis research, and impact financial systems tied to the cannabis industry.\nThe post Medicare to offer free CBD to select patients under new Trump administration program appeared first on Crypto …",
-          "url": "https://cryptobriefing.com/medicare-free-cbd-trump-program/",
-          "source": "Crypto Briefing",
-          "published": "2026-05-15T19:04:32Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/15150430/trump-order-aims-to-expedite-marijuana-rescheduling-launches-1-800x420.jpeg"
-        },
-        {
-          "title": "Kraken’s Ink flagship lender taps RedStone as official oracle provider",
-          "description": "The swift integration of RedStone as an oracle provider highlights the critical need for resilient infrastructure in rapidly growing DeFi ecosystems.\nThe post Kraken’s Ink flagship lender taps RedStone as official oracle provider appeared first on Crypto Brie…",
-          "url": "https://cryptobriefing.com/kraken-ink-flagship-lender-tydro-taps-redstone-official-oracle-provider/",
-          "source": "Crypto Briefing",
-          "published": "2026-05-15T18:00:08Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/15110336/74c442f7-07e4-4ca9-bb4b-ad25943dd490-800x420.jpg"
-        },
-        {
-          "title": "Investview, Inc. (“INVU”) Reports Financial Results and Operational Highlights for the First Quarter Ended March 31, 2026",
-          "description": "Haverford, PA, May 15, 2026 (GLOBE NEWSWIRE) -- Investview, Inc. (OTCQB: INVU) operates a diversified series of business units across key sectors, including a direct-to-consumer (“DTC”) marketing platform designed to promote, sell, and distribute its products…",
-          "url": "https://www.globenewswire.com/news-release/2026/05/15/3296065/0/en/Investview-Inc-INVU-Reports-Financial-Results-and-Operational-Highlights-for-the-First-Quarter-Ended-March-31-2026.html",
-          "source": "GlobeNewswire",
-          "published": "2026-05-15T17:05:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/1479b4ab-1583-4ddf-8020-4785be0c75d8"
         }
       ]
     },
@@ -379,14 +379,6 @@
               "source": "GlobeNewswire",
               "published": "2026-05-12T08:30:00Z",
               "image": "https://ml.globenewswire.com/Resource/Download/74609d89-5437-4826-b7b8-31238ea2e65c"
-            },
-            {
-              "title": "Agentic commerce will run on crypto rails, PayPal and Google reps tell Consensus Miami",
-              "description": "Senior figures from PayPal and Google Cloud said open payment protocols, machine-readable merchant catalogs and multi-party crypto custody are needed to scale agentic commerce.",
-              "url": "https://www.coindesk.com/business/2026/05/10/agentic-commerce-will-run-on-crypto-rails-paypal-and-google-reps-tell-consensus-miami",
-              "source": "CoinDesk",
-              "published": "2026-05-10T14:02:06Z",
-              "image": "https://cdn.sanity.io/images/s3y3vcno/production/5a3a1c73d58c0d900a0709bd5ab1d20c5a56a1eb-2048x1152.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
             }
           ]
         }
