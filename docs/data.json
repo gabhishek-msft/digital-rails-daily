@@ -7,14 +7,6 @@
       "color": "#ffb900",
       "articles": [
         {
-          "title": "The Right to Science Under Siege: Sanctions Over-Compliance and Digital Exclusion in Iran",
-          "description": "[Zahra Jafarbeklou is a researcher in international law based in Iran and an LL.M. candidate at the Science and Research Branch, Islamic Azad University] Introduction: The Paradox of “Permitted” Isolation The late 2025 snapback mechanism triggered the digital…",
-          "url": "http://opiniojuris.org/2026/05/19/the-right-to-science-under-siege-sanctions-over-compliance-and-digital-exclusion-in-iran/",
-          "source": "Opiniojuris.org",
-          "published": "2026-05-19T08:00:24Z",
-          "image": "https://i2.wp.com/opiniojuris.org/wp-content/uploads/network-abstract.jpeg?fit=960%2C600"
-        },
-        {
           "title": "Top Crypto Trends and Narratives That Could Explode in H2 2026",
           "description": "Crypto markets move when a story finds liquidity, timing, and a reason for users to care. That is the lens for H2 2026. The strongest...\nThe post Top Crypto Trends and Narratives That Could Explode in H2 2026 appeared first on Bitcoin Foundation.",
           "url": "https://bitcoinfoundation.org/news/opinion/top-crypto-trends-and-narratives-that-could-explode-in-h2-2026/",
@@ -23,28 +15,60 @@
           "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/05/Next-1-1.webp"
         },
         {
-          "title": "Mexican government breached by solo user with Claude, 150 GB exfiltrated",
-          "description": "AI did not invent new attacks. It billed the old ones monthly. Crypto is the only place we can count it, and the early signals are in.",
-          "url": "https://konstantintkachuk.com/writing/the-floor-doesnt-exist/",
-          "source": "Konstantintkachuk.com",
-          "published": "2026-05-18T21:59:34Z",
-          "image": "https://konstantintkachuk.com/images/og-default.png"
+          "title": "Ripple Research Lead Reveals What’s Next For The XRP Ledger",
+          "description": "RippleX Head of Research Aanchal Malhotra said the next phase of XRP Ledger development is focused on privacy, zero-knowledge proofs and post-quantum readiness, framing the work as an effort to future-proof the network without compromising its core settlement…",
+          "url": "https://bitcoinist.com/ripple-research-whats-next-for-xrp-ledger/",
+          "source": "Bitcoinist",
+          "published": "2026-05-15T06:00:27Z",
+          "image": "https://bitcoinist.com/wp-content/uploads/2026/05/ChatGPT-Image-14.-Mai-2026-14_33_09.png"
         },
         {
-          "title": "CLARITY Act is not law yet, but the markup is a major retail adoption trust catalyst",
-          "description": "The Senate Banking Committee advanced the Digital Asset Market Clarity Act by a 15-9 vote, and the National Cryptocurrency Association (NCA) says the vote's most enduring effect may be the signal that Washington is building a defined regulatory framework for …",
-          "url": "https://cryptoslate.com/?p=536651",
-          "source": "CryptoSlate",
-          "published": "2026-05-17T13:30:35Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/05/clarityact.png"
+          "title": "SOL Strategies acquires Darklake to bring zero-knowledge privacy to Solana",
+          "description": "SOL Strategies' acquisition of Darklake could enhance Solana's privacy features, potentially reshaping blockchain transaction security and compliance.\nThe post SOL Strategies acquires Darklake to bring zero-knowledge privacy to Solana appeared first on Crypto…",
+          "url": "https://cryptobriefing.com/sol-strategies-acquires-darklake-solana-privacy/",
+          "source": "Crypto Briefing",
+          "published": "2026-05-14T23:22:20Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/14192219/solana-sol-logo-crypto-logos-3-1-800x420.png"
         },
         {
-          "title": "‘The Butterfly Trust’: How Deutsche Bank maintained Jeffrey Epstein as a client until he was arrested",
-          "description": "The bank said it fired Epstein as a client in 2018. In reality, it kept his accounts open until after he was jailed in 2019.",
-          "url": "https://fortune.com/2026/05/17/jeffrey-epstein-butterfly-trust-deutsche-bank-fraud-nydfs-christian-sewing/",
-          "source": "Fortune",
-          "published": "2026-05-17T11:00:00Z",
-          "image": "https://fortune.com/img-assets/wp-content/uploads/2026/05/Epstein-Deutsche-Bank2_e7a39b.jpg?resize=1200,600"
+          "title": "Starknet launches strkBTC, a Bitcoin asset enhancing privacy with zero-knowledge proofs",
+          "description": "strkBTC's launch could redefine privacy in DeFi, attracting institutional investors while balancing regulatory compliance and security needs.\nThe post Starknet launches strkBTC, a Bitcoin asset enhancing privacy with zero-knowledge proofs appeared first on Cr…",
+          "url": "https://cryptobriefing.com/starknet-strkbtc-bitcoin-privacy-launch/",
+          "source": "Crypto Briefing",
+          "published": "2026-05-14T15:19:50Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/14111949/starknet-to-launch-privacy-enhanced-bitcoin-asset-starkbtc-1.jpeg"
+        },
+        {
+          "title": "Starknet launches strkBTC for ZK-powered shielded Bitcoin on Layer 2",
+          "description": "strkBTC's launch on Starknet could revolutionize Bitcoin transactions by enhancing privacy, potentially reshaping DeFi and compliance landscapes.\nThe post Starknet launches strkBTC for ZK-powered shielded Bitcoin on Layer 2 appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/starknet-strkbtc-zk-shielded-bitcoin/",
+          "source": "Crypto Briefing",
+          "published": "2026-05-14T06:57:16Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/14025715/zk-powered-bitcoin-privacy-solution-officially-launched-on-s-1-800x420.jpeg"
+        },
+        {
+          "title": "What Is Polygon CDK Privacy Upgrade & How Institutions Can Build a Private Blockchain",
+          "description": "Learn what the Polygon CDK privacy upgrade is and how institutions can build a private blockchain with compliance, zero-knowledge proofs, private data handling, and access to global liquidity.",
+          "url": "https://www.c-sharpcorner.com/article/what-is-polygon-cdk-privacy-upgrade-how-institutions-can-build-a-private-block/",
+          "source": "C-sharpcorner.com",
+          "published": "2026-05-13T14:03:42Z",
+          "image": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
+        },
+        {
+          "title": "Top Ethereum Gas Fee Solutions in 2026: How Cheap Is ETH Now?",
+          "description": "Ethereum fees explained 2026 show a very different market structure from previous cycles, as Layer 2 ecosystems now process transactions for cents thanks to blob-based...\nThe post Top Ethereum Gas Fee Solutions in 2026: How Cheap Is ETH Now? appeared first on…",
+          "url": "https://bitcoinfoundation.org/news/ethereum/top-ethereum-gas-fee-solutions-in-2026-how-cheap-is-eth-now/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-05-13T13:39:00Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/05/1-1778675342.webp"
+        },
+        {
+          "title": "Danish ice hockey team partners with Concordium for AI identity pilot",
+          "description": "DIU names Concordium official AI partner for 2026 IIHF event. Concordium launches blockchain fan ID pilot with Danish hockey. Partnership fee settled fully in Concordium CCD tokens. Danmarks Ishockey Union (DIU), the governing body for ice hockey in Denmark, …",
+          "url": "https://coinjournal.net/news/danish-ice-hockey-team-partners-with-concordium-for-ai-identity-pilot/",
+          "source": "Coinjournal.net",
+          "published": "2026-05-13T13:00:32Z",
+          "image": "https://coinjournal.net/wp-content/uploads/2026/05/Ice-hockey-stick-on-a-field.png"
         }
       ]
     },
@@ -54,68 +78,68 @@
       "color": "#e6a200",
       "articles": [
         {
-          "title": "PMK leader Anbumani seeks TN govt nod to prosecute Senthil Balaji in ED case",
-          "description": "PMK leader Anbumani Ramadoss has called on the Tamil Nadu government to approve judicial proceedings against DMK leader Senthil Balaji. This follows a money laundering case linked to a job racket. The Enforcement Directorate seeks permission to prosecute Bala…",
-          "url": "https://economictimes.indiatimes.com/news/politics-and-nation/pmk-leader-anbumani-seeks-tn-govt-nod-to-prosecute-senthil-balaji-in-ed-case/articleshow/131196243.cms",
-          "source": "The Times of India",
-          "published": "2026-05-19T09:24:28Z",
-          "image": "https://img.etimg.com/thumb/msid-131196303,width-1200,height-630,imgsize-58934,overlay-economictimes/articleshow.jpg"
+          "title": "Tor Project leads Web3 crowdfunding campaign for internet freedom starting May 19",
+          "description": "Tor's shift to decentralized funding could enhance internet freedom, but success hinges on overcoming identity verification challenges.\nThe post Tor Project leads Web3 crowdfunding campaign for internet freedom starting May 19 appeared first on Crypto Briefin…",
+          "url": "https://cryptobriefing.com/tor-project-web3-crowdfunding-internet-freedom/",
+          "source": "Crypto Briefing",
+          "published": "2026-05-19T17:14:34Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/19131433/8cabf141eebbdc5c-800x450.png"
         },
         {
-          "title": "emodul added to PyPI",
-          "description": "Unofficial Python CLI for Tech Sterowniki / eModul.pl floor-heating controllers. AI-agent ready (Claude Skill).",
-          "url": "https://pypi.org/project/emodul/",
-          "source": "Pypi.org",
-          "published": "2026-05-19T09:20:09Z",
-          "image": "https://pypi.org/static/images/twitter.abaf4b19.webp"
+          "title": "Top Crypto Trends and Narratives That Could Explode in H2 2026",
+          "description": "Crypto markets move when a story finds liquidity, timing, and a reason for users to care. That is the lens for H2 2026. The strongest...\nThe post Top Crypto Trends and Narratives That Could Explode in H2 2026 appeared first on Bitcoin Foundation.",
+          "url": "https://bitcoinfoundation.org/news/opinion/top-crypto-trends-and-narratives-that-could-explode-in-h2-2026/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-05-19T07:10:22Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/05/Next-1-1.webp"
         },
         {
-          "title": "Using LLMs to uncover Europe’s green investment blind spot",
-          "description": "If green investment is defined too narrowly, businesses risk misreading where the transition is creating competitive advantage. Combining the use of LLM tools with the EU Taxonomy for Sustainable Activities, Juan Alvarez-Vilanova, Riccardo Crescenzi and Lee M…",
-          "url": "https://blogs.lse.ac.uk/businessreview/2026/05/19/using-llms-to-uncover-europes-green-investment-blind-spot/",
-          "source": "Lse.ac.uk",
-          "published": "2026-05-19T09:07:30Z",
-          "image": "https://blogsmedia.lse.ac.uk/blogs.dir/99/files/2026/05/green_FDI-747-x-420.jpg"
+          "title": "SOL Strategies acquires Houdini Swap and Darklake Labs to enhance Solana infrastructure",
+          "description": "SOL Strategies' acquisitions position it to attract institutional capital by enhancing privacy and cross-chain capabilities on Solana.\nThe post SOL Strategies acquires Houdini Swap and Darklake Labs to enhance Solana infrastructure appeared first on Crypto Br…",
+          "url": "https://cryptobriefing.com/sol-strategies-acquires-houdini-swap-darklake/",
+          "source": "Crypto Briefing",
+          "published": "2026-05-15T21:04:42Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/15170441/solana-sol-logo-crypto-logos-4-1-800x420.png"
         },
         {
-          "title": "How FAMU baseball can return to SWAC Tournament championship game",
-          "description": "Can FAMU baseball reappear in the SWAC Tournament championship game? Here’s the path the Rattlers must take to hoist the trophy in Birmingham.",
-          "url": "https://www.tallahassee.com/story/sports/college/famu/2026/05/19/famu-rattlers-baseball-swac-tournament-path-2026/90059726007/",
-          "source": "Tallahassee Democrat",
-          "published": "2026-05-19T09:06:10Z",
-          "image": "https://s.yimg.com/ny/api/res/1.2/RL1rhKdSmxJUFpBRNHwuEg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD0xMjI5O2NmPXdlYnA-/https://media.zenfs.com/en/tallahassee-democrat/a63f4fbba75bd627f5d7362778c45e62"
+          "title": "Ripple Research Lead Reveals What’s Next For The XRP Ledger",
+          "description": "RippleX Head of Research Aanchal Malhotra said the next phase of XRP Ledger development is focused on privacy, zero-knowledge proofs and post-quantum readiness, framing the work as an effort to future-proof the network without compromising its core settlement…",
+          "url": "https://bitcoinist.com/ripple-research-whats-next-for-xrp-ledger/",
+          "source": "Bitcoinist",
+          "published": "2026-05-15T06:00:27Z",
+          "image": "https://bitcoinist.com/wp-content/uploads/2026/05/ChatGPT-Image-14.-Mai-2026-14_33_09.png"
         },
         {
-          "title": "Article: Kernel-Level Ground Truth: Why eBPF is Replacing User-Space Agents for Security Observability",
-          "description": "eBPF is emerging as a preferred method for security observability over traditional user-space agents. By attaching probes directly to the Linux kernel's syscall interface, it provides consistent visibility even during container-level compromises. eBPF reduces…",
-          "url": "https://www.infoq.com/articles/ebpf-for-security-observability/",
-          "source": "InfoQ.com",
-          "published": "2026-05-19T09:00:00Z",
-          "image": "https://res.infoq.com/articles/ebpf-for-security-observability/en/headerimage/ebpf-for-security-observability-header-1778674557176.jpg"
+          "title": "SOL Strategies acquires Darklake to bring zero-knowledge privacy to Solana",
+          "description": "SOL Strategies' acquisition of Darklake could enhance Solana's privacy features, potentially reshaping blockchain transaction security and compliance.\nThe post SOL Strategies acquires Darklake to bring zero-knowledge privacy to Solana appeared first on Crypto…",
+          "url": "https://cryptobriefing.com/sol-strategies-acquires-darklake-solana-privacy/",
+          "source": "Crypto Briefing",
+          "published": "2026-05-14T23:22:20Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/14192219/solana-sol-logo-crypto-logos-3-1-800x420.png"
         },
         {
-          "title": "Intellectual Yet Idiot: Ed Miliband and the Economic Illiteracy Driving Britain’s Energy Crisis",
-          "description": "Britain cannot afford another decade of IYI governance. Keeping the lights on, quite literally, depend on it.\nThe post Intellectual Yet Idiot: Ed Miliband and the Economic Illiteracy Driving Britain’s Energy Crisis appeared first on Watts Up With That?.",
-          "url": "https://wattsupwiththat.com/2026/05/19/intellectual-yet-idiot-ed-miliband-and-the-economic-illiteracy-driving-britains-energy-crisis/",
-          "source": "Wattsupwiththat.com",
-          "published": "2026-05-19T09:00:00Z",
-          "image": "https://wattsupwiththat.com/wp-content/uploads/2025/10/ed-miliband-faceswap-midjourney.webp"
+          "title": "The downfall of the login is redefining security",
+          "description": "Continuous, decentralized identity must replace \"point-in-time\" logins",
+          "url": "https://www.techradar.com/pro/the-downfall-of-the-login-is-redefining-security",
+          "source": "TechRadar",
+          "published": "2026-05-14T10:34:14Z",
+          "image": "https://cdn.mos.cms.futurecdn.net/fg7bgy65pWhFo4Qzib58yX-2560-80.jpg"
         },
         {
-          "title": "Can AI Apps Really Be Secure From Birth? Oh Yes (it's an Atsign of the times)",
-          "description": "Timing and IT are not always aligned – spoiler alert: major understatement… How many times over the decades have we seen a wonderful technology looking for a problem to solve? Some are still out ...",
-          "url": "https://www.computerweekly.com/blog/Networks-Generation/Can-AI-Apps-Really-Be-Secure-From-Birth-Oh-Yes-its-an-Atsign-of-the-times",
-          "source": "ComputerWeekly.com",
-          "published": "2026-05-19T08:57:01Z",
-          "image": null
+          "title": "SOL Strategies appoints Jon Matonis as Chairman of the Board",
+          "description": "Jon Matonis' appointment signals a strategic shift towards privacy tech, potentially enhancing investor confidence in Solana's ecosystem growth.\nThe post SOL Strategies appoints Jon Matonis as Chairman of the Board appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/sol-strategies-jon-matonis-chairman/",
+          "source": "Crypto Briefing",
+          "published": "2026-05-14T10:32:40Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/14063235/sol-strategies-names-jon-matonis-board-chairman-stke-stock-n-1-800x420.jpeg"
         },
         {
-          "title": "Aditya Birla Fashion doubles down on TMRW, chases scale over profits",
-          "description": "TMRW is betting on offline expansion, AI-led operations, and quick commerce to scale profitably, even as skepticism grows around India’s house-of-brands model and ABFRL faces earnings pressure.",
-          "url": "https://www.livemint.com/companies/aditya-birla-fashion-doubles-down-on-tmrw-chases-scale-over-profits-11779169198014.html",
-          "source": "Livemint",
-          "published": "2026-05-19T08:01:31Z",
-          "image": "https://www.livemint.com/lm-img/img/2026/05/19/1600x900/logo/FILES-HONG-KONG-CHINA-CLOTHING-CRIME-LAW-0_1697517106779_1779177391310_d2e8fb0c-844e-4264-b2dc-40d7e1ce3008.jpg"
+          "title": "Starknet launches strkBTC for ZK-powered shielded Bitcoin on Layer 2",
+          "description": "strkBTC's launch on Starknet could revolutionize Bitcoin transactions by enhancing privacy, potentially reshaping DeFi and compliance landscapes.\nThe post Starknet launches strkBTC for ZK-powered shielded Bitcoin on Layer 2 appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/starknet-strkbtc-zk-shielded-bitcoin/",
+          "source": "Crypto Briefing",
+          "published": "2026-05-14T06:57:16Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/14025715/zk-powered-bitcoin-privacy-solution-officially-launched-on-s-1-800x420.jpeg"
         }
       ]
     },
@@ -125,52 +149,28 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "ZOOMEX Marks Bitcoin Pizza Day With a Global Campaign That Goes Beyond HODL",
-          "description": "May 19, 2026 — As the world approaches the 16th anniversary of Bitcoin Pizza Day, ZOOMEX, a leading global digital asset exchange, has officially launched its Pizza Week campaign — a celebration of the historic moment that marked Bitcoin’s first real-world tr…",
-          "url": "https://zycrypto.com/zoomex-marks-bitcoin-pizza-day-with-a-global-campaign-that-goes-beyond-hodl/",
-          "source": "ZyCrypto",
-          "published": "2026-05-19T09:21:07Z",
-          "image": "https://zycrypto.com/wp-content/uploads/2026/05/ZOOMEX-Marks-Bitcoin-Pizza-Day-With-a-Global-Campaign-That-Goes-Beyond-HODL-1.jpg"
+          "title": "BoE deputy says tokenization could cut costs, boost competition",
+          "description": "The UK central bank said digital money should remain trusted and interoperable as it weighs stablecoin reforms and near-24/7 settlement to support tokenized markets.",
+          "url": "https://cointelegraph.com/news/boe-breeden-sees-value-supporting-tokenized-uk-markets",
+          "source": "Cointelegraph",
+          "published": "2026-05-19T16:54:43Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-united-kingdom-making-strides-on-crypto-regulation.jpg"
         },
         {
-          "title": "XRP News: SurgeXRP Launches 60-Day XRPL Real Estate Tokenization Presale With Planned XRPL DEX Expansion",
-          "description": "GEORGE TOWN, Cayman Islands, May 19, 2026 (GLOBE NEWSWIRE) -- SurgeXRP\r\n, a blockchain-based real-world asset platform focused on tokenized real estate infrastructure on the XRP Ledger, has announced the launch of its 60-day $SGP token presale as the project …",
-          "url": "https://www.globenewswire.com/news-release/2026/05/19/3297216/0/en/XRP-News-SurgeXRP-Launches-60-Day-XRPL-Real-Estate-Tokenization-Presale-With-Planned-XRPL-DEX-Expansion.html",
-          "source": "GlobeNewswire",
-          "published": "2026-05-19T09:12:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/d0552094-e25a-4d2d-8844-d3ee6728bfc4"
+          "title": "Japan’s Ruling Party Pushes On-Chain Finance Plan to Protect Yen",
+          "description": "Stablecoins and tokenized deposits could help Japan modernize payments and reduce reliance on foreign rails, the proposal says.",
+          "url": "https://decrypt.co/368331/japans-ruling-party-pushes-on-chain-finance-plan-to-protect-yen",
+          "source": "Decrypt",
+          "published": "2026-05-19T14:26:17Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/05/tokyo-japan-decrypt-style-gID_7.jpg"
         },
         {
-          "title": "The Billionaire Who Wired San Francisco",
-          "description": "Ten years ago, as car burglaries rose, the crypto billionaire Chris Larsen started installing private cameras around San Francisco. He had no idea how far his influence would go.",
-          "url": "http://nymag.com/intelligencer/article/chris-larsen-san-francisco-cameras-surveillance.html",
-          "source": "New York Magazine",
-          "published": "2026-05-19T09:00:43Z",
-          "image": "https://pyxis.nymag.com/v1/imgs/452/ea1/cd572e5d97174ebbc13ca66f2bc2256916-Nasseri---NY-Mag---Larsen-Final-2.1x.rsocial.w1200.jpg"
-        },
-        {
-          "title": "UK-Kenya partnership supports listing of Kenya’s first infrastructure fund on the Nairobi Securities Exchange",
-          "description": "Second UK-backed listing in 2026 enables KSH 3.4 billion investment in local infrastructure, supporting jobs, services and long‑term growth",
-          "url": "https://www.gov.uk/government/news/uk-kenya-partnership-supports-listing-of-kenyas-first-infrastructure-fund-on-the-nairobi-securities-exchange",
-          "source": "Www.gov.uk",
-          "published": "2026-05-19T08:37:34Z",
-          "image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-        },
-        {
-          "title": "20+ Handpicked Medical Fonts for Healthcare Documents & Forms",
-          "description": "Fonts in healthcare materials do more than convey information; they help shape trust and comfort. In this collection, you’ll discover medical fonts that combine clear readability with a tone that feels calm, supportive, and trustworthy. These fonts are well-s…",
-          "url": "https://designshack.net/articles/inspiration/medical-fonts/",
-          "source": "Designshack.net",
-          "published": "2026-05-19T08:13:19Z",
-          "image": "https://designshack.net/wp-content/uploads/medical-fonts.jpg"
-        },
-        {
-          "title": "Top Crypto Trends and Narratives That Could Explode in H2 2026",
-          "description": "Crypto markets move when a story finds liquidity, timing, and a reason for users to care. That is the lens for H2 2026. The strongest...\nThe post Top Crypto Trends and Narratives That Could Explode in H2 2026 appeared first on Bitcoin Foundation.",
-          "url": "https://bitcoinfoundation.org/news/opinion/top-crypto-trends-and-narratives-that-could-explode-in-h2-2026/",
+          "title": "Ondo Price Prediction 2026: Can ONDO Reach a New All-Time High or Collapse?",
+          "description": "Today’s Ondo price prediction models were based on the potential for rapid growth of tokenized real-world assets in the crypto market, the growth of Ondo...\nThe post Ondo Price Prediction 2026: Can ONDO Reach a New All-Time High or Collapse? appeared first on…",
+          "url": "https://bitcoinfoundation.org/news/analysis/ondo-price-prediction-2026-can-ondo-reach-a-new-all-time-high-or-collapse/",
           "source": "Bitcoinfoundation.org",
-          "published": "2026-05-19T07:10:22Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/05/Next-1-1.webp"
+          "published": "2026-05-19T10:25:27Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/05/1-2-1779182129.webp"
         },
         {
           "title": "Republican lawmakers call for permanent CBDC ban as House vote approaches",
@@ -181,12 +181,36 @@
           "image": "https://s3-images.ctmedia.io/media/article-covers/hi-almost-year-since-hack-and-still-no-arrests-how-come-gatehub3.jpg"
         },
         {
-          "title": "South Korea’s KB Financial Completes Stablecoin Pilot As Lawmakers Press For Regulatory Framework",
-          "description": "South Korea’s KB Financial has completed a Proof-of-Concept (PoC) for won-denominated stablecoin as lawmakers and experts push to advance the country’s digital asset framework. Related Reading: Hacker Drains $11.58 Million From Verus-Ethereum Bridge KB Stable…",
-          "url": "https://bitcoinist.com/south-korea-kb-completes-stablecoin-pilot-framework/",
-          "source": "Bitcoinist",
-          "published": "2026-05-19T07:00:22Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2025/12/sava-bobov-eVa2FK83K6w-unsplash.jpg"
+          "title": "Bank of England, FCA Set Out ‘Shared Vision’ for Tokenization",
+          "description": null,
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2fd658ff-d2f8-455a-8d18-5c7a7e094cd6",
+          "source": "Yahoo Entertainment",
+          "published": "2026-05-18T16:45:00Z",
+          "image": null
+        },
+        {
+          "title": "BlackRock, State Street Launch Tokenized Stablecoin Products for Institutional Investors",
+          "description": null,
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_77dfc939-524e-4131-bbb3-db742ec26e0e",
+          "source": "Yahoo Entertainment",
+          "published": "2026-05-18T04:01:00Z",
+          "image": null
+        },
+        {
+          "title": "BeInCrypto Institutional Research: 15 Firms Setting the Standard for Crypto Corporate Governance",
+          "description": "15 firms on the BeInCrypto Institutional 100 long list for crypto corporate governance in 2026, covering public companies, crypto banks, and regulated...",
+          "url": "https://beincrypto.com/best-crypto-corporate-governance-2026-2/",
+          "source": "BeInCrypto",
+          "published": "2026-05-17T16:31:07Z",
+          "image": "https://s.yimg.com/ny/api/res/1.2/Is592APkB_y1ZMx5ZipdYQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/beincrypto_us_662/804d008279dcea0a9c9ce4e8c7dde0e9"
+        },
+        {
+          "title": "Top Crypto Deals of 2026 That Shook the Market — Biggest Moves You Need to Know",
+          "description": "The top crypto deals of 2026 show that the market is moving away from just speculating about prices. Now it is about companies buying the...\nThe post Top Crypto Deals of 2026 That Shook the Market — Biggest Moves You Need to Know appeared first on Bitcoin Fou…",
+          "url": "https://bitcoinfoundation.org/news/uncategorised/top-crypto-deals-of-2026-that-shook-the-market/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-05-16T10:31:40Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/05/Top-deals1-1.webp"
         }
       ]
     },
@@ -196,44 +220,20 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "ZOOMEX Marks Bitcoin Pizza Day With a Global Campaign That Goes Beyond HODL",
-          "description": "May 19, 2026 — As the world approaches the 16th anniversary of Bitcoin Pizza Day, ZOOMEX, a leading global digital asset exchange, has officially launched its Pizza Week campaign — a celebration of the historic moment that marked Bitcoin’s first real-world tr…",
-          "url": "https://zycrypto.com/zoomex-marks-bitcoin-pizza-day-with-a-global-campaign-that-goes-beyond-hodl/",
-          "source": "ZyCrypto",
-          "published": "2026-05-19T09:21:07Z",
-          "image": "https://zycrypto.com/wp-content/uploads/2026/05/ZOOMEX-Marks-Bitcoin-Pizza-Day-With-a-Global-Campaign-That-Goes-Beyond-HODL-1.jpg"
-        },
-        {
-          "title": "XRP News: SurgeXRP Launches 60-Day XRPL Real Estate Tokenization Presale With Planned XRPL DEX Expansion",
-          "description": "GEORGE TOWN, Cayman Islands, May 19, 2026 (GLOBE NEWSWIRE) -- SurgeXRP\r\n, a blockchain-based real-world asset platform focused on tokenized real estate infrastructure on the XRP Ledger, has announced the launch of its 60-day $SGP token presale as the project …",
-          "url": "https://www.globenewswire.com/news-release/2026/05/19/3297216/0/en/XRP-News-SurgeXRP-Launches-60-Day-XRPL-Real-Estate-Tokenization-Presale-With-Planned-XRPL-DEX-Expansion.html",
+          "title": "Smart Ports Global Strategic Business Report 2026: Market to Reach $7.3 Billion by 2032 from $1.6 Billion in 2025 - Technological Innovations in IoT, AI, and Blockchain Strengthen Business Case",
+          "description": "Smart ports offer opportunities for digital transformation in logistics by integrating IoT, AI, and blockchain to optimize operations. Key growth drivers include increased global trade, demand for efficiency, and sustainable practices. Significant potentials …",
+          "url": "https://www.globenewswire.com/news-release/2026/05/19/3297744/28124/en/Smart-Ports-Global-Strategic-Business-Report-2026-Market-to-Reach-7-3-Billion-by-2032-from-1-6-Billion-in-2025-Technological-Innovations-in-IoT-AI-and-Blockchain-Strengthen-Busines.html",
           "source": "GlobeNewswire",
-          "published": "2026-05-19T09:12:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/d0552094-e25a-4d2d-8844-d3ee6728bfc4"
+          "published": "2026-05-19T14:56:00Z",
+          "image": "https://ml.globenewswire.com/Resource/Download/151dcbd1-0044-44de-9935-34ef19f4f895"
         },
         {
-          "title": "The Billionaire Who Wired San Francisco",
-          "description": "Ten years ago, as car burglaries rose, the crypto billionaire Chris Larsen started installing private cameras around San Francisco. He had no idea how far his influence would go.",
-          "url": "http://nymag.com/intelligencer/article/chris-larsen-san-francisco-cameras-surveillance.html",
-          "source": "New York Magazine",
-          "published": "2026-05-19T09:00:43Z",
-          "image": "https://pyxis.nymag.com/v1/imgs/452/ea1/cd572e5d97174ebbc13ca66f2bc2256916-Nasseri---NY-Mag---Larsen-Final-2.1x.rsocial.w1200.jpg"
-        },
-        {
-          "title": "ECHO token plunges after $76M admin key exploit hits protocol",
-          "description": "Echo Admin key compromise enabled $76.7M unauthorized eBTC minting. The attacker used fake eBTC to borrow and bridge real crypto assets. ECHO token dropped sharply as panic selling hit the market fast. The ECHO token came under severe pressure after a major s…",
-          "url": "https://coinjournal.net/news/echo-token-plunges-after-76m-admin-key-exploit-hits-protocol/",
-          "source": "Coinjournal.net",
-          "published": "2026-05-19T08:50:40Z",
-          "image": "https://coinjournal.net/wp-content/uploads/2025/10/hacker-transfer-radiant-capital-eth.png"
-        },
-        {
-          "title": "Soap Noodles Market 2031: USD 4.02 Billion by 2031 with Asia-Pacific Holding 66%+ Shares in 2025, Mordor Intelligence Reports",
-          "description": "The soap noodles market is witnessing strong momentum due to the rapid expansion of oleochemical production facilities across Asia-Pacific, particularly in Indonesia, Malaysia, and India. Growing consumer demand for premium and plant-based bar soaps is encour…",
-          "url": "https://www.globenewswire.com/news-release/2026/05/19/3297184/0/en/Soap-Noodles-Market-2031-USD-4-02-Billion-by-2031-with-Asia-Pacific-Holding-66-Shares-in-2025-Mordor-Intelligence-Reports.html",
-          "source": "GlobeNewswire",
-          "published": "2026-05-19T08:13:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/416870ff-5134-4fb2-8605-50f7b688dd33"
+          "title": "SEC Developing Framework to Permit Tokenized Stocks",
+          "description": "The Trump administration is reportedly readying a plan for trading digital versions of securities. That’s according to a report Tuesday (May 18) from Bloomberg News, which characterizes the proposal from the Securities and Exchange Commission (SEC) as one tha…",
+          "url": "https://www.pymnts.com/blockchain/2026/sec-developing-framework-to-permit-tokenized-stocks/",
+          "source": "pymnts.com",
+          "published": "2026-05-19T10:56:39Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/02/SEC-crypto.png"
         },
         {
           "title": "Mexican government breached by solo user with Claude, 150 GB exfiltrated",
@@ -244,20 +244,44 @@
           "image": "https://konstantintkachuk.com/images/og-default.png"
         },
         {
-          "title": "Research on strategies for enhancing the competency of safety directors in EPC projects empowered by AI",
-          "description": "With the widespread application of the engineering–procurement–construction (EPC) delivery model in large-scale infrastructure and complex industrial projects, the highly dynamic construction environment and the escalating complexity of risks pose heightened …",
-          "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0348868",
-          "source": "Plos.org",
-          "published": "2026-05-18T14:00:00Z",
-          "image": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0348868.g010&size=inline"
+          "title": "Bank of England, FCA Set Out ‘Shared Vision’ for Tokenization",
+          "description": "The UK’s central bank and financial regulator have launched a joint Call for Input as tokenization moves from “pilots to production.”",
+          "url": "https://decrypt.co/368214/bank-of-england-fca-set-out-shared-vision-for-tokenization",
+          "source": "Decrypt",
+          "published": "2026-05-18T16:45:00Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/bank-of-england-decrypt-style-02-gID_7.jpg"
         },
         {
-          "title": "Agentic AI Foundation Adds 43 New Members as Enterprise and Government Adoption of Open Agent Standards Accelerates",
-          "description": "Financial services, infrastructure, security, and public sector organizations join AAIF's growing community to help shape the standards behind production-grade agentic AI MINNEAPOLIS, May 18, 2026 /PRNewswire/ -- Open Source Summit North America – The Agentic…",
-          "url": "https://www.prnewswire.com/news-releases/agentic-ai-foundation-adds-43-new-members-as-enterprise-and-government-adoption-of-open-agent-standards-accelerates-302774361.html",
-          "source": "PRNewswire",
-          "published": "2026-05-18T14:00:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS1797059/AAIF-Logo.jpg?id=OA2638262&p=facebook"
+          "title": "Bank of England and FCA unveil joint framework to accelerate tokenization across wholesale markets",
+          "description": "The joint framework could enhance market efficiency and competitiveness, fostering innovation and potentially reshaping global financial systems.\nThe post Bank of England and FCA unveil joint framework to accelerate tokenization across wholesale markets appea…",
+          "url": "https://cryptobriefing.com/tokenization-principles-uk-wholesale-markets/",
+          "source": "Crypto Briefing",
+          "published": "2026-05-18T15:13:55Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/18111239/c0ec9299-2bb0-492a-9e3f-02e38b7f3afc-800x420.jpg"
+        },
+        {
+          "title": "Cannabis Technology Strategic Business Research Report 2026: A $28.3 Billion Market by 2032 from $5.6 Billion in 2025 Featuring Aeropay, C3 Industries, Confident Cannabis, Cresco Labs, Dutchie",
+          "description": "The Cannabis Technology market presents opportunities in optimizing cannabis cultivation, processing, and distribution with AI and automation, enhancing compliance through blockchain, and improving retail with e-commerce and AI-driven analytics. Key growth ar…",
+          "url": "https://www.globenewswire.com/news-release/2026/05/18/3296373/28124/en/Cannabis-Technology-Strategic-Business-Research-Report-2026-A-28-3-Billion-Market-by-2032-from-5-6-Billion-in-2025-Featuring-Aeropay-C3-Industries-Confident-Cannabis-Cresco-Labs-Du.html",
+          "source": "GlobeNewswire",
+          "published": "2026-05-18T09:05:00Z",
+          "image": "https://ml.globenewswire.com/Resource/Download/a6bd85b6-1703-411c-882b-17b86ea65484"
+        },
+        {
+          "title": "South Korea To Unveil Tokenized Securities Rules In July As Crypto Regulation Advances",
+          "description": "South Korean authorities are set to release detailed rules for the issuance, infrastructure, and distribution of tokenized securities, as the country advances its efforts to implement crypto market regulations in 2027. Related Reading: Bank Of England To Ease…",
+          "url": "https://bitcoinist.com/south-korea-tokenized-securities-crypto-regulation/",
+          "source": "Bitcoinist",
+          "published": "2026-05-16T08:00:03Z",
+          "image": "https://bitcoinist.com/wp-content/uploads/2025/01/lauren-seo-YAf3-xZBc0I-unsplash.jpg"
+        },
+        {
+          "title": "Quantum-enhanced federated blockchain for privacy-preserving cardiovascular intelligence",
+          "description": "Scientific Reports - Quantum-enhanced federated blockchain for privacy-preserving cardiovascular intelligence",
+          "url": "https://www.nature.com/articles/s41598-026-47521-7",
+          "source": "Nature.com",
+          "published": "2026-05-16T00:00:00Z",
+          "image": null
         }
       ]
     },
@@ -271,44 +295,52 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Jeanie Buss, Sofia Richie's husband among business titans reportedly backing Spencer Pratt's LA mayoral race",
-              "description": "Spencer Pratt draws major donors, which reportedly includes Jeanie Buss and Ring founder Jamie Siminoff as his LA mayoral campaign gains surprising traction.",
-              "url": "https://www.foxnews.com/entertainment/jeanie-buss-sofia-richies-husband-among-business-titans-reportedly-backing-spencer-pratts-la-mayoral-race",
-              "source": "Fox News",
-              "published": "2026-05-18T14:00:33Z",
-              "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/05/buss-pratt-grainge.jpeg"
-            },
-            {
-              "title": "The Seed 40: The best women early-stage investors of 2026",
-              "description": "Business Insider's annual Seed 40 list recognizes the women early-stage investors who provide crucial support to budding startups.",
-              "url": "https://www.businessinsider.com/seed-40-best-women-early-stage-vc-investors-2026-5",
-              "source": "Business Insider",
-              "published": "2026-05-18T09:00:02Z",
-              "image": "https://i.insider.com/6a071c24abc4e9d88574a5bf?width=1200&format=jpeg"
-            },
-            {
-              "title": "The Seed 100: The best early-stage investors of 2026",
-              "description": "Business Insider's annual Seed 100 list recognizes the early-stage investors who provide crucial support to budding startups.",
-              "url": "https://www.businessinsider.com/seed-100-best-early-stage-vc-investors-2026-5",
-              "source": "Business Insider",
-              "published": "2026-05-18T09:00:01Z",
-              "image": "https://i.insider.com/6a071cf2ecd7cc1332bb0045?width=1200&format=jpeg"
-            },
-            {
-              "title": "Cerebras’ monster IPO, Cisco’s big quarter, and the AI factory’s real impact",
-              "description": "Are IPOs finally back? It sure looks like it, if Cerebras’ monster initial public offering this week is any indication. After raising its offering price twice, the stock rose 68% on the first day of trading, as the maker of huge artificial intelligence chips …",
-              "url": "https://siliconangle.com/2026/05/15/cerebras-monster-ipo-ciscos-big-quarter-ai-factorys-real-impact/",
-              "source": "SiliconANGLE News",
-              "published": "2026-05-15T14:00:54Z",
-              "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/Cerebras-Chip-Moonshot-Golden-Wafer-v4.png"
-            },
-            {
-              "title": "Wispr seeks funding that would value AI voice startup at $2B",
-              "description": "Wispr's potential $2B valuation highlights the growing investor confidence in AI-driven productivity tools, despite fierce competition from tech giants.\nThe post Wispr seeks funding that would value AI voice startup at $2B appeared first on Crypto Briefing.",
-              "url": "https://cryptobriefing.com/wispr-ai-startup-2b-valuation-funding/",
+              "title": "Tor Project leads Web3 crowdfunding campaign for internet freedom starting May 19",
+              "description": "Tor's shift to decentralized funding could enhance internet freedom, but success hinges on overcoming identity verification challenges.\nThe post Tor Project leads Web3 crowdfunding campaign for internet freedom starting May 19 appeared first on Crypto Briefin…",
+              "url": "https://cryptobriefing.com/tor-project-web3-crowdfunding-internet-freedom/",
               "source": "Crypto Briefing",
-              "published": "2026-05-14T21:07:03Z",
-              "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/14170659/menlo-ventures-to-back-wispr-ai-in-260m-raise-for-voice-to-t-1.jpeg"
+              "published": "2026-05-19T17:14:34Z",
+              "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/19131433/8cabf141eebbdc5c-800x450.png"
+            },
+            {
+              "title": "Worried about the future of the internet? Tor launches crypto-powered fundraising initiative to secure internet freedoms — and your vote matters more than your wallet size",
+              "description": "Internet freedom is facing a funding crisis. Here is how the Tor Project's new crypto-powered crowdfunding campaign aims to sustain vital privacy-preserving and anti-censorship tools through \"quadratic funding.\"",
+              "url": "https://www.techradar.com/vpn/vpn-privacy-security/worried-about-the-future-of-the-internet-tor-launches-crypto-powered-fundraising-initiative-to-secure-internet-freedoms-and-your-vote-matters-more-than-your-wallet-size",
+              "source": "TechRadar",
+              "published": "2026-05-19T15:00:00Z",
+              "image": "https://cdn.mos.cms.futurecdn.net/XqocWiCbn4bHGsGz6mgY-1200-80.png"
+            },
+            {
+              "title": "Wallet makers are the quiet backbone of the crypto industry. Now they want to be banks",
+              "description": "A lot has changed since discussion around wallets was limited to whether they offered Bitcoin or Ethereum.",
+              "url": "https://fortune.com/crypto/2026/05/18/metamask-exodus-wallets-banks-neobanks-quiet-backbones/",
+              "source": "Fortune",
+              "published": "2026-05-18T11:11:26Z",
+              "image": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2230642816.jpg?resize=1200,600"
+            },
+            {
+              "title": "SOL Strategies acquires Darklake to bring zero-knowledge privacy to Solana",
+              "description": "SOL Strategies' acquisition of Darklake could enhance Solana's privacy features, potentially reshaping blockchain transaction security and compliance.\nThe post SOL Strategies acquires Darklake to bring zero-knowledge privacy to Solana appeared first on Crypto…",
+              "url": "https://cryptobriefing.com/sol-strategies-acquires-darklake-solana-privacy/",
+              "source": "Crypto Briefing",
+              "published": "2026-05-14T23:22:20Z",
+              "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/14192219/solana-sol-logo-crypto-logos-3-1-800x420.png"
+            },
+            {
+              "title": "Starknet launches strkBTC for ZK-powered shielded Bitcoin on Layer 2",
+              "description": "strkBTC's launch on Starknet could revolutionize Bitcoin transactions by enhancing privacy, potentially reshaping DeFi and compliance landscapes.\nThe post Starknet launches strkBTC for ZK-powered shielded Bitcoin on Layer 2 appeared first on Crypto Briefing.",
+              "url": "https://cryptobriefing.com/starknet-strkbtc-zk-shielded-bitcoin/",
+              "source": "Crypto Briefing",
+              "published": "2026-05-14T06:57:16Z",
+              "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/14025715/zk-powered-bitcoin-privacy-solution-officially-launched-on-s-1-800x420.jpeg"
+            },
+            {
+              "title": "The crypto Clarity Act returns to the Senate this week. The banks are already trying to kill it.",
+              "description": "Hello and welcome to Regulator, the newsletter for Verge subscribers that goes into tech shenanigans that take place in the backrooms of Washington. Really, it sometimes does feel like the online series The Backrooms: a parallel universe with no internal logi…",
+              "url": "https://www.theverge.com/column/929752/the-crypto-clarity-act-returns-to-the-senate-this-week-the-banks-are-already-trying-to-kill-it",
+              "source": "The Verge",
+              "published": "2026-05-13T19:11:58Z",
+              "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25263345/STK432_Government_A_CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
             }
           ]
         },
@@ -317,44 +349,60 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "Google to unveil AI breakthroughs at Google I/O 2026 livestream",
-              "description": "Google's AI advancements could redefine tech industry standards, impacting governance, security, and the integration of AI in blockchain.\nThe post Google to unveil AI breakthroughs at Google I/O 2026 livestream appeared first on Crypto Briefing.",
-              "url": "https://cryptobriefing.com/google-io-2026-ai-breakthroughs-crypto/",
-              "source": "Crypto Briefing",
-              "published": "2026-05-19T02:43:08Z",
-              "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/18224302/google-i-o-2026-to-spotlight-ai-breakthroughs-and-android-17-1-800x420.jpeg"
+              "title": "Mexican government breached by solo user with Claude, 150 GB exfiltrated",
+              "description": "AI did not invent new attacks. It billed the old ones monthly. Crypto is the only place we can count it, and the early signals are in.",
+              "url": "https://konstantintkachuk.com/writing/the-floor-doesnt-exist/",
+              "source": "Konstantintkachuk.com",
+              "published": "2026-05-18T21:59:34Z",
+              "image": "https://konstantintkachuk.com/images/og-default.png"
             },
             {
-              "title": "Google to hire hundreds of engineers for AI customer support",
-              "description": "Google's AI hiring surge highlights the growing demand for regulatory-compliant AI solutions, impacting enterprise tech and Web3 infrastructure.\nThe post Google to hire hundreds of engineers for AI customer support appeared first on Crypto Briefing.",
-              "url": "https://cryptobriefing.com/google-hiring-hundreds-engineers-ai-support/",
-              "source": "Crypto Briefing",
-              "published": "2026-05-15T16:39:42Z",
-              "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/15123941/google-s-new-logo-is-trying-really-hard-to-look-friendly-wir-1-800x420.jpeg"
+              "title": "Soluna revenue jumps 58% as hosting business offsets weaker Bitcoin mining",
+              "description": "Soluna reported 58% revenue growth in Q1, with data center hosting generating $6.7 million, surpassing crypto mining revenue and supporting its AI expansion plans.",
+              "url": "https://cointelegraph.com/news/soluna-q1-revenue-rises-58-data-center-hosting-surpasses-crypto-mining",
+              "source": "Cointelegraph",
+              "published": "2026-05-18T21:28:02Z",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-decentralized-web-hosting-and-how-does-it-work2.jpg"
             },
             {
-              "title": "Why the Smartest Leader Usually Fails",
-              "description": "Why the Smartest Leader Usually Fails written by John Jantsch read more at Duct Tape Marketing\nCatch the full episode: Overview Most companies hit a ceiling not because of strategy or market conditions, but because the leader is still trying to be the smartes…",
-              "url": "https://ducttapemarketing.com/why-the-smartest-leader-usually-fails/",
-              "source": "Ducttapemarketing.com",
-              "published": "2026-05-14T19:17:31Z",
-              "image": "https://ducttapemarketing.com/wp-content/uploads/2026/05/getty-images-tjWTlhrJ4fk-unsplash-scaled.jpg"
+              "title": "‘Unstoppable’ Crypto Exchange Halts Trading After $10 Million Theft",
+              "description": "THORChain has claimed end user funds were not affected by this incident.",
+              "url": "https://gizmodo.com/unstoppable-crypto-exchange-halts-trading-after-10-million-theft-2000759775",
+              "source": "Gizmodo.com",
+              "published": "2026-05-17T19:14:07Z",
+              "image": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg"
             },
             {
-              "title": "Microsoft Announces General Availability of Azure SDK for Rust",
-              "description": "Azure SDK for Rust is now generally available! Build secure, high-performance cloud apps on Azure with idiomatic Rust libraries. A major win for Rust devs!",
-              "url": "https://www.c-sharpcorner.com/news/microsoft-announces-general-availability-of-azure-sdk-for-rust",
-              "source": "C-sharpcorner.com",
-              "published": "2026-05-14T00:00:00Z",
-              "image": "https://www.c-sharpcorner.com/images/csharp-corner-new.png"
+              "title": "Stablecoins: What They Are and How They Work",
+              "description": "Podcast Transcript One of the most talked-about topics in finance today is stablecoins.  Stablecoins have the potential to totally upend the world of banking and finance.  Banks, governments, and tech companies are looking at stablecoins to determine how they…",
+              "url": "https://everything-everywhere.com/stablecoins-what-they-are-and-how-they-work/",
+              "source": "Everything-everywhere.com",
+              "published": "2026-05-16T06:22:27Z",
+              "image": "https://photos.smugmug.com/Other/n-hRFP2/Podcast-Images/i-vV6d7NH/0/NMZGSVdZfSK7K8xRk6zDxCkNpwFDN2kjMrDncJZq7/L/2140epart-L.jpg"
             },
             {
-              "title": "Supply Chain Management Market to Reach USD 93.9 Billion, Globally, by 2034 at 10.9% CAGR: Allied Market Research",
-              "description": "The Supply Chain Management (SCM) market is witnessing steady adoption across manufacturing companies, retail enterprises, logistics providers, healthcare organizations, e-commerce platforms, and government agencies due to its critical role in enhancing opera…",
-              "url": "https://www.prnewswire.com/news-releases/supply-chain-management-market-to-reach-usd-93-9-billion-globally-by-2034-at-10-9-cagr-allied-market-research-302771121.html",
-              "source": "PRNewswire",
-              "published": "2026-05-13T14:49:00Z",
-              "image": "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook"
+              "title": "THORChain pauses trading after suspected $10M exploit",
+              "description": "THORChain paused trading after ZachXBT flagged a suspected $10 million exploit spanning Bitcoin, Ethereum, BNB Chain and Base.",
+              "url": "https://cointelegraph.com/news/thorchain-halts-trading-zachxbt-flags-10m-exploit",
+              "source": "Cointelegraph",
+              "published": "2026-05-15T11:36:40Z",
+              "image": "https://resizer.ctmedia.io/cdn-cgi/image/width=1280,format=auto,quality=80,onerror=redirect/https://s3-images.ctmedia.io/media/article-covers/sec-stalls-prediction-market-etfs-over-mechanics-and-risk-concerns22.jpg"
+            },
+            {
+              "title": "Scott Wiener Opposes a California Billionaire Tax. So Do His Tech CEO Backers.",
+              "description": "Crypto executive Chris Larsen has spent millions fighting billionaire tax measures, and he’s the largest individual donor to a PAC backing Wiener.\nThe post Scott Wiener Opposes a California Billionaire Tax. So Do His Tech CEO Backers. appeared first on The In…",
+              "url": "https://theintercept.com/2026/05/14/scott-wiener-billionaire-tax-california-house-race/",
+              "source": "The Intercept",
+              "published": "2026-05-14T10:07:00Z",
+              "image": "https://theintercept.com/wp-content/uploads/2026/05/GettyImages-2268737312-e1778698306567.jpg?fit=4200%2C2100&w=1200&h=800"
+            },
+            {
+              "title": "International Business Machines Corporation (IBM): Using Blockchain to Build Trust In AI",
+              "description": "International Business Machines Corporation (NYSE:IBM) is one of the most undervalued blockchain stocks to buy now. On May 5, International Business Machines...",
+              "url": "https://finance.yahoo.com/news/international-business-machines-corporation-ibm-172212325.html",
+              "source": "Yahoo Entertainment",
+              "published": "2026-05-13T17:22:12Z",
+              "image": "https://s.yimg.com/os/en/insidermonkey.com/9f239d03a7a0602d63ec83476fe1f9b5"
             },
             {
               "title": "Coinbase-backed x402 adds batch settlement for AI agent payments",

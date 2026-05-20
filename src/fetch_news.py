@@ -20,11 +20,11 @@ CATEGORIES = {
         "icon": "🛡️",
         "color": "#ffb900",
         "queries": [
-            "zero knowledge proof finance",
-            "ZKP blockchain settlement",
-            "zk-rollup payments",
-            "Nova folding scheme",
-            "zero knowledge compliance banking",
+            '"zero knowledge proof" AND (finance OR bank OR settlement)',
+            '"zk-rollup" OR "zk-proof" AND payment',
+            '"zero knowledge" AND (compliance OR regulation OR KYC)',
+            'zkSync OR StarkNet OR "Polygon zkEVM"',
+            '"zk-SNARK" OR "zk-STARK" AND (DeFi OR trading)',
         ],
     },
     "zkp-beyond": {
@@ -32,11 +32,11 @@ CATEGORIES = {
         "icon": "🔐",
         "color": "#e6a200",
         "queries": [
-            "zero knowledge proof identity",
-            "ZKP healthcare privacy",
-            "zero knowledge supply chain",
-            "zk-SNARK OR zk-STARK application",
-            "zero knowledge voting OR credential",
+            '"zero knowledge proof" AND (identity OR credential OR privacy)',
+            '"zero knowledge" AND (healthcare OR medical OR supply chain)',
+            '"zk-SNARK" OR "zk-STARK" AND (voting OR verification)',
+            '"zero knowledge" AND (authentication OR decentralized identity)',
+            'ZKP AND (Web3 OR blockchain) AND privacy',
         ],
     },
     "finserv": {
@@ -44,12 +44,12 @@ CATEGORIES = {
         "icon": "🏦",
         "color": "#00a4ef",
         "queries": [
-            "tokenization securities bank",
-            "digital asset institutional",
-            "blockchain settlement financial",
-            "CBDC central bank digital currency",
-            "stablecoin regulation",
-            "DTCC OR LSEG OR JPMorgan blockchain",
+            '"tokenized securities" OR "tokenization" AND (bank OR institution)',
+            '"digital asset" AND (custody OR institutional OR regulation)',
+            'CBDC AND (central bank OR digital currency OR pilot)',
+            '"stablecoin" AND (regulation OR framework OR legislation)',
+            '(DTCC OR LSEG OR JPMorgan OR BlackRock) AND (blockchain OR tokenization OR digital asset)',
+            '"blockchain settlement" AND (securities OR bonds OR equities)',
         ],
     },
     "industries": {
@@ -57,10 +57,11 @@ CATEGORIES = {
         "icon": "🏥",
         "color": "#00cc88",
         "queries": [
-            "blockchain supply chain",
-            "healthcare blockchain",
-            "blockchain energy OR sustainability",
-            "enterprise blockchain adoption",
+            '"blockchain" AND "supply chain" AND (tracking OR traceability)',
+            '"blockchain" AND (healthcare OR pharmaceutical) AND (record OR data)',
+            '"blockchain" AND (energy OR carbon credit OR sustainability)',
+            '"enterprise blockchain" AND (adoption OR deployment OR platform)',
+            '"distributed ledger" AND (enterprise OR industry)',
         ],
     },
     "players": {
@@ -72,25 +73,45 @@ CATEGORIES = {
                 "title": "Startups",
                 "icon": "💡",
                 "queries": [
-                    "blockchain startup funding",
-                    "crypto startup Series",
-                    "web3 startup raise",
-                    "ZKP startup",
+                    '(blockchain OR crypto OR web3) AND (startup OR "Series A" OR "Series B" OR funding)',
+                    '"zero knowledge" AND (startup OR raised OR funding)',
+                    '(zkSync OR StarkWare OR Aztec OR Aleo) AND (funding OR launch OR partnership)',
                 ],
             },
             "hyperscalers": {
                 "title": "Hyperscalers",
                 "icon": "☁️",
                 "queries": [
-                    "Microsoft Azure blockchain",
-                    "AWS blockchain",
-                    "Google Cloud web3",
-                    "Oracle blockchain cloud",
+                    '(Microsoft OR Azure) AND (blockchain OR "digital asset" OR Web3)',
+                    '(AWS OR Amazon) AND (blockchain OR "managed blockchain")',
+                    '(Google Cloud OR GCP) AND (blockchain OR Web3 OR crypto)',
+                    '(IBM OR Oracle) AND (blockchain OR "distributed ledger")',
                 ],
             },
         },
     },
 }
+
+# Keywords that articles must contain (in title or description) to be considered relevant
+RELEVANCE_KEYWORDS = [
+    "blockchain", "crypto", "bitcoin", "ethereum", "token", "defi",
+    "zero knowledge", "zk-", "zkp", "zk proof", "snark", "stark",
+    "digital asset", "web3", "decentralized", "distributed ledger",
+    "smart contract", "nft", "dao", "cbdc", "stablecoin",
+    "consensus", "mining", "staking", "wallet", "dapp",
+    "tokeniz", "settlement", "custody", "ledger", "chain",
+    "rollup", "layer 2", "l2", "polygon", "solana", "avalanche",
+    "cardano", "ripple", "xrp", "bnb", "binance", "coinbase",
+    "kraken", "uniswap", "aave", "chainlink", "cosmos",
+]
+
+
+def is_relevant(article):
+    """Check if an article is relevant based on title and description keywords."""
+    text = (
+        (article.get("title") or "") + " " + (article.get("description") or "")
+    ).lower()
+    return any(kw in text for kw in RELEVANCE_KEYWORDS)
 
 
 def fetch_news_api(query, page_size=5):
@@ -101,7 +122,7 @@ def fetch_news_api(query, page_size=5):
     from_date = (datetime.now() - timedelta(days=7)).strftime("%Y-%m-%d")
     url = (
         f"https://newsapi.org/v2/everything?"
-        f"q={quote(query)}&from={from_date}&sortBy=publishedAt"
+        f"q={quote(query)}&from={from_date}&sortBy=relevancy"
         f"&pageSize={page_size}&language=en&apiKey={NEWS_API_KEY}"
     )
 
@@ -122,10 +143,15 @@ def fetch_category_news(category_config):
 
     queries = category_config.get("queries", [])
     for query in queries:
-        results = fetch_news_api(query, page_size=3)
+        results = fetch_news_api(query, page_size=5)
         for article in results:
             title = article.get("title", "")
-            if title and title not in seen_titles and "[Removed]" not in title:
+            if (
+                title
+                and title not in seen_titles
+                and "[Removed]" not in title
+                and is_relevant(article)
+            ):
                 seen_titles.add(title)
                 articles.append(
                     {
