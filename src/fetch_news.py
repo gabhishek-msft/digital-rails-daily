@@ -114,16 +114,19 @@ def is_relevant(article):
     return any(kw in text for kw in RELEVANCE_KEYWORDS)
 
 
-def fetch_news_api(query, page_size=5):
+def fetch_news_api(query, page_size=8):
     """Fetch news from NewsAPI."""
     if not NEWS_API_KEY:
         return []
 
     from_date = (datetime.now() - timedelta(days=7)).strftime("%Y-%m-%d")
+    # Exclude domains known for irrelevant/recycled content
+    excludes = "pypi.org,konstantintkachuk.com,ducttapemarketing.com,c-sharpcorner.com"
     url = (
         f"https://newsapi.org/v2/everything?"
-        f"q={quote(query)}&from={from_date}&sortBy=relevancy"
-        f"&pageSize={page_size}&language=en&apiKey={NEWS_API_KEY}"
+        f"q={quote(query)}&from={from_date}&sortBy=publishedAt"
+        f"&pageSize={page_size}&language=en"
+        f"&excludeDomains={excludes}&apiKey={NEWS_API_KEY}"
     )
 
     try:
@@ -136,29 +139,40 @@ def fetch_news_api(query, page_size=5):
         return []
 
 
-def fetch_category_news(category_config):
-    """Fetch and deduplicate news for a category."""
+def fetch_category_news(category_config, global_seen_titles, global_source_counts):
+    """Fetch and deduplicate news for a category with source diversity."""
+    MAX_PER_SOURCE = 2  # Max articles from same source per category
+    MAX_GLOBAL_PER_SOURCE = 4  # Global cap across all categories
     articles = []
     seen_titles = set()
+    source_counts = {}
 
     queries = category_config.get("queries", [])
     for query in queries:
-        results = fetch_news_api(query, page_size=5)
+        results = fetch_news_api(query, page_size=8)
         for article in results:
             title = article.get("title", "")
-            if (
-                title
-                and title not in seen_titles
-                and "[Removed]" not in title
-                and is_relevant(article)
-            ):
+            source = article.get("source", {}).get("name", "")
+
+            # Skip duplicates (within category and globally)
+            if not title or title in seen_titles or title in global_seen_titles:
+                continue
+            if "[Removed]" not in title and is_relevant(article):
+                # Enforce source diversity (per-category and global)
+                if source_counts.get(source, 0) >= MAX_PER_SOURCE:
+                    continue
+                if global_source_counts.get(source, 0) >= MAX_GLOBAL_PER_SOURCE:
+                    continue
                 seen_titles.add(title)
+                global_seen_titles.add(title)
+                source_counts[source] = source_counts.get(source, 0) + 1
+                global_source_counts[source] = global_source_counts.get(source, 0) + 1
                 articles.append(
                     {
                         "title": title,
                         "description": article.get("description", ""),
                         "url": article.get("url", ""),
-                        "source": article.get("source", {}).get("name", ""),
+                        "source": source,
                         "published": article.get("publishedAt", ""),
                         "image": article.get("urlToImage", ""),
                     }
@@ -170,8 +184,11 @@ def fetch_category_news(category_config):
 
 
 def fetch_all_news():
-    """Fetch news for all categories."""
+    """Fetch news for all categories with global deduplication."""
     news_data = {"date": datetime.now().strftime("%B %d, %Y"), "categories": {}}
+    global_seen_titles = set()  # Prevent same article in multiple categories
+    global_source_counts = {}  # Track source usage globally
+    MAX_GLOBAL_PER_SOURCE = 4  # No source dominates the entire feed
 
     for cat_id, config in CATEGORIES.items():
         print(f"Fetching: {config['title']}...")
@@ -184,7 +201,7 @@ def fetch_all_news():
                 "subcategories": {},
             }
             for sub_id, sub_config in config["subcategories"].items():
-                articles = fetch_category_news(sub_config)
+                articles = fetch_category_news(sub_config, global_seen_titles, global_source_counts)
                 news_data["categories"][cat_id]["subcategories"][sub_id] = {
                     "title": sub_config["title"],
                     "icon": sub_config["icon"],
@@ -192,7 +209,7 @@ def fetch_all_news():
                 }
                 print(f"  {sub_config['title']}: {len(articles)} articles")
         else:
-            articles = fetch_category_news(config)
+            articles = fetch_category_news(config, global_seen_titles, global_source_counts)
             news_data["categories"][cat_id] = {
                 "title": config["title"],
                 "icon": config["icon"],
