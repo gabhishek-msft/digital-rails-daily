@@ -1,5 +1,5 @@
 {
-  "date": "May 20, 2026",
+  "date": "May 21, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -61,14 +61,6 @@
           "source": "Crypto Briefing",
           "published": "2026-05-14T06:57:16Z",
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/14025715/zk-powered-bitcoin-privacy-solution-officially-launched-on-s-1-800x420.jpeg"
-        },
-        {
-          "title": "Danish ice hockey team partners with Concordium for AI identity pilot",
-          "description": "DIU names Concordium official AI partner for 2026 IIHF event. Concordium launches blockchain fan ID pilot with Danish hockey. Partnership fee settled fully in Concordium CCD tokens. Danmarks Ishockey Union (DIU), the governing body for ice hockey in Denmark, …",
-          "url": "https://coinjournal.net/news/danish-ice-hockey-team-partners-with-concordium-for-ai-identity-pilot/",
-          "source": "Coinjournal.net",
-          "published": "2026-05-13T13:00:32Z",
-          "image": "https://coinjournal.net/wp-content/uploads/2026/05/Ice-hockey-stick-on-a-field.png"
         }
       ]
     },
@@ -125,36 +117,60 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Goldman Sachs Crypto Shakeup: Drops XRP & Solana, Trims ETH 70%, Stacks Bitcoin",
-          "description": "Major investment bank Goldman Sachs is repositioning its crypto portfolio as it continues to reduce exposure to Ethereum while stacking BTC.",
-          "url": "https://zycrypto.com/goldman-sachs-crypto-shakeup-drops-xrp-solana-trims-eth-70-stacks-bitcoin/",
-          "source": "ZyCrypto",
-          "published": "2026-05-19T18:07:37Z",
-          "image": "https://zycrypto.com/wp-content/uploads/2024/06/Solana-Releases-New-Major-Upgrade-as-ETF-Rumors-Intensify-for-SOL-and-XRP.jpg"
+          "title": "USDC Perspectives 2026: Can USDC Become the World’s Leading Stablecoin?",
+          "description": "Now, halfway through 2026, USDC carries an identity sharper than many in the crypto space. Rather than chasing wild price swings, its aim sits firmly...\nThe post USDC Perspectives 2026: Can USDC Become the World’s Leading Stablecoin? appeared first on Bitcoin…",
+          "url": "https://bitcoinfoundation.org/news/stablecoin-news/can-usdc-become-the-worlds-leading-stablecoin/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-05-20T08:34:00Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/05/USDC1.webp"
         },
         {
-          "title": "National Trust Charters For Crypto Under Fire—Senator Warren Says It Goes Beyond The Law",
-          "description": "Senator Elizabeth Warren is taking a new aim at the crypto industry, now challenging how the Office of the Comptroller of the Currency (OCC) has handled national trust bank charters for digital asset firms.  Her latest concern centers on the OCC’s approvals—s…",
-          "url": "https://bitcoinist.com/national-trust-charters-crypto-under-fire-warren/",
+          "title": "AIB joins consortium of European banks developing euro-backed stablecoin",
+          "description": "Stablecoins are digital assets that are pegged to the value of currencies and other traditional assets",
+          "url": "https://www.irishtimes.com/business/2026/05/20/aib-joins-consortium-of-european-banks-developing-euro-backed-stablecoin/",
+          "source": "The Irish Times",
+          "published": "2026-05-20T07:00:15Z",
+          "image": "https://www.irishtimes.com/resizer/v2/XJSQ7RADENGG5BLOYESYDBK2UA.jpg?smart=true&auth=2af82e9960ab3a81e4a54119e9e6150fcf278c24cecbb0245bf036f55cfbf390&width=1200&height=630"
+        },
+        {
+          "title": "Japan To Recognize Foreign Stablecoins As Electronic Payment Instruments Starting June 1",
+          "description": "Japan’s key financial authority has expanded its framework to officially treat foreign trust‑issued stablecoins as electronic payment instruments instead of securities under domestic law. Related Reading: South Korea’s KB Financial Completes Stablecoin Pilot …",
+          "url": "https://bitcoinist.com/japan-foreign-stablecoins-payment-instrument-june-1/",
           "source": "Bitcoinist",
-          "published": "2026-05-19T18:07:09Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/05/image_005sUMpJ_1779210185122_raw.jpg"
+          "published": "2026-05-20T06:00:29Z",
+          "image": "https://bitcoinist.com/wp-content/uploads/2026/05/hayashi-kanna-VJKlbah0kh4-unsplash.jpg"
         },
         {
-          "title": "Bitcoin price risks slide toward $70,000 as $76,000 support weakens",
-          "description": "The Bitcoin price dropping below $78,000 has shifted market attention to whether buyers can defend the $76,000 area or whether the pullback opens the way for a deeper move toward $70,000. Crypto market maker Wintermute said the latest decline followed another…",
-          "url": "https://cryptoslate.com/bitcoin-price-70000-slide-76000-support/",
-          "source": "CryptoSlate",
-          "published": "2026-05-19T17:45:39Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/05/bitcoin-next-test.jpg"
+          "title": "White House Announces Imminent Bitcoin Reserve Plan, Official Says Legal Hurdles Cleared",
+          "description": "The White House is on the verge of a formal announcement regarding the U.S. Strategic Bitcoin Reserve (SBR), according to Patrick Witt, executive director of the President’s Council of Advisors for Digital Assets. Witt stated that the administration has clear…",
+          "url": "https://www.naturalnews.com/2026-05-20-white-house-announces-imminent-bitcoin-reserve-plan.html",
+          "source": "Naturalnews.com",
+          "published": "2026-05-20T06:00:00Z",
+          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/05/strategic-bitcoin-reserve-white-house-legal-hurdles-1593-original.jpg"
         },
         {
-          "title": "Here’s Why Ethereum Is Becoming The Biggest Winner Of The Clarity Act",
-          "description": "While a large portion of the cryptocurrency industry is still preoccupied with short-term trends and price speculation, Ethereum is gradually solidifying its position in the background. Even though its price has experienced a sharp pullback from its all-time …",
-          "url": "https://bitcoinist.com/ethereum-the-biggest-winner/",
-          "source": "Bitcoinist",
-          "published": "2026-05-19T17:00:13Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/05/Ethereum-from-Pxfuel-4.jpg"
+          "title": "Trump-Linked Crypto Company Notes ‘Substantial Doubt’ It Can Survive Another 12 Months",
+          "description": "AI Financial is a publicly traded company heavily invested in Trump-related crypto.",
+          "url": "https://gizmodo.com/trump-linked-crypto-company-notes-substantial-doubt-it-can-survive-another-12-months-2000761027",
+          "source": "Gizmodo.com",
+          "published": "2026-05-20T00:33:53Z",
+          "image": "https://gizmodo.com/app/uploads/2026/05/crypto-tokens-memecoins-blockchain-1200x675.jpg"
+        },
+        {
+          "title": "After Nearly a Decade, Gary Gensler's Poster Child for Crypto Compliance Executes Its First Trade",
+          "description": "After weathering years of industry skepticism and navigating a shifting regulatory landscape, Prometheum executed its first crypto trades.",
+          "url": "https://decrypt.co/368409/gary-gensler-poster-child-crypto-compliance-executes-first-trade",
+          "source": "Decrypt",
+          "published": "2026-05-19T22:01:04Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/10/gary-gensler-decrypt-style-02-gID_7.jpg"
+        },
+        {
+          "title": "SoftBank Just Dumped Circle Stock. Don’t Panic and Keep Adding CRCL Here.",
+          "description": "SoftBank fully exited Circle Internet Group in Q1 2026. Here is what investors need to know about the stablecoin giant's fundamentals.",
+          "url": "https://www.barchart.com/story/news/2024093/softbank-just-dumped-circle-stock-dont-panic-and-keep-adding-crcl-here",
+          "source": "Barchart.com",
+          "published": "2026-05-19T19:49:51Z",
+          "image": "https://s.yimg.com/ny/api/res/1.2/8gzm4.8Z3rzjulIeGqX18w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/07375dc013af11c3d4c74758307274e0"
         },
         {
           "title": "BoE deputy says tokenization could cut costs, boost competition",
@@ -163,30 +179,6 @@
           "source": "Cointelegraph",
           "published": "2026-05-19T16:54:43Z",
           "image": "https://s3-images.ctmedia.io/media/article-covers/hi-united-kingdom-making-strides-on-crypto-regulation.jpg"
-        },
-        {
-          "title": "Checker Raises $8M from Galaxy Ventures, Al Mada Ventures and Framework Ventures to Unify Fragmented Digital Asset Markets for Institutions",
-          "description": "Over the last 12 months, the platform's initial product enabling global stablecoin liquidity has scaled from $0 to $3B in total processing volume (TPV) with institutional clients including Rail, Braza Bank, and more NEW YORK, May 19, 2026 /PRNewswire/ -- Chec…",
-          "url": "https://www.prnewswire.com/news-releases/checker-raises-8m-from-galaxy-ventures-al-mada-ventures-and-framework-ventures-to-unify-fragmented-digital-asset-markets-for-institutions-302776519.html",
-          "source": "PRNewswire",
-          "published": "2026-05-19T16:34:00Z",
-          "image": "https://mma.prnewswire.com/media/2982721/Checker_Cofounders.jpg?p=facebook"
-        },
-        {
-          "title": "Japan’s Ruling Party Pushes On-Chain Finance Plan to Protect Yen",
-          "description": "Stablecoins and tokenized deposits could help Japan modernize payments and reduce reliance on foreign rails, the proposal says.",
-          "url": "https://decrypt.co/368331/japans-ruling-party-pushes-on-chain-finance-plan-to-protect-yen",
-          "source": "Decrypt",
-          "published": "2026-05-19T14:26:17Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/05/tokyo-japan-decrypt-style-gID_7.jpg"
-        },
-        {
-          "title": "Polygon Perspectives 2026: Why POL Keeps Falling and What’s Driving the Downtrend",
-          "description": "Polygon was facing pressure at the start of 2026 after migrating from MATIC to POL. The technical migration went smoothly, but investors were asking whether...\nThe post Polygon Perspectives 2026: Why POL Keeps Falling and What’s Driving the Downtrend appeared…",
-          "url": "https://bitcoinfoundation.org/news/analysis/polygon-perspectives-2026-why-pol-keeps-falling-and-whats-driving-the-downtrend/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-05-19T13:52:32Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/05/1-1779187200.webp"
         }
       ]
     },
@@ -195,6 +187,22 @@
       "icon": "🏥",
       "color": "#00cc88",
       "articles": [
+        {
+          "title": "Ripple Just Moved This $2 Billion Industry Onto The XRP Ledger",
+          "description": "The XRP Ledger is hosting tokenized US Treasuries, money market funds, and real estate instruments, but it is also hosting something far more fundamental than these.  Electricity has become one of the largest real-world assets now represented on the XRP Ledge…",
+          "url": "https://bitcoinist.com/2-billion-industry-to-xrp-ledger/",
+          "source": "Bitcoinist",
+          "published": "2026-05-20T00:30:15Z",
+          "image": "https://bitcoinist.com/wp-content/uploads/2026/05/XRP-from-Freepik-12.avif"
+        },
+        {
+          "title": "Ethereum price pullback to $2,100 pits oil pressure against AI, tokenization bets",
+          "description": "The Ethereum price pullback toward $2,100 has turned a short-term price correction into a broader test of the market’s conviction in one of crypto’s largest assets. Data from CryptoSlate show that ETH has fallen nearly 10% over the past week, wiping out its M…",
+          "url": "https://cryptoslate.com/ethereum-price-pullback-2100-oil-etf-pressure/",
+          "source": "CryptoSlate",
+          "published": "2026-05-19T16:10:48Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/05/ethereum-oil-pressure.jpg"
+        },
         {
           "title": "Merchants Eye Back-End Costs as Crypto Cards Push Into Checkout",
           "description": "The payments industry has become remarkably good at masking complexity from consumers. But merchants do not operate on the front end. Their concerns live in the back office. And with Revolut on Monday (May 18) unveiling its first physical cryptocurrency debit…",
@@ -242,22 +250,6 @@
           "source": "Decrypt",
           "published": "2026-05-18T16:45:00Z",
           "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/bank-of-england-decrypt-style-02-gID_7.jpg"
-        },
-        {
-          "title": "South Korea To Unveil Tokenized Securities Rules In July As Crypto Regulation Advances",
-          "description": "South Korean authorities are set to release detailed rules for the issuance, infrastructure, and distribution of tokenized securities, as the country advances its efforts to implement crypto market regulations in 2027. Related Reading: Bank Of England To Ease…",
-          "url": "https://bitcoinist.com/south-korea-tokenized-securities-crypto-regulation/",
-          "source": "Bitcoinist",
-          "published": "2026-05-16T08:00:03Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2025/01/lauren-seo-YAf3-xZBc0I-unsplash.jpg"
-        },
-        {
-          "title": "Explained: What is US Senate’s CLARITY Act and why does it matter for crypto investors?",
-          "description": "The Republican-led Senate Banking Committee has advanced the long-awaited CLARITY Act, a landmark crypto regulation bill aimed at defining digital assets, resolving SEC–CFTC jurisdiction overlap, and setting rules for decentralised platforms. The move brings …",
-          "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/explained-what-is-us-senates-clarity-act-and-why-does-it-matter-for-crypto-investors/articleshow/131111787.cms",
-          "source": "The Times of India",
-          "published": "2026-05-15T07:57:05Z",
-          "image": "https://img.etimg.com/thumb/msid-131111885,width-1200,height-630,imgsize-88042,overlay-etmarkets/articleshow.jpg"
         }
       ]
     },
@@ -269,7 +261,32 @@
         "startups": {
           "title": "Startups",
           "icon": "💡",
-          "articles": []
+          "articles": [
+            {
+              "title": "Bitcoin Could Hit Near $95,000 If It Holds Above This Critical Support, Top Analyst Says",
+              "description": "Bitcoin (BTC) has slipped after failing to clear a major ceiling around the $83,000 area, with the flagship cryptocurrency down nearly 5% over the past week.  As of Tuesday evening, BTC was changing hands at roughly $76,750. Even with the pullback, market ana…",
+              "url": "http://www.newsbtc.com/bitcoin-news/bitcoin-could-hit-near-95000-if-it-holds-above-this-critical-support-top-analyst-says/",
+              "source": "newsBTC",
+              "published": "2026-05-20T02:01:35Z",
+              "image": "https://www.newsbtc.com/wp-content/uploads/2026/05/image_j3M3-9ZQ_1779230702702_raw.jpg"
+            },
+            {
+              "title": "Solana futures funding rate turns negative: Is $78 SOL next?",
+              "description": "Traders go short on SOL as declining ecosystem revenues and DEX market-share growth from competing blockchains negatively impact demand for Solana.",
+              "url": "https://cointelegraph.com/markets/solana-futures-funding-rate-turns-negative-is-a-drop-to-78-next",
+              "source": "Cointelegraph",
+              "published": "2026-05-20T00:15:57Z",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/falling-price-red-market-down-fire-solana.jpg"
+            },
+            {
+              "title": "iGaming Marketing Agency Hiring Playbook 2026",
+              "description": "Hiring an iGaming marketing agency? Real pricing, LOK compliance rules, and operator benchmarks for crypto casinos in 2026.",
+              "url": "https://surgence.io/blog/igaming-marketing-agency",
+              "source": "Surgence.io",
+              "published": "2026-05-19T23:42:12Z",
+              "image": "https://i0.wp.com/cms.surgence.io/wp-content/uploads/2026/05/Add-a-heading-19.webp?fit=2240%2C1260&ssl=1"
+            }
+          ]
         },
         "hyperscalers": {
           "title": "Hyperscalers",
