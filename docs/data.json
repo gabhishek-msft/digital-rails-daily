@@ -1,11 +1,27 @@
 {
-  "date": "May 21, 2026",
+  "date": "May 22, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "The Protocol: Ethereum Foundation's high-profile departures spark fresh debate",
+          "description": "Also: Citi on quantum computing and bitcoin, Jump Crypto’s Firedancer, and Vitalik Buterin on AI verification",
+          "url": "https://www.coindesk.com/tech/2026/05/20/the-protocol-ethereum-foundation-s-high-profile-departures-spark-fresh-debate",
+          "source": "CoinDesk",
+          "published": "2026-05-20T16:37:52Z",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/d3c8c77fb49ccb3f7f4e42c2161b20a186f89dd0-1500x1000.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
+        },
+        {
+          "title": "XRP Analyst Reveals The Real Catalysts; ‘The Price Discovery Will Be Biblical’",
+          "description": "A widely circulated analysis has claimed that structural changes inside the global financial system could trigger a dramatic market repricing for XRP. According to crypto analyst Pumpius, a pattern of institutional alignment involving Ripple technology, centr…",
+          "url": "http://www.newsbtc.com/analysis/xrp/xrp-analyst-reveals-real-catalysts/",
+          "source": "newsBTC",
+          "published": "2026-05-20T15:00:19Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2026/05/XRP-catalysts.jpeg?fit=1280%2C853"
+        },
         {
           "title": "Top Crypto Trends and Narratives That Could Explode in H2 2026",
           "description": "Crypto markets move when a story finds liquidity, timing, and a reason for users to care. That is the lens for H2 2026. The strongest...\nThe post Top Crypto Trends and Narratives That Could Explode in H2 2026 appeared first on Bitcoin Foundation.",
@@ -45,22 +61,6 @@
           "source": "Bitcoinist",
           "published": "2026-05-15T06:00:27Z",
           "image": "https://bitcoinist.com/wp-content/uploads/2026/05/ChatGPT-Image-14.-Mai-2026-14_33_09.png"
-        },
-        {
-          "title": "Starknet launches strkBTC, a Bitcoin asset enhancing privacy with zero-knowledge proofs",
-          "description": "strkBTC's launch could redefine privacy in DeFi, attracting institutional investors while balancing regulatory compliance and security needs.\nThe post Starknet launches strkBTC, a Bitcoin asset enhancing privacy with zero-knowledge proofs appeared first on Cr…",
-          "url": "https://cryptobriefing.com/starknet-strkbtc-bitcoin-privacy-launch/",
-          "source": "Crypto Briefing",
-          "published": "2026-05-14T15:19:50Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/14111949/starknet-to-launch-privacy-enhanced-bitcoin-asset-starkbtc-1.jpeg"
-        },
-        {
-          "title": "Starknet launches strkBTC for ZK-powered shielded Bitcoin on Layer 2",
-          "description": "strkBTC's launch on Starknet could revolutionize Bitcoin transactions by enhancing privacy, potentially reshaping DeFi and compliance landscapes.\nThe post Starknet launches strkBTC for ZK-powered shielded Bitcoin on Layer 2 appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/starknet-strkbtc-zk-shielded-bitcoin/",
-          "source": "Crypto Briefing",
-          "published": "2026-05-14T06:57:16Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/14025715/zk-powered-bitcoin-privacy-solution-officially-launched-on-s-1-800x420.jpeg"
         }
       ]
     },
@@ -69,6 +69,22 @@
       "icon": "🔐",
       "color": "#e6a200",
       "articles": [
+        {
+          "title": "OpenAI model solves 80-year-old planar unit distance problem",
+          "description": "AI's breakthrough in disproving Erds' conjecture could revolutionize combinatorial geometry, impacting computational fields and problem-solving.\nThe post OpenAI model solves 80-year-old planar unit distance problem appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/openai-solves-planar-unit-distance-problem/",
+          "source": "Crypto Briefing",
+          "published": "2026-05-21T06:24:24Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/21022423/openai-says-its-internal-model-produced-new-constructions-fo-2-1-800x420.jpeg"
+        },
+        {
+          "title": "KalqiX Puts An End To The Tradeoff Era Once And For All By Launching Mainnet; Allows Their DEX Infrastructure To Be Available For All – Even “Competitors”",
+          "description": "After spending years rearchitecting on-chain trading infrastructure from the ground up, KalqiX has officially launched Mainnet and they are not keeping their new tech secrets esoteric. As “The Tradeoff Era” finally meets its end at the arrival of the KalqiX M…",
+          "url": "https://www.redmondpie.com/kalqix-puts-an-end-to-the-tradeoff-era-once-and-for-all-by-launching-mainnet-allows-their-dex-infrastructure-to-be-available-for-all-even-competitors/",
+          "source": "redmondpie.com",
+          "published": "2026-05-21T02:36:20Z",
+          "image": "https://cdn.redmondpie.com/wp-content/uploads/2026/05/Screenshot-2026-05-21-at-7.35.00-AM.png"
+        },
         {
           "title": "SOL Strategies acquires Houdini Swap and Darklake Labs to enhance Solana infrastructure",
           "description": "SOL Strategies' acquisitions position it to attract institutional capital by enhancing privacy and cross-chain capabilities on Solana.\nThe post SOL Strategies acquires Houdini Swap and Darklake Labs to enhance Solana infrastructure appeared first on Crypto Br…",
@@ -84,30 +100,6 @@
           "source": "Bitcoinfoundation.org",
           "published": "2026-05-15T11:39:44Z",
           "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/05/1-2-1778838113.webp"
-        },
-        {
-          "title": "SOL Strategies acquires Darklake to bring zero-knowledge privacy to Solana",
-          "description": "SOL Strategies' acquisition of Darklake could enhance Solana's privacy features, potentially reshaping blockchain transaction security and compliance.\nThe post SOL Strategies acquires Darklake to bring zero-knowledge privacy to Solana appeared first on Crypto…",
-          "url": "https://cryptobriefing.com/sol-strategies-acquires-darklake-solana-privacy/",
-          "source": "Crypto Briefing",
-          "published": "2026-05-14T23:22:20Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/14192219/solana-sol-logo-crypto-logos-3-1-800x420.png"
-        },
-        {
-          "title": "Ripple insider warns XRP holders as fake airdrop scams surge across XRPL",
-          "description": "The XRP Ledger (XRPL) is seeing a drastic rise in fraud attempts targeting its users as the network draws more institutional activity, higher transaction volumes, and renewed attention from XRP traders. On May 14, David Schwartz, the former chief technology o…",
-          "url": "https://cryptoslate.com/ripple-insider-warns-xrp-holders-as-fake-airdrop-scams-surge-across-xrpl/",
-          "source": "CryptoSlate",
-          "published": "2026-05-14T17:05:42Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/05/xrp-airdrop-scam.jpg"
-        },
-        {
-          "title": "The downfall of the login is redefining security",
-          "description": "Continuous, decentralized identity must replace \"point-in-time\" logins",
-          "url": "https://www.techradar.com/pro/the-downfall-of-the-login-is-redefining-security",
-          "source": "TechRadar",
-          "published": "2026-05-14T10:34:14Z",
-          "image": "https://cdn.mos.cms.futurecdn.net/fg7bgy65pWhFo4Qzib58yX-2560-80.jpg"
         }
       ]
     },
@@ -117,68 +109,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "USDC Perspectives 2026: Can USDC Become the World’s Leading Stablecoin?",
-          "description": "Now, halfway through 2026, USDC carries an identity sharper than many in the crypto space. Rather than chasing wild price swings, its aim sits firmly...\nThe post USDC Perspectives 2026: Can USDC Become the World’s Leading Stablecoin? appeared first on Bitcoin…",
-          "url": "https://bitcoinfoundation.org/news/stablecoin-news/can-usdc-become-the-worlds-leading-stablecoin/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-05-20T08:34:00Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/05/USDC1.webp"
+          "title": "Sui Introduces Gasless Stablecoin Transfers, Backed by Fireblocks",
+          "description": "Sui has announced the launch of gasless stablecoin transfers — a new protocol-level feature that enables users and businesses to send supported stablecoins on Sui without paying gas fees or managing a separate SUI token balance. With the feature now rolling o…",
+          "url": "https://zycrypto.com/sui-introduces-gasless-stablecoin-transfers-backed-by-fireblocks/",
+          "source": "ZyCrypto",
+          "published": "2026-05-21T08:51:08Z",
+          "image": "https://zycrypto.com/wp-content/uploads/2026/05/unnamed-47.jpg"
         },
         {
-          "title": "AIB joins consortium of European banks developing euro-backed stablecoin",
-          "description": "Stablecoins are digital assets that are pegged to the value of currencies and other traditional assets",
-          "url": "https://www.irishtimes.com/business/2026/05/20/aib-joins-consortium-of-european-banks-developing-euro-backed-stablecoin/",
-          "source": "The Irish Times",
-          "published": "2026-05-20T07:00:15Z",
-          "image": "https://www.irishtimes.com/resizer/v2/XJSQ7RADENGG5BLOYESYDBK2UA.jpg?smart=true&auth=2af82e9960ab3a81e4a54119e9e6150fcf278c24cecbb0245bf036f55cfbf390&width=1200&height=630"
-        },
-        {
-          "title": "Japan To Recognize Foreign Stablecoins As Electronic Payment Instruments Starting June 1",
-          "description": "Japan’s key financial authority has expanded its framework to officially treat foreign trust‑issued stablecoins as electronic payment instruments instead of securities under domestic law. Related Reading: South Korea’s KB Financial Completes Stablecoin Pilot …",
-          "url": "https://bitcoinist.com/japan-foreign-stablecoins-payment-instrument-june-1/",
+          "title": "By The Numbers: How Much Bitcoin Supply Is Exposed To Quantum Risk?",
+          "description": "Analytics firm Glassnode has broken down how much of the Bitcoin supply is at risk due to Quantum Computing and what its composition looks like. 6.04 Million Bitcoin Is Estimated To Be Exposed To Quantum Risk In a new X article, Glassnode has talked about the…",
+          "url": "https://bitcoinist.com/by-the-numbers-bitcoin-supply-exposed-quantum-risk/",
           "source": "Bitcoinist",
-          "published": "2026-05-20T06:00:29Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/05/hayashi-kanna-VJKlbah0kh4-unsplash.jpg"
+          "published": "2026-05-21T08:00:14Z",
+          "image": "https://bitcoinist.com/wp-content/uploads/2026/05/btc_e9813d.png"
         },
         {
-          "title": "White House Announces Imminent Bitcoin Reserve Plan, Official Says Legal Hurdles Cleared",
-          "description": "The White House is on the verge of a formal announcement regarding the U.S. Strategic Bitcoin Reserve (SBR), according to Patrick Witt, executive director of the President’s Council of Advisors for Digital Assets. Witt stated that the administration has clear…",
-          "url": "https://www.naturalnews.com/2026-05-20-white-house-announces-imminent-bitcoin-reserve-plan.html",
-          "source": "Naturalnews.com",
-          "published": "2026-05-20T06:00:00Z",
-          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/05/strategic-bitcoin-reserve-white-house-legal-hurdles-1593-original.jpg"
-        },
-        {
-          "title": "Trump-Linked Crypto Company Notes ‘Substantial Doubt’ It Can Survive Another 12 Months",
-          "description": "AI Financial is a publicly traded company heavily invested in Trump-related crypto.",
-          "url": "https://gizmodo.com/trump-linked-crypto-company-notes-substantial-doubt-it-can-survive-another-12-months-2000761027",
-          "source": "Gizmodo.com",
-          "published": "2026-05-20T00:33:53Z",
-          "image": "https://gizmodo.com/app/uploads/2026/05/crypto-tokens-memecoins-blockchain-1200x675.jpg"
-        },
-        {
-          "title": "After Nearly a Decade, Gary Gensler's Poster Child for Crypto Compliance Executes Its First Trade",
-          "description": "After weathering years of industry skepticism and navigating a shifting regulatory landscape, Prometheum executed its first crypto trades.",
-          "url": "https://decrypt.co/368409/gary-gensler-poster-child-crypto-compliance-executes-first-trade",
-          "source": "Decrypt",
-          "published": "2026-05-19T22:01:04Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/10/gary-gensler-decrypt-style-02-gID_7.jpg"
-        },
-        {
-          "title": "SoftBank Just Dumped Circle Stock. Don’t Panic and Keep Adding CRCL Here.",
-          "description": "SoftBank fully exited Circle Internet Group in Q1 2026. Here is what investors need to know about the stablecoin giant's fundamentals.",
-          "url": "https://www.barchart.com/story/news/2024093/softbank-just-dumped-circle-stock-dont-panic-and-keep-adding-crcl-here",
-          "source": "Barchart.com",
-          "published": "2026-05-19T19:49:51Z",
-          "image": "https://s.yimg.com/ny/api/res/1.2/8gzm4.8Z3rzjulIeGqX18w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/barchart_com_477/07375dc013af11c3d4c74758307274e0"
-        },
-        {
-          "title": "BoE deputy says tokenization could cut costs, boost competition",
-          "description": "The UK central bank said digital money should remain trusted and interoperable as it weighs stablecoin reforms and near-24/7 settlement to support tokenized markets.",
-          "url": "https://cointelegraph.com/news/boe-breeden-sees-value-supporting-tokenized-uk-markets",
+          "title": "Silvergate’s Fraher breaks silence on settlement with Gensler’s SEC",
+          "description": "Former Silvergate executive Kate Fraher said the rule that prevented her from sharing her side of the story was unconstitutional. It was finally lifted by the SEC this week.",
+          "url": "https://cointelegraph.com/news/silvergates-fraher-breaks-silence-on-settlement-with-genslers-sec",
           "source": "Cointelegraph",
-          "published": "2026-05-19T16:54:43Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-united-kingdom-making-strides-on-crypto-regulation.jpg"
+          "published": "2026-05-21T07:38:46Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-inside-makerdao-drama1.jpg"
+        },
+        {
+          "title": "HTX Releases April Performance Report: Futures Trading Volume Nears $100 Billion, HTX Earn Strengthens Its Position as a \"Gateway to Stable Yields\" and Growth Across Business Lines Fuels Ecosystem Expansion",
+          "description": "PANAMA CITY, May 21, 2026 /PRNewswire/ -- In April 2026, the crypto market completed a key sentiment recovery. Institutional capital continued flowing in, while sectors such as AI, DeFi, and GameFi rotated upward, and the overall market structure began shifti…",
+          "url": "https://www.prnewswire.com/news-releases/htx-releases-april-performance-report-futures-trading-volume-nears-100-billion-htx-earn-strengthens-its-position-as-a-gateway-to-stable-yields-and-growth-across-business-lines-fuels-ecosystem-expansion-302778726.html",
+          "source": "PRNewswire",
+          "published": "2026-05-21T07:28:00Z",
+          "image": "https://mma.prnewswire.com/media/2985127/image1.jpg?p=facebook"
+        },
+        {
+          "title": "European Commission Launches Crypto Rules Review As Euro Stablecoin Project Gains Support",
+          "description": "As market dynamics evolve and pressure builds to strengthen Europe’s position in the global crypto economy, the European Commission (EC) has launched a review of its landmark crypto framework to keep pace with the evolving digital asset landscape. Related Rea…",
+          "url": "http://www.newsbtc.com/news/european-commission-crypto-review-euro-stablecoin/",
+          "source": "newsBTC",
+          "published": "2026-05-21T07:00:32Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2026/05/alexandre-lallemand-Pcs3mOL14Sk-unsplash.jpg?fit=1920%2C1253"
+        },
+        {
+          "title": "Crypto Gains State-Level Support As South Carolina Bans Federal CBDCs",
+          "description": "South Carolina is now one of more than a dozen US states that have passed laws protecting cryptocurrency rights — and it did so with almost no pushback. Related Reading: Crypto AI Platform Bankr Locks Down System After Hacker Breaches 14 Crypto Wallets Govern…",
+          "url": "https://bitcoinist.com/crypto-gains-state-level-support-as-south-carolina-bans-federal-cbdcs/",
+          "source": "Bitcoinist",
+          "published": "2026-05-21T03:00:33Z",
+          "image": "https://bitcoinist.com/wp-content/uploads/2026/05/a_338128.jpg"
+        },
+        {
+          "title": "Figure Technology Solutions to Participate in Upcoming Investor Conferences",
+          "description": "NEW YORK, May 20, 2026 (GLOBE NEWSWIRE) -- Figure Technology Solutions (Nasdaq: FIGR; OPEN: FGRS), the leading blockchain-native capital marketplace for the origination, funding, sale and trading of tokenized assets, today announced the company will be partic…",
+          "url": "https://www.globenewswire.com/news-release/2026/05/20/3298949/0/en/Figure-Technology-Solutions-to-Participate-in-Upcoming-Investor-Conferences.html",
+          "source": "GlobeNewswire",
+          "published": "2026-05-20T22:17:00Z",
+          "image": "https://ml.globenewswire.com/Resource/Download/33b684d4-4115-45ef-849e-b207935b0b70"
+        },
+        {
+          "title": "Ripple ranks No. 16 on CNBC’s 2026 Disruptor 50 list",
+          "description": "Ripple's recognition signals growing institutional acceptance of blockchain, potentially accelerating enterprise adoption and reshaping finance.\nThe post Ripple ranks No. 16 on CNBC’s 2026 Disruptor 50 list appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/ripple-cnbc-disruptor-50-2026/",
+          "source": "Crypto Briefing",
+          "published": "2026-05-20T21:13:34Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/20171332/16-ripple-1-800x420.jpeg"
         }
       ]
     },
@@ -188,28 +180,36 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Ripple Just Moved This $2 Billion Industry Onto The XRP Ledger",
-          "description": "The XRP Ledger is hosting tokenized US Treasuries, money market funds, and real estate instruments, but it is also hosting something far more fundamental than these.  Electricity has become one of the largest real-world assets now represented on the XRP Ledge…",
-          "url": "https://bitcoinist.com/2-billion-industry-to-xrp-ledger/",
-          "source": "Bitcoinist",
-          "published": "2026-05-20T00:30:15Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/05/XRP-from-Freepik-12.avif"
+          "title": "India needs to raise food grains production to 450 million tonnes by 2047: Chaudhari",
+          "description": "Director General SK Chaudhari emphasized that intelligent technology use in agriculture and the fertilizer sector is a national imperative.  He highlighted blockchain and AI as key tools for transforming the sector.",
+          "url": "https://economictimes.indiatimes.com/news/economy/agriculture/india-needs-to-raise-food-grains-production-to-450-million-tonnes-by-2047-chaudhari/articleshow/131240615.cms",
+          "source": "The Times of India",
+          "published": "2026-05-21T06:14:14Z",
+          "image": "https://img.etimg.com/thumb/msid-131240660,width-1200,height-630,imgsize-407094,overlay-economictimes/articleshow.jpg"
         },
         {
-          "title": "Ethereum price pullback to $2,100 pits oil pressure against AI, tokenization bets",
-          "description": "The Ethereum price pullback toward $2,100 has turned a short-term price correction into a broader test of the market’s conviction in one of crypto’s largest assets. Data from CryptoSlate show that ETH has fallen nearly 10% over the past week, wiping out its M…",
-          "url": "https://cryptoslate.com/ethereum-price-pullback-2100-oil-etf-pressure/",
-          "source": "CryptoSlate",
-          "published": "2026-05-19T16:10:48Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/05/ethereum-oil-pressure.jpg"
+          "title": "Crypto Crime Escalates With Kidnappings, Cons and Human Coercion",
+          "description": "After a year of kidnappings, assaults and armed home invasions targeting cryptocurrency holders, the industry is racing to harden its defenses. Conferences are beefing up security. Private firms serving crypto holders say demand has surged. Exchanges are prot…",
+          "url": "https://www.insurancejournal.com/news/international/2026/05/21/870904.htm",
+          "source": "Insurance Journal",
+          "published": "2026-05-21T05:20:32Z",
+          "image": "https://www.insurancejournal.com/app/uploads/2021/07/cryptocurrency_bloomberg-scaled.jpg"
         },
         {
-          "title": "Merchants Eye Back-End Costs as Crypto Cards Push Into Checkout",
-          "description": "The payments industry has become remarkably good at masking complexity from consumers. But merchants do not operate on the front end. Their concerns live in the back office. And with Revolut on Monday (May 18) unveiling its first physical cryptocurrency debit…",
-          "url": "https://www.pymnts.com/cryptocurrency/2026/merchants-eye-back-end-costs-as-crypto-cards-push-into-checkout/",
-          "source": "pymnts.com",
-          "published": "2026-05-19T15:54:33Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2026/04/crypto-payments.jpeg"
+          "title": "Heavy-Duty Vehicle Rental Strategic Industry Business Report 2026: Market to Reach $758.7 Billion by 2032, Gaining Traction As Industries Seek Flexible, Cost-effective, and Scalable Solutions",
+          "description": "The heavy-duty vehicle rental market offers growth opportunities driven by flexible logistics solutions, cost-saving over ownership, and digital fleet management advancements. Key sectors like construction, mining, and e-commerce are increasing rental demand,…",
+          "url": "https://www.globenewswire.com/news-release/2026/05/20/3298493/28124/en/Heavy-Duty-Vehicle-Rental-Strategic-Industry-Business-Report-2026-Market-to-Reach-758-7-Billion-by-2032-Gaining-Traction-As-Industries-Seek-Flexible-Cost-effective-and-Scalable-Sol.html",
+          "source": "GlobeNewswire",
+          "published": "2026-05-20T12:37:00Z",
+          "image": "https://ml.globenewswire.com/Resource/Download/dcbeed39-e277-4fc4-a587-67356de0552e"
+        },
+        {
+          "title": "Deloitte Adds Blocknative Team as Crypto Infrastructure Firm Winds Down",
+          "description": "Deloitte has absorbed the team behind Blocknative, bringing one of crypto’s more specialized transaction infr...",
+          "url": "https://www.cryptoprowl.com/releases/deloitte-adds-blocknative-team-as-crypto-infrastructure-firm-winds-down-5545",
+          "source": "Cryptoprowl.com",
+          "published": "2026-05-20T01:33:00Z",
+          "image": "https://s.yimg.com/os/en/cryptoprowl_304/288af278e0633d385e6673ac2fccb5ef"
         },
         {
           "title": "Physical attacks against crypto holders, including kidnap and assault, up 75% in 2025 — 72 confirmed incidents see $41 million lost, real number likely higher",
@@ -226,14 +226,6 @@
           "source": "GlobeNewswire",
           "published": "2026-05-19T14:56:00Z",
           "image": "https://ml.globenewswire.com/Resource/Download/151dcbd1-0044-44de-9935-34ef19f4f895"
-        },
-        {
-          "title": "Digital Product Passport (DPP) Platforms Research Report 2026: A $1.8B Market by 2030, Growing at a CAGR of 46% - Why Sector Fragmentation, Not Scale, Determines Who Wins",
-          "description": "The fragmented Digital Product Passport (DPP) market offers opportunities across sector-specific ecosystems, driven by EU regulations and decentralized system architectures. Key sectors include automotive, batteries, textiles, electronics, and construction. U…",
-          "url": "https://www.globenewswire.com/news-release/2026/05/19/3297351/28124/en/Digital-Product-Passport-DPP-Platforms-Research-Report-2026-A-1-8B-Market-by-2030-Growing-at-a-CAGR-of-46-Why-Sector-Fragmentation-Not-Scale-Determines-Who-Wins.html",
-          "source": "GlobeNewswire",
-          "published": "2026-05-19T11:12:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/987d1324-2877-4c3a-b657-9bad4753ff34"
         },
         {
           "title": "SEC Developing Framework to Permit Tokenized Stocks",
@@ -263,28 +255,20 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Bitcoin Could Hit Near $95,000 If It Holds Above This Critical Support, Top Analyst Says",
-              "description": "Bitcoin (BTC) has slipped after failing to clear a major ceiling around the $83,000 area, with the flagship cryptocurrency down nearly 5% over the past week.  As of Tuesday evening, BTC was changing hands at roughly $76,750. Even with the pullback, market ana…",
-              "url": "http://www.newsbtc.com/bitcoin-news/bitcoin-could-hit-near-95000-if-it-holds-above-this-critical-support-top-analyst-says/",
-              "source": "newsBTC",
-              "published": "2026-05-20T02:01:35Z",
-              "image": "https://www.newsbtc.com/wp-content/uploads/2026/05/image_j3M3-9ZQ_1779230702702_raw.jpg"
-            },
-            {
-              "title": "Solana futures funding rate turns negative: Is $78 SOL next?",
-              "description": "Traders go short on SOL as declining ecosystem revenues and DEX market-share growth from competing blockchains negatively impact demand for Solana.",
-              "url": "https://cointelegraph.com/markets/solana-futures-funding-rate-turns-negative-is-a-drop-to-78-next",
+              "title": "Syndicate Labs winds down after 5 years, citing shrinking rollup market",
+              "description": "The Ethereum rollup market is dominated by Arbitrum and Base, which have a combined 68% market share, according to L2Beat.",
+              "url": "https://cointelegraph.com/news/ethereum-infrastructure-firm-syndicate-labs-closes-citing-shift-in-rollup-market",
               "source": "Cointelegraph",
-              "published": "2026-05-20T00:15:57Z",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/falling-price-red-market-down-fire-solana.jpg"
+              "published": "2026-05-21T07:30:06Z",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/stop-closed-door-regulation-ban-locked-door-bank-delisting.jpg"
             },
             {
-              "title": "iGaming Marketing Agency Hiring Playbook 2026",
-              "description": "Hiring an iGaming marketing agency? Real pricing, LOK compliance rules, and operator benchmarks for crypto casinos in 2026.",
-              "url": "https://surgence.io/blog/igaming-marketing-agency",
-              "source": "Surgence.io",
-              "published": "2026-05-19T23:42:12Z",
-              "image": "https://i0.wp.com/cms.surgence.io/wp-content/uploads/2026/05/Add-a-heading-19.webp?fit=2240%2C1260&ssl=1"
+              "title": "Binance launches SpaceX pre-IPO perps amid $2 trillion valuation bets",
+              "description": "Binance looks to democratize pre-IPO markets, starting with SpaceX perpetual futures.",
+              "url": "https://www.coindesk.com/markets/2026/05/21/binance-launches-spacex-pre-ipo-perps",
+              "source": "CoinDesk",
+              "published": "2026-05-21T07:03:20Z",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/d3b0012ee91ace25714d9cd726e345705bb5bdd1-3000x1688.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
             }
           ]
         },
@@ -293,28 +277,28 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "Santa Cruz Software Expands BrandingUI with Full Print and Digital Campaign Capabilities and New Subscription Tiers",
-              "description": "New SMB and Enterprise Plans Support Multi-channel Campaigns Across Print, Digital, and Animated Formats SANTA CRUZ, Calif., May 19, 2026 /PRNewswire/ -- Santa Cruz Software, a leader in creative operations and digital asset management (DAM) solutions, today …",
-              "url": "https://www.prnewswire.com/news-releases/santa-cruz-software-expands-brandingui-with-full-print-and-digital-campaign-capabilities-and-new-subscription-tiers-302776558.html",
-              "source": "PRNewswire",
-              "published": "2026-05-19T17:00:00Z",
-              "image": null
+              "title": "Map Protocol token plummets 96% after a quadrillion token mint exploit",
+              "description": "The attacker tricked the Butter Network cross-chain bridge into minting millions more tokens than the legitimate supply of MAPO.",
+              "url": "https://cointelegraph.com/news/map-protocol-loses-96-of-its-value-after-quadrillion-token-mint-exploit",
+              "source": "Cointelegraph",
+              "published": "2026-05-21T04:35:52Z",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-the-feds-rate-cut-means-for-crypto-markets.jpg"
             },
             {
-              "title": "The Most Promising Startups in Web3 Are Pitching at the Louvre in Front of a World-Class Jury",
-              "description": "PARIS, May 19, 2026 (GLOBE NEWSWIRE) -- Proof of Pitch, the official startup competition of Proof of Talk organized by X Ventures and hosted by Spectrum, will return to the Louvre Palace in Paris on June 2 and 3, 2026, for its fourth and most ambitious editio…",
-              "url": "https://www.globenewswire.com/news-release/2026/05/19/3297348/0/en/The-Most-Promising-Startups-in-Web3-Are-Pitching-at-the-Louvre-in-Front-of-a-World-Class-Jury.html",
-              "source": "GlobeNewswire",
-              "published": "2026-05-19T11:08:00Z",
-              "image": "https://ml.globenewswire.com/Resource/Download/282f3710-2664-4950-9001-2384f872f498"
+              "title": "Fireblocks launches agentic payment support, joins x402 Foundation",
+              "description": "If even a fraction of the more than 1 billion people who use AI daily delegate authority to AI agents for online spending, stablecoin adoption would grow substantially, a Fireblocks executive said.",
+              "url": "https://cointelegraph.com/news/fireblocks-launches-agent-payment-support-for-ai-agents",
+              "source": "Cointelegraph",
+              "published": "2026-05-20T14:00:00Z",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-geopolitical-significance-of-stablecoins-pegged-to-fireblocks.jpg"
             },
             {
-              "title": "‘Unstoppable’ Crypto Exchange Halts Trading After $10 Million Theft",
-              "description": "THORChain has claimed end user funds were not affected by this incident.",
-              "url": "https://gizmodo.com/unstoppable-crypto-exchange-halts-trading-after-10-million-theft-2000759775",
-              "source": "Gizmodo.com",
-              "published": "2026-05-17T19:14:07Z",
-              "image": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg"
+              "title": "Deloitte acquires crypto firm amid increasing digital assets exposure",
+              "description": "Deloitte has acquired and hired blockchain infrastructure firm Blocknative. The team is set to focus on driving Web3 innovation across Deloitte's client...",
+              "url": "https://www.thestreet.com/crypto/markets/deloitte-acquires-crypto-firm-amid-increasing-digital-assets-exposure",
+              "source": "TheStreet",
+              "published": "2026-05-20T00:13:27Z",
+              "image": "https://s.yimg.com/ny/api/res/1.2/XJdyG3pqQ80W0a1_r6BeYQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/thestreet_881/984d27a33d7879d21801a0219ce5c98c"
             }
           ]
         }
