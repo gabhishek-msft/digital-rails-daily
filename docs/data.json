@@ -1,5 +1,5 @@
 {
-  "date": "May 25, 2026",
+  "date": "May 26, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -78,6 +78,14 @@
       "color": "#e6a200",
       "articles": [
         {
+          "title": "From split-tunneling to post-quantum crypto: NymVPN just had its biggest two-month update yet, and a fresh redesign is already on the way",
+          "description": "NymVPN rolled out split-tunneling, ad blocking, post-quantum encryption, and a Pay as You Go tier across March and April 2026. Here's the full recap and what's next.",
+          "url": "https://www.techradar.com/vpn/vpn-services/from-split-tunneling-to-post-quantum-crypto-nymvpn-just-had-its-biggest-two-month-update-yet-and-a-fresh-redesign-is-already-on-the-way",
+          "source": "TechRadar",
+          "published": "2026-05-25T06:00:00Z",
+          "image": "https://cdn.mos.cms.futurecdn.net/kFJmpmXBNvtZboJMDK5tJQ-1200-80.png"
+        },
+        {
           "title": "Google DeepMind’s AlphaProof Nexus solves 9 Erdős problems and proves 44 sequence conjectures",
           "description": "AI-driven formal verification could revolutionize fields like cryptography and software auditing by making proof validation more efficient and cost-effective.\nThe post Google DeepMind’s AlphaProof Nexus solves 9 Erdős problems and proves 44 sequence conjectur…",
           "url": "https://cryptobriefing.com/deepmind-alphaproof-nexus-erdos-problems/",
@@ -132,14 +140,6 @@
           "source": "Bitcoinfoundation.org",
           "published": "2026-05-19T07:10:22Z",
           "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/05/Next-1-1.webp"
-        },
-        {
-          "title": "Wallet makers are the quiet backbone of the crypto industry. Now they want to be banks",
-          "description": "A lot has changed since discussion around wallets was limited to whether they offered Bitcoin or Ethereum.",
-          "url": "https://fortune.com/crypto/2026/05/18/metamask-exodus-wallets-banks-neobanks-quiet-backbones/",
-          "source": "Fortune",
-          "published": "2026-05-18T11:11:26Z",
-          "image": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2230642816.jpg?resize=1200,600"
         }
       ]
     },
@@ -149,68 +149,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "70% of all crypto wrench attacks happen in France: Report",
-          "description": "Bitcoiners are sounding the alarm on the rise of wrench attacks against crypto holders in France, and tips to stay safe and avoid being targeted by criminals.",
-          "url": "https://cointelegraph.com/news/70-crypto-wrench-attacks-happen-france",
-          "source": "Cointelegraph",
-          "published": "2026-05-23T23:07:19Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/crowd-angry-on-c-man.jpg"
+          "title": "Ripple (XRP) Price Prediction: Will XRP Hit $15 By 2027?",
+          "description": "XRP (CRYPTO: XRP) price predictions are everywhere in Ripple communities right now, and the $15 by 2027 calls sound reasonable until you actually do the math...",
+          "url": "https://247wallst.com/investing/2026/05/25/ripple-xrp-price-prediction-will-xrp-hit-15-by-2027/",
+          "source": "24/7 Wall St.",
+          "published": "2026-05-25T08:41:19Z",
+          "image": "https://s.yimg.com/ny/api/res/1.2/WMTV7kU5iYRSULF9jhEAVQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/24_7_wall_st__718/d95dfca4d0d4d1040d59c976795ff962"
         },
         {
-          "title": "Analyst Highlights Ethereum ‘Kill Zone’ That Shows The Best Time To Buy",
-          "description": "Ethereum (ETH) has been under heavy selling pressure in recent weeks, leaving many retail investors uncertain about when to enter the market. However, Lingrid, a TradingView crypto expert, has stepped in, pinpointing an area she calls a “Kill Zone,” which rev…",
-          "url": "http://www.newsbtc.com/altcoin/analyst-highlights-ethereum-kill-zone-that-shows-the-best-time-to-buy/",
-          "source": "newsBTC",
-          "published": "2026-05-23T21:00:45Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2026/05/a_58f702.jpg?fit=1027%2C591"
+          "title": "The Fed may open direct settlement rails to crypto firms as banks warn of liquidity risk",
+          "description": "You never see the most important part of any of your payments. When an app says your money moved, a number changes on your screen, and the transaction looks and feels finished. But underneath those interfaces lies a separate, invisible chain of bank reserves,…",
+          "url": "https://cryptoslate.com/the-fed-may-open-direct-settlement-rails-to-crypto-firms-as-banks-warn-of-liquidity-risk/",
+          "source": "CryptoSlate",
+          "published": "2026-05-25T08:35:28Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/05/fed-payment-rail-fintech.jpg"
         },
         {
-          "title": "Stablecoin Regulation: FDIC Announces New Proposed AML Rules For Issuers",
-          "description": "As crypto regulations continue to take shape in the US, the Federal Deposit Insurance Corporation (FDIC) has issued a notice of proposed rulemaking to extend Bank Secrecy Act (BSA) and economic sanctions compliance standards to FDIC-supervised Permitted Payme…",
-          "url": "https://bitcoinist.com/stablecoin-fdic-new-aml-rules-proposed-for-issuers/",
-          "source": "Bitcoinist",
-          "published": "2026-05-23T19:00:23Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/05/stablecoins.jpg"
+          "title": "India’s 18-month window: take leadership of tokenization while the rails are still being laid",
+          "description": "We have one DPI stack, three regulators that must converge efforts and 18 months to take the lead on tokenizing assets. If digital ID proof holds the key, we must use Aadhaar as a headstart on setting global standards. RBI, Sebi and the Gift City regulator mu…",
+          "url": "https://www.livemint.com/opinion/online-views/india-18-month-window-tokenization-digital-public-infrastructure-dpi-rbi-gift-city-sebi-11779651055945.html",
+          "source": "Livemint",
+          "published": "2026-05-25T06:31:21Z",
+          "image": "https://www.livemint.com/lm-img/img/2026/05/25/1600x900/logo/token_ai_generated_1779690517148_1779690523098_c9d711f8-cda2-4231-936a-fc1f45ca269f.png"
         },
         {
-          "title": "Bitcoin Pizza Day: A $41 Experiment Now Worth Billions",
-          "description": "Nation-state adoption of Bitcoin has become the new frontier for crypto advocates, a far cry from the days when the currency’s biggest achievement was buying two pizzas. Sixteen years after that first recorded transaction, the Bitcoin community marked the ann…",
-          "url": "https://bitcoinist.com/bitcoin-pizza-day-a-41-experiment-now-worth-billions/",
-          "source": "Bitcoinist",
-          "published": "2026-05-23T17:30:25Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/05/a_149797.avif"
+          "title": "Choosing a crypto exchange in India? Read this first",
+          "description": "With fees, security and ease of use all up for scrutiny, WazirX makes a strong case for being the everyday trader’s go-to platform in India’s crowded crypto market.",
+          "url": "https://economictimes.indiatimes.com/wealth/invest/choosing-a-crypto-exchange-in-india-read-this-first/articleshow/131303291.cms",
+          "source": "The Times of India",
+          "published": "2026-05-25T06:28:37Z",
+          "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1021469,resizemode-75,msid-131303291/wealth/invest/choosing-a-crypto-exchange-in-india-read-this-first.jpg"
         },
         {
-          "title": "As Bitcoin Trades Near $80K, MoneyFlare Launches AI Crypto Trading Bot for Smarter Digital Asset Automation",
-          "description": "MoneyFlare introduces an AI crypto trading bot designed to help users access digital asset automation through automated market analysis, strategy execution, and trading management. MoneyFlare introduces an AI crypto trading bot designed to help users access d…",
-          "url": "https://www.globenewswire.com/news-release/2026/05/23/3300437/0/en/As-Bitcoin-Trades-Near-80K-MoneyFlare-Launches-AI-Crypto-Trading-Bot-for-Smarter-Digital-Asset-Automation.html",
+          "title": "Bybit CEO Ben Zhou: Tokenization Will Reshape Global Finance Faster Than Expected at Goldman Sachs Asia Pacific FinTech Conference 2026",
+          "description": "DUBAI, UAE, May 25, 2026 /PRNewswire/ -- The next phase of global finance will be built on tokenized infrastructure that operates continuously across borders, according to Ben Zhou, Co-founder and CEO of Bybit. Speaking at the 2026 Goldman Sachs Asia Pacific …",
+          "url": "https://www.prnewswire.com/news-releases/bybit-ceo-ben-zhou-tokenization-will-reshape-global-finance-faster-than-expected-at-goldman-sachs-asia-pacific-fintech-conference-2026-302780968.html",
+          "source": "PRNewswire",
+          "published": "2026-05-25T06:10:00Z",
+          "image": "https://mma.prnewswire.com/media/2986821/image1.jpg?p=facebook"
+        },
+        {
+          "title": "U.S. Lawmaker Introduces Bill to Codify Strategic Bitcoin Reserve",
+          "description": "Rep. Nick Begich, Republican of Alaska, introduced legislation Thursday to permanently establish a U.S. strategic bitcoin reserve, according to a press release from his office. The bill, titled the American Reserve Modernization Act of 2026 (ARMA), is designe…",
+          "url": "https://www.naturalnews.com/2026-05-25-us-lawmaker-introduces-bill-codify-bitcoin-reserve.html",
+          "source": "Naturalnews.com",
+          "published": "2026-05-25T06:00:00Z",
+          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/05/bitcoin-strategic-reserve-legislation-1656-original.jpg"
+        },
+        {
+          "title": "Toobit Increases BTC Yields to 30% APR for Limited Time",
+          "description": "GEORGE TOWN, Cayman Islands, May 25, 2026 (GLOBE NEWSWIRE) -- Toobit, the award-winning global cryptocurrency exchange, today announces an upgraded high-yield offering, introducing a limited-time 30% APR for Bitcoin (BTC) as part of its expanding Fixed Earn s…",
+          "url": "https://www.globenewswire.com/news-release/2026/05/25/3300508/0/en/Toobit-Increases-BTC-Yields-to-30-APR-for-Limited-Time.html",
           "source": "GlobeNewswire",
-          "published": "2026-05-23T17:00:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/4eac2500-20ba-4203-b40f-13d22a2eb330"
+          "published": "2026-05-25T05:34:00Z",
+          "image": "https://ml.globenewswire.com/Resource/Download/68292f3e-3426-4fb9-8ac5-24b803c6cd97"
         },
         {
-          "title": "Bitcoin price drop below $75K exposes the demand fracture behind crypto’s $941M liquidation wave",
-          "description": "Bitcoin's price has dropped below $75,000 for the first time since mid-April, triggering a broad decline across digital assets. Data from CryptoSlate showed that the largest digital asset fell more than 3% over the past 24 hours to as low as $74,255 after tra…",
-          "url": "https://cryptoslate.com/bitcoin-price-drop-below-75k-exposes-the-demand-fracture-behind-cryptos-941m-liquidation-wave/",
-          "source": "CryptoSlate",
-          "published": "2026-05-23T16:47:27Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/05/bitcoin-snap.jpg"
-        },
-        {
-          "title": "“If Crypto Needs Regulation to Survive, It’s Worthless” – Arthur Hayes Urges Trump to Veto CLARITY Act",
-          "description": "CEO of major crypto derivatives platform BitMEX, Arthur Hayes, has urged US President Donald Trump to veto the proposed CLARITY Act.",
-          "url": "https://zycrypto.com/if-crypto-needs-regulation-to-survive-its-worthless-arthur-hayes-urges-trump-to-veto-clarity-act/",
+          "title": "Ether, XRP, BNB, Solana, Cardano Opening Up ‘Final Window of Opportunity’ As Markets Waver",
+          "description": "Digital asset markets are entering what could be the final cyclical window for explosive altcoin returns before a major global financial crisis, according to prominent cryptocurrency analyst Michael van de Poppe. Van de Poppe revealed he has shifted his entir…",
+          "url": "https://zycrypto.com/ether-xrp-bnb-solana-cardano-opening-up-final-window-of-opportunity-as-markets-waver/",
           "source": "ZyCrypto",
-          "published": "2026-05-23T16:20:35Z",
-          "image": "https://zycrypto.com/wp-content/uploads/2023/11/BitMEX-Founder-Arthur-Hayes-Calls-U.S.-Heavy-Handed-Treatment-Of-Binance-And-CZ-‘Absurd.jpg"
-        },
-        {
-          "title": "Bank of England’s 24/7 settlement plan shows where tokenized finance can enter core markets",
-          "description": "Bitcoin trades 24 hours a day, 365 days a year, and stablecoins can cross borders in seconds on a Sunday morning. And yet, if a major UK institution needed to move collateral, settle a high-value payment, or shift liquidity between clearing houses over the we…",
-          "url": "https://cryptoslate.com/bank-of-englands-24-7-settlement-plan-shows-where-tokenized-finance-can-enter-core-markets/",
-          "source": "CryptoSlate",
-          "published": "2026-05-23T14:00:45Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/05/england-247-trading.jpg"
+          "published": "2026-05-24T16:52:50Z",
+          "image": "https://zycrypto.com/wp-content/uploads/2026/03/XRP-Solana-Cardano-BNB-DOGE-Primed-For-Huge-Expansion-If-Ethereum-Attains-This-Milestone-_.jpg"
         }
       ]
     },
@@ -219,6 +219,22 @@
       "icon": "🏥",
       "color": "#00cc88",
       "articles": [
+        {
+          "title": "Where Will Solana (SOL) Be in 5 Years?",
+          "description": "Solana (CRYPTO: SOL) has delivered positive returns in three out of the last five calendar years, which turns a $1,000 investment in Q1 2021 into around...",
+          "url": "https://247wallst.com/investing/2026/05/24/where-will-solana-sol-be-in-5-years/",
+          "source": "24/7 Wall St.",
+          "published": "2026-05-24T21:02:40Z",
+          "image": "https://s.yimg.com/ny/api/res/1.2/VZSl5C4_8.sAuuUrinPVHA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/24_7_wall_st__718/9446ca7f5b7d6e3a77b7bf5214689441"
+        },
+        {
+          "title": "BitMine’s $126M Ethereum buy sets up a Russell index test tied to $12.2T in assets",
+          "description": "BitMine bought an additional 60,000 ETH worth about $126 million as Ethereum traded near $2,000, extending one of the largest corporate accumulation strategies tied to the second-largest digital asset. The purchase came just as the firm was named to the preli…",
+          "url": "https://cryptoslate.com/bitmines-126m-ethereum-buy-sets-up-a-russell-index-test-tied-to-12-2t-in-assets/",
+          "source": "CryptoSlate",
+          "published": "2026-05-24T13:05:15Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/05/bitmine-ethereum.jpg"
+        },
         {
           "title": "A federated blockchain framework for secure and intelligent smart farming in sustainable industrial agriculture",
           "description": "Scientific Reports - A federated blockchain framework for secure and intelligent smart farming in sustainable industrial agriculture",
@@ -234,6 +250,14 @@
           "source": "Yahoo Entertainment",
           "published": "2026-05-23T12:01:58Z",
           "image": "https://s.yimg.com/os/en/benzinga_79/c46773016b35d904694cc23436c9163e"
+        },
+        {
+          "title": "Jamie Dimon says AI is changing bank jobs as Wall Street backs crypto",
+          "description": "JPMorgan Chase CEO Jamie Dimon said the bank expects to hire more artificial intelligence (AI) specialists while gradually reducing reliance on traditional...",
+          "url": "https://www.thestreet.com/crypto/markets/jpmorgan-jamie-dimon-says-ai-is-changing-bank-jobs-as-wall-street-backs-crypto",
+          "source": "TheStreet",
+          "published": "2026-05-22T16:25:09Z",
+          "image": "https://s.yimg.com/os/en/thestreet_881/7db51e6fb37ffd5437df0261e9ec4d08"
         },
         {
           "title": "Blockchain.com files confidentially for US IPO amid growing crypto listings",
@@ -258,30 +282,6 @@
           "source": "GlobeNewswire",
           "published": "2026-05-21T15:14:00Z",
           "image": "https://ml.globenewswire.com/Resource/Download/eecaa46c-10f4-481b-b387-0dfe1b53d379"
-        },
-        {
-          "title": "India needs to raise food grains production to 450 million tonnes by 2047: Chaudhari",
-          "description": "Director General SK Chaudhari emphasized that intelligent technology use in agriculture and the fertilizer sector is a national imperative.  He highlighted blockchain and AI as key tools for transforming the sector.",
-          "url": "https://economictimes.indiatimes.com/news/economy/agriculture/india-needs-to-raise-food-grains-production-to-450-million-tonnes-by-2047-chaudhari/articleshow/131240615.cms",
-          "source": "The Times of India",
-          "published": "2026-05-21T06:14:14Z",
-          "image": "https://img.etimg.com/thumb/msid-131240660,width-1200,height-630,imgsize-407094,overlay-economictimes/articleshow.jpg"
-        },
-        {
-          "title": "Crypto Crime Escalates With Kidnappings, Cons and Human Coercion",
-          "description": "After a year of kidnappings, assaults and armed home invasions targeting cryptocurrency holders, the industry is racing to harden its defenses. Conferences are beefing up security. Private firms serving crypto holders say demand has surged. Exchanges are prot…",
-          "url": "https://www.insurancejournal.com/news/international/2026/05/21/870904.htm",
-          "source": "Insurance Journal",
-          "published": "2026-05-21T05:20:32Z",
-          "image": "https://www.insurancejournal.com/app/uploads/2021/07/cryptocurrency_bloomberg-scaled.jpg"
-        },
-        {
-          "title": "Heavy-Duty Vehicle Rental Strategic Industry Business Report 2026: Market to Reach $758.7 Billion by 2032, Gaining Traction As Industries Seek Flexible, Cost-effective, and Scalable Solutions",
-          "description": "The heavy-duty vehicle rental market offers growth opportunities driven by flexible logistics solutions, cost-saving over ownership, and digital fleet management advancements. Key sectors like construction, mining, and e-commerce are increasing rental demand,…",
-          "url": "https://www.globenewswire.com/news-release/2026/05/20/3298493/28124/en/Heavy-Duty-Vehicle-Rental-Strategic-Industry-Business-Report-2026-Market-to-Reach-758-7-Billion-by-2032-Gaining-Traction-As-Industries-Seek-Flexible-Cost-effective-and-Scalable-Sol.html",
-          "source": "GlobeNewswire",
-          "published": "2026-05-20T12:37:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/dcbeed39-e277-4fc4-a587-67356de0552e"
         }
       ]
     },
@@ -295,12 +295,44 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Blockchain researcher defends Ethereum Foundation, says it’s ‘exactly’ doing its job",
-              "description": "Blockchain researcher William Mougayar argues the Ethereum Foundation is doing exactly what it was designed to do, pushing back against community criticism.",
-              "url": "https://cointelegraph.com/news/blockchain-researcher-defends-ethereum-foundation-says-its-exactly-doing-its-job",
+              "title": "TrapDoor attack targets crypto wallets, AWS keys and GitHub tokens",
+              "description": "The malware spread through npm, PyPI, and Rust packages in coordinated waves. It steals crypto wallets, SSH keys, and cloud developer credentials. AI coding tools were also targeted through malicious config files. A coordinated malware campaign known as TrapD…",
+              "url": "https://coinjournal.net/news/trapdoor-attack-targets-crypto-wallets-aws-keys-and-github-tokens/",
+              "source": "Coinjournal.net",
+              "published": "2026-05-25T09:26:40Z",
+              "image": "https://coinjournal.net/wp-content/uploads/2023/03/08_Hackers-6-1.jpg"
+            },
+            {
+              "title": "Crypto entrepreneur Chun Wang joins SpaceX mission to Mars",
+              "description": "Crypto entrepreneur Chun Wang, founder of F2Pool, has joined a planned SpaceX lunar and Mars mission after purchasing seats on the upcoming spaceflights.",
+              "url": "https://cointelegraph.com/news/chun-wang-spacex-mars-mission-crypto-entrepreneur",
               "source": "Cointelegraph",
-              "published": "2026-05-24T09:22:16Z",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-ethereum.jpg"
+              "published": "2026-05-25T07:15:39Z",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/hi-pilot-launch-what-it-means-for-pioneers.jpg"
+            },
+            {
+              "title": "Best High-Return Investments in the USA for Beginners - Health Growkero",
+              "description": "Quick answer: The best high-return investments for beginners in the USA include growth stocks, Real Estate Investment Trusts (REITs), cryptocurrency, and",
+              "url": "https://health.growkero.in/best-high-return-investments-in-the-usa-for-beginners/",
+              "source": "Growkero.in",
+              "published": "2026-05-25T05:31:47Z",
+              "image": "https://health.growkero.in/wp-content/uploads/2026/05/Untitled-design-11.jpg"
+            },
+            {
+              "title": "Now You Can Buy Bitcoin, XRP and More in ChatGPT via MoonPay",
+              "description": "MoonPay's new app lets users buy cryptocurrencies, including Bitcoin and Solana, through ChatGPT just by speaking with the chatbot.",
+              "url": "https://decrypt.co/368875/buy-bitcoin-xrp-chatgpt-moonpay",
+              "source": "Decrypt",
+              "published": "2026-05-24T21:01:04Z",
+              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/04/decrypt-style-moonpay-gID_7.png"
+            },
+            {
+              "title": "Ahmedabad: 10th accused arrested in crypto-terror funding case",
+              "description": "Ahmedabad CID arrests another accused in ₹226-crore crypto laundering case with alleged Hamas links; total held 10; probe cites USDT, P2P trades and frozen accounts.",
+              "url": "https://timesofindia.indiatimes.com/city/ahmedabad/ahmedabad-10th-accused-arrested-in-crypto-terror-funding-case/articleshow/131295956.cms",
+              "source": "The Times of India",
+              "published": "2026-05-24T18:36:28Z",
+              "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg"
             }
           ]
         },
@@ -309,12 +341,28 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "Brazilian gang raid reveals a new crypto-crime model: turning stolen power into digital money",
-              "description": "Rio de Janeiro Civil Police launched an operation targeting a Comando Vermelho operational nucleus and found a crypto mining setup with roughly 30 computers arranged on shelves in a room on an apparently abandoned lot. The farm drew power from a clandestine e…",
-              "url": "https://cryptoslate.com/brazilian-gang-raid-reveals-a-new-crypto-crime-model-turning-stolen-power-into-digital-money/",
+              "title": "TrapDoor Supply Chain Attack Spreads Credential-Stealing Malware via npm, PyPI, and CratesIO",
+              "description": "A new coordinated cross-ecosystem software supply chain attack campaign has targeted npm, PyPI, and Crates.io to distribute credential-stealing malware.\n\nThe campaign, codenamed TrapDoor, spans more than 34 malicious packages across over 384 versions. The ear…",
+              "url": "https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html",
+              "source": "Internet",
+              "published": "2026-05-25T05:59:13Z",
+              "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOb58wXNPgRDazHcSLTObawPnMVsCDUEAoFclGVn3CC8qe6Pr_0-Gce-SxCO7FJ5HzU23WE_soU5iTc0zvLL0zzbXPcO8MqVgHIIAKXJo4ExcujDPV9yiIdN1X1jV63ACBN66_ktTeQ0FVmYsCTJC3tpyxpUBrvxLh_xqF-mKOZy8uaqz3QKyf6XpJHC4z/s1700-e365/npm-python-rust.jpg"
+            },
+            {
+              "title": "UK internet users unknowingly give tech and artificial intelligence firms £194,000",
+              "description": "Web3 Foundation reveals how some of the world’s most powerful companies collect and monetise personal data to power the internet",
+              "url": "https://www.the-independent.com/tech/uk-internet-users-data-ai-b2982765.html",
+              "source": "The-independent.com",
+              "published": "2026-05-24T23:01:00Z",
+              "image": "https://static.the-independent.com/2026/05/24/15/01KSCBXJD387P3HRKXCNC0HRHR.jpg?width=1200&height=800&crop=1200:800"
+            },
+            {
+              "title": "SEC’s tokenized stock plan could force crypto exchanges to answer what investors really own",
+              "description": "Given how far the crypto market has come in terms of regulation, the next big fight won't be about Bitcoin, stablecoins, or even memecoins. It's going to be about whether a crypto exchange can list tokenized stocks that track Tesla, Apple, or Nvidia without t…",
+              "url": "https://cryptoslate.com/sec-may-let-crypto-exchanges-trade-tokenized-stocks-without-asking-wall-street-first/",
               "source": "CryptoSlate",
-              "published": "2026-05-23T09:53:35Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/05/bitcoin-mining-brazil.jpg"
+              "published": "2026-05-24T19:05:23Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/05/sec-tokenized-stocks-trading.jpg"
             },
             {
               "title": "Polymarket Hit By ‘Internal Top-Up’ Wallet Exploit, $700K Drained",
@@ -331,6 +379,14 @@
               "source": "Cointelegraph",
               "published": "2026-05-22T10:19:06Z",
               "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ledger33.jpg"
+            },
+            {
+              "title": "Not Bitcoin: US Government Bets $2 Billion On Quantum Instead",
+              "description": "The US government is reportedly investing in Quantum Computing, the technology that could end up acting as a possible threat to Bitcoin. US Commerce Department To Give $2 Billion To Quantum Computing Firms As reported by CNBC, the US government is set to awar…",
+              "url": "https://bitcoinist.com/bitcoin-us-government-2-billion-quantum-instead/",
+              "source": "Bitcoinist",
+              "published": "2026-05-22T08:00:10Z",
+              "image": "https://bitcoinist.com/wp-content/uploads/2026/05/btc_eafff4.png"
             }
           ]
         }
