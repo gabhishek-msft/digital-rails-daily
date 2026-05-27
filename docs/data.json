@@ -1,5 +1,5 @@
 {
-  "date": "May 26, 2026",
+  "date": "May 27, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -7,20 +7,36 @@
       "color": "#ffb900",
       "articles": [
         {
+          "title": "X Layer launches Exchange OS for custom crypto market creation",
+          "description": "Exchange OS could democratize crypto market creation, potentially increasing market diversity and accessibility while challenging traditional exchanges.\nThe post X Layer launches Exchange OS for custom crypto market creation appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/x-layer-exchange-os-custom-crypto-markets/",
+          "source": "Crypto Briefing",
+          "published": "2026-05-26T05:12:29Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2020/12/02092245/link-bull-1024x538.jpg"
+        },
+        {
+          "title": "$420 Billion In Zcash Tracked By Arkham — Is This The End Of The Privacy Coin’s Core Promise?",
+          "description": "Blockchain intelligence firm Arkham Intelligence has published research revealing that it has successfully labeled more than half of all Zcash transaction activity — attributing $420 billion in volume to known individuals and institutions — a finding that str…",
+          "url": "https://bitcoinist.com/420-billion-in-zcash-tracked-by-arkham-is-this-end/",
+          "source": "Bitcoinist",
+          "published": "2026-05-25T23:30:34Z",
+          "image": "https://bitcoinist.com/wp-content/uploads/2026/05/Zcash-ZEC-ZECUSD.jpg"
+        },
+        {
+          "title": "Ripple Doesn’t Move Randomly: The Strategic Moves Behind XRP’s Domination",
+          "description": "Crypto pundit BankXRP has highlighted that Ripple’s recent investment is strategic and boosts XRP’s utility as a cross-border payment asset. This comes as Ripple continues to expand its operations, with moves to further integrate XRP in its operations.  How R…",
+          "url": "https://bitcoinist.com/ripple-doesnt-move-randomly/",
+          "source": "Bitcoinist",
+          "published": "2026-05-25T16:00:03Z",
+          "image": "https://bitcoinist.com/wp-content/uploads/2026/05/Ripple-from-Getty-Images.jpg"
+        },
+        {
           "title": "Crypto trader sees Hyperliquid, AI tokens leading next altcoin rally",
           "description": "Hyperliquid’s surge and renewed interest in AI-focused crypto projects are signaling a broader return of risk appetite in altcoins, says Michael van de Poppe.",
           "url": "https://www.coindesk.com/markets/2026/05/23/crypto-trader-sees-hyperliquid-ai-tokens-leading-next-altcoin-rally",
           "source": "CoinDesk",
           "published": "2026-05-23T14:19:18Z",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/e7f712e4315b851a9891037df6c9d2989d66a087-1378x772.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
-        },
-        {
-          "title": "Dynamic becomes first wallet provider to support embedded private payments on Aleo",
-          "description": "Dynamic's integration with Aleo could revolutionize privacy in crypto transactions, but regulatory challenges may impact its widespread adoption.\nThe post Dynamic becomes first wallet provider to support embedded private payments on Aleo appeared first on Cry…",
-          "url": "https://cryptobriefing.com/dynamic-wallet-private-payments-aleo/",
-          "source": "Crypto Briefing",
-          "published": "2026-05-22T22:31:10Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/22183110/build-on-aleo-the-zero-knowledge-l1-built-for-private-applic-1-800x420.jpeg"
         },
         {
           "title": "BTC Ecosystem Announces New Strategic Initiative with AntPool and Bitmain to Expand Bitcoin Infrastructure Development in 2026",
@@ -31,22 +47,6 @@
           "image": "https://ml.globenewswire.com/Resource/Download/cd6ca70b-1c8f-41bb-9773-2af8952078a7"
         },
         {
-          "title": "XRP Ledger Hits No. 4 In RWA Rankings In Less Than A Year",
-          "description": "XRP Ledger has moved into fourth place on RWA.xyz’s network rankings, according to RippleX, marking a rapid climb for the blockchain in the tokenized real-world asset sector. The move puts XRPL behind Canton, Ethereum and Provenance by total distributed RWA v…",
-          "url": "https://bitcoinist.com/xrp-ledger-no-4-in-rwa-rankings-in-less-than-year/",
-          "source": "Bitcoinist",
-          "published": "2026-05-22T10:00:13Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/05/ChatGPT-Image-22.-Mai-2026-09_08_33.png"
-        },
-        {
-          "title": "XRP Has Overtaken Solana And Ethereum In This Major Metric",
-          "description": "The Real World Asset (RWA) sector has seen remarkable growth over the past month, with the XRP, Solana (SOL), and Ethereum (ETH) ecosystems recording a significant increase in market value and adoption. However, among these three leading cryptocurrencies, XRP…",
-          "url": "https://bitcoinist.com/xrp-overtaken-solana-ethereum/",
-          "source": "Bitcoinist",
-          "published": "2026-05-21T23:00:55Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/05/XRP-Solana-Ethereum.jpeg"
-        },
-        {
           "title": "KalqiX Mainnet Launch Signals The End Of DeFi’s “Tradeoff Era”",
           "description": "The decentralized finance industry has spent years trying to solve one frustrating problem: users have always been forced to compromise. Want decentralization and self-custody? Then accept slower speeds, fragmented liquidity, and clunky interfaces. Want high …",
           "url": "https://www.redmondpie.com/kalqix-mainnet-launch-signals-the-end-of-defis-tradeoff-era/",
@@ -55,20 +55,20 @@
           "image": "https://cdn.redmondpie.com/wp-content/uploads/2026/05/Screenshot-2026-05-21-at-7.35.00-AM.png"
         },
         {
-          "title": "Arthur Hayes Market Outlook 2026: Why He Still Thinks Bitcoin Can Go Parabolic",
-          "description": "Bitcoin’s next major move is not waiting on good headlines. In Arthur Hayes’s view, what matters most is liquidity. The Arthur Hayes market outlook for...\nThe post Arthur Hayes Market Outlook 2026: Why He Still Thinks Bitcoin Can Go Parabolic appeared first o…",
-          "url": "https://bitcoinfoundation.org/news/altcoins/arthur-hayes-market-outlook-2026-why-he-still-thinks-bitcoin-can-go-parabolic/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-05-21T19:10:39Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/05/hayes-1.webp"
-        },
-        {
           "title": "Zyga enables private execution and zkKYC for Solana institutions",
           "description": "Zyga's integration could catalyze institutional DeFi adoption on Solana by addressing privacy and compliance, potentially reshaping the market.\nThe post Zyga enables private execution and zkKYC for Solana institutions appeared first on Crypto Briefing.",
           "url": "https://cryptobriefing.com/zyga-private-execution-zkkyc-solana/",
           "source": "Crypto Briefing",
           "published": "2026-05-21T15:09:42Z",
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/21110941/solana-s-privacy-narrative-sharpens-as-sol-strategies-buys-d-1-800x420.jpeg"
+        },
+        {
+          "title": "The Protocol: Ethereum Foundation's high-profile departures spark fresh debate",
+          "description": "Also: Citi on quantum computing and bitcoin, Jump Crypto’s Firedancer, and Vitalik Buterin on AI verification",
+          "url": "https://www.coindesk.com/tech/2026/05/20/the-protocol-ethereum-foundation-s-high-profile-departures-spark-fresh-debate",
+          "source": "CoinDesk",
+          "published": "2026-05-20T16:37:52Z",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/d3c8c77fb49ccb3f7f4e42c2161b20a186f89dd0-1500x1000.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
         }
       ]
     },
@@ -77,6 +77,14 @@
       "icon": "🔐",
       "color": "#e6a200",
       "articles": [
+        {
+          "title": "Show HN : Building Production MPC Wallets: Architecture, Solana Implementation",
+          "description": "A practitioner's guide to building MPC wallets that actually work in 2026. Covers DKG, threshold signing with FROST, what BitForge taught the industry, and a working 2-of-3 reference implementation.",
+          "url": "https://nethsara.substack.com/p/byowbuild-your-own-wallet-a-field",
+          "source": "Substack.com",
+          "published": "2026-05-26T06:54:23Z",
+          "image": "https://substackcdn.com/image/fetch/$s_!GUsD!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2c9f2ee-c645-4134-8f2e-f968b1959918_1200x628.png"
+        },
         {
           "title": "From split-tunneling to post-quantum crypto: NymVPN just had its biggest two-month update yet, and a fresh redesign is already on the way",
           "description": "NymVPN rolled out split-tunneling, ad blocking, post-quantum encryption, and a Pay as You Go tier across March and April 2026. Here's the full recap and what's next.",
@@ -110,36 +118,12 @@
           "image": "http://community.wolfram.com/share.png"
         },
         {
-          "title": "Satoshi’s 1.1M bitcoin and millions more can be saved from quantum attack, says expert",
-          "description": "Researchers at the privacy-centric blockchain startup say their multi-layer quantum defense will feature a soft fork to freeze and protect dormant BTC.",
-          "url": "https://www.coindesk.com/tech/2026/05/21/satoshi-s-1-1m-bitcoin-stash-can-be-saved-from-quantum-attack-says-americanfortress",
-          "source": "CoinDesk",
-          "published": "2026-05-21T19:10:03Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/d6fe7e9fcbbd5f8330335bf3b990fa1f61a5ebd9-1280x853.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
-        },
-        {
           "title": "OpenAI model solves 80-year-old planar unit distance problem",
           "description": "AI's breakthrough in disproving Erds' conjecture could revolutionize combinatorial geometry, impacting computational fields and problem-solving.\nThe post OpenAI model solves 80-year-old planar unit distance problem appeared first on Crypto Briefing.",
           "url": "https://cryptobriefing.com/openai-solves-planar-unit-distance-problem/",
           "source": "Crypto Briefing",
           "published": "2026-05-21T06:24:24Z",
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/21022423/openai-says-its-internal-model-produced-new-constructions-fo-2-1-800x420.jpeg"
-        },
-        {
-          "title": "KalqiX Puts An End To The Tradeoff Era Once And For All By Launching Mainnet; Allows Their DEX Infrastructure To Be Available For All – Even “Competitors”",
-          "description": "After spending years rearchitecting on-chain trading infrastructure from the ground up, KalqiX has officially launched Mainnet and they are not keeping their new tech secrets esoteric. As “The Tradeoff Era” finally meets its end at the arrival of the KalqiX M…",
-          "url": "https://www.redmondpie.com/kalqix-puts-an-end-to-the-tradeoff-era-once-and-for-all-by-launching-mainnet-allows-their-dex-infrastructure-to-be-available-for-all-even-competitors/",
-          "source": "redmondpie.com",
-          "published": "2026-05-21T02:36:20Z",
-          "image": "https://cdn.redmondpie.com/wp-content/uploads/2026/05/Screenshot-2026-05-21-at-7.35.00-AM.png"
-        },
-        {
-          "title": "Top Crypto Trends and Narratives That Could Explode in H2 2026",
-          "description": "Crypto markets move when a story finds liquidity, timing, and a reason for users to care. That is the lens for H2 2026. The strongest...\nThe post Top Crypto Trends and Narratives That Could Explode in H2 2026 appeared first on Bitcoin Foundation.",
-          "url": "https://bitcoinfoundation.org/news/opinion/top-crypto-trends-and-narratives-that-could-explode-in-h2-2026/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-05-19T07:10:22Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/05/Next-1-1.webp"
         }
       ]
     },
@@ -149,68 +133,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Ripple (XRP) Price Prediction: Will XRP Hit $15 By 2027?",
-          "description": "XRP (CRYPTO: XRP) price predictions are everywhere in Ripple communities right now, and the $15 by 2027 calls sound reasonable until you actually do the math...",
-          "url": "https://247wallst.com/investing/2026/05/25/ripple-xrp-price-prediction-will-xrp-hit-15-by-2027/",
+          "title": "Could Ethereum Lose Its Number 2 Crypto Position by 2030?",
+          "description": "Ethereum (CRYPTO: ETH) has held the number two spot in crypto for years, and most investors see no reason that changes anytime soon. ETH remains at the...",
+          "url": "https://247wallst.com/investing/2026/05/26/could-ethereum-lose-its-number-2-crypto-position-by-2030/",
           "source": "24/7 Wall St.",
-          "published": "2026-05-25T08:41:19Z",
-          "image": "https://s.yimg.com/ny/api/res/1.2/WMTV7kU5iYRSULF9jhEAVQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/24_7_wall_st__718/d95dfca4d0d4d1040d59c976795ff962"
+          "published": "2026-05-26T09:30:34Z",
+          "image": "https://s.yimg.com/ny/api/res/1.2/DRUuEYkEEnvJLFnGWyNYWg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/24_7_wall_st__718/020f64bb3394312ab6535bd50a7c8e38"
         },
         {
-          "title": "The Fed may open direct settlement rails to crypto firms as banks warn of liquidity risk",
-          "description": "You never see the most important part of any of your payments. When an app says your money moved, a number changes on your screen, and the transaction looks and feels finished. But underneath those interfaces lies a separate, invisible chain of bank reserves,…",
-          "url": "https://cryptoslate.com/the-fed-may-open-direct-settlement-rails-to-crypto-firms-as-banks-warn-of-liquidity-risk/",
-          "source": "CryptoSlate",
-          "published": "2026-05-25T08:35:28Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/05/fed-payment-rail-fintech.jpg"
+          "title": "Binance Launches Perpetual Futures for Pre-IPO Market Exposure, Starting with SpaceX",
+          "description": "Binance Launches Perpetual Futures for Pre-IPO Market Exposure, Starting with SpaceX",
+          "url": "https://www.thehindubusinessline.com/brandhub/pr-release/binance-launches-perpetual-futures-for-pre-ipo-market-exposure-starting-with-spacex/article71024313.ece",
+          "source": "BusinessLine",
+          "published": "2026-05-26T09:27:43Z",
+          "image": "https://th-i.thgim.com/public/brandhub/pr-release/gozht2/article71024305.ece/alternates/LANDSCAPE_1200/Image1.jpg"
         },
         {
-          "title": "India’s 18-month window: take leadership of tokenization while the rails are still being laid",
-          "description": "We have one DPI stack, three regulators that must converge efforts and 18 months to take the lead on tokenizing assets. If digital ID proof holds the key, we must use Aadhaar as a headstart on setting global standards. RBI, Sebi and the Gift City regulator mu…",
-          "url": "https://www.livemint.com/opinion/online-views/india-18-month-window-tokenization-digital-public-infrastructure-dpi-rbi-gift-city-sebi-11779651055945.html",
-          "source": "Livemint",
-          "published": "2026-05-25T06:31:21Z",
-          "image": "https://www.livemint.com/lm-img/img/2026/05/25/1600x900/logo/token_ai_generated_1779690517148_1779690523098_c9d711f8-cda2-4231-936a-fc1f45ca269f.png"
+          "title": "Bhutan Government Moves $7,000,000 Worth of Bitcoin (BTC), Suggesting Possible Sale: Arkham",
+          "description": "The Bhutanese government is shifting a portion of its Bitcoin (BTC) holdings to a different wallet. The crypto de-anonymizing platform Arkham notes that Bhutan’s government recently moved $7 million worth of BTC to a Segregated Witness (SegWit) address. Arkha…",
+          "url": "https://dailyhodl.com/2026/05/26/bhutan-government-moves-7000000-worth-of-bitcoin-btc-suggesting-possible-sale-arkham/",
+          "source": "The Daily Hodl",
+          "published": "2026-05-26T09:15:12Z",
+          "image": "https://dailyhodl.com/wp-content/uploads/2025/03/crypto-atm-trends.jpg?resize=1365,800"
         },
         {
-          "title": "Choosing a crypto exchange in India? Read this first",
-          "description": "With fees, security and ease of use all up for scrutiny, WazirX makes a strong case for being the everyday trader’s go-to platform in India’s crowded crypto market.",
-          "url": "https://economictimes.indiatimes.com/wealth/invest/choosing-a-crypto-exchange-in-india-read-this-first/articleshow/131303291.cms",
-          "source": "The Times of India",
-          "published": "2026-05-25T06:28:37Z",
-          "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1021469,resizemode-75,msid-131303291/wealth/invest/choosing-a-crypto-exchange-in-india-read-this-first.jpg"
+          "title": "SEBI plans pilot project for tokenisation of corporate bonds, rollout may take 6-9 months",
+          "description": "Securities and Exchange Board of India (SEBI) Chairman, Tuhin Kanta Pandey on Tuesday said the Securities and Exchange Board of India (SEBI) has decided to launch a pilot project for tokenisation of corporate bonds using Distributed Ledger Technology (DLT), w…",
+          "url": "https://www.aninews.in/news/business/sebi-plans-pilot-project-for-tokenisation-of-corporate-bonds-rollout-may-take-6-9-months20260526131746",
+          "source": "ANI News",
+          "published": "2026-05-26T08:09:57Z",
+          "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260526074731-thumbnail-320x180-70.jpg"
         },
         {
-          "title": "Bybit CEO Ben Zhou: Tokenization Will Reshape Global Finance Faster Than Expected at Goldman Sachs Asia Pacific FinTech Conference 2026",
-          "description": "DUBAI, UAE, May 25, 2026 /PRNewswire/ -- The next phase of global finance will be built on tokenized infrastructure that operates continuously across borders, according to Ben Zhou, Co-founder and CEO of Bybit. Speaking at the 2026 Goldman Sachs Asia Pacific …",
-          "url": "https://www.prnewswire.com/news-releases/bybit-ceo-ben-zhou-tokenization-will-reshape-global-finance-faster-than-expected-at-goldman-sachs-asia-pacific-fintech-conference-2026-302780968.html",
+          "title": "ONDO price drops 4% as community mourns Nathan Allman’s death",
+          "description": "Ondo Finance token is down 4% after Nathan Allman’s death announcement. Ian De Bode officially takes over as Ondo Finance CEO. Ondo TVL holds above $2.67 billion amid market uncertainty. ONDO token fell nearly 4% over the past 24 hours after news emerged that…",
+          "url": "https://coinjournal.net/news/ondo-price-drops-4-as-community-mourns-nathan-allmans-death/",
+          "source": "Coinjournal.net",
+          "published": "2026-05-26T08:01:53Z",
+          "image": "https://coinjournal.net/wp-content/uploads/2026/02/trading-4.png"
+        },
+        {
+          "title": "Binance Expands Pre-IPO Perpetuals with OpenAI Listing Following Strong Early Market Response",
+          "description": "Binance advances its broader financial platform strategy as users turn to crypto-native products to access major market narratives ABU DHABI, UAE, May 26, 2026 /PRNewswire/ -- Binance today announced the listing of its second Pre-IPO Perpetual Contract on Bin…",
+          "url": "https://www.prnewswire.com/news-releases/binance-expands-pre-ipo-perpetuals-with-openai-listing-following-strong-early-market-response-302781593.html",
           "source": "PRNewswire",
-          "published": "2026-05-25T06:10:00Z",
-          "image": "https://mma.prnewswire.com/media/2986821/image1.jpg?p=facebook"
+          "published": "2026-05-26T07:46:00Z",
+          "image": "https://mma.prnewswire.com/media/1773650/Binance_Logo_Yellow_4x_Logo.jpg?p=facebook"
         },
         {
-          "title": "U.S. Lawmaker Introduces Bill to Codify Strategic Bitcoin Reserve",
-          "description": "Rep. Nick Begich, Republican of Alaska, introduced legislation Thursday to permanently establish a U.S. strategic bitcoin reserve, according to a press release from his office. The bill, titled the American Reserve Modernization Act of 2026 (ARMA), is designe…",
-          "url": "https://www.naturalnews.com/2026-05-25-us-lawmaker-introduces-bill-codify-bitcoin-reserve.html",
-          "source": "Naturalnews.com",
-          "published": "2026-05-25T06:00:00Z",
-          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/05/bitcoin-strategic-reserve-legislation-1656-original.jpg"
-        },
-        {
-          "title": "Toobit Increases BTC Yields to 30% APR for Limited Time",
-          "description": "GEORGE TOWN, Cayman Islands, May 25, 2026 (GLOBE NEWSWIRE) -- Toobit, the award-winning global cryptocurrency exchange, today announces an upgraded high-yield offering, introducing a limited-time 30% APR for Bitcoin (BTC) as part of its expanding Fixed Earn s…",
-          "url": "https://www.globenewswire.com/news-release/2026/05/25/3300508/0/en/Toobit-Increases-BTC-Yields-to-30-APR-for-Limited-Time.html",
+          "title": "Bitget lists Solstice Finance (SLX) for Spot Trading",
+          "description": "Bitget adds Solstice Finance (SLX) for spot trading, expanding Solana DeFi access to automated yield strategies....",
+          "url": "https://www.globenewswire.com/news-release/2026/05/26/3300754/0/en/Bitget-lists-Solstice-Finance-SLX-for-Spot-Trading.html",
           "source": "GlobeNewswire",
-          "published": "2026-05-25T05:34:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/68292f3e-3426-4fb9-8ac5-24b803c6cd97"
+          "published": "2026-05-26T05:27:00Z",
+          "image": "https://ml-eu.globenewswire.com/Resource/Download/5529c147-b087-431a-aa04-6606dcdeb60b"
         },
         {
-          "title": "Ether, XRP, BNB, Solana, Cardano Opening Up ‘Final Window of Opportunity’ As Markets Waver",
-          "description": "Digital asset markets are entering what could be the final cyclical window for explosive altcoin returns before a major global financial crisis, according to prominent cryptocurrency analyst Michael van de Poppe. Van de Poppe revealed he has shifted his entir…",
-          "url": "https://zycrypto.com/ether-xrp-bnb-solana-cardano-opening-up-final-window-of-opportunity-as-markets-waver/",
-          "source": "ZyCrypto",
-          "published": "2026-05-24T16:52:50Z",
-          "image": "https://zycrypto.com/wp-content/uploads/2026/03/XRP-Solana-Cardano-BNB-DOGE-Primed-For-Huge-Expansion-If-Ethereum-Attains-This-Milestone-_.jpg"
+          "title": "XRP, ETH, SOL, LINK Look Cheap—The Catalysts That Could Drive The Next Leg Up",
+          "description": "A new report from market expert Sam Daodu argues that several large-cap cryptocurrencies, including XRP, are still “undervalued” relative to the activity and infrastructure building underneath them.  In Daodu’s view, the altcoin market hasn’t fully recovered …",
+          "url": "http://www.newsbtc.com/breaking-news-ticker/xrp-eth-sol-link-look-cheap-the-catalysts-that-could-drive-the-next-leg-up/",
+          "source": "newsBTC",
+          "published": "2026-05-25T23:57:56Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2026/01/image_GKwJ8DGw_1769448703220_raw.jpg"
         }
       ]
     },
@@ -220,28 +204,36 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Where Will Solana (SOL) Be in 5 Years?",
-          "description": "Solana (CRYPTO: SOL) has delivered positive returns in three out of the last five calendar years, which turns a $1,000 investment in Q1 2021 into around...",
-          "url": "https://247wallst.com/investing/2026/05/24/where-will-solana-sol-be-in-5-years/",
-          "source": "24/7 Wall St.",
-          "published": "2026-05-24T21:02:40Z",
-          "image": "https://s.yimg.com/ny/api/res/1.2/VZSl5C4_8.sAuuUrinPVHA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/24_7_wall_st__718/9446ca7f5b7d6e3a77b7bf5214689441"
-        },
-        {
-          "title": "BitMine’s $126M Ethereum buy sets up a Russell index test tied to $12.2T in assets",
-          "description": "BitMine bought an additional 60,000 ETH worth about $126 million as Ethereum traded near $2,000, extending one of the largest corporate accumulation strategies tied to the second-largest digital asset. The purchase came just as the firm was named to the preli…",
-          "url": "https://cryptoslate.com/bitmines-126m-ethereum-buy-sets-up-a-russell-index-test-tied-to-12-2t-in-assets/",
-          "source": "CryptoSlate",
-          "published": "2026-05-24T13:05:15Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/05/bitmine-ethereum.jpg"
-        },
-        {
-          "title": "A federated blockchain framework for secure and intelligent smart farming in sustainable industrial agriculture",
-          "description": "Scientific Reports - A federated blockchain framework for secure and intelligent smart farming in sustainable industrial agriculture",
-          "url": "https://www.nature.com/articles/s41598-026-54453-9",
-          "source": "Nature.com",
-          "published": "2026-05-24T00:00:00Z",
+          "title": "online casino – Are You Prepared For A Good Thing?",
+          "description": "Crypto Casinos UK Nevertheless, transaction fees are virtually unavoidable with fiat payment methods. For one thing, casino apps tend to be faster, smoother and more reliable than websites and mobile browsers. You need to go to our free spin bonuses. Sky also…",
+          "url": "https://stevenpressfield.com/2026/05/online-casino-are-you-prepared-for-a-good-thing/",
+          "source": "Stevenpressfield.com",
+          "published": "2026-05-26T09:25:09Z",
           "image": null
+        },
+        {
+          "title": "Why Most online casino sign up bonus Fail",
+          "description": "The Best Real Money Casinos in the UK 2026 Not lastly – if they have an online casino app, the better. Note that, contrary to the nonsense in some other answers here, ‘ is never a valid escape sequence in a JSON string. It supports both fiat and crypto paymen…",
+          "url": "https://stevenpressfield.com/2026/05/why-most-online-casino-sign-up-bonus-fail/",
+          "source": "Stevenpressfield.com",
+          "published": "2026-05-26T09:24:30Z",
+          "image": null
+        },
+        {
+          "title": "XRP ETFs Attract $42 Million As Bitcoin ETFs Bleed $1.4B: What Is Going On?",
+          "description": "XRP ETFs attracted $42 million in net inflows over the past week, even as Bitcoin ETFs shed more than $1.4 billion, suggesting selective rotation into...",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/xrp-etfs-attract-42-million-223109239.html",
+          "source": "Yahoo Entertainment",
+          "published": "2026-05-25T22:31:09Z",
+          "image": "https://s.yimg.com/os/en/benzinga_79/36e12a457ab39176d775cd8674f7115d"
+        },
+        {
+          "title": "Bank of England’s 24/7 settlement plan shows where tokenized finance can enter core markets",
+          "description": "Bitcoin trades 24 hours a day, 365 days a year, and stablecoins can cross borders in seconds on a Sunday morning. And yet, if a major UK institution needed to move collateral, settle a high-value payment, or shift liquidity between clearing houses over the we…",
+          "url": "https://cryptoslate.com/bank-of-englands-24-7-settlement-plan-shows-where-tokenized-finance-can-enter-core-markets/",
+          "source": "CryptoSlate",
+          "published": "2026-05-23T14:00:45Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/05/england-247-trading.jpg"
         },
         {
           "title": "Trump Media Down $455 Million On Bitcoin Bet: Why Did It Move Another $205 Million? (UPDATED)",
@@ -274,14 +266,6 @@
           "source": "The Intercept",
           "published": "2026-05-22T09:00:00Z",
           "image": "https://theintercept.com/wp-content/uploads/2026/05/GettyImages-2273432710.jpg?fit=%2C&w=1200&h=800"
-        },
-        {
-          "title": "Credit Monitoring Services Global Market Analysis Report 2026: $12.87 Bn Opportunities, Trends, Competitive Landscape, Strategies, and Forecasts, 2020-2025, 2025-2030F, 2035F",
-          "description": "The credit monitoring services market is poised for strong growth due to heightened identity theft and fraud incidents, increased digital banking usage, and consumer awareness of credit scores. Opportunities abound in AI integration, blockchain, and freemium …",
-          "url": "https://www.globenewswire.com/news-release/2026/05/21/3299539/28124/en/Credit-Monitoring-Services-Global-Market-Analysis-Report-2026-12-87-Bn-Opportunities-Trends-Competitive-Landscape-Strategies-and-Forecasts-2020-2025-2025-2030F-2035F.html",
-          "source": "GlobeNewswire",
-          "published": "2026-05-21T15:14:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/eecaa46c-10f4-481b-b387-0dfe1b53d379"
         }
       ]
     },
@@ -295,44 +279,36 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "TrapDoor attack targets crypto wallets, AWS keys and GitHub tokens",
-              "description": "The malware spread through npm, PyPI, and Rust packages in coordinated waves. It steals crypto wallets, SSH keys, and cloud developer credentials. AI coding tools were also targeted through malicious config files. A coordinated malware campaign known as TrapD…",
-              "url": "https://coinjournal.net/news/trapdoor-attack-targets-crypto-wallets-aws-keys-and-github-tokens/",
-              "source": "Coinjournal.net",
-              "published": "2026-05-25T09:26:40Z",
-              "image": "https://coinjournal.net/wp-content/uploads/2023/03/08_Hackers-6-1.jpg"
+              "title": "DRIFT Token Price Jumps 45% as DIP-10 Recovery Vote Nears End",
+              "description": "DRIFT token price jumped about 45% as the exchange’s vote on remaining borrow-lend assets nears its final stage. The DRIFT governance token issued by the...\nThe post DRIFT Token Price Jumps 45% as DIP-10 Recovery Vote Nears End appeared first on Bitcoin Found…",
+              "url": "https://bitcoinfoundation.org/news/crypto-companies-news/drift-token-price-jumps-dip10-recovery-vote-nears-end/",
+              "source": "Bitcoinfoundation.org",
+              "published": "2026-05-26T08:38:46Z",
+              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/04/drift-opt.webp"
             },
             {
-              "title": "Crypto entrepreneur Chun Wang joins SpaceX mission to Mars",
-              "description": "Crypto entrepreneur Chun Wang, founder of F2Pool, has joined a planned SpaceX lunar and Mars mission after purchasing seats on the upcoming spaceflights.",
-              "url": "https://cointelegraph.com/news/chun-wang-spacex-mars-mission-crypto-entrepreneur",
-              "source": "Cointelegraph",
-              "published": "2026-05-25T07:15:39Z",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/hi-pilot-launch-what-it-means-for-pioneers.jpg"
+              "title": "Arthur Hayes Market Outlook 2026: Why He Still Thinks Bitcoin Can Go Parabolic",
+              "description": "Bitcoin’s next major move is not waiting on good headlines. In Arthur Hayes’s view, what matters most is liquidity. The Arthur Hayes market outlook for...\nThe post Arthur Hayes Market Outlook 2026: Why He Still Thinks Bitcoin Can Go Parabolic appeared first o…",
+              "url": "https://bitcoinfoundation.org/news/altcoins/arthur-hayes-market-outlook-2026-why-he-still-thinks-bitcoin-can-go-parabolic/",
+              "source": "Bitcoinfoundation.org",
+              "published": "2026-05-21T19:10:39Z",
+              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/05/hayes-1.webp"
             },
             {
-              "title": "Best High-Return Investments in the USA for Beginners - Health Growkero",
-              "description": "Quick answer: The best high-return investments for beginners in the USA include growth stocks, Real Estate Investment Trusts (REITs), cryptocurrency, and",
-              "url": "https://health.growkero.in/best-high-return-investments-in-the-usa-for-beginners/",
-              "source": "Growkero.in",
-              "published": "2026-05-25T05:31:47Z",
-              "image": "https://health.growkero.in/wp-content/uploads/2026/05/Untitled-design-11.jpg"
+              "title": "Satoshi’s 1.1M bitcoin and millions more can be saved from quantum attack, says expert",
+              "description": "Researchers at the privacy-centric blockchain startup say their multi-layer quantum defense will feature a soft fork to freeze and protect dormant BTC.",
+              "url": "https://www.coindesk.com/tech/2026/05/21/satoshi-s-1-1m-bitcoin-stash-can-be-saved-from-quantum-attack-says-americanfortress",
+              "source": "CoinDesk",
+              "published": "2026-05-21T19:10:03Z",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/d6fe7e9fcbbd5f8330335bf3b990fa1f61a5ebd9-1280x853.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
             },
             {
-              "title": "Now You Can Buy Bitcoin, XRP and More in ChatGPT via MoonPay",
-              "description": "MoonPay's new app lets users buy cryptocurrencies, including Bitcoin and Solana, through ChatGPT just by speaking with the chatbot.",
-              "url": "https://decrypt.co/368875/buy-bitcoin-xrp-chatgpt-moonpay",
-              "source": "Decrypt",
-              "published": "2026-05-24T21:01:04Z",
-              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/04/decrypt-style-moonpay-gID_7.png"
-            },
-            {
-              "title": "Ahmedabad: 10th accused arrested in crypto-terror funding case",
-              "description": "Ahmedabad CID arrests another accused in ₹226-crore crypto laundering case with alleged Hamas links; total held 10; probe cites USDT, P2P trades and frozen accounts.",
-              "url": "https://timesofindia.indiatimes.com/city/ahmedabad/ahmedabad-10th-accused-arrested-in-crypto-terror-funding-case/articleshow/131295956.cms",
-              "source": "The Times of India",
-              "published": "2026-05-24T18:36:28Z",
-              "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg"
+              "title": "How Crypto Founders Use Content Marketing to Build Investor Demand",
+              "description": "The cryptocurrency industry has evolved far beyond speculative trading and meme-driven hype. Today, investors are increasingly looking for projects with long-term value, transparent leadership, strong communities, and a compelling narrative. In this competiti…",
+              "url": "https://www.successful-blog.com/1/content-marketing-matters-for-crypto-founders/",
+              "source": "Successful-blog.com",
+              "published": "2026-05-21T14:32:22Z",
+              "image": "https://www.successful-blog.com/wp-content/uploads/2026/05/content-marketing.webp"
             }
           ]
         },
@@ -341,52 +317,68 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "TrapDoor Supply Chain Attack Spreads Credential-Stealing Malware via npm, PyPI, and CratesIO",
-              "description": "A new coordinated cross-ecosystem software supply chain attack campaign has targeted npm, PyPI, and Crates.io to distribute credential-stealing malware.\n\nThe campaign, codenamed TrapDoor, spans more than 34 malicious packages across over 384 versions. The ear…",
-              "url": "https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html",
-              "source": "Internet",
-              "published": "2026-05-25T05:59:13Z",
-              "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOb58wXNPgRDazHcSLTObawPnMVsCDUEAoFclGVn3CC8qe6Pr_0-Gce-SxCO7FJ5HzU23WE_soU5iTc0zvLL0zzbXPcO8MqVgHIIAKXJo4ExcujDPV9yiIdN1X1jV63ACBN66_ktTeQ0FVmYsCTJC3tpyxpUBrvxLh_xqF-mKOZy8uaqz3QKyf6XpJHC4z/s1700-e365/npm-python-rust.jpg"
+              "title": "5 Proven jackpot city online casino Techniques",
+              "description": "Top Rated Bitcoin Live Casinos in 2026 Live chat, long opening hours and a short queue are all things that should come as standard at an online casino. Game categories include slots, RNG Random Number Generator table games, and live dealer titles. Low volatil…",
+              "url": "https://stevenpressfield.com/2026/05/5-proven-jackpot-city-online-casino-techniques/",
+              "source": "Stevenpressfield.com",
+              "published": "2026-05-26T09:12:42Z",
+              "image": null
             },
             {
-              "title": "UK internet users unknowingly give tech and artificial intelligence firms £194,000",
-              "description": "Web3 Foundation reveals how some of the world’s most powerful companies collect and monetise personal data to power the internet",
-              "url": "https://www.the-independent.com/tech/uk-internet-users-data-ai-b2982765.html",
-              "source": "The-independent.com",
-              "published": "2026-05-24T23:01:00Z",
-              "image": "https://static.the-independent.com/2026/05/24/15/01KSCBXJD387P3HRKXCNC0HRHR.jpg?width=1200&height=800&crop=1200:800"
-            },
-            {
-              "title": "SEC’s tokenized stock plan could force crypto exchanges to answer what investors really own",
-              "description": "Given how far the crypto market has come in terms of regulation, the next big fight won't be about Bitcoin, stablecoins, or even memecoins. It's going to be about whether a crypto exchange can list tokenized stocks that track Tesla, Apple, or Nvidia without t…",
-              "url": "https://cryptoslate.com/sec-may-let-crypto-exchanges-trade-tokenized-stocks-without-asking-wall-street-first/",
-              "source": "CryptoSlate",
-              "published": "2026-05-24T19:05:23Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/05/sec-tokenized-stocks-trading.jpg"
-            },
-            {
-              "title": "Polymarket Hit By ‘Internal Top-Up’ Wallet Exploit, $700K Drained",
-              "description": "User funds remain safe after the incident, the prediction market platform said, with contracts and core infrastructure unaffected.",
-              "url": "https://decrypt.co/368740/polymarket-hit-by-internal-top-up-wallet-exploit-700k-drained",
-              "source": "Decrypt",
-              "published": "2026-05-22T12:23:22Z",
-              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Hacker1-gID_7.png"
-            },
-            {
-              "title": "Polymarket team says user funds safe as exploit losses climb above $600K",
-              "description": "Blockchain data platforms said losses climbed above $600,000 after ZachXBT flagged activity tied to a Polymarket-linked adapter.",
-              "url": "https://cointelegraph.com/news/polymarket-uma-adapter-appears-exploited-520k-zachxbt",
+              "title": "Scammers make $400K through fake Uniswap ads on Google",
+              "description": "A blockchain analyst has warned that malicious phishing advertisements impersonating Uniswap have appeared on Google Search, which has netted attackers at least $400,000.",
+              "url": "https://cointelegraph.com/news/scammers-make-400k-through-fake-uniswap-ads-on-google",
               "source": "Cointelegraph",
-              "published": "2026-05-22T10:19:06Z",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ledger33.jpg"
+              "published": "2026-05-26T06:41:30Z",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/hi-coinbase-data-breach-2025-what-was-stolen-and-what-you-need-to-know-1.jpg"
             },
             {
-              "title": "Not Bitcoin: US Government Bets $2 Billion On Quantum Instead",
-              "description": "The US government is reportedly investing in Quantum Computing, the technology that could end up acting as a possible threat to Bitcoin. US Commerce Department To Give $2 Billion To Quantum Computing Firms As reported by CNBC, the US government is set to awar…",
-              "url": "https://bitcoinist.com/bitcoin-us-government-2-billion-quantum-instead/",
+              "title": "What Are The 1% Cardano Investors Doing? Crypto Pundit Breaks It Down",
+              "description": "With volatility across the cryptocurrency market building, the Cardano price has persistently struggled with downside pressure, dropping below the $0.25 level. The altcoin has fallen sharply from its all-time high, but one thing that has captured the attentio…",
+              "url": "https://bitcoinist.com/1-cardano-investors-activity/",
               "source": "Bitcoinist",
-              "published": "2026-05-22T08:00:10Z",
-              "image": "https://bitcoinist.com/wp-content/uploads/2026/05/btc_eafff4.png"
+              "published": "2026-05-26T02:30:31Z",
+              "image": "https://bitcoinist.com/wp-content/uploads/2026/05/Cardano-from-Pixabay.jpg"
+            },
+            {
+              "title": "Big Shift For Crypto Prediction Markets: Hyperliquid Removes External Oracle Dependency",
+              "description": "Hyperliquid’s new HIP-4 update—unveiled Monday—marks a major shift in how crypto prediction markets could operate, and it arrives as the platform looks to intensify competition in a fast-growing sector where Polymarket and Kalshi currently lead. Prediction Ma…",
+              "url": "https://bitcoinist.com/big-shift-hyperliquid-removes-external-oracle/",
+              "source": "Bitcoinist",
+              "published": "2026-05-25T23:30:48Z",
+              "image": "https://bitcoinist.com/wp-content/uploads/2026/05/image_N9ksTMGv_1777479731406_raw.jpg"
+            },
+            {
+              "title": "Most Undervalued Major Cryptos Heading Into Mid-2026",
+              "description": "Most major altcoins are still trading far below their 2025 highs. The market pullback that started late last year hit them more than Bitcoin (CRYPTO: BTC...",
+              "url": "https://247wallst.com/investing/2026/05/25/most-undervalued-major-cryptos-heading-into-mid-2026/",
+              "source": "24/7 Wall St.",
+              "published": "2026-05-25T19:03:28Z",
+              "image": "https://s.yimg.com/ny/api/res/1.2/aMJr1Y3TA59.SZABaVhpfg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://media.zenfs.com/en/24_7_wall_st__718/ff7ef215d82c7f2949f6b20e6cbe1c26"
+            },
+            {
+              "title": "Big Tech could make nearly $1 million from your data and you get nothing",
+              "description": "A new report from the Web3 Foundation claims Big Tech and AI companies could generate as much as $831,497 in inflation-linked lifetime value from a single American internet user. The report argues that modern internet platforms are monetizing far more than ta…",
+              "url": "https://slashdot.org/submission/17347544/big-tech-could-make-nearly-1-million-from-your-data-and-you-get-nothing",
+              "source": "Slashdot.org",
+              "published": "2026-05-25T13:57:58Z",
+              "image": null
+            },
+            {
+              "title": "FREE ISN'T FREE: NEW REPORT BY WEB3 FOUNDATION FINDS BIG TECH AND AI EARN UP TO $831,000 IN LIFETIME VALUE FROM THE DATA OF EACH U.S. INTERNET USER",
+              "description": "ZUG, Switzerland, May 25, 2026 /PRNewswire/ -- A groundbreaking new report published today revealed that Big Tech and AI companies earn up to $831,497 in commercial value from each American internet user over a digital lifetime. This equates to a staggering $…",
+              "url": "https://www.prnewswire.com/news-releases/free-isnt-free-new-report-by-web3-foundation-finds-big-tech-and-ai-earn-up-to-831-000-in-lifetime-value-from-the-data-of-each-us-internet-user-302781133.html",
+              "source": "PRNewswire",
+              "published": "2026-05-25T13:30:00Z",
+              "image": "https://mma.prnewswire.com/media/2987106/Web3_Foundation.jpg?p=facebook"
+            },
+            {
+              "title": "TrapDoor attack targets crypto wallets, AWS keys and GitHub tokens",
+              "description": "The malware spread through npm, PyPI, and Rust packages in coordinated waves. It steals crypto wallets, SSH keys, and cloud developer credentials. AI coding tools were also targeted through malicious config files. A coordinated malware campaign known as TrapD…",
+              "url": "https://coinjournal.net/news/trapdoor-attack-targets-crypto-wallets-aws-keys-and-github-tokens/",
+              "source": "Coinjournal.net",
+              "published": "2026-05-25T09:26:40Z",
+              "image": "https://coinjournal.net/wp-content/uploads/2023/03/08_Hackers-6-1.jpg"
             }
           ]
         }
