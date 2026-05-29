@@ -1,11 +1,35 @@
 {
-  "date": "May 28, 2026",
+  "date": "May 29, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "Charles Hoskinson Reflects on Crypto’s Journey from “Bitcoin Is Dead” To 560 Million Users",
+          "description": "Cardano (ADA) founder Charles Hoskinson has reflected on the crypto industry’s transformation from a niche experiment.",
+          "url": "https://zycrypto.com/charles-hoskinson-reflects-on-cryptos-journey-from-bitcoin-is-dead-to-560-million-users/",
+          "source": "ZyCrypto",
+          "published": "2026-05-27T17:51:04Z",
+          "image": "https://zycrypto.com/wp-content/uploads/2021/07/Charles-Hoskinson-To-Critics-There-Are-Already-Thousands-Of-Assets-Running-On-Cardanob.jpg"
+        },
+        {
+          "title": "Aztec Labs acquires Obsidion, pledges to keep ZKPassport open-source",
+          "description": "Aztec's acquisition of Obsidion strengthens its privacy tech stack, potentially influencing regulatory landscapes and investor confidence in privacy-focused blockchain solutions.\nThe post Aztec Labs acquires Obsidion, pledges to keep ZKPassport open-source ap…",
+          "url": "https://cryptobriefing.com/aztec-labs-acquires-obsidion-zkpassport/",
+          "source": "Crypto Briefing",
+          "published": "2026-05-27T16:05:12Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/27120511/zkpassport-case-study-a-look-into-online-identity-verificati-1-800x420.jpeg"
+        },
+        {
+          "title": "Polymath Launches Confidential Assets on Polymesh, Bringing Institutional-Grade Privacy to Tokenization",
+          "description": "Zero-knowledge proof technology enables institutions to transact regulated assets privately on public blockchain infrastructure without sacrificing compliance or auditability TORONTO, May 27, 2026 /PRNewswire/ - Polymath, the regulated asset infrastructure co…",
+          "url": "https://www.prnewswire.com/news-releases/polymath-launches-confidential-assets-on-polymesh-bringing-institutional-grade-privacy-to-tokenization-302782428.html",
+          "source": "PRNewswire",
+          "published": "2026-05-27T11:03:00Z",
+          "image": "https://mma.prnewswire.com/media/2988242/Polymath_Research_Inc__Polymath_Launches_Confidential_Assets_on.jpg?p=facebook"
+        },
         {
           "title": "Zcash (ZEC) Soars 1,482% In a Year — Why Traders Call It the Most Dangerous Short in Crypto Right Now",
           "description": "Zcash (ZEC) used to vanish into silence, yet now it roars back louder than expected. A wild surge of 1,482% in twelve months changed how...\nThe post Zcash (ZEC) Soars 1,482% In a Year — Why Traders Call It the Most Dangerous Short in Crypto Right Now appeared…",
@@ -45,30 +69,6 @@
           "source": "Bitcoinist",
           "published": "2026-05-25T16:00:03Z",
           "image": "https://bitcoinist.com/wp-content/uploads/2026/05/Ripple-from-Getty-Images.jpg"
-        },
-        {
-          "title": "Crypto trader sees Hyperliquid, AI tokens leading next altcoin rally",
-          "description": "Hyperliquid’s surge and renewed interest in AI-focused crypto projects are signaling a broader return of risk appetite in altcoins, says Michael van de Poppe.",
-          "url": "https://www.coindesk.com/markets/2026/05/23/crypto-trader-sees-hyperliquid-ai-tokens-leading-next-altcoin-rally",
-          "source": "CoinDesk",
-          "published": "2026-05-23T14:19:18Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/e7f712e4315b851a9891037df6c9d2989d66a087-1378x772.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
-        },
-        {
-          "title": "BTC Ecosystem Announces New Strategic Initiative with AntPool and Bitmain to Expand Bitcoin Infrastructure Development in 2026",
-          "description": "New collaboration highlights the growing evolution of blockchain infrastructure and energy-efficient digital asset technologies. New collaboration highlights the growing evolution of blockchain infrastructure and energy-efficient digital asset technologies.",
-          "url": "https://www.globenewswire.com/news-release/2026/05/22/3300288/0/en/BTC-Ecosystem-Announces-New-Strategic-Initiative-with-AntPool-and-Bitmain-to-Expand-Bitcoin-Infrastructure-Development-in-2026.html",
-          "source": "GlobeNewswire",
-          "published": "2026-05-22T17:10:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/cd6ca70b-1c8f-41bb-9773-2af8952078a7"
-        },
-        {
-          "title": "KalqiX Mainnet Launch Signals The End Of DeFi’s “Tradeoff Era”",
-          "description": "The decentralized finance industry has spent years trying to solve one frustrating problem: users have always been forced to compromise. Want decentralization and self-custody? Then accept slower speeds, fragmented liquidity, and clunky interfaces. Want high …",
-          "url": "https://www.redmondpie.com/kalqix-mainnet-launch-signals-the-end-of-defis-tradeoff-era/",
-          "source": "redmondpie.com",
-          "published": "2026-05-21T21:36:52Z",
-          "image": "https://cdn.redmondpie.com/wp-content/uploads/2026/05/Screenshot-2026-05-21-at-7.35.00-AM.png"
         }
       ]
     },
@@ -77,6 +77,22 @@
       "icon": "🔐",
       "color": "#e6a200",
       "articles": [
+        {
+          "title": "Aztec Labs acquires ZKPassport maker Obsidion as age verification pressure mounts",
+          "description": "Blockchain privacy company Aztec Labs Ltd. announced today that it has acquired Obsidion Labs Ltd., the British startup behind zero-knowledge identity protocol ZKPassport. The deal comes as governments in the U.K., Australia and parts of the U.S. move to forc…",
+          "url": "https://siliconangle.com/2026/05/27/aztec-labs-acquires-zkpassport-maker-obsidion-age-verification-pressure-mounts/",
+          "source": "SiliconANGLE News",
+          "published": "2026-05-27T16:00:15Z",
+          "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/zkpassport.png"
+        },
+        {
+          "title": "QuickNode supports Aleo with enterprise-grade RPC and validator infrastructure",
+          "description": "QuickNode's support for Aleo could accelerate adoption of privacy-focused blockchain solutions, enhancing security and scalability in DeFi.\nThe post QuickNode supports Aleo with enterprise-grade RPC and validator infrastructure appeared first on Crypto Briefi…",
+          "url": "https://cryptobriefing.com/quicknode-supports-aleo-rpc-validator-infrastructure/",
+          "source": "Crypto Briefing",
+          "published": "2026-05-27T14:49:42Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/27104942/validator-as-a-service-enterprise-grade-blockchain-validator-2-1-800x420.png"
+        },
         {
           "title": "Charles Hoskinson goes all-in on Cardano and Midnight after $250 million hospital shutdown",
           "description": "Charles Hoskinson, Cardano's founder, is turning his public focus back to the blockchain network, and Midnight, one of his largest ventures outside crypto, prepares to close. The shift comes at a difficult moment for the Cardano founder. His Wyoming health ca…",
@@ -124,14 +140,6 @@
           "source": "Wolfram.com",
           "published": "2026-05-22T06:25:45Z",
           "image": "http://community.wolfram.com/share.png"
-        },
-        {
-          "title": "OpenAI model solves 80-year-old planar unit distance problem",
-          "description": "AI's breakthrough in disproving Erds' conjecture could revolutionize combinatorial geometry, impacting computational fields and problem-solving.\nThe post OpenAI model solves 80-year-old planar unit distance problem appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/openai-solves-planar-unit-distance-problem/",
-          "source": "Crypto Briefing",
-          "published": "2026-05-21T06:24:24Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/21022423/openai-says-its-internal-model-produced-new-constructions-fo-2-1-800x420.jpeg"
         }
       ]
     },
@@ -141,68 +149,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Digital Asset Giant Tether To Launch ‘Official Stablecoin of Georgia’ in Partnership With Government",
-          "description": "Tether has announced plans to launch GEL?, a stablecoin pegged to the Georgian Lari, in partnership with the Government of Georgia. The announcement marks one of the first efforts to place a national currency directly onto digital asset infrastructure under a…",
-          "url": "https://dailyhodl.com/2026/05/27/digital-asset-giant-tether-to-launch-official-stablecoin-of-georgia-in-partnership-with-government/",
-          "source": "The Daily Hodl",
-          "published": "2026-05-27T09:14:03Z",
-          "image": "https://dailyhodl.com/wp-content/uploads/2025/02/mid-cap-altcoin-surge.jpg?resize=1365,800"
-        },
-        {
-          "title": "Ripple is expanding institutional finance ambitions while XRP traders are losing confidence",
-          "description": "XRP’s latest decline is exposing a widening split between traders betting on more weakness and investors using the selloff to build exposure. Over the past few weeks, the digital asset has faced sustained downward pressure driven by capitulating short-term ho…",
-          "url": "https://cryptoslate.com/?p=538340",
-          "source": "CryptoSlate",
-          "published": "2026-05-27T09:06:56Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/05/xrp-institution.jpg"
-        },
-        {
-          "title": "Stablecoins just hit a record $322 billion – and the bank-run warnings are getting louder",
-          "description": "The global stablecoin market has climbed to a record $322 billion valuation, cementing the rise of digital dollars as one of the cryptocurrency sector's most viable commercial products. The milestone reflects an accelerating demand for real-time settlement, b…",
-          "url": "https://cryptoslate.com/stablecoins-just-hit-a-record-322-billion-and-the-bank-run-warnings-are-getting-louder/",
-          "source": "CryptoSlate",
-          "published": "2026-05-27T07:37:13Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/05/stabelcoin-warning.jpg"
-        },
-        {
-          "title": "Holding(s) in Company",
-          "description": "TR-1: Standard form for notification of major holdings   1. Issuer Details ISIN GB00BL6K5J42 Issuer Name ENDEAVOUR MINING PLC UK or Non-UK Issuer UK 2....",
-          "url": "https://www.globenewswire.com/news-release/2026/05/27/3301622/0/en/Holding-s-in-Company.html",
-          "source": "GlobeNewswire",
-          "published": "2026-05-27T06:00:00Z",
-          "image": "https://ml-eu.globenewswire.com/Resource/Download/cff109e5-0693-447f-8afe-290bcfdfd66f"
-        },
-        {
-          "title": "Crypto is All Over the 2026 World Cup, Just Not as an Official FIFA Sponsor",
-          "description": "Crypto firms flood the FIFA World Cup 2026 through national-team deals, prediction markets, and FIFA's blockchain bets.",
-          "url": "https://beincrypto.com/crypto-fifa-world-cup-2026-sponsors/",
-          "source": "BeInCrypto",
-          "published": "2026-05-27T04:37:45Z",
-          "image": "https://s.yimg.com/ny/api/res/1.2/4nm9hoMTMEKwGz1PakgAlA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzA7Y2Y9d2VicA--/https://media.zenfs.com/en/beincrypto_us_662/81fdb35044fea3e190d73c642fa3b80d"
-        },
-        {
-          "title": "SEABW 2026 Closes in Bangkok as Southeast Asia's Digital Assets Move from Experimentation to Institutional Adoption",
-          "description": "Thai SEC and Indonesia's EKRAF brought both countries' regulators onto a single stage SCBX, Bitkub, and Ascend Bit joined Circle, Tether, and the Solana Foundation in Bangkok Two-day program at ICONSIAM Hall, with closed-door roundtables and an AI Hackathon i…",
-          "url": "https://www.prnewswire.com/news-releases/seabw-2026-closes-in-bangkok-as-southeast-asias-digital-assets-move-from-experimentation-to-institutional-adoption-302782002.html",
+          "title": "Orbital selects Banking Circle to expand stablecoin and multi-currency payment capabilities",
+          "description": "This relationship extends access to client-named multi-currency settlement into Nordic, Central European, Swiss and Australian markets subject to applicable licensing, regulatory permissions, and local legal requirements. LONDON, TALLINN, Estonia and GIBRALTA…",
+          "url": "https://www.prnewswire.com/news-releases/orbital-selects-banking-circle-to-expand-stablecoin-and-multi-currency-payment-capabilities-302784268.html",
           "source": "PRNewswire",
-          "published": "2026-05-27T04:00:00Z",
-          "image": "https://mma.prnewswire.com/media/2987901/image1.jpg?p=facebook"
+          "published": "2026-05-28T09:23:00Z",
+          "image": "https://mma.prnewswire.com/media/2722927/Orbital_Logo.jpg?p=facebook"
         },
         {
-          "title": "DMG Blockchain Solutions Reports Second Quarter 2026 Financial Results",
-          "description": "VANCOUVER, British Columbia, May 26, 2026 (GLOBE NEWSWIRE) — DMG Blockchain Solutions Inc. (TSX-V: DMGI) (OTCQB US: DMGGF) (FRANKFURT: 6AX) (“DMG”), a vertically integrated digital asset and data center technology company, today announces its fiscal second qu…",
-          "url": "https://financialpost.com/globe-newswire/dmg-blockchain-solutions-reports-second-quarter-2026-financial-results",
-          "source": "Financial Post",
-          "published": "2026-05-27T03:54:39Z",
-          "image": null
+          "title": "Grayscale Says Ethereum, Solana and Two Additional Blockchains Poised To Benefit From Clarity Act",
+          "description": "The world’s largest digital asset-focused investment platform says institutional capital will initially target four blockchain networks as regulatory clarity improves.  In a new report, Grayscale says expected regulatory changes, including the Clarity Act tha…",
+          "url": "https://dailyhodl.com/2026/05/28/grayscale-says-ethereum-solana-and-two-additional-blockchains-poised-to-benefit-from-clarity-act/",
+          "source": "The Daily Hodl",
+          "published": "2026-05-28T09:14:30Z",
+          "image": "https://dailyhodl.com/wp-content/uploads/2023/07/uk-on-path-clarity.jpg?resize=1365,800"
         },
         {
-          "title": "Others open their wallets for buybacks. Cognizant turned to credit.",
-          "description": "In Nasdaq filings last week, the US-headquartered IT services giant said it will draw $1 billion for the buyback from a $1.85 billion revolving credit facility. Cognizant had secured the credit line in 2014 to support the $2.7 billion acquisition of Trizetto,…",
-          "url": "https://www.livemint.com/companies/cognizant-becomes-first-company-to-fund-repurchase-through-bank-borrowings-11779796772598.html",
-          "source": "Livemint",
-          "published": "2026-05-27T00:10:39Z",
-          "image": "https://www.livemint.com/lm-img/img/2026/05/26/1600x900/logo/2-0-176662404-Cognizant-0_1680864035473_1779807433464_0ce17ba5-5256-4ca1-af19-a56d98c990dd.jpg"
+          "title": "Stellar Price Soars 15% After Wall Street Firm Picks Blockchain",
+          "description": "Stellar price rose after a core Wall Street infrastructure firm said tokenized assets are expected to launch on the network in early 2027. The Depository...\nThe post Stellar Price Soars 15% After Wall Street Firm Picks Blockchain appeared first on Bitcoin Fou…",
+          "url": "https://bitcoinfoundation.org/news/blockchain-news/stellar-price-soars-after-wall-street-firm-picks-blockchain/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-05-28T07:55:21Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/04/tokenization-shares-stock-share-opt.webp"
+        },
+        {
+          "title": "Bitcoin trades at $73K amid US-Iran tensions; ETF outflows top $2.5 billion in 2 weeks",
+          "description": "Bitcoin and Ethereum experienced significant drops as rising US-Iran tensions and substantial crypto liquidations impacted investor sentiment.  Over $700 million in crypto was liquidated in a single day, with Bitcoin falling near $73,000.  US spot Bitcoin ETF…",
+          "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-trades-at-73k-amid-us-iran-tensions-etf-outflows-top-2-5-billion-in-2-weeks/articleshow/131364254.cms",
+          "source": "The Times of India",
+          "published": "2026-05-28T06:10:57Z",
+          "image": "https://img.etimg.com/thumb/msid-131364237,width-1200,height-630,imgsize-2242458,overlay-etmarkets/articleshow.jpg"
+        },
+        {
+          "title": "Cathie Wood Doubles Down On $1.25 Million Bitcoin Target",
+          "description": "ARK Invest CEO Cathie Wood has defended her bull case for Bitcoin reaching $1.25 million within five years, arguing that institutional allocation, digital-gold substitution and Bitcoin’s hard-coded scarcity remain the central pillars of the forecast. Speaking…",
+          "url": "http://www.newsbtc.com/bitcoin-news/cathie-wood-doubles-down-1-25-million-bitcoin-target/",
+          "source": "newsBTC",
+          "published": "2026-05-28T06:00:09Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2026/05/ChatGPT-Image-27.-Mai-2026-13_23_56.png?fit=1222%2C687"
+        },
+        {
+          "title": "Central banks still choose gold over crypto: Why 8,000 years of trust outweighs digital innovation",
+          "description": "Central banks trust gold over cryptocurrencies due to its proven stability through financial crises, wars and monetary collapses. Bitcoin and other digital assets are deemed unsuitable for reserve management because of extreme volatility, security risks and l…",
+          "url": "https://www.naturalnews.com/2026-05-28-central-banks-still-choose-gold-over-crypto.html",
+          "source": "Naturalnews.com",
+          "published": "2026-05-28T06:00:00Z",
+          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/05/Gold-bullion-stack-2.jpg"
+        },
+        {
+          "title": "Trump Media Transfers Bitcoin to Exchange as Unrealized Losses Reach $455 Million",
+          "description": "Trump Media & Technology Group (Nasdaq: DJT) transferred 2,650 Bitcoin worth approximately $205 million to the exchange Crypto.com on May 22, 2026, a move widely interpreted as preparation for a potential sale, according to on-chain data from blockchain analy…",
+          "url": "https://www.naturalnews.com/2026-05-28-trump-media-transfers-bitcoin-to-exchange-unrealized-losses.html",
+          "source": "Naturalnews.com",
+          "published": "2026-05-28T06:00:00Z",
+          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/05/trump-media-bitcoin-transfer-unrealized-losses-1689-original.jpg"
+        },
+        {
+          "title": "The HYPE ETF Outpaced Every Crypto ETF Debut on Record – Institutions Rush Exposure",
+          "description": "HYPE has pushed above $60 to set a new all-time high, creating a bullish environment that stands in sharp contrast to the broader market struggling with selling pressure and uncertainty. The breakout is significant on its own — but data from Kairos Research h…",
+          "url": "http://www.newsbtc.com/altcoin/the-hype-etf-outpaced-every-crypto-etf-debut-on-record-institutions-rush-exposure/",
+          "source": "newsBTC",
+          "published": "2026-05-28T02:00:20Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2026/05/Untitled-design-39.jpg?fit=1792%2C1024"
         }
       ]
     },
@@ -211,6 +219,38 @@
       "icon": "🏥",
       "color": "#00cc88",
       "articles": [
+        {
+          "title": "‘Crypto Dad’ Giancarlo Sees a Digital Dollar Built for Machines, Not Humans",
+          "description": "Explore more conversations like this From the Block. Today’s payments stack was designed to be human-first. But on the latest episode of “From the Block,” J. Christopher Giancarlo, former Commodity Futures Trading Commission (CFTC) chair and co-founder of the…",
+          "url": "https://www.pymnts.com/cryptocurrency/2026/crypto-dad-giancarlo-sees-digital-dollar-built-machines-not-humans/",
+          "source": "pymnts.com",
+          "published": "2026-05-28T08:02:00Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/05/2026-04-Podcast-Hero-for-story-Citi-FTB-12-2.png"
+        },
+        {
+          "title": "Origins Network Appoints Robles Carlos as CEO, Doubling Down on Blockchain Infrastructure and AI-Driven User Growth",
+          "description": "TAICHUNG, Taiwan, May 28, 2026 (GLOBE NEWSWIRE) -- Origins Network\r\n, a Layer 1 blockchain that recently closed an $8M funding round backed by top-tier venture capital firms including Animoca Brands and TB Ventures—alongside strategic support from AWS Cloud a…",
+          "url": "https://www.globenewswire.com/news-release/2026/05/28/3302501/0/en/Origins-Network-Appoints-Robles-Carlos-as-CEO-Doubling-Down-on-Blockchain-Infrastructure-and-AI-Driven-User-Growth.html",
+          "source": "GlobeNewswire",
+          "published": "2026-05-28T05:14:00Z",
+          "image": "https://ml.globenewswire.com/Resource/Download/3b6bba2f-ab09-4626-aa48-868a3633da66"
+        },
+        {
+          "title": "Want More Money? Start Bitcoin betting",
+          "description": "Best Online Casinos: Top 50 Casino Sites in the UK 18+ Please Play Responsibly. We tested the casino’s Fast Funds withdrawal and received a payout in our account within 5 minutes. New casino bonuses pop up all the time, but there is a new casino bonus that re…",
+          "url": "https://johnchow.com/want-more-money-start-bitcoin-betting/",
+          "source": "Johnchow.com",
+          "published": "2026-05-28T00:47:49Z",
+          "image": null
+        },
+        {
+          "title": "A blockchain-based multi-authority hierarchical attribute encrypted data sharing scheme in the Internet of Medical Things",
+          "description": "With the rapid development of the Internet of Medical Things (IoMT), the secure and efficient sharing of massive amounts of sensitive medical data has become a core challenge. Addressing the limitations of existing Ciphertext-Policy Attribute-Based Encryption…",
+          "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0349767",
+          "source": "Plos.org",
+          "published": "2026-05-27T14:00:00Z",
+          "image": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0349767.g008&size=inline"
+        },
         {
           "title": "Pharma 4.0 Market Research and Growth Analysis Report 2026-2033",
           "description": "The Pharma 4.0 market presents opportunities by leveraging AI, IoT, big data, and blockchain to enhance manufacturing efficiency, personalize medicine, and improve regulatory compliance. Driven by chronic disease prevalence and digital transformation investme…",
@@ -228,14 +268,6 @@
           "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/05/1-1779788691.webp"
         },
         {
-          "title": "XRP ETFs Attract $42 Million As Bitcoin ETFs Bleed $1.4B: What Is Going On?",
-          "description": "XRP ETFs attracted $42 million in net inflows over the past week, even as Bitcoin ETFs shed more than $1.4 billion, suggesting selective rotation into...",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/xrp-etfs-attract-42-million-223109239.html",
-          "source": "Yahoo Entertainment",
-          "published": "2026-05-25T22:31:09Z",
-          "image": "https://s.yimg.com/os/en/benzinga_79/36e12a457ab39176d775cd8674f7115d"
-        },
-        {
           "title": "Bank of England’s 24/7 settlement plan shows where tokenized finance can enter core markets",
           "description": "Bitcoin trades 24 hours a day, 365 days a year, and stablecoins can cross borders in seconds on a Sunday morning. And yet, if a major UK institution needed to move collateral, settle a high-value payment, or shift liquidity between clearing houses over the we…",
           "url": "https://cryptoslate.com/bank-of-englands-24-7-settlement-plan-shows-where-tokenized-finance-can-enter-core-markets/",
@@ -244,36 +276,12 @@
           "image": "https://cryptoslate.com/wp-content/uploads/2026/05/england-247-trading.jpg"
         },
         {
-          "title": "Trump Media Down $455 Million On Bitcoin Bet: Why Did It Move Another $205 Million? (UPDATED)",
-          "description": "Editor’s note: This story has been updated to clarify several figures. Trump Media & Technology Group transferred another 2,650 Bitcoin worth roughly $205...",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/trump-media-down-455-million-120158609.html",
-          "source": "Yahoo Entertainment",
-          "published": "2026-05-23T12:01:58Z",
-          "image": "https://s.yimg.com/os/en/benzinga_79/c46773016b35d904694cc23436c9163e"
-        },
-        {
           "title": "Blockchain.com files confidentially for US IPO amid growing crypto listings",
           "description": "United Kingdom-based Blockchain.com Group Holdings Inc., a cryptocurrency exchange and wallet service, announced Thursday that it has filed confidentially for an initial public offering in the United States.  The details of the IPO remain undisclosed, with th…",
           "url": "https://siliconangle.com/2026/05/22/blockchain-com-files-confidentially-u-s-ipo-amid-growing-crypto-listings/",
           "source": "SiliconANGLE News",
           "published": "2026-05-22T15:30:20Z",
           "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/02/trading-gedfb50ce8_1280.jpg"
-        },
-        {
-          "title": "Credit Monitoring Services Global Market Analysis Report 2026: $12.87 Bn Opportunities, Trends, Competitive Landscape, Strategies, and Forecasts, 2020-2025, 2025-2030F, 2035F",
-          "description": "The credit monitoring services market is poised for strong growth due to heightened identity theft and fraud incidents, increased digital banking usage, and consumer awareness of credit scores. Opportunities abound in AI integration, blockchain, and freemium …",
-          "url": "https://www.globenewswire.com/news-release/2026/05/21/3299539/28124/en/Credit-Monitoring-Services-Global-Market-Analysis-Report-2026-12-87-Bn-Opportunities-Trends-Competitive-Landscape-Strategies-and-Forecasts-2020-2025-2025-2030F-2035F.html",
-          "source": "GlobeNewswire",
-          "published": "2026-05-21T15:14:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/eecaa46c-10f4-481b-b387-0dfe1b53d379"
-        },
-        {
-          "title": "India needs to raise food grains production to 450 million tonnes by 2047: Chaudhari",
-          "description": "Director General SK Chaudhari emphasized that intelligent technology use in agriculture and the fertilizer sector is a national imperative.  He highlighted blockchain and AI as key tools for transforming the sector.",
-          "url": "https://economictimes.indiatimes.com/news/economy/agriculture/india-needs-to-raise-food-grains-production-to-450-million-tonnes-by-2047-chaudhari/articleshow/131240615.cms",
-          "source": "The Times of India",
-          "published": "2026-05-21T06:14:14Z",
-          "image": "https://img.etimg.com/thumb/msid-131240660,width-1200,height-630,imgsize-407094,overlay-economictimes/articleshow.jpg"
         }
       ]
     },
@@ -287,28 +295,20 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Ethereum Staking Record Meets On-Chain Collapse: Analyst Explains What’s Holding ETH Price",
-              "description": "Ethereum has lost the $2,100 level as selling pressure overwhelms a recovery that has been struggling to find structural support since the mid-May highs. The decline is uncomfortable — but a CryptoOnchain analysis has identified a contradiction in the network…",
-              "url": "http://www.newsbtc.com/ethereum-news/ethereum-staking-record-meets-on-chain-collapse-analyst-explains-whats-holding-eth-price/",
-              "source": "newsBTC",
-              "published": "2026-05-27T01:30:21Z",
-              "image": "https://www.newsbtc.com/wp-content/uploads/2026/05/Untitled-design-37.jpg?fit=1792%2C1024"
+              "title": "What $650 Buys You In stake casino nederland",
+              "description": "The new online is on chain The casino contains 650+ Microgaming dominated games, complemented by selected slots from NetEnt, Play’n GO, and Evolution Gaming. Kingdom Casino is among the best non GamStop casinos for players from the UK that presents fast trans…",
+              "url": "https://johnchow.com/what-650-buys-you-in-stake-casino-nederland/",
+              "source": "Johnchow.com",
+              "published": "2026-05-27T23:26:02Z",
+              "image": null
             },
             {
-              "title": "Satoshi’s 1.1M bitcoin and millions more can be saved from quantum attack, says expert",
-              "description": "Researchers at the privacy-centric blockchain startup say their multi-layer quantum defense will feature a soft fork to freeze and protect dormant BTC.",
-              "url": "https://www.coindesk.com/tech/2026/05/21/satoshi-s-1-1m-bitcoin-stash-can-be-saved-from-quantum-attack-says-americanfortress",
-              "source": "CoinDesk",
-              "published": "2026-05-21T19:10:03Z",
-              "image": "https://cdn.sanity.io/images/s3y3vcno/production/d6fe7e9fcbbd5f8330335bf3b990fa1f61a5ebd9-1280x853.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
-            },
-            {
-              "title": "How Crypto Founders Use Content Marketing to Build Investor Demand",
-              "description": "The cryptocurrency industry has evolved far beyond speculative trading and meme-driven hype. Today, investors are increasingly looking for projects with long-term value, transparent leadership, strong communities, and a compelling narrative. In this competiti…",
-              "url": "https://www.successful-blog.com/1/content-marketing-matters-for-crypto-founders/",
-              "source": "Successful-blog.com",
-              "published": "2026-05-21T14:32:22Z",
-              "image": "https://www.successful-blog.com/wp-content/uploads/2026/05/content-marketing.webp"
+              "title": "BGIN BLOCKCHAIN LIMITED Launches ASIC Chip Customization Solutions Business and Completes Inaugural Customer Delivery",
+              "description": "New Business Unlocks Internal Capabilities for Third-Party Customers for the First Time New Business Unlocks Internal Capabilities for Third-Party Customers for the First Time",
+              "url": "https://www.globenewswire.com/news-release/2026/05/26/3300869/0/en/BGIN-BLOCKCHAIN-LIMITED-Launches-ASIC-Chip-Customization-Solutions-Business-and-Completes-Inaugural-Customer-Delivery.html",
+              "source": "GlobeNewswire",
+              "published": "2026-05-26T10:00:00Z",
+              "image": "https://ml.globenewswire.com/Resource/Download/796c35b5-89a5-4c63-80f1-77b23908ba1d"
             }
           ]
         },
@@ -317,12 +317,44 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "Sharplink, Forward Industries among crypto firms considered for Russell indexes",
-              "description": "Sharplink, Gemini, Bitmine and Galaxy Digital were all included in preliminary lists for possible inclusion on Russell indexes tracking the largest companies in the US.",
-              "url": "https://cointelegraph.com/news/sharplink-forward-industries-among-crypto-firms-considered-for-russell-indexes",
-              "source": "Cointelegraph",
-              "published": "2026-05-27T06:27:54Z",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-the-grayscale-bitcoin-trust0-1.jpg"
+              "title": "Glassworm botnet disrupted after resilient C2 infrastructure takedown",
+              "description": "The Glassworm botnet targeting developers in software supply-chain attacks has been disrupted after researchers took down its resilient command-and-control infrastructure relying on Solana blockchain transactions and the BitTorrent DHT network. [...]",
+              "url": "https://www.bleepingcomputer.com/news/security/glassworm-botnet-disrupted-after-resilient-c2-infrastructure-takedown/",
+              "source": "BleepingComputer",
+              "published": "2026-05-27T13:28:42Z",
+              "image": "https://www.bleepstatic.com/content/hl-images/2026/03/17/glassworm.jpg"
+            },
+            {
+              "title": "CT Digital Forum Announces Full Agenda for June 4th Digital FutureFest",
+              "description": "Executive-Level Program Features Leading Voices in AI, Digital Assets, Cybersecurity and More Event to be Live Cast by The Rollup, Reaching 500,000+ Podcast Listeners STAMFORD, Conn., May 27, 2026 /PRNewswire/ -- The CT Digital Forum, in conjunction with CT T…",
+              "url": "https://www.prnewswire.com/news-releases/ct-digital-forum-announces-full-agenda-for-june-4th-digital-futurefest-302783099.html",
+              "source": "PRNewswire",
+              "published": "2026-05-27T13:00:00Z",
+              "image": null
+            },
+            {
+              "title": "BlockchAIn Executes 15-Year, 65 MW Electric Service Agreement at CLT-01 to Meet Demand for AI Data Center Capacity",
+              "description": "BlockchAIn Executes 15-Year, 65 MW Electric Service Agreement at CLT-01 to Meet Demand for AI Data Center Capacity...",
+              "url": "https://www.globenewswire.com/news-release/2026/05/27/3301980/0/en/BlockchAIn-Executes-15-Year-65-MW-Electric-Service-Agreement-at-CLT-01-to-Meet-Demand-for-AI-Data-Center-Capacity.html",
+              "source": "GlobeNewswire",
+              "published": "2026-05-27T12:45:00Z",
+              "image": "https://ml.globenewswire.com/Resource/Download/94b53111-09c3-494f-97f0-3d7a05d435d2"
+            },
+            {
+              "title": "GlassWorm Malware Takedown Disrupts Developer Supply Chain Attack Infrastructure",
+              "description": "CrowdStrike, in partnership with Google and the Shadowserver Foundation, has announced the simultaneous disruption of all command-and-control (C2) channels associated with GlassWorm, a persistent software chain campaign targeting software developers through m…",
+              "url": "https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html",
+              "source": "Internet",
+              "published": "2026-05-27T11:48:37Z",
+              "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZssmt_sAQM7Hi8SpkOQnmc9tKVqlTyjMclO_ptRmn45_cDzz3KANdtBi4xzzuf7neoeylx39D4BZN_Wys34O8lCM9KP8qytxEq_QT4tQ_FTHBeRV75qVTNfzQg7UGa0IJGO3tuJBZGiDjNfB401rG6hPvu78_5H_Sp8UeYk9c74KlCr-CaVX1rg-Slxc6/s1700-e365/botnet-down.jpg"
+            },
+            {
+              "title": "Crypto Scammers Exploit Google Ads To Drain $400K From Uniswap Users",
+              "description": "Security researchers say Google’s ad platform has been weaponized for over a year, with threat actors running fake sponsored links that funnel unsuspecting crypto users to phishing sites designed to drain their wallets. How The Attack Works The scheme targets…",
+              "url": "https://bitcoinist.com/crypto-scammers-exploit-google-ads-to-drain-400k-from-uniswap-users/",
+              "source": "Bitcoinist",
+              "published": "2026-05-27T08:00:24Z",
+              "image": "https://bitcoinist.com/wp-content/uploads/2026/05/a_907e7b.avif"
             },
             {
               "title": "Coinflow CISO on crypto payments security under AI pressure",
@@ -333,20 +365,12 @@
               "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/05/26121932/malcolm_portelli-2-coinflow.webp"
             },
             {
-              "title": "Base launches new tool to connect crypto wallets to AI agents",
-              "description": "AI models will be able to transfer funds, swap tokens, check balances and review transaction history with a new tool from Base.",
-              "url": "https://cointelegraph.com/news/base-launches-mcp-ttol-to-connect-crypto-wallets-to-ai-agents",
-              "source": "Cointelegraph",
-              "published": "2026-05-27T04:49:13Z",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-base-coinbase-l2-network.jpg"
-            },
-            {
-              "title": "Streamex Corp. Appoints Former Microsoft and PayPal Lead Product Designer Kori Handy as Vice President of Product and Design",
-              "description": "WINTER PARK, Fla., May 26, 2026 (GLOBE NEWSWIRE) — Streamex Corp. (“Streamex” or the “Company”) (NASDAQ: STEX), a technology company building the tokenization ecosystem for all real-world assets beginning with commodities, today announced the appointment of K…",
-              "url": "https://financialpost.com/globe-newswire/streamex-corp-appoints-former-microsoft-and-paypal-lead-product-designer-kori-handy-as-vice-president-of-product-and-design",
-              "source": "Financial Post",
-              "published": "2026-05-26T11:34:03Z",
-              "image": null
+              "title": "SEABW 2026 Closes in Bangkok as Southeast Asia's Digital Assets Move from Experimentation to Institutional Adoption",
+              "description": "Thai SEC and Indonesia's EKRAF brought both countries' regulators onto a single stage SCBX, Bitkub, and Ascend Bit joined Circle, Tether, and the Solana Foundation in Bangkok Two-day program at ICONSIAM Hall, with closed-door roundtables and an AI Hackathon i…",
+              "url": "https://www.prnewswire.com/news-releases/seabw-2026-closes-in-bangkok-as-southeast-asias-digital-assets-move-from-experimentation-to-institutional-adoption-302782002.html",
+              "source": "PRNewswire",
+              "published": "2026-05-27T04:00:00Z",
+              "image": "https://mma.prnewswire.com/media/2987901/image1.jpg?p=facebook"
             }
           ]
         }
