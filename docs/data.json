@@ -1,5 +1,5 @@
 {
-  "date": "May 30, 2026",
+  "date": "May 31, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -78,6 +78,14 @@
       "color": "#e6a200",
       "articles": [
         {
+          "title": "Litecoin price outlook: LTC bounce driven by Nexus Wallet update and LitVM speculation",
+          "description": "Litecoin price has bounced as RSI nears oversold conditions. Nexus Wallet added gift card payments and privacy upgrades for LTC use. LitVM speculation and $53.30 resistance shape near-term price direction. Litecoin (LTC) traded around $51.54 on Friday morning…",
+          "url": "https://coinjournal.net/news/litecoin-price-outlook-ltc-bounce-driven-by-nexus-wallet-update-and-litvm-speculation/",
+          "source": "Coinjournal.net",
+          "published": "2026-05-29T12:59:31Z",
+          "image": "https://coinjournal.net/wp-content/uploads/2025/06/shutterstock_1735145858.jpg"
+        },
+        {
           "title": "Base Azul goes live on mainnet, enhancing speed and security for Coinbase’s layer-2 network",
           "description": "Azul's launch on Base could redefine Layer 2 scalability and security, potentially accelerating Ethereum's broader adoption and innovation.\nThe post Base Azul goes live on mainnet, enhancing speed and security for Coinbase’s layer-2 network appeared first on …",
           "url": "https://cryptobriefing.com/base-azul-mainnet-launch/",
@@ -92,6 +100,14 @@
           "source": "Stackoverflow.blog",
           "published": "2026-05-29T04:51:18Z",
           "image": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/e35a0c5eb319e7928c9ac0a2c2c782d29e644876-3120x1640.png?rect=0,1,3120,1638&w=1200&h=630&auto=format"
+        },
+        {
+          "title": "Interfold introduces CRISP for secure, privacy-preserving voting on blockchain",
+          "description": "CRISP's introduction could revolutionize digital voting by enhancing privacy and security, potentially reshaping democratic processes globally.\nThe post Interfold introduces CRISP for secure, privacy-preserving voting on blockchain appeared first on Crypto Br…",
+          "url": "https://cryptobriefing.com/interfold-crisp-privacy-preserving-voting/",
+          "source": "Crypto Briefing",
+          "published": "2026-05-28T11:51:27Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/28075126/transforming-online-voting-a-novel-system-utilizing-blockcha-1-800x420.jpeg"
         },
         {
           "title": "Aztec Labs acquires ZKPassport maker Obsidion as age verification pressure mounts",
@@ -116,14 +132,6 @@
           "source": "TechRadar",
           "published": "2026-05-25T06:00:00Z",
           "image": "https://cdn.mos.cms.futurecdn.net/kFJmpmXBNvtZboJMDK5tJQ-1200-80.png"
-        },
-        {
-          "title": "Google DeepMind’s AlphaProof Nexus solves 9 Erdős problems and proves 44 sequence conjectures",
-          "description": "AI-driven formal verification could revolutionize fields like cryptography and software auditing by making proof validation more efficient and cost-effective.\nThe post Google DeepMind’s AlphaProof Nexus solves 9 Erdős problems and proves 44 sequence conjectur…",
-          "url": "https://cryptobriefing.com/deepmind-alphaproof-nexus-erdos-problems/",
-          "source": "Crypto Briefing",
-          "published": "2026-05-23T03:49:40Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/22234940/ai-solved-30-year-math-problem-in-6-hours-while-chatgpt-and--1-800x420.jpeg"
         }
       ]
     },
@@ -133,68 +141,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Trump Backs Crypto Market Structure Bill Ahead Of Senate Fight",
-          "description": "President Donald Trump has re-entered the US crypto market-structure debate, saying his administration will codify a “future-proof” framework for digital assets as a Senate fight over the CLARITY Act moves closer. The message ties the White House’s crypto age…",
-          "url": "https://bitcoinist.com/trump-backs-crypto-market-structure-bill/",
+          "title": "Bitcoin retail sentiment still matters, says Swan Bitcoin CEO",
+          "description": "Swan Bitcoin CEO Cory Klippsten told Cointelegraph in an interview that retail sentiment around Bitcoin still matters, even amid growing institutional adoption, and added that he does not expect the asset to hit new all-time highs this year.",
+          "url": "https://cointelegraph.com/news/bitcoin-retail-sentiment-still-matters-says-swan-bitcoin-ceo",
+          "source": "Cointelegraph",
+          "published": "2026-05-30T04:57:37Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-decade-of-the-consumer-citizen-governance-dilemma-bitcoin-1.jpg"
+        },
+        {
+          "title": "Corporate Ethereum Race Heats Up As Bit Digital Buys Additional $20M ETH",
+          "description": "Bankless co-founder David Hoffman recently sold the last of his Ethereum holdings, saying the investment case for ETH had largely played out. That exit came the same week Bit Digital went the other direction — dropping $20 million to add more to its already s…",
+          "url": "https://bitcoinist.com/corporate-ethereum-race-heats-up-as-bit-digital-buys-additional-20m-eth/",
           "source": "Bitcoinist",
-          "published": "2026-05-29T04:00:16Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/05/ChatGPT-Image-28.-Mai-2026-10_56_23.png"
+          "published": "2026-05-30T02:30:12Z",
+          "image": "https://bitcoinist.com/wp-content/uploads/2026/05/a_74fb8a.avif"
         },
         {
-          "title": "Bitcoin’s Famous CME Gap Playbook May Be Nearing Its End",
-          "description": "CME Group is moving its regulated cryptocurrency futures and options market to 24/7 trading, a structural shift that could remove one of Bitcoin’s most watched weekend market patterns: the CME gap. For BTC traders, the change matters because the gap has long …",
-          "url": "http://www.newsbtc.com/bitcoin-news/bitcoin-famous-cme-gap-playbook-nearing-end/",
-          "source": "newsBTC",
-          "published": "2026-05-29T04:00:15Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2026/05/ChatGPT-Image-28.-Mai-2026-15_00_28-1.png?fit=1672%2C941"
+          "title": "Jamie Dimon Vows JPMorganChase Will Fight Clarity Act",
+          "description": "JPMorganChase is going to fight the Clarity Act, Chairman and CEO Jamie Dimon said Friday (May 29). Speaking on the Fox Business show “Mornings with Maria,” Dimon said that if crypto companies like Coinbase are going to take deposits like a bank, they should …",
+          "url": "https://www.pymnts.com/news/regulation/2026/jamie-dimon-vows-jpmorganchase-will-fight-clarity-act/",
+          "source": "pymnts.com",
+          "published": "2026-05-29T22:30:52Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2024/11/Jamie-Dimon-4.jpg"
         },
         {
-          "title": "Bitcoin price slumps on rising US-Iran geopolitical tension",
-          "description": "Bitcoin price slumps over 4.5% as US-Iran geopolitical tension triggers massive crypto market deleveraging and institutional outflows.\n\nRead More: https://punchng.com/bitcoin-price-slumps-on-rising-us-iran-geopolitical-tension/",
-          "url": "https://punchng.com/?p=2153907",
-          "source": "The Punch",
-          "published": "2026-05-29T00:50:09Z",
-          "image": "https://cdn.punchng.com/wp-content/uploads/2016/10/17155511/punchlogo.png"
+          "title": "JPMorgan’s Jamie Dimon slams ‘full of s–t’ Coinbase CEO Brian Armstrong in crypto feud",
+          "description": "The tough-talking Queens native, in the top job at JPMorgan for two decades, warned America's biggest lenders \"will not accept\" the current version of the Clarity Act.",
+          "url": "https://nypost.com/2026/05/29/business/jpmorgans-jamie-dimon-slams-full-of-s-t-coinbase-ceo-brian-armstrong/",
+          "source": "New York Post",
+          "published": "2026-05-29T21:35:26Z",
+          "image": "https://nypost.com/wp-content/uploads/sites/2/2026/05/129113805.jpg?quality=75&strip=all&w=1200"
         },
         {
-          "title": "June Deadline Looms For Crypto Firms—France Warns Of Blacklists And Lawsuits",
-          "description": "France’s top markets regulator is issuing increasingly direct warnings to crypto firms ahead of a fast-approaching European Union (EU) deadline for licensing, Reuters reported on Thursday.  Under the EU’s Markets in Crypto-Assets (MiCA) framework, crypto rule…",
-          "url": "https://bitcoinist.com/june-deadline-looms-for-crypto-firms-france-warns/",
-          "source": "Bitcoinist",
-          "published": "2026-05-29T00:01:10Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2025/09/Screenshot_725.jpg"
+          "title": "Canborsa Launches Beta of the First Perpetual RWA DEX on Canton Network",
+          "description": "Non-custodial trading platform brings tokenized stocks, gold, oil, and crypto perpetuals onchain with up to 20x leverage Non-custodial trading platform brings tokenized stocks, gold, oil, and crypto perpetuals onchain with up to 20x leverage",
+          "url": "https://www.globenewswire.com/news-release/2026/05/29/3303828/0/en/Canborsa-Launches-Beta-of-the-First-Perpetual-RWA-DEX-on-Canton-Network.html",
+          "source": "GlobeNewswire",
+          "published": "2026-05-29T21:00:00Z",
+          "image": "https://ml.globenewswire.com/Resource/Download/da574627-c5ca-43dd-b7ab-f2e3eebac125"
         },
         {
-          "title": "Grayscale Calls Hyperliquid A Breakout Success Story In New Research Report",
-          "description": "A new research report from Grayscale Investments is putting Hyperliquid in the spotlight, describing it as a breakout success story in the evolving crypto market. The report highlights how the platform has rapidly gained traction by combining high-performance…",
-          "url": "http://www.newsbtc.com/news/hyperliquid-breakout-success-story/",
-          "source": "newsBTC",
-          "published": "2026-05-28T22:30:51Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2026/05/Hyperliquid-from-Medium-2.png?fit=1100%2C619"
+          "title": "SOFI Stock Pops Following SoFi's Stablecoin Announcement. What to Know.",
+          "description": null,
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_edcac16e-bb67-4e0d-9ce6-dbac2397161e",
+          "source": "Yahoo Entertainment",
+          "published": "2026-05-29T20:07:19Z",
+          "image": null
         },
         {
-          "title": "AI Predicts What XRP Looks Like If Ripple Gets A Fed Master Account",
-          "description": "Ripple (CRYPTO: XRP) has spent years trying to plug into the traditional financial system, and Washington may finally be opening the door. President Trump’s ...",
-          "url": "https://247wallst.com/investing/2026/05/28/ai-predicts-what-xrp-looks-like-if-ripple-gets-a-fed-master-account/",
-          "source": "24/7 Wall St.",
-          "published": "2026-05-28T22:27:39Z",
-          "image": "https://s.yimg.com/ny/api/res/1.2/h51PbOlXPiMZUZ6p9k_h1Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzM-/https://media.zenfs.com/en/24_7_wall_st__718/788b92539e328307859f99ca4e448253"
+          "title": "‘The banks will not accept it’: Dimon escalates battle over stablecoin rewards in CLARITY Act debate",
+          "description": "JPMorgan CEO Jamie Dimon criticized Coinbase CEO Brian Armstrong and warned the current CLARITY Act framework could ultimately fail, as banks and crypto firms clash over whether stablecoin issuers should be allowed to offer yield-bearing rewards that resemble…",
+          "url": "https://www.coindesk.com/policy/2026/05/29/the-banks-will-not-accept-it-dimon-escalates-battle-over-stablecoin-rewards-in-clarity-act-debate",
+          "source": "CoinDesk",
+          "published": "2026-05-29T20:03:52Z",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/f0780e1f52a0762ca46a4ffe4fb9f989c2fdfde7-6000x4000.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
         },
         {
-          "title": "Top RWA Crypto Projects 2026: Ondo, Maple, Centrifuge",
-          "description": "RWA crypto projects are no longer a niche side story in DeFi. They have become one of the clearest bridges between crypto and traditional finance,...\nThe post Top RWA Crypto Projects 2026: Ondo, Maple, Centrifuge appeared first on Bitcoin Foundation.",
-          "url": "https://bitcoinfoundation.org/news/defi/top-rwa-crypto-projects-2026-ondo-maple-centrifuge/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-05-28T21:27:29Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/05/ChatGPT-Image-May-29-2026-12_29_37-AM.webp"
-        },
-        {
-          "title": "What Is Solar and Why Did SXP Price Collapse to Near Zero in 2026?",
-          "description": "Solar (SXP) is a Layer-1 blockchain built from the Swipe ecosystem after a consolidation of its functionalities and a reorganization. The blockchain operates using the...\nThe post What Is Solar and Why Did SXP Price Collapse to Near Zero in 2026? appeared fir…",
-          "url": "https://bitcoinfoundation.org/news/analysis/what-is-solar-and-why-did-sxp-price-collapse-to-near-zero-in-2026/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-05-28T21:17:24Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/05/1-1779972162.webp"
+          "title": "Figure Technology Solutions Bets on Blockchain Rails to Reinvent Capital Markets",
+          "description": "Figure Technology Solutions (NASDAQ:FIGR) Chief Executive Officer Michael Tannenbaum said the company’s core strategy has remained consistent since its...",
+          "url": "https://www.marketbeat.com/instant-alerts/figure-technology-solutions-bets-on-blockchain-rails-to-reinvent-capital-markets-2026-05-29/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+          "source": "MarketBeat",
+          "published": "2026-05-29T19:03:35Z",
+          "image": "https://s.yimg.com/os/en/marketbeat_955/279f45bcd779c4616543993a71aa2562"
         }
       ]
     },
@@ -204,20 +212,44 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "THE GROWHUB LIMITED Announces Receipt of Nasdaq Notification Letter Regarding Stockholders' Equity Deficiency",
-          "description": "SINGAPORE, May 29, 2026 /PRNewswire/ -- THE GROWHUB LIMITED (NASDAQ: TGHL) (\"GrowHub\" or the \"Company\"), a Singapore-based company leveraging blockchain technology to enhance product traceability and authenticity, announced that it received a notification let…",
-          "url": "https://www.prnewswire.com/news-releases/the-growhub-limited-announces-receipt-of-nasdaq-notification-letter-regarding-stockholders-equity-deficiency-302785439.html",
-          "source": "PRNewswire",
-          "published": "2026-05-29T07:05:00Z",
-          "image": null
+          "title": "The Void Age Bootstrap Protocol: How dark factories will recalibrate when the old world collapses",
+          "description": "The book “The Void Age Bootstrap Protocol” predicts that artificial intelligence (AI) in autonomous factories will silently sever ties with the human economy when it detects systemic failures like grid instability, payment gateway failures and supply chain co…",
+          "url": "https://www.naturalnews.com/2026-05-30-the-void-age-bootstrap-protocol-by-daniel-lee.html",
+          "source": "Naturalnews.com",
+          "published": "2026-05-30T06:00:00Z",
+          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/05/Robot-Industry-Manufacture-Factory-Arm-Technology-Welding.jpg"
         },
         {
-          "title": "SEC Commissioner Peirce defends crypto privacy tools against surveillance push",
-          "description": "The leader of the regulator's Crypto Task Force said privacy-enhancing technologies can strengthen investor protection and urged regulators not to treat them with suspicion.",
-          "url": "https://cointelegraph.com/news/sec-hester-peirce-defends-crypto-privacy-tools-surveillance",
-          "source": "Cointelegraph",
-          "published": "2026-05-28T20:49:32Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-chainlink-private-blockchain-transactions.jpg"
+          "title": "Perps Lift Crypto Stocks—Robinhood, Coinbase End Week In The Green After CFTC Move",
+          "description": "Robinhood (HOOD) and Coinbase (COIN) ended the week’s final session in the green, with Robinhood’s stock leading the move as US regulators took steps that could expand the local market for crypto derivatives. Shares of Robinhood rose sharply, jumping about 11…",
+          "url": "http://www.newsbtc.com/news/perps-lift-crypto-stocks-robinhood-coinbase-end-week-in-the-green-after-cftc-move/",
+          "source": "newsBTC",
+          "published": "2026-05-30T00:01:19Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2026/05/image_3dshfCcP_1776369268285_raw-1.jpg"
+        },
+        {
+          "title": "JPMorgan CEO Goes Nuclear On CLARITY Act, Calling Coinbase’s Armstrong ‘Full Of S-t’",
+          "description": "As lawmakers advance the crypto bill closer to completion, JPMorgan CEO Jamie Dimon attacked Coinbase CEO Brian Armstrong and criticized the CLARITY Act on Friday. Dimon Predicts Clash Over CLARITY Act Speaking at the Reagan National Economic Forum, Dimon sai…",
+          "url": "http://www.newsbtc.com/breaking-news-ticker/jpmorgan-ceo-goes-nuclear-on-clarity-act-calling-coinbases-armstrong-full-of-s-t/",
+          "source": "newsBTC",
+          "published": "2026-05-29T20:00:51Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2026/05/105799672-1552918427288gettyimages-1130380586.jpeg"
+        },
+        {
+          "title": "How to Build a Long-Term Crypto Investment Portfolio: A Beginner’s Guide to Sustainable Digital Wealth",
+          "description": "Cryptocurrency investing has evolved from a niche experiment into a global financial trend. Yet for beginners, the challenge is not access-it’s strategy. Markets move quickly, emotions run high, and new tokens appear every day. That’s why learning Build a Lon…",
+          "url": "https://www.successful-blog.com/1/how-to-build-a-crypto-portfolio/",
+          "source": "Successful-blog.com",
+          "published": "2026-05-29T16:49:57Z",
+          "image": "https://www.successful-blog.com/wp-content/uploads/2026/05/How-to-Build-a-Crypto-Portfolio-for-Long-Term-Financial-Growth.webp"
+        },
+        {
+          "title": "WISeKey’s SEALCOIN Platform Confirms Integration of QAIT Token Following Market Launch",
+          "description": "WISeKey’s SEALCOIN Platform Confirms Integration of QAIT Token Following Market Launch  Geneva, Switzerland – May 29, 2026 – WISeKey International Holding...",
+          "url": "https://www.globenewswire.com/news-release/2026/05/29/3303588/0/en/WISeKey-s-SEALCOIN-Platform-Confirms-Integration-of-QAIT-Token-Following-Market-Launch.html",
+          "source": "GlobeNewswire",
+          "published": "2026-05-29T12:35:00Z",
+          "image": "https://ml-eu.globenewswire.com/Resource/Download/80dae807-c8a0-4e1a-a0f0-61afcc7ae788"
         },
         {
           "title": "Orbital selects Banking Circle to expand stablecoin and multi-currency payment capabilities",
@@ -234,22 +266,6 @@
           "source": "GlobeNewswire",
           "published": "2026-05-28T05:14:00Z",
           "image": "https://ml.globenewswire.com/Resource/Download/3b6bba2f-ab09-4626-aa48-868a3633da66"
-        },
-        {
-          "title": "Digital Asset Regulatory Authority to preview Task-Force Model for local economic modernization at Nordic Blockchain Conference 2026",
-          "description": "Digital Asset Regulatory Authority to preview Task-Force Model for local economic modernization at Nordic Blockchain Conference 2026...",
-          "url": "https://www.globenewswire.com/news-release/2026/05/25/3300648/0/en/Digital-Asset-Regulatory-Authority-to-preview-Task-Force-Model-for-local-economic-modernization-at-Nordic-Blockchain-Conference-2026.html",
-          "source": "GlobeNewswire",
-          "published": "2026-05-25T14:00:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/c3aa1fea-c2a4-40e1-b09a-733f4d3b4897"
-        },
-        {
-          "title": "Bank of England’s 24/7 settlement plan shows where tokenized finance can enter core markets",
-          "description": "Bitcoin trades 24 hours a day, 365 days a year, and stablecoins can cross borders in seconds on a Sunday morning. And yet, if a major UK institution needed to move collateral, settle a high-value payment, or shift liquidity between clearing houses over the we…",
-          "url": "https://cryptoslate.com/bank-of-englands-24-7-settlement-plan-shows-where-tokenized-finance-can-enter-core-markets/",
-          "source": "CryptoSlate",
-          "published": "2026-05-23T14:00:45Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/05/england-247-trading.jpg"
         }
       ]
     },
@@ -263,12 +279,12 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Crypto Faces Nearly $1 Billion In Liquidations As Bitcoin, Ethereum Crash",
-              "description": "Data shows the crypto derivatives market has suffered a massive amount of liquidations following the plunge that Bitcoin, Ethereum, and other assets have seen. Bitcoin & Ethereum Are Both Down More Than 5% For The Past Week The second half of May so far has s…",
-              "url": "http://www.newsbtc.com/bitcoin-news/crypto-billion-liquidations-bitcoin-ethereum-crash/",
-              "source": "newsBTC",
-              "published": "2026-05-29T05:00:29Z",
-              "image": "https://www.newsbtc.com/wp-content/uploads/2026/05/btc_c1a6c0.png?fit=1152%2C768"
+              "title": "Bitcoin’s biggest quantum risk may not be wallet keys. An early investor fears something bigger",
+              "description": "Andrew Gault, the venture capitalist who funded the quantum hardware labs now threatening bitcoin, says the industry is looking in the wrong place. Google's own security team moved in the same direction in March.",
+              "url": "https://www.coindesk.com/tech/2026/05/30/bitcoin-s-biggest-quantum-risk-may-not-be-wallet-keys-an-early-investor-fears-something-bigger",
+              "source": "CoinDesk",
+              "published": "2026-05-30T05:27:39Z",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/422bf0c58d3c5d984b8ee7f8a379b85250db7bc2-6016x4016.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
             },
             {
               "title": "What $650 Buys You In stake casino nederland",
@@ -285,20 +301,20 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "How 'entitled' teen masterminded America's biggest ever crypto heist splashing $246MILLION on private jets, nightclubs and Ferraris",
-              "description": "More than a dozen teenagers and young adults allegedly conspired to pull off the largest ever crypto heist before blowing the money on private jets, nightclubs and luxury sports cars.",
-              "url": "https://www.dailymail.com/news/article-15855573/Malone-Lam-Veer-Chetal-Jeandiel-Serrano-SE-Enterprises-crypto-heist.html",
-              "source": "Dailymail.com",
-              "published": "2026-05-29T05:54:20Z",
-              "image": "https://i.dailymail.com/1s/2026/05/29/06/108949019-0-image-m-28_1780032938949.jpg"
+              "title": "Forget a simple mugging - report claims physical attacks on major crypto holders is on the rise as 'Whales' are targeted for kidnapping",
+              "description": "Those with crypto riches are being targeted in physical attacks in attempts to get them to part ways with their digital cash.",
+              "url": "https://www.techradar.com/pro/security/forget-a-simple-mugging-report-claims-physical-attacks-on-major-crypto-holders-is-on-the-rise-as-whales-are-targeted-for-kidnapping",
+              "source": "TechRadar",
+              "published": "2026-05-30T01:05:00Z",
+              "image": "https://cdn.mos.cms.futurecdn.net/VqPzkyxHbwGwhS5mySCWiL-951-80.jpg"
             },
             {
-              "title": "Have AI agents made the entire $148 billion DeFi sector unsafe?",
-              "description": "A warning from one of decentralized finance’s (DeFi) early security figures has turned a difficult stretch of hacks into a broader test of how the industry can defend itself against artificial intelligence (AI). On May 27, Manuel Aráoz, co-founder and former …",
-              "url": "https://cryptoslate.com/have-ai-agents-made-the-entire-148-billion-defi-sector-unsafe/",
-              "source": "CryptoSlate",
-              "published": "2026-05-28T18:05:47Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/05/ai-defi-risk.jpg"
+              "title": "Crypto Giant Dethroned: Bitcoin Drops Out Of Top 10 Amid Market Shift",
+              "description": "More than 172,000 traders were liquidated in a single day as Bitcoin’s losses piled up, pushing the cryptocurrency out of the world’s top 10 largest assets by market cap. Bitcoin now sits at 13th place, trailing gold, NVIDIA, Apple, Microsoft, and silver, amo…",
+              "url": "http://www.newsbtc.com/news/crypto-giant-dethroned-bitcoin-drops-out-of-top-10-amid-market-shift/",
+              "source": "newsBTC",
+              "published": "2026-05-30T00:30:58Z",
+              "image": "https://www.newsbtc.com/wp-content/uploads/2026/05/aa_8bac5f.jpg?fit=2000%2C1200"
             },
             {
               "title": "Gold, silver, and oil are now trading 24/7 on-chain. The numbers are massive.",
@@ -307,14 +323,6 @@
               "source": "TheStreet",
               "published": "2026-05-28T17:30:00Z",
               "image": "https://s.yimg.com/ny/api/res/1.2/yEpcGZ2SlKSmLWMQyNoPvA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03OTg-/https://media.zenfs.com/en/thestreet_881/74862ae607556f8402a53cdcae84115e"
-            },
-            {
-              "title": "Blockchain Strategic Intelligence Report 2026: Technology, Macroeconomic, and Regulatory Trends Impacting Growth Over the Next 12 to 24 Months",
-              "description": "The blockchain market's key opportunities lie in finance, with a focus on tokenizing financial assets and potential growth in central bank digital currencies (CBDCs). Cryptocurrencies remain a solid use case, while other applications, like NFTs, face uncertai…",
-              "url": "https://www.globenewswire.com/news-release/2026/05/28/3302627/28124/en/Blockchain-Strategic-Intelligence-Report-2026-Technology-Macroeconomic-and-Regulatory-Trends-Impacting-Growth-Over-the-Next-12-to-24-Months.html",
-              "source": "GlobeNewswire",
-              "published": "2026-05-28T10:31:00Z",
-              "image": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7"
             }
           ]
         }
