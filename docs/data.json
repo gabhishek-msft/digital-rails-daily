@@ -1,5 +1,5 @@
 {
-  "date": "June 01, 2026",
+  "date": "June 02, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -61,14 +61,6 @@
           "source": "Crypto Briefing",
           "published": "2026-05-26T05:12:29Z",
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2020/12/02092245/link-bull-1024x538.jpg"
-        },
-        {
-          "title": "$420 Billion In Zcash Tracked By Arkham — Is This The End Of The Privacy Coin’s Core Promise?",
-          "description": "Blockchain intelligence firm Arkham Intelligence has published research revealing that it has successfully labeled more than half of all Zcash transaction activity — attributing $420 billion in volume to known individuals and institutions — a finding that str…",
-          "url": "https://bitcoinist.com/420-billion-in-zcash-tracked-by-arkham-is-this-end/",
-          "source": "Bitcoinist",
-          "published": "2026-05-25T23:30:34Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/05/Zcash-ZEC-ZECUSD.jpg"
         }
       ]
     },
@@ -141,68 +133,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Bitcoin Hash Rate Flattens as Miners Face AI Squeeze, Fidelity Report Says",
-          "description": "Bitcoin’s network hash rate has stalled and mining difficulty has dropped sharply in 2026, signaling that miners are redirecting power and capital toward artificial intelligence (AI) data center workloads, according to multiple industry reports. A mid-year up…",
-          "url": "https://www.naturalnews.com/2026-05-31-bitcoin-hash-rate-flattens-miners-ai-squeeze.html",
-          "source": "Naturalnews.com",
-          "published": "2026-05-31T06:00:00Z",
-          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/05/bitcoin-hash-rate-miners-1789-original.jpg"
+          "title": "You Can Now Trade 8,000 US Stocks on Binance Using Your Stablecoins",
+          "description": "Binance opened trading on over 8,000 US stocks for non-US users and plans bStocks tokenized shares on BNB Chain.",
+          "url": "https://beincrypto.com/binance-adds-8000-us-stocks-tradfi/",
+          "source": "BeInCrypto",
+          "published": "2026-06-01T10:07:49Z",
+          "image": "https://s.yimg.com/ny/api/res/1.2/bMrbRyCqhIoDUv3kmGmV3Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/beincrypto_us_662/74e0c5225cee38d04c7bfbd4e2d2e5da"
         },
         {
-          "title": "Solana Unchained Outlines Fixed-Supply Utility Architecture and AI Tool Hub Ahead of Late May Public Allocation Launch",
-          "description": "SACRAMENTO, Calif, May 30, 2026 (GLOBE NEWSWIRE) -- Solana Unchained today disclosed the comprehensive operational structure of its upcoming decentralized platform, which unifies artificial intelligence features with three specialized infrastructure protocols…",
-          "url": "https://www.globenewswire.com/news-release/2026/05/31/3303912/0/en/Solana-Unchained-Outlines-Fixed-Supply-Utility-Architecture-and-AI-Tool-Hub-Ahead-of-Late-May-Public-Allocation-Launch.html",
-          "source": "GlobeNewswire",
-          "published": "2026-05-31T03:29:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/485f59e3-2789-4af6-a7f6-fbc1b3be50d5"
+          "title": "Coinbase launches rupee bank rails in India after FIU nod",
+          "description": "Coinbase has switched on direct rupee bank transfers in India via IMPS, letting users move funds between local bank accounts and the exchange for spot and futures trading.",
+          "url": "https://cointelegraph.com/news/coinbase-rolls-out-rupee-bank-rails-in-india-after-watchdog-approval",
+          "source": "Cointelegraph",
+          "published": "2026-06-01T09:45:49Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-digital-euro-project-how-it-will-impact-the-current-financial-system-2.jpg"
         },
         {
-          "title": "Florida Candidate Liquidates $800K in Bitcoin to Bankroll Congressional Bid",
-          "description": "A Republican candidate jockeying to represent Florida’s 22nd Congressional District liquidated Bitcoin to help fuel his political bid.",
-          "url": "https://decrypt.co/369478/florida-candidate-liquidates-800k-bitcoin-bankroll-congressional-bid",
-          "source": "Decrypt",
-          "published": "2026-05-30T15:44:30Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/05/decrypt-style-michael-carbonara-gID_7.png"
+          "title": "Exclusive: Binance adds U.S. stocks in ‘super app’ push, plans to launch tokenized shares",
+          "description": "Binance is making over 7,000 stocks and ETFs available for zero commission to non U.S. users, and plans to soon let customers tokenize stock on its BNB blockchain.",
+          "url": "https://fortune.com/2026/06/01/binance-adds-u-s-stocks-in-super-app-push-plans-to-launch-tokenized-shares/",
+          "source": "Fortune",
+          "published": "2026-06-01T09:30:00Z",
+          "image": "https://fortune.com/img-assets/wp-content/uploads/2026/01/GettyImages-2232757227.jpg?resize=1200,600"
         },
         {
-          "title": "Bit Digital Saw Ethereum’s Strategic Value Before Institutions Caught On",
-          "description": "In a market where most institutions focus on crypto, Bit Digital appears to have taken a more forward-looking approach by recognizing Ethereum’s strategic importance early on. While many players were still treating ETH as a secondary asset, Bit Digital began …",
-          "url": "https://bitcoinist.com/bit-digital-early-on-ethereum/",
-          "source": "Bitcoinist",
-          "published": "2026-05-30T15:00:53Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/05/Ethereum-from-Pexels-3-1.jpeg"
-        },
-        {
-          "title": "Crypto walked so banks could run",
-          "description": "The following is a guest post and opinion from Ben Nadareski, Co-founder & CEO of Solstice . Institutions were never going to arrive in crypto the way crypto wanted them to. No stampede into governance tokens. No CFO proudly announcing that idle treasury had …",
-          "url": "https://cryptoslate.com/crypto-walked-so-banks-could-run/",
+          "title": "Aave now has a regulated path from bank accounts to DeFi lending. The hard part is keeping users there",
+          "description": "On May 28, Aave Labs announced that its UK subsidiaries Push Labs Ltd. and Push Virtual Assets Ltd. received FCA registration as cryptoasset exchange providers, layered on top of the group's existing Electronic Money Institution authorization. Combined with t…",
+          "url": "https://cryptoslate.com/aave-now-has-a-regulated-path-from-bank-accounts-to-defi-lending-the-hard-part-is-keeping-users-there/",
           "source": "CryptoSlate",
-          "published": "2026-05-30T13:15:46Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/05/wallst-crypto.jpg"
+          "published": "2026-06-01T08:53:28Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/05/aave-payment.jpg"
         },
         {
-          "title": "Bitcoin ETFs Register $4 Billion Outflows In 3 Weeks – Why This Is A Bullish Signal",
-          "description": "Following its bullish performance at the start of Q2 2026, the Bitcoin spot ETFs market has slumped into negative momentum in recent weeks, in line with the broader price correction. Data from ETF tracker shows that total net outflows for May stand at $2.30 b…",
-          "url": "http://www.newsbtc.com/news/bitcoin/bitcoin-etfs-register-4-billion-outflows-in-3-weeks-why-this-is-a-bullish-signal/",
+          "title": "Further & 3iQ Expand Alpha Digital Fund with New USD Class II, Combining BTC Exposure with Alpha",
+          "description": "Further x 3iQ Alpha Digital Fund introduces USD Class II, a new share class enabling USD-denominated investors to gain long Bitcoin exposure alongside alpha generation, without having to hold or convert into BTC themselves USD Class II delivers an absolute re…",
+          "url": "https://www.prnewswire.com/news-releases/further--3iq-expand-alpha-digital-fund-with-new-usd-class-ii-combining-btc-exposure-with-alpha-302786218.html",
+          "source": "PRNewswire",
+          "published": "2026-06-01T08:15:00Z",
+          "image": "https://mma.prnewswire.com/media/1822129/3iQ_Logo.jpg?p=facebook"
+        },
+        {
+          "title": "XRP To $1,000? Expert Lays Out Macro Domino Theory",
+          "description": "Jake Claver has outlined his macro thesis for why XRP could eventually reach $1,000, arguing in a May 31 interview with MissCrypto that the asset may benefit from a rare convergence of global liquidity stress, stablecoin regulation, tokenization and real-time…",
+          "url": "http://www.newsbtc.com/xrp-news/xrp-to-1000-macro-domino-theory/",
           "source": "newsBTC",
-          "published": "2026-05-30T13:00:38Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2026/05/pexels-alesiakozik-6771008.jpg?fit=1000%2C666"
+          "published": "2026-06-01T08:05:58Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/ChatGPT-Image-1.-Juni-2026-09_08_32.png?fit=1222%2C687"
         },
         {
-          "title": "Hyperliquid could become a ‘financial services juggernaut’ as DeFi expands, says Grayscale",
-          "description": "The digital asset manager says Hyperliquid is emerging as a blockchain-based financial infrastructure platform with the potential to expand beyond crypto trading and challenge parts of traditional derivatives and exchange markets.",
-          "url": "https://www.coindesk.com/business/2026/05/30/hyperliquid-could-become-a-financial-services-juggernaut-as-defi-expands-says-grayscale",
-          "source": "CoinDesk",
-          "published": "2026-05-30T13:00:00Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/b19fea6ba8d91933fbd0aa045661baca984f3247-4080x2720.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
+          "title": "Bitcoin begins June near $73,500 as ETF outflows cross $2 billion and geopolitical risks intensify",
+          "description": "Bitcoin began June trading near $73,500 amidst significant ETF outflows exceeding $2 billion and escalating geopolitical risks. Institutional retreat, coupled with concerns over U.S.-Iran relations and a $1 billion liquidation event, has led to market caution…",
+          "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-begins-june-near-73500-as-etf-outflows-cross-2-billion-and-geopolitical-risks-intensify/articleshow/131437003.cms",
+          "source": "The Times of India",
+          "published": "2026-06-01T07:27:27Z",
+          "image": "https://img.etimg.com/thumb/msid-131437085,width-1200,height-630,imgsize-47462,overlay-etmarkets/articleshow.jpg"
         },
         {
-          "title": "Does XRP (Ripple) Have Any Future After 2026?",
-          "description": "2026 was supposed to be XRP’s (CRYPTO: XRP) breakout year after the foundation it built in 2025. Last year, Ripple’s lawsuit with the SEC ended, and spot XRP...",
-          "url": "https://247wallst.com/investing/2026/05/30/does-xrp-ripple-have-any-future-after-2026/",
-          "source": "24/7 Wall St.",
-          "published": "2026-05-30T08:40:53Z",
-          "image": "https://s.yimg.com/ny/api/res/1.2/DRUuEYkEEnvJLFnGWyNYWg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/24_7_wall_st__718/020f64bb3394312ab6535bd50a7c8e38"
+          "title": "Anchorage rolls out platform to reduce crypto trading counterparty risk",
+          "description": "The crypto bank's new CMS platform lets institutions trade on crypto venues while keeping assets in regulated custody and reducing pre-funded accounts.",
+          "url": "https://cointelegraph.com/news/anchorage-launches-settlement-network-for-institutional-crypto-trading",
+          "source": "Cointelegraph",
+          "published": "2026-06-01T07:00:00Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-dex-explained1.jpg"
         }
       ]
     },
@@ -212,20 +204,20 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "The Void Age Bootstrap Protocol: How dark factories will recalibrate when the old world collapses",
-          "description": "The book “The Void Age Bootstrap Protocol” predicts that artificial intelligence (AI) in autonomous factories will silently sever ties with the human economy when it detects systemic failures like grid instability, payment gateway failures and supply chain co…",
-          "url": "https://www.naturalnews.com/2026-05-30-the-void-age-bootstrap-protocol-by-daniel-lee.html",
-          "source": "Naturalnews.com",
-          "published": "2026-05-30T06:00:00Z",
-          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/05/Robot-Industry-Manufacture-Factory-Arm-Technology-Welding.jpg"
+          "title": "Hyperscale Data Subsidiary Ault Global Commodities Enters into Agreement with The Wyoming Reserve for Secure Precious Metals Storage and Vaulting",
+          "description": "LAS VEGAS, June 1, 2026 /PRNewswire/ -- Hyperscale Data, Inc. (NYSE American: GPUS), an artificial intelligence (\"AI\") data center company anchored by Bitcoin (\"Hyperscale Data\" or the \"Company\"), today announced that its wholly owned subsidiary Ault Global C…",
+          "url": "https://www.prnewswire.com/news-releases/hyperscale-data-subsidiary-ault-global-commodities-enters-into-agreement-with-the-wyoming-reserve-for-secure-precious-metals-storage-and-vaulting-302786792.html",
+          "source": "PRNewswire",
+          "published": "2026-06-01T09:00:00Z",
+          "image": "https://mma.prnewswire.com/media/2983810/Hyperscale_Data_Registered_Mark_Logo.jpg?p=facebook"
         },
         {
-          "title": "Perps Lift Crypto Stocks—Robinhood, Coinbase End Week In The Green After CFTC Move",
-          "description": "Robinhood (HOOD) and Coinbase (COIN) ended the week’s final session in the green, with Robinhood’s stock leading the move as US regulators took steps that could expand the local market for crypto derivatives. Shares of Robinhood rose sharply, jumping about 11…",
-          "url": "http://www.newsbtc.com/news/perps-lift-crypto-stocks-robinhood-coinbase-end-week-in-the-green-after-cftc-move/",
-          "source": "newsBTC",
-          "published": "2026-05-30T00:01:19Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2026/05/image_3dshfCcP_1776369268285_raw-1.jpg"
+          "title": "The Decade of the ExO: A playbook for liberation or a roadmap to ruin?",
+          "description": "The book presents a defiantly optimistic, data-driven rebuttal to the globalist “doom-and-gloom” narrative, demonstrating that extreme poverty has collapsed, life expectancy has doubled and literacy has soared. It argues that the UN, WHO and Bill Gates profit…",
+          "url": "https://www.naturalnews.com/2026-06-01-the-decade-of-exo-playbook-liberation-roadmap-ruin.html",
+          "source": "Naturalnews.com",
+          "published": "2026-06-01T06:00:00Z",
+          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/the-decade-of-the-exo.png"
         },
         {
           "title": "WISeKey’s SEALCOIN Platform Confirms Integration of QAIT Token Following Market Launch",
@@ -244,12 +236,20 @@
           "image": "https://mma.prnewswire.com/media/2722927/Orbital_Logo.jpg?p=facebook"
         },
         {
-          "title": "Origins Network Appoints Robles Carlos as CEO, Doubling Down on Blockchain Infrastructure and AI-Driven User Growth",
-          "description": "TAICHUNG, Taiwan, May 28, 2026 (GLOBE NEWSWIRE) -- Origins Network\r\n, a Layer 1 blockchain that recently closed an $8M funding round backed by top-tier venture capital firms including Animoca Brands and TB Ventures—alongside strategic support from AWS Cloud a…",
-          "url": "https://www.globenewswire.com/news-release/2026/05/28/3302501/0/en/Origins-Network-Appoints-Robles-Carlos-as-CEO-Doubling-Down-on-Blockchain-Infrastructure-and-AI-Driven-User-Growth.html",
-          "source": "GlobeNewswire",
-          "published": "2026-05-28T05:14:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/3b6bba2f-ab09-4626-aa48-868a3633da66"
+          "title": "What Is XRPL Update: Is It Finally Ready to Beat Ethereum in RWA and DeFi?",
+          "description": "The latest XRPL version represents the largest XRPL update since the integration of its native AMM and lending features. Introduced in May 2026, XRPL 3.1.3...\nThe post What Is XRPL Update: Is It Finally Ready to Beat Ethereum in RWA and DeFi? appeared first o…",
+          "url": "https://bitcoinfoundation.org/news/defi/what-is-xrpl-update-is-it-finally-ready-to-beat-ethereum-in-rwa-and-defi/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-05-27T10:15:16Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/05/1-1779873450.webp"
+        },
+        {
+          "title": "What Is USNS Token? United States Nuclear Supply Explained, Price Outlook & How to Buy",
+          "description": "For users asking what is USNS coin, the project presents itself as a Solana-based cryptocurrency focused on nuclear reserve verification, supply chain tracking, and energy...\nThe post What Is USNS Token? United States Nuclear Supply Explained, Price Outlook &…",
+          "url": "https://bitcoinfoundation.org/news/altcoins/what-is-usns-coin-united-states-nuclear-supply/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-05-26T11:46:16Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/05/1-1779788691.webp"
         }
       ]
     },
@@ -263,12 +263,28 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "The US debt machine is getting harder to stabilize – So where does Bitcoin fit in?",
-              "description": "The US Treasury market is the foundation of the global financial system. It determines mortgage rates, government borrowing costs, corporate lending, and the price of money across the world. For decades, investors treated it as the safest and most stable mark…",
-              "url": "https://cryptoslate.com/the-us-debt-machine-is-getting-harder-to-stabilize-so-where-does-bitcoin-fit-in/",
-              "source": "CryptoSlate",
-              "published": "2026-05-30T18:55:52Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/05/debt-machine-treasury.jpg"
+              "title": "Bitcoin, ether start June in the red while futures show taste for risk. XLM, HYPE gain",
+              "description": "Bitcoin and ether fell Monday after dropping in May, a month that usually sees them post positive returns. U.S. equity index futures rose.",
+              "url": "https://www.coindesk.com/markets/2026/06/01/bitcoin-ether-start-june-in-the-red-while-futures-show-taste-for-risk-xlm-hype-gain",
+              "source": "CoinDesk",
+              "published": "2026-06-01T10:04:10Z",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/a46fdc0eb758eaaa46dbb2c54a2f8a929843b634-6048x4024.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
+            },
+            {
+              "title": "Trump says Iran will 'work out well:' Five things to know in Bitcoin this week",
+              "description": "Bitcoin price headed below $72,000 on Iran woes as US president Donald Trump told observes to \"sit back and relax\" with the ceasefire still absent.",
+              "url": "https://cointelegraph.com/markets/trump-says-iran-will-work-out-well-five-things-to-know-in-bitcoin-this-week",
+              "source": "Cointelegraph",
+              "published": "2026-06-01T08:56:01Z",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/hi-trump-speak-1.jpg"
+            },
+            {
+              "title": "Japan must promote yen stablecoins in Asia, ruling party panel says",
+              "description": "TOKYO, June 1 : Japan must promote usage of yen-based stablecoins for settlement in Asia and create a legal framework to allow trading of crypto exchange-traded funds (ETF), a ruling party panel said in a proposal to the government on Monday.\"Crypto-ETFs woul…",
+              "url": "https://www.channelnewsasia.com/business/japan-must-promote-yen-stablecoins-in-asia-ruling-party-panel-says-6153716",
+              "source": "CNA",
+              "published": "2026-06-01T08:42:14Z",
+              "image": "https://dam.mediacorp.sg/image/upload/s--JfUquXQL--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-06-01T084214Z_1_LYNXMPEM5014Z_RTROPTP_3_JAPAN-ECONOMY-BOJ.JPG?itok=2YyxdBah"
             }
           ]
         },
@@ -277,12 +293,12 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "Week in review: Infostealer dropped via FortiClient EMS flaw, exploited Trend Micro Apex One flaw",
-              "description": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Coinflow CISO on crypto payments security under AI pressure Crypto payment firms sit near the top of the target list for advanced persistent threat groups, and t…",
-              "url": "https://www.helpnetsecurity.com/2026/05/31/week-in-review-infostealer-dropped-via-forticlient-ems-flaw-exploited-trend-micro-apex-one-flaw/",
-              "source": "Help Net Security",
-              "published": "2026-05-31T08:00:26Z",
-              "image": "https://img.helpnetsecurity.com/wp-content/uploads/2023/12/01112506/cybersecurity_week_in_review2.jpg"
+              "title": "Circle Targets Post-Quantum Security In Bold USDC Roadmap",
+              "description": "Users who fail to migrate their accounts before quantum computers become a practical threat would not automatically lose their assets under Circle’s new plan — the company is proposing recovery frameworks tied to cryptographic proofs, seed phrase verification…",
+              "url": "https://bitcoinist.com/circle-targets-post-quantum-security-in-bold-usdc-roadmap/",
+              "source": "Bitcoinist",
+              "published": "2026-06-01T01:00:19Z",
+              "image": "https://bitcoinist.com/wp-content/uploads/2026/05/a_090663.avif"
             },
             {
               "title": "Wall Street’s trillion-dollar dilemma: Why AI-powered hackers are keeping big banks off the blockchain",
