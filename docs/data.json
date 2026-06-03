@@ -1,5 +1,5 @@
 {
-  "date": "June 02, 2026",
+  "date": "June 03, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -13,6 +13,14 @@
           "source": "Bitcoinfoundation.org",
           "published": "2026-05-28T10:59:01Z",
           "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/04/xlm-1.webp"
+        },
+        {
+          "title": "Blockworks forms Transparency Alliance with Coinbase, Kraken, Ripple, and other crypto firms",
+          "description": "Blockworks launched the Transparency Alliance with Coinbase, Kraken, Ripple, and others to standardize token disclosures.\nThe post Blockworks forms Transparency Alliance with Coinbase, Kraken, Ripple, and other crypto firms appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/transparency-alliance-with-coinbase-kraken/",
+          "source": "Crypto Briefing",
+          "published": "2026-05-27T21:24:44Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/05/27172319/5207dd5e-fc2d-4abe-858a-d072abb29672-800x420.jpg"
         },
         {
           "title": "Charles Hoskinson Reflects on Crypto’s Journey from “Bitcoin Is Dead” To 560 Million Users",
@@ -37,30 +45,6 @@
           "source": "PRNewswire",
           "published": "2026-05-27T11:03:00Z",
           "image": "https://mma.prnewswire.com/media/2988242/Polymath_Research_Inc__Polymath_Launches_Confidential_Assets_on.jpg?p=facebook"
-        },
-        {
-          "title": "Zcash (ZEC) Soars 1,482% In a Year — Why Traders Call It the Most Dangerous Short in Crypto Right Now",
-          "description": "Zcash (ZEC) used to vanish into silence, yet now it roars back louder than expected. A wild surge of 1,482% in twelve months changed how...\nThe post Zcash (ZEC) Soars 1,482% In a Year — Why Traders Call It the Most Dangerous Short in Crypto Right Now appeared…",
-          "url": "https://bitcoinfoundation.org/news/analysis/zcash-zec-soars-1482-the-most-dangerous-short-in-crypto/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-05-26T13:11:23Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/05/ChatGPT-Image-May-26-2026-04_20_50-PM.webp"
-        },
-        {
-          "title": "Ethereum price chart targets $1.8K as total value locked hits 13-month lows",
-          "description": "Ether price eyes a 14% drop to $1,800 as it trades in a classic bearish pattern amid declining total value locked on the Ethereum network.",
-          "url": "https://cointelegraph.com/markets/ethereum-price-chart-targets-18k-as-total-value-locked-hits-13-month-lows",
-          "source": "Cointelegraph",
-          "published": "2026-05-26T10:33:45Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/ethereum-newspaper-3.jpg"
-        },
-        {
-          "title": "X Layer launches Exchange OS for custom crypto market creation",
-          "description": "Exchange OS could democratize crypto market creation, potentially increasing market diversity and accessibility while challenging traditional exchanges.\nThe post X Layer launches Exchange OS for custom crypto market creation appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/x-layer-exchange-os-custom-crypto-markets/",
-          "source": "Crypto Briefing",
-          "published": "2026-05-26T05:12:29Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2020/12/02092245/link-bull-1024x538.jpg"
         }
       ]
     },
@@ -116,14 +100,6 @@
           "source": "SiliconANGLE News",
           "published": "2026-05-27T16:00:15Z",
           "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/zkpassport.png"
-        },
-        {
-          "title": "Charles Hoskinson goes all-in on Cardano and Midnight after $250 million hospital shutdown",
-          "description": "Charles Hoskinson, Cardano's founder, is turning his public focus back to the blockchain network, and Midnight, one of his largest ventures outside crypto, prepares to close. The shift comes at a difficult moment for the Cardano founder. His Wyoming health ca…",
-          "url": "https://cryptoslate.com/charles-hoskinson-cardano-midnight-250-million-hospital-shutdown/",
-          "source": "CryptoSlate",
-          "published": "2026-05-26T14:10:43Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/05/charles-hoskinson.jpg"
         }
       ]
     },
@@ -133,68 +109,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "You Can Now Trade 8,000 US Stocks on Binance Using Your Stablecoins",
-          "description": "Binance opened trading on over 8,000 US stocks for non-US users and plans bStocks tokenized shares on BNB Chain.",
-          "url": "https://beincrypto.com/binance-adds-8000-us-stocks-tradfi/",
-          "source": "BeInCrypto",
-          "published": "2026-06-01T10:07:49Z",
-          "image": "https://s.yimg.com/ny/api/res/1.2/bMrbRyCqhIoDUv3kmGmV3Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/beincrypto_us_662/74e0c5225cee38d04c7bfbd4e2d2e5da"
+          "title": "Bitcoin crashes below $70K as ETF exodus and Mt. Gox fears intensify",
+          "description": "Bitcoin price has dipped to under $70,000 for the first time since early April. Negative triggers include ETF outflows, corporate sales, and large on‑chain transfers. With macro and geopolitical volatility persisting, bulls may struggle to reclaim recent high…",
+          "url": "https://coinjournal.net/news/bitcoin-crashes-below-70k-as-etf-exodus-and-mt-gox-fears-intensify/",
+          "source": "Coinjournal.net",
+          "published": "2026-06-02T10:47:34Z",
+          "image": "https://coinjournal.net/wp-content/uploads/2026/02/Bitcoin-price-outlook.png"
         },
         {
-          "title": "Coinbase launches rupee bank rails in India after FIU nod",
-          "description": "Coinbase has switched on direct rupee bank transfers in India via IMPS, letting users move funds between local bank accounts and the exchange for spot and futures trading.",
-          "url": "https://cointelegraph.com/news/coinbase-rolls-out-rupee-bank-rails-in-india-after-watchdog-approval",
-          "source": "Cointelegraph",
-          "published": "2026-06-01T09:45:49Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-digital-euro-project-how-it-will-impact-the-current-financial-system-2.jpg"
+          "title": "TechGaged Releases Comprehensive 2026 Cryptocurrency Statistics Report Analyzing the State of the Digital Asset Market",
+          "description": "VILNIUS, Lithuania, June 02, 2026 (GLOBE NEWSWIRE) -- TechGaged.com\r\n, a cryptocurrency news publication and research platform covering digital assets, blockchain technology, and global crypto markets, has announced the release of its 2026 Cryptocurrency Stat…",
+          "url": "https://www.globenewswire.com/news-release/2026/06/02/3304948/0/en/TechGaged-Releases-Comprehensive-2026-Cryptocurrency-Statistics-Report-Analyzing-the-State-of-the-Digital-Asset-Market.html",
+          "source": "GlobeNewswire",
+          "published": "2026-06-02T10:26:00Z",
+          "image": "https://ml.globenewswire.com/Resource/Download/77075cb6-a2cb-4962-b044-171fb9607d16"
         },
         {
-          "title": "Exclusive: Binance adds U.S. stocks in ‘super app’ push, plans to launch tokenized shares",
-          "description": "Binance is making over 7,000 stocks and ETFs available for zero commission to non U.S. users, and plans to soon let customers tokenize stock on its BNB blockchain.",
-          "url": "https://fortune.com/2026/06/01/binance-adds-u-s-stocks-in-super-app-push-plans-to-launch-tokenized-shares/",
-          "source": "Fortune",
-          "published": "2026-06-01T09:30:00Z",
-          "image": "https://fortune.com/img-assets/wp-content/uploads/2026/01/GettyImages-2232757227.jpg?resize=1200,600"
-        },
-        {
-          "title": "Aave now has a regulated path from bank accounts to DeFi lending. The hard part is keeping users there",
-          "description": "On May 28, Aave Labs announced that its UK subsidiaries Push Labs Ltd. and Push Virtual Assets Ltd. received FCA registration as cryptoasset exchange providers, layered on top of the group's existing Electronic Money Institution authorization. Combined with t…",
-          "url": "https://cryptoslate.com/aave-now-has-a-regulated-path-from-bank-accounts-to-defi-lending-the-hard-part-is-keeping-users-there/",
-          "source": "CryptoSlate",
-          "published": "2026-06-01T08:53:28Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/05/aave-payment.jpg"
-        },
-        {
-          "title": "Further & 3iQ Expand Alpha Digital Fund with New USD Class II, Combining BTC Exposure with Alpha",
-          "description": "Further x 3iQ Alpha Digital Fund introduces USD Class II, a new share class enabling USD-denominated investors to gain long Bitcoin exposure alongside alpha generation, without having to hold or convert into BTC themselves USD Class II delivers an absolute re…",
-          "url": "https://www.prnewswire.com/news-releases/further--3iq-expand-alpha-digital-fund-with-new-usd-class-ii-combining-btc-exposure-with-alpha-302786218.html",
-          "source": "PRNewswire",
-          "published": "2026-06-01T08:15:00Z",
-          "image": "https://mma.prnewswire.com/media/1822129/3iQ_Logo.jpg?p=facebook"
-        },
-        {
-          "title": "XRP To $1,000? Expert Lays Out Macro Domino Theory",
-          "description": "Jake Claver has outlined his macro thesis for why XRP could eventually reach $1,000, arguing in a May 31 interview with MissCrypto that the asset may benefit from a rare convergence of global liquidity stress, stablecoin regulation, tokenization and real-time…",
-          "url": "http://www.newsbtc.com/xrp-news/xrp-to-1000-macro-domino-theory/",
+          "title": "Robinhood Just Acquired Canada’s Biggest Crypto Platform — And Brought 300,000 New Customers With It",
+          "description": "Robinhood Markets has closed its acquisition of WonderFi, a Canadian leader in digital asset products and services, marking the US trading platform’s formal entry into Canada and pushing its total international funded customer base past 1 million for the firs…",
+          "url": "http://www.newsbtc.com/news/robinhood-just-acquired-canadas-biggest-crypto-platform-and-brought-300000-new-customers-with-it/",
           "source": "newsBTC",
-          "published": "2026-06-01T08:05:58Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/ChatGPT-Image-1.-Juni-2026-09_08_32.png?fit=1222%2C687"
+          "published": "2026-06-02T10:06:54Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/robinhood_crypto_bitcoin_btc_btcusd_50.png"
         },
         {
-          "title": "Bitcoin begins June near $73,500 as ETF outflows cross $2 billion and geopolitical risks intensify",
-          "description": "Bitcoin began June trading near $73,500 amidst significant ETF outflows exceeding $2 billion and escalating geopolitical risks. Institutional retreat, coupled with concerns over U.S.-Iran relations and a $1 billion liquidation event, has led to market caution…",
-          "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-begins-june-near-73500-as-etf-outflows-cross-2-billion-and-geopolitical-risks-intensify/articleshow/131437003.cms",
-          "source": "The Times of India",
-          "published": "2026-06-01T07:27:27Z",
-          "image": "https://img.etimg.com/thumb/msid-131437085,width-1200,height-630,imgsize-47462,overlay-etmarkets/articleshow.jpg"
+          "title": "WTW acquires Redefind to strengthen digital asset protection offering",
+          "description": "LONDON, June 02, 2026 (GLOBE NEWSWIRE) -- WTW (NASDAQ:WTW), a leading global advisory, broking and solutions company has today announced its acquisition of Redefind, an end-to-end web-based platform, designed to facilitate access to insurance products for cry…",
+          "url": "https://www.globenewswire.com/news-release/2026/06/02/3304943/0/en/WTW-acquires-Redefind-to-strengthen-digital-asset-protection-offering.html",
+          "source": "GlobeNewswire",
+          "published": "2026-06-02T10:06:00Z",
+          "image": "https://ml.globenewswire.com/Resource/Download/d60448c5-44c1-4061-a525-161810e55c26"
         },
         {
-          "title": "Anchorage rolls out platform to reduce crypto trading counterparty risk",
-          "description": "The crypto bank's new CMS platform lets institutions trade on crypto venues while keeping assets in regulated custody and reducing pre-funded accounts.",
-          "url": "https://cointelegraph.com/news/anchorage-launches-settlement-network-for-institutional-crypto-trading",
-          "source": "Cointelegraph",
-          "published": "2026-06-01T07:00:00Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-dex-explained1.jpg"
+          "title": "The Stablecoin Wars Just Got A New Contender — And This One Has 500,000 Retail Locations",
+          "description": "MoneyGram, one of the world’s largest cross-border payments networks, announced on June 2 the launch of MGUSD — a native US dollar stablecoin bearing the company’s own brand and designed to serve as the foundational layer for a growing suite of financial serv…",
+          "url": "https://bitcoinist.com/the-stablecoin-wars-just-got-a-new-contender-500000/",
+          "source": "Bitcoinist",
+          "published": "2026-06-02T09:35:01Z",
+          "image": "https://bitcoinist.com/wp-content/uploads/2026/06/crypto-stablecoin-eth-ethusd.jpg"
+        },
+        {
+          "title": "Strategy sold 32 BTC to pay dividends – But the real risk is what happens if it has to sell more Bitcoin",
+          "description": "Bitcoin price has hit $70,000 after Strategy, the world's largest publicly traded corporate holder of the top crypto, sold a portion of its BTC treasury for the first time since 2022. Data from CryptoSlate showed that BTC's price dropped 4% on the news to as …",
+          "url": "https://cryptoslate.com/strategy-sold-32-bitcoin-to-pay-dividends-the-real-risk-is-what-happens-if-it-has-to-sell-more/",
+          "source": "CryptoSlate",
+          "published": "2026-06-02T07:57:49Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/06/strategy-bitcoin-sell.jpg"
+        },
+        {
+          "title": "NatGold Digital Announces NATG Ready to Enter European Market",
+          "description": "MIAMI, June 2, 2026 /PRNewswire/ -- NatGold Digital Ltd. (\"NatGold\" or the \"Company\"), a pioneering digital gold mining company with a patent-pending process for sustainably unlocking the intrinsic value of in-ground gold resources through blockchain-based to…",
+          "url": "https://www.prnewswire.com/news-releases/natgold-digital-announces-natg-ready-to-enter-european-market-302787963.html",
+          "source": "PRNewswire",
+          "published": "2026-06-02T06:40:00Z",
+          "image": "https://i.ytimg.com/vi/AWXjw9DUJrM/hqdefault.jpg"
+        },
+        {
+          "title": "Stellar (XLM) Tipped For Historic Breakout With $11 Price Calls: Analyst",
+          "description": "A major traditional finance infrastructure provider has set its sights on the Stellar blockchain, and market watchers say the timing could not be more significant. The Depository Trust and Clearing Corporation, better known as the DTCC, announced plans to con…",
+          "url": "http://www.newsbtc.com/altcoin/stellar-xlm-tipped-for-historic-breakout-with-11-price-calls-analyst/",
+          "source": "newsBTC",
+          "published": "2026-06-02T04:00:02Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/a.jpg?fit=1920%2C1028"
         }
       ]
     },
@@ -204,12 +180,36 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Hyperscale Data Subsidiary Ault Global Commodities Enters into Agreement with The Wyoming Reserve for Secure Precious Metals Storage and Vaulting",
-          "description": "LAS VEGAS, June 1, 2026 /PRNewswire/ -- Hyperscale Data, Inc. (NYSE American: GPUS), an artificial intelligence (\"AI\") data center company anchored by Bitcoin (\"Hyperscale Data\" or the \"Company\"), today announced that its wholly owned subsidiary Ault Global C…",
-          "url": "https://www.prnewswire.com/news-releases/hyperscale-data-subsidiary-ault-global-commodities-enters-into-agreement-with-the-wyoming-reserve-for-secure-precious-metals-storage-and-vaulting-302786792.html",
-          "source": "PRNewswire",
-          "published": "2026-06-01T09:00:00Z",
-          "image": "https://mma.prnewswire.com/media/2983810/Hyperscale_Data_Registered_Mark_Logo.jpg?p=facebook"
+          "title": "RedotPay Enters B2B Market with “RedotPay Connect”: A New Gateway Slashes Fees by 70% for Global Merchants",
+          "description": "AMSTERDAM, June 02, 2026 (GLOBE NEWSWIRE) -- Launching at Money20/20 Europe, RedotPay Connect enables businesses to accept stablecoins and settle with local currency, bridging the $2 trillion crypto market with traditional enterprise commerce.",
+          "url": "https://www.globenewswire.com/news-release/2026/06/02/3304863/0/en/RedotPay-Enters-B2B-Market-with-RedotPay-Connect-A-New-Gateway-Slashes-Fees-by-70-for-Global-Merchants.html",
+          "source": "GlobeNewswire",
+          "published": "2026-06-02T07:00:00Z",
+          "image": "https://ml.globenewswire.com/Resource/Download/8207815d-ede9-4386-affe-eeff1a07e313"
+        },
+        {
+          "title": "Crossmint enables Visa card payments for AI agents and autonomous commerce",
+          "description": "The new API lets AI agents make purchases with eligible Visa cards using tokenized credentials and spending controls, expanding payment options for autonomous software.",
+          "url": "https://cointelegraph.com/news/crossmint-enables-visa-card-payments-for-ai-agents-and-autonomous-commerce",
+          "source": "Cointelegraph",
+          "published": "2026-06-02T07:00:00Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-could-those-who-left-visa-come-back-litecoin-1.jpg"
+        },
+        {
+          "title": "Dogecoin gains Paxos support in push for broader institutional adoption",
+          "description": "Dogecoin is joining Paxos' brokerage and custody platform, potentially expanding access to DOGE through fintech, payments and institutional channels.",
+          "url": "https://cointelegraph.com/news/paxos-doge-support-dogecoin-broader-institutional-adoption",
+          "source": "Cointelegraph",
+          "published": "2026-06-01T21:51:16Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-shibarium-and-what-it-means-for-shiba-inu.jpg"
+        },
+        {
+          "title": "Ethereum Meme Coin Little Pepe (LILPEPE) Nearly Sells Out Presale, Tops $28 Million Raised",
+          "description": "DUBAI, United Arab Emirates, June 01, 2026 (GLOBE NEWSWIRE) -- Little Pepe (LILPEPE), an Ethereum-based Layer 2 blockchain project combining meme culture with low-cost transactions, security, and speed, announced that its presale has raised over $28.19 millio…",
+          "url": "https://www.globenewswire.com/news-release/2026/06/01/3304772/0/en/Ethereum-Meme-Coin-Little-Pepe-LILPEPE-Nearly-Sells-Out-Presale-Tops-28-Million-Raised.html",
+          "source": "GlobeNewswire",
+          "published": "2026-06-01T21:51:00Z",
+          "image": "https://ml.globenewswire.com/Resource/Download/24bca8f6-84a5-44e0-a91c-bdeb5752702a"
         },
         {
           "title": "The Decade of the ExO: A playbook for liberation or a roadmap to ruin?",
@@ -218,14 +218,6 @@
           "source": "Naturalnews.com",
           "published": "2026-06-01T06:00:00Z",
           "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/the-decade-of-the-exo.png"
-        },
-        {
-          "title": "WISeKey’s SEALCOIN Platform Confirms Integration of QAIT Token Following Market Launch",
-          "description": "WISeKey’s SEALCOIN Platform Confirms Integration of QAIT Token Following Market Launch  Geneva, Switzerland – May 29, 2026 – WISeKey International Holding...",
-          "url": "https://www.globenewswire.com/news-release/2026/05/29/3303588/0/en/WISeKey-s-SEALCOIN-Platform-Confirms-Integration-of-QAIT-Token-Following-Market-Launch.html",
-          "source": "GlobeNewswire",
-          "published": "2026-05-29T12:35:00Z",
-          "image": "https://ml-eu.globenewswire.com/Resource/Download/80dae807-c8a0-4e1a-a0f0-61afcc7ae788"
         },
         {
           "title": "Orbital selects Banking Circle to expand stablecoin and multi-currency payment capabilities",
@@ -242,14 +234,6 @@
           "source": "Bitcoinfoundation.org",
           "published": "2026-05-27T10:15:16Z",
           "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/05/1-1779873450.webp"
-        },
-        {
-          "title": "What Is USNS Token? United States Nuclear Supply Explained, Price Outlook & How to Buy",
-          "description": "For users asking what is USNS coin, the project presents itself as a Solana-based cryptocurrency focused on nuclear reserve verification, supply chain tracking, and energy...\nThe post What Is USNS Token? United States Nuclear Supply Explained, Price Outlook &…",
-          "url": "https://bitcoinfoundation.org/news/altcoins/what-is-usns-coin-united-states-nuclear-supply/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-05-26T11:46:16Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/05/1-1779788691.webp"
         }
       ]
     },
@@ -263,28 +247,20 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Bitcoin, ether start June in the red while futures show taste for risk. XLM, HYPE gain",
-              "description": "Bitcoin and ether fell Monday after dropping in May, a month that usually sees them post positive returns. U.S. equity index futures rose.",
-              "url": "https://www.coindesk.com/markets/2026/06/01/bitcoin-ether-start-june-in-the-red-while-futures-show-taste-for-risk-xlm-hype-gain",
+              "title": "Bitcoin drops toward $69,000 as Saylor sale spooks investors while AI tokens buck the trend",
+              "description": "The price of bitcoin fell to its lowest since April 7 as Strategy's sale dented sentiment, while AI tokens H and NEAR surged and DeFi TVL hit a 20-month low.",
+              "url": "https://www.coindesk.com/markets/2026/06/02/bitcoin-drops-toward-usd69-000-as-saylor-sale-spooks-investors-while-ai-tokens-buck-the-trend",
               "source": "CoinDesk",
-              "published": "2026-06-01T10:04:10Z",
-              "image": "https://cdn.sanity.io/images/s3y3vcno/production/a46fdc0eb758eaaa46dbb2c54a2f8a929843b634-6048x4024.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
+              "published": "2026-06-02T10:00:35Z",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/fb2e58779f39a0e448fa3eb83de817e0dbf21dfc-1854x1044.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
             },
             {
-              "title": "Trump says Iran will 'work out well:' Five things to know in Bitcoin this week",
-              "description": "Bitcoin price headed below $72,000 on Iran woes as US president Donald Trump told observes to \"sit back and relax\" with the ceasefire still absent.",
-              "url": "https://cointelegraph.com/markets/trump-says-iran-will-work-out-well-five-things-to-know-in-bitcoin-this-week",
-              "source": "Cointelegraph",
-              "published": "2026-06-01T08:56:01Z",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/hi-trump-speak-1.jpg"
-            },
-            {
-              "title": "Japan must promote yen stablecoins in Asia, ruling party panel says",
-              "description": "TOKYO, June 1 : Japan must promote usage of yen-based stablecoins for settlement in Asia and create a legal framework to allow trading of crypto exchange-traded funds (ETF), a ruling party panel said in a proposal to the government on Monday.\"Crypto-ETFs woul…",
-              "url": "https://www.channelnewsasia.com/business/japan-must-promote-yen-stablecoins-in-asia-ruling-party-panel-says-6153716",
-              "source": "CNA",
-              "published": "2026-06-01T08:42:14Z",
-              "image": "https://dam.mediacorp.sg/image/upload/s--JfUquXQL--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-06-01T084214Z_1_LYNXMPEM5014Z_RTROPTP_3_JAPAN-ECONOMY-BOJ.JPG?itok=2YyxdBah"
+              "title": "SEALSQ takes majority of WeCan to build a post-quantum AI compliance co-pilot for private banks",
+              "description": "The Swiss post-quantum-crypto firm has lifted its WeCan stake from 28% to majority and committed CHF 5M to accelerate AI-compliance tooling for Pictet, Lombard Odier and Barclays. Geneva-based SEALSQ has acquired a majority equity stake in WeCan Group, liftin…",
+              "url": "https://thenextweb.com/news/sealsq-majority-wecan-post-quantum-ai-compliance/",
+              "source": "The Next Web",
+              "published": "2026-06-02T08:39:11Z",
+              "image": "https://media.thenextweb.com/2026/06/SEALSQ.avif"
             }
           ]
         },
@@ -292,6 +268,30 @@
           "title": "Hyperscalers",
           "icon": "☁️",
           "articles": [
+            {
+              "title": "Major NPM Supply Chain Attack: Hackers Infected Red Hat Packages, Steal Developer Keys",
+              "description": "We explain the new crypto criminals’ scheme and how to protect yourself and your cryptocurrencies from this attack.  Researchers from SlowMist and MistEye have discovered...\nThe post Major NPM Supply Chain Attack: Hackers Infected Red Hat Packages, Steal Deve…",
+              "url": "https://bitcoinfoundation.org/news/crimes-and-fraud-news/npm-supply-chain-attack/",
+              "source": "Bitcoinfoundation.org",
+              "published": "2026-06-02T10:20:31Z",
+              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/04/ChatGPT-Image-13-апр.-2026-г.-11_58_22-1-opt.webp"
+            },
+            {
+              "title": "AI vs Crypto Smart Contracts: Can AI Replace Code Auditors?",
+              "description": "Out of nowhere, AI slipped into smart contract safety checks. Suddenly, reviews speed up, costs drop, flaws get spotted by machines, while systems watch live...\nThe post AI vs Crypto Smart Contracts: Can AI Replace Code Auditors? appeared first on Bitcoin Fou…",
+              "url": "https://bitcoinfoundation.org/news/ai-news/ai-vs-crypto-smart-contracts-can-ai-replace-code-auditors/",
+              "source": "Bitcoinfoundation.org",
+              "published": "2026-06-01T19:19:03Z",
+              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/05/AI-audits1.webp"
+            },
+            {
+              "title": "GearChain Introduces No-Code Event Attendance Tracking with Real-Time Spreadsheet Sync",
+              "description": "SAN JOSE, Calif., June 1, 2026 /PRNewswire/ -- GearChain has launched its new no-code Event Attendance & Session Check-In Platform, helping organizations quickly build custom attendance and people-tracking workflows across mobile and web applications without …",
+              "url": "https://www.prnewswire.com/news-releases/gearchain-introduces-no-code-event-attendance-tracking-with-real-time-spreadsheet-sync-302786820.html",
+              "source": "PRNewswire",
+              "published": "2026-06-01T12:33:00Z",
+              "image": "https://mmx.prnewswire.com/media/MS1851177/GearChain_Event_Attendance_Tracking_App_Screen.jpg?id=OA2643544&p=facebook"
+            },
             {
               "title": "Circle Targets Post-Quantum Security In Bold USDC Roadmap",
               "description": "Users who fail to migrate their accounts before quantum computers become a practical threat would not automatically lose their assets under Circle’s new plan — the company is proposing recovery frameworks tied to cryptographic proofs, seed phrase verification…",
@@ -307,6 +307,14 @@
               "source": "CoinDesk",
               "published": "2026-05-30T15:00:00Z",
               "image": "https://cdn.sanity.io/images/s3y3vcno/production/128d9f398bbe864f843d89bdca5e598792f16885-1280x960.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
+            },
+            {
+              "title": "Crypto walked so banks could run",
+              "description": "The following is a guest post and opinion from Ben Nadareski, Co-founder & CEO of Solstice . Institutions were never going to arrive in crypto the way crypto wanted them to. No stampede into governance tokens. No CFO proudly announcing that idle treasury had …",
+              "url": "https://cryptoslate.com/crypto-walked-so-banks-could-run/",
+              "source": "CryptoSlate",
+              "published": "2026-05-30T13:15:46Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/05/wallst-crypto.jpg"
             }
           ]
         }
