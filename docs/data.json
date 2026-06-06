@@ -1,11 +1,27 @@
 {
-  "date": "June 05, 2026",
+  "date": "June 06, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "Bankless Co-Founder Reveals New Crypto Portfolio After Ethereum Sale",
+          "description": "Bankless co-founder David Hoffman has disclosed how he redeployed capital after selling ETH, revealing a new portfolio tilted toward VVV, NEAR, ZEC, HYPE and LIT. The move marks a notable shift for one of Ethereum’s most recognizable public advocates and has …",
+          "url": "http://www.newsbtc.com/news/bankless-co-founder-reveals-new-crypto-portfolio-after-ethereum-sale/",
+          "source": "newsBTC",
+          "published": "2026-06-04T15:00:15Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/ChatGPT-Image-4.-Juni-2026-13_40_03.png?fit=1222%2C687"
+        },
+        {
+          "title": "Not all Ethereum layer 2s are dying, but many general-purpose chains no longer have a reason to exist",
+          "description": "In this week's edition of The Protocol Newsletter, we're looking at the state of the Ethereum layer-2 ecosystem.",
+          "url": "https://www.coindesk.com/tech/2026/06/04/not-all-ethereum-layer-2s-are-dying-but-many-general-purpose-chains-no-longer-have-a-reason-to-exist",
+          "source": "CoinDesk",
+          "published": "2026-06-04T13:52:21Z",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/719d80685a3042ba9bd5e2ba263b4d995299e379-3840x2160.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
+        },
         {
           "title": "Starknet unveils Shieldnet for enhanced privacy in DeFi",
           "description": "Starknet's Shieldnet could redefine DeFi by prioritizing privacy, potentially reshaping user expectations and regulatory landscapes in crypto.\nThe post Starknet unveils Shieldnet for enhanced privacy in DeFi appeared first on Crypto Briefing.",
@@ -21,14 +37,6 @@
           "source": "The Punch",
           "published": "2026-06-03T17:04:26Z",
           "image": "https://cdn.punchng.com/wp-content/uploads/2026/06/03180945/key.webp"
-        },
-        {
-          "title": "Why Most AI-Generated Content Fails in Crypto Marketing",
-          "description": "Artificial intelligence has transformed content creation across industries. From blog posts and social media updates to email campaigns and market reports, AI tools can generate content at remarkable speed. In the crypto industry, where trends change overnigh…",
-          "url": "https://www.successful-blog.com/1/ai-generated-content-fails-in-crypto-marketing/",
-          "source": "Successful-blog.com",
-          "published": "2026-06-02T15:21:17Z",
-          "image": "https://www.successful-blog.com/wp-content/uploads/2026/06/AI-Generated-Content.webp"
         }
       ]
     },
@@ -37,6 +45,14 @@
       "icon": "🔐",
       "color": "#e6a200",
       "articles": [
+        {
+          "title": "Zcash Bug Could Have Let Attackers Print Cryptocurrency Out of Thin Air",
+          "description": "On Wednesday, the Zcash Foundation said there is “no evidence of unauthorized value creation.”",
+          "url": "https://gizmodo.com/zcash-bug-could-have-let-attackers-print-cryptocurrency-out-of-thin-air-2000767790",
+          "source": "Gizmodo.com",
+          "published": "2026-06-04T21:50:19Z",
+          "image": "https://gizmodo.com/app/uploads/2026/01/zcash-1200x675.jpg"
+        },
         {
           "title": "Zcash was rumored to have stopped working – then it became crypto’s only winner",
           "description": "Zcash became the subject of a brief market scare after block explorers appeared to show that the privacy-focused blockchain had stopped producing blocks for several hours. By the time developers and infrastructure providers pushed back on the claim, the marke…",
@@ -60,14 +76,6 @@
           "source": "Crypto Briefing",
           "published": "2026-06-03T15:33:16Z",
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/03113316/zcash-patches-critical-orchard-shielded-pool-vulnerability-i-1-800x420.jpeg"
-        },
-        {
-          "title": "Best Crypto Presales to Buy Now: 7 Early-Stage Tokens That Could Explode in June 2026",
-          "description": "The crypto presale market today looks radically different from previous cycles, with the meme narrative gradually yielding to themes of artificial intelligence, payment platforms, infrastructure...\nThe post Best Crypto Presales to Buy Now: 7 Early-Stage Token…",
-          "url": "https://bitcoinfoundation.org/news/altcoins/best-crypto-presales-to-buy-now/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-06-02T15:21:45Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/06/1-1780401500.webp"
         }
       ]
     },
@@ -77,68 +85,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "CoinEx Monthly | Derisking Above, Building Below",
-          "description": "In Brief  HONG KONG, June  04, 2026  (GLOBE NEWSWIRE) -- May was another month dominated by macro-driven risk reduction across crypto markets. Bitcoin...",
-          "url": "https://www.globenewswire.com/news-release/2026/06/04/3306558/0/en/CoinEx-Monthly-Derisking-Above-Building-Below.html",
-          "source": "GlobeNewswire",
-          "published": "2026-06-04T08:18:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/4821a3a4-7d2d-4416-bc39-475886a7b922"
+          "title": "XRP Price Prediction 2026: Is a Major Drop Coming for Ripple?",
+          "description": "The XRP price prediction 2026 has become one of the most urgent conversations in the altcoin space. Midway through 2026, XRP trades between $1.35 and...\nThe post XRP Price Prediction 2026: Is a Major Drop Coming for Ripple? appeared first on Bitcoin Foundatio…",
+          "url": "https://bitcoinfoundation.org/news/bitcoin/xrp-price-prediction-2026-is-a-major-drop-coming-for-ripple/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-06-05T08:25:12Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/05/xrp-1.webp"
         },
         {
-          "title": "The Wallet Effect: How Credit Unions Can Close the Digital Currency Access Gap",
-          "description": "Digital currency may still occupy the edge of mainstream finance, but for younger consumers, it is no longer unfamiliar territory. Millennials and Generation Z increasingly view cryptocurrency and stablecoin access as part of a broader digital financial exper…",
-          "url": "https://www.pymnts.com/tracker_posts/the-wallet-effect-how-credit-unions-can-close-the-digital-currency-access-gap/",
-          "source": "pymnts.com",
-          "published": "2026-06-04T08:00:51Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2026/05/How-Credit-Unions-Can-Close-the-Digital-Currency-Access-Gap-hero.jpg"
+          "title": "China Crypto Regulation: Why Bitcoin Is Effectively Banned in the World’s Largest Market",
+          "description": "Bitcoin faces a ban in mainland China, despite the country’s massive economy. China is home to top blockchain talent, and its influence on technology cannot...\nThe post China Crypto Regulation: Why Bitcoin Is Effectively Banned in the World’s Largest Market a…",
+          "url": "https://bitcoinfoundation.org/news/regulation/china-crypto-regulation-why-bitcoin-is-effectively-banned-in-the-worlds-largest-market/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-06-05T08:05:41Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/06/ChatGPT-Image-Jun-5-2026-11_07_11-AM.webp"
         },
         {
-          "title": "Goldman Sachs teams with Apex, Archax for tokenized real estate fund",
-          "description": "The fund combines blockchain native issuance with established fund structures.",
-          "url": "https://www.coindesk.com/business/2026/06/04/goldman-sachs-teams-with-apex-archax-for-tokenized-real-estate-fund",
-          "source": "CoinDesk",
-          "published": "2026-06-04T07:57:47Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/6e308fd5611b99a28681624fa86cfb997170605c-1500x879.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
-        },
-        {
-          "title": "JPMorgan Chase CEO Speaks Out Against Clarity Act, Says Banks Will Fight Bill in Upcoming Markup",
-          "description": "The CEO of financial services titan JPMorgan Chase says banks will fight back against the CLARITY Act, the landmark crypto bill that seeks to establish a regulatory framework for cryptocurrencies and digital assets in the US.  In a new interview, Jamie Dimon …",
-          "url": "https://dailyhodl.com/2026/06/04/jpmorgan-chase-ceo-speaks-out-against-clarity-act-says-banks-will-fight-bill-in-upcoming-markup/",
-          "source": "The Daily Hodl",
-          "published": "2026-06-04T07:01:50Z",
-          "image": "https://dailyhodl.com/wp-content/uploads/2024/07/break-altcoin-out-verge.jpg?resize=1366,800"
-        },
-        {
-          "title": "XRP Already Powers Real Banking Activity, Says Evernorth, With More Growth Expected",
-          "description": "Evernorth says daily activity on the XRP Ledger has climbed to nearly 3 million transactions, up from about 1 million in mid-2025, and the firm is now pointing to banks and other financial companies as the next source of demand. Real Banks Are Moving In Accor…",
-          "url": "http://www.newsbtc.com/news/xrp-already-powers-real-banking-activity-says-evernorth-with-more-growth-expected/",
-          "source": "newsBTC",
-          "published": "2026-06-04T05:30:18Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/a_2fb701.jpg?fit=3000%2C2000"
-        },
-        {
-          "title": "Blockchain Association Urges Senate To Pass CLARITY Act With Letter Backed By 160 Ex-Officials",
-          "description": "The Blockchain Association, one of the industry’s biggest advocacy groups, urged Senate leadership to move forward on the long-awaited CLARITY Act in a letter sent Tuesday to Senate Majority Leader John Thune and Senate Democratic Leader Chuck Schumer, signed…",
-          "url": "https://bitcoinist.com/blockchain-association-urges-senate-clarity-act/",
-          "source": "Bitcoinist",
-          "published": "2026-06-04T03:33:11Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/06/image_W7Srbqcr_1780543325992_raw.jpg"
-        },
-        {
-          "title": "Tether launches gold-backed stablecoin Visa card with Fasset, offers 6% cashback in XAUT",
-          "description": "The launch could revolutionize financial inclusion in emerging markets, leveraging gold's cultural value and enhancing digital asset utility.\nThe post Tether launches gold-backed stablecoin Visa card with Fasset, offers 6% cashback in XAUT appeared first on C…",
-          "url": "https://cryptobriefing.com/tether-gold-backed-visa-card-fasset/",
+          "title": "Federal Reserve Vice Chair Bowman testifies on banking supervision, signals pro-crypto regulatory shift",
+          "description": "The Fed's pro-crypto regulatory shift could foster innovation and stability in digital finance, impacting banks, investors, and stablecoin issuers.\nThe post Federal Reserve Vice Chair Bowman testifies on banking supervision, signals pro-crypto regulatory shif…",
+          "url": "https://cryptobriefing.com/fed-bowman-banking-supervision-crypto-regulation/",
           "source": "Crypto Briefing",
-          "published": "2026-06-04T02:41:41Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/03224140/tether-collaborates-with-fasset-to-launch-the-first-gold-bac-1-800x420.png"
+          "published": "2026-06-05T07:27:22Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/05032717/5-takeaways-from-michelle-bowman-on-innovation-de-banking-an-1-800x420.jpeg"
         },
         {
-          "title": "Ripple’s RLUSD Lands In Mastercard’s Stablecoin Settlement Expansion",
-          "description": "Mastercard is moving deeper into stablecoin infrastructure, adding Ripple’s RLUSD to a broader settlement expansion that will allow issuers and acquirers to settle card transactions through regulated digital assets alongside traditional fiat rails. The paymen…",
-          "url": "https://bitcoinist.com/ripple-rlusd-mastercard-stablecoin-expansion/",
-          "source": "Bitcoinist",
-          "published": "2026-06-04T00:00:36Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/06/ChatGPT-Image-3.-Juni-2026-12_15_22.png"
+          "title": "Senate Republicans push finance watchdogs to clarify crypto capital rules",
+          "description": "US Senate Republicans have called on financial regulators to clarify the capital treatment for crypto, and have taken issue with international banking standards for holding crypto.",
+          "url": "https://cointelegraph.com/news/senate-republicans-push-finance-regulators-to-clarify-crypto-capital-rules",
+          "source": "Cointelegraph",
+          "published": "2026-06-05T04:26:57Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/cynthia-lummis-portrait-1.jpg"
+        },
+        {
+          "title": "Big Banks Launch Tokenized Deposit Network to Fight Off Stablecoin Threat",
+          "description": "The largest U.S. banks are building their own blockchain payment network, a direct response to crypto firms that are pushing deeper into core banking territory under a crypto-friendly Trump administration. JPMorgan Chase, Bank of America, Citigroup, Wells Far…",
+          "url": "https://www.pymnts.com/blockchain/2026/big-banks-launch-tokenized-deposit-network-to-fight-off-stablecoin-threat/",
+          "source": "pymnts.com",
+          "published": "2026-06-05T01:49:16Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/06/Big-banks-Tokenized-Deposit1.jpg"
+        },
+        {
+          "title": "Canton Network Tops Fee Generator Rankings as Institutions Drive Q1 2026 Activity",
+          "description": "Canton Network captured 42% of crypto fees in Q1 2026 as institutional activity drove its rise to the top fee chain.",
+          "url": "https://beincrypto.com/canton-network-top-fee-chain-2026/",
+          "source": "BeInCrypto",
+          "published": "2026-06-04T23:00:00Z",
+          "image": "https://s.yimg.com/ny/api/res/1.2/ztVxKAXlVlZVfnCki7ULTA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/beincrypto_us_662/260a1b44d761ffcaafccfadf00c7164b"
+        },
+        {
+          "title": "Aptos powers a new stablecoin payment corridor between the Middle East and Africa",
+          "description": null,
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4b8ce6cb-dc5e-45d6-873a-06d6cd82adb3",
+          "source": "Yahoo Entertainment",
+          "published": "2026-06-04T22:10:49Z",
+          "image": null
+        },
+        {
+          "title": "Professional investors dumped 52K BTC worth of ETFs in Q1, filings show",
+          "description": "US spot Bitcoin ETF ownership shifted during the market downturn as hedge funds exited positions, while banks and long-term allocators continued building exposure.",
+          "url": "https://cointelegraph.com/news/bitcoin-etf-ownership-shifts-hedge-funds-sell-banks-buy-coinshares",
+          "source": "Cointelegraph",
+          "published": "2026-06-04T19:53:33Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-etf-infrastructure-investment2.jpg"
         }
       ]
     },
@@ -148,12 +156,36 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Hyperliquid Price Falls as Arthur Hayes Dumps HYPE, NEAR",
-          "description": "Hyperliquid price fell 7% after Arthur Hayes said he dumped his entire HYPE and NEAR holdings, days after betting on HYPE against SOL. Arthur Hayes...\nThe post Hyperliquid Price Falls as Arthur Hayes Dumps HYPE, NEAR appeared first on Bitcoin Foundation.",
-          "url": "https://bitcoinfoundation.org/news/altcoins/hyperliquid-price-falls-as-arthur-hayes-dumps-hype-near/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-06-04T09:12:49Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/04/ChatGPT-Image-30-апр.-2026-г.-14_24_14-1.webp"
+          "title": "'Looksmaxxing' Trend Spawns $100M Gray Market Fueled By Bitcoin, Stablecoins: Chainalysis",
+          "description": "Demand for peptides fueled by the \"looksmaxxing\" trend has spawned a $100 million gray market paid for primarily with crypto.",
+          "url": "https://decrypt.co/370078/looksmaxxing-trend-100m-gray-market-bitcoin-stablecoins-chainalysis",
+          "source": "Decrypt",
+          "published": "2026-06-04T19:54:29Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/ai-decrypt-style-08-gID_7.png"
+        },
+        {
+          "title": "ChangeNOW Named Best Digital Assets Fintech at the BeInCrypto Institutional 100 Awards 2026",
+          "description": "ChangeNOW, a non-custodial crypto management platform offering a full suite of B2B solutions for businesses in the digital asset space, has been named “Best Digital Assets Fintech” at the BeInCrypto x Proof of Talk Institutional 100 Awards 2026. The award was…",
+          "url": "https://zycrypto.com/changenow-named-best-digital-assets-fintech-at-the-beincrypto-institutional-100-awards-2026/",
+          "source": "ZyCrypto",
+          "published": "2026-06-04T16:21:15Z",
+          "image": "https://zycrypto.com/wp-content/uploads/2026/06/unnamed-56.jpg"
+        },
+        {
+          "title": "ChangeNOW Wins Best Digital Assets Fintech at the BeInCrypto Institutional 100 Awards 2026",
+          "description": "KINGSTOWN, St. Vincent and the Grenadines, 4th June 2026, Chainwire\nThe post ChangeNOW Wins Best Digital Assets Fintech at the BeInCrypto Institutional 100 Awards 2026 appeared first on The Daily Hodl.",
+          "url": "https://dailyhodl.com/2026/06/04/changenow-wins-best-digital-assets-fintech-at-the-beincrypto-institutional-100-awards-2026/",
+          "source": "The Daily Hodl",
+          "published": "2026-06-04T15:11:36Z",
+          "image": "https://dailyhodl.com/wp-content/uploads/2026/06/Frame_1261154584_2_1780579619pWdkcrbo0D.jpg?resize=1730,1152"
+        },
+        {
+          "title": "Automotive Blockchain Market Size to Worth $9.13 Billion by 2035 | Research by SNS Insider",
+          "description": "Automotive Blockchain Market Size, Share, Revenue Trends & Segment by Application, End User, Blockchain Type, Mobility Model, Vehicle Type & Forecast 2035.",
+          "url": "https://www.globenewswire.com/news-release/2026/06/04/3306658/0/en/Automotive-Blockchain-Market-Size-to-Worth-9-13-Billion-by-2035-Research-by-SNS-Insider.html",
+          "source": "GlobeNewswire",
+          "published": "2026-06-04T11:30:00Z",
+          "image": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2"
         },
         {
           "title": "SEC’s 2026–2030 Plan Puts Crypto At The Center Of Its Regulatory Agenda",
@@ -164,14 +196,6 @@
           "image": "https://bitcoinist.com/wp-content/uploads/2026/06/image_ojSHOAYK_1780501795994_raw.jpg"
         },
         {
-          "title": "Stablecoins Are Just Wildcat Banking With Better Wi-Fi",
-          "description": "The debate around stablecoins often gets framed as though finance has stumbled into unprecedented territory. Silicon Valley talks about programmable dollars, Washington worries about digital bank runs and crypto advocates promise faster payments while skeptic…",
-          "url": "https://www.pymnts.com/news/payments-innovation/2026/stablecoins-are-just-wildcat-banking-with-better-wi-fi/",
-          "source": "pymnts.com",
-          "published": "2026-06-03T21:11:24Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2025/04/stablecoins-money.png"
-        },
-        {
           "title": "[Latest] Supply Chain Management (SCM) Market Size Will Attain USD 91.83 Billion by 2034 Registering a Promising CAGR of 12.48% - Exclusive Report by ZMR | Global Supply Chain Management (SCM) Market Size, Share, Trends Analysis Report",
           "description": "Supply chain management (SCM) market size is projected to reach USD 91.83 billion by 2034 from its value of USD 31.84 billion in 2024, at a CAGR of 12.48%...",
           "url": "https://www.globenewswire.com/news-release/2026/06/03/3305946/0/en/Latest-Supply-Chain-Management-SCM-Market-Size-Will-Attain-USD-91-83-Billion-by-2034-Registering-a-Promising-CAGR-of-12-48-Exclusive-Report-by-ZMR-Global-Supply-Chain-Management-SC.html",
@@ -180,36 +204,20 @@
           "image": "https://ml.globenewswire.com/Resource/Download/1f4cf0ab-7d76-4136-a6dc-a5545f80f538"
         },
         {
+          "title": "US SEC Names Digital Assets a Strategic Priority",
+          "description": "US authorities have stated that cryptocurrencies will be a major national priority for the next four years.  The US Securities and Exchange Commission has released...\nThe post US SEC Names Digital Assets a Strategic Priority appeared first on Bitcoin Foundati…",
+          "url": "https://bitcoinfoundation.org/news/regulation/us-sec-prioritises-crypto/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-06-03T09:36:02Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/04/ChatGPT-Image-7-апр.-2026-г.-15_44_44-1-opt.webp"
+        },
+        {
           "title": "BeInCrypto Institutional Research: 20 Biggest Capital Markets & Infrastructure for Digital Assets",
           "description": "BeInCrypto Institutional 100 reveals 20 shortlisted firms shaping institutional crypto through asset management, trading infrastructure, liquidity, custody, ...",
           "url": "https://beincrypto.com/beincrypto-institutional-awards-capital-markets-infrastructure/",
           "source": "BeInCrypto",
           "published": "2026-06-03T08:56:20Z",
           "image": "https://s.yimg.com/ny/api/res/1.2/RRBY0U7je0puDVdBw5tekw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/beincrypto_us_662/cd59ad86f2efee63f0b336ba431cb2a9"
-        },
-        {
-          "title": "Ledger vs Trezor: Which Hardware Wallet Is Better?",
-          "description": "The Ledger vs Trezor debate has continued for years because both brands solve the same core problem: keeping crypto wallet private keys safe. When coins...\nThe post Ledger vs Trezor: Which Hardware Wallet Is Better? appeared first on Bitcoin Foundation.",
-          "url": "https://bitcoinfoundation.org/news/opinion/ledger-vs-trezor-which-hardware-wallet-is-better/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-06-02T21:47:14Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/06/lt-1.webp"
-        },
-        {
-          "title": "BeInCrypto Institutional 100: Top 20 Firms Bridging Retail Users to Crypto",
-          "description": "BeInCrypto Institutional 100 reveals 20 shortlisted firms bringing retail users into crypto through neobanks, fintechs, brokers, onramps, and prediction...",
-          "url": "https://beincrypto.com/beincrypto-institutional-awards-retail-to-crypto-bridge-shortlist-2026/",
-          "source": "BeInCrypto",
-          "published": "2026-06-02T17:52:12Z",
-          "image": "https://s.yimg.com/ny/api/res/1.2/yFuJPoZ4kB6l5PCHpDnNjA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/beincrypto_us_662/2ccbe189ac2f0d78207368d457c8492b"
-        },
-        {
-          "title": "BeInCrypto Institutional 100: Top 12 Enterprise Blockchain Firms Leading Digital Asset Adoption",
-          "description": null,
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e22e4c37-8738-4bec-9918-dbf3acc2f46e",
-          "source": "Yahoo Entertainment",
-          "published": "2026-06-02T17:39:34Z",
-          "image": null
         }
       ]
     },
@@ -223,20 +231,20 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Strategy’s Model: BitMine Launches $300M Preferred Stock to Fund Ethereum Purchases",
-              "description": "Tom Lee’s company has decided to follow Strategy’s model, using preferred shares to finance Ethereum acquisitions.  The largest corporate holder of Ethereum (ETH), BitMine Immersion...\nThe post Strategy’s Model: BitMine Launches $300M Preferred Stock to Fund …",
-              "url": "https://bitcoinfoundation.org/news/crypto-companies-news/bitmine-preferred-stocks/",
-              "source": "Bitcoinfoundation.org",
-              "published": "2026-06-04T09:07:53Z",
-              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/06/ChatGPT-Image-4-июн.-2026-г.-11_52_59-1.webp"
+              "title": "Crypto billionaires bankroll Nigel Farage's pro-crypto party",
+              "description": "Tether-linked billionaire Christopher Harborne and BitMEX co-founder Ben Delo donated $9.4 million to Nigel Farage’s Reform UK in the first quarter.",
+              "url": "https://cointelegraph.com/news/crypto-billionaires-bankroll-reform-uk-more-than-other-parties",
+              "source": "Cointelegraph",
+              "published": "2026-06-05T07:02:59Z",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/hi-fundraising-101-a-beginners-guide-on-raising-funds-using-cryptocurrencies-uk.jpg"
             },
             {
-              "title": "A 180% crypto rally shows new investing era as Bitcoin melts",
-              "description": "Money is moving from Bitcoin and Ether funds to crypto assets with a direct link to economic activity. The HYPE token, tied to the Hyperliquid exchange, is seeing record gains. This shift indicates investors are seeking tangible value beyond speculation. New …",
-              "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/a-180-crypto-rally-shows-new-investing-era-as-bitcoin-melts/articleshow/131497419.cms",
-              "source": "The Times of India",
-              "published": "2026-06-04T05:39:55Z",
-              "image": "https://img.etimg.com/thumb/msid-131497481,width-1200,height-630,imgsize-67020,overlay-etmarkets/articleshow.jpg"
+              "title": "I bought peptides with crypto. How my purchase helped fuel a $100 million gray-market, ‘looksmaxxing’ economy",
+              "description": "Some of the China-based sellers have pivoted from fentanyl to peptides.",
+              "url": "https://fortune.com/2026/06/04/peptides-crypto-looksmaxxing-economy-chainalysis-report-100-million/",
+              "source": "Fortune",
+              "published": "2026-06-04T14:00:00Z",
+              "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/DSC00473-2-e1780574911802.jpg?resize=1200,600"
             }
           ]
         },
@@ -245,36 +253,44 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "DoJ Disrupts Southeast Asia Crypto Fraud Networks, Freezes $3.8 Million in Assets",
-              "description": "The U.S. Department of Justice (DoJ) on Wednesday announced the results of a sweeping action undertaken by government authorities and private sector companies to combat cyber-enabled and cryptocurrency fraud targeting Americans.\n\nThe \"Disruption Week\" operati…",
-              "url": "https://thehackernews.com/2026/06/doj-disrupts-southeast-asia-crypto.html",
-              "source": "Internet",
-              "published": "2026-06-04T06:06:25Z",
-              "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTf5wAHnoXtVauiln2MwlVvLc4LxcL8SBTLuW648LfFhUd8QyuOUfjmg0Hd91QlksmWF2u-PQhxHDTDmseMIG64V4Fo2I2lXXGO1o0BncbL_UTeBrGztErg66yXAm0trYlWxqGbE-sKb5VjXjqeyNiCMkxbdcxwX1BDRGexhP-b0s3dZl0lNRpY9u6nsTQ/s1700-e365/police-crypto.jpg"
-            },
-            {
-              "title": "Coinbase freezes $3M tied to Southeast Asia crypto fraud networks",
-              "description": "Tech firms and global law enforcement have disrupted scam networks in Southeast Asia, frozen millions in crypto and targeted over 1.4 million fraudulent accounts.",
-              "url": "https://cointelegraph.com/news/tech-fbi-crypto-scam-crackdown-southeast-asia",
+              "title": "Strategy’s leveraged Bitcoin model has faced its first stress test: Grayscale",
+              "description": "“Less Bitcoin on levered DAT balance sheets and more on diversified corporate balance sheets will be a positive,” said Grayscale’s head of research, Zach Pandl.",
+              "url": "https://cointelegraph.com/news/strategys-leveraged-bitcoin-model-faces-first-stress-test-grayscale",
               "source": "Cointelegraph",
-              "published": "2026-06-04T05:14:31Z",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/hi-banks-and-blockchain.jpeg"
+              "published": "2026-06-05T07:00:55Z",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-trading-basics-a-beginners-guide-to-cryptocurrency-order-types1-2.jpg"
             },
             {
-              "title": "BlockchAIn Appoints Former Vantage / HP Data Center Leader Nicholas Ukachi to Join Amazon Veteran-Led Team Advancing AI Data Center Construction Execution",
-              "description": "BlockchAIn Appoints Former Vantage / HP Data Center Leader Nicholas Ukachi to Join Amazon Veteran-Led Team Advancing AI Data Center Construction Execution...",
-              "url": "https://www.globenewswire.com/news-release/2026/06/01/3304557/0/en/BlockchAIn-Appoints-Former-Vantage-HP-Data-Center-Leader-Nicholas-Ukachi-to-Join-Amazon-Veteran-Led-Team-Advancing-AI-Data-Center-Construction-Execution.html",
-              "source": "GlobeNewswire",
-              "published": "2026-06-01T15:44:00Z",
-              "image": "https://ml.globenewswire.com/Resource/Download/94b53111-09c3-494f-97f0-3d7a05d435d2"
-            },
-            {
-              "title": "Circle Targets Post-Quantum Security In Bold USDC Roadmap",
-              "description": "Users who fail to migrate their accounts before quantum computers become a practical threat would not automatically lose their assets under Circle’s new plan — the company is proposing recovery frameworks tied to cryptographic proofs, seed phrase verification…",
-              "url": "https://bitcoinist.com/circle-targets-post-quantum-security-in-bold-usdc-roadmap/",
+              "title": "Coinbase Targets Crypto Crime, Freezing $3M Linked To Scam Operations",
+              "description": "Coinbase moved to freeze more than $3 million in crypto linked to scam networks operating across Southeast Asia, a move that came as US authorities and private firms widened a joint campaign against fraud rings that have drained billions from Americans. The f…",
+              "url": "https://bitcoinist.com/coinbase-targets-crypto-crime-freezing-3m-linked-to-scam-operations/",
               "source": "Bitcoinist",
-              "published": "2026-06-01T01:00:19Z",
-              "image": "https://bitcoinist.com/wp-content/uploads/2026/05/a_090663.avif"
+              "published": "2026-06-05T04:00:57Z",
+              "image": "https://bitcoinist.com/wp-content/uploads/2026/06/Gemini_Generated_Image_65y2qd65y2qd65y2.png"
+            },
+            {
+              "title": "Microsoft’s Quantum Breakthrough Brings Bitcoin Security Threat Closer",
+              "description": "Tech giant Microsoft has unveiled Majorana 2, a topological quantum chip that has sent shivers down the crypto community. The new release could potentially hasten the Q-day timeline for digital asset holders. AI Boosts Quantum Computing Drive  Microsoft has l…",
+              "url": "https://zycrypto.com/microsofts-quantum-breakthrough-brings-bitcoin-security-threat-closer/",
+              "source": "ZyCrypto",
+              "published": "2026-06-04T17:00:52Z",
+              "image": "https://zycrypto.com/wp-content/uploads/2026/03/Bitcoin-In-Trouble-—-Google-Says-Quantum-Computers-Could-Break-Encryption-Protocols-In-3-Years.jpg"
+            },
+            {
+              "title": "Virtuals Protocol Migrates $700M+ VIRTUAL Token from LayerZero to Chainlink CCIP To Enable Secure Cross-Chain Payments for AI Agents",
+              "description": "After the $292 million LayerZero-related exploit, Virtuals carefully reviewed its existing solution and decided to migrate from LayerZero to Chainlink CCIP to harden the security for its core agent infrastructure and expand the distribution of VIRTUAL across …",
+              "url": "https://www.prnewswire.com/news-releases/virtuals-protocol-migrates-700m-virtual-token-from-layerzero-to-chainlink-ccip-to-enable-secure-cross-chain-payments-for-ai-agents-302790918.html",
+              "source": "PRNewswire",
+              "published": "2026-06-04T13:00:00Z",
+              "image": "https://mmx.prnewswire.com/media/MS1854887/Virtuals_Announcement_Banner.jpg?id=OA2659404&p=facebook"
+            },
+            {
+              "title": "Bitget Rolls Out Stocks 2.0, Linking Tokenized Equities to Real U.S. Market Liquidity",
+              "description": "Bitget unveils Stocks 2.0 with real market liquidity, 1:1 asset mapping, and expanded utility for tokenized equities....",
+              "url": "https://www.globenewswire.com/news-release/2026/06/04/3306598/0/en/Bitget-Rolls-Out-Stocks-2-0-Linking-Tokenized-Equities-to-Real-U-S-Market-Liquidity.html",
+              "source": "GlobeNewswire",
+              "published": "2026-06-04T10:00:00Z",
+              "image": "https://ml-eu.globenewswire.com/Resource/Download/20237cbc-c3c7-4f0a-a457-5336efc955d2"
             }
           ]
         }
