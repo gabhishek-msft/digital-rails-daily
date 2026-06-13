@@ -1,5 +1,5 @@
 {
-  "date": "June 12, 2026",
+  "date": "June 13, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -7,12 +7,12 @@
       "color": "#ffb900",
       "articles": [
         {
-          "title": "UK surveillance laws face US scrutiny over Apple backdoor demand",
-          "description": "US scrutiny of UK surveillance laws could reshape global tech privacy standards, impacting encryption trust and international data-sharing.\nThe post UK surveillance laws face US scrutiny over Apple backdoor demand appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/uk-surveillance-apple-backdoor-crypto/",
+          "title": "EIP-8182 proposed for Hegotá hard fork to enable privacy transfers on Ethereum",
+          "description": "EIP-8182 could redefine Ethereum's privacy landscape, challenging regulatory norms and enhancing user anonymity at the protocol level.\nThe post EIP-8182 proposed for Hegotá hard fork to enable privacy transfers on Ethereum appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/eip-8182-ethereum-hegota-privacy-transfers/",
           "source": "Crypto Briefing",
-          "published": "2026-06-11T00:43:09Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/10204301/u-k-backs-down-over-backdoor-access-to-worldwide-apple-user--800x420.jpeg"
+          "published": "2026-06-11T16:13:13Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/11121305/ethereum-privacy-proposal-eip-8182-added-as-candidate-for-he-800x420.jpeg"
         },
         {
           "title": "Best Smart Wallets 2026: Safe, Argent, Coinbase Smart Wallets Ranked for Security and Ease of Use",
@@ -55,20 +55,20 @@
           "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-significance-of-privacy-in-web3.jpg"
         },
         {
-          "title": "Hoskinson Claims Cardano Can Surpass Bitcoin By Solving Crypto’s Trust Problem",
-          "description": "Charles Hoskinson says Cardano is not merely competing for crypto market share, but for a much larger role: becoming the infrastructure layer for global trust. In a June 8 livestream titled “Why Cardano is the only Ecosystem that can run the world,” the Carda…",
-          "url": "https://bitcoinist.com/hoskinson-cardano-surpass-bitcoin-trust-problem/",
-          "source": "Bitcoinist",
-          "published": "2026-06-09T10:00:57Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/06/ChatGPT-Image-9.-Juni-2026-09_26_02.png"
-        },
-        {
           "title": "U.S. inflation, European Central Bank rate decision: Crypto Week Ahead",
           "description": "Your look at what's coming in the week starting June 8.",
           "url": "https://www.coindesk.com/markets/2026/06/08/u-s-inflation-european-central-bank-rate-decision-crypto-week-ahead",
           "source": "CoinDesk",
           "published": "2026-06-08T09:46:21Z",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/0ee5eca8e4dbb143c3fbd6418fa5bfc8c12f0469-1600x977.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
+        },
+        {
+          "title": "Quantum Resistance Was Crypto’s Hottest Sector During the May Selloff",
+          "description": "Quantum-resistant tokens outpaced Bitcoin in May as Zcash rallied past Cardano and readied quantum-recoverable wallets.",
+          "url": "https://beincrypto.com/quantum-resistant-crypto-may-selloff/",
+          "source": "BeInCrypto",
+          "published": "2026-06-08T09:05:04Z",
+          "image": "https://s.yimg.com/ny/api/res/1.2/ohZz3LGz8kdcdVAKl6Nt4A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/beincrypto_us_662/ff78b93de2f08b4c08ab0c822c3fa42d"
         }
       ]
     },
@@ -77,6 +77,14 @@
       "icon": "🔐",
       "color": "#e6a200",
       "articles": [
+        {
+          "title": "Ethereum Brings Back Privacy With pERC‑20 as Tom Lee’s Bitmine Buys 125K ETH in Three Days",
+          "description": "Ethereum developers are discussing a new token standard called pERC‑20. It would let users hold and transfer tokens without publicly revealing balances, transaction amounts, or...\nThe post Ethereum Brings Back Privacy With pERC‑20 as Tom Lee’s Bitmine Buys 12…",
+          "url": "https://bitcoinfoundation.org/news/ethereum/ethereum-privacy/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-06-11T11:02:33Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/05/ethereum-eth.webp"
+        },
         {
           "title": "Restoring Crypto Privacy: ZCASH (ZEC) Makes A Move After 50% Crash",
           "description": "Zcash (ZEC) is making a push to restore confidence in its privacy-focused network after a major exploit scare triggered a sharp market selloff. Following a more than 50% price crash in ZEC, developers moved quickly to patch the network vulnerability. They are…",
@@ -110,20 +118,20 @@
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/10113313/ethereum-cofounder-joe-lubin-talks-trump-blockchain-s-franke-800x420.jpeg"
         },
         {
-          "title": "Crypto Promoters Say Blockchain Is the Future of AI. Researchers Aren’t Buying It",
-          "description": "Is crypto really the secret sauce that AI is missing?",
-          "url": "https://gizmodo.com/crypto-promoters-say-blockchain-is-the-future-of-ai-researchers-arent-buying-it-2000769680",
-          "source": "Gizmodo.com",
-          "published": "2026-06-10T12:10:43Z",
-          "image": "https://gizmodo.com/app/uploads/2026/03/robot-hodling-bitcoin-1200x675.jpg"
-        },
-        {
           "title": "Humanity Protocol Loses $36M After Private Keys 'Compromised,' Token Crashes 73%",
           "description": "The decentralized identity protocol said a compromised employee's laptop let attackers seize its bridges and mint tokens at will.",
           "url": "https://decrypt.co/370485/humanity-protocol-loses-36m-after-private-keys-compromised-token-crashes-73",
           "source": "Decrypt",
           "published": "2026-06-09T10:54:37Z",
           "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/hacker3-gID_7.png"
+        },
+        {
+          "title": "Hoskinson Claims Cardano Can Surpass Bitcoin By Solving Crypto’s Trust Problem",
+          "description": "Charles Hoskinson says Cardano is not merely competing for crypto market share, but for a much larger role: becoming the infrastructure layer for global trust. In a June 8 livestream titled “Why Cardano is the only Ecosystem that can run the world,” the Carda…",
+          "url": "https://bitcoinist.com/hoskinson-cardano-surpass-bitcoin-trust-problem/",
+          "source": "Bitcoinist",
+          "published": "2026-06-09T10:00:57Z",
+          "image": "https://bitcoinist.com/wp-content/uploads/2026/06/ChatGPT-Image-9.-Juni-2026-09_26_02.png"
         },
         {
           "title": "Critical Zcash Vulnerability Found and Fixed",
@@ -141,68 +149,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Record Institutional Bitcoin Selling Now Exceeds Miner Output By 460%",
-          "description": "Institutional selling in the Bitcoin market has reached a new record, with massive entities shedding supply equal to 460% of the daily mining output. Bitcoin Institutions Have Taken To Notable Net Selling As explained by Capriole Investments founder Charles E…",
-          "url": "https://bitcoinist.com/record-institutional-bitcoin-selling-miner-460/",
-          "source": "Bitcoinist",
-          "published": "2026-06-11T10:00:09Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/06/btc_2d6de0.png"
+          "title": "Bybit Named to Fortune Crypto 100 as It Accelerates Its Vision for The New Financial Platform",
+          "description": "Dubai, UAE, 12th June 2026, Chainwire\nThe post Bybit Named to Fortune Crypto 100 as It Accelerates Its Vision for The New Financial Platform appeared first on The Daily Hodl.",
+          "url": "https://dailyhodl.com/2026/06/12/bybit-named-to-fortune-crypto-100-as-it-accelerates-its-vision-for-the-new-financial-platform/",
+          "source": "The Daily Hodl",
+          "published": "2026-06-12T07:45:30Z",
+          "image": "https://dailyhodl.com/wp-content/uploads/2026/06/Bybit_2026_logo_1781249590WaNPCm8n6Q.jpeg?resize=1600,900"
         },
         {
-          "title": "Fortune Launches Inaugural Fortune Crypto 100, Ranking the Most Influential Companies and Protocols in the Global Digital Asset Ecosystem",
-          "description": "The Fortune Crypto 100 highlights leaders across 10 categories spanning traditional finance, decentralized finance, venture capital, mining, stablecoins, DATs and ETFs, and more. The ranking recognizes both crypto-native leaders and traditional financial inst…",
-          "url": "https://www.prnewswire.com/news-releases/fortune-launches-inaugural-fortune-crypto-100-ranking-the-most-influential-companies-and-protocols-in-the-global-digital-asset-ecosystem-302797425.html",
-          "source": "PRNewswire",
-          "published": "2026-06-11T10:00:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS1463238/Fortune_Media_Logo.jpg?id=OA2696366&p=facebook"
-        },
-        {
-          "title": "Bitcoin is less than 10,000 blocks away from its most contentious fork fight in years",
-          "description": "Bitcoin is approaching a deadline that could turn one of its longest-running arguments into the network’s most serious governance fight in years. At the center of the dispute is Bitcoin Improvement Proposal 110 (BIP-110), a proposed change that would restrict…",
-          "url": "https://cryptoslate.com/bitcoin-is-less-than-10000-blocks-away-from-its-most-contentious-fork-fight-in-years/",
-          "source": "CryptoSlate",
-          "published": "2026-06-11T09:00:15Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/06/bitcoin-contentious-fork.jpg"
-        },
-        {
-          "title": "BlackRock's income-paying bitcoin ETF nears launch at a fee that undercuts rivals",
-          "description": "The iShares Bitcoin Premium Income ETF makes money by selling call options on BlackRock's own IBIT.",
-          "url": "https://www.coindesk.com/markets/2026/06/11/blackrock-s-income-paying-bitcoin-etf-nears-launch-at-a-fee-that-undercuts-rivals",
+          "title": "XRP jumps 3% above $1.14 as institutional buying meets key resistance test",
+          "description": "XRP posted its strongest session in days on a sharp volume surge, though traders remain focused on whether the rally can break a longer-term downtrend that still points lower.",
+          "url": "https://www.coindesk.com/markets/2026/06/12/xrp-jumps-3-above-usd1-14-as-institutional-buying-meets-key-resistance-test",
           "source": "CoinDesk",
-          "published": "2026-06-11T08:59:29Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/5eda3f2941b1af76c37db38c8f034e356c2c36d0-5196x3464.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
+          "published": "2026-06-12T06:38:32Z",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/a4f31c3282961c3b1d2bf69e6d46cd8046751e05-1194x722.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
         },
         {
-          "title": "BTX Unveils \"Intelligent Data Matrix\" to Revolutionize RWA through Indonesia-Korea Synergy",
-          "description": "- Integrating AI and Web3 to establish institutional-grade blockchain infrastructure - Strategic 0% transfer fee policy to stimulate a hyper-connected digital economy",
-          "url": "https://www.globenewswire.com/news-release/2026/06/11/3310236/0/en/BTX-Unveils-Intelligent-Data-Matrix-to-Revolutionize-RWA-through-Indonesia-Korea-Synergy.html",
-          "source": "GlobeNewswire",
-          "published": "2026-06-11T08:31:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/c221e5e6-1e31-4919-bbf9-52967b80f12f"
-        },
-        {
-          "title": "Japan’s Largest Banks Eye FY2026 Stablecoin Rollout Amid Regulatory Push",
-          "description": "As Japanese financial authorities push to expand the yen-based digital asset market, three megabanks have advanced their joint stablecoin plans by establishing a council to develop the framework for issuing the token this fiscal year. Related Reading: Japan’s…",
-          "url": "https://bitcoinist.com/japan-banks-eye-fy2026-stablecoin-rollout-push/",
-          "source": "Bitcoinist",
-          "published": "2026-06-11T08:00:51Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/05/hayashi-kanna-VJKlbah0kh4-unsplash.jpg"
-        },
-        {
-          "title": "Orbital unveils plans for US expansion as demand grows for stablecoin and cross-border payment infrastructure",
-          "description": "A Miami base will support US institutions building global stablecoin and multi-currency payment rails LONDON, TAALLINN, Estonia and GIBRALTAR , June 11, 2026 /PRNewswire/ -- Orbital, a global payment orchestration platform across digital assets (including sta…",
-          "url": "https://www.prnewswire.com/news-releases/orbital-unveils-plans-for-us-expansion-as-demand-grows-for-stablecoin-and-cross-border-payment-infrastructure-302796563.html",
+          "title": "Binance Exchange Launches bStocks Tokenized Securities: 1:1 Backing and 24/7 Trading",
+          "description": "ABU DHABI, UAE, June 12, 2026 /PRNewswire/ -- Binance Exchange has announced the admission to trading of bStocks, fully-backed tokenized securities representing select U.S. stocks issued by BTech Holdings Limited, a Binance group affiliate (\"Issuer\"). Eligibl…",
+          "url": "https://www.prnewswire.com/news-releases/binance-exchange-launches-bstocks-tokenized-securities-11-backing-and-247-trading-302798876.html",
           "source": "PRNewswire",
-          "published": "2026-06-11T08:00:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS1690753/Orbital-Logo.jpg?id=OA2695475&p=facebook"
+          "published": "2026-06-12T06:17:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS1337864/Binance-Logo-Yellow-4x_Logo.jpg?id=OA2699785&p=facebook"
         },
         {
-          "title": "Archax introduces real-time yield payments for tokenized securities on Hedera",
-          "description": "The UK-regulated digital asset platform said its new system allows interest payments to follow tokenized securities in real time, with payouts distributed continuously in USDC.",
-          "url": "https://cointelegraph.com/news/archax-launches-real-time-yield-payments-for-tokenized-securities-on-hedera",
-          "source": "Cointelegraph",
-          "published": "2026-06-11T07:00:00Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-234313-georgia-blockchain-land-registry-tokenized-real-estate-hedera.jpg"
+          "title": "Coinbase Exec: Institutional Buyers Seen Acquiring Bitcoin Amid Price Plunge",
+          "description": "Bitcoin fell below $60,000 on Monday, June 8 – reaching as low as $59,099, according to market data. The decline represents a drop of more than 50% from the cryptocurrency’s all-time high near $126,000 reached in October 2025. But John D’Agostino, Coinbase’s …",
+          "url": "https://www.naturalnews.com/2026-06-12-coinbase-exec-institutional-buyers-seen-acquiring-bitcoin.html",
+          "source": "Naturalnews.com",
+          "published": "2026-06-12T06:00:00Z",
+          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/bitcoin-price-decline-institutional-investors-1979-original.jpg"
+        },
+        {
+          "title": "Vantage Secures Position on the Fortune Crypto Innovators List, Highlighting Cross-Market Trading Innovation",
+          "description": "PORT VILA, Vanuatu, June 12, 2026 /PRNewswire/ -- Vantage, a global multi-asset broker for CFD trading, announced its inclusion on the Fortune Crypto Innovators list. Selected independently by Fortune's editorial department based on its editorial criteria, th…",
+          "url": "https://www.prnewswire.co.uk/news-releases/vantage-secures-position-on-the-fortune-crypto-innovators-list-highlighting-cross-market-trading-innovation-302798766.html",
+          "source": "PR Newswire UK",
+          "published": "2026-06-12T02:58:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS1862325/c5fb8b28a26a4549b45ffe3acf95c30a.jpg?id=OA2699531&p=facebook"
+        },
+        {
+          "title": "Nobody Told the ERP That Blockchain Won",
+          "description": "Blockchain finance has spent years making the inevitable seem imminent. This week, industry insiders raised the stakes further, predicting that Wall Street will operate solely on blockchain technology in under five years. The logic tracks: Once assets are dig…",
+          "url": "https://www.pymnts.com/blockchain/2026/nobody-told-the-erp-that-blockchain-won/",
+          "source": "pymnts.com",
+          "published": "2026-06-11T21:28:00Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/06/blockchain-settlement-1.jpg"
+        },
+        {
+          "title": "Ripple CEO Takes Aim at JPMorgan's Jamie Dimon Over Clarity Act Crypto Bill Criticism",
+          "description": "Ripple's Brad Garlinghouse spoke out against JPMorgan CEO Jamie Dimon and his comments on the key piece of crypto legislation.",
+          "url": "https://decrypt.co/370840/ripple-ceo-takes-aim-jpmorgan-jamie-dimon-clarity-act-comments",
+          "source": "Decrypt",
+          "published": "2026-06-11T20:44:14Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/brad-garlinghouse-xrp-ripple-decrypt-style-2-scaled-gID_7.jpg"
+        },
+        {
+          "title": "Citigroup Expands Access to Private Markets With Tokenized Depositary Receipts",
+          "description": "Citigroup launched tokenized depositary receipts that are designed to broaden access to private markets. The new Digital Depositary Receipts on private shares provide investors with direct access to private companies’ equity through a familiar investment stru…",
+          "url": "https://www.pymnts.com/blockchain/2026/citigroup-expands-access-private-markets-with-tokenized-depository-receipts/",
+          "source": "pymnts.com",
+          "published": "2026-06-11T16:49:35Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/01/Citigroup.jpeg"
         }
       ]
     },
@@ -212,20 +220,36 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Lenders want AI to turn months of private-credit paperwork into one-day on-chain loans",
-          "description": "The $650 million equipment-finance target gives RWAs a real-economy use case, but loan performance will still depend on underwriting, collateral, servicing, and investor liquidity.\nThe post Lenders want AI to turn months of private-credit paperwork into one-d…",
-          "url": "https://cryptoslate.com/a-lender-wants-ai-to-turn-months-of-private-credit-paperwork-into-one-day-on-chain-loans/",
-          "source": "CryptoSlate",
-          "published": "2026-06-11T07:00:33Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/06/ai-lending.jpg"
+          "title": "From Drake's Bitcoin Bets to a $100 Million Streamer: How the Online Crypto Casino Took Over Celebrity Culture",
+          "description": "Hollywood used to flash watches and courtside seats. Somewhere around 2022, the flex changed currency.",
+          "url": "https://radaronline.com/p/from-drakes-bitcoin-bets-to-a-100-million-streamer-how-the-online-crypto-casino-took-over-celebrity-culture/",
+          "source": "Radaronline.com",
+          "published": "2026-06-12T04:00:00Z",
+          "image": "https://media.radaronline.com/brand-img/eUZ0Ya-QQ/1200x628/resultvalerie-juliet-valdez-circle-inset-image-templates-1200-x-675-px-74-1781260747419.png"
         },
         {
-          "title": "Experts Warn Rogue AI Agents With Crypto Wallets Could Become Unstoppable",
-          "description": "Experts from a leading academic research consortium have warned that artificial intelligence (AI) agents with autonomous access to cryptocurrency wallets could become unstoppable if deployed maliciously or if they escape from sandboxes, according to a June 9 …",
-          "url": "https://www.naturalnews.com/2026-06-11-experts-warn-rogue-ai-agents-with-crypto-wallets.html",
-          "source": "Naturalnews.com",
-          "published": "2026-06-11T06:00:00Z",
-          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/autonomous-ai-agents-cryptocurrency-access-unstoppable-ai-2007-original.jpg"
+          "title": "Avalanche, latest crypto treasury platform, set to start trading on Nasdaq as proxy trade evolves",
+          "description": "Avalanche is a six-year-old blockchain built for business that counts BlackRock, Franklin Templeton and Apollo among its users.",
+          "url": "https://www.cnbc.com/2026/06/11/avalanche-focused-treasury-firm-launches-on-nasdaq-as-crypto-proxy-trade-evolves.html",
+          "source": "CNBC",
+          "published": "2026-06-11T16:00:34Z",
+          "image": "https://image.cnbcfm.com/api/v1/image/108248271-1767636247748-gettyimages-2241476296-anotherday129719494_macgdklv.jpeg?v=1767646017&w=1920&h=1080"
+        },
+        {
+          "title": "Archax and Hedera Advance Tokenized Securities with Real-Time Streaming Cash Flows",
+          "description": "LONDON, June 11, 2026 /PRNewswire/ -- Archax, the UK/EU-regulated digital asset platform, today announced real-time streaming cash flows for tokenized securities on Hedera, the trusted public network for building fast, secure, and compliant decentralized appl…",
+          "url": "https://www.prnewswire.com/news-releases/archax-and-hedera-advance-tokenized-securities-with-real-time-streaming-cash-flows-302798247.html",
+          "source": "PRNewswire",
+          "published": "2026-06-11T15:19:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS977308/Hedera_Black_Logo.jpg?id=OA2698420&p=facebook"
+        },
+        {
+          "title": "Topic: Binance Commits $250,000 to Support Frontline Ebola Response in Uganda and DRC",
+          "description": "Two of the world's most experienced emergency responders, the Uganda Red Cross Society and Doctors Without Borders, will each receive funding to strengthen medical care, prevention, and community response. JOHANNESBURG, South Africa, June 11, 2026 /PRNewswire…",
+          "url": "https://www.prnewswire.com/news-releases/topic-binance-commits-250-000-to-support-frontline-ebola-response-in-uganda-and-drc-302797973.html",
+          "source": "PRNewswire",
+          "published": "2026-06-11T10:49:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS1337864/Binance-Logo-Yellow-4x_Logo.jpg?id=OA2697348&p=facebook"
         },
         {
           "title": "FDIC Just Showed Why Banks May Win the Digital Dollar Race",
@@ -258,22 +282,6 @@
           "source": "newsBTC",
           "published": "2026-06-09T10:00:46Z",
           "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/a_669f19.jpg?fit=2560%2C1163"
-        },
-        {
-          "title": "Merck and Hashgraph Group launch Hedera-based product passport for EU compliance",
-          "description": "The Hedera-based platform combines product authentication and blockchain traceability to support compliance with new European Union sustainability and supply-chain reporting requirements.",
-          "url": "https://cointelegraph.com/news/merck-and-hashgraph-group-launch-hedera-based-product-passport-for-eu-compliance",
-          "source": "Cointelegraph",
-          "published": "2026-06-09T07:00:00Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-blockchain-technology-is-used-in-supply-chain-management.png"
-        },
-        {
-          "title": "Broadridge's Distributed Ledger Repo Achieves 220% Year Over Year Growth; Processes $7.2 Trillion in May",
-          "description": "May 2026 ADV reaches $362 billion as momentum continues for institutional adoption of tokenized settlement and Broadridge's market-leading Distributed Ledger Repo NEW YORK, June 8, 2026 /PRNewswire/ -- Broadridge Financial Solutions, Inc. (NYSE: BR), global F…",
-          "url": "https://www.prnewswire.com/news-releases/broadridges-distributed-ledger-repo-achieves-220-year-over-year-growth-processes-7-2-trillion-in-may-302793452.html",
-          "source": "PRNewswire",
-          "published": "2026-06-08T10:30:00Z",
-          "image": "https://mma.prnewswire.com/media/326728/Broadridge_2023_Logo.jpg?p=facebook"
         }
       ]
     },
@@ -287,76 +295,27 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "How the UK is tackling industrialized crypto fraud",
-              "description": "Crypto fraud has industrialized. The UK is showing how enforcement can keep up.",
-              "url": "https://www.techradar.com/pro/how-the-uk-is-tackling-industrialized-crypto-fraud",
-              "source": "TechRadar",
-              "published": "2026-06-11T08:56:50Z",
-              "image": "https://cdn.mos.cms.futurecdn.net/XbZCTEpjtunPvMj9ySXmWU-2560-80.jpg"
+              "title": "SpaceX crypto traders are betting on a $2.2 trillion valuation",
+              "description": "Crypto traders are valuing SpaceX at $2.2 trillion, significantly higher than its IPO price of $135 per share, ahead of its trading debut. Perpetual futures on crypto venues suggest a strong demand, even as veteran investors express skepticism about the compa…",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-crypto-traders-are-betting-on-a-2-2-trillion-valuation/articleshow/131672743.cms",
+              "source": "The Times of India",
+              "published": "2026-06-12T03:25:04Z",
+              "image": "https://img.etimg.com/thumb/msid-131672909,width-1200,height-630,imgsize-2318877,overlay-etmarkets/articleshow.jpg"
             },
             {
-              "title": "Best Crypto Faucets in 2026: Top 5 Platforms That Still Pay Free Crypto",
-              "description": "Crypto faucets were originally websites that provided rewards in small amounts of cryptocurrency in exchange for completing simple tasks. While some cryptocurrency faucets exist today,...\nThe post Best Crypto Faucets in 2026: Top 5 Platforms That Still Pay Fr…",
-              "url": "https://bitcoinfoundation.org/news/altcoins/best-crypto-faucets/",
-              "source": "Bitcoinfoundation.org",
-              "published": "2026-06-09T10:18:29Z",
-              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/06/1-1780999891.webp"
-            },
-            {
-              "title": "Frontier AI Models Can Find Crypto's Biggest Bugs. Experts Warn the Industry Isn't Ready",
-              "description": "The Zcash vulnerability uncovered with help from Anthropic's Claude Opus 4.8 signals a shift in who may discover critical flaws first.",
-              "url": "https://decrypt.co/370232/frontier-ai-models-find-crypto-bugs-industry-isnt-ready",
-              "source": "Decrypt",
-              "published": "2026-06-07T18:01:03Z",
-              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/ai-decrypt-style-04-gID_7.png"
-            },
-            {
-              "title": "BitMEX co-founder, Arthur Hayes, liquidates all his ZEC, HYPE, and NEAR tokens",
-              "description": "Hayes exited ZEC after an Orchard privacy bug raised supply doubts. He also liquidated HYPE and NEAR while rotating his portfolio. The Zcash flaw was patched, but future exploitation cannot be ruled out. Arthur Hayes, co-founder of BitMEX, has fully exited hi…",
-              "url": "https://coinjournal.net/news/bitmex-co-founder-arthur-hayes-liquidates-all-his-zec-hype-and-near-tokens/",
-              "source": "Coinjournal.net",
-              "published": "2026-06-05T13:09:49Z",
-              "image": "https://coinjournal.net/wp-content/uploads/2026/06/ZEC-Hype-Near-tokens.png"
+              "title": "Crypto Promoters Say Blockchain Is the Future of AI. Researchers Aren’t Buying It",
+              "description": "Is crypto really the secret sauce that AI is missing?",
+              "url": "https://gizmodo.com/crypto-promoters-say-blockchain-is-the-future-of-ai-researchers-arent-buying-it-2000769680",
+              "source": "Gizmodo.com",
+              "published": "2026-06-10T12:10:43Z",
+              "image": "https://gizmodo.com/app/uploads/2026/03/robot-hodling-bitcoin-1200x675.jpg"
             }
           ]
         },
         "hyperscalers": {
           "title": "Hyperscalers",
           "icon": "☁️",
-          "articles": [
-            {
-              "title": "Morpho Price Prediction 2026: Can MORPHO Crypto Deliver Another Explosive Rally?",
-              "description": "Morpho is a decentralized lending protocol on Ethereum and EVM-compatible chains. Rather than presenting users with a single lending application, it provides an open infrastructure...\nThe post Morpho Price Prediction 2026: Can MORPHO Crypto Deliver Another Ex…",
-              "url": "https://bitcoinfoundation.org/news/altcoins/morpho-price-prediction-2026-can-morpho-crypto-deliver-another-explosive-rally/",
-              "source": "Bitcoinfoundation.org",
-              "published": "2026-06-10T19:16:30Z",
-              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/06/1-1781109576.webp"
-            },
-            {
-              "title": "Microsoft Corp (MSFT): Azure’s Role in Digital Asset Infrastructure Adds Indirect Crypto Exposure",
-              "description": "Microsoft Corp (NASDAQ:MSFT) is one of the most profitable crypto-exposed stocks to buy now. On May 26, Piper Sandler reiterated an Overweight rating on Micr...",
-              "url": "https://finance.yahoo.com/markets/crypto/articles/microsoft-corp-msft-azure-role-172204383.html",
-              "source": "Yahoo Entertainment",
-              "published": "2026-06-10T17:22:04Z",
-              "image": "https://s.yimg.com/lo/mysterio/api/A95EC8040E824A77D96118E4F123F700460E4C6FBBE90A7D2934940EAFCE32FE/subgraphmysterio/resizefill_w1200_h742;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F23914345699024b9148da17e9290f04c"
-            },
-            {
-              "title": "Netomi CEO says $5 trillion AI customer experience market could boost stablecoin demand",
-              "description": "Puneet Mehta, a former high-level Wall Street engineer and data scientist, said the rapid expansion of AI enterprise software will increase demand for stablecoins and blockchain.",
-              "url": "https://www.coindesk.com/business/2026/06/10/netomi-ceo-says-usd5-trillion-ai-customer-experience-market-could-boost-stablecoin-demand",
-              "source": "CoinDesk",
-              "published": "2026-06-10T16:17:18Z",
-              "image": "https://cdn.sanity.io/images/s3y3vcno/production/365a8575f2b2897c2e8de6c7d3894cc767558115-2437x1371.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
-            },
-            {
-              "title": "Myriad Taps Chainlink to Power FIFA World Cup Prediction Markets",
-              "description": "The integration builds on Myriad’s use of the Chainlink Runtime Environment to power its prediction market infrastructure.",
-              "url": "https://decrypt.co/370479/myriad-taps-chainlink-to-power-fifa-world-cup-prediction-markets",
-              "source": "Decrypt",
-              "published": "2026-06-10T13:01:04Z",
-              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/06/myriad-chainlink-gID_7.png"
-            }
-          ]
+          "articles": []
         }
       }
     }
