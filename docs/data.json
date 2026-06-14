@@ -1,5 +1,5 @@
 {
-  "date": "June 13, 2026",
+  "date": "June 14, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -39,20 +39,20 @@
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/10085330/file-zcash-logo-2024-present-svg-wikimedia-commons-2-800x420.png"
         },
         {
-          "title": "Wall Street Will Fully Transition to Blockchain by 2030, Brickken CEO Predicts",
-          "description": "In an interview with CoinDesk, the head of Brickken stated that in the near future, American TradFi will run on blockchain. We explain what else...\nThe post Wall Street Will Fully Transition to Blockchain by 2030, Brickken CEO Predicts appeared first on Bitco…",
-          "url": "https://bitcoinfoundation.org/news/blockchain-news/blockchain-forecast/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-06-09T17:17:22Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/04/blockchain-opt.webp"
-        },
-        {
           "title": "Privacy push as StarkWare and Sui move toward compliance-ready confidential transfers",
           "description": "StarkWare and Sui unveil new privacy systems enabling programmable confidential transfers, as Zama tightens compliance and Zcash bug raises concerns over shielded pools.",
           "url": "https://cointelegraph.com/news/privacy-starkware-sui-move-compliance-confidential-transfers",
           "source": "Cointelegraph",
           "published": "2026-06-09T14:01:11Z",
           "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-significance-of-privacy-in-web3.jpg"
+        },
+        {
+          "title": "Best Crypto Faucets in 2026: Top 5 Platforms That Still Pay Free Crypto",
+          "description": "Crypto faucets were originally websites that provided rewards in small amounts of cryptocurrency in exchange for completing simple tasks. While some cryptocurrency faucets exist today,...\nThe post Best Crypto Faucets in 2026: Top 5 Platforms That Still Pay Fr…",
+          "url": "https://bitcoinfoundation.org/news/altcoins/best-crypto-faucets/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-06-09T10:18:29Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/06/1-1780999891.webp"
         },
         {
           "title": "U.S. inflation, European Central Bank rate decision: Crypto Week Ahead",
@@ -77,6 +77,14 @@
       "icon": "🔐",
       "color": "#e6a200",
       "articles": [
+        {
+          "title": "Zcash audit by Anthropic finds no serious bugs, says Zooko",
+          "description": "The audit's clean bill of health boosts confidence in Zcash, but highlights ongoing challenges in verifying privacy coin integrity.\nThe post Zcash audit by Anthropic finds no serious bugs, says Zooko appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/zcash-anthropic-audit-no-serious-bugs/",
+          "source": "Crypto Briefing",
+          "published": "2026-06-12T21:57:24Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/12175716/zooko-wilcox-800x420.jpeg"
+        },
         {
           "title": "Ethereum Brings Back Privacy With pERC‑20 as Tom Lee’s Bitmine Buys 125K ETH in Three Days",
           "description": "Ethereum developers are discussing a new token standard called pERC‑20. It would let users hold and transfer tokens without publicly revealing balances, transaction amounts, or...\nThe post Ethereum Brings Back Privacy With pERC‑20 as Tom Lee’s Bitmine Buys 12…",
@@ -110,14 +118,6 @@
           "image": "https://cryptoslate.com/wp-content/uploads/2026/06/humanity-protocol-hack.jpg"
         },
         {
-          "title": "Ethereum could transition to zero-knowledge proof protocol in 3 to 5 years, says Joe Lubin",
-          "description": "Ethereum's potential shift to zero-knowledge proofs could enhance scalability, privacy, and interoperability, reshaping blockchain's future landscape.\nThe post Ethereum could transition to zero-knowledge proof protocol in 3 to 5 years, says Joe Lubin appeared…",
-          "url": "https://cryptobriefing.com/ethereum-zk-proof-transition-lubin/",
-          "source": "Crypto Briefing",
-          "published": "2026-06-10T15:33:21Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/10113313/ethereum-cofounder-joe-lubin-talks-trump-blockchain-s-franke-800x420.jpeg"
-        },
-        {
           "title": "Humanity Protocol Loses $36M After Private Keys 'Compromised,' Token Crashes 73%",
           "description": "The decentralized identity protocol said a compromised employee's laptop let attackers seize its bridges and mint tokens at will.",
           "url": "https://decrypt.co/370485/humanity-protocol-loses-36m-after-private-keys-compromised-token-crashes-73",
@@ -132,14 +132,6 @@
           "source": "Bitcoinist",
           "published": "2026-06-09T10:00:57Z",
           "image": "https://bitcoinist.com/wp-content/uploads/2026/06/ChatGPT-Image-9.-Juni-2026-09_26_02.png"
-        },
-        {
-          "title": "Critical Zcash Vulnerability Found and Fixed",
-          "description": "If you’re a user—owner?—of this cryptocurrency, this is important:\nOn May 29, the security researcher Taylor Hornby found a critical vulnerability in Zcash Orchard privacy pool using Claude Opus 4.8. The Zcash team hired Hornby specifically to look for this k…",
-          "url": "https://www.schneier.com/blog/archives/2026/06/critical-zcash-vulnerability-found-and-fixed.html",
-          "source": "Schneier.com",
-          "published": "2026-06-08T17:06:53Z",
-          "image": null
         }
       ]
     },
@@ -149,68 +141,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Bybit Named to Fortune Crypto 100 as It Accelerates Its Vision for The New Financial Platform",
-          "description": "Dubai, UAE, 12th June 2026, Chainwire\nThe post Bybit Named to Fortune Crypto 100 as It Accelerates Its Vision for The New Financial Platform appeared first on The Daily Hodl.",
-          "url": "https://dailyhodl.com/2026/06/12/bybit-named-to-fortune-crypto-100-as-it-accelerates-its-vision-for-the-new-financial-platform/",
-          "source": "The Daily Hodl",
-          "published": "2026-06-12T07:45:30Z",
-          "image": "https://dailyhodl.com/wp-content/uploads/2026/06/Bybit_2026_logo_1781249590WaNPCm8n6Q.jpeg?resize=1600,900"
+          "title": "SpaceX Tokenization Scramble Shows The Difference Between Tokens And Real Shares",
+          "description": "The SpaceX pre-IPO scramble highlights a key tokenization risk: blockchain rails cannot solve a failed underlying share allocation.",
+          "url": "https://bitcoinist.com/spacex-tokenization-scramble-shows-the-difference-between-tokens-and-real-shares/",
+          "source": "Bitcoinist",
+          "published": "2026-06-13T09:10:17Z",
+          "image": "https://bitcoinist.com/wp-content/uploads/2026/06/featured_bitcoinist_spacex-tokenization-scramble-shows-the-difference-between-tokens-and-real-shares.png"
         },
         {
-          "title": "XRP jumps 3% above $1.14 as institutional buying meets key resistance test",
-          "description": "XRP posted its strongest session in days on a sharp volume surge, though traders remain focused on whether the rally can break a longer-term downtrend that still points lower.",
-          "url": "https://www.coindesk.com/markets/2026/06/12/xrp-jumps-3-above-usd1-14-as-institutional-buying-meets-key-resistance-test",
-          "source": "CoinDesk",
-          "published": "2026-06-12T06:38:32Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/a4f31c3282961c3b1d2bf69e6d46cd8046751e05-1194x722.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
+          "title": "BlackRock reveals new ETF built for income",
+          "description": "BlackRock, the world's largest asset manager, appears to be nearing launch of a new kind of Bitcoin ETF, one designed to pay investors income, not just track the price of the cryptocurrency.\nThe asset manager filed a Form 8-A with the Securities and Exchange …",
+          "url": "https://biztoc.com/x/3d8f02d79b5ee22b",
+          "source": "Biztoc.com",
+          "published": "2026-06-13T00:55:19Z",
+          "image": "https://biztoc.com/cdn/3d8f02d79b5ee22b_s.webp"
         },
         {
-          "title": "Binance Exchange Launches bStocks Tokenized Securities: 1:1 Backing and 24/7 Trading",
-          "description": "ABU DHABI, UAE, June 12, 2026 /PRNewswire/ -- Binance Exchange has announced the admission to trading of bStocks, fully-backed tokenized securities representing select U.S. stocks issued by BTech Holdings Limited, a Binance group affiliate (\"Issuer\"). Eligibl…",
-          "url": "https://www.prnewswire.com/news-releases/binance-exchange-launches-bstocks-tokenized-securities-11-backing-and-247-trading-302798876.html",
-          "source": "PRNewswire",
-          "published": "2026-06-12T06:17:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS1337864/Binance-Logo-Yellow-4x_Logo.jpg?id=OA2699785&p=facebook"
+          "title": "Crypto Experts Tell PYMNTS Where Digital Assets Go Next",
+          "description": "There’s something rare happening across the digital asset landscape: it’s quiet.\n \n \n \n \nThe sector’s typical drumbeat of disruptive headlines has been dampened by bitcoin’s sinking price and the broader crypto market’s ongoing contractions, while the institu…",
+          "url": "https://biztoc.com/x/804ddd49b5944ea8",
+          "source": "Biztoc.com",
+          "published": "2026-06-12T20:05:22Z",
+          "image": "https://biztoc.com/cdn/995/og.png"
         },
         {
-          "title": "Coinbase Exec: Institutional Buyers Seen Acquiring Bitcoin Amid Price Plunge",
-          "description": "Bitcoin fell below $60,000 on Monday, June 8 – reaching as low as $59,099, according to market data. The decline represents a drop of more than 50% from the cryptocurrency’s all-time high near $126,000 reached in October 2025. But John D’Agostino, Coinbase’s …",
-          "url": "https://www.naturalnews.com/2026-06-12-coinbase-exec-institutional-buyers-seen-acquiring-bitcoin.html",
-          "source": "Naturalnews.com",
-          "published": "2026-06-12T06:00:00Z",
-          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/bitcoin-price-decline-institutional-investors-1979-original.jpg"
+          "title": "SEC targets 20-year-old rule standing between Wall Street and blockchain trading",
+          "description": "The Securities and Exchange Commission (SEC) is moving to dismantle a stock-trading rule that has governed Wall Street for two decades. On June 11, the agency submitted a proposal that would rescind Rule 611 of Regulation NMS, the trade-through rule that requ…",
+          "url": "https://cryptoslate.com/sec-targets-20-year-old-rule-standing-between-wall-street-and-blockchain-trading/",
+          "source": "CryptoSlate",
+          "published": "2026-06-12T20:05:02Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/06/sec-stocks-trading.jpg"
         },
         {
-          "title": "Vantage Secures Position on the Fortune Crypto Innovators List, Highlighting Cross-Market Trading Innovation",
-          "description": "PORT VILA, Vanuatu, June 12, 2026 /PRNewswire/ -- Vantage, a global multi-asset broker for CFD trading, announced its inclusion on the Fortune Crypto Innovators list. Selected independently by Fortune's editorial department based on its editorial criteria, th…",
-          "url": "https://www.prnewswire.co.uk/news-releases/vantage-secures-position-on-the-fortune-crypto-innovators-list-highlighting-cross-market-trading-innovation-302798766.html",
-          "source": "PR Newswire UK",
-          "published": "2026-06-12T02:58:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS1862325/c5fb8b28a26a4549b45ffe3acf95c30a.jpg?id=OA2699531&p=facebook"
+          "title": "Securitize brings tokenized CLO fund to Solana with $250 million backing from Ethena",
+          "description": "A major traditional finance product is moving to Solana with a planned $250 million commitment. Securitize, the tokenization platform with more than $4...",
+          "url": "https://www.thestreet.com/crypto/business/securitize-brings-tokenized-clo-fund-to-solana-with-250-million-backing-from-ethena",
+          "source": "TheStreet",
+          "published": "2026-06-12T19:43:00Z",
+          "image": "https://s.yimg.com/ny/api/res/1.2/w28iF5_WHcdRDSQf_dyiHA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/thestreet_881/9c5c6942b53354b28a3f088dfb2e0f92"
         },
         {
-          "title": "Nobody Told the ERP That Blockchain Won",
-          "description": "Blockchain finance has spent years making the inevitable seem imminent. This week, industry insiders raised the stakes further, predicting that Wall Street will operate solely on blockchain technology in under five years. The logic tracks: Once assets are dig…",
-          "url": "https://www.pymnts.com/blockchain/2026/nobody-told-the-erp-that-blockchain-won/",
-          "source": "pymnts.com",
-          "published": "2026-06-11T21:28:00Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2026/06/blockchain-settlement-1.jpg"
+          "title": "What Is a16z Crypto and Why It Is Becoming One of the Most Influential Forces in the Crypto Market",
+          "description": "What Is a16z Crypto? What is a16z crypto? It is the crypto-focused investment subsidiary of venture capital firm Andreessen Horowitz, investing across blockchain infrastructure, decentralized...\nThe post What Is a16z Crypto and Why It Is Becoming One of the M…",
+          "url": "https://bitcoinfoundation.org/news/altcoins/what-is-a16z-crypto-and-why-it-is-becoming-one-of-the-most-influential-forces-in-the-crypto-market/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-06-12T18:59:23Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/06/1-1781265337.webp"
         },
         {
-          "title": "Ripple CEO Takes Aim at JPMorgan's Jamie Dimon Over Clarity Act Crypto Bill Criticism",
-          "description": "Ripple's Brad Garlinghouse spoke out against JPMorgan CEO Jamie Dimon and his comments on the key piece of crypto legislation.",
-          "url": "https://decrypt.co/370840/ripple-ceo-takes-aim-jpmorgan-jamie-dimon-clarity-act-comments",
-          "source": "Decrypt",
-          "published": "2026-06-11T20:44:14Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/brad-garlinghouse-xrp-ripple-decrypt-style-2-scaled-gID_7.jpg"
+          "title": "Wall Street's biggest stablecoin IPO, makes a sudden $4.4 billion move",
+          "description": null,
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6cb77ddc-45f0-4834-b52a-b358ed501b54",
+          "source": "Yahoo Entertainment",
+          "published": "2026-06-12T17:58:33Z",
+          "image": null
         },
         {
-          "title": "Citigroup Expands Access to Private Markets With Tokenized Depositary Receipts",
-          "description": "Citigroup launched tokenized depositary receipts that are designed to broaden access to private markets. The new Digital Depositary Receipts on private shares provide investors with direct access to private companies’ equity through a familiar investment stru…",
-          "url": "https://www.pymnts.com/blockchain/2026/citigroup-expands-access-private-markets-with-tokenized-depository-receipts/",
-          "source": "pymnts.com",
-          "published": "2026-06-11T16:49:35Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2026/01/Citigroup.jpeg"
+          "title": "Antier Solutions Signs Strategic MoU with NIELIT to Advance Blockchain and AI Skilling Across India",
+          "description": "A landmark five-year Memorandum of Understanding between NIELIT, a Government of India autonomous body under MeitY, and Antier Solutions establishes a partnership for technology education, digital learning infrastructure, and co-development of emerging digita…",
+          "url": "https://www.thehindubusinessline.com/brandhub/pr-release/antier-solutions-signs-strategic-mou-with-nielit-to-advance-blockchain-and-ai-skilling-across-india/article71092412.ece",
+          "source": "BusinessLine",
+          "published": "2026-06-12T14:04:43Z",
+          "image": "https://th-i.thgim.com/public/incoming/z1yjly/article71092408.ece/alternates/LANDSCAPE_1200/Antier_Solutions.jpg"
         }
       ]
     },
@@ -220,12 +212,28 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "From Drake's Bitcoin Bets to a $100 Million Streamer: How the Online Crypto Casino Took Over Celebrity Culture",
-          "description": "Hollywood used to flash watches and courtside seats. Somewhere around 2022, the flex changed currency.",
-          "url": "https://radaronline.com/p/from-drakes-bitcoin-bets-to-a-100-million-streamer-how-the-online-crypto-casino-took-over-celebrity-culture/",
-          "source": "Radaronline.com",
-          "published": "2026-06-12T04:00:00Z",
-          "image": "https://media.radaronline.com/brand-img/eUZ0Ya-QQ/1200x628/resultvalerie-juliet-valdez-circle-inset-image-templates-1200-x-675-px-74-1781260747419.png"
+          "title": "Coinbase Says Let the AI Agents Trade Fartcoin",
+          "description": "Why lose money trading Fartcoin when an AI agent could lose it for you?",
+          "url": "https://gizmodo.com/coinbase-says-let-the-ai-agents-trade-fartcoin-2000771128",
+          "source": "Gizmodo.com",
+          "published": "2026-06-12T18:26:26Z",
+          "image": "https://gizmodo.com/app/uploads/2026/06/Coinbase-Fartcoin-1200x675.jpg"
+        },
+        {
+          "title": "LG Electronics Teams With Arbitrum for Blockchain-Based Ad Platform",
+          "description": "The South Korean tech giant built a custom layer-2 network with Arbitrum for an advertising platform set to launch this year.",
+          "url": "https://decrypt.co/370866/lg-electronics-teams-with-arbitrum-for-blockchain-based-ad-platform",
+          "source": "Decrypt",
+          "published": "2026-06-12T10:23:39Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/06/lg-decrypt-style-gID_7.jpg"
+        },
+        {
+          "title": "The company that makes your TV is taking ads onchain. Arbitrum helped",
+          "description": "LG Electronics has built a blockchain-based advertising platform with the help of Arbitrum.",
+          "url": "https://www.coindesk.com/markets/2026/06/12/the-company-that-makes-your-tv-is-taking-ads-onchain-arbitrum-helped",
+          "source": "CoinDesk",
+          "published": "2026-06-12T05:35:25Z",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/4caf34246416f1020ad3fc1aaa25373b18a9161f-5760x3240.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
         },
         {
           "title": "Avalanche, latest crypto treasury platform, set to start trading on Nasdaq as proxy trade evolves",
@@ -252,28 +260,12 @@
           "image": "https://mmx.prnewswire.com/media/MS1337864/Binance-Logo-Yellow-4x_Logo.jpg?id=OA2697348&p=facebook"
         },
         {
-          "title": "FDIC Just Showed Why Banks May Win the Digital Dollar Race",
-          "description": "The debate over stablecoin regulation has always had a deeper question underneath it. Do blockchain-based payment systems become an extension of the banking sector or remain permanently adjacent to it? The Federal Deposit Insurance Corp.’s proposed GENIUS Act…",
-          "url": "https://www.pymnts.com/cryptocurrency/2026/fdic-just-showed-why-banks-may-win-digital-dollar-race/",
-          "source": "pymnts.com",
-          "published": "2026-06-10T21:36:42Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2022/04/fdic.jpg"
-        },
-        {
           "title": "Mastercard Enables AI Agent Payments With Help From Crypto Giants Like Coinbase, Ripple",
           "description": "Mastercard's Agent Pay for Machines is designed to let AI buy services and settle transactions using cards, bank accounts, and stablecoins.",
           "url": "https://decrypt.co/370660/mastercard-enables-ai-agent-payments-crypto-giants-coinbase-ripple",
           "source": "Decrypt",
           "published": "2026-06-10T16:50:47Z",
           "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/mastercard-decrypt-style-01-gID_7.png"
-        },
-        {
-          "title": "Japan’s Megabanks Plan Joint Stablecoin as Bank-Issued Tokens Go Global",
-          "description": "MUFG, SMBC, and Mizuho are forming a stablecoin consortium, joining JPMorgan and SoFi in the global race for bank-issued tokens.",
-          "url": "https://beincrypto.com/japan-megabanks-joint-stablecoin-2026/",
-          "source": "BeInCrypto",
-          "published": "2026-06-09T23:30:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/2D9D5D62746E3EC3B107BDB6CA98230F20DCC0FE60D896409A4205053CAD2023/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F6433e8463e3ffa96fef4633541c4efaf"
         },
         {
           "title": "Security Milestone: XRP Lending Protocol Completes Military-Grade Assessment",
@@ -295,12 +287,12 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "SpaceX crypto traders are betting on a $2.2 trillion valuation",
-              "description": "Crypto traders are valuing SpaceX at $2.2 trillion, significantly higher than its IPO price of $135 per share, ahead of its trading debut. Perpetual futures on crypto venues suggest a strong demand, even as veteran investors express skepticism about the compa…",
-              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-crypto-traders-are-betting-on-a-2-2-trillion-valuation/articleshow/131672743.cms",
-              "source": "The Times of India",
-              "published": "2026-06-12T03:25:04Z",
-              "image": "https://img.etimg.com/thumb/msid-131672909,width-1200,height-630,imgsize-2318877,overlay-etmarkets/articleshow.jpg"
+              "title": "Are 24/7 CME Bitcoin futures a volatility cure — or a new leverage trap?",
+              "description": "Wall Street got to trade Bitcoin around the clock just in time to watch the market fall apart. CME Group launched 24/7 trading for its crypto futures and options on May 29, and over the first weekend, more than 7,200 contracts changed hands, worth roughly $50…",
+              "url": "https://cryptoslate.com/are-24-7-cme-bitcoin-futures-a-volatility-cure-or-a-new-leverage-trap/",
+              "source": "CryptoSlate",
+              "published": "2026-06-13T08:25:39Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/06/bitcoin-cme-trap.jpg"
             },
             {
               "title": "Crypto Promoters Say Blockchain Is the Future of AI. Researchers Aren’t Buying It",
@@ -309,13 +301,46 @@
               "source": "Gizmodo.com",
               "published": "2026-06-10T12:10:43Z",
               "image": "https://gizmodo.com/app/uploads/2026/03/robot-hodling-bitcoin-1200x675.jpg"
+            },
+            {
+              "title": "Frontier AI Models Can Find Crypto's Biggest Bugs. Experts Warn the Industry Isn't Ready",
+              "description": "The Zcash vulnerability uncovered with help from Anthropic's Claude Opus 4.8 signals a shift in who may discover critical flaws first.",
+              "url": "https://decrypt.co/370232/frontier-ai-models-find-crypto-bugs-industry-isnt-ready",
+              "source": "Decrypt",
+              "published": "2026-06-07T18:01:03Z",
+              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/ai-decrypt-style-04-gID_7.png"
             }
           ]
         },
         "hyperscalers": {
           "title": "Hyperscalers",
           "icon": "☁️",
-          "articles": []
+          "articles": [
+            {
+              "title": "Stock Market Volatility Rocks Bitcoin, Threatening $60K Support",
+              "description": "A sharp decline in Big Tech stocks and volatility in oil markets triggered broad sell-offs across financial markets on Monday, June 8 – pushing Bitcoin toward the critical $60,000 support level, according to market data. The Nasdaq composite fell 3.2%, with m…",
+              "url": "https://www.naturalnews.com/2026-06-13-stock-market-volatility-rocks-bitcoin-threatening-support.html",
+              "source": "Naturalnews.com",
+              "published": "2026-06-13T06:00:00Z",
+              "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/bitcoin-stock-market-volatility-big-tech-2057-original.jpg"
+            },
+            {
+              "title": "Shai-Hulud Campaign Evolution: Miasma, Hades, and AI Scanner Evasion",
+              "description": "IntroductionSince Zscaler ThreatLabz published its analysis of Shai-Hulud V2 in November 2025, the campaign has continued to evolve in ways that distinguish it from more typical software supply chain attacks. Over the last six months, the activity expanded be…",
+              "url": "https://www.zscaler.com/blogs/security-research/shai-hulud-campaign-evolution-miasma-hades-and-ai-scanner-evasion",
+              "source": "Zscaler.com",
+              "published": "2026-06-12T21:14:52Z",
+              "image": "https://cms.zscaler.com/sites/default/files/images/blogs/shai_hulud_blog_cover.jpg"
+            },
+            {
+              "title": "Firms are turning to blockchain to fight an ad fraud problem AI is making worse",
+              "description": "Google blocked or removed 8.3 billion ads in 2025 and suspended 24.9 million advertiser accounts, with 602 million of those ads tied directly to scams. Those numbers show that the volume of fraudulent material attempting to reach users has grown large enough …",
+              "url": "https://cryptoslate.com/firms-are-turning-to-blockchain-to-fight-an-ad-fraud-problem-ai-is-making-worse/",
+              "source": "CryptoSlate",
+              "published": "2026-06-12T14:15:31Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/06/ad-bot.jpg"
+            }
+          ]
         }
       }
     }
