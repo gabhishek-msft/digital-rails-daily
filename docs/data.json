@@ -1,5 +1,5 @@
 {
-  "date": "June 15, 2026",
+  "date": "June 16, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -61,14 +61,6 @@
           "source": "Bitcoinfoundation.org",
           "published": "2026-06-09T10:18:29Z",
           "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/06/1-1780999891.webp"
-        },
-        {
-          "title": "U.S. inflation, European Central Bank rate decision: Crypto Week Ahead",
-          "description": "Your look at what's coming in the week starting June 8.",
-          "url": "https://www.coindesk.com/markets/2026/06/08/u-s-inflation-european-central-bank-rate-decision-crypto-week-ahead",
-          "source": "CoinDesk",
-          "published": "2026-06-08T09:46:21Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/0ee5eca8e4dbb143c3fbd6418fa5bfc8c12f0469-1600x977.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
         }
       ]
     },
@@ -124,14 +116,6 @@
           "source": "Decrypt",
           "published": "2026-06-09T10:54:37Z",
           "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/hacker3-gID_7.png"
-        },
-        {
-          "title": "Hoskinson Claims Cardano Can Surpass Bitcoin By Solving Crypto’s Trust Problem",
-          "description": "Charles Hoskinson says Cardano is not merely competing for crypto market share, but for a much larger role: becoming the infrastructure layer for global trust. In a June 8 livestream titled “Why Cardano is the only Ecosystem that can run the world,” the Carda…",
-          "url": "https://bitcoinist.com/hoskinson-cardano-surpass-bitcoin-trust-problem/",
-          "source": "Bitcoinist",
-          "published": "2026-06-09T10:00:57Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/06/ChatGPT-Image-9.-Juni-2026-09_26_02.png"
         }
       ]
     },
@@ -141,52 +125,36 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "GameStop SEC Filing Highlights Coinbase Custody Liquidation Risk For Bitcoin Holdings",
-          "description": "A GameStop Form 10-Q filing with the US Securities and Exchange Commission highlights the risks attached to holding digital assets.",
-          "url": "http://www.newsbtc.com/news/gamestop-sec-filing-highlights-coinbase-custody-liquidation-risk-for-bitcoin-hol/",
-          "source": "newsBTC",
-          "published": "2026-06-14T11:31:56Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2025/02/COPERTINE-CN-LOGO-1280-×-720-3.jpg?fit=1280%2C720"
-        },
-        {
-          "title": "Banks are buying Bitcoin vaults, but a quantum problem may be waiting inside",
-          "description": "The banks are finally buying the vaults. In May, BNY, the world's largest custodian with $59.4 trillion in assets under custody and administration, announced it would offer Bitcoin and Ethereum custody in Abu Dhabi. Weeks later, Standard Chartered confirmed i…",
-          "url": "https://cryptoslate.com/?p=541390",
-          "source": "CryptoSlate",
-          "published": "2026-06-14T11:30:21Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/06/bitcoin-vault-quantum.jpg"
-        },
-        {
-          "title": "Bitcoin price challenges $64,000 weekend wall – needing a breakout or risk a deeper correction",
-          "description": "Bitcoin reclaimed $64,000 on June 12 and touched an intraday high of $64,301 in the same session that spot ETF flows finally flipped positive after four straight sessions of institutional selling, and oil prices fell as peace deal momentum built between Washi…",
-          "url": "https://cryptoslate.com/bitcoin-price-challenges-64000-weekend-wall-needing-a-breakout-or-risk-a-deeper-correction/",
-          "source": "CryptoSlate",
-          "published": "2026-06-14T10:26:54Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/06/bitcoin-cliff.jpg"
-        },
-        {
-          "title": "Hester Peirce Farewell Speech Highlights SEC Crypto Rulemaking Divide",
-          "description": "SEC Commissioner Hester Peirce delivered a farewell speech titled “Peirce Out.” She criticized the agency’s reliance on enforcement instead of clearer rule",
-          "url": "http://www.newsbtc.com/news/hester-peirce-farewell-speech-highlights-sec-crypto-rulemaking-divide/",
-          "source": "newsBTC",
-          "published": "2026-06-14T07:33:58Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2020/12/Depositphotos_7896866_s-2019.jpg"
-        },
-        {
-          "title": "Clarity Act Stablecoin Yield Clause: The $20B Bank vs Crypto Exchange Battle",
-          "description": null,
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f6245ae2-cab8-457b-ae97-ac62562b5715",
-          "source": "Yahoo Entertainment",
-          "published": "2026-06-13T22:08:07Z",
+          "title": "Toobit Solidifies Platform Security for Global Traders",
+          "description": "GEORGE TOWN, Cayman Islands, June 15, 2026 (GLOBE NEWSWIRE) — Toobit, the award-winning global cryptocurrency exchange, today announces an upgrade to its security ecosystem. By consolidating defensive protocols, independent audit findings, and verification to…",
+          "url": "https://financialpost.com/globe-newswire/toobit-solidifies-platform-security-for-global-traders",
+          "source": "Financial Post",
+          "published": "2026-06-15T09:42:53Z",
           "image": null
         },
         {
-          "title": "BitMine Immersion (BMNR) Reports $9.6B Crypto and Cash Holdings, Led by Ethereum Treasury",
-          "description": "BitMine Immersion Technologies Inc. (NYSE:BMNR) is one of the most promising mid-cap stocks to buy according to analysts. On June 8, BitMine Immersion report...",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/bitmine-immersion-bmnr-reports-9-193428427.html",
+          "title": "Bybit expands RWA push with tokenized bond funds from PIMCO, CMBI",
+          "description": "Bybit has launched tokenized bond funds from PIMCO and China Merchants Bank International through its new RWA Earn platform, expanding access to blockchain-based fixed-income products.",
+          "url": "https://cointelegraph.com/news/bybit-launches-tokenized-bond-products-from-pimco-and-cmbi-through-rwa-platform",
+          "source": "Cointelegraph",
+          "published": "2026-06-15T07:00:00Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-a-comprehensive-and-easy-to-understand-explanation-of-rwa.png"
+        },
+        {
+          "title": "How to Invest in Tokenized Treasuries: Step-by-Step Guide",
+          "description": "Out here, tokenized government debt acts like maturity in a space full of noise. No wild gains promised. Not chasing free tokens or viral coins....\nThe post How to Invest in Tokenized Treasuries: Step-by-Step Guide appeared first on Bitcoin Foundation.",
+          "url": "https://bitcoinfoundation.org/news/defi/how-to-invest-in-tokenized-treasuries-step-by-step-guide/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-06-14T12:43:54Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/06/RWA1.webp"
+        },
+        {
+          "title": "Japan Three Biggest Banks Unite to Launch Yen Crypto Stablecoin by March 2027",
+          "description": null,
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_437ad20e-8eca-4b48-9029-f0695211635a",
           "source": "Yahoo Entertainment",
-          "published": "2026-06-13T19:34:28Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/3D70268FC165E140E11DCEA217C2ACC97C093610DC4AD39033CB452A7D1CC77F/subgraphmysterio/resizefill_w1200_h801;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F6f397e05100d25ea799a24f996c32db4"
+          "published": "2026-06-14T11:36:13Z",
+          "image": null
         },
         {
           "title": "SpaceX Tokenization Scramble Shows The Difference Between Tokens And Real Shares",
@@ -197,12 +165,28 @@
           "image": "https://bitcoinist.com/wp-content/uploads/2026/06/featured_bitcoinist_spacex-tokenization-scramble-shows-the-difference-between-tokens-and-real-shares.png"
         },
         {
-          "title": "What Is a16z Crypto and Why It Is Becoming One of the Most Influential Forces in the Crypto Market",
-          "description": "What Is a16z Crypto? What is a16z crypto? It is the crypto-focused investment subsidiary of venture capital firm Andreessen Horowitz, investing across blockchain infrastructure, decentralized...\nThe post What Is a16z Crypto and Why It Is Becoming One of the M…",
-          "url": "https://bitcoinfoundation.org/news/altcoins/what-is-a16z-crypto-and-why-it-is-becoming-one-of-the-most-influential-forces-in-the-crypto-market/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-06-12T18:59:23Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/06/1-1781265337.webp"
+          "title": "Antier Solutions Signs Strategic MoU with NIELIT to Advance Blockchain and AI Skilling Across India",
+          "description": "A landmark five-year Memorandum of Understanding between NIELIT, a Government of India autonomous body under MeitY, and Antier Solutions establishes a partnership for technology education, digital learning infrastructure, and co-development of emerging digita…",
+          "url": "https://www.thehindubusinessline.com/brandhub/pr-release/antier-solutions-signs-strategic-mou-with-nielit-to-advance-blockchain-and-ai-skilling-across-india/article71092412.ece",
+          "source": "BusinessLine",
+          "published": "2026-06-12T14:04:43Z",
+          "image": "https://th-i.thgim.com/public/incoming/z1yjly/article71092408.ece/alternates/LANDSCAPE_1200/Antier_Solutions.jpg"
+        },
+        {
+          "title": "Securitize Expands STAC, Tokenized AAA CLO Fund, to Solana",
+          "description": "Ethena Labs Plans $250 Million Allocation as Institutional Demand for Tokenized Credit Continues to Grow MIAMI, June 12, 2026 /PRNewswire/ -- Securitize, Inc. (which has announced a proposed business combination with Cantor Equity Partners II, Inc. (Nasdaq: C…",
+          "url": "https://www.prnewswire.com/news-releases/securitize-expands-stac-tokenized-aaa-clo-fund-to-solana-302798777.html",
+          "source": "PRNewswire",
+          "published": "2026-06-12T13:00:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS1745764/Securitize-Logo.jpg?id=OA2699283&p=facebook"
+        },
+        {
+          "title": "Nobody Told the ERP That Blockchain Won",
+          "description": "Blockchain finance has spent years making the inevitable seem imminent. This week, industry insiders raised the stakes further, predicting that Wall Street will operate solely on blockchain technology in under five years. The logic tracks: Once assets are dig…",
+          "url": "https://www.pymnts.com/blockchain/2026/nobody-told-the-erp-that-blockchain-won/",
+          "source": "pymnts.com",
+          "published": "2026-06-11T21:28:00Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/06/blockchain-settlement-1.jpg"
         }
       ]
     },
@@ -212,44 +196,44 @@
       "color": "#00cc88",
       "articles": [
         {
+          "title": "Animoca Brands cofounder Yat Siu argues Asia will fuse AI and the blockchain before the West does",
+          "description": "“In Asia, we don’t have this problem since we’re much more comfortable with money.”",
+          "url": "https://fortune.com/2026/06/15/animoca-brands-cofounder-yat-siu-asia-ai-blockchain/",
+          "source": "Fortune",
+          "published": "2026-06-15T07:30:29Z",
+          "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-2171972713.jpg?resize=1200,600"
+        },
+        {
+          "title": "LTP Secures Australian Financial Services Licence (AFSL) to Bridge Institutional Capital with Tokenized Real-World Assets",
+          "description": "The AFSL authorization enables LTP to provide regulated financial product advice and dealing services for wholesale clients, catalyzing the convergence of institutional liquidity and blockchain-native financial instruments.",
+          "url": "https://www.globenewswire.com/news-release/2026/06/15/3311515/0/en/LTP-Secures-Australian-Financial-Services-Licence-AFSL-to-Bridge-Institutional-Capital-with-Tokenized-Real-World-Assets.html",
+          "source": "GlobeNewswire",
+          "published": "2026-06-15T06:00:00Z",
+          "image": "https://ml.globenewswire.com/Resource/Download/dbba5843-a4c9-4347-9ef3-df9a10ee9763"
+        },
+        {
+          "title": "ASX faces $20.5m penalty for failed blockchain-based system replacement",
+          "description": "Said system was \"progressing well\" when it wasn't.",
+          "url": "https://www.itnews.com.au/news/asx-faces-205m-penalty-for-failed-blockchain-based-system-replacement-626625",
+          "source": "iTnews",
+          "published": "2026-06-15T04:05:00Z",
+          "image": "https://i.nextmedia.com.au/News/crn-690_asx_building_iStock-477721785.jpg"
+        },
+        {
+          "title": "De Beers weaponises blockchain to fight lab-grown diamonds, but a 45% price crash looms large",
+          "description": "The natural diamond industry has a problem it cannot see with the naked eye. Lab-grown stones are now virtually identical to mined gems, they cost a fraction of the price, and the broader tech landscape of 2025 has only accelerated their rise. De Beers Group,…",
+          "url": "https://thenextweb.com/news/de-beers-tracr-blockchain-diamonds-lab-grown/",
+          "source": "The Next Web",
+          "published": "2026-06-14T18:05:01Z",
+          "image": "https://media.thenextweb.com/2026/06/de-beers-tracr-blockchain-diamonds-lab-grown.avif"
+        },
+        {
           "title": "LG Electronics Tests Onchain Advertising Network On Arbitrum",
           "description": "LG Electronics is piloting an onchain advertising network on Arbitrum to test verifiable ad performance, fraud reduction and privacy-conscious workflows.",
           "url": "http://www.newsbtc.com/news/lg-electronics-tests-onchain-advertising-network-on-arbitrum/",
           "source": "newsBTC",
           "published": "2026-06-13T13:00:07Z",
           "image": "https://www.newsbtc.com/wp-content/uploads/2023/05/iStock-1370952479-2.jpg?fit=2121%2C1414"
-        },
-        {
-          "title": "Crypto should adopt the best of centralization, says LMAX CEO",
-          "description": "As digital assets mature the industry should borrow more from traditional market infrastructure, especially credit, clearing and collateral systems, David Mercer argues.",
-          "url": "https://www.coindesk.com/business/2026/06/09/crypto-should-adopt-the-best-of-centralization-says-lmax-ceo",
-          "source": "CoinDesk",
-          "published": "2026-06-13T13:00:00Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/0fe7d3b13c901c11fe071b452f45eb4f59d58243-2048x1152.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
-        },
-        {
-          "title": "Bitcoin faces one of its biggest mining difficulty drops as miner margins collapse",
-          "description": "The Bitcoin network is poised to execute one of the largest downward adjustments to its mining difficulty in its 17-year history this weekend, a stark reflection of the severe margin compression forcing operators to take hardware offline. The automated recali…",
-          "url": "https://cryptoslate.com/?p=541715",
-          "source": "CryptoSlate",
-          "published": "2026-06-13T12:30:11Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/06/bitcoin-difficulty.jpg"
-        },
-        {
-          "title": "Morpho's $175M raise shows where crypto VC money is flowing",
-          "description": "Morpho’s $175 million funding round is drawing attention to onchain credit markets as investors back infrastructure tied to stablecoins and tokenized assets.",
-          "url": "https://cointelegraph.com/news/morphos-175m-raise-shows-where-the-last-of-the-crypto-vc-money-is-going",
-          "source": "Cointelegraph",
-          "published": "2026-06-13T11:52:41Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/crypto-fiat-money-dollar2.jpg"
-        },
-        {
-          "title": "From nothing bitcoin came, and to nothing it will return",
-          "description": "From nothing bitcoin came, and to nothing it will returntheglobeandmail.com",
-          "url": "https://www.theglobeandmail.com/business/commentary/article-bitcoin-lost-its-value-cryptocurrency/",
-          "source": "The Globe And Mail",
-          "published": "2026-06-13T11:00:00Z",
-          "image": "https://www.theglobeandmail.com/resizer/v2/XRSZY34CGRFW3LM3SVBA7CVUQI.jpg?auth=2aacd80e1947df57acd0d2c87ab58f64114054de4f709d68e687d10c8745a4af&width=1200&height=800&quality=80&smart=true"
         },
         {
           "title": "LG Electronics Teams With Arbitrum for Blockchain-Based Ad Platform",
@@ -287,6 +271,14 @@
           "icon": "💡",
           "articles": [
             {
+              "title": "Middle East ceasefire, Fed interest-rate decision: Crypto Week Ahead",
+              "description": "Your look at what's coming in the week starting June 15.",
+              "url": "https://www.coindesk.com/markets/2026/06/15/middle-east-ceasfire-fed-interest-rate-decision-crypto-week-ahead",
+              "source": "CoinDesk",
+              "published": "2026-06-15T10:14:49Z",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/c2d764b2f129e2c9aabc01c2bda51da577c53ba5-1500x903.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
+            },
+            {
               "title": "Writing a Novel with Phin Argofy",
               "description": "I've written nine non-fiction books and have no idea if I can write a novel. I'm trying anyway: a crypto-thriller called Zero Knowledge, co-written with my AI, Phin Argofy.",
               "url": "https://feld.com/archives/2026/06/writing-a-novel-with-phin-argofy/",
@@ -309,20 +301,20 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "AI cryptomining network's 320,000 RTX 3090-class GPUs allegedly burn 112 megawatts of power on ‘zero useful AI computation’ — GPU rental costs jump 38%, but Pearl’s cards are doing random matrix math, study claims",
-              "description": "A preprint claims Pearl’s AI mining network consumes 320,000 GPU-equivalents and 112 MW while producing no verified useful AI computation.",
-              "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-cryptomining-networks-320-000-rtx-3090-class-gpus-allegedly-burn-112-megawatts-of-power-on-zero-useful-ai-computation-pearls-gpus-are-doing-random-matrix-math-study-claims",
-              "source": "Tom's Hardware UK",
-              "published": "2026-06-14T11:30:00Z",
-              "image": "https://cdn.mos.cms.futurecdn.net/YjX8TJVFkFDKzjssdLLNod-1920-80.png"
-            },
-            {
               "title": "Shai-Hulud Campaign Evolution: Miasma, Hades, and AI Scanner Evasion",
               "description": "IntroductionSince Zscaler ThreatLabz published its analysis of Shai-Hulud V2 in November 2025, the campaign has continued to evolve in ways that distinguish it from more typical software supply chain attacks. Over the last six months, the activity expanded be…",
               "url": "https://www.zscaler.com/blogs/security-research/shai-hulud-campaign-evolution-miasma-hades-and-ai-scanner-evasion",
               "source": "Zscaler.com",
               "published": "2026-06-12T21:14:52Z",
               "image": "https://cms.zscaler.com/sites/default/files/images/blogs/shai_hulud_blog_cover.jpg"
+            },
+            {
+              "title": "Firms are turning to blockchain to fight an ad fraud problem AI is making worse",
+              "description": "Google blocked or removed 8.3 billion ads in 2025 and suspended 24.9 million advertiser accounts, with 602 million of those ads tied directly to scams. Those numbers show that the volume of fraudulent material attempting to reach users has grown large enough …",
+              "url": "https://cryptoslate.com/firms-are-turning-to-blockchain-to-fight-an-ad-fraud-problem-ai-is-making-worse/",
+              "source": "CryptoSlate",
+              "published": "2026-06-12T14:15:31Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/06/ad-bot.jpg"
             }
           ]
         }
