@@ -1,5 +1,5 @@
 {
-  "date": "June 16, 2026",
+  "date": "June 17, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -7,20 +7,20 @@
       "color": "#ffb900",
       "articles": [
         {
+          "title": "Linea and Bermuda Bay zk enable private, atomic cross-chain settlement",
+          "description": "The integration of Linea and Bermuda Bay could revolutionize cross-chain transactions by enhancing privacy, reducing risks, and improving efficiency.\nThe post Linea and Bermuda Bay zk enable private, atomic cross-chain settlement appeared first on Crypto Brie…",
+          "url": "https://cryptobriefing.com/linea-bermuda-private-cross-chain-settlement/",
+          "source": "Crypto Briefing",
+          "published": "2026-06-15T18:54:05Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/15145358/what-is-the-linea-blockchain-800x420.jpeg"
+        },
+        {
           "title": "Coinbase Quantum Report Warns Millions Of Bitcoin Could Face Future Security Risks",
           "description": "Coinbase’s Quantum Advisory Council published a report on post-quantum migration and abandoned coins. The report estimates that millions of Bitcoin may eve",
           "url": "http://www.newsbtc.com/news/coinbase-quantum-report-warns-millions-of-bitcoin-could-face-future-security-ris/",
           "source": "newsBTC",
           "published": "2026-06-14T09:31:51Z",
           "image": "https://www.newsbtc.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-25-2026-08_05_00-AM.png?fit=1222%2C814"
-        },
-        {
-          "title": "EIP-8182 proposed for Hegotá hard fork to enable privacy transfers on Ethereum",
-          "description": "EIP-8182 could redefine Ethereum's privacy landscape, challenging regulatory norms and enhancing user anonymity at the protocol level.\nThe post EIP-8182 proposed for Hegotá hard fork to enable privacy transfers on Ethereum appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/eip-8182-ethereum-hegota-privacy-transfers/",
-          "source": "Crypto Briefing",
-          "published": "2026-06-11T16:13:13Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/11121305/ethereum-privacy-proposal-eip-8182-added-as-candidate-for-he-800x420.jpeg"
         },
         {
           "title": "Best Smart Wallets 2026: Safe, Argent, Coinbase Smart Wallets Ranked for Security and Ease of Use",
@@ -45,22 +45,6 @@
           "source": "Crypto Briefing",
           "published": "2026-06-10T12:53:37Z",
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/10085330/file-zcash-logo-2024-present-svg-wikimedia-commons-2-800x420.png"
-        },
-        {
-          "title": "Privacy push as StarkWare and Sui move toward compliance-ready confidential transfers",
-          "description": "StarkWare and Sui unveil new privacy systems enabling programmable confidential transfers, as Zama tightens compliance and Zcash bug raises concerns over shielded pools.",
-          "url": "https://cointelegraph.com/news/privacy-starkware-sui-move-compliance-confidential-transfers",
-          "source": "Cointelegraph",
-          "published": "2026-06-09T14:01:11Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-significance-of-privacy-in-web3.jpg"
-        },
-        {
-          "title": "Best Crypto Faucets in 2026: Top 5 Platforms That Still Pay Free Crypto",
-          "description": "Crypto faucets were originally websites that provided rewards in small amounts of cryptocurrency in exchange for completing simple tasks. While some cryptocurrency faucets exist today,...\nThe post Best Crypto Faucets in 2026: Top 5 Platforms That Still Pay Fr…",
-          "url": "https://bitcoinfoundation.org/news/altcoins/best-crypto-faucets/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-06-09T10:18:29Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/06/1-1780999891.webp"
         }
       ]
     },
@@ -69,6 +53,22 @@
       "icon": "🔐",
       "color": "#e6a200",
       "articles": [
+        {
+          "title": "1Password Credential Broker reduces secret sprawl through identity-based credential delivery",
+          "description": "1Password has announced 1Password Credential Broker, a new product that securely brokers credentials, tokens, and federated access from 1Password to trusted requesters. The 1Password Credential Broker is available in private beta today, with support for GitHu…",
+          "url": "https://www.helpnetsecurity.com/2026/06/15/1password-credential-broker-reduces-secret-sprawl-through-identity-based-credential-delivery/",
+          "source": "Help Net Security",
+          "published": "2026-06-15T13:16:25Z",
+          "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/28150559/hns-large_logo.webp"
+        },
+        {
+          "title": "1Password debuts Credential Broker to release secrets only when needed",
+          "description": "1Password LLC today announced the launch of 1Password Credential Broker, a new product that hands out credentials, tokens and federated access from its vaults to trusted requesters only when they are needed, rather than leaving secrets scattered across apps, …",
+          "url": "https://siliconangle.com/2026/06/15/1password-debuts-credential-broker-release-secrets-needed/",
+          "source": "SiliconANGLE News",
+          "published": "2026-06-15T13:00:32Z",
+          "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/1password.png"
+        },
         {
           "title": "Zcash audit by Anthropic finds no serious bugs, says Zooko",
           "description": "The audit's clean bill of health boosts confidence in Zcash, but highlights ongoing challenges in verifying privacy coin integrity.\nThe post Zcash audit by Anthropic finds no serious bugs, says Zooko appeared first on Crypto Briefing.",
@@ -108,14 +108,6 @@
           "source": "CryptoSlate",
           "published": "2026-06-10T15:45:54Z",
           "image": "https://cryptoslate.com/wp-content/uploads/2026/06/humanity-protocol-hack.jpg"
-        },
-        {
-          "title": "Humanity Protocol Loses $36M After Private Keys 'Compromised,' Token Crashes 73%",
-          "description": "The decentralized identity protocol said a compromised employee's laptop let attackers seize its bridges and mint tokens at will.",
-          "url": "https://decrypt.co/370485/humanity-protocol-loses-36m-after-private-keys-compromised-token-crashes-73",
-          "source": "Decrypt",
-          "published": "2026-06-09T10:54:37Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/hacker3-gID_7.png"
         }
       ]
     },
@@ -125,36 +117,52 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Toobit Solidifies Platform Security for Global Traders",
-          "description": "GEORGE TOWN, Cayman Islands, June 15, 2026 (GLOBE NEWSWIRE) — Toobit, the award-winning global cryptocurrency exchange, today announces an upgrade to its security ecosystem. By consolidating defensive protocols, independent audit findings, and verification to…",
-          "url": "https://financialpost.com/globe-newswire/toobit-solidifies-platform-security-for-global-traders",
-          "source": "Financial Post",
-          "published": "2026-06-15T09:42:53Z",
-          "image": null
+          "title": "Bitcoin yield is already here, now finance wants to make it normal",
+          "description": "Bitcoin's protocol rewards miners through block subsidies and transaction fees, leaving holders who sit on coins with no claim on the network's output, no interest, no dividend, no staking reward of any kind. Wall Street is building income products around it …",
+          "url": "https://cryptoslate.com/bitcoin-yield-is-already-here-now-finance-wants-to-make-it-normal/",
+          "source": "CryptoSlate",
+          "published": "2026-06-16T09:23:14Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/06/bitcoin-yield-.jpg"
         },
         {
-          "title": "Bybit expands RWA push with tokenized bond funds from PIMCO, CMBI",
-          "description": "Bybit has launched tokenized bond funds from PIMCO and China Merchants Bank International through its new RWA Earn platform, expanding access to blockchain-based fixed-income products.",
-          "url": "https://cointelegraph.com/news/bybit-launches-tokenized-bond-products-from-pimco-and-cmbi-through-rwa-platform",
+          "title": "U.S.-led global takedown shatters $389M Bitcoin laundering empire: AudiA6âs dark web crimes exposed",
+          "description": "U.S. federal prosecutors dismantled AudiA6, a transnational cryptocurrency money laundering network, seizing nearly $400 million in illicit Bitcoin and arresting key figures Ruslan Tkachuk and Alexander Ledenev. AudiA6 operated a crypto mixing service and cyb…",
+          "url": "https://www.naturalnews.com/2026-06-16-us-led-global-takedown-shatters-bitcoin-laundering-empire.html",
+          "source": "Naturalnews.com",
+          "published": "2026-06-16T06:00:00Z",
+          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/bitcoin-cryptocurrency-devalue.jpg"
+        },
+        {
+          "title": "State Street launches GENIUS Act-aligned money market fund for stablecoin reserves",
+          "description": "State Street Investment Management launched a money market fund for stablecoin issuers, joining JPMorgan, Morgan Stanley and others targeting reserve assets.",
+          "url": "https://cointelegraph.com/news/state-street-launches-genius-act-aligned-money-market-fund-for-stablecoin-reserves",
           "source": "Cointelegraph",
-          "published": "2026-06-15T07:00:00Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-a-comprehensive-and-easy-to-understand-explanation-of-rwa.png"
+          "published": "2026-06-16T06:00:00Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-the-genius-act-how-it-could-reshape-us-stablecoin-regulation.png"
         },
         {
-          "title": "How to Invest in Tokenized Treasuries: Step-by-Step Guide",
-          "description": "Out here, tokenized government debt acts like maturity in a space full of noise. No wild gains promised. Not chasing free tokens or viral coins....\nThe post How to Invest in Tokenized Treasuries: Step-by-Step Guide appeared first on Bitcoin Foundation.",
-          "url": "https://bitcoinfoundation.org/news/defi/how-to-invest-in-tokenized-treasuries-step-by-step-guide/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-06-14T12:43:54Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/06/RWA1.webp"
+          "title": "Standard Chartered Says UNI Could Hit $100 as Wall Street Moves Onchain",
+          "description": "Standard Chartered has opened coverage of Uniswap with one of the most aggressive Wall Street forecasts yet for a m...",
+          "url": "https://www.cryptoprowl.com/releases/standard-chartered-says-uni-could-hit-100-as-wall-street-moves-onchain-5877",
+          "source": "Cryptoprowl.com",
+          "published": "2026-06-15T23:12:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/DB2EF25EB76B00058FF070769E6773BBEB2FEC6E1A109E52E2EA37B859A4B258/subgraphmysterio/resizefill_w1200_h720;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2Fb4eb4412361f8408996d958cd335188c"
         },
         {
-          "title": "Japan Three Biggest Banks Unite to Launch Yen Crypto Stablecoin by March 2027",
-          "description": null,
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_437ad20e-8eca-4b48-9029-f0695211635a",
-          "source": "Yahoo Entertainment",
-          "published": "2026-06-14T11:36:13Z",
-          "image": null
+          "title": "Trump crypto company's USD1 stablecoins backing UFC event bonuses",
+          "description": "The UFC said it will pay its fighters bonuses using USD1, the US dollar-pegged stablecoin issued by the Trump family crypto company, as part of one of the White House’s semiquincentennial events.",
+          "url": "https://cointelegraph.com/news/donald-trump-crypto-company-ufc-fighter-bonuses-usd1-stablecoins",
+          "source": "Cointelegraph",
+          "published": "2026-06-15T22:10:00Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/boxingufc-3.png"
+        },
+        {
+          "title": "The 4 Biggest Problems Banks Have With Stablecoins",
+          "description": "There’s a battle brewing over blockchain finance. Banks view stablecoins as a new form of private money that lacks the stabilizing infrastructure developed around banking over the past century. Stablecoin advocates counter that many of those protections emerg…",
+          "url": "https://www.pymnts.com/cryptocurrency/2026/4-biggest-problems-banks-have-with-stablecoins/",
+          "source": "pymnts.com",
+          "published": "2026-06-15T17:57:15Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/06/stablecoins-cryptocurrency-blockchain-tokenization.jpeg"
         },
         {
           "title": "SpaceX Tokenization Scramble Shows The Difference Between Tokens And Real Shares",
@@ -165,28 +173,12 @@
           "image": "https://bitcoinist.com/wp-content/uploads/2026/06/featured_bitcoinist_spacex-tokenization-scramble-shows-the-difference-between-tokens-and-real-shares.png"
         },
         {
-          "title": "Antier Solutions Signs Strategic MoU with NIELIT to Advance Blockchain and AI Skilling Across India",
-          "description": "A landmark five-year Memorandum of Understanding between NIELIT, a Government of India autonomous body under MeitY, and Antier Solutions establishes a partnership for technology education, digital learning infrastructure, and co-development of emerging digita…",
-          "url": "https://www.thehindubusinessline.com/brandhub/pr-release/antier-solutions-signs-strategic-mou-with-nielit-to-advance-blockchain-and-ai-skilling-across-india/article71092412.ece",
-          "source": "BusinessLine",
-          "published": "2026-06-12T14:04:43Z",
-          "image": "https://th-i.thgim.com/public/incoming/z1yjly/article71092408.ece/alternates/LANDSCAPE_1200/Antier_Solutions.jpg"
-        },
-        {
-          "title": "Securitize Expands STAC, Tokenized AAA CLO Fund, to Solana",
-          "description": "Ethena Labs Plans $250 Million Allocation as Institutional Demand for Tokenized Credit Continues to Grow MIAMI, June 12, 2026 /PRNewswire/ -- Securitize, Inc. (which has announced a proposed business combination with Cantor Equity Partners II, Inc. (Nasdaq: C…",
-          "url": "https://www.prnewswire.com/news-releases/securitize-expands-stac-tokenized-aaa-clo-fund-to-solana-302798777.html",
-          "source": "PRNewswire",
-          "published": "2026-06-12T13:00:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS1745764/Securitize-Logo.jpg?id=OA2699283&p=facebook"
-        },
-        {
-          "title": "Nobody Told the ERP That Blockchain Won",
-          "description": "Blockchain finance has spent years making the inevitable seem imminent. This week, industry insiders raised the stakes further, predicting that Wall Street will operate solely on blockchain technology in under five years. The logic tracks: Once assets are dig…",
-          "url": "https://www.pymnts.com/blockchain/2026/nobody-told-the-erp-that-blockchain-won/",
-          "source": "pymnts.com",
-          "published": "2026-06-11T21:28:00Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2026/06/blockchain-settlement-1.jpg"
+          "title": "How to Pay with Stablecoins: Complete Guide for 2026",
+          "description": "Stablecoins are cryptocurrencies with a value that is pegged to or backed by a stable outside asset such as a fiat currency. Unlike other cryptocurrencies...\nThe post How to Pay with Stablecoins: Complete Guide for 2026 appeared first on Bitcoin Foundation.",
+          "url": "https://bitcoinfoundation.org/news/stablecoin-news/how-to-pay-with-stablecoins-complete-guide-for-2026/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-06-11T14:09:59Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/06/1-1781177135.webp"
         }
       ]
     },
@@ -196,20 +188,20 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Animoca Brands cofounder Yat Siu argues Asia will fuse AI and the blockchain before the West does",
-          "description": "“In Asia, we don’t have this problem since we’re much more comfortable with money.”",
-          "url": "https://fortune.com/2026/06/15/animoca-brands-cofounder-yat-siu-asia-ai-blockchain/",
-          "source": "Fortune",
-          "published": "2026-06-15T07:30:29Z",
-          "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-2171972713.jpg?resize=1200,600"
+          "title": "E-Livestock Global and Maryland Blockchain Association Highlight Digital Traceability Tools for New World Screwworm Response",
+          "description": "E-Livestock Global and Maryland Blockchain Association Highlight Digital Traceability Tools for New World Screwworm Response\n...",
+          "url": "https://www.globenewswire.com/news-release/2026/06/15/3311979/0/en/E-Livestock-Global-and-Maryland-Blockchain-Association-Highlight-Digital-Traceability-Tools-for-New-World-Screwworm-Response.html",
+          "source": "GlobeNewswire",
+          "published": "2026-06-15T15:48:00Z",
+          "image": "https://ml.globenewswire.com/Resource/Download/c3aa1fea-c2a4-40e1-b09a-733f4d3b4897"
         },
         {
-          "title": "LTP Secures Australian Financial Services Licence (AFSL) to Bridge Institutional Capital with Tokenized Real-World Assets",
-          "description": "The AFSL authorization enables LTP to provide regulated financial product advice and dealing services for wholesale clients, catalyzing the convergence of institutional liquidity and blockchain-native financial instruments.",
-          "url": "https://www.globenewswire.com/news-release/2026/06/15/3311515/0/en/LTP-Secures-Australian-Financial-Services-Licence-AFSL-to-Bridge-Institutional-Capital-with-Tokenized-Real-World-Assets.html",
+          "title": "E-Power Inc. Secures RMB 3 Million Government Grant from Guizhou Provincial Big Data Bureau for AIoT and Blockchain-Driven Smart Manufacturing Platform in the Lithium Battery Anode Industry",
+          "description": "DOVER, USA, June 15, 2026 (GLOBE NEWSWIRE) -- E-Power Inc. (“E-Power”, the “Company”, “we” or “our”) (NASDAQ: EPOW), a leading provider of AI Data Center (AIDC) microgrid solutions and advanced battery materials, today announced that its subsidiary, Sunrise (…",
+          "url": "https://www.globenewswire.com/news-release/2026/06/15/3311860/0/en/E-Power-Inc-Secures-RMB-3-Million-Government-Grant-from-Guizhou-Provincial-Big-Data-Bureau-for-AIoT-and-Blockchain-Driven-Smart-Manufacturing-Platform-in-the-Lithium-Battery-Anode-.html",
           "source": "GlobeNewswire",
-          "published": "2026-06-15T06:00:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/dbba5843-a4c9-4347-9ef3-df9a10ee9763"
+          "published": "2026-06-15T13:27:00Z",
+          "image": "https://ml.globenewswire.com/Resource/Download/6097a96e-e2d4-4e3d-a40a-23ecddd12ce8"
         },
         {
           "title": "ASX faces $20.5m penalty for failed blockchain-based system replacement",
@@ -252,12 +244,12 @@
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/4caf34246416f1020ad3fc1aaa25373b18a9161f-5760x3240.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
         },
         {
-          "title": "Avalanche, latest crypto treasury platform, set to start trading on Nasdaq as proxy trade evolves",
-          "description": "Avalanche is a six-year-old blockchain built for business that counts BlackRock, Franklin Templeton and Apollo among its users.",
-          "url": "https://www.cnbc.com/2026/06/11/avalanche-focused-treasury-firm-launches-on-nasdaq-as-crypto-proxy-trade-evolves.html",
-          "source": "CNBC",
-          "published": "2026-06-11T16:00:34Z",
-          "image": "https://image.cnbcfm.com/api/v1/image/108248271-1767636247748-gettyimages-2241476296-anotherday129719494_macgdklv.jpeg?v=1767646017&w=1920&h=1080"
+          "title": "Nobody Told the ERP That Blockchain Won",
+          "description": "Blockchain finance has spent years making the inevitable seem imminent. This week, industry insiders raised the stakes further, predicting that Wall Street will operate solely on blockchain technology in under five years. The logic tracks: Once assets are dig…",
+          "url": "https://www.pymnts.com/blockchain/2026/nobody-told-the-erp-that-blockchain-won/",
+          "source": "pymnts.com",
+          "published": "2026-06-11T21:28:00Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/06/blockchain-settlement-1.jpg"
         }
       ]
     },
@@ -271,12 +263,12 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Middle East ceasefire, Fed interest-rate decision: Crypto Week Ahead",
-              "description": "Your look at what's coming in the week starting June 15.",
-              "url": "https://www.coindesk.com/markets/2026/06/15/middle-east-ceasfire-fed-interest-rate-decision-crypto-week-ahead",
-              "source": "CoinDesk",
-              "published": "2026-06-15T10:14:49Z",
-              "image": "https://cdn.sanity.io/images/s3y3vcno/production/c2d764b2f129e2c9aabc01c2bda51da577c53ba5-1500x903.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
+              "title": "Bitcoin rallies after Japan rate increase with XLM, INJ, UNI advancing",
+              "description": "Bitcoin climbed above $66,500 after the Bank of Japan raised interest rates, lifting the token about 1.5% in 24 hours.\nDerivatives data show risk appetite returning, with crypto trading volumes, open interest and liquidations of short positions all rising, an…",
+              "url": "https://biztoc.com/x/a15922b0e8a0916a",
+              "source": "Biztoc.com",
+              "published": "2026-06-16T10:34:15Z",
+              "image": "https://biztoc.com/cdn/a15922b0e8a0916a_s.webp"
             },
             {
               "title": "Writing a Novel with Phin Argofy",
@@ -301,20 +293,20 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "Shai-Hulud Campaign Evolution: Miasma, Hades, and AI Scanner Evasion",
-              "description": "IntroductionSince Zscaler ThreatLabz published its analysis of Shai-Hulud V2 in November 2025, the campaign has continued to evolve in ways that distinguish it from more typical software supply chain attacks. Over the last six months, the activity expanded be…",
-              "url": "https://www.zscaler.com/blogs/security-research/shai-hulud-campaign-evolution-miasma-hades-and-ai-scanner-evasion",
-              "source": "Zscaler.com",
-              "published": "2026-06-12T21:14:52Z",
-              "image": "https://cms.zscaler.com/sites/default/files/images/blogs/shai_hulud_blog_cover.jpg"
+              "title": "Uniswap Price Can Soar to $100 If DeFi Hits $2.7T, StanChart Says",
+              "description": "Standard Chartered says Uniswap price can rise nearly 40 times by 2030, but the call depends on tokenized assets moving into DeFi at scale. Standard...\nThe post Uniswap Price Can Soar to $100 If DeFi Hits $2.7T, StanChart Says appeared first on Bitcoin Founda…",
+              "url": "https://bitcoinfoundation.org/news/altcoins/uniswap-price-can-soar-to-100-stanchart-says/",
+              "source": "Bitcoinfoundation.org",
+              "published": "2026-06-16T08:14:11Z",
+              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/06/iauhsda.webp"
             },
             {
-              "title": "Firms are turning to blockchain to fight an ad fraud problem AI is making worse",
-              "description": "Google blocked or removed 8.3 billion ads in 2025 and suspended 24.9 million advertiser accounts, with 602 million of those ads tied directly to scams. Those numbers show that the volume of fraudulent material attempting to reach users has grown large enough …",
-              "url": "https://cryptoslate.com/firms-are-turning-to-blockchain-to-fight-an-ad-fraud-problem-ai-is-making-worse/",
-              "source": "CryptoSlate",
-              "published": "2026-06-12T14:15:31Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/06/ad-bot.jpg"
+              "title": "Deprecated Aztec Connect Contract Exploited For $2.19M, SlowMist Says",
+              "description": "SlowMist says a deprecated Aztec Connect smart contract was exploited for $2.19 million, highlighting the risks left behind by inactive DeFi infrastructure.",
+              "url": "http://www.newsbtc.com/news/deprecated-aztec-connect-contract-exploited-for-219m-slowmist-says/",
+              "source": "newsBTC",
+              "published": "2026-06-15T22:19:15Z",
+              "image": "https://www.newsbtc.com/wp-content/uploads/2025/08/Hacker-from-Unsplash.jpeg?fit=3000%2C2000"
             }
           ]
         }
