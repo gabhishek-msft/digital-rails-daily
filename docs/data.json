@@ -1,11 +1,35 @@
 {
-  "date": "June 18, 2026",
+  "date": "June 19, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "Ready USDC card halts non-EEA service after issuer change, users report",
+          "description": "Ready, a crypto wallet company, reportedly restricted USDC card access outside the EEA after a card provider change, prompting user complaints over short notice.",
+          "url": "https://cointelegraph.com/news/ready-usdc-card-service-halt-non-eea-report",
+          "source": "Cointelegraph",
+          "published": "2026-06-17T14:08:14Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/cointelegraph-access-restriction-illustration.png"
+        },
+        {
+          "title": "Crypto Card Ready Card Shutdown Sparks Outrage After One-Hour Warning",
+          "description": "Ready Card, a Starknet-based USDC card, drew backlash after giving non-EEA users one hour before card deactivation. Ready Card users complained that the USDC card’s...\nThe post Crypto Card Ready Card Shutdown Sparks Outrage After One-Hour Warning appeared fir…",
+          "url": "https://bitcoinfoundation.org/news/crypto-companies-news/ready-card-shutdown-sparks-outrage-after-one-hour-warning/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-06-17T11:44:16Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/04/investor-rage-crash-scream-opt.webp"
+        },
+        {
+          "title": "Deutsche Bank deploys production settlement infrastructure on zkSync for real transactions",
+          "description": "Deutsche Bank's blockchain adoption highlights institutional trust in public networks, yet challenges remain in aligning token economics with usage.\nThe post Deutsche Bank deploys production settlement infrastructure on zkSync for real transactions appeared f…",
+          "url": "https://cryptobriefing.com/deutsche-bank-zksync-settlement-infrastructure/",
+          "source": "Crypto Briefing",
+          "published": "2026-06-17T10:44:14Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/17064412/deutsche-bank-800x420.jpeg"
+        },
         {
           "title": "Tokenized asset market tops $43B as institutions accelerate blockchain adoption",
           "description": "Tokenized financial assets have surged 37% in six months as institutions expand blockchain adoption and the market broadens beyond funds and private credit, according to Token Terminal.",
@@ -31,20 +55,12 @@
           "image": "https://mmx.prnewswire.com/media/MS1866849/74dfa2a31c6e4d1cb82e86f9b62fe67f.jpg?id=OA2719922&p=facebook"
         },
         {
-          "title": "Linea and Bermuda Bay zk enable private, atomic cross-chain settlement",
-          "description": "The integration of Linea and Bermuda Bay could revolutionize cross-chain transactions by enhancing privacy, reducing risks, and improving efficiency.\nThe post Linea and Bermuda Bay zk enable private, atomic cross-chain settlement appeared first on Crypto Brie…",
-          "url": "https://cryptobriefing.com/linea-bermuda-private-cross-chain-settlement/",
+          "title": "Starkscan launches new explorer and data API for Starknet",
+          "description": "Starkscan's AI-friendly API could revolutionize data interaction on Starknet, potentially boosting developer engagement and ecosystem growth.\nThe post Starkscan launches new explorer and data API for Starknet appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/starkscan-explorer-api-starknet/",
           "source": "Crypto Briefing",
-          "published": "2026-06-15T18:54:05Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/15145358/what-is-the-linea-blockchain-800x420.jpeg"
-        },
-        {
-          "title": "NEAR’s Confidential Intents TVL surpasses $26M as private execution expands",
-          "description": "NEAR's Confidential Intents expansion highlights growing demand for cross-chain privacy, potentially reshaping DeFi's approach to transaction confidentiality.\nThe post NEAR’s Confidential Intents TVL surpasses $26M as private execution expands appeared first …",
-          "url": "https://cryptobriefing.com/near-confidential-intents-tvl-26m/",
-          "source": "Crypto Briefing",
-          "published": "2026-06-15T16:15:53Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/15121544/what-is-near-protocol-800x420.jpeg"
+          "published": "2026-06-15T14:35:32Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/15103525/starknet-staking-delegation-program-800x420.jpeg"
         }
       ]
     },
@@ -54,6 +70,14 @@
       "color": "#e6a200",
       "articles": [
         {
+          "title": "OKX adopts Chainlink Data Streams on X Layer mainnet",
+          "description": "The integration enhances X Layer's DeFi capabilities, potentially boosting OKB demand and solidifying its position in the Ethereum ecosystem.\nThe post OKX adopts Chainlink Data Streams on X Layer mainnet appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/okx-chainlink-data-streams-x-layer/",
+          "source": "Crypto Briefing",
+          "published": "2026-06-17T14:18:42Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/17101840/okx-crypto-exchange-review-why-choose-okx-5-800x420.png"
+        },
+        {
           "title": "1Password Credential Broker reduces secret sprawl through identity-based credential delivery",
           "description": "1Password has announced 1Password Credential Broker, a new product that securely brokers credentials, tokens, and federated access from 1Password to trusted requesters. The 1Password Credential Broker is available in private beta today, with support for GitHu…",
           "url": "https://www.helpnetsecurity.com/2026/06/15/1password-credential-broker-reduces-secret-sprawl-through-identity-based-credential-delivery/",
@@ -62,36 +86,12 @@
           "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/28150559/hns-large_logo.webp"
         },
         {
-          "title": "1Password debuts Credential Broker to release secrets only when needed",
-          "description": "1Password LLC today announced the launch of 1Password Credential Broker, a new product that hands out credentials, tokens and federated access from its vaults to trusted requesters only when they are needed, rather than leaving secrets scattered across apps, …",
-          "url": "https://siliconangle.com/2026/06/15/1password-debuts-credential-broker-release-secrets-needed/",
-          "source": "SiliconANGLE News",
-          "published": "2026-06-15T13:00:32Z",
-          "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/05/1password.png"
-        },
-        {
           "title": "Zcash audit by Anthropic finds no serious bugs, says Zooko",
           "description": "The audit's clean bill of health boosts confidence in Zcash, but highlights ongoing challenges in verifying privacy coin integrity.\nThe post Zcash audit by Anthropic finds no serious bugs, says Zooko appeared first on Crypto Briefing.",
           "url": "https://cryptobriefing.com/zcash-anthropic-audit-no-serious-bugs/",
           "source": "Crypto Briefing",
           "published": "2026-06-12T21:57:24Z",
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/12175716/zooko-wilcox-800x420.jpeg"
-        },
-        {
-          "title": "EIP-8182 proposed for Hegotá hard fork to enable privacy transfers on Ethereum",
-          "description": "EIP-8182 could redefine Ethereum's privacy landscape, challenging regulatory norms and enhancing user anonymity at the protocol level.\nThe post EIP-8182 proposed for Hegotá hard fork to enable privacy transfers on Ethereum appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/eip-8182-ethereum-hegota-privacy-transfers/",
-          "source": "Crypto Briefing",
-          "published": "2026-06-11T16:13:13Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/11121305/ethereum-privacy-proposal-eip-8182-added-as-candidate-for-he-800x420.jpeg"
-        },
-        {
-          "title": "Restoring Crypto Privacy: ZCASH (ZEC) Makes A Move After 50% Crash",
-          "description": "Zcash (ZEC) is making a push to restore confidence in its privacy-focused network after a major exploit scare triggered a sharp market selloff. Following a more than 50% price crash in ZEC, developers moved quickly to patch the network vulnerability. They are…",
-          "url": "https://bitcoinist.com/zcash-makes-move-after-crash/",
-          "source": "Bitcoinist",
-          "published": "2026-06-11T01:30:32Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/06/Zcash-from-Medium-2.jpg"
         }
       ]
     },
@@ -101,68 +101,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Quantum Computing Threat to Bitcoin: Real or Hype?",
-          "description": "A quantum computer is not just another, faster computer. Instead of bits that can encode either 0 or 1, qubits can be in superposition, and...\nThe post Quantum Computing Threat to Bitcoin: Real or Hype? appeared first on Bitcoin Foundation.",
-          "url": "https://bitcoinfoundation.org/news/ai-news/quantum-computing-threat-to-bitcoin-real-or-hype/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-06-17T10:06:58Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/06/1-1781600390.webp"
-        },
-        {
-          "title": "KuCoin Wealth Introduces Its First Quant Fund as Demand Grows for Professional Digital Asset Allocation",
-          "description": "PROVIDENCIALES, Turks and Caicos Islands, June 17, 2026 /PRNewswire/ -- KuCoin, a leading global crypto platform built on trust, today announced the launch of the KuCoin Wealth Quant Fund, introducing its first product, the Neutral Enhanced Fund. Designed for…",
-          "url": "https://www.prnewswire.com/news-releases/kucoin-wealth-introduces-its-first-quant-fund-as-demand-grows-for-professional-digital-asset-allocation-302802908.html",
-          "source": "PRNewswire",
-          "published": "2026-06-17T10:00:00Z",
-          "image": "https://mma.prnewswire.com/media/2997045/image1.jpg?p=facebook"
-        },
-        {
-          "title": "EcoVadis Announces Catalyst 2026: The Global Virtual Event Bringing \"Network Advantage\" to the Sustainable Supply Chain",
-          "description": "Virtual by design. Global by nature. Bringing buyers and suppliers together to navigate risk, regulation and AI-driven change. PARIS and NEW YORK, June 17, 2026 /PRNewswire/ -- EcoVadis, the global standard for resilient, sustainable supply chains, today anno…",
-          "url": "https://www.prnewswire.com/news-releases/ecovadis-announces-catalyst-2026-the-global-virtual-event-bringing-network-advantage-to-the-sustainable-supply-chain-302802203.html",
-          "source": "PRNewswire",
-          "published": "2026-06-17T10:00:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS1837954/EcoVadis-Logo.jpg?id=OA2719883&p=facebook"
-        },
-        {
-          "title": "House, Senate Strike Deal on Housing Bill With CBDC Ban Through 2030",
-          "description": "A bicameral deal on the 21st Century ROAD to Housing Act revives a provision barring the Fed from issuing a digital dollar until 2030.",
-          "url": "https://decrypt.co/371390/house-senate-strike-deal-on-housing-bill-with-cbdc-ban-through-2030",
+          "title": "Bitcoin Steadies Near $64K as Analysts Eye Floor After Hawkish Fed",
+          "description": "BTC slid to around $64,100 after Kevin Warsh's hawkish debut, but analysts argue a $60,000 floor and catalysts could spark a rebound.",
+          "url": "https://decrypt.co/371511/bitcoin-steadies-near-64k-as-analysts-eye-floor-after-hawkish-fed",
           "source": "Decrypt",
-          "published": "2026-06-17T09:34:43Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/US-Capitol-decrypt-style-01-gID_7.png"
+          "published": "2026-06-18T10:07:12Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/bitcoin-decrypt-style-neon-gID_7.png"
         },
         {
-          "title": "Bitget lists o1.exchange (O) for Spot Trading",
-          "description": "Bitget lists o1.exchange (O) for spot trading, expanding DeFi access to multi-chain DEX aggregation and on-chain trading tools....",
-          "url": "https://www.globenewswire.com/news-release/2026/06/17/3313238/0/en/Bitget-lists-o1-exchange-O-for-Spot-Trading.html",
-          "source": "GlobeNewswire",
-          "published": "2026-06-17T09:29:00Z",
-          "image": "https://ml-eu.globenewswire.com/Resource/Download/90572d83-947e-4500-b394-b2981f3f3c3a"
+          "title": "Grayscale applies traditional finance models to AAVE, sees $175 value",
+          "description": "Grayscale estimated a one-year base-case value of $175 for AAVE using traditional valuation methods including cash-flow analysis, earnings multiples and comparisons with banks and fintech firms.",
+          "url": "https://cointelegraph.com/news/grayscale-aave-traditional-finance-defi-token-valuation",
+          "source": "Cointelegraph",
+          "published": "2026-06-18T09:45:51Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/presentation-woman-man-charts-up-aave-1.jpg"
         },
         {
-          "title": "First Block, Onpharma Company and Crito Capital Announce First Solana STO for US Medical Device Business",
-          "description": "London, United Kingdom, 17th June 2026, Chainwire\nThe post First Block, Onpharma Company and Crito Capital Announce First Solana STO for US Medical Device Business appeared first on The Daily Hodl.",
-          "url": "https://dailyhodl.com/2026/06/17/first-block-onpharma-company-and-crito-capital-announce-first-solana-sto-for-us-medical-device-business/",
+          "title": "Calais Becomes 1st Quantitative Hedge Fund to Deploy UBS uMINT as OES Collateral via Bybit, ByCustody & DigiFT",
+          "description": "Dubai, United Arab Emirates, 18th June 2026, Chainwire\nThe post Calais Becomes 1st Quantitative Hedge Fund to Deploy UBS uMINT as OES Collateral via Bybit, ByCustody & DigiFT appeared first on The Daily Hodl.",
+          "url": "https://dailyhodl.com/2026/06/18/calais-becomes-1st-quantitative-hedge-fund-to-deploy-ubs-umint-as-oes-collateral-via-bybit-bycustody-digift/",
           "source": "The Daily Hodl",
-          "published": "2026-06-17T08:10:14Z",
-          "image": "https://dailyhodl.com/wp-content/uploads/2026/06/firstblock_ai_15x9_1781627374xqwzopjMn3.jpg?resize=266,160"
+          "published": "2026-06-18T09:43:40Z",
+          "image": "https://dailyhodl.com/wp-content/uploads/2026/06/BybitLogoNFP_17817717054wl5icDiGK.jpg?resize=1600,900"
         },
         {
-          "title": "First Block, Onpharma Company, and Crito Capital Announce First Solana Sto for U.S. Medical Device Business",
-          "description": "London, United Kingdom, 17th June 2026, Chainwire\nThe post First Block, Onpharma Company, and Crito Capital Announce First Solana Sto for U.S. Medical Device Business appeared first on The Daily Hodl.",
-          "url": "https://dailyhodl.com/2026/06/17/first-block-onpharma-company-and-crito-capital-announce-first-solana-sto-for-u-s-medical-device-business/",
-          "source": "The Daily Hodl",
-          "published": "2026-06-17T08:10:14Z",
-          "image": "https://dailyhodl.com/wp-content/uploads/2026/06/firstblock_ai_15x9_1781627374xqwzopjMn3.jpg?resize=1600,960"
+          "title": "Bitcoin Drops Below $64K After Hawkish Fed Meeting — Investors Flee Risk Assets",
+          "description": "We break down how the Fed’s first meeting under Kevin Warsh played out and how bitcoin and Ethereum reacted to the central bank’s decision. The...\nThe post Bitcoin Drops Below $64K After Hawkish Fed Meeting — Investors Flee Risk Assets appeared first on Bitco…",
+          "url": "https://bitcoinfoundation.org/news/bitcoin/us-fed-meeting/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-06-18T09:40:13Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/06/ChatGPT-Image-18-июн.-2026-г.-12_31_21-1.webp"
         },
         {
-          "title": "BlackRock Launches Covered-Call Bitcoin ETF Under BITA Ticker",
-          "description": "BlackRock’s BITA ETF gives investors a bitcoin-linked income product, but covered-call strategies can cap upside during strong rallies.",
-          "url": "https://bitcoinist.com/blackrock-launches-covered-call-bitcoin-etf-under-bita-ticker/",
-          "source": "Bitcoinist",
-          "published": "2026-06-17T07:09:44Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2025/05/Blackrock.jpg"
+          "title": "Solana’s $1B USDC mint collides with DeFi app shutdown as users face unfinished Drift recovery",
+          "description": "Users face a September exit deadline while fresh Solana minting signals show liquidity moving faster than recovery systems.\nThe post Solana’s $1B USDC mint collides with DeFi app shutdown as users face unfinished Drift recovery appeared first on CryptoSlate.",
+          "url": "https://cryptoslate.com/solanas-1b-usdc-mint-shows-what-liquidity-still-cannot-fix-for-users/",
+          "source": "CryptoSlate",
+          "published": "2026-06-18T09:30:02Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/06/pyra-shutdown-usdc-solana.jpg"
+        },
+        {
+          "title": "Crypto’s Future May Depend on Lawyers Who Think Like Operators",
+          "description": "Explore more conversations like this From the Block.  For most of the cryptocurrency industry’s history, lawyers occupied a familiar role: identify risks, interpret regulations and tell companies what they couldn’t do. But Mike Katz, partner in Manatt’s Finan…",
+          "url": "https://www.pymnts.com/cryptocurrency/2026/cryptos-future-may-depend-on-lawyers-who-think-like-operators/",
+          "source": "pymnts.com",
+          "published": "2026-06-18T08:03:27Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/06/SB1-04-Podcast-Hero-Citi-for-story-cropped.png"
+        },
+        {
+          "title": "Crypto PACs are helping Senators win US primaries faster than the Senate can move the law they want",
+          "description": "Fairshake, the crypto industry's flagship super PAC, put more than $12 million behind Barry Moore's run for an open Alabama Senate seat, the largest single-candidate spend of its 2026 campaign, and on Tuesday, Moore won the Republican runoff with about 56% of…",
+          "url": "https://cryptoslate.com/?p=542241",
+          "source": "CryptoSlate",
+          "published": "2026-06-18T08:00:15Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/06/crypto-pac.jpg"
+        },
+        {
+          "title": "JPMorgan Chase CEO Jamie Dimon Declares War on Clarity Act, Calls Coinbase’s Armstrong ‘Full of Sh*t’",
+          "description": "JPMorgan Chase CEO Jamie Dimon has drawn a battle line in Washington: the Clarity Act, as written, is dead on arrival — and Coinbase CEO Brian Armstrong is the enemy driving it. In a Fox Business interview on Friday, Dimon unloaded on the pending crypto marke…",
+          "url": "https://www.activistpost.com/jpmorgan-chase-ceo-jamie-dimon-declares-war-on-clarity-act-calls-coinbases-armstrong-full-of-sht/",
+          "source": "Activistpost.com",
+          "published": "2026-06-18T02:04:00Z",
+          "image": "https://www.activistpost.com/wp-content/uploads/2026/06/JPMorgan-Chase-CEO-Jamie-Dimon-Declares-War-on-Clarity-Act-Calls-Coinbases-Armstrong-‘Full-of-Sht-1024x576-1.webp"
         }
       ]
     },
@@ -172,20 +172,28 @@
       "color": "#00cc88",
       "articles": [
         {
+          "title": "‘Magic Pill’ or Placebo?: Black Politicians and the Crypto Lobby",
+          "description": "Young Black congresspeople are winning their seats with support from the crypto industry. But can investing in crypto help close the racial wealth gap?\nThe post ‘Magic Pill’ or Placebo?: Black Politicians and the Crypto Lobby appeared first on The American Pr…",
+          "url": "http://prospect.org/2026/06/18/magic-pill-or-placebo-black-politicians-crypto-lobby/",
+          "source": "The American Prospect",
+          "published": "2026-06-18T09:15:00Z",
+          "image": "https://i0.wp.com/prospect.org/wp-content/uploads/2026/06/Bethune-Black-politicians-crypto-061826.jpg?fit=2127%2C1409&ssl=1"
+        },
+        {
+          "title": "The Real-Time Revolution: Why Blockchain Needs Data Stream Processing",
+          "description": "Blockchain is an extremely data-driven technology because its primary function is to store, verify, and coordinate independent records in a secure, distributed data network. Without this information, no transaction, smart contract execution, or network activi…",
+          "url": "https://dataview.in/the-real-time-revolution-why-blockchain-needs-data-stream-processing/",
+          "source": "Dataview.in",
+          "published": "2026-06-17T18:00:00Z",
+          "image": "https://dz2cdn1.dzone.com/storage/article-thumb/19049426-thumb.jpg"
+        },
+        {
           "title": "“Breaking the Chains 2026” on BrightU: How Big Tech’s $1T Texas data center is forging the chains of the New World Order",
           "description": "The $1 trillion infrastructure investment in Texas (including Apple’s half-trillion and “Operation Stargate”) is not for economic revival but for the physical construction of a digital prison by globalist elites to enslave humanity, using copper, aluminum and…",
           "url": "https://www.naturalnews.com/2026-06-17-texas-data-center-forging-chains-new-world-order.html",
           "source": "Naturalnews.com",
           "published": "2026-06-17T06:00:00Z",
           "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/Datacenter-Server-Computers-Crypto-AI.jpg"
-        },
-        {
-          "title": "The Real Cowboys of Crypto: Wyoming Ropes a $1 Stablecoin...",
-          "description": "The state, home of Yellowstone and a refuge of the rich, has become the first in the US to issue its own cryptocurrency. Its experiment has national implications.",
-          "url": "http://www.msn.com/en-us/money/markets/ar-AA25LOng",
-          "source": "msnNOW",
-          "published": "2026-06-16T22:00:15Z",
-          "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA25Lx2j.img?w=2200&h=1468&m=4&q=79"
         },
         {
           "title": "SEALSQ Secures Patent for Breakthrough “Back-to-Physical” NFT Technology",
@@ -196,12 +204,12 @@
           "image": "https://ml.globenewswire.com/Resource/Download/4071513d-3f7c-4a38-a055-8da38cfb60df"
         },
         {
-          "title": "E-Livestock Global and Maryland Blockchain Association Highlight Digital Traceability Tools for New World Screwworm Response",
-          "description": "E-Livestock Global and Maryland Blockchain Association Highlight Digital Traceability Tools for New World Screwworm Response\n...",
-          "url": "https://www.globenewswire.com/news-release/2026/06/15/3311979/0/en/E-Livestock-Global-and-Maryland-Blockchain-Association-Highlight-Digital-Traceability-Tools-for-New-World-Screwworm-Response.html",
-          "source": "GlobeNewswire",
-          "published": "2026-06-15T15:48:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/c3aa1fea-c2a4-40e1-b09a-733f4d3b4897"
+          "title": "Ripple Participates in Flutterwave's Series E With Strategic Investment to Accelerate African Stablecoin Payments",
+          "description": "This investment is a part of Flutterwave's Series E funding round, a milestone that underscores the company's strengthening institutional position and sets the stage for further strategic announcements in the coming months. In a landmark move for the African …",
+          "url": "https://www.prnewswire.com/news-releases/ripple-participates-in-flutterwaves-series-e-with-strategic-investment-to-accelerate-african-stablecoin-payments-302801599.html",
+          "source": "PRNewswire",
+          "published": "2026-06-16T11:44:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS1866853/Flutterwave_x_Ripple.jpg?id=OA2719713&p=facebook"
         },
         {
           "title": "ASX faces $20.5m penalty for failed blockchain-based system replacement",
@@ -210,14 +218,6 @@
           "source": "iTnews",
           "published": "2026-06-15T04:05:00Z",
           "image": "https://i.nextmedia.com.au/News/crn-690_asx_building_iStock-477721785.jpg"
-        },
-        {
-          "title": "De Beers weaponises blockchain to fight lab-grown diamonds, but a 45% price crash looms large",
-          "description": "The natural diamond industry has a problem it cannot see with the naked eye. Lab-grown stones are now virtually identical to mined gems, they cost a fraction of the price, and the broader tech landscape of 2025 has only accelerated their rise. De Beers Group,…",
-          "url": "https://thenextweb.com/news/de-beers-tracr-blockchain-diamonds-lab-grown/",
-          "source": "The Next Web",
-          "published": "2026-06-14T18:05:01Z",
-          "image": "https://media.thenextweb.com/2026/06/de-beers-tracr-blockchain-diamonds-lab-grown.avif"
         },
         {
           "title": "LG Electronics Tests Onchain Advertising Network On Arbitrum",
@@ -247,44 +247,20 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "While Capital Rotates From Crypto to AI, Zoomex Traders Stay Exposed to Both",
-              "description": "As institutional capital continues its notable shift from cryptocurrency markets toward artificial intelligence and semiconductor stocks, Zoomex, a global crypto derivatives exchange, has announced the availability of Zoomex Stocks — a tokenized equities trad…",
-              "url": "https://zycrypto.com/while-capital-rotates-from-crypto-to-ai-zoomex-traders-stay-exposed-to-both/",
-              "source": "ZyCrypto",
-              "published": "2026-06-17T09:42:56Z",
-              "image": "https://zycrypto.com/wp-content/uploads/2026/06/While-Capital-Rotates-From-Crypto-to-AI-Zoomex-Traders-Stay-Exposed-to-Both.jpg"
-            },
-            {
-              "title": "As Capital Rotates From Crypto to AI, Zoomex Traders Already Have Access to Both",
-              "description": "VICTORIA, Seychelles, June 17, 2026 (GLOBE NEWSWIRE) -- As institutional capital continues its notable shift from cryptocurrency markets toward artificial intelligence and semiconductor stocks, Zoomex, a global crypto derivatives exchange, announces the avail…",
-              "url": "https://www.globenewswire.com/news-release/2026/06/17/3313201/0/en/As-Capital-Rotates-From-Crypto-to-AI-Zoomex-Traders-Already-Have-Access-to-Both.html",
+              "title": "Coinbase Ventures Invests in Multipli",
+              "description": "DUBAI, United Arab Emirates, June 18, 2026 (GLOBE NEWSWIRE) -- Multipli\r\n, a real-world asset and tokenized credit protocol, has received an investment from Coinbase Ventures through the Base Ecosystem Fund.The investment marks another step in Multipli’s grow…",
+              "url": "https://www.globenewswire.com/news-release/2026/06/18/3313992/0/en/Coinbase-Ventures-Invests-in-Multipli.html",
               "source": "GlobeNewswire",
-              "published": "2026-06-17T07:42:00Z",
-              "image": "https://ml.globenewswire.com/Resource/Download/149e5f6e-2655-454e-bf06-33a4c0b240ad"
+              "published": "2026-06-18T09:30:00Z",
+              "image": "https://ml.globenewswire.com/Resource/Download/4dea90fe-d810-4468-99a9-c9c17168c192"
             },
             {
-              "title": "Flutterwave adds Ripple as Series E investor, valuation hits $3.2bn",
-              "description": "Africa-focused payments technology company Flutterwave has received a “strategic investment” from Ripple.\nIn a statement, Flutterwave said the investment from the US blockchain company formed part of its Series E funding round, which values the business at $3…",
-              "url": "https://biztoc.com/x/d38b99609b8158bd",
-              "source": "Biztoc.com",
-              "published": "2026-06-17T06:41:28Z",
-              "image": "https://biztoc.com/cdn/d38b99609b8158bd_s.webp"
-            },
-            {
-              "title": "Kraken Launches CFTC-Regulated Bitcoin Perpetual Futures for U.S. Traders",
-              "description": "Kraken enabled perpetual futures trading for eligible U.S. clients on Kraken Pro as of Monday, June 15, according to a company announcement. The contracts are listed on Bitnomial, a Commodity Futures Trading Commission (CFTC)–licensed exchange, clearinghouse …",
-              "url": "https://www.naturalnews.com/2026-06-17-kraken-launches-cftc-regulated-bitcoin-perpetual-futures.html",
-              "source": "Naturalnews.com",
-              "published": "2026-06-17T06:00:00Z",
-              "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/kraken-cftc-bitcoin-2111-original.jpg"
-            },
-            {
-              "title": "Writing a Novel with Phin Argofy",
-              "description": "I've written nine non-fiction books and have no idea if I can write a novel. I'm trying anyway: a crypto-thriller called Zero Knowledge, co-written with my AI, Phin Argofy.",
-              "url": "https://feld.com/archives/2026/06/writing-a-novel-with-phin-argofy/",
-              "source": "Feld.com",
-              "published": "2026-06-14T01:42:45Z",
-              "image": "https://feld.com/og-default.png"
+              "title": "The Oligarch-on-Oligarch Fight That Defines Politics in 2026",
+              "description": "In Maryland, a billionaire is trying to get his seat back from a mega-millionaire. It’s the epitome of a broken campaign finance system. Is there a way out?\nThe post The Oligarch-on-Oligarch Fight That Defines Politics in 2026 appeared first on The American P…",
+              "url": "http://prospect.org/2026/06/18/oligarch-fight-defines-politics-in-2026-maryland-congressional-race-alexis-goldstein/",
+              "source": "The American Prospect",
+              "published": "2026-06-18T09:30:00Z",
+              "image": "https://i0.wp.com/prospect.org/wp-content/uploads/2026/06/Screenshot-2026-06-17-192611.png?fit=1582%2C818&ssl=1"
             }
           ]
         },
@@ -293,12 +269,20 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "SpaceX is trading like a $2T meme stock after its record IPO",
-              "description": "SpaceX’s first week as a public company is starting to look less like a conventional stock-market debut and more like a high-leverage crypto asset. Shares of Elon Musk-led company, trading under the ticker SPCX, extended their post-IPO rally Tuesday as invest…",
-              "url": "https://cryptoslate.com/spacex-is-trading-like-a-meme-stock-after-its-record-ipo/",
-              "source": "CryptoSlate",
-              "published": "2026-06-16T18:35:51Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/06/spacex-stocks.jpg"
+              "title": "How to build a large-scale crypto tools website",
+              "description": "How to build a large-scale crypto tools website - posted in Programming:  \n Im planning to build a website similar to sevendiv.com (also known as CryptoToolbox), which offers 1000+ free crypto tools including calculators, analyzers, converters, generators, an…",
+              "url": "https://www.bleepingcomputer.com/forums/t/816785/how-to-build-a-large-scale-crypto-tools-website/",
+              "source": "BleepingComputer",
+              "published": "2026-06-18T09:24:26Z",
+              "image": "https://www.bleepingcomputer.com/forums/public/style_images/master/meta_image.png"
+            },
+            {
+              "title": "Quantum Computing Threat to Bitcoin: Real or Hype?",
+              "description": "A quantum computer is not just another, faster computer. Instead of bits that can encode either 0 or 1, qubits can be in superposition, and...\nThe post Quantum Computing Threat to Bitcoin: Real or Hype? appeared first on Bitcoin Foundation.",
+              "url": "https://bitcoinfoundation.org/news/ai-news/quantum-computing-threat-to-bitcoin-real-or-hype/",
+              "source": "Bitcoinfoundation.org",
+              "published": "2026-06-17T10:06:58Z",
+              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/06/1-1781600390.webp"
             }
           ]
         }
