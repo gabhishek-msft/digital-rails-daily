@@ -1,11 +1,19 @@
 {
-  "date": "June 19, 2026",
+  "date": "June 20, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "Aztec Network loses over $4 million in three days to two subsequent hacks",
+          "description": "Legacy Aztec Network contracts were drained of over $4M in three days. Attacks exploited flaws in zero-knowledge proof verification logic. The core Aztec network and AZTEC token were not affected by the exploits. Aztec’s legacy infrastructure has come under a…",
+          "url": "https://coinjournal.net/news/aztec-network-loses-over-4-million-in-three-days-to-two-subsequent-hacks/",
+          "source": "Coinjournal.net",
+          "published": "2026-06-18T11:44:08Z",
+          "image": "https://coinjournal.net/wp-content/uploads/2026/06/Aztec-Network-loses-over-4-million.png"
+        },
         {
           "title": "Ready USDC card halts non-EEA service after issuer change, users report",
           "description": "Ready, a crypto wallet company, reportedly restricted USDC card access outside the EEA after a card provider change, prompting user complaints over short notice.",
@@ -70,6 +78,22 @@
       "color": "#e6a200",
       "articles": [
         {
+          "title": "Lite Strategy leads $1M investment in LitVM to bring smart contracts to Litecoin",
+          "description": "Lite Strategy led a $1 million investment in LitVM as the Litecoin treasury firm backs smart contracts, DeFi and tokenized assets on LTC.\nThe post Lite Strategy leads $1M investment in LitVM to bring smart contracts to Litecoin appeared first on Crypto Briefi…",
+          "url": "https://cryptobriefing.com/lite-strategy-leads-1m-investment-in-litvm-to-bring-smart-contracts-to-litecoin/",
+          "source": "Crypto Briefing",
+          "published": "2026-06-18T15:36:42Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/18113559/ChatGPT-Image-Jun-18-2026-10_35_48-AM-800x450.png"
+        },
+        {
+          "title": "Everything You Should Know about the Glamsterdam Upgrade—Ethereum’s Biggest Update Yet",
+          "description": "Ethereum developers have entered the final major stretch of preparations for Glamsterdam, the network’s most significant protocol overhaul since the 2022 Merge.",
+          "url": "https://zycrypto.com/everything-you-should-know-about-the-glamsterdam-upgrade-ethereums-biggest-update-yet/",
+          "source": "ZyCrypto",
+          "published": "2026-06-18T11:04:42Z",
+          "image": "https://zycrypto.com/wp-content/uploads/2026/03/Ethereums-Evolution-Not-Linear-But-Rather-Fundamental-—-Market-Expert-Takes-Deep-Dive.jpg"
+        },
+        {
           "title": "OKX adopts Chainlink Data Streams on X Layer mainnet",
           "description": "The integration enhances X Layer's DeFi capabilities, potentially boosting OKB demand and solidifying its position in the Ethereum ecosystem.\nThe post OKX adopts Chainlink Data Streams on X Layer mainnet appeared first on Crypto Briefing.",
           "url": "https://cryptobriefing.com/okx-chainlink-data-streams-x-layer/",
@@ -84,14 +108,6 @@
           "source": "Help Net Security",
           "published": "2026-06-15T13:16:25Z",
           "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/28150559/hns-large_logo.webp"
-        },
-        {
-          "title": "Zcash audit by Anthropic finds no serious bugs, says Zooko",
-          "description": "The audit's clean bill of health boosts confidence in Zcash, but highlights ongoing challenges in verifying privacy coin integrity.\nThe post Zcash audit by Anthropic finds no serious bugs, says Zooko appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/zcash-anthropic-audit-no-serious-bugs/",
-          "source": "Crypto Briefing",
-          "published": "2026-06-12T21:57:24Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/12175716/zooko-wilcox-800x420.jpeg"
         }
       ]
     },
@@ -101,68 +117,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Bitcoin Steadies Near $64K as Analysts Eye Floor After Hawkish Fed",
-          "description": "BTC slid to around $64,100 after Kevin Warsh's hawkish debut, but analysts argue a $60,000 floor and catalysts could spark a rebound.",
-          "url": "https://decrypt.co/371511/bitcoin-steadies-near-64k-as-analysts-eye-floor-after-hawkish-fed",
-          "source": "Decrypt",
-          "published": "2026-06-18T10:07:12Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/bitcoin-decrypt-style-neon-gID_7.png"
+          "title": "What Is the CLARITY Act? The Crypto Market Structure Bill Explained",
+          "description": "The CLARITY Act, formally the Digital Asset Market Clarity Act, is a proposed U.S. cryptocurrency market structure bill that would establish a federal framework for how digital assets are issued, traded and regulated in the United States. The bill focuses on …",
+          "url": "https://biztoc.com/x/46d050c9705e15c3",
+          "source": "Biztoc.com",
+          "published": "2026-06-19T06:52:24Z",
+          "image": "https://biztoc.com/cdn/46d050c9705e15c3_s.webp"
         },
         {
-          "title": "Grayscale applies traditional finance models to AAVE, sees $175 value",
-          "description": "Grayscale estimated a one-year base-case value of $175 for AAVE using traditional valuation methods including cash-flow analysis, earnings multiples and comparisons with banks and fintech firms.",
-          "url": "https://cointelegraph.com/news/grayscale-aave-traditional-finance-defi-token-valuation",
+          "title": "“Breaking the Chains 2026” on BrightU: How privacy coins like Monero and Epic Cash are becoming the last refuge from CBDC tyranny",
+          "description": "The rollout of Central Bank Digital Currencies is not about convenience but about total surveillance and control, allowing authorities to track every transaction, cap spending based on social credit scores and instantly cancel the financial activities of diss…",
+          "url": "https://www.naturalnews.com/2026-06-19-privacy-coins-last-refuge-from-cbdc-tyranny.html",
+          "source": "Naturalnews.com",
+          "published": "2026-06-19T06:00:00Z",
+          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/Monero-Logo.jpg"
+        },
+        {
+          "title": "Live markets: Bitcoin has traded below its mining cost for five months, squeezing miners",
+          "description": "Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.",
+          "url": "https://www.coindesk.com/markets/2026/06/19/live-markets-bitcoin-has-traded-below-its-mining-cost-for-five-months-squeezing-miners",
+          "source": "CoinDesk",
+          "published": "2026-06-19T05:04:22Z",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/8e7719760d84b5542b3a47e5e93368d3875db010-1024x759.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
+        },
+        {
+          "title": "Matt Damon To Speak At Ripple Swell As Water.org’s RLUSD Push Draws Attention",
+          "description": "Matt Damon is listed as a keynote speaker at Ripple Swell 2026, bringing fresh attention to Water.org’s Get Blue campaign and Ripple’s RLUSD payment role.",
+          "url": "https://bitcoinist.com/matt-damon-ripple-swell-rlusd-water-org/",
+          "source": "Bitcoinist",
+          "published": "2026-06-19T02:30:58Z",
+          "image": "https://bitcoinist.com/wp-content/uploads/2026/05/Ripple-from-Getty-Images.jpg"
+        },
+        {
+          "title": "Tokenised gold: A new way to invest in gold or a risky bet? What Indian investors need to know before investing",
+          "description": "Tokenised gold is emerging as a new investment option in India. It uses blockchain to represent physical gold digitally. Investors can trade tokens easily, even in small amounts. However, this new product lacks regulation and faces high taxes. Experts advise …",
+          "url": "https://economictimes.indiatimes.com/wealth/invest/tokenised-gold-a-new-way-to-invest-in-gold-or-a-risky-bet-what-indian-investors-need-to-know-before-investing/articleshow/131827463.cms",
+          "source": "The Times of India",
+          "published": "2026-06-19T01:00:00Z",
+          "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-412361,resizemode-75,msid-131827463/wealth/invest/tokenised-gold-a-new-way-to-invest-in-gold-or-a-risky-bet-what-indian-investors-need-to-know-before-investing.jpg"
+        },
+        {
+          "title": "CZR Exchange Surpasses 100,000 Users in Six Months as Anticipation Builds for the CZR Token Launch",
+          "description": "Rapid user growth underscores expanding global adoption as CZR Exchange advances its ecosystem strategy and product roadmap Rapid user growth underscores expanding global adoption as CZR Exchange advances its ecosystem strategy and product roadmap",
+          "url": "https://www.globenewswire.com/news-release/2026/06/19/3314586/0/en/CZR-Exchange-Surpasses-100-000-Users-in-Six-Months-as-Anticipation-Builds-for-the-CZR-Token-Launch.html",
+          "source": "GlobeNewswire",
+          "published": "2026-06-19T00:21:00Z",
+          "image": null
+        },
+        {
+          "title": "Money Simpler Launches Multi-Strategy AI Quantitative Trading Platform for Digital Asset Investors",
+          "description": "Money Simpler Launches Multi-Strategy AI Quantitative Trading Platform for Digital Asset Investors...",
+          "url": "https://www.globenewswire.com/news-release/2026/06/18/3314576/0/en/Money-Simpler-Launches-Multi-Strategy-AI-Quantitative-Trading-Platform-for-Digital-Asset-Investors.html",
+          "source": "GlobeNewswire",
+          "published": "2026-06-18T22:22:00Z",
+          "image": "https://ml.globenewswire.com/Resource/Download/b6458fdb-5bf0-4932-bc41-cc064e25479b"
+        },
+        {
+          "title": "Malta proposes DeFi rulebook covering DAOs under MiCA-era framework",
+          "description": "The Maltese regulator is seeking industry feedback on a legal framework for software-governed organizations, arguing that many DeFi projects are not fully decentralized.",
+          "url": "https://cointelegraph.com/news/malta-defi-framework-daos-software-based-organizations-mica",
           "source": "Cointelegraph",
-          "published": "2026-06-18T09:45:51Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/presentation-woman-man-charts-up-aave-1.jpg"
-        },
-        {
-          "title": "Calais Becomes 1st Quantitative Hedge Fund to Deploy UBS uMINT as OES Collateral via Bybit, ByCustody & DigiFT",
-          "description": "Dubai, United Arab Emirates, 18th June 2026, Chainwire\nThe post Calais Becomes 1st Quantitative Hedge Fund to Deploy UBS uMINT as OES Collateral via Bybit, ByCustody & DigiFT appeared first on The Daily Hodl.",
-          "url": "https://dailyhodl.com/2026/06/18/calais-becomes-1st-quantitative-hedge-fund-to-deploy-ubs-umint-as-oes-collateral-via-bybit-bycustody-digift/",
-          "source": "The Daily Hodl",
-          "published": "2026-06-18T09:43:40Z",
-          "image": "https://dailyhodl.com/wp-content/uploads/2026/06/BybitLogoNFP_17817717054wl5icDiGK.jpg?resize=1600,900"
-        },
-        {
-          "title": "Bitcoin Drops Below $64K After Hawkish Fed Meeting — Investors Flee Risk Assets",
-          "description": "We break down how the Fed’s first meeting under Kevin Warsh played out and how bitcoin and Ethereum reacted to the central bank’s decision. The...\nThe post Bitcoin Drops Below $64K After Hawkish Fed Meeting — Investors Flee Risk Assets appeared first on Bitco…",
-          "url": "https://bitcoinfoundation.org/news/bitcoin/us-fed-meeting/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-06-18T09:40:13Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/06/ChatGPT-Image-18-июн.-2026-г.-12_31_21-1.webp"
-        },
-        {
-          "title": "Solana’s $1B USDC mint collides with DeFi app shutdown as users face unfinished Drift recovery",
-          "description": "Users face a September exit deadline while fresh Solana minting signals show liquidity moving faster than recovery systems.\nThe post Solana’s $1B USDC mint collides with DeFi app shutdown as users face unfinished Drift recovery appeared first on CryptoSlate.",
-          "url": "https://cryptoslate.com/solanas-1b-usdc-mint-shows-what-liquidity-still-cannot-fix-for-users/",
-          "source": "CryptoSlate",
-          "published": "2026-06-18T09:30:02Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/06/pyra-shutdown-usdc-solana.jpg"
-        },
-        {
-          "title": "Crypto’s Future May Depend on Lawyers Who Think Like Operators",
-          "description": "Explore more conversations like this From the Block.  For most of the cryptocurrency industry’s history, lawyers occupied a familiar role: identify risks, interpret regulations and tell companies what they couldn’t do. But Mike Katz, partner in Manatt’s Finan…",
-          "url": "https://www.pymnts.com/cryptocurrency/2026/cryptos-future-may-depend-on-lawyers-who-think-like-operators/",
-          "source": "pymnts.com",
-          "published": "2026-06-18T08:03:27Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2026/06/SB1-04-Podcast-Hero-Citi-for-story-cropped.png"
-        },
-        {
-          "title": "Crypto PACs are helping Senators win US primaries faster than the Senate can move the law they want",
-          "description": "Fairshake, the crypto industry's flagship super PAC, put more than $12 million behind Barry Moore's run for an open Alabama Senate seat, the largest single-candidate spend of its 2026 campaign, and on Tuesday, Moore won the Republican runoff with about 56% of…",
-          "url": "https://cryptoslate.com/?p=542241",
-          "source": "CryptoSlate",
-          "published": "2026-06-18T08:00:15Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/06/crypto-pac.jpg"
-        },
-        {
-          "title": "JPMorgan Chase CEO Jamie Dimon Declares War on Clarity Act, Calls Coinbase’s Armstrong ‘Full of Sh*t’",
-          "description": "JPMorgan Chase CEO Jamie Dimon has drawn a battle line in Washington: the Clarity Act, as written, is dead on arrival — and Coinbase CEO Brian Armstrong is the enemy driving it. In a Fox Business interview on Friday, Dimon unloaded on the pending crypto marke…",
-          "url": "https://www.activistpost.com/jpmorgan-chase-ceo-jamie-dimon-declares-war-on-clarity-act-calls-coinbases-armstrong-full-of-sht/",
-          "source": "Activistpost.com",
-          "published": "2026-06-18T02:04:00Z",
-          "image": "https://www.activistpost.com/wp-content/uploads/2026/06/JPMorgan-Chase-CEO-Jamie-Dimon-Declares-War-on-Clarity-Act-Calls-Coinbases-Armstrong-‘Full-of-Sht-1024x576-1.webp"
+          "published": "2026-06-18T21:14:19Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-time-to-switch-license-malta.png"
         }
       ]
     },
@@ -172,12 +188,36 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "‘Magic Pill’ or Placebo?: Black Politicians and the Crypto Lobby",
-          "description": "Young Black congresspeople are winning their seats with support from the crypto industry. But can investing in crypto help close the racial wealth gap?\nThe post ‘Magic Pill’ or Placebo?: Black Politicians and the Crypto Lobby appeared first on The American Pr…",
-          "url": "http://prospect.org/2026/06/18/magic-pill-or-placebo-black-politicians-crypto-lobby/",
-          "source": "The American Prospect",
-          "published": "2026-06-18T09:15:00Z",
-          "image": "https://i0.wp.com/prospect.org/wp-content/uploads/2026/06/Bethune-Black-politicians-crypto-061826.jpg?fit=2127%2C1409&ssl=1"
+          "title": "Crypto.com Sues Customer Over Cronos Hashtag Trademark",
+          "description": "Crypto.com sues customer, alleging he claimed trademark rights over the CROFAM name used by its Cronos community. Crypto.com, a Singapore-based crypto exchange, has sued one...\nThe post Crypto.com Sues Customer Over Cronos Hashtag Trademark appeared first on …",
+          "url": "https://bitcoinfoundation.org/news/crypto-companies-news/crypto-com-sues-customer-over-cronos-hashtag/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-06-19T08:29:57Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/04/ChatGPT-Image-14-апр.-2026-г.-11_49_37-1-opt.webp"
+        },
+        {
+          "title": "FBI Warns: Crypto Scammers Use Couriers to Collect Cash, Evade Bank Detection",
+          "description": "The Federal Bureau of Investigation (FBI) issued a public service announcement on Monday, June 15, warning that scammers are deploying couriers to collect cash from victims in person, a tactic designed to circumvent bank detection systems that normally flag w…",
+          "url": "https://www.naturalnews.com/2026-06-19-fbi-crypto-scammers-use-couriers-evade-detection.html",
+          "source": "Naturalnews.com",
+          "published": "2026-06-19T06:00:00Z",
+          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/cryptocurrency-scam-fbi-warning-courier-fraud-2165-original.jpg"
+        },
+        {
+          "title": "WISeKey’s WISe.ART Subsidiary Becomes the World’s First Hardware-Authenticated Art Platform as SEALSQ Subsidiary Secures European Patent for ‘Back-to-Physical’ NFT Technology",
+          "description": "WISeKey’s WISe.ART Subsidiary Becomes the World’s First Hardware-Authenticated Art Platform as SEALSQ Subsidiary Secures European Patent for ‘Back-to-Physical’ NFT Technology",
+          "url": "https://www.globenewswire.com/news-release/2026/06/18/3314096/0/en/WISeKey-s-WISe-ART-Subsidiary-Becomes-the-World-s-First-Hardware-Authenticated-Art-Platform-as-SEALSQ-Subsidiary-Secures-European-Patent-for-Back-to-Physical-NFT-Technology.html",
+          "source": "GlobeNewswire",
+          "published": "2026-06-18T12:00:00Z",
+          "image": "https://ml-eu.globenewswire.com/Resource/Download/80dae807-c8a0-4e1a-a0f0-61afcc7ae788"
+        },
+        {
+          "title": "Crypto’s Future May Depend on Lawyers Who Think Like Operators",
+          "description": "Explore more conversations like this From the Block.  For most of the cryptocurrency industry’s history, lawyers occupied a familiar role: identify risks, interpret regulations and tell companies what they couldn’t do. But Mike Katz, partner in Manatt’s Finan…",
+          "url": "https://www.pymnts.com/cryptocurrency/2026/cryptos-future-may-depend-on-lawyers-who-think-like-operators/",
+          "source": "pymnts.com",
+          "published": "2026-06-18T08:03:27Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/06/SB1-04-Podcast-Hero-Citi-for-story-cropped.png"
         },
         {
           "title": "The Real-Time Revolution: Why Blockchain Needs Data Stream Processing",
@@ -210,30 +250,6 @@
           "source": "PRNewswire",
           "published": "2026-06-16T11:44:00Z",
           "image": "https://mmx.prnewswire.com/media/MS1866853/Flutterwave_x_Ripple.jpg?id=OA2719713&p=facebook"
-        },
-        {
-          "title": "ASX faces $20.5m penalty for failed blockchain-based system replacement",
-          "description": "Said system was \"progressing well\" when it wasn't.",
-          "url": "https://www.itnews.com.au/news/asx-faces-205m-penalty-for-failed-blockchain-based-system-replacement-626625",
-          "source": "iTnews",
-          "published": "2026-06-15T04:05:00Z",
-          "image": "https://i.nextmedia.com.au/News/crn-690_asx_building_iStock-477721785.jpg"
-        },
-        {
-          "title": "LG Electronics Tests Onchain Advertising Network On Arbitrum",
-          "description": "LG Electronics is piloting an onchain advertising network on Arbitrum to test verifiable ad performance, fraud reduction and privacy-conscious workflows.",
-          "url": "http://www.newsbtc.com/news/lg-electronics-tests-onchain-advertising-network-on-arbitrum/",
-          "source": "newsBTC",
-          "published": "2026-06-13T13:00:07Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2023/05/iStock-1370952479-2.jpg?fit=2121%2C1414"
-        },
-        {
-          "title": "LG Electronics Teams With Arbitrum for Blockchain-Based Ad Platform",
-          "description": "The South Korean tech giant built a custom layer-2 network with Arbitrum for an advertising platform set to launch this year.",
-          "url": "https://decrypt.co/370866/lg-electronics-teams-with-arbitrum-for-blockchain-based-ad-platform",
-          "source": "Decrypt",
-          "published": "2026-06-12T10:23:39Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/06/lg-decrypt-style-gID_7.jpg"
         }
       ]
     },
@@ -245,44 +261,51 @@
         "startups": {
           "title": "Startups",
           "icon": "💡",
-          "articles": [
-            {
-              "title": "Coinbase Ventures Invests in Multipli",
-              "description": "DUBAI, United Arab Emirates, June 18, 2026 (GLOBE NEWSWIRE) -- Multipli\r\n, a real-world asset and tokenized credit protocol, has received an investment from Coinbase Ventures through the Base Ecosystem Fund.The investment marks another step in Multipli’s grow…",
-              "url": "https://www.globenewswire.com/news-release/2026/06/18/3313992/0/en/Coinbase-Ventures-Invests-in-Multipli.html",
-              "source": "GlobeNewswire",
-              "published": "2026-06-18T09:30:00Z",
-              "image": "https://ml.globenewswire.com/Resource/Download/4dea90fe-d810-4468-99a9-c9c17168c192"
-            },
-            {
-              "title": "The Oligarch-on-Oligarch Fight That Defines Politics in 2026",
-              "description": "In Maryland, a billionaire is trying to get his seat back from a mega-millionaire. It’s the epitome of a broken campaign finance system. Is there a way out?\nThe post The Oligarch-on-Oligarch Fight That Defines Politics in 2026 appeared first on The American P…",
-              "url": "http://prospect.org/2026/06/18/oligarch-fight-defines-politics-in-2026-maryland-congressional-race-alexis-goldstein/",
-              "source": "The American Prospect",
-              "published": "2026-06-18T09:30:00Z",
-              "image": "https://i0.wp.com/prospect.org/wp-content/uploads/2026/06/Screenshot-2026-06-17-192611.png?fit=1582%2C818&ssl=1"
-            }
-          ]
+          "articles": []
         },
         "hyperscalers": {
           "title": "Hyperscalers",
           "icon": "☁️",
           "articles": [
             {
-              "title": "How to build a large-scale crypto tools website",
-              "description": "How to build a large-scale crypto tools website - posted in Programming:  \n Im planning to build a website similar to sevendiv.com (also known as CryptoToolbox), which offers 1000+ free crypto tools including calculators, analyzers, converters, generators, an…",
-              "url": "https://www.bleepingcomputer.com/forums/t/816785/how-to-build-a-large-scale-crypto-tools-website/",
-              "source": "BleepingComputer",
-              "published": "2026-06-18T09:24:26Z",
-              "image": "https://www.bleepingcomputer.com/forums/public/style_images/master/meta_image.png"
+              "title": "Forget Critical Metals, Electricity is The Real Bottleneck for Artificial Intell",
+              "description": "The U.S. dollar is cracking—and the market knows it. After years of monetary excess, swelling deficits, and policy uncertainty, the world’s reserve currency is losing its grip as a store of value. Capital is fleeing paper promises and piling into hard assets …",
+              "url": "https://oilprice.com/Energy/Energy-General/Forget-Critical-Metals-Electricity-is-The-Real-Bottleneck-for-Artificial-Intell.html",
+              "source": "OilPrice.com",
+              "published": "2026-06-19T00:00:00Z",
+              "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-18_o4o53qid0p.jpg"
             },
             {
-              "title": "Quantum Computing Threat to Bitcoin: Real or Hype?",
-              "description": "A quantum computer is not just another, faster computer. Instead of bits that can encode either 0 or 1, qubits can be in superposition, and...\nThe post Quantum Computing Threat to Bitcoin: Real or Hype? appeared first on Bitcoin Foundation.",
-              "url": "https://bitcoinfoundation.org/news/ai-news/quantum-computing-threat-to-bitcoin-real-or-hype/",
-              "source": "Bitcoinfoundation.org",
-              "published": "2026-06-17T10:06:58Z",
-              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/06/1-1781600390.webp"
+              "title": "Algorand Plans to Be Ready for Quantum Computing Threat by End of 2027",
+              "description": "Quantum computing threatens the blockchain ecosystem, from Bitcoin to Ethereum and beyond, and Algorand has a plan to be prepared.",
+              "url": "https://decrypt.co/371581/algorand-plans-ready-quantum-computing-threat-end-2027",
+              "source": "Decrypt",
+              "published": "2026-06-18T20:52:47Z",
+              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/04/algorand-decrypt-style-gID_7.jpg"
+            },
+            {
+              "title": "Vantage Bank and Custodia Release White Paper Unveiling \"Hazel Network\"",
+              "description": "New Live Infrastructure for Banks and Credit Unions Introduces a Unified Token Combining Tokenized Bank Deposits and Stablecoins SAN ANTONIO and CHEYENNE, Wyo., June 18, 2026 /PRNewswire/ -- Vantage Bank and Custodia today announced the release of their white…",
+              "url": "https://www.prnewswire.com/news-releases/vantage-bank-and-custodia-release-white-paper-unveiling-hazel-network-302804851.html",
+              "source": "PRNewswire",
+              "published": "2026-06-18T19:59:00Z",
+              "image": "https://mmx.prnewswire.com/media/MS1869241/Hazel_Network.jpg?id=OA2725470&p=facebook"
+            },
+            {
+              "title": "The Quantum Threat to Encryption Is Coming. France Just Set a 2027 Deadline",
+              "description": "It's an aggressive move that'll effectively force operators of critical French infrastructure to move away from traditional cryptographic systems.",
+              "url": "https://gizmodo.com/the-quantum-threat-to-encryption-is-coming-france-just-set-a-2027-deadline-2000773650",
+              "source": "Gizmodo.com",
+              "published": "2026-06-18T16:05:26Z",
+              "image": "https://gizmodo.com/app/uploads/2026/06/france-anssi-q-day-deadline-top-image-1200x675.jpg"
+            },
+            {
+              "title": "Microsoft Details Windows Clipper Malware Campaign Using USB LNK Worm and Tor-Based C2",
+              "description": "Microsoft has disclosed details of a Windows-based cryptocurrency clipper campaign that has targeted users since February 2026.\n\n\"The clipper in this campaign relies on Windows Script Host and ActiveX-driven logic to launch a bundled Tor proxy and poll a hidd…",
+              "url": "https://thehackernews.com/2026/06/microsoft-details-windows-clipper.html",
+              "source": "Internet",
+              "published": "2026-06-18T14:30:42Z",
+              "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvKWONrjyxy3cGsc9xfw7n-6izVRjMImK2DpiOv4JDrtutcENRgX6JxsFQhsEMHDhZx9fGfeoj_mAQSVk9SoJumNREvmLtbWOjWaTlYn3c25sH_paaeZk-Xw08k3ckerv19Ax9stFCURiV321W7vh0f6qQbrmSHnuvPeNBeW6Grb7o6TU4s5dhJNkXyIon/s1700-e365/clipper-malware.jpg"
             }
           ]
         }
