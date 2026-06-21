@@ -1,11 +1,19 @@
 {
-  "date": "June 20, 2026",
+  "date": "June 21, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "Can Ethereum Reach $5,000 in 2026? The Hidden Catalysts That Could Trigger the Next ETH Surge",
+          "description": "Into 2026, Ethereum moves with uneven momentum. Still the core of DeFi, sure, yet also tied tightly to stablecoin flows, staked assets, and activity on...\nThe post Can Ethereum Reach $5,000 in 2026? The Hidden Catalysts That Could Trigger the Next ETH Surge a…",
+          "url": "https://bitcoinfoundation.org/news/ethereum/can-ethereum-reach-5000-in-2026-the-hidden-catalysts-that-could-trigger-the-next-eth-surge/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-06-19T16:18:17Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/06/ChatGPT-Image-Jun-19-2026-07_20_35-PM.webp"
+        },
         {
           "title": "Aztec Network loses over $4 million in three days to two subsequent hacks",
           "description": "Legacy Aztec Network contracts were drained of over $4M in three days. Attacks exploited flaws in zero-knowledge proof verification logic. The core Aztec network and AZTEC token were not affected by the exploits. Aztec’s legacy infrastructure has come under a…",
@@ -61,14 +69,6 @@
           "source": "PRNewswire",
           "published": "2026-06-16T13:07:00Z",
           "image": "https://mmx.prnewswire.com/media/MS1866849/74dfa2a31c6e4d1cb82e86f9b62fe67f.jpg?id=OA2719922&p=facebook"
-        },
-        {
-          "title": "Starkscan launches new explorer and data API for Starknet",
-          "description": "Starkscan's AI-friendly API could revolutionize data interaction on Starknet, potentially boosting developer engagement and ecosystem growth.\nThe post Starkscan launches new explorer and data API for Starknet appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/starkscan-explorer-api-starknet/",
-          "source": "Crypto Briefing",
-          "published": "2026-06-15T14:35:32Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/15103525/starknet-staking-delegation-program-800x420.jpeg"
         }
       ]
     },
@@ -117,68 +117,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "What Is the CLARITY Act? The Crypto Market Structure Bill Explained",
-          "description": "The CLARITY Act, formally the Digital Asset Market Clarity Act, is a proposed U.S. cryptocurrency market structure bill that would establish a federal framework for how digital assets are issued, traded and regulated in the United States. The bill focuses on …",
-          "url": "https://biztoc.com/x/46d050c9705e15c3",
-          "source": "Biztoc.com",
-          "published": "2026-06-19T06:52:24Z",
-          "image": "https://biztoc.com/cdn/46d050c9705e15c3_s.webp"
+          "title": "Philippine SEC signals readiness for RWA tokenization",
+          "description": "Philippine SEC Commissioner Rogelio Quevedo told Cointelegraph that tokenized assets could give Filipinos more legitimate investment options while helping steer them away from scams.",
+          "url": "https://cointelegraph.com/news/philippine-sec-rwa-tokenization-readiness",
+          "source": "Cointelegraph",
+          "published": "2026-06-20T07:05:20Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-philippines-month-in-the-metaverse-enables-open-access.jpg"
         },
         {
-          "title": "“Breaking the Chains 2026” on BrightU: How privacy coins like Monero and Epic Cash are becoming the last refuge from CBDC tyranny",
-          "description": "The rollout of Central Bank Digital Currencies is not about convenience but about total surveillance and control, allowing authorities to track every transaction, cap spending based on social credit scores and instantly cancel the financial activities of diss…",
-          "url": "https://www.naturalnews.com/2026-06-19-privacy-coins-last-refuge-from-cbdc-tyranny.html",
-          "source": "Naturalnews.com",
-          "published": "2026-06-19T06:00:00Z",
-          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/Monero-Logo.jpg"
-        },
-        {
-          "title": "Live markets: Bitcoin has traded below its mining cost for five months, squeezing miners",
-          "description": "Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.",
-          "url": "https://www.coindesk.com/markets/2026/06/19/live-markets-bitcoin-has-traded-below-its-mining-cost-for-five-months-squeezing-miners",
-          "source": "CoinDesk",
-          "published": "2026-06-19T05:04:22Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/8e7719760d84b5542b3a47e5e93368d3875db010-1024x759.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
-        },
-        {
-          "title": "Matt Damon To Speak At Ripple Swell As Water.org’s RLUSD Push Draws Attention",
-          "description": "Matt Damon is listed as a keynote speaker at Ripple Swell 2026, bringing fresh attention to Water.org’s Get Blue campaign and Ripple’s RLUSD payment role.",
-          "url": "https://bitcoinist.com/matt-damon-ripple-swell-rlusd-water-org/",
+          "title": "AllUnity Launches SEKAU As MiCA Stablecoin Market Expands Beyond Euro And Dollar",
+          "description": "AllUnity has launched SEKAU, a Swedish krona-backed MiCA stablecoin designed for institutional settlement and local-currency payments.",
+          "url": "https://bitcoinist.com/allunity-launches-sekau-as-mica-stablecoin-market-expands-beyond-euro-and-dollar/",
           "source": "Bitcoinist",
-          "published": "2026-06-19T02:30:58Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/05/Ripple-from-Getty-Images.jpg"
+          "published": "2026-06-19T22:45:16Z",
+          "image": "https://bitcoinist.com/wp-content/uploads/2026/01/stablecoin.png"
         },
         {
-          "title": "Tokenised gold: A new way to invest in gold or a risky bet? What Indian investors need to know before investing",
-          "description": "Tokenised gold is emerging as a new investment option in India. It uses blockchain to represent physical gold digitally. Investors can trade tokens easily, even in small amounts. However, this new product lacks regulation and faces high taxes. Experts advise …",
-          "url": "https://economictimes.indiatimes.com/wealth/invest/tokenised-gold-a-new-way-to-invest-in-gold-or-a-risky-bet-what-indian-investors-need-to-know-before-investing/articleshow/131827463.cms",
-          "source": "The Times of India",
-          "published": "2026-06-19T01:00:00Z",
-          "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-412361,resizemode-75,msid-131827463/wealth/invest/tokenised-gold-a-new-way-to-invest-in-gold-or-a-risky-bet-what-indian-investors-need-to-know-before-investing.jpg"
-        },
-        {
-          "title": "CZR Exchange Surpasses 100,000 Users in Six Months as Anticipation Builds for the CZR Token Launch",
-          "description": "Rapid user growth underscores expanding global adoption as CZR Exchange advances its ecosystem strategy and product roadmap Rapid user growth underscores expanding global adoption as CZR Exchange advances its ecosystem strategy and product roadmap",
-          "url": "https://www.globenewswire.com/news-release/2026/06/19/3314586/0/en/CZR-Exchange-Surpasses-100-000-Users-in-Six-Months-as-Anticipation-Builds-for-the-CZR-Token-Launch.html",
-          "source": "GlobeNewswire",
-          "published": "2026-06-19T00:21:00Z",
+          "title": "Dem Senator‘s 22-Year-Old Son Raises Eyeballs After Raking In $30 Million Investment",
+          "description": "The 22-year-old son of Democratic New York Sen. Kirsten Gillibrand raised $30 million in investments to launch a derivatives exchange startup already valued at $300 million, according to a report. Gillibrand is one of the top pro-crypto U.S. Senators in Washi…",
+          "url": "https://freerepublic.com/focus/f-bloggers/4384585/posts",
+          "source": "Freerepublic.com",
+          "published": "2026-06-19T21:37:19Z",
           "image": null
         },
         {
-          "title": "Money Simpler Launches Multi-Strategy AI Quantitative Trading Platform for Digital Asset Investors",
-          "description": "Money Simpler Launches Multi-Strategy AI Quantitative Trading Platform for Digital Asset Investors...",
-          "url": "https://www.globenewswire.com/news-release/2026/06/18/3314576/0/en/Money-Simpler-Launches-Multi-Strategy-AI-Quantitative-Trading-Platform-for-Digital-Asset-Investors.html",
-          "source": "GlobeNewswire",
-          "published": "2026-06-18T22:22:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/b6458fdb-5bf0-4932-bc41-cc064e25479b"
+          "title": "After the CLARITY Act, Compliance Becomes a Growth Strategy",
+          "description": "B2PRIME’s Alex Tsepaev examines how the CLARITY Act could reshape digital asset markets, and why compliance, governance and operational credibility are emerging as the real determinants of which firms attract institutional capital and which are left behind.",
+          "url": "https://observer.com/2026/06/clarity-act-crypto-trust-institutional-capital/",
+          "source": "Observer",
+          "published": "2026-06-19T21:00:23Z",
+          "image": "https://observer.com/wp-content/uploads/sites/2/2026/06/getty-images-we18Q2oCx_o-unsplash.jpg?quality=80"
         },
         {
-          "title": "Malta proposes DeFi rulebook covering DAOs under MiCA-era framework",
-          "description": "The Maltese regulator is seeking industry feedback on a legal framework for software-governed organizations, arguing that many DeFi projects are not fully decentralized.",
-          "url": "https://cointelegraph.com/news/malta-defi-framework-daos-software-based-organizations-mica",
-          "source": "Cointelegraph",
-          "published": "2026-06-18T21:14:19Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-time-to-switch-license-malta.png"
+          "title": "Tokyo-listed Gumi Bets Big on XRP, Plans to Become Japan’s Largest Institutional Holder",
+          "description": "Tokyo-listed game developer Gumi is doubling down on XRP, consolidating ¥14B, worth more than $90M, in assets to become Japan’s largest institutional holder.",
+          "url": "https://zycrypto.com/tokyo-listed-gumi-bets-big-on-xrp-plans-to-become-japans-largest-institutional-holder/",
+          "source": "ZyCrypto",
+          "published": "2026-06-19T20:33:47Z",
+          "image": "https://zycrypto.com/wp-content/uploads/2026/03/Ripples-XRP-Whales-Eye-1.7-Trillion-Payments-Industry-as-New-SWIFT-Narrative-Gains-Momentum.jpg"
+        },
+        {
+          "title": "Franklin Templeton new ETFs would convert US companies stock dividends into Bitcoin exposure",
+          "description": "Franklin Templeton, the $1.78 trillion asset management firm, is attempting to push cryptocurrency deeper into conventional investment portfolios with a new proposal that would automatically redirect stock dividends into Bitcoin exposure. On June 18, the asse…",
+          "url": "https://cryptoslate.com/franklin-templeton-new-etfs-would-convert-us-companies-stock-dividends-into-bitcoin-exposure/",
+          "source": "CryptoSlate",
+          "published": "2026-06-19T20:05:15Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/06/bitcoin-activity.jpg"
+        },
+        {
+          "title": "Ripple Swell 2026: What XRP Holders Should Expect From Ripple’s Biggest Event Yet",
+          "description": "Ripple’s flagship event is heading back to New York, and this year’s is the biggest the company has ever staged. Swell runs from October 27 to 29, and it loo...",
+          "url": "https://247wallst.com/investing/cryptocurrency/2026/06/19/ripple-swell-2026-what-xrp-holders-should-expect-from-ripples-biggest-event-yet/",
+          "source": "24/7 Wall St.",
+          "published": "2026-06-19T17:43:22Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/1520EA5637248B70B1B7E1CE2E45C7E81E01CF3493926E2761F0350D7C456EAA/subgraphmysterio/resizefill_w1200_h799;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F03b2d00b436e1d0a4de7f4953dbe5a35"
+        },
+        {
+          "title": "Can Private Credit Work Better Onchain? Cap Founder Explains What It Fixes",
+          "description": "Cap founder Benjamin Sarquis Peillard explains why moving private credit onchain is better",
+          "url": "https://www.coinage.media/2026/can-private-credit-work-better-onchain-cap-founder-explains-what-it-fixes",
+          "source": "Coinage.media",
+          "published": "2026-06-19T17:11:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/65249BA737729C0D01B95904849822FD6AD82F175C698B0D758A42D541A6904E/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcoinage_coop_399%2F71508b99b8aec82c6adc62211c2322a9"
         }
       ]
     },
@@ -188,20 +188,28 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Crypto.com Sues Customer Over Cronos Hashtag Trademark",
-          "description": "Crypto.com sues customer, alleging he claimed trademark rights over the CROFAM name used by its Cronos community. Crypto.com, a Singapore-based crypto exchange, has sued one...\nThe post Crypto.com Sues Customer Over Cronos Hashtag Trademark appeared first on …",
-          "url": "https://bitcoinfoundation.org/news/crypto-companies-news/crypto-com-sues-customer-over-cronos-hashtag/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-06-19T08:29:57Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/04/ChatGPT-Image-14-апр.-2026-г.-11_49_37-1-opt.webp"
+          "title": "Capital B Shareholders Approve Massive Financing Plan For Bitcoin Treasury Strategy",
+          "description": "Capital B shareholders approved a major financing mandate as the France-listed firm pushes deeper into its Bitcoin treasury strategy.",
+          "url": "https://bitcoinist.com/capital-b-shareholders-approve-massive-financing-plan-for-bitcoin-treasury/",
+          "source": "Bitcoinist",
+          "published": "2026-06-20T03:00:23Z",
+          "image": "https://bitcoinist.com/wp-content/uploads/2026/06/featured_bitcoinist_bitcoin-halving-clock-points-to-bottoming-phase-but-cycle-signal-needs-caution.png"
         },
         {
-          "title": "FBI Warns: Crypto Scammers Use Couriers to Collect Cash, Evade Bank Detection",
-          "description": "The Federal Bureau of Investigation (FBI) issued a public service announcement on Monday, June 15, warning that scammers are deploying couriers to collect cash from victims in person, a tactic designed to circumvent bank detection systems that normally flag w…",
-          "url": "https://www.naturalnews.com/2026-06-19-fbi-crypto-scammers-use-couriers-evade-detection.html",
-          "source": "Naturalnews.com",
-          "published": "2026-06-19T06:00:00Z",
-          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/cryptocurrency-scam-fbi-warning-courier-fraud-2165-original.jpg"
+          "title": "Ethereum Whale Activity Crashes 90% as Large Transactions Fall to Multi-Month Lows",
+          "description": "Ethereum (ETH) remained under pressure Thursday amid geopolitical tensions in the Middle East, persistent inflation concerns, and expectations of tighter monetary policy. Notably, the crypto asset’s weakness comes as on-chain data points to a sharp decline in…",
+          "url": "https://zycrypto.com/ethereum-whale-activity-crashes-90-as-large-transactions-fall-to-multi-month-lows/",
+          "source": "ZyCrypto",
+          "published": "2026-06-19T20:41:08Z",
+          "image": "https://zycrypto.com/wp-content/uploads/2023/06/Top-10-Ethereum-Whales-Grab-4-Billion-Worth-Of-Coins-Setting-a-New-Record-High.jpg"
+        },
+        {
+          "title": "Blockchain Market worth $610.96 billion by 2031 | Report by MarketsandMarkets™",
+          "description": "DELRAY BEACH, Fla., June 19, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Blockchain Market size is expected to reach USD 54.08 billion in 2026 and USD 610.96 billion by 2031, exhibiting a CAGR of 62.4% during the forecast period. Browse 400 mark…",
+          "url": "https://www.prnewswire.com/news-releases/blockchain-market-worth-610-96-billion-by-2031--report-by-marketsandmarkets-302805255.html",
+          "source": "PRNewswire",
+          "published": "2026-06-19T14:15:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS1173081/MarketsandMarkets-Logo.jpg?id=OA2725922&p=facebook"
         },
         {
           "title": "WISeKey’s WISe.ART Subsidiary Becomes the World’s First Hardware-Authenticated Art Platform as SEALSQ Subsidiary Secures European Patent for ‘Back-to-Physical’ NFT Technology",
@@ -228,28 +236,20 @@
           "image": "https://dz2cdn1.dzone.com/storage/article-thumb/19049426-thumb.jpg"
         },
         {
-          "title": "“Breaking the Chains 2026” on BrightU: How Big Tech’s $1T Texas data center is forging the chains of the New World Order",
-          "description": "The $1 trillion infrastructure investment in Texas (including Apple’s half-trillion and “Operation Stargate”) is not for economic revival but for the physical construction of a digital prison by globalist elites to enslave humanity, using copper, aluminum and…",
-          "url": "https://www.naturalnews.com/2026-06-17-texas-data-center-forging-chains-new-world-order.html",
-          "source": "Naturalnews.com",
-          "published": "2026-06-17T06:00:00Z",
-          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/Datacenter-Server-Computers-Crypto-AI.jpg"
-        },
-        {
-          "title": "SEALSQ Secures Patent for Breakthrough “Back-to-Physical” NFT Technology",
-          "description": "Divisional Grant Strengthens Leadership in Semiconductor-Embedded, Physically Authenticated Digital Assets Divisional Grant Strengthens Leadership in Semiconductor-Embedded, Physically Authenticated Digital Assets",
-          "url": "https://www.globenewswire.com/news-release/2026/06/16/3312708/0/en/SEALSQ-Secures-Patent-for-Breakthrough-Back-to-Physical-NFT-Technology.html",
-          "source": "GlobeNewswire",
-          "published": "2026-06-16T13:10:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/4071513d-3f7c-4a38-a055-8da38cfb60df"
-        },
-        {
           "title": "Ripple Participates in Flutterwave's Series E With Strategic Investment to Accelerate African Stablecoin Payments",
           "description": "This investment is a part of Flutterwave's Series E funding round, a milestone that underscores the company's strengthening institutional position and sets the stage for further strategic announcements in the coming months. In a landmark move for the African …",
           "url": "https://www.prnewswire.com/news-releases/ripple-participates-in-flutterwaves-series-e-with-strategic-investment-to-accelerate-african-stablecoin-payments-302801599.html",
           "source": "PRNewswire",
           "published": "2026-06-16T11:44:00Z",
           "image": "https://mmx.prnewswire.com/media/MS1866853/Flutterwave_x_Ripple.jpg?id=OA2719713&p=facebook"
+        },
+        {
+          "title": "ASX faces $20.5m penalty for failed blockchain-based system replacement",
+          "description": "Said system was \"progressing well\" when it wasn't.",
+          "url": "https://www.itnews.com.au/news/asx-faces-205m-penalty-for-failed-blockchain-based-system-replacement-626625",
+          "source": "iTnews",
+          "published": "2026-06-15T04:05:00Z",
+          "image": "https://i.nextmedia.com.au/News/crn-690_asx_building_iStock-477721785.jpg"
         }
       ]
     },
@@ -261,19 +261,68 @@
         "startups": {
           "title": "Startups",
           "icon": "💡",
-          "articles": []
+          "articles": [
+            {
+              "title": "Shiba Inu Balances On Binance Plunge By 1.1 Trillion Tokens In A Month",
+              "description": "Binance proof-of-reserves data reportedly shows SHIB user balances fell by 1.101 trillion tokens over one month.",
+              "url": "https://bitcoinist.com/shiba-inu-balances-on-binance-plunge-by-1-1-trillion-tokens-in-a-month/",
+              "source": "Bitcoinist",
+              "published": "2026-06-20T08:18:47Z",
+              "image": "https://bitcoinist.com/wp-content/uploads/2026/04/Shiba-Inu-from-Unsplash.jpeg"
+            },
+            {
+              "title": "Is Cardano Too Cheap to Ignore at Today's Price?",
+              "description": "At June 18's price near $0.17, Cardano (CRYPTO: ADA) is 94% below its 2021 peak and down 48% year to date. Now, rather than being on the cusp of a turnaround, there's reason to believe this coin's prospects are dimming further.\nIn late May, its community vote…",
+              "url": "https://biztoc.com/x/24601ddc5e998f03",
+              "source": "Biztoc.com",
+              "published": "2026-06-20T06:24:02Z",
+              "image": "https://biztoc.com/cdn/24601ddc5e998f03_s.webp"
+            },
+            {
+              "title": "Oobit – Pay anywhere with crypto from your own wallet with tap to pay",
+              "description": "Pay anywhere with crypto from your own wallet with tap to pay",
+              "url": "https://betalist.com/startups/oobit",
+              "source": "Betalist.com",
+              "published": "2026-06-20T04:00:00Z",
+              "image": "https://resize.imagekit.co/OYHk0pbSE4-XDhCEAkPDD3D9sWN-f7SDklnQibxGNB4/plain/s3://betalist-production/cltekcjah0uf84m6dha5c9x5ju2u"
+            },
+            {
+              "title": "DefyTON – Stake crypto on habits, AI verifies, earn or lose",
+              "description": "Stake crypto on habits, AI verifies, earn or lose",
+              "url": "https://betalist.com/startups/defyton",
+              "source": "Betalist.com",
+              "published": "2026-06-20T03:00:00Z",
+              "image": "https://resize.imagekit.co/C3Ube6G9AcAirdlXBvjS1apiuVm_dIhmzwIEib_tzFI/plain/s3://betalist-production/nsixnvvd880m6hcsrup801yt0wu2"
+            },
+            {
+              "title": "Read Zero Knowledge As I Write It",
+              "description": "Zero Knowledge, the crypto-thriller I'm co-writing with my AI, now has a home at zeroknowledge.ink. Six chapters are live, you can mark up any sentence, and the whole thing is being built in the open.",
+              "url": "https://feld.com/archives/2026/06/read-zero-knowledge-as-i-write-it/",
+              "source": "Feld.com",
+              "published": "2026-06-19T23:04:06Z",
+              "image": "https://feld.com/og-default.png"
+            }
+          ]
         },
         "hyperscalers": {
           "title": "Hyperscalers",
           "icon": "☁️",
           "articles": [
             {
-              "title": "Forget Critical Metals, Electricity is The Real Bottleneck for Artificial Intell",
-              "description": "The U.S. dollar is cracking—and the market knows it. After years of monetary excess, swelling deficits, and policy uncertainty, the world’s reserve currency is losing its grip as a store of value. Capital is fleeing paper promises and piling into hard assets …",
-              "url": "https://oilprice.com/Energy/Energy-General/Forget-Critical-Metals-Electricity-is-The-Real-Bottleneck-for-Artificial-Intell.html",
-              "source": "OilPrice.com",
-              "published": "2026-06-19T00:00:00Z",
-              "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-18_o4o53qid0p.jpg"
+              "title": "Coinbase (COIN) Launches SEC-Registered AI Investment Advisor for Coinbase One Subscribers",
+              "description": "Coinbase Global Inc. (NASDAQ:COIN) is one of the best NASDAQ stocks with high upside potential. On June 17, Coinbase Global introduced “Coinbase Advisor,” an...",
+              "url": "https://finance.yahoo.com/technology/ai/articles/coinbase-coin-launches-sec-registered-235905636.html",
+              "source": "Yahoo Entertainment",
+              "published": "2026-06-19T23:59:05Z",
+              "image": "https://s.yimg.com/lo/mysterio/api/D71B08B41C9042E823566FA7CABEE7C228E8DB67FC62B8962CCB549F496B8873/subgraphmysterio/resizefill_w1200_h674;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F1d848c92e75e178d78677c8e74e71ff5"
+            },
+            {
+              "title": "Crypto Clipper Malware Spreads Through USB Shortcuts, Microsoft Alarms",
+              "description": "Crypto malware detected by Microsoft shows a simple USB shortcut can turn into crypto wallet theft and even remote control. Microsoft warns of malware targeting...\nThe post Crypto Clipper Malware Spreads Through USB Shortcuts, Microsoft Alarms appeared first …",
+              "url": "https://bitcoinfoundation.org/news/crimes-and-fraud-news/crypto-clipper-malware-spreads-through-usb-shortcuts-microsoft-alarms/",
+              "source": "Bitcoinfoundation.org",
+              "published": "2026-06-19T12:35:06Z",
+              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/04/hacker-it-code-coding-attack-opt.webp"
             },
             {
               "title": "Algorand Plans to Be Ready for Quantum Computing Threat by End of 2027",
