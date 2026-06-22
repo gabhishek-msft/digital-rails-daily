@@ -1,5 +1,5 @@
 {
-  "date": "June 21, 2026",
+  "date": "June 22, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -117,12 +117,60 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Philippine SEC signals readiness for RWA tokenization",
-          "description": "Philippine SEC Commissioner Rogelio Quevedo told Cointelegraph that tokenized assets could give Filipinos more legitimate investment options while helping steer them away from scams.",
-          "url": "https://cointelegraph.com/news/philippine-sec-rwa-tokenization-readiness",
+          "title": "Turkish lira stablecoins show why Europe’s regulated euro tokens may struggle",
+          "description": "Zodia Markets, the crypto subsidiary majority-owned by Standard Chartered, processed $3.4 billion in transactions involving Turkish lira stablecoins in 2025, enough to make the lira its second-most-used stablecoin currency behind the dollar, ahead of the euro…",
+          "url": "https://cryptoslate.com/?p=542660",
+          "source": "CryptoSlate",
+          "published": "2026-06-21T10:28:25Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/06/lira-stablecoin.jpg"
+        },
+        {
+          "title": "Morgan Stanley’s proposed 0.14% ETH and SOL fees could turn the next crypto ETF race into a price fight",
+          "description": "Morgan Stanley filed amended registration statements for proposed Ethereum and Solana ETF trusts on June 18, setting a 0.14% annual delegated sponsor fee on both products. Bloomberg senior ETF analyst Eric Balchunas described the proposed fee as the lowest am…",
+          "url": "https://cryptoslate.com/?p=542928",
+          "source": "CryptoSlate",
+          "published": "2026-06-21T09:10:09Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/06/brave_sOf73Qlo33.jpg"
+        },
+        {
+          "title": "Japanese corporate pension fund plans 1% crypto allocation: Nikkei",
+          "description": "A Japanese corporate pension fund serving about 1,200 small and medium-sized businesses plans to allocate roughly 1% of its assets to crypto as part of a currency diversification strategy.",
+          "url": "https://cointelegraph.com/news/japanese-corporate-pension-fund-crypto-allocation",
           "source": "Cointelegraph",
-          "published": "2026-06-20T07:05:20Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-philippines-month-in-the-metaverse-enables-open-access.jpg"
+          "published": "2026-06-21T08:54:41Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/skjapan.jpg"
+        },
+        {
+          "title": "Bitcoin’s wild days are over — and Trace Mayer says that’s a good thing",
+          "description": "The creator of the Mayer Multiple argues bitcoin’s growing economic substance is compressing volatility and attracting deeper capital. Bitcoin’s trademark volatility was for years treated as both its greatest feature and its biggest flaw. Recently, that rolle…",
+          "url": "https://www.activistpost.com/bitcoins-wild-days-are-over-and-trace-mayer-says-thats-a-good-thing/",
+          "source": "Activistpost.com",
+          "published": "2026-06-20T22:01:21Z",
+          "image": null
+        },
+        {
+          "title": "Main Street msUSD Stablecoin Loses Dollar Peg and Crashes 90%",
+          "description": null,
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_be1cfe3c-8668-4fc5-b4d0-e6fa115d50ef",
+          "source": "Yahoo Entertainment",
+          "published": "2026-06-20T20:12:16Z",
+          "image": null
+        },
+        {
+          "title": "The Future Of Crypto Trading: Why Users Are Seeking No-KYC Alternatives",
+          "description": "Cryptocurrency was originally created to give users greater financial freedom, privacy, and control over their assets. Over the years, however, the crypto industry has become increasingly regulated, leading many exchanges to implement strict Know Your Custome…",
+          "url": "https://bitrebels.com/business/the-future-of-crypto-trading-why-users-are-seeking-no-kyc-alternatives/",
+          "source": "Bitrebels.com",
+          "published": "2026-06-20T15:00:05Z",
+          "image": "https://bitrebels.com/wp-content/uploads/2026/06/the-future-of-crypto-trading-why-users-are-seeking-no-kyc-alternatives-featured-image-scaled-optimized.jpg"
+        },
+        {
+          "title": "BITA Launches at 0.65%: BlackRock’s Covered-Call Bitcoin ETF Targets 70% Upside Plus Yield",
+          "description": "BlackRock listed the iShares Bitcoin Premium Income ETF (BITA) on Nasdaq on June 16, 2026, targeting a 15–25% annual yield while aiming to capture at least 7...",
+          "url": "https://www.coinspeaker.com/bitcoin-income-etf-blackrock-bita-covered-call/",
+          "source": "Coinspeaker",
+          "published": "2026-06-20T12:36:10Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/31141A3E0B8FF7BB6074F534E9803B79FD0661A65B3A0F31211074167F0EC6CF/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcoinspeaker_us_106%2Fb412b68fc1710474965e4b7cffe24fcf"
         },
         {
           "title": "AllUnity Launches SEKAU As MiCA Stablecoin Market Expands Beyond Euro And Dollar",
@@ -131,54 +179,6 @@
           "source": "Bitcoinist",
           "published": "2026-06-19T22:45:16Z",
           "image": "https://bitcoinist.com/wp-content/uploads/2026/01/stablecoin.png"
-        },
-        {
-          "title": "Dem Senator‘s 22-Year-Old Son Raises Eyeballs After Raking In $30 Million Investment",
-          "description": "The 22-year-old son of Democratic New York Sen. Kirsten Gillibrand raised $30 million in investments to launch a derivatives exchange startup already valued at $300 million, according to a report. Gillibrand is one of the top pro-crypto U.S. Senators in Washi…",
-          "url": "https://freerepublic.com/focus/f-bloggers/4384585/posts",
-          "source": "Freerepublic.com",
-          "published": "2026-06-19T21:37:19Z",
-          "image": null
-        },
-        {
-          "title": "After the CLARITY Act, Compliance Becomes a Growth Strategy",
-          "description": "B2PRIME’s Alex Tsepaev examines how the CLARITY Act could reshape digital asset markets, and why compliance, governance and operational credibility are emerging as the real determinants of which firms attract institutional capital and which are left behind.",
-          "url": "https://observer.com/2026/06/clarity-act-crypto-trust-institutional-capital/",
-          "source": "Observer",
-          "published": "2026-06-19T21:00:23Z",
-          "image": "https://observer.com/wp-content/uploads/sites/2/2026/06/getty-images-we18Q2oCx_o-unsplash.jpg?quality=80"
-        },
-        {
-          "title": "Tokyo-listed Gumi Bets Big on XRP, Plans to Become Japan’s Largest Institutional Holder",
-          "description": "Tokyo-listed game developer Gumi is doubling down on XRP, consolidating ¥14B, worth more than $90M, in assets to become Japan’s largest institutional holder.",
-          "url": "https://zycrypto.com/tokyo-listed-gumi-bets-big-on-xrp-plans-to-become-japans-largest-institutional-holder/",
-          "source": "ZyCrypto",
-          "published": "2026-06-19T20:33:47Z",
-          "image": "https://zycrypto.com/wp-content/uploads/2026/03/Ripples-XRP-Whales-Eye-1.7-Trillion-Payments-Industry-as-New-SWIFT-Narrative-Gains-Momentum.jpg"
-        },
-        {
-          "title": "Franklin Templeton new ETFs would convert US companies stock dividends into Bitcoin exposure",
-          "description": "Franklin Templeton, the $1.78 trillion asset management firm, is attempting to push cryptocurrency deeper into conventional investment portfolios with a new proposal that would automatically redirect stock dividends into Bitcoin exposure. On June 18, the asse…",
-          "url": "https://cryptoslate.com/franklin-templeton-new-etfs-would-convert-us-companies-stock-dividends-into-bitcoin-exposure/",
-          "source": "CryptoSlate",
-          "published": "2026-06-19T20:05:15Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/06/bitcoin-activity.jpg"
-        },
-        {
-          "title": "Ripple Swell 2026: What XRP Holders Should Expect From Ripple’s Biggest Event Yet",
-          "description": "Ripple’s flagship event is heading back to New York, and this year’s is the biggest the company has ever staged. Swell runs from October 27 to 29, and it loo...",
-          "url": "https://247wallst.com/investing/cryptocurrency/2026/06/19/ripple-swell-2026-what-xrp-holders-should-expect-from-ripples-biggest-event-yet/",
-          "source": "24/7 Wall St.",
-          "published": "2026-06-19T17:43:22Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/1520EA5637248B70B1B7E1CE2E45C7E81E01CF3493926E2761F0350D7C456EAA/subgraphmysterio/resizefill_w1200_h799;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F03b2d00b436e1d0a4de7f4953dbe5a35"
-        },
-        {
-          "title": "Can Private Credit Work Better Onchain? Cap Founder Explains What It Fixes",
-          "description": "Cap founder Benjamin Sarquis Peillard explains why moving private credit onchain is better",
-          "url": "https://www.coinage.media/2026/can-private-credit-work-better-onchain-cap-founder-explains-what-it-fixes",
-          "source": "Coinage.media",
-          "published": "2026-06-19T17:11:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/65249BA737729C0D01B95904849822FD6AD82F175C698B0D758A42D541A6904E/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcoinage_coop_399%2F71508b99b8aec82c6adc62211c2322a9"
         }
       ]
     },
@@ -188,20 +188,12 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Capital B Shareholders Approve Massive Financing Plan For Bitcoin Treasury Strategy",
-          "description": "Capital B shareholders approved a major financing mandate as the France-listed firm pushes deeper into its Bitcoin treasury strategy.",
-          "url": "https://bitcoinist.com/capital-b-shareholders-approve-massive-financing-plan-for-bitcoin-treasury/",
-          "source": "Bitcoinist",
-          "published": "2026-06-20T03:00:23Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/06/featured_bitcoinist_bitcoin-halving-clock-points-to-bottoming-phase-but-cycle-signal-needs-caution.png"
-        },
-        {
-          "title": "Ethereum Whale Activity Crashes 90% as Large Transactions Fall to Multi-Month Lows",
-          "description": "Ethereum (ETH) remained under pressure Thursday amid geopolitical tensions in the Middle East, persistent inflation concerns, and expectations of tighter monetary policy. Notably, the crypto asset’s weakness comes as on-chain data points to a sharp decline in…",
-          "url": "https://zycrypto.com/ethereum-whale-activity-crashes-90-as-large-transactions-fall-to-multi-month-lows/",
+          "title": "XRP Ledger Tops RWAs With $1.9B Inflows, Outpacing Ethereum and Stellar in Tokenization Race",
+          "description": "The XRP Ledger (XRPL) is quickly establishing itself as a leading blockchain for real-world assets (RWAs).",
+          "url": "https://zycrypto.com/xrp-ledger-tops-rwas-with-1-9b-inflows-outpacing-ethereum-and-stellar-in-tokenization-race/",
           "source": "ZyCrypto",
-          "published": "2026-06-19T20:41:08Z",
-          "image": "https://zycrypto.com/wp-content/uploads/2023/06/Top-10-Ethereum-Whales-Grab-4-Billion-Worth-Of-Coins-Setting-a-New-Record-High.jpg"
+          "published": "2026-06-20T19:28:26Z",
+          "image": "https://zycrypto.com/wp-content/uploads/2022/07/Colombian-Government-Launches-National-Land-Registry-On-XRP-Ledger-For-Over-50-Million-People.jpg"
         },
         {
           "title": "Blockchain Market worth $610.96 billion by 2031 | Report by MarketsandMarkets™",
@@ -236,14 +228,6 @@
           "image": "https://dz2cdn1.dzone.com/storage/article-thumb/19049426-thumb.jpg"
         },
         {
-          "title": "Ripple Participates in Flutterwave's Series E With Strategic Investment to Accelerate African Stablecoin Payments",
-          "description": "This investment is a part of Flutterwave's Series E funding round, a milestone that underscores the company's strengthening institutional position and sets the stage for further strategic announcements in the coming months. In a landmark move for the African …",
-          "url": "https://www.prnewswire.com/news-releases/ripple-participates-in-flutterwaves-series-e-with-strategic-investment-to-accelerate-african-stablecoin-payments-302801599.html",
-          "source": "PRNewswire",
-          "published": "2026-06-16T11:44:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS1866853/Flutterwave_x_Ripple.jpg?id=OA2719713&p=facebook"
-        },
-        {
           "title": "ASX faces $20.5m penalty for failed blockchain-based system replacement",
           "description": "Said system was \"progressing well\" when it wasn't.",
           "url": "https://www.itnews.com.au/news/asx-faces-205m-penalty-for-failed-blockchain-based-system-replacement-626625",
@@ -263,38 +247,6 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Shiba Inu Balances On Binance Plunge By 1.1 Trillion Tokens In A Month",
-              "description": "Binance proof-of-reserves data reportedly shows SHIB user balances fell by 1.101 trillion tokens over one month.",
-              "url": "https://bitcoinist.com/shiba-inu-balances-on-binance-plunge-by-1-1-trillion-tokens-in-a-month/",
-              "source": "Bitcoinist",
-              "published": "2026-06-20T08:18:47Z",
-              "image": "https://bitcoinist.com/wp-content/uploads/2026/04/Shiba-Inu-from-Unsplash.jpeg"
-            },
-            {
-              "title": "Is Cardano Too Cheap to Ignore at Today's Price?",
-              "description": "At June 18's price near $0.17, Cardano (CRYPTO: ADA) is 94% below its 2021 peak and down 48% year to date. Now, rather than being on the cusp of a turnaround, there's reason to believe this coin's prospects are dimming further.\nIn late May, its community vote…",
-              "url": "https://biztoc.com/x/24601ddc5e998f03",
-              "source": "Biztoc.com",
-              "published": "2026-06-20T06:24:02Z",
-              "image": "https://biztoc.com/cdn/24601ddc5e998f03_s.webp"
-            },
-            {
-              "title": "Oobit – Pay anywhere with crypto from your own wallet with tap to pay",
-              "description": "Pay anywhere with crypto from your own wallet with tap to pay",
-              "url": "https://betalist.com/startups/oobit",
-              "source": "Betalist.com",
-              "published": "2026-06-20T04:00:00Z",
-              "image": "https://resize.imagekit.co/OYHk0pbSE4-XDhCEAkPDD3D9sWN-f7SDklnQibxGNB4/plain/s3://betalist-production/cltekcjah0uf84m6dha5c9x5ju2u"
-            },
-            {
-              "title": "DefyTON – Stake crypto on habits, AI verifies, earn or lose",
-              "description": "Stake crypto on habits, AI verifies, earn or lose",
-              "url": "https://betalist.com/startups/defyton",
-              "source": "Betalist.com",
-              "published": "2026-06-20T03:00:00Z",
-              "image": "https://resize.imagekit.co/C3Ube6G9AcAirdlXBvjS1apiuVm_dIhmzwIEib_tzFI/plain/s3://betalist-production/nsixnvvd880m6hcsrup801yt0wu2"
-            },
-            {
               "title": "Read Zero Knowledge As I Write It",
               "description": "Zero Knowledge, the crypto-thriller I'm co-writing with my AI, now has a home at zeroknowledge.ink. Six chapters are live, you can mark up any sentence, and the whole thing is being built in the open.",
               "url": "https://feld.com/archives/2026/06/read-zero-knowledge-as-i-write-it/",
@@ -309,12 +261,20 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "Coinbase (COIN) Launches SEC-Registered AI Investment Advisor for Coinbase One Subscribers",
-              "description": "Coinbase Global Inc. (NASDAQ:COIN) is one of the best NASDAQ stocks with high upside potential. On June 17, Coinbase Global introduced “Coinbase Advisor,” an...",
-              "url": "https://finance.yahoo.com/technology/ai/articles/coinbase-coin-launches-sec-registered-235905636.html",
-              "source": "Yahoo Entertainment",
-              "published": "2026-06-19T23:59:05Z",
-              "image": "https://s.yimg.com/lo/mysterio/api/D71B08B41C9042E823566FA7CABEE7C228E8DB67FC62B8962CCB549F496B8873/subgraphmysterio/resizefill_w1200_h674;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F1d848c92e75e178d78677c8e74e71ff5"
+              "title": "‘The defining divide in enterprise software over the next five years will be between companies that rent intelligence versus companies that own it’: Enterprise AI is becoming increasingly distributed",
+              "description": "InstaLILY CEO Amit Shah says future enterprise success relies on owning intelligence more than renting models from hyperscalers.",
+              "url": "https://www.techradar.com/pro/the-defining-divide-in-enterprise-software-over-the-next-five-years-will-be-between-companies-that-rent-intelligence-versus-companies-that-own-it-enterprise-ai-is-becoming-increasingly-distributed",
+              "source": "TechRadar",
+              "published": "2026-06-21T11:00:00Z",
+              "image": "https://cdn.mos.cms.futurecdn.net/zwBWPNAfpJdnNkfJY3wUKM-2560-80.jpg"
+            },
+            {
+              "title": "Microsoft Warns Crypto Users About A Windows Clipper Malware Campaign",
+              "description": "Microsoft has detailed a Windows crypto clipper campaign that can spread by USB, monitor wallet addresses, and route traffic through Tor.",
+              "url": "https://bitcoinist.com/microsoft-warns-crypto-users-about-a-windows-clipper-malware-campaign/",
+              "source": "Bitcoinist",
+              "published": "2026-06-19T20:45:14Z",
+              "image": "https://bitcoinist.com/wp-content/uploads/2014/12/Microsoft-Bitcoinist.jpg"
             },
             {
               "title": "Crypto Clipper Malware Spreads Through USB Shortcuts, Microsoft Alarms",
@@ -331,30 +291,6 @@
               "source": "Decrypt",
               "published": "2026-06-18T20:52:47Z",
               "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/04/algorand-decrypt-style-gID_7.jpg"
-            },
-            {
-              "title": "Vantage Bank and Custodia Release White Paper Unveiling \"Hazel Network\"",
-              "description": "New Live Infrastructure for Banks and Credit Unions Introduces a Unified Token Combining Tokenized Bank Deposits and Stablecoins SAN ANTONIO and CHEYENNE, Wyo., June 18, 2026 /PRNewswire/ -- Vantage Bank and Custodia today announced the release of their white…",
-              "url": "https://www.prnewswire.com/news-releases/vantage-bank-and-custodia-release-white-paper-unveiling-hazel-network-302804851.html",
-              "source": "PRNewswire",
-              "published": "2026-06-18T19:59:00Z",
-              "image": "https://mmx.prnewswire.com/media/MS1869241/Hazel_Network.jpg?id=OA2725470&p=facebook"
-            },
-            {
-              "title": "The Quantum Threat to Encryption Is Coming. France Just Set a 2027 Deadline",
-              "description": "It's an aggressive move that'll effectively force operators of critical French infrastructure to move away from traditional cryptographic systems.",
-              "url": "https://gizmodo.com/the-quantum-threat-to-encryption-is-coming-france-just-set-a-2027-deadline-2000773650",
-              "source": "Gizmodo.com",
-              "published": "2026-06-18T16:05:26Z",
-              "image": "https://gizmodo.com/app/uploads/2026/06/france-anssi-q-day-deadline-top-image-1200x675.jpg"
-            },
-            {
-              "title": "Microsoft Details Windows Clipper Malware Campaign Using USB LNK Worm and Tor-Based C2",
-              "description": "Microsoft has disclosed details of a Windows-based cryptocurrency clipper campaign that has targeted users since February 2026.\n\n\"The clipper in this campaign relies on Windows Script Host and ActiveX-driven logic to launch a bundled Tor proxy and poll a hidd…",
-              "url": "https://thehackernews.com/2026/06/microsoft-details-windows-clipper.html",
-              "source": "Internet",
-              "published": "2026-06-18T14:30:42Z",
-              "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvKWONrjyxy3cGsc9xfw7n-6izVRjMImK2DpiOv4JDrtutcENRgX6JxsFQhsEMHDhZx9fGfeoj_mAQSVk9SoJumNREvmLtbWOjWaTlYn3c25sH_paaeZk-Xw08k3ckerv19Ax9stFCURiV321W7vh0f6qQbrmSHnuvPeNBeW6Grb7o6TU4s5dhJNkXyIon/s1700-e365/clipper-malware.jpg"
             }
           ]
         }
