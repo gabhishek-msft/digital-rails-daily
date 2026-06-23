@@ -1,5 +1,5 @@
 {
-  "date": "June 22, 2026",
+  "date": "June 23, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -100,14 +100,6 @@
           "source": "Crypto Briefing",
           "published": "2026-06-17T14:18:42Z",
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/17101840/okx-crypto-exchange-review-why-choose-okx-5-800x420.png"
-        },
-        {
-          "title": "1Password Credential Broker reduces secret sprawl through identity-based credential delivery",
-          "description": "1Password has announced 1Password Credential Broker, a new product that securely brokers credentials, tokens, and federated access from 1Password to trusted requesters. The 1Password Credential Broker is available in private beta today, with support for GitHu…",
-          "url": "https://www.helpnetsecurity.com/2026/06/15/1password-credential-broker-reduces-secret-sprawl-through-identity-based-credential-delivery/",
-          "source": "Help Net Security",
-          "published": "2026-06-15T13:16:25Z",
-          "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/28150559/hns-large_logo.webp"
         }
       ]
     },
@@ -117,68 +109,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Turkish lira stablecoins show why Europe’s regulated euro tokens may struggle",
-          "description": "Zodia Markets, the crypto subsidiary majority-owned by Standard Chartered, processed $3.4 billion in transactions involving Turkish lira stablecoins in 2025, enough to make the lira its second-most-used stablecoin currency behind the dollar, ahead of the euro…",
-          "url": "https://cryptoslate.com/?p=542660",
-          "source": "CryptoSlate",
-          "published": "2026-06-21T10:28:25Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/06/lira-stablecoin.jpg"
+          "title": "Best Crypto Staking Platforms 2026: A Tested U.S. Review of Rewards, Fees, Security, and Risks",
+          "description": "The best crypto staking platforms 2026 are those where your account retains most money after all commissions and costs and where you can withdraw funds...\nThe post Best Crypto Staking Platforms 2026: A Tested U.S. Review of Rewards, Fees, Security, and Risks …",
+          "url": "https://bitcoinfoundation.org/news/opinion/best-crypto-staking-platforms/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-06-22T09:09:24Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/06/staking-1.webp"
         },
         {
-          "title": "Morgan Stanley’s proposed 0.14% ETH and SOL fees could turn the next crypto ETF race into a price fight",
-          "description": "Morgan Stanley filed amended registration statements for proposed Ethereum and Solana ETF trusts on June 18, setting a 0.14% annual delegated sponsor fee on both products. Bloomberg senior ETF analyst Eric Balchunas described the proposed fee as the lowest am…",
-          "url": "https://cryptoslate.com/?p=542928",
+          "title": "Bitwise brings crypto model portfolios to retail apps as issuers seek demand beyond ticker picking",
+          "description": "The Parrot rollout puts model-based crypto exposure inside a retail investing app with more than $200 million on platform.\nThe post Bitwise brings crypto model portfolios to retail apps as issuers seek demand beyond ticker picking appeared first on CryptoSlat…",
+          "url": "https://cryptoslate.com/crypto-model-portfolios-bitwise-parrot/",
           "source": "CryptoSlate",
-          "published": "2026-06-21T09:10:09Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/06/brave_sOf73Qlo33.jpg"
+          "published": "2026-06-22T08:05:23Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/06/bitwise-crypto-model-parrot.jpg"
         },
         {
-          "title": "Japanese corporate pension fund plans 1% crypto allocation: Nikkei",
-          "description": "A Japanese corporate pension fund serving about 1,200 small and medium-sized businesses plans to allocate roughly 1% of its assets to crypto as part of a currency diversification strategy.",
-          "url": "https://cointelegraph.com/news/japanese-corporate-pension-fund-crypto-allocation",
+          "title": "Bank of England softens stablecoin rules in final framework",
+          "description": "LONDON, June 22 : The Bank of England published its final policy and draft rules for stablecoins on Monday, easing some proposals set out for industry consultation last year. The BoE scrapped plans to cap individual holdings, opting instead to limit total iss…",
+          "url": "https://www.channelnewsasia.com/business/bank-england-softens-stablecoin-rules-in-final-framework-6200246",
+          "source": "CNA",
+          "published": "2026-06-22T07:46:09Z",
+          "image": "https://dam.mediacorp.sg/image/upload/s--7HCRnR-7--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-06-22T074609Z_2_LYNXMPEM5L0GL_RTROPTP_3_BRITAIN-BOE.JPG?itok=BglFXXcS"
+        },
+        {
+          "title": "Best NFT API Providers In 2026: Data, Pricing, Chains, and Developer Fit",
+          "description": "Picture this: NFTs aren’t just digital pictures anymore. Handling who owns what matters more these days. Moving tokens around needs to work smoothly, too. Characteristics...\nThe post Best NFT API Providers In 2026: Data, Pricing, Chains, and Developer Fit app…",
+          "url": "https://bitcoinfoundation.org/news/nft/nft-marketplaces-api/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-06-22T07:17:10Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/06/NFT-API2.webp"
+        },
+        {
+          "title": "MoneyGram joins Solana as validator, expanding role in blockchain infrastructure",
+          "description": "MoneyGram has become a validator on the Solana blockchain, expanding its role in digital asset infrastructure as stablecoin adoption grows across the remittance industry.",
+          "url": "https://cointelegraph.com/news/moneygram-joins-solana-validator-expanding-role-blockchain-infrastructure",
           "source": "Cointelegraph",
-          "published": "2026-06-21T08:54:41Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/skjapan.jpg"
+          "published": "2026-06-22T06:00:00Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-blockchain-validator.png"
         },
         {
-          "title": "Bitcoin’s wild days are over — and Trace Mayer says that’s a good thing",
-          "description": "The creator of the Mayer Multiple argues bitcoin’s growing economic substance is compressing volatility and attracting deeper capital. Bitcoin’s trademark volatility was for years treated as both its greatest feature and its biggest flaw. Recently, that rolle…",
-          "url": "https://www.activistpost.com/bitcoins-wild-days-are-over-and-trace-mayer-says-thats-a-good-thing/",
-          "source": "Activistpost.com",
-          "published": "2026-06-20T22:01:21Z",
-          "image": null
+          "title": "“Breaking the Chains 2026” on BrightU: Why Starlink is the only escape from the coming digital gulag",
+          "description": "Globalist oligarchs (Bill Gates, Klaus Schwab) are accelerating the rollout of mandatory Digital ID and Central Bank Digital Currency (CBDC) as the infrastructure for a complete surveillance state, identified as the biblical “Mark of the Beast” from Revelatio…",
+          "url": "https://www.naturalnews.com/2026-06-22-why-starlink-only-escape-from-digital-gulag.html",
+          "source": "Naturalnews.com",
+          "published": "2026-06-22T06:00:00Z",
+          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/satellite-693228_960_720.jpg"
         },
         {
-          "title": "Main Street msUSD Stablecoin Loses Dollar Peg and Crashes 90%",
-          "description": null,
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_be1cfe3c-8668-4fc5-b4d0-e6fa115d50ef",
-          "source": "Yahoo Entertainment",
-          "published": "2026-06-20T20:12:16Z",
-          "image": null
+          "title": "Europe’s Swedish krona stablecoin arrives with a warning: dollar liquidity may already be too far ahead",
+          "description": "The Swedish krona token is compliant and live, but institutional usage will decide whether the rail matters.\nThe post Europe’s Swedish krona stablecoin arrives with a warning: dollar liquidity may already be too far ahead appeared first on CryptoSlate.",
+          "url": "https://cryptoslate.com/swedish-krona-stablecoin-sekau/",
+          "source": "CryptoSlate",
+          "published": "2026-06-22T05:44:52Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/06/sekau-stablecoin-krona.jpg"
         },
         {
-          "title": "The Future Of Crypto Trading: Why Users Are Seeking No-KYC Alternatives",
-          "description": "Cryptocurrency was originally created to give users greater financial freedom, privacy, and control over their assets. Over the years, however, the crypto industry has become increasingly regulated, leading many exchanges to implement strict Know Your Custome…",
-          "url": "https://bitrebels.com/business/the-future-of-crypto-trading-why-users-are-seeking-no-kyc-alternatives/",
-          "source": "Bitrebels.com",
-          "published": "2026-06-20T15:00:05Z",
-          "image": "https://bitrebels.com/wp-content/uploads/2026/06/the-future-of-crypto-trading-why-users-are-seeking-no-kyc-alternatives-featured-image-scaled-optimized.jpg"
-        },
-        {
-          "title": "BITA Launches at 0.65%: BlackRock’s Covered-Call Bitcoin ETF Targets 70% Upside Plus Yield",
-          "description": "BlackRock listed the iShares Bitcoin Premium Income ETF (BITA) on Nasdaq on June 16, 2026, targeting a 15–25% annual yield while aiming to capture at least 7...",
-          "url": "https://www.coinspeaker.com/bitcoin-income-etf-blackrock-bita-covered-call/",
-          "source": "Coinspeaker",
-          "published": "2026-06-20T12:36:10Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/31141A3E0B8FF7BB6074F534E9803B79FD0661A65B3A0F31211074167F0EC6CF/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcoinspeaker_us_106%2Fb412b68fc1710474965e4b7cffe24fcf"
-        },
-        {
-          "title": "AllUnity Launches SEKAU As MiCA Stablecoin Market Expands Beyond Euro And Dollar",
-          "description": "AllUnity has launched SEKAU, a Swedish krona-backed MiCA stablecoin designed for institutional settlement and local-currency payments.",
-          "url": "https://bitcoinist.com/allunity-launches-sekau-as-mica-stablecoin-market-expands-beyond-euro-and-dollar/",
-          "source": "Bitcoinist",
-          "published": "2026-06-19T22:45:16Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/01/stablecoin.png"
+          "title": "Federal Regulators Want Stablecoins to Keep Working Without ID Checks",
+          "description": "The banks aren't going to like this.",
+          "url": "https://gizmodo.com/federal-regulators-want-stablecoins-to-keep-working-without-id-checks-2000774944",
+          "source": "Gizmodo.com",
+          "published": "2026-06-21T17:12:32Z",
+          "image": "https://gizmodo.com/app/uploads/2026/06/eccles-building.jpg"
         }
       ]
     },
@@ -187,14 +179,6 @@
       "icon": "🏥",
       "color": "#00cc88",
       "articles": [
-        {
-          "title": "XRP Ledger Tops RWAs With $1.9B Inflows, Outpacing Ethereum and Stellar in Tokenization Race",
-          "description": "The XRP Ledger (XRPL) is quickly establishing itself as a leading blockchain for real-world assets (RWAs).",
-          "url": "https://zycrypto.com/xrp-ledger-tops-rwas-with-1-9b-inflows-outpacing-ethereum-and-stellar-in-tokenization-race/",
-          "source": "ZyCrypto",
-          "published": "2026-06-20T19:28:26Z",
-          "image": "https://zycrypto.com/wp-content/uploads/2022/07/Colombian-Government-Launches-National-Land-Registry-On-XRP-Ledger-For-Over-50-Million-People.jpg"
-        },
         {
           "title": "Blockchain Market worth $610.96 billion by 2031 | Report by MarketsandMarkets™",
           "description": "DELRAY BEACH, Fla., June 19, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Blockchain Market size is expected to reach USD 54.08 billion in 2026 and USD 610.96 billion by 2031, exhibiting a CAGR of 62.4% during the forecast period. Browse 400 mark…",
@@ -226,14 +210,6 @@
           "source": "Dataview.in",
           "published": "2026-06-17T18:00:00Z",
           "image": "https://dz2cdn1.dzone.com/storage/article-thumb/19049426-thumb.jpg"
-        },
-        {
-          "title": "ASX faces $20.5m penalty for failed blockchain-based system replacement",
-          "description": "Said system was \"progressing well\" when it wasn't.",
-          "url": "https://www.itnews.com.au/news/asx-faces-205m-penalty-for-failed-blockchain-based-system-replacement-626625",
-          "source": "iTnews",
-          "published": "2026-06-15T04:05:00Z",
-          "image": "https://i.nextmedia.com.au/News/crn-690_asx_building_iStock-477721785.jpg"
         }
       ]
     },
@@ -246,6 +222,14 @@
           "title": "Startups",
           "icon": "💡",
           "articles": [
+            {
+              "title": "Why Ethereum’s L2 Ecosystem is Maturing, Not Retreating",
+              "description": "Token prices have a way of swallowing every other story because when ether is lurching up or down, the headlines follow the candles like glue. Underneath all of that noise, though, something steadier has been happening: Ethereum’s L2 ecosystem has kept expand…",
+              "url": "https://zycrypto.com/why-ethereums-l2-ecosystem-is-maturing-not-retreating/",
+              "source": "ZyCrypto",
+              "published": "2026-06-22T09:24:54Z",
+              "image": "https://zycrypto.com/wp-content/uploads/2026/06/Why-Ethereums-L2-Ecosystem-is-Maturing-Not-Retreating.jpg"
+            },
             {
               "title": "Read Zero Knowledge As I Write It",
               "description": "Zero Knowledge, the crypto-thriller I'm co-writing with my AI, now has a home at zeroknowledge.ink. Six chapters are live, you can mark up any sentence, and the whole thing is being built in the open.",
@@ -261,12 +245,12 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "‘The defining divide in enterprise software over the next five years will be between companies that rent intelligence versus companies that own it’: Enterprise AI is becoming increasingly distributed",
-              "description": "InstaLILY CEO Amit Shah says future enterprise success relies on owning intelligence more than renting models from hyperscalers.",
-              "url": "https://www.techradar.com/pro/the-defining-divide-in-enterprise-software-over-the-next-five-years-will-be-between-companies-that-rent-intelligence-versus-companies-that-own-it-enterprise-ai-is-becoming-increasingly-distributed",
-              "source": "TechRadar",
-              "published": "2026-06-21T11:00:00Z",
-              "image": "https://cdn.mos.cms.futurecdn.net/zwBWPNAfpJdnNkfJY3wUKM-2560-80.jpg"
+              "title": "Tech, crypto firms to help tackle illegal wildlife trade",
+              "description": "Announcement made as part of a business forum convened by Prince William ‌and ⁠The Royal ⁠Foundation's United for Wildlife during London Climate Action Week.",
+              "url": "https://economictimes.indiatimes.com/tech/technology/tech-crypto-firms-to-help-tackle-illegal-wildlife-trade/articleshow/131899955.cms",
+              "source": "The Times of India",
+              "published": "2026-06-22T02:32:25Z",
+              "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-111216,resizemode-75,msid-131899955/tech/technology/tech-crypto-firms-to-help-tackle-illegal-wildlife-trade.jpg"
             },
             {
               "title": "Microsoft Warns Crypto Users About A Windows Clipper Malware Campaign",
@@ -275,14 +259,6 @@
               "source": "Bitcoinist",
               "published": "2026-06-19T20:45:14Z",
               "image": "https://bitcoinist.com/wp-content/uploads/2014/12/Microsoft-Bitcoinist.jpg"
-            },
-            {
-              "title": "Crypto Clipper Malware Spreads Through USB Shortcuts, Microsoft Alarms",
-              "description": "Crypto malware detected by Microsoft shows a simple USB shortcut can turn into crypto wallet theft and even remote control. Microsoft warns of malware targeting...\nThe post Crypto Clipper Malware Spreads Through USB Shortcuts, Microsoft Alarms appeared first …",
-              "url": "https://bitcoinfoundation.org/news/crimes-and-fraud-news/crypto-clipper-malware-spreads-through-usb-shortcuts-microsoft-alarms/",
-              "source": "Bitcoinfoundation.org",
-              "published": "2026-06-19T12:35:06Z",
-              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/04/hacker-it-code-coding-attack-opt.webp"
             },
             {
               "title": "Algorand Plans to Be Ready for Quantum Computing Threat by End of 2027",
