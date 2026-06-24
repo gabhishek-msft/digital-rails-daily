@@ -1,11 +1,19 @@
 {
-  "date": "June 23, 2026",
+  "date": "June 24, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "Anchorage aims to bring banks onchain with new tokenized deposit platform",
+          "description": "The crypto bank aims to help financial institutions offer round-the-clock payments and settlement without replacing their core systems.",
+          "url": "https://www.coindesk.com/business/2026/06/19/anchorage-aims-to-bring-banks-onchain-with-new-tokenized-deposit-platform",
+          "source": "CoinDesk",
+          "published": "2026-06-22T15:00:00Z",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/b66d55b12b9f842b7062ba6ae8eac93415da491f-3000x1687.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
+        },
         {
           "title": "Can Ethereum Reach $5,000 in 2026? The Hidden Catalysts That Could Trigger the Next ETH Surge",
           "description": "Into 2026, Ethereum moves with uneven momentum. Still the core of DeFi, sure, yet also tied tightly to stablecoin flows, staked assets, and activity on...\nThe post Can Ethereum Reach $5,000 in 2026? The Hidden Catalysts That Could Trigger the Next ETH Surge a…",
@@ -45,30 +53,6 @@
           "source": "Crypto Briefing",
           "published": "2026-06-17T10:44:14Z",
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/17064412/deutsche-bank-800x420.jpeg"
-        },
-        {
-          "title": "Tokenized asset market tops $43B as institutions accelerate blockchain adoption",
-          "description": "Tokenized financial assets have surged 37% in six months as institutions expand blockchain adoption and the market broadens beyond funds and private credit, according to Token Terminal.",
-          "url": "https://cointelegraph.com/news/tokenized-rwa-market-tops-43b-wall-street-pushes-deeper-onchain",
-          "source": "Cointelegraph",
-          "published": "2026-06-16T20:55:09Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-268380-rwa-is-the-democratization-of-investment-reaching-latin-america.jpg"
-        },
-        {
-          "title": "7 Ways Businesses Are Using Crypto Swap APIs",
-          "description": "Real-world case studies show how the best crypto swap APIs help wallets, aggregators, and protocols improve onboarding and retention.",
-          "url": "https://decrypt.co/370811/7-ways-businesses-are-using-crypto-swap-apis",
-          "source": "Decrypt",
-          "published": "2026-06-16T17:02:11Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/06/api-image-gID_7.jpg"
-        },
-        {
-          "title": "The Hashgraph Group and Truesense File European Patent Application for Groundbreaking Continuous Identity Trust Infrastructure (CITI)",
-          "description": "CITI is a novel patent-pending cryptographic framework that binds physical presence from ultra-wideband to decentralised digital identity credentials on distributed ledger technology, addressing Europe's surging regulatory requirements for trusted, auditable …",
-          "url": "https://www.prnewswire.com/news-releases/the-hashgraph-group-and-truesense-file-european-patent-application-for-groundbreaking-continuous-identity-trust-infrastructure-citi-302801744.html",
-          "source": "PRNewswire",
-          "published": "2026-06-16T13:07:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS1866849/74dfa2a31c6e4d1cb82e86f9b62fe67f.jpg?id=OA2719922&p=facebook"
         }
       ]
     },
@@ -77,6 +61,22 @@
       "icon": "🔐",
       "color": "#e6a200",
       "articles": [
+        {
+          "title": "Ethereum Layer-2 Taiko Warns Users to Withdraw Bridge Funds After Security Breach",
+          "description": "Researchers estimate more than $1.7 million was stolen after attackers allegedly exploited Taiko's proof verification process.",
+          "url": "https://decrypt.co/371769/ethereum-layer-2-taiko-withdraw-bridge-funds-security-breach",
+          "source": "Decrypt",
+          "published": "2026-06-22T15:31:03Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Ethereum-decrypt-style-03-gID_7.png"
+        },
+        {
+          "title": "Arcium launches $ARX token with $400M FDV and $95M market cap",
+          "description": "Arcium's $ARX token launch highlights the growing importance of confidential computing in blockchain, potentially driving future DeFi innovations.\nThe post Arcium launches $ARX token with $400M FDV and $95M market cap appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/arcium-arx-token-launch-400m-fdv/",
+          "source": "Crypto Briefing",
+          "published": "2026-06-22T11:43:13Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/22074304/https-cdn-prod-website-files-com-67086aa28c40f80ff00c0aa3-67-800x420.jpeg"
+        },
         {
           "title": "Lite Strategy leads $1M investment in LitVM to bring smart contracts to Litecoin",
           "description": "Lite Strategy led a $1 million investment in LitVM as the Litecoin treasury firm backs smart contracts, DeFi and tokenized assets on LTC.\nThe post Lite Strategy leads $1M investment in LitVM to bring smart contracts to Litecoin appeared first on Crypto Briefi…",
@@ -92,14 +92,6 @@
           "source": "ZyCrypto",
           "published": "2026-06-18T11:04:42Z",
           "image": "https://zycrypto.com/wp-content/uploads/2026/03/Ethereums-Evolution-Not-Linear-But-Rather-Fundamental-—-Market-Expert-Takes-Deep-Dive.jpg"
-        },
-        {
-          "title": "OKX adopts Chainlink Data Streams on X Layer mainnet",
-          "description": "The integration enhances X Layer's DeFi capabilities, potentially boosting OKB demand and solidifying its position in the Ethereum ecosystem.\nThe post OKX adopts Chainlink Data Streams on X Layer mainnet appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/okx-chainlink-data-streams-x-layer/",
-          "source": "Crypto Briefing",
-          "published": "2026-06-17T14:18:42Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/17101840/okx-crypto-exchange-review-why-choose-okx-5-800x420.png"
         }
       ]
     },
@@ -109,68 +101,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Best Crypto Staking Platforms 2026: A Tested U.S. Review of Rewards, Fees, Security, and Risks",
-          "description": "The best crypto staking platforms 2026 are those where your account retains most money after all commissions and costs and where you can withdraw funds...\nThe post Best Crypto Staking Platforms 2026: A Tested U.S. Review of Rewards, Fees, Security, and Risks …",
-          "url": "https://bitcoinfoundation.org/news/opinion/best-crypto-staking-platforms/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-06-22T09:09:24Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/06/staking-1.webp"
+          "title": "Bank of England softens draft stablecoin rules after industry concerns",
+          "description": null,
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ab1b7a33-e5d3-4797-85e9-0fa7c3213b39",
+          "source": "Yahoo Entertainment",
+          "published": "2026-06-23T09:18:45Z",
+          "image": null
         },
         {
-          "title": "Bitwise brings crypto model portfolios to retail apps as issuers seek demand beyond ticker picking",
-          "description": "The Parrot rollout puts model-based crypto exposure inside a retail investing app with more than $200 million on platform.\nThe post Bitwise brings crypto model portfolios to retail apps as issuers seek demand beyond ticker picking appeared first on CryptoSlat…",
-          "url": "https://cryptoslate.com/crypto-model-portfolios-bitwise-parrot/",
+          "title": "Ethereum breakaway developers turn a funding gap into a fight over who steers the network",
+          "description": "On June 22, five former senior Ethereum Foundation researchers announced Ethlabs, an independent nonprofit R&D lab with a mission to make Ethereum the settlement layer of the global economy. The co-founders, Ansgar Dietrichs, Barnabé Monnot, Caspar Schwarz-Sc…",
+          "url": "https://cryptoslate.com/ethereums-post-foundation-era-is-starting-with-an-eth-value-bet/",
           "source": "CryptoSlate",
-          "published": "2026-06-22T08:05:23Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/06/bitwise-crypto-model-parrot.jpg"
+          "published": "2026-06-23T09:02:28Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/06/ethereum-post-foundation.jpg"
         },
         {
-          "title": "Bank of England softens stablecoin rules in final framework",
-          "description": "LONDON, June 22 : The Bank of England published its final policy and draft rules for stablecoins on Monday, easing some proposals set out for industry consultation last year. The BoE scrapped plans to cap individual holdings, opting instead to limit total iss…",
-          "url": "https://www.channelnewsasia.com/business/bank-england-softens-stablecoin-rules-in-final-framework-6200246",
-          "source": "CNA",
-          "published": "2026-06-22T07:46:09Z",
-          "image": "https://dam.mediacorp.sg/image/upload/s--7HCRnR-7--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-06-22T074609Z_2_LYNXMPEM5L0GL_RTROPTP_3_BRITAIN-BOE.JPG?itok=BglFXXcS"
+          "title": "JPMorgan upgrades IBM to Overweight, raises price target to $291",
+          "description": "IBM's strategic focus on AI and digital assets could drive significant growth, positioning it as a key player in future tech landscapes.\nThe post JPMorgan upgrades IBM to Overweight, raises price target to $291 appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/jpmorgan-upgrades-ibm-overweight-price-target/",
+          "source": "Crypto Briefing",
+          "published": "2026-06-23T08:44:00Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/23044353/ibm-logo-1-ibm-logo-800x420.png"
         },
         {
-          "title": "Best NFT API Providers In 2026: Data, Pricing, Chains, and Developer Fit",
-          "description": "Picture this: NFTs aren’t just digital pictures anymore. Handling who owns what matters more these days. Moving tokens around needs to work smoothly, too. Characteristics...\nThe post Best NFT API Providers In 2026: Data, Pricing, Chains, and Developer Fit app…",
-          "url": "https://bitcoinfoundation.org/news/nft/nft-marketplaces-api/",
+          "title": "CZ Says Hyperliquid Found A No-KYC Niche Binance Cannot Touch",
+          "description": "Binance founder Changpeng Zhao has put Hyperliquid back in the spotlight after discussing the decentralized derivatives platform’s no-KYC model and the nic",
+          "url": "https://bitcoinist.com/cz-says-hyperliquid-found-a-no-kyc-niche-binance-cannot-touch/",
+          "source": "Bitcoinist",
+          "published": "2026-06-23T08:40:13Z",
+          "image": "https://bitcoinist.com/wp-content/uploads/2026/02/Screenshot-2026-02-11-105424.png"
+        },
+        {
+          "title": "US Senate Bans CBDC Until 2030 — Stablecoins Exempt From Ban",
+          "description": "The measure passed as part of a housing bill. We break down what the US CBDC ban means for the crypto market and how other...\nThe post US Senate Bans CBDC Until 2030 — Stablecoins Exempt From Ban appeared first on Bitcoin Foundation.",
+          "url": "https://bitcoinfoundation.org/news/regulation/us-bans-cbdc/",
           "source": "Bitcoinfoundation.org",
-          "published": "2026-06-22T07:17:10Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/06/NFT-API2.webp"
+          "published": "2026-06-23T08:37:28Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/06/ChatGPT-Image-23-июн.-2026-г.-11_32_29-1.webp"
         },
         {
-          "title": "MoneyGram joins Solana as validator, expanding role in blockchain infrastructure",
-          "description": "MoneyGram has become a validator on the Solana blockchain, expanding its role in digital asset infrastructure as stablecoin adoption grows across the remittance industry.",
-          "url": "https://cointelegraph.com/news/moneygram-joins-solana-validator-expanding-role-blockchain-infrastructure",
-          "source": "Cointelegraph",
-          "published": "2026-06-22T06:00:00Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-blockchain-validator.png"
+          "title": "Cboe Bitcoin And Ether Continuous Futures Show How US Perps Are Moving Onshore",
+          "description": "Cboe’s Bitcoin and Ether continuous futures are keeping the U.S. regulated derivatives market in focus as Wall Street experiments with perpetual-style cryp",
+          "url": "https://bitcoinist.com/cboe-bitcoin-and-ether-continuous-futures-show-how-us-perps-are-moving-onshore/",
+          "source": "Bitcoinist",
+          "published": "2026-06-23T08:35:38Z",
+          "image": "https://bitcoinist.com/wp-content/uploads/2019/03/shutterstock_258345956.jpg"
         },
         {
-          "title": "“Breaking the Chains 2026” on BrightU: Why Starlink is the only escape from the coming digital gulag",
-          "description": "Globalist oligarchs (Bill Gates, Klaus Schwab) are accelerating the rollout of mandatory Digital ID and Central Bank Digital Currency (CBDC) as the infrastructure for a complete surveillance state, identified as the biblical “Mark of the Beast” from Revelatio…",
-          "url": "https://www.naturalnews.com/2026-06-22-why-starlink-only-escape-from-digital-gulag.html",
-          "source": "Naturalnews.com",
-          "published": "2026-06-22T06:00:00Z",
-          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/satellite-693228_960_720.jpg"
+          "title": "Ripple Secures Preliminary Luxembourg CASP Approval As EU Crypto Push Accelerates",
+          "description": "Ripple says it has secured preliminary Crypto Asset Service Provider approval in Luxembourg, giving the company another regulatory foothold as Europe’s MiC",
+          "url": "http://www.newsbtc.com/news/ripple-secures-preliminary-luxembourg-casp-approval-as-eu-crypto-push/",
+          "source": "newsBTC",
+          "published": "2026-06-23T08:31:36Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2026/05/Ripple-from-Getty-Images.jpg"
         },
         {
-          "title": "Europe’s Swedish krona stablecoin arrives with a warning: dollar liquidity may already be too far ahead",
-          "description": "The Swedish krona token is compliant and live, but institutional usage will decide whether the rail matters.\nThe post Europe’s Swedish krona stablecoin arrives with a warning: dollar liquidity may already be too far ahead appeared first on CryptoSlate.",
-          "url": "https://cryptoslate.com/swedish-krona-stablecoin-sekau/",
-          "source": "CryptoSlate",
-          "published": "2026-06-22T05:44:52Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/06/sekau-stablecoin-krona.jpg"
-        },
-        {
-          "title": "Federal Regulators Want Stablecoins to Keep Working Without ID Checks",
-          "description": "The banks aren't going to like this.",
-          "url": "https://gizmodo.com/federal-regulators-want-stablecoins-to-keep-working-without-id-checks-2000774944",
-          "source": "Gizmodo.com",
-          "published": "2026-06-21T17:12:32Z",
-          "image": "https://gizmodo.com/app/uploads/2026/06/eccles-building.jpg"
+          "title": "US Senate CBDC Ban Puts Fed Digital Dollar Plans On Ice Until 2030",
+          "description": "A sweeping U.S. housing package has become a fresh flashpoint for crypto policy after the Senate-backed version included language blocking the Federal Rese",
+          "url": "http://www.newsbtc.com/news/us-senate-cbdc-ban-puts-fed-digital-dollar-plans-on-ice-until-2030/",
+          "source": "newsBTC",
+          "published": "2026-06-23T08:29:53Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2017/08/shutterstock_628106561.jpg"
         }
       ]
     },
@@ -180,20 +172,20 @@
       "color": "#00cc88",
       "articles": [
         {
+          "title": "GoGo AI Network Inc. and Algo8 Industrial AI Inc. Announce Definitive Arrangement Agreement to Spin Out Full-Stack Industrial AI Platform to Public Markets",
+          "description": "VANCOUVER, British Columbia, June 22, 2026 (GLOBE NEWSWIRE) -- GoGo AI Network Inc. (\"GoGo\" or the \"Company\") (CSE: GOGO) (OTC: GOGAF) (FSE: 4E9) is pleased to announce that it has entered into a definitive arrangement agreement dated June 21st, 2026 (the \"Ar…",
+          "url": "https://www.globenewswire.com/news-release/2026/06/22/3315228/0/en/GoGo-AI-Network-Inc-and-Algo8-Industrial-AI-Inc-Announce-Definitive-Arrangement-Agreement-to-Spin-Out-Full-Stack-Industrial-AI-Platform-to-Public-Markets.html",
+          "source": "GlobeNewswire",
+          "published": "2026-06-22T12:00:00Z",
+          "image": "https://ml.globenewswire.com/Resource/Download/2de04005-7f0a-45c4-a638-3ef13b498891"
+        },
+        {
           "title": "Blockchain Market worth $610.96 billion by 2031 | Report by MarketsandMarkets™",
           "description": "DELRAY BEACH, Fla., June 19, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Blockchain Market size is expected to reach USD 54.08 billion in 2026 and USD 610.96 billion by 2031, exhibiting a CAGR of 62.4% during the forecast period. Browse 400 mark…",
           "url": "https://www.prnewswire.com/news-releases/blockchain-market-worth-610-96-billion-by-2031--report-by-marketsandmarkets-302805255.html",
           "source": "PRNewswire",
           "published": "2026-06-19T14:15:00Z",
           "image": "https://mmx.prnewswire.com/media/MS1173081/MarketsandMarkets-Logo.jpg?id=OA2725922&p=facebook"
-        },
-        {
-          "title": "WISeKey’s WISe.ART Subsidiary Becomes the World’s First Hardware-Authenticated Art Platform as SEALSQ Subsidiary Secures European Patent for ‘Back-to-Physical’ NFT Technology",
-          "description": "WISeKey’s WISe.ART Subsidiary Becomes the World’s First Hardware-Authenticated Art Platform as SEALSQ Subsidiary Secures European Patent for ‘Back-to-Physical’ NFT Technology",
-          "url": "https://www.globenewswire.com/news-release/2026/06/18/3314096/0/en/WISeKey-s-WISe-ART-Subsidiary-Becomes-the-World-s-First-Hardware-Authenticated-Art-Platform-as-SEALSQ-Subsidiary-Secures-European-Patent-for-Back-to-Physical-NFT-Technology.html",
-          "source": "GlobeNewswire",
-          "published": "2026-06-18T12:00:00Z",
-          "image": "https://ml-eu.globenewswire.com/Resource/Download/80dae807-c8a0-4e1a-a0f0-61afcc7ae788"
         },
         {
           "title": "Crypto’s Future May Depend on Lawyers Who Think Like Operators",
@@ -223,14 +215,6 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Why Ethereum’s L2 Ecosystem is Maturing, Not Retreating",
-              "description": "Token prices have a way of swallowing every other story because when ether is lurching up or down, the headlines follow the candles like glue. Underneath all of that noise, though, something steadier has been happening: Ethereum’s L2 ecosystem has kept expand…",
-              "url": "https://zycrypto.com/why-ethereums-l2-ecosystem-is-maturing-not-retreating/",
-              "source": "ZyCrypto",
-              "published": "2026-06-22T09:24:54Z",
-              "image": "https://zycrypto.com/wp-content/uploads/2026/06/Why-Ethereums-L2-Ecosystem-is-Maturing-Not-Retreating.jpg"
-            },
-            {
               "title": "Read Zero Knowledge As I Write It",
               "description": "Zero Knowledge, the crypto-thriller I'm co-writing with my AI, now has a home at zeroknowledge.ink. Six chapters are live, you can mark up any sentence, and the whole thing is being built in the open.",
               "url": "https://feld.com/archives/2026/06/read-zero-knowledge-as-i-write-it/",
@@ -245,28 +229,60 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "Tech, crypto firms to help tackle illegal wildlife trade",
-              "description": "Announcement made as part of a business forum convened by Prince William ‌and ⁠The Royal ⁠Foundation's United for Wildlife during London Climate Action Week.",
-              "url": "https://economictimes.indiatimes.com/tech/technology/tech-crypto-firms-to-help-tackle-illegal-wildlife-trade/articleshow/131899955.cms",
-              "source": "The Times of India",
-              "published": "2026-06-22T02:32:25Z",
-              "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-111216,resizemode-75,msid-131899955/tech/technology/tech-crypto-firms-to-help-tackle-illegal-wildlife-trade.jpg"
+              "title": "Opera's MiniPay launches Visa debit card for stablecoin spending",
+              "description": "The card will allow MiniPay's 16 million users to spend stablecoins through Visa's network as adoption of digital dollars grows across emerging markets.",
+              "url": "https://cointelegraph.com/news/operas-minipay-launches-visa-debit-card-for-stablecoin-spending",
+              "source": "Cointelegraph",
+              "published": "2026-06-23T06:00:00Z",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/hi-could-those-who-left-visa-come-back-stablecoin.png"
             },
             {
-              "title": "Microsoft Warns Crypto Users About A Windows Clipper Malware Campaign",
-              "description": "Microsoft has detailed a Windows crypto clipper campaign that can spread by USB, monitor wallet addresses, and route traffic through Tor.",
-              "url": "https://bitcoinist.com/microsoft-warns-crypto-users-about-a-windows-clipper-malware-campaign/",
-              "source": "Bitcoinist",
-              "published": "2026-06-19T20:45:14Z",
-              "image": "https://bitcoinist.com/wp-content/uploads/2014/12/Microsoft-Bitcoinist.jpg"
+              "title": "Synthetic Stablecoins and Financial Stability",
+              "description": "On October 10, 2025, the announcement of a potential additional 100 percent tariff on Chinese goods drove risk-off moves across equities, Treasuries, credit spreads, and digital assets. Digital asset prices fell sharply, trading volumes surged, and liquidity …",
+              "url": "https://libertystreeteconomics.newyorkfed.org/2026/06/synthetic-stablecoins-and-financial-stability/",
+              "source": "Newyorkfed.org",
+              "published": "2026-06-22T21:00:32Z",
+              "image": "https://libertystreeteconomics.newyorkfed.org/wp-content/uploads/sites/2/2026/06/LSE_2026_synthetic-stablecoin_azar_460.jpg"
             },
             {
-              "title": "Algorand Plans to Be Ready for Quantum Computing Threat by End of 2027",
-              "description": "Quantum computing threatens the blockchain ecosystem, from Bitcoin to Ethereum and beyond, and Algorand has a plan to be prepared.",
-              "url": "https://decrypt.co/371581/algorand-plans-ready-quantum-computing-threat-end-2027",
-              "source": "Decrypt",
-              "published": "2026-06-18T20:52:47Z",
-              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/04/algorand-decrypt-style-gID_7.jpg"
+              "title": "Better Buy: XRP vs. Chainlink (LINK)",
+              "description": "XRP (CRYPTO: XRP) and LINK (CRYPTO: LINK) are different from conventional cryptocurrencies. XRP is the native token of the XRP Ledger, a blockchain that primarily supports financial transactions on Ripple's payment network. LINK is the native token of Chainli…",
+              "url": "https://biztoc.com/x/3d87e8813048aff8",
+              "source": "Biztoc.com",
+              "published": "2026-06-22T16:34:36Z",
+              "image": "https://biztoc.com/cdn/3d87e8813048aff8_s.webp"
+            },
+            {
+              "title": "Onchain Trading Boom Is Exposing a Costly Infrastructure Gap, Bitget Wallet Data Shows",
+              "description": "Bitget Wallet, a self-custodial wallet, is featured in a newly released quantitative benchmark report by Block Scholes examining how execution quality ......",
+              "url": "https://www.globenewswire.com/news-release/2026/06/22/3315505/0/en/Onchain-Trading-Boom-Is-Exposing-a-Costly-Infrastructure-Gap-Bitget-Wallet-Data-Shows.html",
+              "source": "GlobeNewswire",
+              "published": "2026-06-22T16:08:00Z",
+              "image": "https://ml-eu.globenewswire.com/Resource/Download/09a41ac4-dc6b-4bc0-a040-168f7df7e248"
+            },
+            {
+              "title": "Enso launches RWA app and trading for over 500 tokenized assets",
+              "description": "Enso launched a new RWA app and access to over 500 tokenized assets and US stocks, as part of an integration with xStocks and Ondo Finance.",
+              "url": "https://cointelegraph.com/news/enso-launches-rwa-app-trading-500-tokenized-assets",
+              "source": "Cointelegraph",
+              "published": "2026-06-22T14:00:00Z",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-are-tokenized-commodities-2.jpg"
+            },
+            {
+              "title": "Microsoft Attributes Mastra AI Supply Chain Attack to North Korea",
+              "description": "North Korean threat actor Sapphire Sleet has been linked to a supply chain attack targeting Mastra, according to Microsoft security researchers",
+              "url": "https://www.infosecurity-magazine.com/news/mastra-ai-supply-chain-attack/",
+              "source": "Infosecurity Magazine",
+              "published": "2026-06-22T11:30:00Z",
+              "image": "https://assets.infosecurity-magazine.com/webpage/og/8fc2115e-ef5e-4a5a-ae3c-a61862557151.jpg"
+            },
+            {
+              "title": "Streamex Corp. Announces May 2026 Yield Dividend Distribution for GLDY",
+              "description": "WINTER PARK, Fla., June 22, 2026 (GLOBE NEWSWIRE) -- Streamex Corp. (\"Streamex\" or the \"Company\") (NASDAQ: STEX), a technology company building the tokenization ecosystem for all real-world assets beginning with commodities, today announced the distribution o…",
+              "url": "https://www.globenewswire.com/news-release/2026/06/22/3315196/22558/en/Streamex-Corp-Announces-May-2026-Yield-Dividend-Distribution-for-GLDY.html",
+              "source": "GlobeNewswire",
+              "published": "2026-06-22T11:30:00Z",
+              "image": "https://ml.globenewswire.com/Resource/Download/d335dea2-8c4a-4970-ba9b-2a298fdb0ebd"
             }
           ]
         }
