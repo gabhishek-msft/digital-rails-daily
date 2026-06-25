@@ -1,11 +1,35 @@
 {
-  "date": "June 24, 2026",
+  "date": "June 25, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "StarkWare introduces 'Private KYC' to address personal data breaches",
+          "description": "StarkWare's Private KYC demo uses zero-knowledge proofs to verify identity attributes on Starknet without exposing personal data.",
+          "url": "https://cointelegraph.com/news/starkware-introduces-private-kyc-to-address-personal-data-breaches",
+          "source": "Cointelegraph",
+          "published": "2026-06-24T03:14:04Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/online-identity-verification-1.jpg"
+        },
+        {
+          "title": "Starknet outlines steps to access private DeFi with wallets",
+          "description": "Starknet's streamlined privacy features could significantly enhance user adoption of DeFi by balancing privacy with regulatory compliance.\nThe post Starknet outlines steps to access private DeFi with wallets appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/starknet-private-defi-wallets-strk20/",
+          "source": "Crypto Briefing",
+          "published": "2026-06-23T09:46:58Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/23054651/starknet-staking-delegation-program-1-800x420.jpeg"
+        },
+        {
+          "title": "Anchorage Digital Launches Tokenized Deposit Platform for Banks",
+          "description": "Anchorage Digital is giving banks a new way to move deposits onchain without forcing them to rebuild the systems th...",
+          "url": "https://www.cryptoprowl.com/releases/anchorage-digital-launches-tokenized-deposit-platform-for-banks-5954",
+          "source": "Cryptoprowl.com",
+          "published": "2026-06-23T02:09:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/E6C2B6D8A5E7E795C8CAC401E7939D85B9367CB0E74E85FAF74745E68EE326FB/subgraphmysterio/resizefill_w1200_h720;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F5071ca9605d9ad8da8bd5bc2535d58d3"
+        },
         {
           "title": "Anchorage aims to bring banks onchain with new tokenized deposit platform",
           "description": "The crypto bank aims to help financial institutions offer round-the-clock payments and settlement without replacing their core systems.",
@@ -29,30 +53,6 @@
           "source": "Coinjournal.net",
           "published": "2026-06-18T11:44:08Z",
           "image": "https://coinjournal.net/wp-content/uploads/2026/06/Aztec-Network-loses-over-4-million.png"
-        },
-        {
-          "title": "Ready USDC card halts non-EEA service after issuer change, users report",
-          "description": "Ready, a crypto wallet company, reportedly restricted USDC card access outside the EEA after a card provider change, prompting user complaints over short notice.",
-          "url": "https://cointelegraph.com/news/ready-usdc-card-service-halt-non-eea-report",
-          "source": "Cointelegraph",
-          "published": "2026-06-17T14:08:14Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/cointelegraph-access-restriction-illustration.png"
-        },
-        {
-          "title": "Crypto Card Ready Card Shutdown Sparks Outrage After One-Hour Warning",
-          "description": "Ready Card, a Starknet-based USDC card, drew backlash after giving non-EEA users one hour before card deactivation. Ready Card users complained that the USDC card’s...\nThe post Crypto Card Ready Card Shutdown Sparks Outrage After One-Hour Warning appeared fir…",
-          "url": "https://bitcoinfoundation.org/news/crypto-companies-news/ready-card-shutdown-sparks-outrage-after-one-hour-warning/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-06-17T11:44:16Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/04/investor-rage-crash-scream-opt.webp"
-        },
-        {
-          "title": "Deutsche Bank deploys production settlement infrastructure on zkSync for real transactions",
-          "description": "Deutsche Bank's blockchain adoption highlights institutional trust in public networks, yet challenges remain in aligning token economics with usage.\nThe post Deutsche Bank deploys production settlement infrastructure on zkSync for real transactions appeared f…",
-          "url": "https://cryptobriefing.com/deutsche-bank-zksync-settlement-infrastructure/",
-          "source": "Crypto Briefing",
-          "published": "2026-06-17T10:44:14Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/17064412/deutsche-bank-800x420.jpeg"
         }
       ]
     },
@@ -101,68 +101,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Bank of England softens draft stablecoin rules after industry concerns",
-          "description": null,
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ab1b7a33-e5d3-4797-85e9-0fa7c3213b39",
-          "source": "Yahoo Entertainment",
-          "published": "2026-06-23T09:18:45Z",
-          "image": null
+          "title": "Best Crypto Payment Solutions for E-Commerce Businesses",
+          "description": "Compare crypto payment gateways for ecommerce, including checkout tools, stablecoin payments, fiat settlement, plugins, APIs and business payouts.",
+          "url": "https://hackread.com/best-crypto-payment-solutions-e-commerce-businesses/",
+          "source": "HackRead",
+          "published": "2026-06-24T07:50:17Z",
+          "image": "https://hackread.com/wp-content/uploads/2026/06/best-crypto-payment-solutions-e-commerce-businesses.jpg"
         },
         {
-          "title": "Ethereum breakaway developers turn a funding gap into a fight over who steers the network",
-          "description": "On June 22, five former senior Ethereum Foundation researchers announced Ethlabs, an independent nonprofit R&D lab with a mission to make Ethereum the settlement layer of the global economy. The co-founders, Ansgar Dietrichs, Barnabé Monnot, Caspar Schwarz-Sc…",
-          "url": "https://cryptoslate.com/ethereums-post-foundation-era-is-starting-with-an-eth-value-bet/",
+          "title": "21shares Releases 2026 Crypto Market Report: Mid-Year Audit Tracks Bitcoin ETP Inflows, Layer-2 Consolidation, and Real-World Asset Tokenisation",
+          "description": "Zurich, 24 June 2026 – 21shares\r\n, a global leader in cryptocurrency exchange-traded products (ETPs), today published its comprehensive mid-year cryptocurrency research report: State of Crypto 2026: Mid-Year Update\r\n. The comprehensive report revisits ten cor…",
+          "url": "https://www.globenewswire.com/news-release/2026/06/24/3316604/0/en/21shares-Releases-2026-Crypto-Market-Report-Mid-Year-Audit-Tracks-Bitcoin-ETP-Inflows-Layer-2-Consolidation-and-Real-World-Asset-Tokenisation.html",
+          "source": "GlobeNewswire",
+          "published": "2026-06-24T07:00:00Z",
+          "image": "https://ml-eu.globenewswire.com/Resource/Download/4a04b10b-bae6-4efa-acef-60e86e422579"
+        },
+        {
+          "title": "Is the Senate Strengthening the Case for Tokenized Deposits?",
+          "description": "As the U.S. Senate continues to debate the future of stablecoin regulation, much of the discussion has focused on how to bring privately issued digital dollars within a federal regulatory framework. Yet an important question has received comparatively little …",
+          "url": "https://clsbluesky.law.columbia.edu/2026/06/24/is-the-senate-strengthening-the-case-for-tokenized-deposits/",
+          "source": "Columbia.edu",
+          "published": "2026-06-24T04:05:27Z",
+          "image": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
+          "title": "CZ called Hyperliquid’s no KYC model “awesome” – Then mentioned lawyers",
+          "description": "CZ praised the product, but his Galaxy remarks put the access model at the center of the next regulatory fight.\nThe post CZ called Hyperliquid’s no KYC model “awesome” – Then mentioned lawyers appeared first on CryptoSlate.",
+          "url": "https://cryptoslate.com/cz-called-hyperliquids-no-kyc-model-awesome-then-he-mentioned-lawyers/",
           "source": "CryptoSlate",
-          "published": "2026-06-23T09:02:28Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/06/ethereum-post-foundation.jpg"
+          "published": "2026-06-24T03:30:41Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/06/hyperliquid-kyc.jpg"
         },
         {
-          "title": "JPMorgan upgrades IBM to Overweight, raises price target to $291",
-          "description": "IBM's strategic focus on AI and digital assets could drive significant growth, positioning it as a key player in future tech landscapes.\nThe post JPMorgan upgrades IBM to Overweight, raises price target to $291 appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/jpmorgan-upgrades-ibm-overweight-price-target/",
+          "title": "Lawmakers Fast-Track Bipartisan Housing Bill With CBDC Ban",
+          "description": "A four-year ban on the development of a U.S. central bank digital currency (CBDC) is included in a housing affordability bill that was passed Monday night (June 22) by the Senate.\n \n \n \n \nThe bipartisan bill, the 21st Century ROAD to Housing Act, passed the S…",
+          "url": "https://biztoc.com/x/2da5df303a487cdb",
+          "source": "Biztoc.com",
+          "published": "2026-06-23T23:58:48Z",
+          "image": "https://biztoc.com/cdn/995/og.png"
+        },
+        {
+          "title": "Starmer steps down: What Andy Burnham means for crypto in the UK",
+          "description": "Andy Burnham has emerged as a frontrunner to become the next prime minister of the UK, and the crypto industry is optimistic about his approach to the industry.",
+          "url": "https://cointelegraph.com/features/starmer-steps-down-what-andy-burnham-means-for-crypto-in-the-uk",
+          "source": "Cointelegraph",
+          "published": "2026-06-23T22:00:00Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-236230-uk-lawmakers-bank-of-england-stablecoin-rules-offshore-risk.jpg"
+        },
+        {
+          "title": "Morgan Stanley caps North Haven Private Income Fund withdrawals at 5% after 12% exit requests",
+          "description": "Liquidity constraints in semi-liquid funds highlight the need for innovative solutions like tokenization, potentially reshaping asset management.\nThe post Morgan Stanley caps North Haven Private Income Fund withdrawals at 5% after 12% exit requests appeared f…",
+          "url": "https://cryptobriefing.com/morgan-stanley-caps-fund-withdrawals/",
           "source": "Crypto Briefing",
-          "published": "2026-06-23T08:44:00Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/23044353/ibm-logo-1-ibm-logo-800x420.png"
+          "published": "2026-06-23T21:34:11Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/23173404/morgan-stanley-restricts-redemptions-at-private-credit-fund--800x420.jpeg"
         },
         {
-          "title": "CZ Says Hyperliquid Found A No-KYC Niche Binance Cannot Touch",
-          "description": "Binance founder Changpeng Zhao has put Hyperliquid back in the spotlight after discussing the decentralized derivatives platform’s no-KYC model and the nic",
-          "url": "https://bitcoinist.com/cz-says-hyperliquid-found-a-no-kyc-niche-binance-cannot-touch/",
-          "source": "Bitcoinist",
-          "published": "2026-06-23T08:40:13Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/02/Screenshot-2026-02-11-105424.png"
-        },
-        {
-          "title": "US Senate Bans CBDC Until 2030 — Stablecoins Exempt From Ban",
-          "description": "The measure passed as part of a housing bill. We break down what the US CBDC ban means for the crypto market and how other...\nThe post US Senate Bans CBDC Until 2030 — Stablecoins Exempt From Ban appeared first on Bitcoin Foundation.",
-          "url": "https://bitcoinfoundation.org/news/regulation/us-bans-cbdc/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-06-23T08:37:28Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/06/ChatGPT-Image-23-июн.-2026-г.-11_32_29-1.webp"
-        },
-        {
-          "title": "Cboe Bitcoin And Ether Continuous Futures Show How US Perps Are Moving Onshore",
-          "description": "Cboe’s Bitcoin and Ether continuous futures are keeping the U.S. regulated derivatives market in focus as Wall Street experiments with perpetual-style cryp",
-          "url": "https://bitcoinist.com/cboe-bitcoin-and-ether-continuous-futures-show-how-us-perps-are-moving-onshore/",
-          "source": "Bitcoinist",
-          "published": "2026-06-23T08:35:38Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2019/03/shutterstock_258345956.jpg"
-        },
-        {
-          "title": "Ripple Secures Preliminary Luxembourg CASP Approval As EU Crypto Push Accelerates",
-          "description": "Ripple says it has secured preliminary Crypto Asset Service Provider approval in Luxembourg, giving the company another regulatory foothold as Europe’s MiC",
-          "url": "http://www.newsbtc.com/news/ripple-secures-preliminary-luxembourg-casp-approval-as-eu-crypto-push/",
-          "source": "newsBTC",
-          "published": "2026-06-23T08:31:36Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2026/05/Ripple-from-Getty-Images.jpg"
-        },
-        {
-          "title": "US Senate CBDC Ban Puts Fed Digital Dollar Plans On Ice Until 2030",
-          "description": "A sweeping U.S. housing package has become a fresh flashpoint for crypto policy after the Senate-backed version included language blocking the Federal Rese",
-          "url": "http://www.newsbtc.com/news/us-senate-cbdc-ban-puts-fed-digital-dollar-plans-on-ice-until-2030/",
-          "source": "newsBTC",
-          "published": "2026-06-23T08:29:53Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2017/08/shutterstock_628106561.jpg"
+          "title": "Crypto Stopped Fighting Banks and Started Copying Them",
+          "description": "The most consequential developments in blockchain finance today are no longer happening at the edges of the financial system. They are happening at its core. Banks, asset managers, exchanges, payment providers and regulators are no longer treating blockchain …",
+          "url": "https://www.pymnts.com/cryptocurrency/2026/crypto-stopped-fighting-banks-and-started-copying-them/",
+          "source": "pymnts.com",
+          "published": "2026-06-23T19:40:06Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/01/banking-crypto1.jpg"
         }
       ]
     },
@@ -171,6 +171,22 @@
       "icon": "🏥",
       "color": "#00cc88",
       "articles": [
+        {
+          "title": "Blockchain.com, KuCoin expand payment rails across emerging markets",
+          "description": "Blockchain.com and KuCoin expanded payment infrastructure across emerging markets, linking digital assets with banking and mobile-money networks as stablecoin adoption grows for cross-border payments and settlement.",
+          "url": "https://cointelegraph.com/news/blockchaincom-kucoin-connect-digital-assets-to-payment-networks-in-emerging-markets",
+          "source": "Cointelegraph",
+          "published": "2026-06-24T06:00:00Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-mining-map2.png"
+        },
+        {
+          "title": "Broadridge Names Mark Nichols Co-President of Digital Assets",
+          "description": "NEW YORK, June 23, 2026 /PRNewswire/ -- Broadridge Financial Solutions, Inc. (NYSE: BR) today announced that Mark Nichols has joined the company as Co-President, Digital Assets, a move that reinforces Broadridge's ongoing commitment to modernize financial mar…",
+          "url": "https://www.prnewswire.com/news-releases/broadridge-names-mark-nichols-co-president-of-digital-assets-302807605.html",
+          "source": "PRNewswire",
+          "published": "2026-06-23T10:30:00Z",
+          "image": "https://mma.prnewswire.com/media/2998286/Broadridge_Mark_Nichols.jpg?p=facebook"
+        },
         {
           "title": "GoGo AI Network Inc. and Algo8 Industrial AI Inc. Announce Definitive Arrangement Agreement to Spin Out Full-Stack Industrial AI Platform to Public Markets",
           "description": "VANCOUVER, British Columbia, June 22, 2026 (GLOBE NEWSWIRE) -- GoGo AI Network Inc. (\"GoGo\" or the \"Company\") (CSE: GOGO) (OTC: GOGAF) (FSE: 4E9) is pleased to announce that it has entered into a definitive arrangement agreement dated June 21st, 2026 (the \"Ar…",
@@ -194,14 +210,6 @@
           "source": "pymnts.com",
           "published": "2026-06-18T08:03:27Z",
           "image": "https://www.pymnts.com/wp-content/uploads/2026/06/SB1-04-Podcast-Hero-Citi-for-story-cropped.png"
-        },
-        {
-          "title": "The Real-Time Revolution: Why Blockchain Needs Data Stream Processing",
-          "description": "Blockchain is an extremely data-driven technology because its primary function is to store, verify, and coordinate independent records in a secure, distributed data network. Without this information, no transaction, smart contract execution, or network activi…",
-          "url": "https://dataview.in/the-real-time-revolution-why-blockchain-needs-data-stream-processing/",
-          "source": "Dataview.in",
-          "published": "2026-06-17T18:00:00Z",
-          "image": "https://dz2cdn1.dzone.com/storage/article-thumb/19049426-thumb.jpg"
         }
       ]
     },
@@ -229,60 +237,28 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "Opera's MiniPay launches Visa debit card for stablecoin spending",
-              "description": "The card will allow MiniPay's 16 million users to spend stablecoins through Visa's network as adoption of digital dollars grows across emerging markets.",
-              "url": "https://cointelegraph.com/news/operas-minipay-launches-visa-debit-card-for-stablecoin-spending",
-              "source": "Cointelegraph",
-              "published": "2026-06-23T06:00:00Z",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/hi-could-those-who-left-visa-come-back-stablecoin.png"
-            },
-            {
-              "title": "Synthetic Stablecoins and Financial Stability",
-              "description": "On October 10, 2025, the announcement of a potential additional 100 percent tariff on Chinese goods drove risk-off moves across equities, Treasuries, credit spreads, and digital assets. Digital asset prices fell sharply, trading volumes surged, and liquidity …",
-              "url": "https://libertystreeteconomics.newyorkfed.org/2026/06/synthetic-stablecoins-and-financial-stability/",
-              "source": "Newyorkfed.org",
-              "published": "2026-06-22T21:00:32Z",
-              "image": "https://libertystreeteconomics.newyorkfed.org/wp-content/uploads/sites/2/2026/06/LSE_2026_synthetic-stablecoin_azar_460.jpg"
-            },
-            {
-              "title": "Better Buy: XRP vs. Chainlink (LINK)",
-              "description": "XRP (CRYPTO: XRP) and LINK (CRYPTO: LINK) are different from conventional cryptocurrencies. XRP is the native token of the XRP Ledger, a blockchain that primarily supports financial transactions on Ripple's payment network. LINK is the native token of Chainli…",
-              "url": "https://biztoc.com/x/3d87e8813048aff8",
-              "source": "Biztoc.com",
-              "published": "2026-06-22T16:34:36Z",
-              "image": "https://biztoc.com/cdn/3d87e8813048aff8_s.webp"
-            },
-            {
-              "title": "Onchain Trading Boom Is Exposing a Costly Infrastructure Gap, Bitget Wallet Data Shows",
-              "description": "Bitget Wallet, a self-custodial wallet, is featured in a newly released quantitative benchmark report by Block Scholes examining how execution quality ......",
-              "url": "https://www.globenewswire.com/news-release/2026/06/22/3315505/0/en/Onchain-Trading-Boom-Is-Exposing-a-Costly-Infrastructure-Gap-Bitget-Wallet-Data-Shows.html",
+              "title": "Pocket Network Foundation Co-Authors Ethereum Standard for Decentralized AI Agent Validation",
+              "description": "PNF drives the authoring of ERC-8294, a draft extension to ERC-8004 that lets permissionless, operator-diverse validator networks serve as the trust layer for AI agents",
+              "url": "https://www.globenewswire.com/news-release/2026/06/23/3316365/0/en/Pocket-Network-Foundation-Co-Authors-Ethereum-Standard-for-Decentralized-AI-Agent-Validation.html",
               "source": "GlobeNewswire",
-              "published": "2026-06-22T16:08:00Z",
-              "image": "https://ml-eu.globenewswire.com/Resource/Download/09a41ac4-dc6b-4bc0-a040-168f7df7e248"
+              "published": "2026-06-23T17:57:00Z",
+              "image": "https://ml.globenewswire.com/Resource/Download/b9fdc304-3539-4ba3-9f0a-dbccb0c43c6b"
             },
             {
-              "title": "Enso launches RWA app and trading for over 500 tokenized assets",
-              "description": "Enso launched a new RWA app and access to over 500 tokenized assets and US stocks, as part of an integration with xStocks and Ondo Finance.",
-              "url": "https://cointelegraph.com/news/enso-launches-rwa-app-trading-500-tokenized-assets",
-              "source": "Cointelegraph",
-              "published": "2026-06-22T14:00:00Z",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-are-tokenized-commodities-2.jpg"
+              "title": "Chainlink and Multinational Banking Consortia Launch Project Pangea To Develop T+0 Settlement Framework for International FX Markets",
+              "description": "Chainlink has formed a working group alongside several multinational groups, across Europe and South Korea, collectively representing over $10+ trillion in assets under management. This collaborative initiative aims to modernize foreign exchange (FX) infrastr…",
+              "url": "https://www.prnewswire.com/news-releases/chainlink-and-multinational-banking-consortia-launch-project-pangea-to-develop-t0-settlement-framework-for-international-fx-markets-302807910.html",
+              "source": "PRNewswire",
+              "published": "2026-06-23T15:45:00Z",
+              "image": "https://mma.prnewswire.com/media/2998524/Pangea_Banner.jpg?p=facebook"
             },
             {
-              "title": "Microsoft Attributes Mastra AI Supply Chain Attack to North Korea",
-              "description": "North Korean threat actor Sapphire Sleet has been linked to a supply chain attack targeting Mastra, according to Microsoft security researchers",
-              "url": "https://www.infosecurity-magazine.com/news/mastra-ai-supply-chain-attack/",
-              "source": "Infosecurity Magazine",
-              "published": "2026-06-22T11:30:00Z",
-              "image": "https://assets.infosecurity-magazine.com/webpage/og/8fc2115e-ef5e-4a5a-ae3c-a61862557151.jpg"
-            },
-            {
-              "title": "Streamex Corp. Announces May 2026 Yield Dividend Distribution for GLDY",
-              "description": "WINTER PARK, Fla., June 22, 2026 (GLOBE NEWSWIRE) -- Streamex Corp. (\"Streamex\" or the \"Company\") (NASDAQ: STEX), a technology company building the tokenization ecosystem for all real-world assets beginning with commodities, today announced the distribution o…",
-              "url": "https://www.globenewswire.com/news-release/2026/06/22/3315196/22558/en/Streamex-Corp-Announces-May-2026-Yield-Dividend-Distribution-for-GLDY.html",
-              "source": "GlobeNewswire",
-              "published": "2026-06-22T11:30:00Z",
-              "image": "https://ml.globenewswire.com/Resource/Download/d335dea2-8c4a-4970-ba9b-2a298fdb0ebd"
+              "title": "BTCC Crypto Exchange: Security Infrastructure, Multi-Asset Ecosystem, and Fee Architecture",
+              "description": "BTCC Exchange offers a secure, compliant trading platform with advanced features like spot and futures trading, tokenized assets, and copy trading, ensuring a seamless experience for both novice and seasoned investors.",
+              "url": "https://www.ibtimes.com.au/btcc-exchange-secure-compliant-trading-1871144",
+              "source": "Ibtimes.com.au",
+              "published": "2026-06-23T08:21:46Z",
+              "image": "https://d.ibtimes.com.au/en/full/1894829/btcc-crypto-exchange-security-infrastructure-multi-asset-ecosystem-fee-architecture.png"
             }
           ]
         }
