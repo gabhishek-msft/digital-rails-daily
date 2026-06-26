@@ -1,11 +1,19 @@
 {
-  "date": "June 25, 2026",
+  "date": "June 26, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "BNB Chain launches zkTLS verification layer for privacy-preserving data",
+          "description": "The zkTLS layer on BNB Chain enhances privacy in blockchain, enabling secure verification of sensitive data without revealing it, potentially transforming data handling in DeFi and beyond.\nThe post BNB Chain launches zkTLS verification layer for privacy-prese…",
+          "url": "https://cryptobriefing.com/bnb-chain-zktls-primus-privacy-verification/",
+          "source": "Crypto Briefing",
+          "published": "2026-06-24T17:54:20Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/24135412/bnb-chain-4-800x420.jpeg"
+        },
         {
           "title": "StarkWare introduces 'Private KYC' to address personal data breaches",
           "description": "StarkWare's Private KYC demo uses zero-knowledge proofs to verify identity attributes on Starknet without exposing personal data.",
@@ -45,14 +53,6 @@
           "source": "Bitcoinfoundation.org",
           "published": "2026-06-19T16:18:17Z",
           "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/06/ChatGPT-Image-Jun-19-2026-07_20_35-PM.webp"
-        },
-        {
-          "title": "Aztec Network loses over $4 million in three days to two subsequent hacks",
-          "description": "Legacy Aztec Network contracts were drained of over $4M in three days. Attacks exploited flaws in zero-knowledge proof verification logic. The core Aztec network and AZTEC token were not affected by the exploits. Aztec’s legacy infrastructure has come under a…",
-          "url": "https://coinjournal.net/news/aztec-network-loses-over-4-million-in-three-days-to-two-subsequent-hacks/",
-          "source": "Coinjournal.net",
-          "published": "2026-06-18T11:44:08Z",
-          "image": "https://coinjournal.net/wp-content/uploads/2026/06/Aztec-Network-loses-over-4-million.png"
         }
       ]
     },
@@ -76,22 +76,6 @@
           "source": "Crypto Briefing",
           "published": "2026-06-22T11:43:13Z",
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/22074304/https-cdn-prod-website-files-com-67086aa28c40f80ff00c0aa3-67-800x420.jpeg"
-        },
-        {
-          "title": "Lite Strategy leads $1M investment in LitVM to bring smart contracts to Litecoin",
-          "description": "Lite Strategy led a $1 million investment in LitVM as the Litecoin treasury firm backs smart contracts, DeFi and tokenized assets on LTC.\nThe post Lite Strategy leads $1M investment in LitVM to bring smart contracts to Litecoin appeared first on Crypto Briefi…",
-          "url": "https://cryptobriefing.com/lite-strategy-leads-1m-investment-in-litvm-to-bring-smart-contracts-to-litecoin/",
-          "source": "Crypto Briefing",
-          "published": "2026-06-18T15:36:42Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/18113559/ChatGPT-Image-Jun-18-2026-10_35_48-AM-800x450.png"
-        },
-        {
-          "title": "Everything You Should Know about the Glamsterdam Upgrade—Ethereum’s Biggest Update Yet",
-          "description": "Ethereum developers have entered the final major stretch of preparations for Glamsterdam, the network’s most significant protocol overhaul since the 2022 Merge.",
-          "url": "https://zycrypto.com/everything-you-should-know-about-the-glamsterdam-upgrade-ethereums-biggest-update-yet/",
-          "source": "ZyCrypto",
-          "published": "2026-06-18T11:04:42Z",
-          "image": "https://zycrypto.com/wp-content/uploads/2026/03/Ethereums-Evolution-Not-Linear-But-Rather-Fundamental-—-Market-Expert-Takes-Deep-Dive.jpg"
         }
       ]
     },
@@ -101,20 +85,83 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Best Crypto Payment Solutions for E-Commerce Businesses",
-          "description": "Compare crypto payment gateways for ecommerce, including checkout tools, stablecoin payments, fiat settlement, plugins, APIs and business payouts.",
-          "url": "https://hackread.com/best-crypto-payment-solutions-e-commerce-businesses/",
-          "source": "HackRead",
-          "published": "2026-06-24T07:50:17Z",
-          "image": "https://hackread.com/wp-content/uploads/2026/06/best-crypto-payment-solutions-e-commerce-businesses.jpg"
+          "title": "Antier Announces Integrated RWA Tokenization Services Under One Roof",
+          "description": "MOHALI, India, June 25, 2026 /PRNewswire/ -- Antier, a trusted RWA tokenization company and global leader in blockchain development, announced the consolidation of its complete suite of RWA tokenization services into a single, fully integrated delivery model.…",
+          "url": "https://www.prnewswire.com/news-releases/antier-announces-integrated-rwa-tokenization-services-under-one-roof-302810469.html",
+          "source": "PRNewswire",
+          "published": "2026-06-25T07:43:00Z",
+          "image": "https://mma.prnewswire.com/media/3000352/Antier_RWA_Infrastructure.jpg?p=facebook"
         },
         {
-          "title": "21shares Releases 2026 Crypto Market Report: Mid-Year Audit Tracks Bitcoin ETP Inflows, Layer-2 Consolidation, and Real-World Asset Tokenisation",
-          "description": "Zurich, 24 June 2026 – 21shares\r\n, a global leader in cryptocurrency exchange-traded products (ETPs), today published its comprehensive mid-year cryptocurrency research report: State of Crypto 2026: Mid-Year Update\r\n. The comprehensive report revisits ten cor…",
-          "url": "https://www.globenewswire.com/news-release/2026/06/24/3316604/0/en/21shares-Releases-2026-Crypto-Market-Report-Mid-Year-Audit-Tracks-Bitcoin-ETP-Inflows-Layer-2-Consolidation-and-Real-World-Asset-Tokenisation.html",
+          "title": "Why most investors underestimate operational risk in crypto investing",
+          "description": "Some of the biggest losses in the history of digital assets have had little to do with market movements.",
+          "url": "https://www.livemint.com/money/personal-finance/crypto-investing-operational-risk-bitcoin-price-volatility-11782363438723.html",
+          "source": "Livemint",
+          "published": "2026-06-25T07:10:08Z",
+          "image": "https://www.livemint.com/lm-img/img/2026/06/25/1600x900/logo/livemint_banner_imageee_1758017319380_1758017334308_1782371125389_9ce2231c-1b2f-42fa-879d-b35338168772.jpg"
+        },
+        {
+          "title": "The Silent Portfolio: A Quarter of European Wealth Managers Cannot See the Majority of Their Clients' Digital Assets",
+          "description": "New CoinShares survey of 261 advisers across five markets finds that firm policy, not knowledge or client demand, determines whether crypto exposure is managed, or invisible",
+          "url": "https://www.globenewswire.com/news-release/2026/06/25/3317265/0/en/The-Silent-Portfolio-A-Quarter-of-European-Wealth-Managers-Cannot-See-the-Majority-of-Their-Clients-Digital-Assets.html",
           "source": "GlobeNewswire",
-          "published": "2026-06-24T07:00:00Z",
-          "image": "https://ml-eu.globenewswire.com/Resource/Download/4a04b10b-bae6-4efa-acef-60e86e422579"
+          "published": "2026-06-25T05:00:00Z",
+          "image": "https://ml-eu.globenewswire.com/Resource/Download/8ff8acfa-148b-402b-b289-7bf6973541be"
+        },
+        {
+          "title": "BlackRock files to list its bitcoin income ETF, with expected debut next week",
+          "description": "An 8-A share registration filing, in this case for Nasdaq, is usually one of the last steps before an ETF goes live. BlackRock took another step toward introducing its bitcoin income exchange-traded fund on Nasdaq, filing a share registration document that of…",
+          "url": "https://www.activistpost.com/blackrock-files-to-list-its-bitcoin-income-etf-with-expected-debut-next-week/",
+          "source": "Activistpost.com",
+          "published": "2026-06-25T02:48:00Z",
+          "image": null
+        },
+        {
+          "title": "Standard Chartered forecasts AAVE token to reach $3,500 by 2030",
+          "description": "Standard Chartered's bullish AAVE forecast signals confidence in DeFi's resurgence and tokenized assets, despite inherent sector risks.\nThe post Standard Chartered forecasts AAVE token to reach $3,500 by 2030 appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/standard-chartered-aave-3500-forecast-2030/",
+          "source": "Crypto Briefing",
+          "published": "2026-06-25T00:05:59Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/24200552/standard-chartered-sees-aave-at-3-500-on-defi-recovery-800x420.jpeg"
+        },
+        {
+          "title": "Use EO 14409 As A Canary For Enterprise PQC Migration And Procurement",
+          "description": "On June 22, 2026, the White House issued Executive Order 14409, “Securing the Nation Against Advanced Cryptographic Attacks.” While it has direct implications for federal agencies, there are parts that are worth paying attention to for enterprise security and…",
+          "url": "https://www.forrester.com/blogs/use-eo-14409-as-a-canary-for-enterprise-pqc-migration-and-procurement/",
+          "source": "Forrester.com",
+          "published": "2026-06-24T21:50:52Z",
+          "image": "https://go.forrester.com/wp-content/uploads/2026/06/EO-14409-A-Canary-For-Enterprise-PQC-Migration-And-Procurement-1.jpg"
+        },
+        {
+          "title": "Use The New Executive Order As A Canary For Enterprise PQC Migration And Procurement",
+          "description": "On June 22, 2026, the White House issued a new executive order, Securing the Nation Against Advanced Cryptographic Attacks. While it has direct implications for federal agencies, there are parts that are worth paying attention to for enterprise security and r…",
+          "url": "https://www.forrester.com/blogs/use-the-new-executive-order-as-a-canary-for-enterprise-pqc-migration-and-procurement/",
+          "source": "Forrester.com",
+          "published": "2026-06-24T21:50:52Z",
+          "image": "https://go.forrester.com/wp-content/uploads/2026/06/EO-14409-A-Canary-For-Enterprise-PQC-Migration-And-Procurement-1.jpg"
+        },
+        {
+          "title": "Ethereum Doesn’t Know What It’s Supposed to Be Anymore",
+          "description": "Every industry has its defining rivalry. McDonald’s and Burger King; Walmart and Amazon; Microsoft and Apple. In digital assets, that rivalry was bitcoin and ethereum. But on Tuesday (June 23) the Ethereum Foundation announced a significant organizational res…",
+          "url": "https://www.pymnts.com/cryptocurrency/2026/ethereum-doesnt-know-what-its-supposed-to-be-anymore/",
+          "source": "pymnts.com",
+          "published": "2026-06-24T21:21:09Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/06/ethereum-crypto.jpeg"
+        }
+      ]
+    },
+    "industries": {
+      "title": "Blockchain Beyond Finance",
+      "icon": "🏥",
+      "color": "#00cc88",
+      "articles": [
+        {
+          "title": "Businesses often row back on ethics when times get tough. Here’s how technology can keep them on track",
+          "description": "But blockchain and other technology could improve traceability in supply chains.",
+          "url": "https://theconversation.com/businesses-often-row-back-on-ethics-when-times-get-tough-heres-how-technology-can-keep-them-on-track-262833",
+          "source": "The Conversation Africa",
+          "published": "2026-06-24T15:38:13Z",
+          "image": "https://images.theconversation.com/files/709937/original/file-20251219-66-thdyts.jpg?ixlib=rb-4.1.0&rect=0%2C505%2C6015%2C3007&q=45&auto=format&w=1356&h=668&fit=crop"
         },
         {
           "title": "Is the Senate Strengthening the Case for Tokenized Deposits?",
@@ -125,61 +172,6 @@
           "image": "https://s0.wp.com/i/blank.jpg"
         },
         {
-          "title": "CZ called Hyperliquid’s no KYC model “awesome” – Then mentioned lawyers",
-          "description": "CZ praised the product, but his Galaxy remarks put the access model at the center of the next regulatory fight.\nThe post CZ called Hyperliquid’s no KYC model “awesome” – Then mentioned lawyers appeared first on CryptoSlate.",
-          "url": "https://cryptoslate.com/cz-called-hyperliquids-no-kyc-model-awesome-then-he-mentioned-lawyers/",
-          "source": "CryptoSlate",
-          "published": "2026-06-24T03:30:41Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/06/hyperliquid-kyc.jpg"
-        },
-        {
-          "title": "Lawmakers Fast-Track Bipartisan Housing Bill With CBDC Ban",
-          "description": "A four-year ban on the development of a U.S. central bank digital currency (CBDC) is included in a housing affordability bill that was passed Monday night (June 22) by the Senate.\n \n \n \n \nThe bipartisan bill, the 21st Century ROAD to Housing Act, passed the S…",
-          "url": "https://biztoc.com/x/2da5df303a487cdb",
-          "source": "Biztoc.com",
-          "published": "2026-06-23T23:58:48Z",
-          "image": "https://biztoc.com/cdn/995/og.png"
-        },
-        {
-          "title": "Starmer steps down: What Andy Burnham means for crypto in the UK",
-          "description": "Andy Burnham has emerged as a frontrunner to become the next prime minister of the UK, and the crypto industry is optimistic about his approach to the industry.",
-          "url": "https://cointelegraph.com/features/starmer-steps-down-what-andy-burnham-means-for-crypto-in-the-uk",
-          "source": "Cointelegraph",
-          "published": "2026-06-23T22:00:00Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-236230-uk-lawmakers-bank-of-england-stablecoin-rules-offshore-risk.jpg"
-        },
-        {
-          "title": "Morgan Stanley caps North Haven Private Income Fund withdrawals at 5% after 12% exit requests",
-          "description": "Liquidity constraints in semi-liquid funds highlight the need for innovative solutions like tokenization, potentially reshaping asset management.\nThe post Morgan Stanley caps North Haven Private Income Fund withdrawals at 5% after 12% exit requests appeared f…",
-          "url": "https://cryptobriefing.com/morgan-stanley-caps-fund-withdrawals/",
-          "source": "Crypto Briefing",
-          "published": "2026-06-23T21:34:11Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/23173404/morgan-stanley-restricts-redemptions-at-private-credit-fund--800x420.jpeg"
-        },
-        {
-          "title": "Crypto Stopped Fighting Banks and Started Copying Them",
-          "description": "The most consequential developments in blockchain finance today are no longer happening at the edges of the financial system. They are happening at its core. Banks, asset managers, exchanges, payment providers and regulators are no longer treating blockchain …",
-          "url": "https://www.pymnts.com/cryptocurrency/2026/crypto-stopped-fighting-banks-and-started-copying-them/",
-          "source": "pymnts.com",
-          "published": "2026-06-23T19:40:06Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2026/01/banking-crypto1.jpg"
-        }
-      ]
-    },
-    "industries": {
-      "title": "Blockchain Beyond Finance",
-      "icon": "🏥",
-      "color": "#00cc88",
-      "articles": [
-        {
-          "title": "Blockchain.com, KuCoin expand payment rails across emerging markets",
-          "description": "Blockchain.com and KuCoin expanded payment infrastructure across emerging markets, linking digital assets with banking and mobile-money networks as stablecoin adoption grows for cross-border payments and settlement.",
-          "url": "https://cointelegraph.com/news/blockchaincom-kucoin-connect-digital-assets-to-payment-networks-in-emerging-markets",
-          "source": "Cointelegraph",
-          "published": "2026-06-24T06:00:00Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-mining-map2.png"
-        },
-        {
           "title": "Broadridge Names Mark Nichols Co-President of Digital Assets",
           "description": "NEW YORK, June 23, 2026 /PRNewswire/ -- Broadridge Financial Solutions, Inc. (NYSE: BR) today announced that Mark Nichols has joined the company as Co-President, Digital Assets, a move that reinforces Broadridge's ongoing commitment to modernize financial mar…",
           "url": "https://www.prnewswire.com/news-releases/broadridge-names-mark-nichols-co-president-of-digital-assets-302807605.html",
@@ -188,28 +180,12 @@
           "image": "https://mma.prnewswire.com/media/2998286/Broadridge_Mark_Nichols.jpg?p=facebook"
         },
         {
-          "title": "GoGo AI Network Inc. and Algo8 Industrial AI Inc. Announce Definitive Arrangement Agreement to Spin Out Full-Stack Industrial AI Platform to Public Markets",
-          "description": "VANCOUVER, British Columbia, June 22, 2026 (GLOBE NEWSWIRE) -- GoGo AI Network Inc. (\"GoGo\" or the \"Company\") (CSE: GOGO) (OTC: GOGAF) (FSE: 4E9) is pleased to announce that it has entered into a definitive arrangement agreement dated June 21st, 2026 (the \"Ar…",
-          "url": "https://www.globenewswire.com/news-release/2026/06/22/3315228/0/en/GoGo-AI-Network-Inc-and-Algo8-Industrial-AI-Inc-Announce-Definitive-Arrangement-Agreement-to-Spin-Out-Full-Stack-Industrial-AI-Platform-to-Public-Markets.html",
-          "source": "GlobeNewswire",
-          "published": "2026-06-22T12:00:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/2de04005-7f0a-45c4-a638-3ef13b498891"
-        },
-        {
           "title": "Blockchain Market worth $610.96 billion by 2031 | Report by MarketsandMarkets™",
           "description": "DELRAY BEACH, Fla., June 19, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Blockchain Market size is expected to reach USD 54.08 billion in 2026 and USD 610.96 billion by 2031, exhibiting a CAGR of 62.4% during the forecast period. Browse 400 mark…",
           "url": "https://www.prnewswire.com/news-releases/blockchain-market-worth-610-96-billion-by-2031--report-by-marketsandmarkets-302805255.html",
           "source": "PRNewswire",
           "published": "2026-06-19T14:15:00Z",
           "image": "https://mmx.prnewswire.com/media/MS1173081/MarketsandMarkets-Logo.jpg?id=OA2725922&p=facebook"
-        },
-        {
-          "title": "Crypto’s Future May Depend on Lawyers Who Think Like Operators",
-          "description": "Explore more conversations like this From the Block.  For most of the cryptocurrency industry’s history, lawyers occupied a familiar role: identify risks, interpret regulations and tell companies what they couldn’t do. But Mike Katz, partner in Manatt’s Finan…",
-          "url": "https://www.pymnts.com/cryptocurrency/2026/cryptos-future-may-depend-on-lawyers-who-think-like-operators/",
-          "source": "pymnts.com",
-          "published": "2026-06-18T08:03:27Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2026/06/SB1-04-Podcast-Hero-Citi-for-story-cropped.png"
         }
       ]
     },
@@ -222,6 +198,14 @@
           "title": "Startups",
           "icon": "💡",
           "articles": [
+            {
+              "title": "SpaceX tokenized stock bets top $50M in liquidations as crypto leverage reaches Wall Street",
+              "description": "The SpaceX-linked perp put crypto's 24/7 leverage cycle around equity exposure still searching for a stable public-market anchor.\nThe post SpaceX tokenized stock bets top $50M in liquidations as crypto leverage reaches Wall Street appeared first on CryptoSlat…",
+              "url": "https://cryptoslate.com/spacex-tokenized-stock-bets-top-50m-in-liquidations-as-crypto-leverage-reaches-wall-street/",
+              "source": "CryptoSlate",
+              "published": "2026-06-25T06:05:29Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/06/spcx.jpg"
+            },
             {
               "title": "Read Zero Knowledge As I Write It",
               "description": "Zero Knowledge, the crypto-thriller I'm co-writing with my AI, now has a home at zeroknowledge.ink. Six chapters are live, you can mark up any sentence, and the whole thing is being built in the open.",
@@ -237,28 +221,44 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "Pocket Network Foundation Co-Authors Ethereum Standard for Decentralized AI Agent Validation",
-              "description": "PNF drives the authoring of ERC-8294, a draft extension to ERC-8004 that lets permissionless, operator-diverse validator networks serve as the trust layer for AI agents",
-              "url": "https://www.globenewswire.com/news-release/2026/06/23/3316365/0/en/Pocket-Network-Foundation-Co-Authors-Ethereum-Standard-for-Decentralized-AI-Agent-Validation.html",
-              "source": "GlobeNewswire",
-              "published": "2026-06-23T17:57:00Z",
-              "image": "https://ml.globenewswire.com/Resource/Download/b9fdc304-3539-4ba3-9f0a-dbccb0c43c6b"
+              "title": "Bitcoin, XRP crash as fear reaches peak",
+              "description": "Bitcoin (BTC) and XRP fell sharply on June 24 as a broader risk-off mood swept through financial markets. The sell-off pushed Bitcoin below the $60,000 mark,...",
+              "url": "https://www.thestreet.com/crypto/markets/bitcoin-xrp-crash-as-fear-reaches-peak",
+              "source": "TheStreet",
+              "published": "2026-06-24T20:41:56Z",
+              "image": "https://s.yimg.com/lo/mysterio/api/D34E834EB8E78EDFAE303D2363689167CE81E4A063BF83369148C908C383CEDA/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2Fd7ac442afbe4c88305000463cdd8483f"
             },
             {
-              "title": "Chainlink and Multinational Banking Consortia Launch Project Pangea To Develop T+0 Settlement Framework for International FX Markets",
-              "description": "Chainlink has formed a working group alongside several multinational groups, across Europe and South Korea, collectively representing over $10+ trillion in assets under management. This collaborative initiative aims to modernize foreign exchange (FX) infrastr…",
-              "url": "https://www.prnewswire.com/news-releases/chainlink-and-multinational-banking-consortia-launch-project-pangea-to-develop-t0-settlement-framework-for-international-fx-markets-302807910.html",
+              "title": "a16z CSX-backed Cambrian raises $6 million seed to build blockchain data oracle network",
+              "description": "Cambrian, a startup building blockchain data infrastructure for institutions and AI agents, raised $6 million in a seed funding round.",
+              "url": "https://biztoc.com/x/14b41f81f80b4780",
+              "source": "Biztoc.com",
+              "published": "2026-06-24T17:13:20Z",
+              "image": "https://biztoc.com/cdn/14b41f81f80b4780_s.webp"
+            },
+            {
+              "title": "Daya raises $2.4 million from Aptos and others to power African cross-border payments",
+              "description": "African businesses are going global. The financial infrastructure helping them get there has not kept up, until now. Daya, a stablecoin-native payments compa...",
+              "url": "https://www.thestreet.com/crypto/innovation/daya-raises-2-4-million-from-aptos-and-others-to-power-african-cross-border-payments",
+              "source": "TheStreet",
+              "published": "2026-06-24T17:02:46Z",
+              "image": "https://s.yimg.com/lo/mysterio/api/41FF3D2D3E1C7C9170348AF32199FCC1E62309A16FCA9CC05FA8DDCC9CDDC5A7/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F3a4ac6c7a20d641d217860b82d350982"
+            },
+            {
+              "title": "Why tokenized SpaceX shares broke before retail investors could buy them",
+              "description": "Why did tokenized SpaceX shares stumble before launch? See how overwhelming demand exposed the limits of blockchain-based stock tokenization.",
+              "url": "https://cointelegraph.com/learn/tokenized-spacex-shares-xstocks-refunds",
+              "source": "Cointelegraph",
+              "published": "2026-06-23T14:30:00Z",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/why-tokenized-spacex-shares-broke-before-retail-could-buy-them-1.jpg"
+            },
+            {
+              "title": "As Institutions Tokenize Trillions, OpenAssets and OpenZeppelin Pair Tokenization Infrastructure With Institutional-Grade Security",
+              "description": "OpenAssets and OpenZeppelin are bringing tokenization infrastructure and institutional-grade security into one motion, so financial institutions can move assets onchain on proven infrastructure, validated to the security standard institutional capital require…",
+              "url": "https://www.prnewswire.com/news-releases/as-institutions-tokenize-trillions-openassets-and-openzeppelin-pair-tokenization-infrastructure-with-institutional-grade-security-302807277.html",
               "source": "PRNewswire",
-              "published": "2026-06-23T15:45:00Z",
-              "image": "https://mma.prnewswire.com/media/2998524/Pangea_Banner.jpg?p=facebook"
-            },
-            {
-              "title": "BTCC Crypto Exchange: Security Infrastructure, Multi-Asset Ecosystem, and Fee Architecture",
-              "description": "BTCC Exchange offers a secure, compliant trading platform with advanced features like spot and futures trading, tokenized assets, and copy trading, ensuring a seamless experience for both novice and seasoned investors.",
-              "url": "https://www.ibtimes.com.au/btcc-exchange-secure-compliant-trading-1871144",
-              "source": "Ibtimes.com.au",
-              "published": "2026-06-23T08:21:46Z",
-              "image": "https://d.ibtimes.com.au/en/full/1894829/btcc-crypto-exchange-security-infrastructure-multi-asset-ecosystem-fee-architecture.png"
+              "published": "2026-06-23T12:07:00Z",
+              "image": "https://mma.prnewswire.com/media/2998596/Strategic_Partnership_Announcement_OPENASSETS.jpg?p=facebook"
             }
           ]
         }
