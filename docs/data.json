@@ -1,11 +1,19 @@
 {
-  "date": "June 26, 2026",
+  "date": "June 27, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "Base blockchain goes down for over an hour as block production halts",
+          "description": "The outage highlights the vulnerability of centralized sequencer models, urging a shift towards decentralization for Layer-2 network resilience.\nThe post Base blockchain goes down for over an hour as block production halts appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/base-blockchain-outage-block-production-halts/",
+          "source": "Crypto Briefing",
+          "published": "2026-06-25T17:53:24Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/25135317/features-of-base-blockchain-6-800x420.jpeg"
+        },
         {
           "title": "BNB Chain launches zkTLS verification layer for privacy-preserving data",
           "description": "The zkTLS layer on BNB Chain enhances privacy in blockchain, enabling secure verification of sensitive data without revealing it, potentially transforming data handling in DeFi and beyond.\nThe post BNB Chain launches zkTLS verification layer for privacy-prese…",
@@ -23,14 +31,6 @@
           "image": "https://s3-images.ctmedia.io/media/article-covers/online-identity-verification-1.jpg"
         },
         {
-          "title": "Starknet outlines steps to access private DeFi with wallets",
-          "description": "Starknet's streamlined privacy features could significantly enhance user adoption of DeFi by balancing privacy with regulatory compliance.\nThe post Starknet outlines steps to access private DeFi with wallets appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/starknet-private-defi-wallets-strk20/",
-          "source": "Crypto Briefing",
-          "published": "2026-06-23T09:46:58Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/23054651/starknet-staking-delegation-program-1-800x420.jpeg"
-        },
-        {
           "title": "Anchorage Digital Launches Tokenized Deposit Platform for Banks",
           "description": "Anchorage Digital is giving banks a new way to move deposits onchain without forcing them to rebuild the systems th...",
           "url": "https://www.cryptoprowl.com/releases/anchorage-digital-launches-tokenized-deposit-platform-for-banks-5954",
@@ -45,14 +45,6 @@
           "source": "CoinDesk",
           "published": "2026-06-22T15:00:00Z",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/b66d55b12b9f842b7062ba6ae8eac93415da491f-3000x1687.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
-        },
-        {
-          "title": "Can Ethereum Reach $5,000 in 2026? The Hidden Catalysts That Could Trigger the Next ETH Surge",
-          "description": "Into 2026, Ethereum moves with uneven momentum. Still the core of DeFi, sure, yet also tied tightly to stablecoin flows, staked assets, and activity on...\nThe post Can Ethereum Reach $5,000 in 2026? The Hidden Catalysts That Could Trigger the Next ETH Surge a…",
-          "url": "https://bitcoinfoundation.org/news/ethereum/can-ethereum-reach-5000-in-2026-the-hidden-catalysts-that-could-trigger-the-next-eth-surge/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-06-19T16:18:17Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/06/ChatGPT-Image-Jun-19-2026-07_20_35-PM.webp"
         }
       ]
     },
@@ -61,6 +53,22 @@
       "icon": "🔐",
       "color": "#e6a200",
       "articles": [
+        {
+          "title": "Does Botanix’s failure prove Bitcoiners don’t care about DeFi?",
+          "description": "The failure of Botanix suggests that Bitcoiners still prefer Ethereum DeFi to Bitcoin L2s. How can Bitcoin L2s change to win hodlers over?",
+          "url": "https://cointelegraph.com/features/does-botanixs-failure-prove-bitcoiners-dont-care-about-defi",
+          "source": "Cointelegraph",
+          "published": "2026-06-25T23:09:10Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-quantum-computers-could-bring-lost-bitcoin-back-to-life-heres-how-1.jpg"
+        },
+        {
+          "title": "Bitget lists Nesa (NES) for Spot Trading",
+          "description": "Bitget lists Nesa (NES) for spot trading, expanding AI zone access to private, verifiable on-chain AI inference....",
+          "url": "https://www.globenewswire.com/news-release/2026/06/25/3317335/0/en/Bitget-lists-Nesa-NES-for-Spot-Trading.html",
+          "source": "GlobeNewswire",
+          "published": "2026-06-25T09:37:00Z",
+          "image": "https://ml-eu.globenewswire.com/Resource/Download/ccd2371c-8f31-43fa-8244-851a3f7d5e39"
+        },
         {
           "title": "Ethereum Layer-2 Taiko Warns Users to Withdraw Bridge Funds After Security Breach",
           "description": "Researchers estimate more than $1.7 million was stolen after attackers allegedly exploited Taiko's proof verification process.",
@@ -85,68 +93,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Antier Announces Integrated RWA Tokenization Services Under One Roof",
-          "description": "MOHALI, India, June 25, 2026 /PRNewswire/ -- Antier, a trusted RWA tokenization company and global leader in blockchain development, announced the consolidation of its complete suite of RWA tokenization services into a single, fully integrated delivery model.…",
-          "url": "https://www.prnewswire.com/news-releases/antier-announces-integrated-rwa-tokenization-services-under-one-roof-302810469.html",
-          "source": "PRNewswire",
-          "published": "2026-06-25T07:43:00Z",
-          "image": "https://mma.prnewswire.com/media/3000352/Antier_RWA_Infrastructure.jpg?p=facebook"
+          "title": "Bitcoin, Solana or XRP? The best performing crypto asset of 2026 so far",
+          "description": "Crypto prices may have corrected sharply in 2026, but underlying trends suggest growing maturity. Institutional participation, stronger blockchain activity, improving regulation and broader adoption indicate that Bitcoin, Solana and XRP are increasingly being…",
+          "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-solana-or-xrp-the-best-performing-crypto-asset-of-2026-so-far/articleshow/132010524.cms",
+          "source": "The Times of India",
+          "published": "2026-06-26T07:51:27Z",
+          "image": "https://img.etimg.com/thumb/msid-132010512,width-1200,height-630,imgsize-116609,overlay-etmarkets/articleshow.jpg"
         },
         {
-          "title": "Why most investors underestimate operational risk in crypto investing",
-          "description": "Some of the biggest losses in the history of digital assets have had little to do with market movements.",
-          "url": "https://www.livemint.com/money/personal-finance/crypto-investing-operational-risk-bitcoin-price-volatility-11782363438723.html",
-          "source": "Livemint",
-          "published": "2026-06-25T07:10:08Z",
-          "image": "https://www.livemint.com/lm-img/img/2026/06/25/1600x900/logo/livemint_banner_imageee_1758017319380_1758017334308_1782371125389_9ce2231c-1b2f-42fa-879d-b35338168772.jpg"
+          "title": "What Is the GENIUS Act? A Guide to U.S. Stablecoin Law",
+          "description": "The GENIUS Act is the U.S. federal law that creates a regulatory framework for dollar-backed stablecoins. Signed into law on July 18, 2025, the law sets rules for who can issue payment stablecoins, what those tokens must be backed by, how holders can redeem t…",
+          "url": "https://biztoc.com/x/8ad23212837390e1",
+          "source": "Biztoc.com",
+          "published": "2026-06-26T06:22:12Z",
+          "image": "https://biztoc.com/cdn/8ad23212837390e1_s.webp"
         },
         {
-          "title": "The Silent Portfolio: A Quarter of European Wealth Managers Cannot See the Majority of Their Clients' Digital Assets",
-          "description": "New CoinShares survey of 261 advisers across five markets finds that firm policy, not knowledge or client demand, determines whether crypto exposure is managed, or invisible",
-          "url": "https://www.globenewswire.com/news-release/2026/06/25/3317265/0/en/The-Silent-Portfolio-A-Quarter-of-European-Wealth-Managers-Cannot-See-the-Majority-of-Their-Clients-Digital-Assets.html",
-          "source": "GlobeNewswire",
-          "published": "2026-06-25T05:00:00Z",
-          "image": "https://ml-eu.globenewswire.com/Resource/Download/8ff8acfa-148b-402b-b289-7bf6973541be"
+          "title": "How Pension Funds Invest in Crypto",
+          "description": "Pension funds are among the world’s largest institutional investors, and in recent years they have started investing in crypto. Pension funds typically invest in crypto through regulated vehicles such as spot bitcoin ETFs, digital asset investment funds, and …",
+          "url": "https://biztoc.com/x/0a544e8b300d5463",
+          "source": "Biztoc.com",
+          "published": "2026-06-26T05:52:08Z",
+          "image": "https://biztoc.com/cdn/0a544e8b300d5463_s.webp"
         },
         {
-          "title": "BlackRock files to list its bitcoin income ETF, with expected debut next week",
-          "description": "An 8-A share registration filing, in this case for Nasdaq, is usually one of the last steps before an ETF goes live. BlackRock took another step toward introducing its bitcoin income exchange-traded fund on Nasdaq, filing a share registration document that of…",
-          "url": "https://www.activistpost.com/blackrock-files-to-list-its-bitcoin-income-etf-with-expected-debut-next-week/",
-          "source": "Activistpost.com",
-          "published": "2026-06-25T02:48:00Z",
-          "image": null
+          "title": "Invesco Targets Stablecoin Reserves With New Tokenized Money Market Fund",
+          "description": "Invesco (NYSE: $IVZ) is moving deeper into the stablecoin reserve market with a new tokenized money market fund aim...",
+          "url": "https://www.cryptoprowl.com/releases/invesco-targets-stablecoin-reserves-with-new-tokenized-money-market-fund-5994",
+          "source": "Cryptoprowl.com",
+          "published": "2026-06-26T03:30:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/DF768CDD04A62FABAFAF8B7D995352A535E7618690B2D32EC92F69FC1524DA1A/subgraphmysterio/resizefill_w1200_h720;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F45b07660c8093411b4bdc251d792ce31"
         },
         {
-          "title": "Standard Chartered forecasts AAVE token to reach $3,500 by 2030",
-          "description": "Standard Chartered's bullish AAVE forecast signals confidence in DeFi's resurgence and tokenized assets, despite inherent sector risks.\nThe post Standard Chartered forecasts AAVE token to reach $3,500 by 2030 appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/standard-chartered-aave-3500-forecast-2030/",
+          "title": "Troy Rohrbaugh emerges as leading contender to succeed Jamie Dimon at JPMorgan",
+          "description": "JPMorgan's leadership shift signals strategic continuity and stability, crucial for investor confidence and future digital asset initiatives.\nThe post Troy Rohrbaugh emerges as leading contender to succeed Jamie Dimon at JPMorgan appeared first on Crypto Brie…",
+          "url": "https://cryptobriefing.com/rohrbaugh-jpmorgan-ceo-succession/",
           "source": "Crypto Briefing",
-          "published": "2026-06-25T00:05:59Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/24200552/standard-chartered-sees-aave-at-3-500-on-defi-recovery-800x420.jpeg"
+          "published": "2026-06-26T01:33:45Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/25213337/https-www-citybiz-co-wp-content-uploads-2026-06-troy-rohrbau-800x420.jpeg"
         },
         {
-          "title": "Use EO 14409 As A Canary For Enterprise PQC Migration And Procurement",
-          "description": "On June 22, 2026, the White House issued Executive Order 14409, “Securing the Nation Against Advanced Cryptographic Attacks.” While it has direct implications for federal agencies, there are parts that are worth paying attention to for enterprise security and…",
-          "url": "https://www.forrester.com/blogs/use-eo-14409-as-a-canary-for-enterprise-pqc-migration-and-procurement/",
-          "source": "Forrester.com",
-          "published": "2026-06-24T21:50:52Z",
-          "image": "https://go.forrester.com/wp-content/uploads/2026/06/EO-14409-A-Canary-For-Enterprise-PQC-Migration-And-Procurement-1.jpg"
+          "title": "How to Accept Digital Assets at the Cash Register in 2026",
+          "description": "A coffee shop in Lisbon started taking USDC payments last spring. Nothing dramatic happened. No press release, no fireworks. The owner just added a QR code next to the card reader and watched maybe three or four customers a week tap it instead of their Visa. …",
+          "url": "https://addicted2success.com/cryptonews/how-to-accept-digital-assets-at-the-cash-register-in-2026/",
+          "source": "Addicted2success.com",
+          "published": "2026-06-26T01:02:09Z",
+          "image": "https://addicted2success.com/wp-content/uploads/2026/06/how_to_accept_crypto_on_smartphone_at_the_cash-register-1000x600.jpeg"
         },
         {
-          "title": "Use The New Executive Order As A Canary For Enterprise PQC Migration And Procurement",
-          "description": "On June 22, 2026, the White House issued a new executive order, Securing the Nation Against Advanced Cryptographic Attacks. While it has direct implications for federal agencies, there are parts that are worth paying attention to for enterprise security and r…",
-          "url": "https://www.forrester.com/blogs/use-the-new-executive-order-as-a-canary-for-enterprise-pqc-migration-and-procurement/",
-          "source": "Forrester.com",
-          "published": "2026-06-24T21:50:52Z",
-          "image": "https://go.forrester.com/wp-content/uploads/2026/06/EO-14409-A-Canary-For-Enterprise-PQC-Migration-And-Procurement-1.jpg"
+          "title": "Chris Nichols on Transforming Payments with Stablecoins and Tokenized Deposits",
+          "description": "How is innovation in blockchain technology, specifically the growing interest in stablecoins and tokenized deposits, creating ways for banks and financial services companies to offer new services, engage current customers better, and introduce new potential r…",
+          "url": "https://finovate.com/chris-nichols-on-transforming-payments-with-stablecoins-and-tokenized-deposits/",
+          "source": "Finovate.com",
+          "published": "2026-06-25T19:59:24Z",
+          "image": "https://finovate.com/wp-content/uploads/2026/06/freddy-g-GGvU2g_mQMk-unsplash-scaled.jpg"
         },
         {
-          "title": "Ethereum Doesn’t Know What It’s Supposed to Be Anymore",
-          "description": "Every industry has its defining rivalry. McDonald’s and Burger King; Walmart and Amazon; Microsoft and Apple. In digital assets, that rivalry was bitcoin and ethereum. But on Tuesday (June 23) the Ethereum Foundation announced a significant organizational res…",
-          "url": "https://www.pymnts.com/cryptocurrency/2026/ethereum-doesnt-know-what-its-supposed-to-be-anymore/",
-          "source": "pymnts.com",
-          "published": "2026-06-24T21:21:09Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2026/06/ethereum-crypto.jpeg"
+          "title": "These US Banks Now Support Bitcoin & Stablecoins in 2026 — Full Breakdown of Crypto Banking Access",
+          "description": "The list of US banks that support Bitcoin is growing, but actual BTC inside a regular bank account remains rare. In crypto banking USA 2026,...\nThe post These US Banks Now Support Bitcoin & Stablecoins in 2026 — Full Breakdown of Crypto Banking Access appeare…",
+          "url": "https://bitcoinfoundation.org/news/opinion/these-us-banks-now-support-bitcoin-stablecoins-in-2026-full-breakdown-of-crypto-banking-access/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-06-25T19:21:34Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/06/banks-1.webp"
         }
       ]
     },
@@ -155,6 +163,30 @@
       "icon": "🏥",
       "color": "#00cc88",
       "articles": [
+        {
+          "title": "UK bond fund ownership records move onto Ethereum and Solana accessible 24/7",
+          "description": "BAGEY turns tokenization into a legal-record test, but transfer, collateral, and custody mechanics still have to prove the model.\nThe post UK bond fund ownership records move onto Ethereum and Solana accessible 24/7 appeared first on CryptoSlate.",
+          "url": "https://cryptoslate.com/uk-bond-fund-ownership-records-move-onto-ethereum-and-solana/",
+          "source": "CryptoSlate",
+          "published": "2026-06-26T08:02:10Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/06/uk-bond-fund.jpg"
+        },
+        {
+          "title": "What Is Blockchain Technology? A Simple Guide for Beginners and Businesses",
+          "description": "Blockchain technology has quickly moved from a niche tech concept to something that influences real businesses, governments, and everyday digital services. You’ve probably heard of cryptocurrencies like Bitcoin or Ethereum, but blockchain itself is much bigge…",
+          "url": "https://www.successful-blog.com/1/blockchain-technology/",
+          "source": "Successful-blog.com",
+          "published": "2026-06-25T17:58:28Z",
+          "image": "https://www.successful-blog.com/wp-content/uploads/2026/06/Blockchain-Technology.webp"
+        },
+        {
+          "title": "CertiK joins XDC Network to secure trade finance and RWA tokenization",
+          "description": "CertiK joins XDC Network as institutional masternode validator. Partnership strengthens security, resilience and decentralization. SkyNode infrastructure delivers 24/7 protection and monitoring. CertiK has joined the XDC Network as an Institutional Masternode…",
+          "url": "https://coinjournal.net/news/certik-joins-xdc-network-to-secure-trade-finance-and-rwa-tokenization/",
+          "source": "Coinjournal.net",
+          "published": "2026-06-25T13:00:28Z",
+          "image": "https://coinjournal.net/wp-content/uploads/2026/06/1-1.jpg"
+        },
         {
           "title": "Businesses often row back on ethics when times get tough. Here’s how technology can keep them on track",
           "description": "But blockchain and other technology could improve traceability in supply chains.",
@@ -178,14 +210,6 @@
           "source": "PRNewswire",
           "published": "2026-06-23T10:30:00Z",
           "image": "https://mma.prnewswire.com/media/2998286/Broadridge_Mark_Nichols.jpg?p=facebook"
-        },
-        {
-          "title": "Blockchain Market worth $610.96 billion by 2031 | Report by MarketsandMarkets™",
-          "description": "DELRAY BEACH, Fla., June 19, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Blockchain Market size is expected to reach USD 54.08 billion in 2026 and USD 610.96 billion by 2031, exhibiting a CAGR of 62.4% during the forecast period. Browse 400 mark…",
-          "url": "https://www.prnewswire.com/news-releases/blockchain-market-worth-610-96-billion-by-2031--report-by-marketsandmarkets-302805255.html",
-          "source": "PRNewswire",
-          "published": "2026-06-19T14:15:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS1173081/MarketsandMarkets-Logo.jpg?id=OA2725922&p=facebook"
         }
       ]
     },
@@ -199,20 +223,20 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "SpaceX tokenized stock bets top $50M in liquidations as crypto leverage reaches Wall Street",
-              "description": "The SpaceX-linked perp put crypto's 24/7 leverage cycle around equity exposure still searching for a stable public-market anchor.\nThe post SpaceX tokenized stock bets top $50M in liquidations as crypto leverage reaches Wall Street appeared first on CryptoSlat…",
-              "url": "https://cryptoslate.com/spacex-tokenized-stock-bets-top-50m-in-liquidations-as-crypto-leverage-reaches-wall-street/",
-              "source": "CryptoSlate",
-              "published": "2026-06-25T06:05:29Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/06/spcx.jpg"
+              "title": "StablecoinX bets on Ethena ecosystem with Nasdaq debut on Friday",
+              "description": "StablecoinX will list on Nasdaq on Friday after merging with TLGY, becoming the first public stablecoin company to support the Ethena ecosystem.",
+              "url": "https://cointelegraph.com/news/stablecoinx-merges-with-tlgy-and-begins-trading-on-nasdaq-friday",
+              "source": "Cointelegraph",
+              "published": "2026-06-26T03:48:03Z",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/hi-b-ethena.jpg"
             },
             {
-              "title": "Read Zero Knowledge As I Write It",
-              "description": "Zero Knowledge, the crypto-thriller I'm co-writing with my AI, now has a home at zeroknowledge.ink. Six chapters are live, you can mark up any sentence, and the whole thing is being built in the open.",
-              "url": "https://feld.com/archives/2026/06/read-zero-knowledge-as-i-write-it/",
-              "source": "Feld.com",
-              "published": "2026-06-19T23:04:06Z",
-              "image": "https://feld.com/og-default.png"
+              "title": "Uniswap Launches No-Code AI Tool for Token Auctions — How It Works",
+              "description": "Uniswap has integrated a token auction tool into its web app that requires no coding skills. We break down what’s known about the new feature....\nThe post Uniswap Launches No-Code AI Tool for Token Auctions — How It Works appeared first on Bitcoin Foundation.",
+              "url": "https://bitcoinfoundation.org/news/crypto-companies-news/uniswap-ai-tool/",
+              "source": "Bitcoinfoundation.org",
+              "published": "2026-06-25T15:32:21Z",
+              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/04/token-launchpad-altcoin-opt.webp"
             }
           ]
         },
@@ -220,6 +244,22 @@
           "title": "Hyperscalers",
           "icon": "☁️",
           "articles": [
+            {
+              "title": "DACFP Announces that America's #1 Crypto Education Program is Now Fully Updated, While Survey Shows 82% of Investors Expect Advisors to be Crypto-Knowledgeable",
+              "description": "FINRA-listed professional designation remains the standard for advisors and their firms GREAT FALLS, Va., June 25, 2026 /PRNewswire/ -- The Digital Assets Council of Financial Professionals has released a complete update to its Certified in Blockchain and Dig…",
+              "url": "https://www.prnewswire.com/news-releases/dacfp-announces-that-americas-1-crypto-education-program-is-now-fully-updated-while-survey-shows-82-of-investors-expect-advisors-to-be-crypto-knowledgeable-302810165.html",
+              "source": "PRNewswire",
+              "published": "2026-06-25T11:00:00Z",
+              "image": null
+            },
+            {
+              "title": "Ethereum Doesn’t Know What It’s Supposed to Be Anymore",
+              "description": "Every industry has its defining rivalry. McDonald’s and Burger King; Walmart and Amazon; Microsoft and Apple. In digital assets, that rivalry was bitcoin and ethereum. But on Tuesday (June 23) the Ethereum Foundation announced a significant organizational res…",
+              "url": "https://www.pymnts.com/cryptocurrency/2026/ethereum-doesnt-know-what-its-supposed-to-be-anymore/",
+              "source": "pymnts.com",
+              "published": "2026-06-24T21:21:09Z",
+              "image": "https://www.pymnts.com/wp-content/uploads/2026/06/ethereum-crypto.jpeg"
+            },
             {
               "title": "Bitcoin, XRP crash as fear reaches peak",
               "description": "Bitcoin (BTC) and XRP fell sharply on June 24 as a broader risk-off mood swept through financial markets. The sell-off pushed Bitcoin below the $60,000 mark,...",
@@ -229,28 +269,12 @@
               "image": "https://s.yimg.com/lo/mysterio/api/D34E834EB8E78EDFAE303D2363689167CE81E4A063BF83369148C908C383CEDA/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2Fd7ac442afbe4c88305000463cdd8483f"
             },
             {
-              "title": "a16z CSX-backed Cambrian raises $6 million seed to build blockchain data oracle network",
-              "description": "Cambrian, a startup building blockchain data infrastructure for institutions and AI agents, raised $6 million in a seed funding round.",
-              "url": "https://biztoc.com/x/14b41f81f80b4780",
-              "source": "Biztoc.com",
-              "published": "2026-06-24T17:13:20Z",
-              "image": "https://biztoc.com/cdn/14b41f81f80b4780_s.webp"
-            },
-            {
               "title": "Daya raises $2.4 million from Aptos and others to power African cross-border payments",
               "description": "African businesses are going global. The financial infrastructure helping them get there has not kept up, until now. Daya, a stablecoin-native payments compa...",
               "url": "https://www.thestreet.com/crypto/innovation/daya-raises-2-4-million-from-aptos-and-others-to-power-african-cross-border-payments",
               "source": "TheStreet",
               "published": "2026-06-24T17:02:46Z",
               "image": "https://s.yimg.com/lo/mysterio/api/41FF3D2D3E1C7C9170348AF32199FCC1E62309A16FCA9CC05FA8DDCC9CDDC5A7/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F3a4ac6c7a20d641d217860b82d350982"
-            },
-            {
-              "title": "Why tokenized SpaceX shares broke before retail investors could buy them",
-              "description": "Why did tokenized SpaceX shares stumble before launch? See how overwhelming demand exposed the limits of blockchain-based stock tokenization.",
-              "url": "https://cointelegraph.com/learn/tokenized-spacex-shares-xstocks-refunds",
-              "source": "Cointelegraph",
-              "published": "2026-06-23T14:30:00Z",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/why-tokenized-spacex-shares-broke-before-retail-could-buy-them-1.jpg"
             },
             {
               "title": "As Institutions Tokenize Trillions, OpenAssets and OpenZeppelin Pair Tokenization Infrastructure With Institutional-Grade Security",
