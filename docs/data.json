@@ -1,11 +1,27 @@
 {
-  "date": "June 28, 2026",
+  "date": "June 29, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "Base post-mortem reveals sequencer bug behind back-to-back outages",
+          "description": "A bug in Base’s sequencer block-building logic caused two outages last week, halting the L2 network for nearly two hours combined.",
+          "url": "https://cointelegraph.com/news/base-post-mortem-reveals-sequencer-bug-behind-back-to-back-outages",
+          "source": "Cointelegraph",
+          "published": "2026-06-28T05:14:05Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-transactions-stopped-outage.jpg"
+        },
+        {
+          "title": "Charles Hoskinson Explores Zero-Knowledge Wallet Recovery to Remove Seed Phrase Risks",
+          "description": "Charles Hoskinson Explores Zero-Knowledge Wallet Recovery to Remove Seed Phrase Risks: a fresh look at Cardano ZK wallet recovery, market context, key risk",
+          "url": "http://www.newsbtc.com/news/charles-hoskinson-explores-zero-knowledge-wallet-recovery-to-remove-seed-phrase/",
+          "source": "newsBTC",
+          "published": "2026-06-27T13:00:00Z",
+          "image": null
+        },
         {
           "title": "Base blockchain goes down for over an hour as block production halts",
           "description": "The outage highlights the vulnerability of centralized sequencer models, urging a shift towards decentralization for Layer-2 network resilience.\nThe post Base blockchain goes down for over an hour as block production halts appeared first on Crypto Briefing.",
@@ -101,68 +117,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "EU lawmakers urge assessing DeFi, staking, NFT regulation",
-          "description": "A European Parliament committee urged the Commission to assess regulating DeFi, staking, crypto lending and NFTs under MiCA while backing euro stablecoins.",
-          "url": "https://cointelegraph.com/news/eu-lawmakers-assessing-defi-staking-nft-regulation",
-          "source": "Cointelegraph",
-          "published": "2026-06-27T08:21:04Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-european-union-moves-to-regulate-crypto-asset-market2.jpg"
+          "title": "BlackRock IBIT investors are now nursing a 40% loss",
+          "description": "2024 was a massive turning point for crypto. After years of regulatory back and forth, a few of the biggest asset managers in the world were allowed to offer spot Bitcoin (BTC) exchange-traded funds (ETFs).\nAmong them was BlackRock (NYSE: BLK), the world's la…",
+          "url": "https://biztoc.com/x/eb946acf52b97f0d",
+          "source": "Biztoc.com",
+          "published": "2026-06-28T09:53:19Z",
+          "image": "https://biztoc.com/cdn/eb946acf52b97f0d_s.webp"
         },
         {
-          "title": "Ripple’s $1.6 Billion RLUSD Stablecoin Launches in Japan Following JFSA Approval",
-          "description": "Ripple has officially introduced its U.S. dollar-backed stablecoin RLUSD to the Japanese market after securing regulatory approval from the JFSA.",
-          "url": "https://zycrypto.com/ripples-1-6-billion-rlusd-stablecoin-launches-in-japan-following-jfsa-approval/",
-          "source": "ZyCrypto",
-          "published": "2026-06-27T07:24:07Z",
-          "image": "https://zycrypto.com/wp-content/uploads/2025/05/Ripple-Acquiring-Circle-Would-Lead-To-‘Crypto-Apocalypse-Warns-Legal-Expert.jpg"
+          "title": "Ethereum to $100K? Tom Lee’s Bullish ETH Forecast Sparks Massive Debate: Genius Call or Pure Hype?",
+          "description": "Back again, the talk about Ethereum hitting 100k gains new fuel. This round isn’t just chatter from small traders online. With Tom Lee backing it,...\nThe post Ethereum to $100K? Tom Lee’s Bullish ETH Forecast Sparks Massive Debate: Genius Call or Pure Hype? a…",
+          "url": "https://bitcoinfoundation.org/news/analysis/ethereum-to-100k-tom-lees-bullish-eth-forecast-sparks-massive-debate-genius-call-or-pure-hype/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-06-28T08:52:26Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/06/ChatGPT-Image-Jun-28-2026-11_51_22-AM-1.webp"
         },
         {
-          "title": "Outdated bank rules may keep crypto outside the banks now allowed to hold it",
-          "description": "Banks across the US, the UK, and Europe finally have a legal path to issue stablecoins, custody Bitcoin, and settle tokenized funds, yet the capital rulebook that governs it all still treats a Bitcoin position as something close to a guaranteed loss. Under th…",
-          "url": "https://cryptoslate.com/outdated-bank-rules-may-keep-crypto-outside-the-banks-now-allowed-to-hold-it/",
+          "title": "Buy Nvidia at 2 am on a Sunday? How Indians can own tokenised US stocks and how they differ from traditional trading",
+          "description": "Nvidia's stock surged over 1,000% since the ChatGPT release, becoming the world's most valuable company. Investors are now eyeing other AI chipmakers like Micron and Sandisk, while tokenized stocks offer a new way to invest in these companies.",
+          "url": "https://www.livemint.com/money/personal-finance/buy-nvidia-at-2-am-on-a-sunday-how-indians-can-own-tokenised-us-stocks-and-how-they-differ-from-traditional-trading-11782478031311.html",
+          "source": "Livemint",
+          "published": "2026-06-28T08:47:32Z",
+          "image": "https://www.livemint.com/lm-img/img/2026/06/27/1600x900/logo/GLOBAL-MARKETS--2_1772388409207_1772388424523_1782577610824_9809d502-3fb2-49b1-8500-8ab7c5525b88.JPG"
+        },
+        {
+          "title": "European crypto users are being paid to move before MiCA closes the door",
+          "description": "The European Union's Markets in Crypto-Assets (MiCA) has triggered a fight among licensed crypto exchanges to capture users and deposits from platforms that may no longer be allowed to serve the bloc. The new regulation, which is set to take full effect on Ju…",
+          "url": "https://cryptoslate.com/european-crypto-users-are-being-paid-to-move-before-mica-closes-the-door/",
           "source": "CryptoSlate",
-          "published": "2026-06-27T06:00:04Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/06/ancient-barrier-meets-digital-finance-future.jpg"
+          "published": "2026-06-27T17:10:25Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/06/binance-blocked.jpg"
         },
         {
-          "title": "Payward Services to Unlock Pre-IPO Access to Bending Spoons Through xStocks",
-          "description": "ST. HELIER, Jersey--(BUSINESS WIRE)--Jun 26, 2026-- Payward Services, the B2B infrastructure platform from Payward, the company behind global crypto platform Kraken, today opened pre-IPO access to Bending Spoons S.p.A (BSP), the Italian technology company beh…",
-          "url": "https://apnews.com/press-release/business-wire/press-release-8bff0633e20f48c08b54f07eab7b95c3",
-          "source": "Associated Press",
-          "published": "2026-06-27T05:07:50Z",
-          "image": "https://dims.apnews.com/dims4/default/c52ce55/2147483647/strip/true/crop/2053x1368+473+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fed%2F30%2Febe5af474ac0305596678a677517%2Ffac3e7cd920dd0d041d512b287ba8838"
+          "title": "Standard Chartered Says XRP Hits $28 by 2030 but Ripple’s Own Stablecoin May Have Other Plans",
+          "description": null,
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4a96d408-62ca-4596-8326-6bbbceeba0b7",
+          "source": "Yahoo Entertainment",
+          "published": "2026-06-27T16:56:01Z",
+          "image": null
         },
         {
-          "title": "Crypto News Today: AlphaPepe Binance Listing Update While XRP Price Prediction Targets $8",
-          "description": "MONACO, June 26, 2026 (GLOBE NEWSWIRE) -- Crypto news today is turning toward AlphaPepe as Binance listing speculation grows after the project announced two CEX partnerships before launch. AlphaPepe has already revealed Azbit and BiFinance, while the presale …",
-          "url": "https://www.globenewswire.com/news-release/2026/06/27/3318521/0/en/Crypto-News-Today-AlphaPepe-Binance-Listing-Update-While-XRP-Price-Prediction-Targets-8.html",
-          "source": "GlobeNewswire",
-          "published": "2026-06-27T01:00:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/8a070230-a607-47c8-a6c9-bfb09ed83a79"
+          "title": "Binance founder CZ blames crypto's sour 2026 on mix of AI, global tension, 4-year cycle",
+          "description": "There is no single cause for the crypto market's 50% decline over the past year, the Binance founder told CoinDesk.",
+          "url": "https://www.coindesk.com/policy/2026/06/27/binance-founder-cz-blames-crypto-s-sour-2026-on-mix-of-ai-global-tension-4-year-cycle",
+          "source": "CoinDesk",
+          "published": "2026-06-27T13:00:00Z",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/13d506a56413c294d1d360bb5de6d8ad88d1ba5a-4054x2280.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
         },
         {
-          "title": "Stablecoins are going mainstream and this company is building the rails behind it",
-          "description": "Stablecoins were once a niche tool for crypto traders looking to park funds without cashing out. That era is over. Pegged to fiat currencies like the U.S. do...",
-          "url": "https://www.thestreet.com/crypto/innovation/stablecoins-are-going-mainstream-and-this-company-is-building-the-rails-behind-it-",
-          "source": "TheStreet",
-          "published": "2026-06-26T21:29:56Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/B7F8AAE881FC69D3EE4624E4734BD68EAAFBCB4A44A24F2A9F5DD3817E622D23/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F0f8acb9d2da6dc3f47e65c4458b29d0e"
+          "title": "Links 6/27/2026",
+          "description": "Our catty daily links: Paradise revisited, US and Iran strikes, Venezuela quake aftermath, stablecoin crash, UK food worries, tokenpocalypse,France seizes Russian tanker, US Bahrain base destruction, John Bolton guilty, US bases + critical minerals?",
+          "url": "https://www.nakedcapitalism.com/2026/06/links-6-27-2026.html",
+          "source": "Nakedcapitalism.com",
+          "published": "2026-06-27T10:59:08Z",
+          "image": "https://www.nakedcapitalism.com/wp-content/uploads/2026/06/Screenshot-2026-06-27-at-12.43.43 AM.png"
         },
         {
-          "title": "Stablecoins are becoming a central bank problem hiding in T-bill markets",
-          "description": "BIS research puts private dollar tokens closer to sovereign funding markets than the payment-rail debate suggests.\nThe post Stablecoins are becoming a central bank problem hiding in T-bill markets appeared first on CryptoSlate.",
-          "url": "https://cryptoslate.com/stablecoins-are-becoming-a-central-bank-problem-hiding-in-t-bill-markets/",
-          "source": "CryptoSlate",
-          "published": "2026-06-26T20:00:31Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/06/bis-stablecoin-tbills.jpg"
-        },
-        {
-          "title": "Corporate Treasury SBET Resumes Ethereum Accumulation With 5,000 ETH Purchase",
-          "description": "SharpLink reportedly acquired 5,000 ETH from FalconX after an eight-month pause, according to on-chain reporting cited in the repaired batch.",
-          "url": "https://bitcoinist.com/corporate-treasury-sbet-resumes-ethereum-accumulation-with-5-000-eth-purchase/",
-          "source": "Bitcoinist",
-          "published": "2026-06-26T19:30:17Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/05/Ethereum-from-Pexels-3-1.jpeg"
+          "title": "Who Is JPMorgan’s New Tokenization Executive, Ingrid Glitz?",
+          "description": "J.P. Morgan Asset Management, this week, added another key executive to its growing digital assets team. The tradfi giant hired former Paxos executive Ingrid...",
+          "url": "https://coingape.com/block-of-fame/cxo-stories/who-is-jpmorgans-new-tokenization-executive-ingrid-glitz/",
+          "source": "Coingape",
+          "published": "2026-06-27T08:26:04Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/0358A28E759841E45084EFECAFF7CDD604C6DAD2FF47FB8B6B497B0026AE1CD0/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcoingape_360%2F2741286e903270013e2f0912a10ccc92"
         }
       ]
     },
@@ -172,36 +188,12 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Bitcoin Miner Bitzero Signs $2.6 Billion AI Hosting Deal, Highlighting Power Infrastructure Shift",
-          "description": "Bitzero Holdings signed a binding letter of intent with OneQode for a 15-year lease of 110 megawatts (MW) at its Norway data center site, according to company statements. The agreement is expected to generate approximately $2.6 billion in total contracted rev…",
-          "url": "https://www.naturalnews.com/2026-06-27-bitcoin-miner-bitzero-signs-ai-hosting-deal.html",
-          "source": "Naturalnews.com",
-          "published": "2026-06-27T06:00:00Z",
-          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/bitcoin-mining-ai-hosting-power-infrastructure-2346-original.jpg"
-        },
-        {
-          "title": "Ripple CTO David Schwartz Clarifies XRP And Bitcoin Origins In Timeline Debate",
-          "description": "Ripple CTO Emeritus David Schwartz pushed back on claims that XRP predates Bitcoin, separating RipplePay’s 2004 concept from the 2012 XRP Ledger.",
-          "url": "http://www.newsbtc.com/news/ripple-cto-david-schwartz-clarifies-xrp-and-bitcoin-origins-in-timeline-debate/",
-          "source": "newsBTC",
-          "published": "2026-06-26T18:00:52Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/xrp_e91cf4.png?fit=1205%2C661"
-        },
-        {
-          "title": "Securitize expects to raise $400 million as tokenization firm nears public debut",
-          "description": "The BlackRock-backed tokenization specialist expects to close its SPAC merger next week and start trading on the NYSE, pending shareholder approval.",
-          "url": "https://www.coindesk.com/business/2026/06/26/securitize-expects-to-raise-usd400-million-as-tokenization-firm-nears-public-debut",
-          "source": "CoinDesk",
-          "published": "2026-06-26T15:04:44Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/88f5265f9e7fa00589829ce020ec867ff5d6135f-1920x1080.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
-        },
-        {
-          "title": "Securitize aims to raise $400 million as tokenization firm nears public debut",
-          "description": "The BlackRock-backed tokenization specialist expects to close its SPAC merger next week and start trading on the NYSE, pending shareholder approval.",
-          "url": "https://www.coindesk.com/business/2026/06/26/securitize-aims-to-raise-usd400-million-as-tokenization-firm-nears-public-debut",
-          "source": "CoinDesk",
-          "published": "2026-06-26T15:04:44Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/88f5265f9e7fa00589829ce020ec867ff5d6135f-1920x1080.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
+          "title": "Michael Saylor’s Bitcoin machine hits $8 billion cash wall as STRC crashes 25% below par",
+          "description": "Strategy, the Bitcoin treasury and enterprise software company formerly known as MicroStrategy, has spent years turning public markets into a funding engine for Bitcoin purchases. That model helped make the company the world’s largest corporate holder of the …",
+          "url": "https://cryptoslate.com/michael-saylors-bitcoin-machine-hits-8-billion-cash-wall-as-strc-crashes-25-below-par/",
+          "source": "CryptoSlate",
+          "published": "2026-06-27T12:15:10Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/06/saylor-mstr.jpg"
         },
         {
           "title": "UK bond fund ownership records move onto Ethereum and Solana accessible 24/7",
@@ -234,6 +226,22 @@
           "source": "The Conversation Africa",
           "published": "2026-06-24T15:38:13Z",
           "image": "https://images.theconversation.com/files/709937/original/file-20251219-66-thdyts.jpg?ixlib=rb-4.1.0&rect=0%2C505%2C6015%2C3007&q=45&auto=format&w=1356&h=668&fit=crop"
+        },
+        {
+          "title": "Is the Senate Strengthening the Case for Tokenized Deposits?",
+          "description": "As the U.S. Senate continues to debate the future of stablecoin regulation, much of the discussion has focused on how to bring privately issued digital dollars within a federal regulatory framework. Yet an important question has received comparatively little …",
+          "url": "https://clsbluesky.law.columbia.edu/2026/06/24/is-the-senate-strengthening-the-case-for-tokenized-deposits/",
+          "source": "Columbia.edu",
+          "published": "2026-06-24T04:05:27Z",
+          "image": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
+          "title": "Broadridge Names Mark Nichols Co-President of Digital Assets",
+          "description": "NEW YORK, June 23, 2026 /PRNewswire/ -- Broadridge Financial Solutions, Inc. (NYSE: BR) today announced that Mark Nichols has joined the company as Co-President, Digital Assets, a move that reinforces Broadridge's ongoing commitment to modernize financial mar…",
+          "url": "https://www.prnewswire.com/news-releases/broadridge-names-mark-nichols-co-president-of-digital-assets-302807605.html",
+          "source": "PRNewswire",
+          "published": "2026-06-23T10:30:00Z",
+          "image": "https://mma.prnewswire.com/media/2998286/Broadridge_Mark_Nichols.jpg?p=facebook"
         }
       ]
     },
@@ -246,38 +254,6 @@
           "title": "Startups",
           "icon": "💡",
           "articles": [
-            {
-              "title": "Ripple CEO stays bullish on bitcoin but says Saylor's strategy has hurt crypto",
-              "description": "Ripple CEO stays bullish on bitcoin but says Saylor's strategy has hurt crypto\nRipple's Brad Garlinghouse called Strategy's preferred-stock funding model \"financial engineering\" that distracted the market, pointing to STRC's slide to a record low as the evide…",
-              "url": "https://biztoc.com/x/d4d5efcf5f23f481",
-              "source": "Biztoc.com",
-              "published": "2026-06-27T08:19:20Z",
-              "image": "https://biztoc.com/cdn/d4d5efcf5f23f481_s.webp"
-            },
-            {
-              "title": "SOL reclaims $72, but onchain data flags weakening momentum",
-              "description": "Solana found strength from tokenized stock trading on its network, but a declining TVL and DEX volumes point to fading momentum.",
-              "url": "https://cointelegraph.com/markets/sol-reclaims-72-but-onchain-data-flags-weakening-momentum",
-              "source": "Cointelegraph",
-              "published": "2026-06-27T02:47:59Z",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-202708-legacy-altcoins-surge-is-a-new-altcoin-season-starting-to-emerge.jpg"
-            },
-            {
-              "title": "Weekly Wrap: Bitcoin Nears Two-Year Low",
-              "description": "Leading cryptocurrencies such as Bitcoin (CRYPTO: $BTC) and Ethereum (CRYPTO: $ETH) reached their lowest levels of...",
-              "url": "https://www.cryptoprowl.com/releases/weekly-wrap-bitcoin-nears-two-year-low-6010",
-              "source": "Cryptoprowl.com",
-              "published": "2026-06-26T23:52:00Z",
-              "image": "https://s.yimg.com/lo/mysterio/api/64A790A320A9522D96AE9CFB6F9521A1F7D36A6297779ED35024F2A5472DFE15/subgraphmysterio/resizefill_w1200_h720;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2Fbd57b92632408b8bfb29aecad42bd286"
-            },
-            {
-              "title": "US crypto perps are live but Bitcoin may be the only market many traders can actually use",
-              "description": "Kalshi’s broader board is now visible, but depth, spreads, funding, and venue habit will decide whether alt markets matter.\nThe post US crypto perps are live but Bitcoin may be the only market many traders can actually use appeared first on CryptoSlate.",
-              "url": "https://cryptoslate.com/us-crypto-perps-are-live-but-bitcoin-may-be-the-only-market-many-traders-can-actually-use/",
-              "source": "CryptoSlate",
-              "published": "2026-06-26T22:00:40Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/06/bitcoin-dominates-us-crypto-perps-liquidity-test.jpg"
-            },
             {
               "title": "Uniswap Launches No-Code AI Tool for Token Auctions — How It Works",
               "description": "Uniswap has integrated a token auction tool into its web app that requires no coding skills. We break down what’s known about the new feature....\nThe post Uniswap Launches No-Code AI Tool for Token Auctions — How It Works appeared first on Bitcoin Foundation.",
@@ -293,36 +269,12 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "His Tinder Match Was Going Great — Then She Offered to Teach Him Crypto Trading and Something Felt Off",
-              "description": "It's a good thing he didn't follow her directions.\nThe post His Tinder Match Was Going Great — Then She Offered to Teach Him Crypto Trading and Something Felt Off appeared first on TwistedSifter.",
-              "url": "http://twistedsifter.com/2026/06/his-tinder-match-was-going-great-then-she-offered-to-teach-him-crypto-trading-and-something-felt-off/",
-              "source": "Twistedsifter.com",
-              "published": "2026-06-26T22:35:03Z",
-              "image": "https://twistedsifter.com/wp-content/uploads/2026/06/Twisted-Sifter-2026-06-25T125958.408.jpg"
-            },
-            {
               "title": "Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack",
               "description": "Cybersecurity researchers have flagged yet another evolution of the supply chain attack linked to the Mini Shai-Hulud, Miasma, and Hades malware family that has compromised a new set of npm packages, even as it has propagated to the Go ecosystem.\n\n\"The latest…",
               "url": "https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html",
               "source": "Internet",
               "published": "2026-06-26T11:05:45Z",
               "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhatZ2Vkvxd086INLXiuhbRJrli5Ao9hoNajbVq-Xr0HVAS70cCzhRBfM78KEusnBPI1sXyAK5tYrKt55U5mTIXCQDAmBzY2e860qtXo4YAlvAnVWHDV3DddKUML1q1g71h97Ke1i-714gv5SaVW9lmaFNtRda5XP1kc20urtc-HzlX5JXwkQv0g_-1VwC3/s1700-e365/Miasma.jpg"
-            },
-            {
-              "title": "DACFP Announces that America's #1 Crypto Education Program is Now Fully Updated, While Survey Shows 82% of Investors Expect Advisors to be Crypto-Knowledgeable",
-              "description": "FINRA-listed professional designation remains the standard for advisors and their firms GREAT FALLS, Va., June 25, 2026 /PRNewswire/ -- The Digital Assets Council of Financial Professionals has released a complete update to its Certified in Blockchain and Dig…",
-              "url": "https://www.prnewswire.com/news-releases/dacfp-announces-that-americas-1-crypto-education-program-is-now-fully-updated-while-survey-shows-82-of-investors-expect-advisors-to-be-crypto-knowledgeable-302810165.html",
-              "source": "PRNewswire",
-              "published": "2026-06-25T11:00:00Z",
-              "image": null
-            },
-            {
-              "title": "Ethereum Doesn’t Know What It’s Supposed to Be Anymore",
-              "description": "Every industry has its defining rivalry. McDonald’s and Burger King; Walmart and Amazon; Microsoft and Apple. In digital assets, that rivalry was bitcoin and ethereum. But on Tuesday (June 23) the Ethereum Foundation announced a significant organizational res…",
-              "url": "https://www.pymnts.com/cryptocurrency/2026/ethereum-doesnt-know-what-its-supposed-to-be-anymore/",
-              "source": "pymnts.com",
-              "published": "2026-06-24T21:21:09Z",
-              "image": "https://www.pymnts.com/wp-content/uploads/2026/06/ethereum-crypto.jpeg"
             }
           ]
         }
