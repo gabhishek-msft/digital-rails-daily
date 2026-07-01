@@ -1,11 +1,27 @@
 {
-  "date": "June 30, 2026",
+  "date": "July 01, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "Multi-tenant LLM analytics with row-level security: How we built a secure agent on AWS",
+          "description": "In this post, we show you how PAR built a production-ready multi-tenant LLM analytics system that enforces row-level security through a three-layer architecture: cryptographic request signing with AWS SigV4, semantic validation on Amazon Bedrock, and programm…",
+          "url": "https://aws.amazon.com/blogs/machine-learning/multi-tenant-llm-analytics-with-row-level-security-how-we-built-a-secure-agent-on-aws/",
+          "source": "Amazon.com",
+          "published": "2026-06-29T17:39:29Z",
+          "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/25/19651.png"
+        },
+        {
+          "title": "Google warns EU competition rules could compromise search data security",
+          "description": "EU's decision could reshape global data privacy norms, influencing tech innovation and boosting cryptographic solutions in Web3 sectors.\nThe post Google warns EU competition rules could compromise search data security appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/google-eu-competition-search-data-security/",
+          "source": "Crypto Briefing",
+          "published": "2026-06-29T10:10:52Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/29061050/brussels-belgium-berlaymont-building-the-european-commission-13-800x420.jpeg"
+        },
         {
           "title": "Loopring Shuts Down DEX — Ethereum’s First zkRollup Fades Into History",
           "description": "The Loopring team has announced the liquidation of its decentralized exchange and automated market maker. We break down the reasoning behind the decision. The move...\nThe post Loopring Shuts Down DEX — Ethereum’s First zkRollup Fades Into History appeared fir…",
@@ -31,14 +47,6 @@
           "image": null
         },
         {
-          "title": "Base blockchain goes down for over an hour as block production halts",
-          "description": "The outage highlights the vulnerability of centralized sequencer models, urging a shift towards decentralization for Layer-2 network resilience.\nThe post Base blockchain goes down for over an hour as block production halts appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/base-blockchain-outage-block-production-halts/",
-          "source": "Crypto Briefing",
-          "published": "2026-06-25T17:53:24Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/25135317/features-of-base-blockchain-6-800x420.jpeg"
-        },
-        {
           "title": "BNB Chain launches zkTLS verification layer for privacy-preserving data",
           "description": "The zkTLS layer on BNB Chain enhances privacy in blockchain, enabling secure verification of sensitive data without revealing it, potentially transforming data handling in DeFi and beyond.\nThe post BNB Chain launches zkTLS verification layer for privacy-prese…",
           "url": "https://cryptobriefing.com/bnb-chain-zktls-primus-privacy-verification/",
@@ -53,14 +61,6 @@
           "source": "Cointelegraph",
           "published": "2026-06-24T03:14:04Z",
           "image": "https://s3-images.ctmedia.io/media/article-covers/online-identity-verification-1.jpg"
-        },
-        {
-          "title": "Anchorage Digital Launches Tokenized Deposit Platform for Banks",
-          "description": "Anchorage Digital is giving banks a new way to move deposits onchain without forcing them to rebuild the systems th...",
-          "url": "https://www.cryptoprowl.com/releases/anchorage-digital-launches-tokenized-deposit-platform-for-banks-5954",
-          "source": "Cryptoprowl.com",
-          "published": "2026-06-23T02:09:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/E6C2B6D8A5E7E795C8CAC401E7939D85B9367CB0E74E85FAF74745E68EE326FB/subgraphmysterio/resizefill_w1200_h720;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F5071ca9605d9ad8da8bd5bc2535d58d3"
         }
       ]
     },
@@ -109,68 +109,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "New MiCA regime in Europe, U.S. jobs report for June: Crypto Week Ahead",
-          "description": "Your look at what's coming in the week starting June 29.",
-          "url": "https://www.coindesk.com/markets/2026/06/29/new-mica-regime-in-europe-u-s-jobs-report-for-june-crypto-week-ahead",
-          "source": "CoinDesk",
-          "published": "2026-06-29T09:08:25Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/09df81615d760adb098a11ddf091fbfe7d22e5ab-2048x1580.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
-        },
-        {
-          "title": "Bitcoin Treasuries Buying Fails to Offset Selling, Glassnode Says",
-          "description": "Bitcoin treasuries buying has slowed sharply as ETF selling keeps adding pressure to the market, Glassnode co-founder says. Bitcoin treasuries aren’t buying enough to offset...\nThe post Bitcoin Treasuries Buying Fails to Offset Selling, Glassnode Says appeare…",
-          "url": "https://bitcoinfoundation.org/news/bitcoin/bitcoin-treasuries-buying-fails-to-offset-selling-glassnode-says/",
+          "title": "British Watchdog Cuts UK Stablecoin Capital Rule by 50%",
+          "description": "UK stablecoin issuers will get a lower capital requirement after FCA cut a key proposed rule from 2% to 1% of issued tokens. The British...\nThe post British Watchdog Cuts UK Stablecoin Capital Rule by 50% appeared first on Bitcoin Foundation.",
+          "url": "https://bitcoinfoundation.org/news/stablecoin-news/british-watchdog-cuts-uk-stablecoin-capital-rule-by-50/",
           "source": "Bitcoinfoundation.org",
-          "published": "2026-06-29T07:44:09Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/04/ChatGPT-Image-17-апр.-2026-г.-11_39_05-1-opt.webp"
+          "published": "2026-06-30T09:03:40Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/04/stablecoin-opt.webp"
         },
         {
-          "title": "This Week in Crypto (June 22–29): Bitcoin's Brutal Quarter, the Ethereum Foundation Goes on a Diet, and a Sneaky Win for Crypto in DC",
-          "description": "Bitcoin hit a level it hasn't seen since 2024, the Ethereum Foundation cut a fifth of its staff, Congress quietly handed crypto a regulatory win inside a housing bill, and Ripple's CEO picked a fight with Michael Saylor. Here's everything that mattered this w…",
-          "url": "https://coin98.com/blog/this-week-in-crypto-june-22-29-bitcoins-brutal-quarter-the-ethereum-foundation-goes-on-a-diet-and-a-sneaky-win-for-crypto-in-dc/",
-          "source": "Coin98.com",
-          "published": "2026-06-29T07:42:26Z",
-          "image": "https://storage.ghost.io/c/33/8b/338b9d4c-323c-44bc-9279-09b3128bfa8c/content/images/size/w1200/2026/06/image32-18.png"
+          "title": "Bitcoin’s $60,000 test is not over after Strategy’s $2.5B STRC backstop",
+          "description": "Strategy's preferred stack and Bitcoin's price are facing two separate tests this week, and only one of them has been resolved. The company's Digital Credit Capital Framework centers on a $2.55 billion dollar-denominated reserve, a revised STRC dividend polic…",
+          "url": "https://cryptoslate.com/bitcoins-60000-test-is-not-over-after-strategys-2-5b-strc-backstop/",
+          "source": "CryptoSlate",
+          "published": "2026-06-30T08:08:11Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/06/bitcoin-ai-datacenter-overinvestment-1.jpg"
         },
         {
-          "title": "Digital Euro clears key parliamentary hurdle as EU moves to curb reliance on U.S. payment giants",
-          "description": "The European Central Bank (ECB) secured parliamentary backing for a digital euro, an electronic wallet guaranteed by the central bank to reduce reliance on U.S. payment networks amid transatlantic tensions. ECB plans a phased rollout: first for person-to-pers…",
-          "url": "https://www.naturalnews.com/2026-06-29-eu-to-curb-reliance-on-us-payment-giants.html",
-          "source": "Naturalnews.com",
-          "published": "2026-06-29T06:00:00Z",
-          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/Euro-Symbol-Money-Europe-Debt.jpg"
-        },
-        {
-          "title": "World's First Autonomous Mining IPO Draws Top-Tier Cornerstone Lineup Including Fidelity, JPMorgan, and Barings",
-          "description": "World's First Autonomous Mining IPO Draws Top-Tier Cornerstone Lineup Including Fidelity, JPMorgan, and Barings",
-          "url": "https://www.thehindubusinessline.com/brandhub/pr-release/worlds-first-autonomous-mining-ipo-draws-top-tier-cornerstone-lineup-including-fidelity-jpmorgan-and-barings/article71160143.ece",
-          "source": "BusinessLine",
-          "published": "2026-06-29T05:28:27Z",
-          "image": "https://www.thehindubusinessline.com/theme/images/og-image.png"
-        },
-        {
-          "title": "Strategy Valuation Drop Threatens Key Bitcoin Funding Engine",
-          "description": "Bitcoin’s largest corporate buyer, bitcoin treasury company Strategy, saw a valuation metric drop below a key threshold Friday (June 26), Bloomberg reported Friday. The ratio of the company’s enterprise value to its bitcoin holdings, or mNAV, fell below parit…",
-          "url": "https://www.pymnts.com/cryptocurrency/2026/strategy-valuation-drop-threatens-key-bitcoin-funding-engine/",
+          "title": "Plasma Wants to Be the First Stablecoin Bank",
+          "description": "Watch more: The Digital Shift With Plasma’s Zaheer Ebtikar Start with the part nobody in the payments industry wants to hear. Stablecoins probably won’t win at payments. Hundreds of billions of dollars in stablecoins circulate globally, and consumer payment a…",
+          "url": "https://www.pymnts.com/cryptocurrency/2026/plasma-wants-first-stablecoin-bank/",
           "source": "pymnts.com",
-          "published": "2026-06-28T21:35:00Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2026/06/Strategy-bitcoin-down-1.jpg"
+          "published": "2026-06-30T08:03:42Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/06/SB1-Need-to-Know-Main-Feature3-Plasma-Zaheer-Ebtikar.png"
         },
         {
-          "title": "BIS warns stablecoins risk fragmenting global financial system",
-          "description": "The Basel-based institution said that private digital tokens fall short of the requirements for sound money and urged policymakers to accelerate work on tokenized forms of central bank and commercial bank money.",
-          "url": "https://cointelegraph.com/news/bis-warns-stablecoins-risk-fragmenting-global-financial-system",
+          "title": "707 Cayman Holdings Appoints New Executive Director",
+          "description": "HONG KONG, June 30, 2026 (GLOBE NEWSWIRE) -- 707 Cayman Holdings Limited (“707” or the “Company”) (Nasdaq: JEM), a Hong Kong-based company that sells quality apparel products and provides supply chain management total solutions, today announced that the Compa…",
+          "url": "https://www.globenewswire.com/news-release/2026/06/30/3319424/0/en/707-Cayman-Holdings-Appoints-New-Executive-Director.html",
+          "source": "GlobeNewswire",
+          "published": "2026-06-30T08:00:00Z",
+          "image": "https://ml.globenewswire.com/Resource/Download/4ddf5496-34ff-4f40-a16e-2bffe1ef3d83"
+        },
+        {
+          "title": "Cathie Wood’s ARK adds $43.5M in crypto stocks amid market dip",
+          "description": "ARK Invest has purchased $43.5 million worth of shares in Coinbase, Circle and other crypto companies over the past three trading days, taking advantage of the latest market dip.",
+          "url": "https://cointelegraph.com/news/cathie-woods-ark-scoops-up-43m-worth-of-crypto-stocks-amid-market-dip",
           "source": "Cointelegraph",
-          "published": "2026-06-28T18:58:45Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-world-bank-initiatives-bis.jpg"
+          "published": "2026-06-30T05:49:50Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-why-low-latency-is-important-for-cryptocurrency-exchanges-etf.jpg"
         },
         {
-          "title": "Supply crunch lifts stablecoin premium above 8.5% in India",
-          "description": "India is facing a significant shortage of stablecoins like USDT, causing its price to surge locally. This premium, usually modest, has ballooned to over 8.5% following Enforcement Directorate actions against entities facilitating crypto-based money transfers.…",
-          "url": "https://economictimes.indiatimes.com/news/india/supply-crunch-lifts-stablecoin-premium-above-8-5-in-india/articleshow/132060767.cms",
-          "source": "The Times of India",
-          "published": "2026-06-28T18:37:06Z",
-          "image": "https://img.etimg.com/thumb/msid-132057578,width-1200,height-630,imgsize-122886,overlay-etmarkets/articleshow.jpg"
+          "title": "Solulu Tech Expands Stablecoin Infrastructure to Support Cross-Border Payments and Multi-Currency Settlement",
+          "description": "Enhancing Cross-Border Settlement and Multi-Currency Financial Services Enhancing Cross-Border Settlement and Multi-Currency Financial Services",
+          "url": "https://www.globenewswire.com/news-release/2026/06/30/3319362/0/en/Solulu-Tech-Expands-Stablecoin-Infrastructure-to-Support-Cross-Border-Payments-and-Multi-Currency-Settlement.html",
+          "source": "GlobeNewswire",
+          "published": "2026-06-30T02:26:00Z",
+          "image": "https://ml.globenewswire.com/Resource/Download/24e5ab21-a4e2-4f49-91df-3fab454a284f"
+        },
+        {
+          "title": "Ethereum Built Stablecoins. Its Price Drop Reveals Their Biggest Shift Yet",
+          "description": "Ethereum, the second-largest blockchain by market capitalization, fell roughly 25% in June amid a corporate restructuring. The correction stands out less for its size than for the institutional stablecoin economy now built on top of the network. Ethereum anno…",
+          "url": "https://www.pymnts.com/cryptocurrency/2026/ethereum-built-stablecoins-its-price-drop-reveals-their-biggest-shift-yet/",
+          "source": "pymnts.com",
+          "published": "2026-06-29T23:13:32Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/06/ethereum-stablecoins-1.jpg"
+        },
+        {
+          "title": "UK dilutes stablecoin capital requirement in final crypto rulebook",
+          "description": null,
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b958df59-894c-40ee-98cc-d78878cffd1c",
+          "source": "Yahoo Entertainment",
+          "published": "2026-06-29T23:05:58Z",
+          "image": null
         }
       ]
     },
@@ -180,20 +180,36 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Powerhouse Energy, Quantum Blockchain, Futura Medical, ATOME, DeFi Development Corp UK",
-          "description": null,
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b9c32ef5-e69a-43d7-a639-0c1b67f92f7a",
-          "source": "Yahoo Entertainment",
-          "published": "2026-06-29T08:46:01Z",
+          "title": "Trump’s Bitcoin made in America push runs into a power problem the tax bill cannot fix",
+          "description": "Congress is moving to fix how the US tax code treats crypto mining and staking rewards, and for validators and their institutional clients, the fix is long overdue. H.R. 9175, the Tax Clarity for Mining and Staking Act, would let miners and stakers defer tax …",
+          "url": "https://cryptoslate.com/trumps-bitcoin-made-in-america-push-runs-into-a-power-problem-the-tax-bill-cannot-fix/",
+          "source": "CryptoSlate",
+          "published": "2026-06-30T09:30:00Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/06/trump-bitcoin-america-tax-clarity-mining-infrastructure.jpg"
+        },
+        {
+          "title": "Canton Crypto (CC) Price Crash Incoming: Is It Actually Legit?",
+          "description": "Canton Coin stands out as a puzzle in the 2026 digital currency scene. Backed by big players using blockchains for private transactions, it links tightly...\nThe post Canton Crypto (CC) Price Crash Incoming: Is It Actually Legit? appeared first on Bitcoin Foun…",
+          "url": "https://bitcoinfoundation.org/news/analysis/canton-crypto-cc-price-crash-incoming-is-it-actually-legit/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-06-30T09:23:57Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/06/canton_coin_price_crash_140px_padding.webp"
+        },
+        {
+          "title": "Autheo Introduces the Internet Operating System: A Decentralized Coordination Layer for the Web, Blockchain, and AI",
+          "description": "Autheo Introduces the Internet Operating System: A Decentralized Coordination Layer for the Web, Blockchain, and AI, with TheoID and post quantum security.",
+          "url": "https://www.globenewswire.com/news-release/2026/06/30/3319357/0/en/Autheo-Introduces-the-Internet-Operating-System-A-Decentralized-Coordination-Layer-for-the-Web-Blockchain-and-AI.html",
+          "source": "GlobeNewswire",
+          "published": "2026-06-30T01:46:00Z",
           "image": null
         },
         {
-          "title": "Bitcoin is boring. Bring on AI, space and JGB tokens: Andy Mukherjee",
-          "description": "Forget Bitcoin's struggles; digital tokens representing real-world assets like bonds and stocks are gaining traction. These 'tokenized assets' offer instant trading and collateral use, promising higher returns and a future 'Wall Street' in crypto wallets. Whi…",
-          "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-is-boring-bring-on-ai-space-and-jgb-tokens-andy-mukherjee/articleshow/132061693.cms",
-          "source": "The Times of India",
-          "published": "2026-06-29T02:56:17Z",
-          "image": "https://img.etimg.com/thumb/msid-132061704,width-1200,height-630,imgsize-155968,overlay-etmarkets/articleshow.jpg"
+          "title": "Antier Sets a New Global Standard for Blockchain Development - Every Layer, Every Industry, One Partner",
+          "description": "MOHALI, India, June 29, 2026 /PRNewswire/ -- Antier, a globally recognized blockchain development company, has established a unified blockchain delivery model spanning Layer 0 protocols, Layer 1 networks, Layer 2 scaling solutions, Layer 3 appchains, and Roll…",
+          "url": "https://www.prnewswire.com/news-releases/antier-sets-a-new-global-standard-for-blockchain-development---every-layer-every-industry-one-partner-302813138.html",
+          "source": "PRNewswire",
+          "published": "2026-06-29T11:08:00Z",
+          "image": "https://mma.prnewswire.com/media/3001767/Antier_Solutions.jpg?p=facebook"
         },
         {
           "title": "Who pays when Blockchain fails, ask experts flagging gaps",
@@ -202,30 +218,6 @@
           "source": "The Times of India",
           "published": "2026-06-29T00:30:00Z",
           "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-33546,resizemode-75,msid-132056027/tech/technology/who-pays-when-blockchain-fails-ask-experts-flagging-gaps.jpg"
-        },
-        {
-          "title": "Stablecoin-to-QR code payments company SQRIL continues to disrupt Crypto/Stablecoin Cards by now entering Central Asia",
-          "description": "Stablecoin-to-QR code payments company SQRIL disrupts Crypto/Stablecoin Cards across Emerging Markets...",
-          "url": "https://www.globenewswire.com/news-release/2026/06/28/3318589/0/en/Stablecoin-to-QR-code-payments-company-SQRIL-continues-to-disrupt-Crypto-Stablecoin-Cards-by-now-entering-Central-Asia.html",
-          "source": "GlobeNewswire",
-          "published": "2026-06-28T14:07:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/2fb449ce-7ef4-4178-b154-70c9d2987bf4"
-        },
-        {
-          "title": "Crypto's next frontier isn't crypto, it's financing AI and robotics, Framework's Anderson says",
-          "description": "Blockchain is becoming the financial layer for capital-intensive industries rather than just crypto-native speculation, Michael Anderson, the crypto venture firm's cofounder, said.",
-          "url": "https://www.coindesk.com/business/2026/06/28/crypto-s-next-frontier-isn-t-crypto-it-s-financing-ai-and-robotics-framework-s-anderson-says",
-          "source": "CoinDesk",
-          "published": "2026-06-28T13:00:00Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/3b135d1bd6e8eb4b0cd88dfa19f2bfc75477bf93-1500x1000.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
-        },
-        {
-          "title": "Polymarket Says 'Contained And Removed' Malicious Bug After Third-Party Vendor Was Hacked; Will Refund Impacted Users In Full As On-Chain Sleuth Estimates $3 Million Drain",
-          "description": "Polymarket said it successfully contained a security breach after discovering a third-party vendor had been compromised on Thursday morning. Polymarket Refun...",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/polymarket-says-contained-removed-malicious-123057978.html",
-          "source": "Yahoo Entertainment",
-          "published": "2026-06-28T12:30:57Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/BE54D7328372BF50DA0D73A6C2D8B1B284B14FE44485E8A938D0122C27A8BA96/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F3807059006118ed888d351958fe3b1d4"
         },
         {
           "title": "UK bond fund ownership records move onto Ethereum and Solana accessible 24/7",
@@ -242,6 +234,14 @@
           "source": "Successful-blog.com",
           "published": "2026-06-25T17:58:28Z",
           "image": "https://www.successful-blog.com/wp-content/uploads/2026/06/Blockchain-Technology.webp"
+        },
+        {
+          "title": "CertiK joins XDC Network to secure trade finance and RWA tokenization",
+          "description": "CertiK joins XDC Network as institutional masternode validator. Partnership strengthens security, resilience and decentralization. SkyNode infrastructure delivers 24/7 protection and monitoring. CertiK has joined the XDC Network as an Institutional Masternode…",
+          "url": "https://coinjournal.net/news/certik-joins-xdc-network-to-secure-trade-finance-and-rwa-tokenization/",
+          "source": "Coinjournal.net",
+          "published": "2026-06-25T13:00:28Z",
+          "image": "https://coinjournal.net/wp-content/uploads/2026/06/1-1.jpg"
         }
       ]
     },
@@ -255,36 +255,12 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Bank of International Settlements Warns That AI Crash Could Produce Investment Drought, Economic Contraction and Even a Crisis",
-              "description": "The Bank of International Settlements took a look at the AI bubble. Not surprisingly, it found a lot not to like.",
-              "url": "https://www.nakedcapitalism.com/2026/06/bank-of-international-settlements-warns-that-ai-crash-could-produce-investment-drought-economic-contraction-and-even-a-crisis.html",
-              "source": "Nakedcapitalism.com",
-              "published": "2026-06-29T08:46:37Z",
-              "image": "https://www.nakedcapitalism.com/wp-content/uploads/2026/06/Screenshot-2026-06-29-at-12.20.03 AM.png"
-            },
-            {
-              "title": "China issues $44B cash injection giving Bitcoin bulls a new signal as fear grips market",
-              "description": "PBOC's first overnight reverse repo gives traders a new liquidity gauge, but one injection does not reset Bitcoin's fragile setup near $60K.\nThe post China issues $44B cash injection giving Bitcoin bulls a new signal as fear grips market appeared first on Cry…",
-              "url": "https://cryptoslate.com/chinas-44b-cash-injection-gives-bitcoin-bulls-a-new-signal-as-fear-grips-market/",
-              "source": "CryptoSlate",
-              "published": "2026-06-29T08:23:39Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/06/china-liquidity-valve-bitcoin-market-fear.jpg"
-            },
-            {
-              "title": "Corporate Buyers Keep Accumulating Crypto — Strategy and Sharplink Add Bitcoin and Ethereum",
-              "description": "Price declines continue — on June 29, BTC fell back below $60K. But public companies aren’t slowing down. They’re actively accumulating the leading assets. Strategy...\nThe post Corporate Buyers Keep Accumulating Crypto — Strategy and Sharplink Add Bitcoin and…",
-              "url": "https://bitcoinfoundation.org/news/crypto-companies-news/btc-eth-buys/",
-              "source": "Bitcoinfoundation.org",
-              "published": "2026-06-29T08:16:21Z",
-              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/05/ChatGPT-Image-15-мая-2026-г.-19_34_10-1.webp"
-            },
-            {
-              "title": "The Funding: Why crypto VCs are expanding beyond crypto",
-              "description": "Major crypto VCs are broadening their investment mandates. Here's what's driving the shift and what it means for the future of crypto VC.",
-              "url": "https://biztoc.com/x/9cdb1f4ebad7c106",
-              "source": "Biztoc.com",
-              "published": "2026-06-29T02:40:53Z",
-              "image": "https://biztoc.com/cdn/9cdb1f4ebad7c106_s.webp"
+              "title": "Bitcoin miner and AI firm Ionic Digital files for Nasdaq direct listing",
+              "description": "The company was formed in January 2024 to acquire the cryptocurrency mining assets of Celsius Mining, a subsidiary of ‌Celsius, which ⁠received ⁠U.S. bankruptcy court approval for a restructuring in November 2023.",
+              "url": "https://economictimes.indiatimes.com/tech/technology/bitcoin-miner-and-ai-firm-ionic-digital-files-for-nasdaq-direct-listing/articleshow/132083386.cms",
+              "source": "The Times of India",
+              "published": "2026-06-30T03:53:29Z",
+              "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-291902,resizemode-75,msid-132083386/tech/technology/bitcoin-miner-and-ai-firm-ionic-digital-files-for-nasdaq-direct-listing.jpg"
             }
           ]
         },
