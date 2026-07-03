@@ -1,5 +1,5 @@
 {
-  "date": "July 02, 2026",
+  "date": "July 03, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -7,20 +7,28 @@
       "color": "#ffb900",
       "articles": [
         {
+          "title": "Panther Hollow launches multi-strategy merchant bank for compliant RWA and yield strategies",
+          "description": "Panther Hollow's innovative approach could restore institutional trust in crypto by integrating real-world assets with digital strategies.\nThe post Panther Hollow launches multi-strategy merchant bank for compliant RWA and yield strategies appeared first on C…",
+          "url": "https://cryptobriefing.com/panther-hollow-merchant-bank-rwa-yield/",
+          "source": "Crypto Briefing",
+          "published": "2026-07-01T13:41:12Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/01094109/merchant-bank-png-800x420.jpeg"
+        },
+        {
+          "title": "Bitcoin and Ethereum in Crisis: Can Solana Become the Main Global Payments Network in 2026?",
+          "description": "Bitcoin and Ethereum currently dominate the crypto market by a wide margin. However, when it comes to payments, they face performance and scalability challenges. Bitcoin...\nThe post Bitcoin and Ethereum in Crisis: Can Solana Become the Main Global Payments Ne…",
+          "url": "https://bitcoinfoundation.org/news/altcoins/solana-main-global-payments-network/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-07-01T11:15:04Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/main-pay-1.webp"
+        },
+        {
           "title": "REAL launches confidential layer to expand institutional RWA adoption",
           "description": "REAL launches private execution layer for RWA institutions. ZKsync tech enables confidential on-chain settlement via Ethereum. Platform aims to bridge the privacy gap in institutional blockchain use. REAL has introduced a confidential execution layer designed…",
           "url": "https://coinjournal.net/news/real-launches-confidential-layer-to-expand-institutional-rwa-adoption/",
           "source": "Coinjournal.net",
           "published": "2026-06-30T14:18:15Z",
           "image": "https://coinjournal.net/wp-content/uploads/2026/06/RWA-presentation.png"
-        },
-        {
-          "title": "Theo allocates $20M to Fidelity’s tokenized liquidity fund as Treasury tokens hit $15B",
-          "description": "Theo's investment in tokenized liquidity funds highlights the growing institutional interest in blockchain-based financial products, despite inherent risks.\nThe post Theo allocates $20M to Fidelity’s tokenized liquidity fund as Treasury tokens hit $15B appear…",
-          "url": "https://cryptobriefing.com/theo-20m-fidelity-tokenized-fund/",
-          "source": "Crypto Briefing",
-          "published": "2026-06-30T13:15:30Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/30091521/fidelity-investments-logo-png-transparent-2-800x420.png"
         },
         {
           "title": "StarkWare unveils Starknet post-quantum roadmap, calling it crypto’s ‘strongest’ to date",
@@ -61,14 +69,6 @@
           "source": "Bitcoinfoundation.org",
           "published": "2026-06-29T09:01:20Z",
           "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/04/closed-shut-down-closure-opt.webp"
-        },
-        {
-          "title": "Pioneering zk-rollup Loopring closes DEX, citing lack of adoption",
-          "description": "“We lacked a virtual machine, no composability, no real‑world payment use cases. That limitation kept our ecosystem from growing,” said the team.",
-          "url": "https://cointelegraph.com/news/pioneering-zk-rollup-loopring-announces-dex-closure-citing-no-adoption",
-          "source": "Cointelegraph",
-          "published": "2026-06-29T03:15:38Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/layoffs-fired-human-resource-hr-leaving-quit-closing-breaking-news-1.jpg"
         }
       ]
     },
@@ -92,22 +92,6 @@
           "source": "Crypto Briefing",
           "published": "2026-06-26T15:57:54Z",
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/26115746/how-to-prove-company-exists-articles-of-incorporation-800x420.jpeg"
-        },
-        {
-          "title": "Does Botanix’s failure prove Bitcoiners don’t care about DeFi?",
-          "description": "The failure of Botanix suggests that Bitcoiners still prefer Ethereum DeFi to Bitcoin L2s. How can Bitcoin L2s change to win hodlers over?",
-          "url": "https://cointelegraph.com/features/does-botanixs-failure-prove-bitcoiners-dont-care-about-defi",
-          "source": "Cointelegraph",
-          "published": "2026-06-25T23:09:10Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-quantum-computers-could-bring-lost-bitcoin-back-to-life-heres-how-1.jpg"
-        },
-        {
-          "title": "Bitget lists Nesa (NES) for Spot Trading",
-          "description": "Bitget lists Nesa (NES) for spot trading, expanding AI zone access to private, verifiable on-chain AI inference....",
-          "url": "https://www.globenewswire.com/news-release/2026/06/25/3317335/0/en/Bitget-lists-Nesa-NES-for-Spot-Trading.html",
-          "source": "GlobeNewswire",
-          "published": "2026-06-25T09:37:00Z",
-          "image": "https://ml-eu.globenewswire.com/Resource/Download/ccd2371c-8f31-43fa-8244-851a3f7d5e39"
         }
       ]
     },
@@ -117,68 +101,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Crypto Industry Spent $189M on US Elections in 2026",
-          "description": "That’s nearly 40% of all corporate election spending. We break down why crypto companies were so active in this year’s electoral race. Crypto companies spent...\nThe post Crypto Industry Spent $189M on US Elections in 2026 appeared first on Bitcoin Foundation.",
-          "url": "https://bitcoinfoundation.org/news/crypto-companies-news/crypto-lobby-us/",
+          "title": "Virtune AB (Publ) (\"Virtune\") has completed the monthly rebalancing for June 2026 of its Virtune Crypto Altcoin Index ETP",
+          "description": "Stockholm, 2nd of July 2026 – Virtune AB (Publ) (\"Virtune\") today announces that it has completed the monthly rebalancing of the Virtune Crypto Altcoin Index ETP, listed on Nasdaq Stockholm, Nasdaq Helsinki, Xetra and Warsaw Stock Exchange (ISIN code SE002326…",
+          "url": "https://www.globenewswire.com/news-release/2026/07/02/3321140/0/en/Virtune-AB-Publ-Virtune-has-completed-the-monthly-rebalancing-for-June-2026-of-its-Virtune-Crypto-Altcoin-Index-ETP.html",
+          "source": "GlobeNewswire",
+          "published": "2026-07-02T08:49:00Z",
+          "image": "https://ml-eu.globenewswire.com/Resource/Download/da0bec69-79eb-4618-87fd-d96aa395aaed"
+        },
+        {
+          "title": "A New Crypto Order Under Global Liquidity Repricing | HTX Research Releases Quarterly Strategy Report, Breaking Down the Q3 Framework",
+          "description": "APIA, Samoa, July 2, 2026 /PRNewswire/ -- HTX Research, the dedicated research arm of HTX, has released its Q3 2026 outlook report, Liquidity Defines Crypto: A New Crypto Order Under Global Liquidity Repricing. Built around two core themes, liquidity and regu…",
+          "url": "https://www.prnewswire.com/news-releases/a-new-crypto-order-under-global-liquidity-repricing--htx-research-releases-quarterly-strategy-report-breaking-down-the-q3-framework-302816763.html",
+          "source": "PRNewswire",
+          "published": "2026-07-02T08:18:00Z",
+          "image": "https://mma.prnewswire.com/media/3003297/image1.jpg?p=facebook"
+        },
+        {
+          "title": "Coinbase helped build USDC – Why is it now backing the stablecoin trying to replace it, Open USD?",
+          "description": "The stablecoin market has long rewarded the companies that issue digital dollars. They take in customer cash, hold reserves in short-term government securities, and earn the yield. Now, the companies that distribute those tokens want more of the economics. Th…",
+          "url": "https://cryptoslate.com/coinbase-helped-build-usdc-why-its-now-backing-the-stablecoin-trying-to-replace-it-open-usd/",
+          "source": "CryptoSlate",
+          "published": "2026-07-02T08:10:35Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/07/coinbase-ousd-challenges-usdc-stablecoin-power-shift.jpg"
+        },
+        {
+          "title": "【7月23日開催】国内最大級・法人向けWeb3ビジネスコミュニティ「N.Avenue club」ラウンドテーブルのゲスト参加枠募集",
+          "description": "[N.Avenue株式会社]\n[画像: https://prcdn.freetls.fastly.net/release_image/47016/109/47016-109-470ec1bd25d9040b36085f353518c962-1280x720.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+          "url": "https://prtimes.jp/main/html/rd/p/000000109.000047016.html",
+          "source": "Prtimes.jp",
+          "published": "2026-07-02T07:41:00Z",
+          "image": "https://prcdn.freetls.fastly.net/release_image/47016/109/47016-109-470ec1bd25d9040b36085f353518c962-1280x720.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "title": "Trump has made more than $1 billion from crypto in a year. How?",
+          "description": "Turns out it can be quite easy – if you are the US president.",
+          "url": "https://theconversation.com/trump-has-made-more-than-1-billion-from-crypto-in-a-year-how-286635",
+          "source": "The Conversation Africa",
+          "published": "2026-07-02T06:12:37Z",
+          "image": "https://images.theconversation.com/files/745524/original/file-20260702-57-u4ppaw.jpg?ixlib=rb-4.1.0&rect=0%2C1002%2C6000%2C3000&q=45&auto=format&w=1356&h=668&fit=crop"
+        },
+        {
+          "title": "The Pakistan connection that helped Donald Trump make $1.4 billion crypto jackpot",
+          "description": "Donald Trump's latest financial disclosure revealed that crypto ventures generated an estimated $1.4 billion of his 2025 income, eclipsing much of his traditional real estate business. The filing also spotlighted World Liberty Financial's growing ties with Pa…",
+          "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/the-pakistan-connection-that-helped-donald-trump-make-1-4-billion-crypto-jackpot/articleshow/132130400.cms",
+          "source": "The Times of India",
+          "published": "2026-07-02T06:06:45Z",
+          "image": "https://img.etimg.com/thumb/msid-132130385,width-1200,height-630,imgsize-28800,overlay-etmarkets/articleshow.jpg"
+        },
+        {
+          "title": "Holding(s) in Company",
+          "description": "TR-1: Standard form for notification of major holdings   1. Issuer Details ISIN GB00BL6K5J42 Issuer Name ENDEAVOUR MINING PLC UK or Non-UK Issuer UK 2....",
+          "url": "https://www.globenewswire.com/news-release/2026/07/02/3321098/0/en/Holding-s-in-Company.html",
+          "source": "GlobeNewswire",
+          "published": "2026-07-02T06:00:00Z",
+          "image": "https://ml-eu.globenewswire.com/Resource/Download/cff109e5-0693-447f-8afe-290bcfdfd66f"
+        },
+        {
+          "title": "Top 3 Crypto Exchanges Facing EU Exit as MiCA Rules Take Effect in July 2026",
+          "description": "The list of crypto exchanges facing EU exit is one of the biggest stories in crypto regulation right now. As new rules take full effect...\nThe post Top 3 Crypto Exchanges Facing EU Exit as MiCA Rules Take Effect in July 2026 appeared first on Bitcoin Foundati…",
+          "url": "https://bitcoinfoundation.org/news/regulation/top-3-crypto-exchanges-facing-eu-exit/",
           "source": "Bitcoinfoundation.org",
-          "published": "2026-07-01T08:47:26Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/ChatGPT-Image-1-июл.-2026-г.-11_41_03-1.webp"
-        },
-        {
-          "title": "Visa, Mastercard and 140 firms launch Open USD, a stablecoin built to undercut Circle",
-          "description": "Aconsortium of more than 140 financial and technology companies, among them Visa, Mastercard, Stripe and Coinbase, launched a new dollar-pegged stablecoin on Tuesday called Open USD. The venture, run by an independent company named Open Standard, is a direct …",
-          "url": "https://thenextweb.com/news/open-usd-stablecoin-visa-mastercard-consortium/",
-          "source": "The Next Web",
-          "published": "2026-07-01T08:07:00Z",
-          "image": "https://media.thenextweb.com/2026/07/Open-USD.avif"
-        },
-        {
-          "title": "Utorg Secures MiCA License as July 1 Deadline Pushes Much of the Industry Out of Europe",
-          "description": "Utorg, a crypto wallet and card platform built on institutional-grade infrastructure, has received full authorization under the EU’s Markets in Crypto-Assets (MiCA) regulation, effective July 1, 2026 — the date on which the industry’s transitional period ends…",
-          "url": "https://zycrypto.com/utorg-secures-mica-license-as-july-1-deadline-pushes-much-of-the-industry-out-of-europe/",
-          "source": "ZyCrypto",
-          "published": "2026-07-01T07:51:53Z",
-          "image": "https://zycrypto.com/wp-content/uploads/2026/07/unnamed-76.jpg"
-        },
-        {
-          "title": "Utorg Obtains MiCA License as July 1 Deadline Forces Much of the Industry Out of Europe",
-          "description": "Dubai, UAE, 1st July 2026, Chainwire\nThe post Utorg Obtains MiCA License as July 1 Deadline Forces Much of the Industry Out of Europe appeared first on The Daily Hodl.",
-          "url": "https://dailyhodl.com/2026/07/01/utorg-obtains-mica-license-as-july-1-deadline-forces-much-of-the-industry-out-of-europe/",
-          "source": "The Daily Hodl",
-          "published": "2026-07-01T07:01:41Z",
-          "image": "https://dailyhodl.com/wp-content/uploads/2026/07/MiCA_press_release_17828372043NH8d0ysvd.jpg?resize=1200,720"
-        },
-        {
-          "title": "JPMorgan Endorses Digital Asset Clarity Act With Caution as Senate Targets August Recess",
-          "description": "JPMorgan threw its support behind the Digital Asset Market Clarity Act on June 29, 2026, according to a joint op-ed by Umar Farooq, global co-head of JPMorgan Payments, and Peter Muriungi, CEO of Digital Assets and Blockchain Solutions. The bank urged Congres…",
-          "url": "https://www.naturalnews.com/2026-07-01-jpmorgan-endorses-digital-asset-clarity-act-senate.html",
-          "source": "Naturalnews.com",
-          "published": "2026-07-01T06:00:00Z",
-          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/digital-asset-market-clarity-act-jpmorgan-stablecoin-2420-original.jpg"
-        },
-        {
-          "title": "Binance Halts EU Operations After Failing to Obtain MiCA License",
-          "description": "Binance, the world’s largest cryptocurrency exchange by trading volume, announced plans to temporarily suspend services for customers in the European Union starting this week after failing to secure authorization under the bloc’s Markets in Crypto-Assets Regu…",
-          "url": "https://www.naturalnews.com/2026-07-01-binance-halts-eu-failing-obtain-mica-license.html",
-          "source": "Naturalnews.com",
-          "published": "2026-07-01T06:00:00Z",
-          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/binance-mica-eu-crypto-regulation-2375-original.jpg"
-        },
-        {
-          "title": "World's First Autonomous Mining IPO Draws Top-Tier Cornerstone Lineup Including Fidelity, JPMorgan, and Barings",
-          "description": "EACON Group Co., Ltd. (&quot;EACON&quot;, Stock Code: 07687.HK) launched the global offering of its H-shares today, marking the official start of its Hong ...",
-          "url": "https://en.antaranews.com/news/421005/worlds-first-autonomous-mining-ipo-draws-top-tier-cornerstone-lineup-including-fidelity-jpmorgan-and-barings",
-          "source": "Antaranews.com",
-          "published": "2026-07-01T05:02:45Z",
-          "image": "https://cdn.antaranews.com/cache/1200x800/2025/12/10/logo-Cision.jpg"
-        },
-        {
-          "title": "Stripe’s New Stablecoin Bet: Open USD",
-          "description": "On June 30, 2026, Stripe, Visa, Mastercard, Coinbase, BlackRock, BNY, DBS, OCBC, Standard Chartered, Google, Shopify, and more than 140 other companies have signed on to Open USD, a new US dollar-backed stablecoin initiative operated by Open Standard. The pro…",
-          "url": "https://www.forrester.com/blogs/stripes-new-stablecoin-bet-open-usd/",
-          "source": "Forrester.com",
-          "published": "2026-07-01T02:25:15Z",
-          "image": "https://go.forrester.com/wp-content/uploads/2026/06/Blog-post-bio-picture-2.jpg"
+          "published": "2026-07-02T05:28:24Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/eu-exit-1.webp"
         }
       ]
     },
@@ -187,6 +171,30 @@
       "icon": "🏥",
       "color": "#00cc88",
       "articles": [
+        {
+          "title": "Valle Capital Token Launches Real World Asset and Agribusiness Ecosystem",
+          "description": "Valle Capital Token (“VCT”) has announced the development and expansion of its blockchain-powered ecosystem designed to connect global digital capital with Brazilian agribusiness operations and international commodity exports. Built on BNB Smart Chain, VCT co…",
+          "url": "https://zycrypto.com/valle-capital-token-launches-real-world-asset-and-agribusiness-ecosystem/",
+          "source": "ZyCrypto",
+          "published": "2026-07-01T20:42:25Z",
+          "image": "https://zycrypto.com/wp-content/uploads/2026/07/unnamed-79.jpg"
+        },
+        {
+          "title": "Valle Capital Token Launches RWA and Agribusiness Ecosystem",
+          "description": "Tortola, British Virgin Islands, 1st July 2026, Chainwire\nThe post Valle Capital Token Launches RWA and Agribusiness Ecosystem appeared first on The Daily Hodl.",
+          "url": "https://dailyhodl.com/2026/07/01/valle-capital-token-launches-rwa-and-agribusiness-ecosystem/",
+          "source": "The Daily Hodl",
+          "published": "2026-07-01T19:10:27Z",
+          "image": "https://dailyhodl.com/wp-content/uploads/2026/07/VALLE_TOKEN_BANNER_17829275587ejn0EHxrm.jpg?resize=1200,720"
+        },
+        {
+          "title": "Intiva Health's Healthcare Token: $TIVA Enters a New Era with BitMart",
+          "description": "Right on the Heels of Incredable Launching New AI Credentialing Tool  AUSTIN, Texas, July  01, 2026  (GLOBE NEWSWIRE) -- Intiva Health, the parent...",
+          "url": "https://www.globenewswire.com/news-release/2026/07/01/3320941/0/en/Intiva-Health-s-Healthcare-Token-TIVA-Enters-a-New-Era-with-BitMart.html",
+          "source": "GlobeNewswire",
+          "published": "2026-07-01T18:48:00Z",
+          "image": "https://ml.globenewswire.com/Resource/Download/6299ae33-9a92-4a8a-85f6-65b133361676"
+        },
         {
           "title": "ShinWon Bets On Blockchain for Supply Chain Transparency",
           "description": "ShinWon Corp. wants more transparency across all parts of its value chain.",
@@ -220,36 +228,12 @@
           "image": null
         },
         {
-          "title": "OwlTing Group (NASDAQ: OWLS) and Saber Money Open Settlement into India's US$860 Billion Export Economy",
-          "description": "OwlTing Group (NASDAQ: OWLS) and Saber Money open Indian rupee payout via OwlPay Harbor, a near real-time path into India's US$860B export economy....",
-          "url": "https://www.globenewswire.com/news-release/2026/06/29/3318784/0/en/OwlTing-Group-NASDAQ-OWLS-and-Saber-Money-Open-Settlement-into-India-s-US-860-Billion-Export-Economy.html",
-          "source": "GlobeNewswire",
-          "published": "2026-06-29T10:21:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/1a49146f-7094-4890-a43c-fff72a004a05"
-        },
-        {
           "title": "Who pays when Blockchain fails, ask experts flagging gaps",
           "description": "Unlike conventional digital systems, where responsibility typically rests with a platform operator, data controller or service provider, blockchain-based systems can distribute responsibility across developers, validators, node operators, enterprise users, in…",
           "url": "https://economictimes.indiatimes.com/tech/technology/who-pays-when-blockchain-fails-ask-experts-flagging-gaps/articleshow/132056027.cms",
           "source": "The Times of India",
           "published": "2026-06-29T00:30:00Z",
           "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-33546,resizemode-75,msid-132056027/tech/technology/who-pays-when-blockchain-fails-ask-experts-flagging-gaps.jpg"
-        },
-        {
-          "title": "UK bond fund ownership records move onto Ethereum and Solana accessible 24/7",
-          "description": "BAGEY turns tokenization into a legal-record test, but transfer, collateral, and custody mechanics still have to prove the model.\nThe post UK bond fund ownership records move onto Ethereum and Solana accessible 24/7 appeared first on CryptoSlate.",
-          "url": "https://cryptoslate.com/uk-bond-fund-ownership-records-move-onto-ethereum-and-solana/",
-          "source": "CryptoSlate",
-          "published": "2026-06-26T08:02:10Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/06/uk-bond-fund.jpg"
-        },
-        {
-          "title": "CertiK joins XDC Network to secure trade finance and RWA tokenization",
-          "description": "CertiK joins XDC Network as institutional masternode validator. Partnership strengthens security, resilience and decentralization. SkyNode infrastructure delivers 24/7 protection and monitoring. CertiK has joined the XDC Network as an Institutional Masternode…",
-          "url": "https://coinjournal.net/news/certik-joins-xdc-network-to-secure-trade-finance-and-rwa-tokenization/",
-          "source": "Coinjournal.net",
-          "published": "2026-06-25T13:00:28Z",
-          "image": "https://coinjournal.net/wp-content/uploads/2026/06/1-1.jpg"
         }
       ]
     },
@@ -263,28 +247,20 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Trump earned over $1 bn from crypto ventures in 2025, filings show",
-              "description": "President Donald Trump recorded around $1.2 billion in income from his cryptocurrency activities in 2025, according to documents released Tuesday by the US Office of Government Ethics.\nThe post Trump earned over $1 bn from crypto ventures in 2025, filings sho…",
-              "url": "https://www.vanguardngr.com/2026/07/trump-earned-over-1-bn-from-crypto-ventures-in-2025-filings-show/",
-              "source": "Vanguard",
-              "published": "2026-07-01T07:36:47Z",
-              "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/06/trump.jpg"
+              "title": "The murderous attack and the resilience of (normal) society, Maria K.’s troubles (politics is a difficult sport), Nikos and Tsakri’s corner, fever in Computer Science",
+              "description": "The new European “wallet” and the bet of Greek shipping\nThe post The murderous attack and the resilience of (normal) society, Maria K.’s troubles (politics is a difficult sport), Nikos and Tsakri’s corner, fever in Computer Science appeared first on ProtoThem…",
+              "url": "https://en.protothema.gr/2026/07/02/the-murderous-attack-and-the-resilience-of-normal-society-maria-k-s-troubles-politics-is-a-difficult-sport-nikos-and-tsakris-corner-fever-in-computer-science/",
+              "source": "Protothema.gr",
+              "published": "2026-07-02T06:10:00Z",
+              "image": "https://en.protothema.gr/wp-content/uploads/2024/06/ProtothemaEn.png"
             },
             {
-              "title": "Trump earned over $1 bn from crypto ventures in 2025",
-              "description": "US President Donald Trump recorded around $1.2 billion in income from his family's cryptocurrency activities during his first year back in office, according to financial disclosures released on Tuesday.\nThe post Trump earned over $1 bn from crypto ventures in…",
-              "url": "https://www.vanguardngr.com/2026/07/trump-earned-over-1-bn-from-crypto-ventures-in-2025/",
-              "source": "Vanguard",
-              "published": "2026-07-01T07:23:22Z",
-              "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/06/AFP__20260622__2282810309__v1__MidRes__PresidentTrumpSignsExecutiveOrderInTheOvalOff.jpg"
-            },
-            {
-              "title": "Uniswap Launches No-Code AI Tool for Token Auctions — How It Works",
-              "description": "Uniswap has integrated a token auction tool into its web app that requires no coding skills. We break down what’s known about the new feature....\nThe post Uniswap Launches No-Code AI Tool for Token Auctions — How It Works appeared first on Bitcoin Foundation.",
-              "url": "https://bitcoinfoundation.org/news/crypto-companies-news/uniswap-ai-tool/",
-              "source": "Bitcoinfoundation.org",
-              "published": "2026-06-25T15:32:21Z",
-              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/04/token-launchpad-altcoin-opt.webp"
+              "title": "Ethereum Institutional launch draws support from across the Ethereum ecosystem",
+              "description": "Its launch comes as Ethereum's support ecosystem undergoes a broader evolution, following the debut of EthLabs and amid ongoing efforts by the Ethereum Foundation to respond to community criticism over transparency, communication and its role within the ecosy…",
+              "url": "https://www.coindesk.com/tech/2026/07/01/ethereum-institutional-launch-draws-support-from-across-the-ethereum-ecosystem",
+              "source": "CoinDesk",
+              "published": "2026-07-01T21:13:24Z",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
             }
           ]
         },
@@ -293,12 +269,28 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "AEON Expands to Zambia, Bridging Global Crypto and Agentic Commerce with Local Mobile Money",
-              "description": "HONG KONG, July 1, 2026 /PRNewswire/ -- AEON, the settlement layer for the agentic economy, has expanded AEON Pay into Zambia, integrating local wallets Airtel Money and MTN Mobile Money. Zambian users can now spend digital assets seamlessly while merchants r…",
-              "url": "https://www.prnewswire.com/news-releases/aeon-expands-to-zambia-bridging-global-crypto-and-agentic-commerce-with-local-mobile-money-302815581.html",
+              "title": "Robinhood Chain Launches and Adopts Chainlink To Unlock Access to the Onchain Economy for Millions of Users",
+              "description": "Now live on mainnet, Robinhood Chain has adopted Chainlink as its official data and cross-chain oracle to power Robinhood Stock Tokens, including NVDA, GOOG, AAPL, and more. NEW YORK, July 1, 2026 /PRNewswire/ -- Robinhood Chain, Robinhood's Ethereum-based la…",
+              "url": "https://www.prnewswire.com/news-releases/robinhood-chain-launches-and-adopts-chainlink-to-unlock-access-to-the-onchain-economy-for-millions-of-users-302816242.html",
               "source": "PRNewswire",
-              "published": "2026-07-01T07:57:00Z",
-              "image": null
+              "published": "2026-07-01T19:00:00Z",
+              "image": "https://mma.prnewswire.com/media/3003080/Chainlink__Robinhood_Chain_is_now_natively_connected_across_chains.jpg?p=facebook"
+            },
+            {
+              "title": "Fake “Google Notes” Browser Extension Caught Swapping Crypto Wallet Addresses",
+              "description": "McAfee says a Google Notes browser extension is replacing copied crypto payment details, putting wallet transfers at risk for Chrome, Brave, and Microsoft Edge users.",
+              "url": "https://hackread.com/fake-google-notes-browser-extension-swap-crypto-wallets/",
+              "source": "HackRead",
+              "published": "2026-07-01T16:51:19Z",
+              "image": "https://hackread.com/wp-content/uploads/2026/07/fake-google-notes-browser-extension-swap-crypto-wallets-2.jpg"
+            },
+            {
+              "title": "Ondo Brings 430 Tokenized Stocks And ETFs To Uniswap",
+              "description": "Ondo Finance has integrated more than 430 tokenized stocks and ETFs with Uniswap, though access is restricted for US persons.",
+              "url": "http://www.newsbtc.com/news/ondo-brings-430-tokenized-stocks-and-etfs-to-uniswap/",
+              "source": "newsBTC",
+              "published": "2026-07-01T15:30:00Z",
+              "image": "https://www.newsbtc.com/wp-content/uploads/2023/05/iStock-1370952479-2.jpg?fit=2121%2C1414"
             },
             {
               "title": "Trump made more than $1bn last year on return to presidency",
@@ -307,54 +299,6 @@
               "source": "The Irish Times",
               "published": "2026-07-01T06:57:21Z",
               "image": "https://www.irishtimes.com/resizer/v2/GP44K3KGPUJNML3B7WJC2KTKD4.jpg?smart=true&auth=9b8315dfc974f440669b86819d4e37f7b900395d605829fa7a0a2e92d6432ea9&width=1200&height=630"
-            },
-            {
-              "title": "Trump financial disclosure reports hundreds of millions in crypto income",
-              "description": "President Donald Trump’s annual financial disclosure, released by the U.S. Office of Government Ethics on Tuesday, totals 927 pages and reveals more than $580 million in crypto-related income for 2025, the first year of his second term. According to the filin…",
-              "url": "https://www.naturalnews.com/2026-07-01-trump-financial-disclosure-reports-crypto-income.html",
-              "source": "Naturalnews.com",
-              "published": "2026-07-01T06:00:00Z",
-              "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/trump-financial-disclosure-crypto-income-2427-original.jpg"
-            },
-            {
-              "title": "EchoYield Secures $2.2 Million Series A Funding as Total Value Locked Surpasses $130 Million",
-              "description": "IPSWICH, Australia, July 01, 2026 (GLOBE NEWSWIRE) -- Multi-chain decentralized staking platform EchoYield has announced the successful completion of a $2.2 million Series A funding round, marking a major milestone in the company's expansion as adoption of de…",
-              "url": "https://www.globenewswire.com/news-release/2026/07/01/3320319/0/en/EchoYield-Secures-2-2-Million-Series-A-Funding-as-Total-Value-Locked-Surpasses-130-Million.html",
-              "source": "GlobeNewswire",
-              "published": "2026-07-01T05:13:00Z",
-              "image": "https://ml.globenewswire.com/Resource/Download/cca17dc3-a28a-4390-b889-8caee0f6f1d3"
-            },
-            {
-              "title": "Visa, Stripe and 140 others back new Open USD stablecoin to challenge Tether",
-              "description": "A consortium of more than 140 financial, payments and technology companies, including Visa Inc., Stripe Inc. and BlackRock Inc. is backing a new stablecoin called Open USD, taking direct aim at the market leaders Tether and Circle Internet Group Inc. The toke…",
-              "url": "https://siliconangle.com/2026/06/30/visa-stripe-140-others-back-new-open-usd-stablecoin-challenge-tether/",
-              "source": "SiliconANGLE News",
-              "published": "2026-06-30T22:47:05Z",
-              "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/06/openusd.png"
-            },
-            {
-              "title": "Trump’s Financial Disclosure: Major Crypto Moves Made Him Over $1 Billion In 2025",
-              "description": "The report shows over a billion dollars in cryptocurrency earnings from his digital asset businesses.",
-              "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/06/30/trumps-financial-disclosure-major-crypto-moves-made-him-over-1-billion-in-2025/",
-              "source": "Forbes",
-              "published": "2026-06-30T22:11:29Z",
-              "image": "https://imageio.forbes.com/specials-images/imageserve/6a443ea8a7696b48d42f8b2f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-            },
-            {
-              "title": "Open USD Just Turned the Stablecoin Race Into an Ecosystem Battle",
-              "description": "The formula for stablecoin success was, at least until Tuesday (June 30), a relatively simple one. Whoever controlled issuance of the largest digital asset by market cap controlled the network. Reserve income accumulated to the issuer, distribution flowed thr…",
-              "url": "https://www.pymnts.com/cryptocurrency/2026/open-usd-just-turned-the-stablecoin-race-into-an-ecosystem-battle/",
-              "source": "pymnts.com",
-              "published": "2026-06-30T20:54:24Z",
-              "image": "https://www.pymnts.com/wp-content/uploads/2026/06/Open-USD-1-tighter-1.jpg"
-            },
-            {
-              "title": "Stripe, Visa and over 140 other businesses to launch stablecoin to rival Tether and Circle",
-              "description": "Other big-name participants include BlackRock, American Express, and Google.",
-              "url": "https://fortune.com/2026/06/30/stripe-visa-stablecoin-rival-ousd-tether-circle/",
-              "source": "Fortune",
-              "published": "2026-06-30T16:50:28Z",
-              "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-2204555924-e1782837584984.jpg?resize=1200,600"
             }
           ]
         }
