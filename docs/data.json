@@ -1,5 +1,5 @@
 {
-  "date": "July 04, 2026",
+  "date": "July 05, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -39,14 +39,6 @@
           "image": "https://biztoc.com/cdn/40768b7b4f9c4a43_s.webp"
         },
         {
-          "title": "StarkWare unveils Starknet quantum roadmap, says industry has no excuse",
-          "description": "StarkWare's CEO outlined a phased plan to quantum-proof the Starknet network, calling on other blockchain networks to act now.",
-          "url": "https://cointelegraph.com/news/starkware-ceo-blasts-crypto-complacency-in-quantum-threat-elliptic-illusion",
-          "source": "Cointelegraph",
-          "published": "2026-06-30T12:30:00Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-cryptocurrency-vs-quantum-computing-1.jpg"
-        },
-        {
           "title": "Multi-tenant LLM analytics with row-level security: How we built a secure agent on AWS",
           "description": "In this post, we show you how PAR built a production-ready multi-tenant LLM analytics system that enforces row-level security through a three-layer architecture: cryptographic request signing with AWS SigV4, semantic validation on Amazon Bedrock, and programm…",
           "url": "https://aws.amazon.com/blogs/machine-learning/multi-tenant-llm-analytics-with-row-level-security-how-we-built-a-secure-agent-on-aws/",
@@ -61,14 +53,6 @@
           "source": "Crypto Briefing",
           "published": "2026-06-29T10:10:52Z",
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/29061050/brussels-belgium-berlaymont-building-the-european-commission-13-800x420.jpeg"
-        },
-        {
-          "title": "Charles Hoskinson Explores Zero-Knowledge Wallet Recovery to Remove Seed Phrase Risks",
-          "description": "Charles Hoskinson Explores Zero-Knowledge Wallet Recovery to Remove Seed Phrase Risks: a fresh look at Cardano ZK wallet recovery, market context, key risk",
-          "url": "http://www.newsbtc.com/news/charles-hoskinson-explores-zero-knowledge-wallet-recovery-to-remove-seed-phrase/",
-          "source": "newsBTC",
-          "published": "2026-06-27T13:00:00Z",
-          "image": null
         }
       ]
     },
@@ -109,68 +93,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "TRON Sets Transaction and Active Address Records Driven by Stablecoin Settlements",
-          "description": "TRON Sets Transaction and Active Address Records Driven by Stablecoin Settlements — what the latest source material shows and why it matters for crypto...",
-          "url": "https://bitcoinist.com/tron-sets-transaction-and-active-address-records-driven-by-stablecoin/",
-          "source": "Bitcoinist",
-          "published": "2026-07-03T08:05:00Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/05/stablecoins.jpg"
+          "title": "Franklin Templeton Closes 250 Digital Deal, Launches Institutional Crypto Division",
+          "description": "Franklin Templeton has completed its acquisition of 250 Digital. Franklin Templeton has completed its acquisition of 250 Digital, the crypto investment firm spun out of CoinFund in January 2026, and used the closing to launch a new institutional business line…",
+          "url": "https://www.activistpost.com/franklin-templeton-closes-250-digital-deal-launches-institutional-crypto-division/",
+          "source": "Activistpost.com",
+          "published": "2026-07-03T20:00:34Z",
+          "image": "https://www.activistpost.com/wp-content/uploads/2026/06/Franklin-Templeton-to-Acquire-CoinFund-Spinoff-for-Institutional-Crypto-Push-WSJ-1024x576-1.webp"
         },
         {
-          "title": "Institutional Bitcoin Adoption Explained: How Blackrock, Fidelity and Others Embraced BTC",
-          "description": "Institutional adoption is when organizations such as asset managers, corporations, hedge funds, banks, pension funds, and insurers get involved in crypto. This can mean investing in bitcoin directly or building products and services around it. The trend accel…",
-          "url": "https://biztoc.com/x/7cb36235dfb8d5d7",
-          "source": "Biztoc.com",
-          "published": "2026-07-03T06:36:33Z",
-          "image": "https://biztoc.com/cdn/7cb36235dfb8d5d7_s.webp"
-        },
-        {
-          "title": "CoinEx Research | June 2026 Crypto Market Monthly Insight: Macro Headwinds Drive Market Repricing as Institutional Allocation Enters a New Phase",
-          "description": "HONG KONG, July 03, 2026 (GLOBE NEWSWIRE) -- June marked the most significant macro-driven correction in the cryptocurrency market so far this year. Major digital assets, including Bitcoin and Ethereum, came under broad selling pressure as spot Bitcoin ETFs r…",
-          "url": "https://www.globenewswire.com/news-release/2026/07/03/3321656/0/en/CoinEx-Research-June-2026-Crypto-Market-Monthly-Insight-Macro-Headwinds-Drive-Market-Repricing-as-Institutional-Allocation-Enters-a-New-Phase.html",
-          "source": "GlobeNewswire",
-          "published": "2026-07-03T06:17:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/5b657ad6-235b-465b-9caf-f81d6fb0bb97"
-        },
-        {
-          "title": "What Payward’s Reap Purchase Says About B2B Stablecoin Cards",
-          "description": "In a winner-take-most market, firms typically want to be the ones winning and taking the most. Stable coins are shaping up to be exactly that kind of market. On Wednesday (July 1), Payward, the parent company behind the crypto platform Kraken, completed its a…",
-          "url": "https://www.pymnts.com/news/b2b-payments/2026/payward-reap-purchase-b2b-stablecoin-cards/",
-          "source": "pymnts.com",
-          "published": "2026-07-02T22:58:10Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2025/10/stablecoin-payments.jpg"
-        },
-        {
-          "title": "Kraken’s $600 Million Reap Deal Makes Corporate Cards a Battleground",
-          "description": "In a winner-take-most market, firms typically want to be the ones winning and taking the most. Stable coins are shaping up to be exactly that kind of market. On Wednesday (July 1), Payward, the parent company behind the crypto platform Kraken, completed its a…",
-          "url": "https://www.pymnts.com/news/b2b-payments/2026/krakens-600-million-reap-deal-makes-corporate-cards-a-battleground/",
-          "source": "pymnts.com",
-          "published": "2026-07-02T22:58:10Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2025/10/stablecoin-payments.jpg"
-        },
-        {
-          "title": "Analysts Debunk Rumors of BlackRock Launching Altcoin Rescue Fund for XRP, Solana",
-          "description": "Analysts Debunk Rumors of BlackRock Launching Altcoin Rescue Fund for XRP, Solana — what the latest source material shows and why it matters for crypto...",
-          "url": "https://bitcoinist.com/analysts-debunk-rumors-of-blackrock-launching-altcoin-rescue-fund-for-xrp-solana/",
-          "source": "Bitcoinist",
-          "published": "2026-07-02T22:20:00Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/06/luna_test_featured_image_1781085691683.jpg"
-        },
-        {
-          "title": "MiCA Rollout Shows Limited Impact On Dominance, Kaiko Analysis Reports",
-          "description": "MiCA Rollout Shows Limited Impact On Dominance, Kaiko Analysis Reports — what the latest source material shows and why it matters for crypto markets.",
-          "url": "http://www.newsbtc.com/news/mica-rollout-shows-limited-impact-on-dominance-kaiko-analysis-reports/",
-          "source": "newsBTC",
-          "published": "2026-07-02T20:00:00Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2023/06/stocks-897x598-1.jpg?fit=897%2C598"
-        },
-        {
-          "title": "IMF says tokenization could transform settlement and financial stability",
-          "description": "The global lender says blockchain-based finance could streamline markets but warns that fragmented standards and regulations may create new systemic risks.",
-          "url": "https://cointelegraph.com/news/imf-tokenization-financial-markets-settlement-risks",
+          "title": "US senator calls for ban on elected officials issuing memecoins",
+          "description": "After participating in negotiations that removed certain ethics provisions from a stablecoin bill in 2025, Senator Kirsten Gillibrand proposed restrictions on elected officials and their spouses regarding memecoins.",
+          "url": "https://cointelegraph.com/news/us-senator-ban-elected-officials-memecoins",
           "source": "Cointelegraph",
-          "published": "2026-07-02T19:17:32Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-imf-and-blockchain.jpg"
+          "published": "2026-07-03T19:26:21Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/trump-memecoin-1.jpg"
+        },
+        {
+          "title": "SEC Market Statistics Show Stronger IPO Activity In Q2 2026",
+          "description": "The SEC’s Q2 market statistics showed stronger IPO activity, a backdrop that could matter for crypto companies eyeing public markets.",
+          "url": "https://bitcoinist.com/sec-market-statistics-show-stronger-ipo-activity-in-q2-2026/",
+          "source": "Bitcoinist",
+          "published": "2026-07-03T16:50:00Z",
+          "image": "https://bitcoinist.com/wp-content/uploads/2026/06/bitcoinist_sec_tokenized_stocks_clean.jpg"
+        },
+        {
+          "title": "The fight over the UK’s digital pound has become a battle over crypto’s political influence",
+          "description": "The standards request pushes the CBDC debate toward disclosure, political money, and who gets access while payment rules are still open.\nThe post The fight over the UK’s digital pound has become a battle over crypto’s political influence appeared first on Cry…",
+          "url": "https://cryptoslate.com/the-fight-over-the-uks-digital-pound-has-become-a-battle-over-cryptos-political-influence/",
+          "source": "CryptoSlate",
+          "published": "2026-07-03T16:44:59Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/07/farage-digital-pound-complaint-bank-of-england-donor-influence-test.jpg"
+        },
+        {
+          "title": "Ethereum Foundation Guide Targets Government And Institutional Blockchain Use",
+          "description": "The Ethereum Foundation published a guide aimed at government and institutional use of Ethereum infrastructure.",
+          "url": "http://www.newsbtc.com/news/ethereum-foundation-guide-targets-government-and-institutional-blockchain-use/",
+          "source": "newsBTC",
+          "published": "2026-07-03T13:29:00Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2022/12/maxim-hopman-fiXLQXAhCfk-unsplash-3-scaled.jpg?fit=2560%2C1707"
+        },
+        {
+          "title": "What Is USDG? Everything You Need to Know About the Fast-Growing Stablecoin in 2026",
+          "description": "USDG is a US dollar-pegged stablecoin issued by Paxos, created for use in payments, trading, and on-chain settlement. It has a 1:1 value with the...\nThe post What Is USDG? Everything You Need to Know About the Fast-Growing Stablecoin in 2026 appeared first on…",
+          "url": "https://bitcoinfoundation.org/news/stablecoin-news/what-is-usdg-everything-you-need-to-know-about-the-stablecoin/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-07-03T10:59:15Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/1-1783075522.webp"
+        },
+        {
+          "title": "India's central bank revives push to isolate banks from crypto: Report",
+          "description": "The Indian central bank reportedly urged lawmakers to keep banks insulated from crypto and private stablecoins while preserving room for regulated tokenization.",
+          "url": "https://cointelegraph.com/news/rbi-crypto-containment-india-policy-report",
+          "source": "Cointelegraph",
+          "published": "2026-07-03T09:26:00Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-india-appears-to-be-pivoting-away-form-a-total-crypto-ban-as-the-number-of-users-grows-steadily.jpg"
+        },
+        {
+          "title": "Tokenization could make finance faster, but also more susceptible to shocks, IMF says",
+          "description": "Tokenization could make finance faster, but also more susceptible to shocks, IMF says\nTokenization could make finance faster and cheaper. It also makes it more vulnerable to sudden shocks, the International Monetary Fund said.\n- Tokenization represents assets…",
+          "url": "https://biztoc.com/x/2854c6b9c07d5dd0",
+          "source": "Biztoc.com",
+          "published": "2026-07-03T09:24:25Z",
+          "image": "https://biztoc.com/cdn/2854c6b9c07d5dd0_s.webp"
         }
       ]
     },
@@ -179,6 +163,38 @@
       "icon": "🏥",
       "color": "#00cc88",
       "articles": [
+        {
+          "title": "Weekly Wrap: Crypto Recovers To Start Third Quarter",
+          "description": "Cryptocurrencies are tentatively recovering to begin the year’s third quarter. On July 3, Bitcoin (CRYPTO: $B...",
+          "url": "https://www.cryptoprowl.com/releases/weekly-wrap-crypto-recovers-to-start-third-quarter-6067",
+          "source": "Cryptoprowl.com",
+          "published": "2026-07-03T23:06:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/35CDCA45EA175D93E14AB049A4A1775F5FBC9D470E704AC34527F925AA2D7351/subgraphmysterio/resizefill_w1200_h720;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F5117fcd560f778bae09043088b6d1377"
+        },
+        {
+          "title": "SOL rallies as Solana memecoins, prediction market activity surge: Are bulls back?",
+          "description": "SOL rebounded above $83 as traders shifted their attention to Solana protocols, but a cooling funding rate could mark the end of the rally.",
+          "url": "https://cointelegraph.com/markets/sol-rallies-as-solana-memecoins-prediction-market-activity-surge-are-bulls-back",
+          "source": "Cointelegraph",
+          "published": "2026-07-03T21:36:02Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-pension-funds-are-opening-up-to-investing-into-crypto-solana.jpg"
+        },
+        {
+          "title": "While Hyperliquid Faces a Brutal Unlock & Chainlink Whales Pile In, BlockDAG Exchange Goes Live: $1,000 Credit, 14-Day Countdown",
+          "description": "BlockDAG X exchange pre-registration is live, offering $1,000 trading credit and early buyback access. Learn how BlockDAG compares to Hyperliquid and Chain\n\nRead More: https://punchng.com/while-hyperliquid-faces-a-brutal-unlock-chainlink-whales-pile-in-blockd…",
+          "url": "https://punchng.com/while-hyperliquid-faces-a-brutal-unlock-chainlink-whales-pile-in-blockdag-exchange-goes-live-1000-credit-14-day-countdown/",
+          "source": "The Punch",
+          "published": "2026-07-03T19:26:14Z",
+          "image": "https://punchng.com/wp-content/uploads/2026/07/live_1783106861.webp"
+        },
+        {
+          "title": "EX DeFi Launches New AI and Web3 Mobile App, Enabling Everyone to Earn ETH and XRP",
+          "description": "NEW YORK, July 03, 2026 (GLOBE NEWSWIRE) -- EX DeFi today launched its new AI and Web3 mobile app, enabling users around the world to easily earn ETH, XRP, and other digital assets through a simple, accessible smartphone platform that brings professional-grad…",
+          "url": "https://www.globenewswire.com/news-release/2026/07/03/3321947/0/en/EX-DeFi-Launches-New-AI-and-Web3-Mobile-App-Enabling-Everyone-to-Earn-ETH-and-XRP.html",
+          "source": "GlobeNewswire",
+          "published": "2026-07-03T16:44:00Z",
+          "image": "https://ml.globenewswire.com/Resource/Download/30172231-87d6-419f-afcc-258ab0d9b7f3"
+        },
         {
           "title": "Failed blockchain project ends with big fine for fibs about it being on track",
           "description": "A final humiliation for Australia’s Securities Exchange and its attempts to run a bourse on distributed ledgers",
@@ -210,38 +226,6 @@
           "source": "PRNewswire",
           "published": "2026-07-02T12:16:00Z",
           "image": "https://mma.prnewswire.com/media/3003363/image1.jpg?p=facebook"
-        },
-        {
-          "title": "Healthcare Procurement Business Process Outsourcing (BPO) Global Market Report 2026",
-          "description": "Key market opportunities in healthcare procurement BPO include the increasing adoption of digital tools and automation, demand for cost-effective supply chain solutions, and the need for compliance and risk reduction. Emphasis on sustainability, AI, cloud-bas…",
-          "url": "https://www.globenewswire.com/news-release/2026/07/02/3321178/28124/en/Healthcare-Procurement-Business-Process-Outsourcing-BPO-Global-Market-Report-2026.html",
-          "source": "GlobeNewswire",
-          "published": "2026-07-02T09:25:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/5190a810-120a-41cc-89e6-87884252785a"
-        },
-        {
-          "title": "Valle Capital Token Launches Real World Asset and Agribusiness Ecosystem",
-          "description": "Valle Capital Token (“VCT”) has announced the development and expansion of its blockchain-powered ecosystem designed to connect global digital capital with Brazilian agribusiness operations and international commodity exports. Built on BNB Smart Chain, VCT co…",
-          "url": "https://zycrypto.com/valle-capital-token-launches-real-world-asset-and-agribusiness-ecosystem/",
-          "source": "ZyCrypto",
-          "published": "2026-07-01T20:42:25Z",
-          "image": "https://zycrypto.com/wp-content/uploads/2026/07/unnamed-79.jpg"
-        },
-        {
-          "title": "Valle Capital Token Launches RWA and Agribusiness Ecosystem",
-          "description": "Tortola, British Virgin Islands, 1st July 2026, Chainwire\nThe post Valle Capital Token Launches RWA and Agribusiness Ecosystem appeared first on The Daily Hodl.",
-          "url": "https://dailyhodl.com/2026/07/01/valle-capital-token-launches-rwa-and-agribusiness-ecosystem/",
-          "source": "The Daily Hodl",
-          "published": "2026-07-01T19:10:27Z",
-          "image": "https://dailyhodl.com/wp-content/uploads/2026/07/VALLE_TOKEN_BANNER_17829275587ejn0EHxrm.jpg?resize=1200,720"
-        },
-        {
-          "title": "ShinWon Bets On Blockchain for Supply Chain Transparency",
-          "description": "ShinWon Corp. wants more transparency across all parts of its value chain.",
-          "url": "http://wwd.com/sourcing-journal/trade/shinwon-korea-supply-chain-transparency-blockchain-technology-dpp-1239048407/",
-          "source": "WWD",
-          "published": "2026-06-30T20:24:05Z",
-          "image": "https://wwd.com/wp-content/uploads/2026/06/GettyImages-2267523330.jpg?w=1000&h=563&crop=1"
         }
       ]
     },
@@ -255,12 +239,20 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Crypto should not be legalised in India: RBI tells Parliamentary Panel",
-              "description": "The Reserve Bank of India on Thursday told a parliamentary panel that virtual digital assets like cryptocurrency are a threat to an emerging economy like India and such assets should not be legalised in the country.",
-              "url": "https://www.thehindubusinessline.com/money-and-banking/crypto-should-not-be-legalised-in-india-rbi-tells-parliamentary-panel/article71177177.ece",
-              "source": "BusinessLine",
-              "published": "2026-07-03T02:39:24Z",
-              "image": "https://bl-i.thgim.com/public/incoming/yjn43p/article71177192.ece/alternates/LANDSCAPE_1200/2026-06-24T121548Z_514439382_RC25GJA5B9BF_RTRMADP_3_INDIA-BANKS-AI.JPG"
+              "title": "Soatok's Informal Guide to Threat Models",
+              "description": "After a long day of exhausting conversations about Hybrid Post-Quantum Cryptography, random jackasses trying to play gotcha with endpoint attacks against end-to-end encrypted messaging apps, and me…",
+              "url": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/",
+              "source": "Soatok.blog",
+              "published": "2026-07-04T00:35:49Z",
+              "image": "https://i0.wp.com/soatok.blog/wp-content/uploads/2026/06/BlogHeader-2026-ThreatModel-Guide.png?fit=1200%2C675&ssl=1"
+            },
+            {
+              "title": "Stellarch – A provably fair trading-card game on Hive blockchain",
+              "description": "A provably fair trading-card game on Hive blockchain",
+              "url": "https://betalist.com/startups/stellarch",
+              "source": "Betalist.com",
+              "published": "2026-07-04T00:00:00Z",
+              "image": "https://resize.imagekit.co/o5MDc4FABqowlFuOAhd-wjmL-cNBssiL3K3Bpw9aRNk/plain/s3://betalist-production/q3k60p1s4ggly3iubex3gnv3b4bp"
             },
             {
               "title": "Ethereum Institutional launch draws support from across the Ethereum ecosystem",
@@ -277,12 +269,12 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "Caliber Advances Real Estate Fund Tokenization Strategy with Chainlink’s Compliance and Distribution Infrastructure",
-              "description": "Nasdaq-listed real estate asset manager focuses on the “last mile” of tokenization: making private real estate funds easier to access, verify, administer, and distribute through regulated channels, enabled by Chainlink’s oracle platform Nasdaq-listed real est…",
-              "url": "https://www.globenewswire.com/news-release/2026/07/02/3321236/0/en/Caliber-Advances-Real-Estate-Fund-Tokenization-Strategy-with-Chainlink-s-Compliance-and-Distribution-Infrastructure.html",
-              "source": "GlobeNewswire",
-              "published": "2026-07-02T11:15:00Z",
-              "image": "https://ml.globenewswire.com/Resource/Download/338edb26-153e-4b48-95eb-2738303fb4c7"
+              "title": "North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets",
+              "description": "Threat actors with ties to North Korea have been linked to a fresh set of malicious npm packages that masquerade as Rollup polyfill tooling to facilitate remote access and data theft.\n\nAccording to JFrog, the packages \"rollup-packages-polyfill-core\" and \"roll…",
+              "url": "https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html",
+              "source": "Internet",
+              "published": "2026-07-03T16:07:15Z",
+              "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4otDF6_5qt7ZmrCLMXmx7sFXfY6RGHHI0BiGRcVkTqLo-l1VokprcvB7FhK5fJdL0j8Ds95uLQxiWKt2YYFV1N9K8WIL3lfONey4wBln2Vee4YTI_9z5_t-2VT1bZ17sEomQdONnVWEB3sc9lj13AJwdhbmn6CNlfx9Lwc7UNxg2C87xKFZPz5UL4lHJE/s1700-e365/npms-malware.jpg"
             }
           ]
         }
