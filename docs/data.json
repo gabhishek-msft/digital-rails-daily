@@ -1,5 +1,5 @@
 {
-  "date": "July 05, 2026",
+  "date": "July 06, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -93,28 +93,52 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Franklin Templeton Closes 250 Digital Deal, Launches Institutional Crypto Division",
-          "description": "Franklin Templeton has completed its acquisition of 250 Digital. Franklin Templeton has completed its acquisition of 250 Digital, the crypto investment firm spun out of CoinFund in January 2026, and used the closing to launch a new institutional business line…",
-          "url": "https://www.activistpost.com/franklin-templeton-closes-250-digital-deal-launches-institutional-crypto-division/",
-          "source": "Activistpost.com",
-          "published": "2026-07-03T20:00:34Z",
-          "image": "https://www.activistpost.com/wp-content/uploads/2026/06/Franklin-Templeton-to-Acquire-CoinFund-Spinoff-for-Institutional-Crypto-Push-WSJ-1024x576-1.webp"
+          "title": "JPMorgan Warns Strategy’s Bitcoin Sales Add “Two-Way Risk” — What Does It Mean for the Crypto Market?",
+          "description": "JPMorgan’s latest warning about Strategy has significantly impacted the perception of one of the largest institutional buyers of Bitcoin. Unlike before, when the crypto company...\nThe post JPMorgan Warns Strategy’s Bitcoin Sales Add “Two-Way Risk” — What Does…",
+          "url": "https://bitcoinfoundation.org/news/bitcoin/jpmorgan-warns-strategys-bitcoin-sales-add-two-way-risk-what-does-it-mean-for-the-crypto-market/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-07-05T07:16:21Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/Strategy1.webp"
         },
         {
-          "title": "US senator calls for ban on elected officials issuing memecoins",
-          "description": "After participating in negotiations that removed certain ethics provisions from a stablecoin bill in 2025, Senator Kirsten Gillibrand proposed restrictions on elected officials and their spouses regarding memecoins.",
-          "url": "https://cointelegraph.com/news/us-senator-ban-elected-officials-memecoins",
-          "source": "Cointelegraph",
-          "published": "2026-07-03T19:26:21Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/trump-memecoin-1.jpg"
+          "title": "Why bitcoin's disconnect from record-high stocks won't last",
+          "description": "Researchers at Schwab and Hashdex said AI has diverted capital from digital assets while bitcoin continues to follow a familiar post-halving recovery pattern.",
+          "url": "https://www.coindesk.com/markets/2026/07/03/why-bitcoin-s-disconnect-from-record-high-stocks-won-t-last",
+          "source": "CoinDesk",
+          "published": "2026-07-04T16:00:00Z",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/7a39a5a5c2bfa63c4f773a6ab3f70e9634da4f5e-6960x4640.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
         },
         {
-          "title": "SEC Market Statistics Show Stronger IPO Activity In Q2 2026",
-          "description": "The SEC’s Q2 market statistics showed stronger IPO activity, a backdrop that could matter for crypto companies eyeing public markets.",
-          "url": "https://bitcoinist.com/sec-market-statistics-show-stronger-ipo-activity-in-q2-2026/",
-          "source": "Bitcoinist",
-          "published": "2026-07-03T16:50:00Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/06/bitcoinist_sec_tokenized_stocks_clean.jpg"
+          "title": "A New Stablecoin Is Taking Aim at Circle's USDC. Here's What Investors Need to Know.",
+          "description": null,
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d6de1ed4-6114-4329-ac35-25d2c9c8a30b",
+          "source": "Yahoo Entertainment",
+          "published": "2026-07-04T15:11:00Z",
+          "image": null
+        },
+        {
+          "title": "Germany’s most conservative banks are about to let millions of customers buy Bitcoin",
+          "description": "Germany’s cooperative banks and savings banks, the local institutions that handle mortgages, current accounts, and small business loans for tens of millions of customers, are rolling out their own cryptocurrency trading services. The move will bring digital a…",
+          "url": "https://thenextweb.com/news/germany-cooperative-savings-banks-crypto-trading/",
+          "source": "The Next Web",
+          "published": "2026-07-04T14:10:41Z",
+          "image": "https://media.thenextweb.com/2026/06/Germany-Flag.avif"
+        },
+        {
+          "title": "Europe led on crypto regulation. Now implementation must match ambition",
+          "description": "Europe has done something important. With MiCA, the EU created the world’s first comprehensive regulatory framework for crypto-assets. That is a significant achievement, not only for the digital asset industry, but for Europe’s wider ambition to lead in respo…",
+          "url": "https://biztoc.com/x/0d5b3e9cd2b2b1cb",
+          "source": "Biztoc.com",
+          "published": "2026-07-04T14:06:58Z",
+          "image": "https://biztoc.com/cdn/0d5b3e9cd2b2b1cb_s.webp"
+        },
+        {
+          "title": "Crypto wanted to replace Wall Street – Instead, Wall Street took over crypto",
+          "description": "Crypto was founded on a simple premise: people should be able to send, hold, and manage money without going through a bank. Fifteen years later, some of the industry's most significant developments involve banks doing that, on blockchains, for their own insti…",
+          "url": "https://cryptoslate.com/?p=545421",
+          "source": "CryptoSlate",
+          "published": "2026-07-04T11:30:56Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/07/wall-street-shark-swallows-crypto.jpg"
         },
         {
           "title": "The fight over the UK’s digital pound has become a battle over crypto’s political influence",
@@ -131,30 +155,6 @@
           "source": "newsBTC",
           "published": "2026-07-03T13:29:00Z",
           "image": "https://www.newsbtc.com/wp-content/uploads/2022/12/maxim-hopman-fiXLQXAhCfk-unsplash-3-scaled.jpg?fit=2560%2C1707"
-        },
-        {
-          "title": "What Is USDG? Everything You Need to Know About the Fast-Growing Stablecoin in 2026",
-          "description": "USDG is a US dollar-pegged stablecoin issued by Paxos, created for use in payments, trading, and on-chain settlement. It has a 1:1 value with the...\nThe post What Is USDG? Everything You Need to Know About the Fast-Growing Stablecoin in 2026 appeared first on…",
-          "url": "https://bitcoinfoundation.org/news/stablecoin-news/what-is-usdg-everything-you-need-to-know-about-the-stablecoin/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-07-03T10:59:15Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/1-1783075522.webp"
-        },
-        {
-          "title": "India's central bank revives push to isolate banks from crypto: Report",
-          "description": "The Indian central bank reportedly urged lawmakers to keep banks insulated from crypto and private stablecoins while preserving room for regulated tokenization.",
-          "url": "https://cointelegraph.com/news/rbi-crypto-containment-india-policy-report",
-          "source": "Cointelegraph",
-          "published": "2026-07-03T09:26:00Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-india-appears-to-be-pivoting-away-form-a-total-crypto-ban-as-the-number-of-users-grows-steadily.jpg"
-        },
-        {
-          "title": "Tokenization could make finance faster, but also more susceptible to shocks, IMF says",
-          "description": "Tokenization could make finance faster, but also more susceptible to shocks, IMF says\nTokenization could make finance faster and cheaper. It also makes it more vulnerable to sudden shocks, the International Monetary Fund said.\n- Tokenization represents assets…",
-          "url": "https://biztoc.com/x/2854c6b9c07d5dd0",
-          "source": "Biztoc.com",
-          "published": "2026-07-03T09:24:25Z",
-          "image": "https://biztoc.com/cdn/2854c6b9c07d5dd0_s.webp"
         }
       ]
     },
@@ -164,36 +164,36 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Weekly Wrap: Crypto Recovers To Start Third Quarter",
-          "description": "Cryptocurrencies are tentatively recovering to begin the year’s third quarter. On July 3, Bitcoin (CRYPTO: $B...",
-          "url": "https://www.cryptoprowl.com/releases/weekly-wrap-crypto-recovers-to-start-third-quarter-6067",
-          "source": "Cryptoprowl.com",
-          "published": "2026-07-03T23:06:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/35CDCA45EA175D93E14AB049A4A1775F5FBC9D470E704AC34527F925AA2D7351/subgraphmysterio/resizefill_w1200_h720;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F5117fcd560f778bae09043088b6d1377"
-        },
-        {
-          "title": "SOL rallies as Solana memecoins, prediction market activity surge: Are bulls back?",
-          "description": "SOL rebounded above $83 as traders shifted their attention to Solana protocols, but a cooling funding rate could mark the end of the rally.",
-          "url": "https://cointelegraph.com/markets/sol-rallies-as-solana-memecoins-prediction-market-activity-surge-are-bulls-back",
+          "title": "Vitalik Buterin shares top priorities for new 'Lean Ethereum' strawmap",
+          "description": "Ethereum co-founder Vitalik Buterin said the new “Lean Ethereum” strawmap is focused on making the network quantum-resistant and improving Ethereum’s scalability and privacy.",
+          "url": "https://cointelegraph.com/news/vitalik-buterin-shares-top-priorities-for-new-lean-ethereum-roadmap",
           "source": "Cointelegraph",
-          "published": "2026-07-03T21:36:02Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-pension-funds-are-opening-up-to-investing-into-crypto-solana.jpg"
+          "published": "2026-07-05T03:50:36Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-formal-verification-and-why-does-vitalik-think-ai-can-help.jpg"
         },
         {
-          "title": "While Hyperliquid Faces a Brutal Unlock & Chainlink Whales Pile In, BlockDAG Exchange Goes Live: $1,000 Credit, 14-Day Countdown",
-          "description": "BlockDAG X exchange pre-registration is live, offering $1,000 trading credit and early buyback access. Learn how BlockDAG compares to Hyperliquid and Chain\n\nRead More: https://punchng.com/while-hyperliquid-faces-a-brutal-unlock-chainlink-whales-pile-in-blockd…",
-          "url": "https://punchng.com/while-hyperliquid-faces-a-brutal-unlock-chainlink-whales-pile-in-blockdag-exchange-goes-live-1000-credit-14-day-countdown/",
-          "source": "The Punch",
-          "published": "2026-07-03T19:26:14Z",
-          "image": "https://punchng.com/wp-content/uploads/2026/07/live_1783106861.webp"
+          "title": "Tokenization's next use case is personalized portfolios, NYLIM executive says",
+          "description": "Thomas Sy, head of multi-asset solutions at the $800-million asset manager, says blockchain can enable complex portfolio construction that's not yet possible in traditional finance.",
+          "url": "https://www.coindesk.com/business/2026/07/02/tokenization-s-next-use-case-is-personalized-portfolios-nylim-executive-says",
+          "source": "CoinDesk",
+          "published": "2026-07-04T20:00:00Z",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/8082bae2b57a9811078afac63d9be93264695df1-1035x818.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
         },
         {
-          "title": "EX DeFi Launches New AI and Web3 Mobile App, Enabling Everyone to Earn ETH and XRP",
-          "description": "NEW YORK, July 03, 2026 (GLOBE NEWSWIRE) -- EX DeFi today launched its new AI and Web3 mobile app, enabling users around the world to easily earn ETH, XRP, and other digital assets through a simple, accessible smartphone platform that brings professional-grad…",
-          "url": "https://www.globenewswire.com/news-release/2026/07/03/3321947/0/en/EX-DeFi-Launches-New-AI-and-Web3-Mobile-App-Enabling-Everyone-to-Earn-ETH-and-XRP.html",
-          "source": "GlobeNewswire",
-          "published": "2026-07-03T16:44:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/30172231-87d6-419f-afcc-258ab0d9b7f3"
+          "title": "Kraken lets traders use tokenized stocks as collateral for leveraged trades",
+          "description": "Kraken now lets eligible users use tokenized stocks and ETFs as collateral for futures and margin trading without selling their holdings.",
+          "url": "https://cointelegraph.com/news/kraken-lets-traders-use-tokenized-stocks-as-collateral-for-leveraged-trades",
+          "source": "Cointelegraph",
+          "published": "2026-07-04T19:37:11Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-cover-imagereview-of-us-stocks.png"
+        },
+        {
+          "title": "Trump Crypto Windfall Turns Heads: How the 'Crypto President' Raked In $1.4 Billion",
+          "description": "President Trump’s crypto ventures have generated an estimated $1.4 billion in income last year, all the while most investors in Trump-affiliated crypto endea...",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/trump-crypto-windfall-turns-heads-123223466.html",
+          "source": "Yahoo Entertainment",
+          "published": "2026-07-04T12:32:23Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/407B486B039256888F57993118FE7A466C81B5B49CE7074449C27C3E25FD42ED/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2Fe01314a4b317381b5549b4ada6b7250e"
         },
         {
           "title": "Failed blockchain project ends with big fine for fibs about it being on track",
@@ -239,20 +239,20 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Soatok's Informal Guide to Threat Models",
-              "description": "After a long day of exhausting conversations about Hybrid Post-Quantum Cryptography, random jackasses trying to play gotcha with endpoint attacks against end-to-end encrypted messaging apps, and me…",
-              "url": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/",
-              "source": "Soatok.blog",
-              "published": "2026-07-04T00:35:49Z",
-              "image": "https://i0.wp.com/soatok.blog/wp-content/uploads/2026/06/BlogHeader-2026-ThreatModel-Guide.png?fit=1200%2C675&ssl=1"
+              "title": "Why Binance’s reported $2B Mesh investment could decide who controls stablecoin payments",
+              "description": "The signal is about who controls the wallet-to-merchant path that makes tokenized dollars spendable.\nThe post Why Binance’s reported $2B Mesh investment could decide who controls stablecoin payments appeared first on CryptoSlate.",
+              "url": "https://cryptoslate.com/binances-reported-mesh-round-puts-stablecoin-payment-routes-in-play/",
+              "source": "CryptoSlate",
+              "published": "2026-07-05T10:00:28Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/07/binance-mesh-stablecoin-payment-network-routing.jpg"
             },
             {
-              "title": "Stellarch – A provably fair trading-card game on Hive blockchain",
-              "description": "A provably fair trading-card game on Hive blockchain",
-              "url": "https://betalist.com/startups/stellarch",
-              "source": "Betalist.com",
-              "published": "2026-07-04T00:00:00Z",
-              "image": "https://resize.imagekit.co/o5MDc4FABqowlFuOAhd-wjmL-cNBssiL3K3Bpw9aRNk/plain/s3://betalist-production/q3k60p1s4ggly3iubex3gnv3b4bp"
+              "title": "The death of the crypto startup: RIP 2017 – 2026",
+              "description": "In 2017, a handful of developers with a whitepaper and a GitHub repository could launch a token or a crypto startup in a matter of days. Capital requirements were low, licensing was either non-existent or seen as an afterthought, and a compelling idea was usu…",
+              "url": "https://cryptoslate.com/the-death-of-the-crypto-startup-rip-2017-2026/",
+              "source": "CryptoSlate",
+              "published": "2026-07-05T08:30:25Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/07/death-of-crypto-startup-graveyard-regulation-2026.jpg"
             },
             {
               "title": "Ethereum Institutional launch draws support from across the Ethereum ecosystem",
@@ -267,16 +267,7 @@
         "hyperscalers": {
           "title": "Hyperscalers",
           "icon": "☁️",
-          "articles": [
-            {
-              "title": "North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets",
-              "description": "Threat actors with ties to North Korea have been linked to a fresh set of malicious npm packages that masquerade as Rollup polyfill tooling to facilitate remote access and data theft.\n\nAccording to JFrog, the packages \"rollup-packages-polyfill-core\" and \"roll…",
-              "url": "https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html",
-              "source": "Internet",
-              "published": "2026-07-03T16:07:15Z",
-              "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4otDF6_5qt7ZmrCLMXmx7sFXfY6RGHHI0BiGRcVkTqLo-l1VokprcvB7FhK5fJdL0j8Ds95uLQxiWKt2YYFV1N9K8WIL3lfONey4wBln2Vee4YTI_9z5_t-2VT1bZ17sEomQdONnVWEB3sc9lj13AJwdhbmn6CNlfx9Lwc7UNxg2C87xKFZPz5UL4lHJE/s1700-e365/npms-malware.jpg"
-            }
-          ]
+          "articles": []
         }
       }
     }
