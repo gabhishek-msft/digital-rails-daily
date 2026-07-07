@@ -1,11 +1,19 @@
 {
-  "date": "July 06, 2026",
+  "date": "July 07, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "eToro leads $12.5M strategic investment in Extended, partners with Zengo for on-chain futures",
+          "description": "eToro's strategic moves into on-chain futures and self-custodial wallets could reshape crypto trading, enhancing user control and market reach.\nThe post eToro leads $12.5M strategic investment in Extended, partners with Zengo for on-chain futures appeared fir…",
+          "url": "https://cryptobriefing.com/etoro-invests-extended-zengo-on-chain-futures/",
+          "source": "Crypto Briefing",
+          "published": "2026-07-03T10:47:52Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/03064744/etoro-review-markets-and-products-copy-trading-1-800x420.jpeg"
+        },
         {
           "title": "Governance AI study finds EU data protection rules delay 11% of LLM releases",
           "description": "EU's stringent data protection rules may hinder AI innovation, creating opportunities for privacy-preserving tech to gain a competitive edge.\nThe post Governance AI study finds EU data protection rules delay 11% of LLM releases appeared first on Crypto Briefi…",
@@ -37,22 +45,6 @@
           "source": "Biztoc.com",
           "published": "2026-06-30T12:31:22Z",
           "image": "https://biztoc.com/cdn/40768b7b4f9c4a43_s.webp"
-        },
-        {
-          "title": "Multi-tenant LLM analytics with row-level security: How we built a secure agent on AWS",
-          "description": "In this post, we show you how PAR built a production-ready multi-tenant LLM analytics system that enforces row-level security through a three-layer architecture: cryptographic request signing with AWS SigV4, semantic validation on Amazon Bedrock, and programm…",
-          "url": "https://aws.amazon.com/blogs/machine-learning/multi-tenant-llm-analytics-with-row-level-security-how-we-built-a-secure-agent-on-aws/",
-          "source": "Amazon.com",
-          "published": "2026-06-29T17:39:29Z",
-          "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/06/25/19651.png"
-        },
-        {
-          "title": "Google warns EU competition rules could compromise search data security",
-          "description": "EU's decision could reshape global data privacy norms, influencing tech innovation and boosting cryptographic solutions in Web3 sectors.\nThe post Google warns EU competition rules could compromise search data security appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/google-eu-competition-search-data-security/",
-          "source": "Crypto Briefing",
-          "published": "2026-06-29T10:10:52Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/29061050/brussels-belgium-berlaymont-building-the-european-commission-13-800x420.jpeg"
         }
       ]
     },
@@ -62,28 +54,20 @@
       "color": "#e6a200",
       "articles": [
         {
+          "title": "Ethereum prepares for biggest overhaul since The Merge, says Vitalik Buterin",
+          "description": "Ethereum's overhaul could enhance scalability, privacy, and security, potentially boosting network activity and ETH demand, but fee dynamics pose risks.\nThe post Ethereum prepares for biggest overhaul since The Merge, says Vitalik Buterin appeared first on Cr…",
+          "url": "https://cryptobriefing.com/ethereum-lean-roadmap-biggest-overhaul-since-merge/",
+          "source": "Crypto Briefing",
+          "published": "2026-07-06T08:14:18Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/06041411/https-upload-wikimedia-org-wikipedia-commons-1-1c-vitalik-bu-5-800x420.jpeg"
+        },
+        {
           "title": "Lighter integrates Robinhood Chain collateral for perpetual futures trading",
           "description": "The integration could significantly boost onchain derivatives trading volume, but regulatory and security challenges may impact its growth trajectory.\nThe post Lighter integrates Robinhood Chain collateral for perpetual futures trading appeared first on Crypt…",
           "url": "https://cryptobriefing.com/lighter-robinhood-chain-perpetual-trading/",
           "source": "Crypto Briefing",
           "published": "2026-07-02T16:25:14Z",
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/02122446/robinhood-strategies-1-800x420.jpeg"
-        },
-        {
-          "title": "Vitalik Buterin proposes obfuscation for near-trustless private on-chain voting",
-          "description": "Buterin's proposal could revolutionize on-chain governance by enhancing privacy, reducing bribery risks, and minimizing trust dependencies.\nThe post Vitalik Buterin proposes obfuscation for near-trustless private on-chain voting appeared first on Crypto Brief…",
-          "url": "https://cryptobriefing.com/buterin-obfuscation-private-on-chain-voting/",
-          "source": "Crypto Briefing",
-          "published": "2026-06-29T08:37:13Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/06/29043710/vitalik-buterin-gif-by-product-hunt.gif"
-        },
-        {
-          "title": "Pioneering zk-rollup Loopring closes DEX, citing lack of adoption",
-          "description": "“We lacked a virtual machine, no composability, no real‑world payment use cases. That limitation kept our ecosystem from growing,” said the team.",
-          "url": "https://cointelegraph.com/news/pioneering-zk-rollup-loopring-announces-dex-closure-citing-no-adoption",
-          "source": "Cointelegraph",
-          "published": "2026-06-29T03:15:38Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/layoffs-fired-human-resource-hr-leaving-quit-closing-breaking-news-1.jpg"
         }
       ]
     },
@@ -93,68 +77,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "JPMorgan Warns Strategy’s Bitcoin Sales Add “Two-Way Risk” — What Does It Mean for the Crypto Market?",
-          "description": "JPMorgan’s latest warning about Strategy has significantly impacted the perception of one of the largest institutional buyers of Bitcoin. Unlike before, when the crypto company...\nThe post JPMorgan Warns Strategy’s Bitcoin Sales Add “Two-Way Risk” — What Does…",
-          "url": "https://bitcoinfoundation.org/news/bitcoin/jpmorgan-warns-strategys-bitcoin-sales-add-two-way-risk-what-does-it-mean-for-the-crypto-market/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-07-05T07:16:21Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/Strategy1.webp"
+          "title": "The Project Crypto Scheme",
+          "description": "Forget deregulatory legislation; the SEC and CFTC are already working diligently to eliminate regulatory oversight of crypto at the behest of their president.\nThe post The Project Crypto Scheme appeared first on The American Prospect.",
+          "url": "http://prospect.org/2026/07/06/project-crypto-scheme/",
+          "source": "The American Prospect",
+          "published": "2026-07-06T09:15:00Z",
+          "image": "https://i0.wp.com/prospect.org/wp-content/uploads/2026/07/Davis-Diver-Project-Crypto.jpg?fit=2000%2C1333&ssl=1"
         },
         {
-          "title": "Why bitcoin's disconnect from record-high stocks won't last",
-          "description": "Researchers at Schwab and Hashdex said AI has diverted capital from digital assets while bitcoin continues to follow a familiar post-halving recovery pattern.",
-          "url": "https://www.coindesk.com/markets/2026/07/03/why-bitcoin-s-disconnect-from-record-high-stocks-won-t-last",
-          "source": "CoinDesk",
-          "published": "2026-07-04T16:00:00Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/7a39a5a5c2bfa63c4f773a6ab3f70e9634da4f5e-6960x4640.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
+          "title": "Nuvion Integrates Ripple USD (RLUSD) to Expand Global Stablecoin Payments and Blockchain Infrastructure",
+          "description": "MIAMI, July 6, 2026 /PRNewswire/ -- Businesses today operate in a world where customers, suppliers, contractors, and partners increasingly span multiple countries and currencies. Yet moving money across borders often remains slow, fragmented, and dependent on…",
+          "url": "https://www.prnewswire.com/news-releases/nuvion-integrates-ripple-usd-rlusd-to-expand-global-stablecoin-payments-and-blockchain-infrastructure-302817753.html",
+          "source": "PRNewswire",
+          "published": "2026-07-06T09:00:00Z",
+          "image": "https://mma.prnewswire.com/media/3003861/Nuvion_Ripple_Logo.jpg?p=facebook"
         },
         {
-          "title": "A New Stablecoin Is Taking Aim at Circle's USDC. Here's What Investors Need to Know.",
-          "description": null,
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d6de1ed4-6114-4329-ac35-25d2c9c8a30b",
-          "source": "Yahoo Entertainment",
-          "published": "2026-07-04T15:11:00Z",
-          "image": null
+          "title": "Europe Wants Its Own Digital Money Moment",
+          "description": "Watch more: How Stablecoins Are Reshaping Global Banking The same question can have both a strategic answer and a practical one. That’s something EU lawmakers are finding out in real time, after the European Parliament’s ECON Committee approved a plan by the …",
+          "url": "https://www.pymnts.com/news/payments-innovation/2026/europe-wants-its-own-digital-money-moment/",
+          "source": "pymnts.com",
+          "published": "2026-07-06T08:00:22Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/07/Europe-digital-money-overlay.png"
         },
         {
-          "title": "Germany’s most conservative banks are about to let millions of customers buy Bitcoin",
-          "description": "Germany’s cooperative banks and savings banks, the local institutions that handle mortgages, current accounts, and small business loans for tens of millions of customers, are rolling out their own cryptocurrency trading services. The move will bring digital a…",
-          "url": "https://thenextweb.com/news/germany-cooperative-savings-banks-crypto-trading/",
-          "source": "The Next Web",
-          "published": "2026-07-04T14:10:41Z",
-          "image": "https://media.thenextweb.com/2026/06/Germany-Flag.avif"
+          "title": "Toobit Earn Offers Limited 60% APR on TRX",
+          "description": "GEORGE TOWN, Cayman Islands, July 06, 2026 (GLOBE NEWSWIRE) -- Toobit, the award-winning global cryptocurrency exchange, today announces the launch of a high-yield Fixed Earn initiative for TRX, offering traders an annual percentage rate (APR) of 60%.",
+          "url": "https://www.globenewswire.com/news-release/2026/07/06/3322158/0/en/Toobit-Earn-Offers-Limited-60-APR-on-TRX.html",
+          "source": "GlobeNewswire",
+          "published": "2026-07-06T06:28:00Z",
+          "image": "https://ml.globenewswire.com/Resource/Download/9aa684d5-a3b9-4e8a-b52a-f018fd28bd60"
         },
         {
-          "title": "Europe led on crypto regulation. Now implementation must match ambition",
-          "description": "Europe has done something important. With MiCA, the EU created the world’s first comprehensive regulatory framework for crypto-assets. That is a significant achievement, not only for the digital asset industry, but for Europe’s wider ambition to lead in respo…",
-          "url": "https://biztoc.com/x/0d5b3e9cd2b2b1cb",
-          "source": "Biztoc.com",
-          "published": "2026-07-04T14:06:58Z",
-          "image": "https://biztoc.com/cdn/0d5b3e9cd2b2b1cb_s.webp"
+          "title": "Nigel Farage accepted gifts from crypto-linked fraudster: Report",
+          "description": "Reform UK leader Nigel Farage reportedly received staff, security and access to a central London house from George Cottrell, an aristocrat involved in a crypto casino.",
+          "url": "https://cointelegraph.com/news/nigel-farage-accepted-gifts-from-crypto-linked-fraudster-report",
+          "source": "Cointelegraph",
+          "published": "2026-07-06T06:02:55Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-uk-tightens-aml-laws-and-mentions-crypto-as-suspicious.jpg"
         },
         {
-          "title": "Crypto wanted to replace Wall Street – Instead, Wall Street took over crypto",
-          "description": "Crypto was founded on a simple premise: people should be able to send, hold, and manage money without going through a bank. Fifteen years later, some of the industry's most significant developments involve banks doing that, on blockchains, for their own insti…",
-          "url": "https://cryptoslate.com/?p=545421",
-          "source": "CryptoSlate",
-          "published": "2026-07-04T11:30:56Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/07/wall-street-shark-swallows-crypto.jpg"
+          "title": "Holding(s) in Company",
+          "description": "TR-1: Standard form for notification of major holdings   1. Issuer Details ISIN GB00BL6K5J42 Issuer Name ENDEAVOUR MINING PLC UK or Non-UK Issuer UK 2....",
+          "url": "https://www.globenewswire.com/news-release/2026/07/06/3322146/0/en/Holding-s-in-Company.html",
+          "source": "GlobeNewswire",
+          "published": "2026-07-06T06:00:00Z",
+          "image": "https://ml-eu.globenewswire.com/Resource/Download/cff109e5-0693-447f-8afe-290bcfdfd66f"
         },
         {
-          "title": "The fight over the UK’s digital pound has become a battle over crypto’s political influence",
-          "description": "The standards request pushes the CBDC debate toward disclosure, political money, and who gets access while payment rules are still open.\nThe post The fight over the UK’s digital pound has become a battle over crypto’s political influence appeared first on Cry…",
-          "url": "https://cryptoslate.com/the-fight-over-the-uks-digital-pound-has-become-a-battle-over-cryptos-political-influence/",
-          "source": "CryptoSlate",
-          "published": "2026-07-03T16:44:59Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/07/farage-digital-pound-complaint-bank-of-england-donor-influence-test.jpg"
+          "title": "Revisiting Last Week: Government’s 100 Days in Review",
+          "description": "KATHMANDU: The completion of 100 days by Prime Minister Balen Shah’s government on Saturday has been framed not merely as a routine milestone, but as a demonstration of an ambitious reform-driven agenda that seeks to redefine governance norms in Nepal. The go…",
+          "url": "https://english.khabarhub.com/2026/06/556695/",
+          "source": "Khabarhub.com",
+          "published": "2026-07-06T02:45:24Z",
+          "image": "https://english.khabarhub.com/wp-content/uploads/2026/07/Khabarhub-_Saata-Ko-Khabar-English_1200px-630X-px-Final_2026.07.05.jpg"
         },
         {
-          "title": "Ethereum Foundation Guide Targets Government And Institutional Blockchain Use",
-          "description": "The Ethereum Foundation published a guide aimed at government and institutional use of Ethereum infrastructure.",
-          "url": "http://www.newsbtc.com/news/ethereum-foundation-guide-targets-government-and-institutional-blockchain-use/",
-          "source": "newsBTC",
-          "published": "2026-07-03T13:29:00Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2022/12/maxim-hopman-fiXLQXAhCfk-unsplash-3-scaled.jpg?fit=2560%2C1707"
+          "title": "Chainlink CCIP Solana Support Keeps LINK’s Infrastructure Story In Focus",
+          "description": "Chainlink’s CCIP v1.6 upgrade brings Solana support and broadens the cross-chain infrastructure narrative around LINK.",
+          "url": "https://bitcoinist.com/chainlink-ccip-solana-support-keeps-link-s-infrastructure-story-in-focus/",
+          "source": "Bitcoinist",
+          "published": "2026-07-06T02:05:00Z",
+          "image": "https://bitcoinist.com/wp-content/uploads/2026/05/ChatGPT-Image-20.-Mai-2026-08_43_17.png"
         }
       ]
     },
@@ -164,36 +148,12 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Vitalik Buterin shares top priorities for new 'Lean Ethereum' strawmap",
-          "description": "Ethereum co-founder Vitalik Buterin said the new “Lean Ethereum” strawmap is focused on making the network quantum-resistant and improving Ethereum’s scalability and privacy.",
-          "url": "https://cointelegraph.com/news/vitalik-buterin-shares-top-priorities-for-new-lean-ethereum-roadmap",
-          "source": "Cointelegraph",
-          "published": "2026-07-05T03:50:36Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-formal-verification-and-why-does-vitalik-think-ai-can-help.jpg"
-        },
-        {
-          "title": "Tokenization's next use case is personalized portfolios, NYLIM executive says",
-          "description": "Thomas Sy, head of multi-asset solutions at the $800-million asset manager, says blockchain can enable complex portfolio construction that's not yet possible in traditional finance.",
-          "url": "https://www.coindesk.com/business/2026/07/02/tokenization-s-next-use-case-is-personalized-portfolios-nylim-executive-says",
-          "source": "CoinDesk",
-          "published": "2026-07-04T20:00:00Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/8082bae2b57a9811078afac63d9be93264695df1-1035x818.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
-        },
-        {
-          "title": "Kraken lets traders use tokenized stocks as collateral for leveraged trades",
-          "description": "Kraken now lets eligible users use tokenized stocks and ETFs as collateral for futures and margin trading without selling their holdings.",
-          "url": "https://cointelegraph.com/news/kraken-lets-traders-use-tokenized-stocks-as-collateral-for-leveraged-trades",
-          "source": "Cointelegraph",
-          "published": "2026-07-04T19:37:11Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-cover-imagereview-of-us-stocks.png"
-        },
-        {
-          "title": "Trump Crypto Windfall Turns Heads: How the 'Crypto President' Raked In $1.4 Billion",
-          "description": "President Trump’s crypto ventures have generated an estimated $1.4 billion in income last year, all the while most investors in Trump-affiliated crypto endea...",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/trump-crypto-windfall-turns-heads-123223466.html",
-          "source": "Yahoo Entertainment",
-          "published": "2026-07-04T12:32:23Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/407B486B039256888F57993118FE7A466C81B5B49CE7074449C27C3E25FD42ED/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2Fe01314a4b317381b5549b4ada6b7250e"
+          "title": "ShinWon advances supply chain traceability with AI and blockchain",
+          "description": "ShinWon's latest initiatives focus on enhancing data visibility at every stage in response to growing regulatory and industry expectations for environmental and social responsibility.\nGlobal regulations, such as the European Union's Corporate Sustainability D…",
+          "url": "https://biztoc.com/x/1aba526d7bd88976",
+          "source": "Biztoc.com",
+          "published": "2026-07-06T08:59:24Z",
+          "image": "https://biztoc.com/cdn/1aba526d7bd88976_s.webp"
         },
         {
           "title": "Failed blockchain project ends with big fine for fibs about it being on track",
@@ -226,6 +186,22 @@
           "source": "PRNewswire",
           "published": "2026-07-02T12:16:00Z",
           "image": "https://mma.prnewswire.com/media/3003363/image1.jpg?p=facebook"
+        },
+        {
+          "title": "Blockchain Founders Fund Named Best Early-Stage Blockchain Venture Capital Fund at the 2026 Singapore Business Awards",
+          "description": "The recognition caps a year in which several BFF portfolio companies were acquired and another listed on Nasdaq. SINGAPORE, June 30, 2026 /PRNewswire/ -- Blockchain Founders Fund (BFF), an early-stage venture capital firm backing pre-seed and seed Web3 founde…",
+          "url": "https://www.prnewswire.com/news-releases/blockchain-founders-fund-named-best-early-stage-blockchain-venture-capital-fund-at-the-2026-singapore-business-awards-302813842.html",
+          "source": "PRNewswire",
+          "published": "2026-06-30T12:34:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS1874760/BFF_Team.jpg?id=OA2743593&p=facebook"
+        },
+        {
+          "title": "Autheo Introduces the Internet Operating System: A Decentralized Coordination Layer for the Web, Blockchain, and AI",
+          "description": "Autheo Introduces the Internet Operating System: A Decentralized Coordination Layer for the Web, Blockchain, and AI, with TheoID and post quantum security.",
+          "url": "https://www.globenewswire.com/news-release/2026/06/30/3319357/0/en/Autheo-Introduces-the-Internet-Operating-System-A-Decentralized-Coordination-Layer-for-the-Web-Blockchain-and-AI.html",
+          "source": "GlobeNewswire",
+          "published": "2026-06-30T01:46:00Z",
+          "image": null
         }
       ]
     },
@@ -239,20 +215,28 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Why Binance’s reported $2B Mesh investment could decide who controls stablecoin payments",
-              "description": "The signal is about who controls the wallet-to-merchant path that makes tokenized dollars spendable.\nThe post Why Binance’s reported $2B Mesh investment could decide who controls stablecoin payments appeared first on CryptoSlate.",
-              "url": "https://cryptoslate.com/binances-reported-mesh-round-puts-stablecoin-payment-routes-in-play/",
-              "source": "CryptoSlate",
-              "published": "2026-07-05T10:00:28Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/07/binance-mesh-stablecoin-payment-network-routing.jpg"
+              "title": "Nigel Farage referred to watchdog over 'gifts' from crypto investor 'Posh George'",
+              "description": "Nigel Farage was reportedly provided with security services, social media support and accommodation by George Cottrell, a 32-year-old crypto investor who previously served eight months in prison for wire fraud.",
+              "url": "https://www.abc.net.au/news/2026-07-06/nigel-farage-reform-uk-failed-declare-george-cottrell-donation/106883524",
+              "source": "ABC News (AU)",
+              "published": "2026-07-06T02:35:45Z",
+              "image": "https://live-production.wcms.abc-cdn.net.au/3dd06d1b270b2ea56f024f057ac1af4c?impolicy=wcms_watermark_news&cropH=2480&cropW=4408&xPos=0&yPos=3&width=862&height=485&imformat=generic"
             },
             {
-              "title": "The death of the crypto startup: RIP 2017 – 2026",
-              "description": "In 2017, a handful of developers with a whitepaper and a GitHub repository could launch a token or a crypto startup in a matter of days. Capital requirements were low, licensing was either non-existent or seen as an afterthought, and a compelling idea was usu…",
-              "url": "https://cryptoslate.com/the-death-of-the-crypto-startup-rip-2017-2026/",
-              "source": "CryptoSlate",
-              "published": "2026-07-05T08:30:25Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/07/death-of-crypto-startup-graveyard-regulation-2026.jpg"
+              "title": "Crypto Payments Firm Mesh Eyes $2 Billion Valuation Backed by Binance",
+              "description": "Binance is reportedly ready to lead a new funding round for crypto payments company Mesh.\nThat’s according to Axios, which says the round could value Mesh at up to $2 billion. The report, citing sources familiar with the matter, noted that the funding round c…",
+              "url": "https://biztoc.com/x/d8272c85f8736a2a",
+              "source": "Biztoc.com",
+              "published": "2026-07-06T02:22:20Z",
+              "image": "https://biztoc.com/cdn/995/og.png"
+            },
+            {
+              "title": "France promises tougher response as crypto wrench attacks hit 77",
+              "description": "French Interior Minister Laurent Nuñez promised a “more ambitious” three-part plan to reinforce security measures for the crypto sector.",
+              "url": "https://cointelegraph.com/news/french-wrench-attacks-rise-to-77-as-government-promises-more-support",
+              "source": "Cointelegraph",
+              "published": "2026-07-02T05:22:40Z",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/hi-can-bitcoin-be-hacked-2.jpg"
             },
             {
               "title": "Ethereum Institutional launch draws support from across the Ethereum ecosystem",
@@ -267,7 +251,24 @@
         "hyperscalers": {
           "title": "Hyperscalers",
           "icon": "☁️",
-          "articles": []
+          "articles": [
+            {
+              "title": "Summer.fi Hack Fears Rise After $65M Flash Loan Nets $6M",
+              "description": "Summer.fi hack concerns rose after CertiK said a suspicious transaction used a $65.4 million flash loan to make about $6 million. DeFi yield platform Summer.fi...\nThe post Summer.fi Hack Fears Rise After $65M Flash Loan Nets $6M appeared first on Bitcoin Foun…",
+              "url": "https://bitcoinfoundation.org/news/crimes-and-fraud-news/summer-fi-hack-fears-rise-after-65m-flash-loan-nets-6m/",
+              "source": "Bitcoinfoundation.org",
+              "published": "2026-07-06T09:33:34Z",
+              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/04/ChatGPT-Image-24-апр.-2026-г.-14_00_24-1.webp"
+            },
+            {
+              "title": "Brave's $60 'Origin' Browser Charges More for Less. I'm Not Buying",
+              "description": "I tested Brave's new Origin browser, and it made me question what I'm actually paying for.\nBrave Origin is a $60 web browser that removes ads, crypto, and other features rather than adding anything new. It's a somewhat novel concept, and Brian Bondy, founder …",
+              "url": "https://me.pcmag.com/en/browsers/37613/braves-60-origin-browser-charges-more-for-less-im-not-buying",
+              "source": "PCMag.com",
+              "published": "2026-07-06T04:50:50Z",
+              "image": "https://sm.pcmag.com/t/pcmag_me/opinion/b/braves-60-/braves-60-origin-browser-charges-more-for-less-im-not-buying_zat6.1200.jpg"
+            }
+          ]
         }
       }
     }
