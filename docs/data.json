@@ -1,11 +1,19 @@
 {
-  "date": "July 07, 2026",
+  "date": "July 08, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "What Is Arcium Crypto? A Deep Dive Into the Next Big Privacy Blockchain",
+          "description": "Arcium crypto is not another privacy coin. It is a decentralized confidential computing network that enables the execution of sensitive calculations over encrypted data without...\nThe post What Is Arcium Crypto? A Deep Dive Into the Next Big Privacy Blockchai…",
+          "url": "https://bitcoinfoundation.org/news/altcoins/what-is-arcium-crypto-a-deep-dive-into-the-next-big-privacy-blockchain/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-07-06T18:20:50Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/Arcium1-1.webp"
+        },
         {
           "title": "eToro leads $12.5M strategic investment in Extended, partners with Zengo for on-chain futures",
           "description": "eToro's strategic moves into on-chain futures and self-custodial wallets could reshape crypto trading, enhancing user control and market reach.\nThe post eToro leads $12.5M strategic investment in Extended, partners with Zengo for on-chain futures appeared fir…",
@@ -29,22 +37,6 @@
           "source": "Bitcoinfoundation.org",
           "published": "2026-07-01T11:15:04Z",
           "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/main-pay-1.webp"
-        },
-        {
-          "title": "REAL launches confidential layer to expand institutional RWA adoption",
-          "description": "REAL launches private execution layer for RWA institutions. ZKsync tech enables confidential on-chain settlement via Ethereum. Platform aims to bridge the privacy gap in institutional blockchain use. REAL has introduced a confidential execution layer designed…",
-          "url": "https://coinjournal.net/news/real-launches-confidential-layer-to-expand-institutional-rwa-adoption/",
-          "source": "Coinjournal.net",
-          "published": "2026-06-30T14:18:15Z",
-          "image": "https://coinjournal.net/wp-content/uploads/2026/06/RWA-presentation.png"
-        },
-        {
-          "title": "StarkWare unveils Starknet post-quantum roadmap, calling it crypto’s ‘strongest’ to date",
-          "description": "StarkWare unveils Starknet post-quantum roadmap, calling it crypto's 'strongest' to date\nQuick Take\n- StarkWare released a three-phase post-quantum roadmap for Starknet, describing it as the “strongest quantum crypto roadmap to date.”\n- The plan would replace…",
-          "url": "https://biztoc.com/x/40768b7b4f9c4a43",
-          "source": "Biztoc.com",
-          "published": "2026-06-30T12:31:22Z",
-          "image": "https://biztoc.com/cdn/40768b7b4f9c4a43_s.webp"
         }
       ]
     },
@@ -54,20 +46,28 @@
       "color": "#e6a200",
       "articles": [
         {
+          "title": "Vitalik Buterin proposes ‘Extremely Lean Chain’ to shrink Ethereum’s beacon chain state by 87%",
+          "description": "Buterin's proposal could revolutionize Ethereum's scalability and privacy, potentially reshaping validator dynamics and long-term network efficiency.\nThe post Vitalik Buterin proposes ‘Extremely Lean Chain’ to shrink Ethereum’s beacon chain state by 87% appea…",
+          "url": "https://cryptobriefing.com/vitalik-buterin-extremely-lean-chain-ethereum/",
+          "source": "Crypto Briefing",
+          "published": "2026-07-06T16:27:01Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/06122653/vitalik-buterin-800x420.jpeg"
+        },
+        {
+          "title": "Ethereum 'Reinventing Itself' With Biggest Overhaul Since the Merge: Vitalik Buterin",
+          "description": "Nearly every core piece of the protocol will be rebuilt over three to four years, with quantum safety and privacy moved front and center.",
+          "url": "https://decrypt.co/372803/ethereum-reinventing-itself-with-biggest-overhaul-since-the-merge-vitalik-buterin",
+          "source": "Decrypt",
+          "published": "2026-07-06T12:51:53Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Ethereum-Vitalik-Buterin-decrypt-style-decrypt-source-01-gID_7.png"
+        },
+        {
           "title": "Ethereum prepares for biggest overhaul since The Merge, says Vitalik Buterin",
           "description": "Ethereum's overhaul could enhance scalability, privacy, and security, potentially boosting network activity and ETH demand, but fee dynamics pose risks.\nThe post Ethereum prepares for biggest overhaul since The Merge, says Vitalik Buterin appeared first on Cr…",
           "url": "https://cryptobriefing.com/ethereum-lean-roadmap-biggest-overhaul-since-merge/",
           "source": "Crypto Briefing",
           "published": "2026-07-06T08:14:18Z",
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/06041411/https-upload-wikimedia-org-wikipedia-commons-1-1c-vitalik-bu-5-800x420.jpeg"
-        },
-        {
-          "title": "Lighter integrates Robinhood Chain collateral for perpetual futures trading",
-          "description": "The integration could significantly boost onchain derivatives trading volume, but regulatory and security challenges may impact its growth trajectory.\nThe post Lighter integrates Robinhood Chain collateral for perpetual futures trading appeared first on Crypt…",
-          "url": "https://cryptobriefing.com/lighter-robinhood-chain-perpetual-trading/",
-          "source": "Crypto Briefing",
-          "published": "2026-07-02T16:25:14Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/02122446/robinhood-strategies-1-800x420.jpeg"
         }
       ]
     },
@@ -77,68 +77,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "The Project Crypto Scheme",
-          "description": "Forget deregulatory legislation; the SEC and CFTC are already working diligently to eliminate regulatory oversight of crypto at the behest of their president.\nThe post The Project Crypto Scheme appeared first on The American Prospect.",
-          "url": "http://prospect.org/2026/07/06/project-crypto-scheme/",
-          "source": "The American Prospect",
-          "published": "2026-07-06T09:15:00Z",
-          "image": "https://i0.wp.com/prospect.org/wp-content/uploads/2026/07/Davis-Diver-Project-Crypto.jpg?fit=2000%2C1333&ssl=1"
+          "title": "Bitcoin Suisse Receives Financial Services Permission in Abu Dhabi, Advancing Its Middle East Expansion",
+          "description": "Building on its position as Switzerland’s leading crypto financial services provider, Bitcoin Suisse is accelerating its international expansion. The Group’s subsidiary, BTCS (Middle East) Ltd. (“BTCS ME”), has received Financial Services Permission (FSP) fro…",
+          "url": "https://zycrypto.com/bitcoin-suisse-receives-financial-services-permission-in-abu-dhabi-advancing-its-middle-east-expansion/",
+          "source": "ZyCrypto",
+          "published": "2026-07-07T08:20:52Z",
+          "image": "https://zycrypto.com/wp-content/uploads/2026/07/unnamed-81.jpg"
         },
         {
-          "title": "Nuvion Integrates Ripple USD (RLUSD) to Expand Global Stablecoin Payments and Blockchain Infrastructure",
-          "description": "MIAMI, July 6, 2026 /PRNewswire/ -- Businesses today operate in a world where customers, suppliers, contractors, and partners increasingly span multiple countries and currencies. Yet moving money across borders often remains slow, fragmented, and dependent on…",
-          "url": "https://www.prnewswire.com/news-releases/nuvion-integrates-ripple-usd-rlusd-to-expand-global-stablecoin-payments-and-blockchain-infrastructure-302817753.html",
-          "source": "PRNewswire",
-          "published": "2026-07-06T09:00:00Z",
-          "image": "https://mma.prnewswire.com/media/3003861/Nuvion_Ripple_Logo.jpg?p=facebook"
+          "title": "Bitcoin Suisse Advances Middle East Expansion, Receives Financial Services Permission in Abu Dhabi",
+          "description": "Zug, Switzerland, 7th July 2026, Chainwire\nThe post Bitcoin Suisse Advances Middle East Expansion, Receives Financial Services Permission in Abu Dhabi appeared first on The Daily Hodl.",
+          "url": "https://dailyhodl.com/2026/07/07/bitcoin-suisse-advances-middle-east-expansion-receives-financial-services-permission-in-abu-dhabi/",
+          "source": "The Daily Hodl",
+          "published": "2026-07-07T07:29:58Z",
+          "image": "https://dailyhodl.com/wp-content/uploads/2026/07/FSRA_ADGM_Bolg_1783324489K8DiiuCrV5.jpg?resize=1600,900"
         },
         {
-          "title": "Europe Wants Its Own Digital Money Moment",
-          "description": "Watch more: How Stablecoins Are Reshaping Global Banking The same question can have both a strategic answer and a practical one. That’s something EU lawmakers are finding out in real time, after the European Parliament’s ECON Committee approved a plan by the …",
-          "url": "https://www.pymnts.com/news/payments-innovation/2026/europe-wants-its-own-digital-money-moment/",
-          "source": "pymnts.com",
-          "published": "2026-07-06T08:00:22Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2026/07/Europe-digital-money-overlay.png"
+          "title": "Bitcoin Suisse Advances Middle East Expansion, Receiving Financial Services Permission in Abu Dhabi",
+          "description": "Premium virtual assets pioneer BTCS (Middle East) Ltd. is now fully authorized by the Financial Services Regulatory Authority (FSRA) of ADGM, enabling regulated institutional services across the UAE. SWITZERLAND, Zug & ABU DHABI, United Arab Emirates — Buildi…",
+          "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/bitcoin-suisse-advances-middle-east-expansion-receiving-financial-services-permission-in-abu-dhabi",
+          "source": "Financial Post",
+          "published": "2026-07-07T07:15:50Z",
+          "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/07/bw20260707864200_ceyda_majcen2c_chief_executive_officer_and.jpeg"
         },
         {
-          "title": "Toobit Earn Offers Limited 60% APR on TRX",
-          "description": "GEORGE TOWN, Cayman Islands, July 06, 2026 (GLOBE NEWSWIRE) -- Toobit, the award-winning global cryptocurrency exchange, today announces the launch of a high-yield Fixed Earn initiative for TRX, offering traders an annual percentage rate (APR) of 60%.",
-          "url": "https://www.globenewswire.com/news-release/2026/07/06/3322158/0/en/Toobit-Earn-Offers-Limited-60-APR-on-TRX.html",
+          "title": "Asseto Expands Into Private Infrastructure With NGI+, Backed by a Partners Group Strategy",
+          "description": "NGI+ marks the first private infrastructure equity asset supported on Asseto's platform, extending its tokenization architecture from standardized financial products to highly non-standard alternative assets NGI+ marks the first private infrastructure equity …",
+          "url": "https://www.globenewswire.com/news-release/2026/07/07/3322830/0/en/Asseto-Expands-Into-Private-Infrastructure-With-NGI-Backed-by-a-Partners-Group-Strategy.html",
           "source": "GlobeNewswire",
-          "published": "2026-07-06T06:28:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/9aa684d5-a3b9-4e8a-b52a-f018fd28bd60"
+          "published": "2026-07-07T03:00:00Z",
+          "image": "https://ml.globenewswire.com/Resource/Download/96aadedb-2dd5-40aa-9012-3621ff92ef8a"
         },
         {
-          "title": "Nigel Farage accepted gifts from crypto-linked fraudster: Report",
-          "description": "Reform UK leader Nigel Farage reportedly received staff, security and access to a central London house from George Cottrell, an aristocrat involved in a crypto casino.",
-          "url": "https://cointelegraph.com/news/nigel-farage-accepted-gifts-from-crypto-linked-fraudster-report",
-          "source": "Cointelegraph",
-          "published": "2026-07-06T06:02:55Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-uk-tightens-aml-laws-and-mentions-crypto-as-suspicious.jpg"
-        },
-        {
-          "title": "Holding(s) in Company",
-          "description": "TR-1: Standard form for notification of major holdings   1. Issuer Details ISIN GB00BL6K5J42 Issuer Name ENDEAVOUR MINING PLC UK or Non-UK Issuer UK 2....",
-          "url": "https://www.globenewswire.com/news-release/2026/07/06/3322146/0/en/Holding-s-in-Company.html",
-          "source": "GlobeNewswire",
-          "published": "2026-07-06T06:00:00Z",
-          "image": "https://ml-eu.globenewswire.com/Resource/Download/cff109e5-0693-447f-8afe-290bcfdfd66f"
-        },
-        {
-          "title": "Revisiting Last Week: Government’s 100 Days in Review",
-          "description": "KATHMANDU: The completion of 100 days by Prime Minister Balen Shah’s government on Saturday has been framed not merely as a routine milestone, but as a demonstration of an ambitious reform-driven agenda that seeks to redefine governance norms in Nepal. The go…",
-          "url": "https://english.khabarhub.com/2026/06/556695/",
-          "source": "Khabarhub.com",
-          "published": "2026-07-06T02:45:24Z",
-          "image": "https://english.khabarhub.com/wp-content/uploads/2026/07/Khabarhub-_Saata-Ko-Khabar-English_1200px-630X-px-Final_2026.07.05.jpg"
-        },
-        {
-          "title": "Chainlink CCIP Solana Support Keeps LINK’s Infrastructure Story In Focus",
-          "description": "Chainlink’s CCIP v1.6 upgrade brings Solana support and broadens the cross-chain infrastructure narrative around LINK.",
-          "url": "https://bitcoinist.com/chainlink-ccip-solana-support-keeps-link-s-infrastructure-story-in-focus/",
+          "title": "Circle MiCA License Gives USDC A European Regulatory Advantage",
+          "description": "Circle says it has secured the first European electronic money institution license for a global stablecoin issuer under MiCA, giving USDC and EURC a clearer regulated path across the region. \n\n TL;DR \n\n \n\n This article was written by the News Desk a",
+          "url": "https://bitcoinist.com/circle-mica-license-gives-usdc-a-european-regulatory-advantage/",
           "source": "Bitcoinist",
-          "published": "2026-07-06T02:05:00Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/05/ChatGPT-Image-20.-Mai-2026-08_43_17.png"
+          "published": "2026-07-07T01:19:00Z",
+          "image": "https://bitcoinist.com/wp-content/uploads/2026/05/stablecoins.jpg"
+        },
+        {
+          "title": "SEC Names JPMorgan Veteran Paul Knight as COO",
+          "description": "The Securities and Exchange Commission (SEC) is adding a new operations chief at a moment when the agency is trying to move faster on crypto, market structure and investor protection. The Securities and Exchange Commission said Monday (July 6) that Paul Knigh…",
+          "url": "https://www.pymnts.com/legal/2026/sec-names-jpmorgan-veteran-paul-knight-as-coo/",
+          "source": "pymnts.com",
+          "published": "2026-07-06T23:11:06Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/02/SEC-crypto.png"
+        },
+        {
+          "title": "Former Tether CIO seeks to sell stake in stablecoin issuer, Bloomberg reports",
+          "description": "Former Tether CIO Richard Heathcote is seeking to sell part of his 1.26% stake in the stablecoin issuer, according to a Bloomberg report on Monday.",
+          "url": "https://cointelegraph.com/news/former-tether-cio-seeks-to-sell-stake-in-stablecoin-issuer-bloomberg-reports",
+          "source": "Cointelegraph",
+          "published": "2026-07-06T21:57:20Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/sponsor-screen-traid-bnb-chain.png"
+        },
+        {
+          "title": "How to Play SECZ Stock Now After the Securitize SPAC Merger Closed Last Week",
+          "description": "Following its merger with Cantor Equity Partners, the tokenization platform's stock has now debuted on the exchanges.",
+          "url": "https://www.barchart.com/story/news/3149059/how-to-play-secz-stock-now-after-the-securitize-spac-merger-closed-last-week",
+          "source": "Barchart.com",
+          "published": "2026-07-06T20:15:05Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/385F0D52730F2C184E65A10B660073A4E36EB388D74E8E12B7EAA3B6D5EB0453/subgraphmysterio/resizefill_w1200_h798;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2F051cc5266a82be6bbacff9f8ab0d7744"
         }
       ]
     },
@@ -148,12 +148,36 @@
       "color": "#00cc88",
       "articles": [
         {
+          "title": "Strategy Offloads 3,588 BTC In Biggest Sale To Support Dividend Payments",
+          "description": "Strategy has carried out the largest Bitcoin (BTC) sale in its history, offloading 3,588 BTC for about $216 million.",
+          "url": "https://zycrypto.com/strategy-offloads-3588-btc-in-biggest-sale-to-support-dividend-payments/",
+          "source": "ZyCrypto",
+          "published": "2026-07-06T22:20:12Z",
+          "image": "https://zycrypto.com/wp-content/uploads/2026/01/Saylor-Led-Strategy-Kicks-Off-New-Year-With-116-Million-Bitcoin-Purchase-Pushing-Total-Treasury-Holdings-Above-673000.jpg"
+        },
+        {
+          "title": "Stablecoin and Collateral Rules Give Crypto a New Bankability Test",
+          "description": "Digital assets began with the idea that trust could be engineered out of the system. The current regulatory trajectory in the U.S. now suggests something different. Two new legal developments, one from FinCEN and federal banking regulators and the other from …",
+          "url": "https://www.pymnts.com/cryptocurrency/2026/stablecoin-and-collateral-rules-give-crypto-a-new-bankability-test/",
+          "source": "pymnts.com",
+          "published": "2026-07-06T21:00:35Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/04/crypto-regulators2.jpg"
+        },
+        {
           "title": "ShinWon advances supply chain traceability with AI and blockchain",
           "description": "ShinWon's latest initiatives focus on enhancing data visibility at every stage in response to growing regulatory and industry expectations for environmental and social responsibility.\nGlobal regulations, such as the European Union's Corporate Sustainability D…",
           "url": "https://biztoc.com/x/1aba526d7bd88976",
           "source": "Biztoc.com",
           "published": "2026-07-06T08:59:24Z",
           "image": "https://biztoc.com/cdn/1aba526d7bd88976_s.webp"
+        },
+        {
+          "title": "Crypto wanted to replace Wall Street – Instead, Wall Street took over crypto",
+          "description": "Crypto was founded on a simple premise: people should be able to send, hold, and manage money without going through a bank. Fifteen years later, some of the industry's most significant developments involve banks doing that, on blockchains, for their own insti…",
+          "url": "https://cryptoslate.com/?p=545421",
+          "source": "CryptoSlate",
+          "published": "2026-07-04T11:30:56Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/07/wall-street-shark-swallows-crypto.jpg"
         },
         {
           "title": "Failed blockchain project ends with big fine for fibs about it being on track",
@@ -172,12 +196,12 @@
           "image": "https://image.theregister.com/223353.jpg?imageId=223353&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
         },
         {
-          "title": "A blockchain-enabled IoT framework for smart electro-medical waste management",
-          "description": "Scientific Reports - A blockchain-enabled IoT framework for smart electro-medical waste management",
-          "url": "https://www.nature.com/articles/s41598-026-45930-2",
-          "source": "Nature.com",
-          "published": "2026-07-03T00:00:00Z",
-          "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-026-45930-2/MediaObjects/41598_2026_45930_Fig1_HTML.png"
+          "title": "Ondo Finance Launches First-Ever Custodial Tokenized Securities in the U.S., Broadridge Partners to Integrate World Class Governance",
+          "description": "The milestone marks the expansion of Ondo – the leader in tokenized securities by total value – into the U.S. For the first time, U.S. listed securities – BlackRock's iShares Core S&P 500 (IVV) ETF and Micron (MU) shares – were tokenized by a third party on a…",
+          "url": "https://www.prnewswire.com/news-releases/ondo-finance-launches-first-ever-custodial-tokenized-securities-in-the-us-broadridge-partners-to-integrate-world-class-governance-302816716.html",
+          "source": "PRNewswire",
+          "published": "2026-07-02T12:30:00Z",
+          "image": null
         },
         {
           "title": "Bybit Livestream: Showcasing Blockchain for Good Alliance's Latest Incubation Cohort",
@@ -186,22 +210,6 @@
           "source": "PRNewswire",
           "published": "2026-07-02T12:16:00Z",
           "image": "https://mma.prnewswire.com/media/3003363/image1.jpg?p=facebook"
-        },
-        {
-          "title": "Blockchain Founders Fund Named Best Early-Stage Blockchain Venture Capital Fund at the 2026 Singapore Business Awards",
-          "description": "The recognition caps a year in which several BFF portfolio companies were acquired and another listed on Nasdaq. SINGAPORE, June 30, 2026 /PRNewswire/ -- Blockchain Founders Fund (BFF), an early-stage venture capital firm backing pre-seed and seed Web3 founde…",
-          "url": "https://www.prnewswire.com/news-releases/blockchain-founders-fund-named-best-early-stage-blockchain-venture-capital-fund-at-the-2026-singapore-business-awards-302813842.html",
-          "source": "PRNewswire",
-          "published": "2026-06-30T12:34:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS1874760/BFF_Team.jpg?id=OA2743593&p=facebook"
-        },
-        {
-          "title": "Autheo Introduces the Internet Operating System: A Decentralized Coordination Layer for the Web, Blockchain, and AI",
-          "description": "Autheo Introduces the Internet Operating System: A Decentralized Coordination Layer for the Web, Blockchain, and AI, with TheoID and post quantum security.",
-          "url": "https://www.globenewswire.com/news-release/2026/06/30/3319357/0/en/Autheo-Introduces-the-Internet-Operating-System-A-Decentralized-Coordination-Layer-for-the-Web-Blockchain-and-AI.html",
-          "source": "GlobeNewswire",
-          "published": "2026-06-30T01:46:00Z",
-          "image": null
         }
       ]
     },
@@ -215,20 +223,12 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Nigel Farage referred to watchdog over 'gifts' from crypto investor 'Posh George'",
-              "description": "Nigel Farage was reportedly provided with security services, social media support and accommodation by George Cottrell, a 32-year-old crypto investor who previously served eight months in prison for wire fraud.",
-              "url": "https://www.abc.net.au/news/2026-07-06/nigel-farage-reform-uk-failed-declare-george-cottrell-donation/106883524",
-              "source": "ABC News (AU)",
-              "published": "2026-07-06T02:35:45Z",
-              "image": "https://live-production.wcms.abc-cdn.net.au/3dd06d1b270b2ea56f024f057ac1af4c?impolicy=wcms_watermark_news&cropH=2480&cropW=4408&xPos=0&yPos=3&width=862&height=485&imformat=generic"
-            },
-            {
-              "title": "Crypto Payments Firm Mesh Eyes $2 Billion Valuation Backed by Binance",
-              "description": "Binance is reportedly ready to lead a new funding round for crypto payments company Mesh.\nThat’s according to Axios, which says the round could value Mesh at up to $2 billion. The report, citing sources familiar with the matter, noted that the funding round c…",
-              "url": "https://biztoc.com/x/d8272c85f8736a2a",
-              "source": "Biztoc.com",
-              "published": "2026-07-06T02:22:20Z",
-              "image": "https://biztoc.com/cdn/995/og.png"
+              "title": "TechnologyWire Launches PR Distribution Platform Engineered to Secure Brand Visibility in AI Search",
+              "description": "MediaFuse.org, a newswire network dominant across finance, cybersecurity, blockchain, and gaming, today announced a major disruption to tech PR with the launch of TechnologyWire.TechnologyWire marks the latest expansion for MediaFuse, which scaled the targete…",
+              "url": "https://thenextweb.com/news/technologywire-pr-distribution-ai-search-visibility/",
+              "source": "The Next Web",
+              "published": "2026-07-07T07:00:37Z",
+              "image": "https://media.thenextweb.com/2026/07/technologywire-pr-distribution-ai-search-visibility.avif"
             },
             {
               "title": "France promises tougher response as crypto wrench attacks hit 77",
@@ -253,20 +253,20 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "Summer.fi Hack Fears Rise After $65M Flash Loan Nets $6M",
-              "description": "Summer.fi hack concerns rose after CertiK said a suspicious transaction used a $65.4 million flash loan to make about $6 million. DeFi yield platform Summer.fi...\nThe post Summer.fi Hack Fears Rise After $65M Flash Loan Nets $6M appeared first on Bitcoin Foun…",
-              "url": "https://bitcoinfoundation.org/news/crimes-and-fraud-news/summer-fi-hack-fears-rise-after-65m-flash-loan-nets-6m/",
-              "source": "Bitcoinfoundation.org",
-              "published": "2026-07-06T09:33:34Z",
-              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/04/ChatGPT-Image-24-апр.-2026-г.-14_00_24-1.webp"
+              "title": "Chainlink CCIP Integration Gives WEMIX A Safer Route For Cross-Chain Gaming Assets",
+              "description": "Chainlink’s CCIP is being integrated with WEMIX, giving the gaming-focused blockchain ecosystem a more standardized cross-chain messaging layer for moving assets across networks. \n\n TL;DR \n\n \n\n This article was written by the News Desk and edited by",
+              "url": "https://bitcoinist.com/chainlink-ccip-integration-gives-wemix-a-safer-route-for-cross-chain-gaming/",
+              "source": "Bitcoinist",
+              "published": "2026-07-07T03:01:00Z",
+              "image": "https://bitcoinist.com/wp-content/uploads/2026/05/ChatGPT-Image-20.-Mai-2026-08_43_17.png"
             },
             {
-              "title": "Brave's $60 'Origin' Browser Charges More for Less. I'm Not Buying",
-              "description": "I tested Brave's new Origin browser, and it made me question what I'm actually paying for.\nBrave Origin is a $60 web browser that removes ads, crypto, and other features rather than adding anything new. It's a somewhat novel concept, and Brian Bondy, founder …",
-              "url": "https://me.pcmag.com/en/browsers/37613/braves-60-origin-browser-charges-more-for-less-im-not-buying",
-              "source": "PCMag.com",
-              "published": "2026-07-06T04:50:50Z",
-              "image": "https://sm.pcmag.com/t/pcmag_me/opinion/b/braves-60-/braves-60-origin-browser-charges-more-for-less-im-not-buying_zat6.1200.jpg"
+              "title": "Focusing on On-Chain-Native Prediction Markets: BM Wallet Launches Prediction Markets, Reimagining the Web3 User Experience",
+              "description": "The launch debuts with a World Cup theme and an accompanying first-round rewards campaign. The feature also points to a larger ambition for BM Wallet: bringing scattered Web3 tools together into a single app that users truly control. The launch debuts with a …",
+              "url": "https://www.globenewswire.com/news-release/2026/07/06/3322803/0/en/Focusing-on-On-Chain-Native-Prediction-Markets-BM-Wallet-Launches-Prediction-Markets-Reimagining-the-Web3-User-Experience.html",
+              "source": "GlobeNewswire",
+              "published": "2026-07-06T23:03:00Z",
+              "image": "https://ml.globenewswire.com/Resource/Download/654cd345-f1fe-446d-8fe3-b52385c80213"
             }
           ]
         }
