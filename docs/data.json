@@ -1,5 +1,5 @@
 {
-  "date": "July 09, 2026",
+  "date": "July 10, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -7,12 +7,28 @@
       "color": "#ffb900",
       "articles": [
         {
-          "title": "Coinbase increases price precision for STRK-USD and MPLX-USD trading pairs",
-          "description": "Enhanced price precision for STRK-USD and MPLX-USD could lead to improved market efficiency and better execution for traders on Coinbase.\nThe post Coinbase increases price precision for STRK-USD and MPLX-USD trading pairs appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/coinbase-strk-mplx-price-precision/",
+          "title": "BNB Chain makes 1,000,000 TPS moonshot bet on AI as BNB price slips to 2024 lows",
+          "description": "Binance-backed BNB Chain is restructuring its underlying architecture and setting a long-term goal of processing 1 million transactions per second while integrating protocol-level privacy. The strategic pivot aims to capture two distinct yet demanding emergin…",
+          "url": "https://cryptoslate.com/binance-backed-network-chases-ai-agent-economy-with-1m-tps-privacy-overhaul-amid-bnbs-price-struggles/",
+          "source": "CryptoSlate",
+          "published": "2026-07-08T20:10:52Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/07/bnb-chain-1m-tps-throughput-engine.jpg"
+        },
+        {
+          "title": "Newton mainnet beta goes live with RedStone price feeds powering on-chain risk enforcement",
+          "description": "Newton's mainnet beta could enhance DeFi's appeal to institutional investors by integrating real-time risk enforcement, improving compliance.\nThe post Newton mainnet beta goes live with RedStone price feeds powering on-chain risk enforcement appeared first on…",
+          "url": "https://cryptobriefing.com/newton-mainnet-beta-redstone-price-feeds/",
           "source": "Crypto Briefing",
-          "published": "2026-07-07T20:44:34Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/07164425/new-york-office-grows-as-coinbase-expands-its-research-hub-a-1-800x420.jpeg"
+          "published": "2026-07-08T15:29:19Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/08112916/what-is-newton-new-revolutionizing-blockchain-technology-800x420.jpeg"
+        },
+        {
+          "title": "The End of Crypto Privacy? How Global Regulations Are Changing Everything in 2026",
+          "description": "What Is Crypto Privacy and Why Does It Matter? Crypto privacy is the practice of hiding financial activity and identity when using a blockchain. In...\nThe post The End of Crypto Privacy? How Global Regulations Are Changing Everything in 2026 appeared first on…",
+          "url": "https://bitcoinfoundation.org/news/opinion/the-end-of-crypto-privacy-how-global-regulations-are-changing-everything-in-2026/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-07-08T12:19:07Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/1-2-1783506393.webp"
         },
         {
           "title": "What Is Arcium Crypto? A Deep Dive Into the Next Big Privacy Blockchain",
@@ -69,68 +85,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Exponential Growth: AI in Asset Management Market to Reach $21.82 Billion by 2030",
-          "description": "Key opportunities in AI asset management include adoption of AI-driven platforms, demand for real-time asset visibility, integration with blockchain, and sophisticated fraud detection solutions. Trends such as AI-driven analytics, cloud-based solutions, and i…",
-          "url": "https://www.globenewswire.com/news-release/2026/07/08/3323849/28124/en/Exponential-Growth-AI-in-Asset-Management-Market-to-Reach-21-82-Billion-by-2030.html",
-          "source": "GlobeNewswire",
-          "published": "2026-07-08T08:03:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/ccf563ce-2b36-4dde-921f-ceff81d26564"
-        },
-        {
-          "title": "Open USD and the Questions 140 Logos Don’t Answer",
-          "description": "On June 30, an independent company called Open Standard launched a dollar stablecoin, Open USD, and 140 of the biggest names in money signed on. Visa. Mastercard. BlackRock. BNY. Coinbase. Stripe. Circle’s stock fell as much as 17% the same day, which tells y…",
-          "url": "https://www.pymnts.com/cryptocurrency/2026/open-usd-and-the-questions-140-logos-dont-answer/",
-          "source": "pymnts.com",
-          "published": "2026-07-08T08:00:28Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2026/07/2026-Web-Hero-Image-KLW-NEXT-1200x780-07072.jpg"
-        },
-        {
-          "title": "CZR Exchange Unveils AI-Powered CZR Wallet to Advance Self-Custody and Web3 Accessibility",
-          "description": "Standalone AI-powered wallet combines intelligent portfolio management, multi-chain support, and self-custody to simplify the Web3 experience Standalone AI-powered wallet combines intelligent portfolio management, multi-chain support, and self-custody to simp…",
-          "url": "https://www.globenewswire.com/news-release/2026/07/08/3323773/0/en/CZR-Exchange-Unveils-AI-Powered-CZR-Wallet-to-Advance-Self-Custody-and-Web3-Accessibility.html",
-          "source": "GlobeNewswire",
-          "published": "2026-07-08T00:02:00Z",
-          "image": null
-        },
-        {
-          "title": "Tether Invests $20 Million in Mercado Bitcoin to Fuel Expansion Across Latin America",
-          "description": "Brazilian crypto exchange Mercado Bitcoin has raised $20 million in fresh investment from USDT stablecoin issuer Tether.",
-          "url": "https://decrypt.co/372946/tether-invests-20-million-mercado-bitcoin-fuel-expansion-latin-america",
-          "source": "Decrypt",
-          "published": "2026-07-07T21:31:09Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Tether-decrypt-style-02-gID_7.png"
-        },
-        {
-          "title": "Russia’s legal crypto on-ramp to arrive with a state-owned bank holding the keys",
-          "description": "The reported December launch matters because Russia’s new rules may make custody, limits, and compliance the price of legal access.\nThe post Russia’s legal crypto on-ramp to arrive with a state-owned bank holding the keys appeared first on CryptoSlate.",
-          "url": "https://cryptoslate.com/sberbanks-crypto-wallet-plan-could-pull-russian-users-into-a-bank-controlled-on-ramp/",
-          "source": "CryptoSlate",
-          "published": "2026-07-07T19:45:35Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/07/sberbank-crypto-wallet-bank-controlled-onramp-russia.jpg"
-        },
-        {
-          "title": "Tether Invests $20 Million in Brazil’s Mercado Bitcoin",
-          "description": "Stablecoin issuer Tether is investing $20 million in Brazil-based digital assets platform Mercado Bitcoin. “The investment reflects Tether’s continued commitment to supporting open, efficient, and accessible financial infrastructure in high-growth markets and…",
-          "url": "https://www.pymnts.com/news/investment-tracker/2026/tether-invests-20-million-in-brazils-mercado-bitcoin/",
-          "source": "pymnts.com",
-          "published": "2026-07-07T19:02:12Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2025/09/Tether-stablecoins-2.jpg"
-        },
-        {
-          "title": "Kenya's Markets Regulator Seeks Blockchain Tool to Track Crypto Crime",
-          "description": "The Capital Markets Authority wants to monitor over 20 blockchains for fraud, laundering, and sanctions evasion under Kenya's new crypto law.",
-          "url": "https://decrypt.co/372932/kenyas-markets-regulator-seeks-blockchain-tool-to-track-crypto-crime",
-          "source": "Decrypt",
-          "published": "2026-07-07T17:29:39Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/07/bitcoin-kenya-decrypt-style-1-gID_7.jpg"
-        },
-        {
-          "title": "Tether invests in Mercado Bitcoin as blockchain finance expands in Latin America",
-          "description": "Mercado Bitcoin will use the funding to expand tokenized finance across Latin America, adding to Tether's growing portfolio of infrastructure investments.",
-          "url": "https://cointelegraph.com/news/tether-invests-20m-in-mercado-bitcoin-to-expand-tokenized-finance-in-latin-america",
+          "title": "SWIFT launches blockchain ledger with 17-bank tokenized deposit pilot",
+          "description": "SWIFT launched its new blockchain ledger and announced that it will host a tokenized bank deposit pilot for 17 major banks seeking faster cross-border payments through tokenization.",
+          "url": "https://cointelegraph.com/news/swift-launches-blockchain-announces-tokenized-deposit-pilot-with-17-banks",
           "source": "Cointelegraph",
-          "published": "2026-07-07T16:43:07Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/canada-tether.png"
+          "published": "2026-07-09T08:51:48Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-time-to-challenge-swift.jpg"
+        },
+        {
+          "title": "From Hong Kong to Europe: OSL Clears MiCAR in Austria, Joining the Minority of Platforms to Meet Europe's Stringent Crypto Rulebook",
+          "description": "OSL Group, one of the first digital asset platforms licensed in Hong Kong and listed on the HKEX, today announced a major regulatory milestone for its European subsidiary has secured MiCAR authorization from the Austrian FMA. Fewer than one in five previously…",
+          "url": "https://www.globenewswire.com/news-release/2026/07/09/3324574/0/en/From-Hong-Kong-to-Europe-OSL-Clears-MiCAR-in-Austria-Joining-the-Minority-of-Platforms-to-Meet-Europe-s-Stringent-Crypto-Rulebook.html",
+          "source": "GlobeNewswire",
+          "published": "2026-07-09T07:40:00Z",
+          "image": "https://ml.globenewswire.com/Resource/Download/ff83b406-ff29-4e7f-98d4-1dfeb0cc0a3b"
+        },
+        {
+          "title": "Aave’s Native GHO Deployment On Arbitrum Pushes Stablecoin Liquidity Deeper Into Layer 2",
+          "description": "Aave’s GHO stablecoin needs liquidity, distribution, and real places to be used. A native Arbitrum deployment helps with all three, pushing the asset into one of Ethereum’s most active layer-2 environments. The useful",
+          "url": "https://bitcoinist.com/aave-s-native-gho-deployment-on-arbitrum-pushes-stablecoin-liquidity-deeper/",
+          "source": "Bitcoinist",
+          "published": "2026-07-08T23:33:00Z",
+          "image": "https://bitcoinist.com/wp-content/uploads/2026/05/a_108a1d.jpg"
+        },
+        {
+          "title": "One Vanguard job posting could decide how crypto reaches 50 million investors",
+          "description": "Vanguard posted a Head of Digital Assets, Personal Wealth role on July 6, with openings in Dallas, Scottsdale, Charlotte, and Malvern. The posting asks the incoming executive to lead digital assets strategy, build a multi-year roadmap, and run enterprise exec…",
+          "url": "https://cryptoslate.com/one-vanguard-job-posting-could-decide-how-crypto-reaches-50-million-investors/",
+          "source": "CryptoSlate",
+          "published": "2026-07-08T14:05:27Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/07/vanguard-digital-assets-vault-bitcoin-pathway.jpg"
+        },
+        {
+          "title": "The 5 types of real world assets being tokenized fastest onchain",
+          "description": "Tokenized Real World Assets span treasuries, real estate, stocks, commodities and private credit. The sector is still small in TradFi terms but it's growing very, very fast.",
+          "url": "https://cointelegraph.com/features/as-real-world-asset-tokenization-accelerates-heres-whats-been-put-onchain",
+          "source": "Cointelegraph",
+          "published": "2026-07-08T13:30:00Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-104813-real-world-assets-tokenization-lacks-infrastructure-not-just-regulation.jpg"
+        },
+        {
+          "title": "Morning Minute: Vanguard Hires 'Head of Digital Assets' in Crypto Capitulation",
+          "description": "Crypto majors fall as the U.S. strikes Iran, ending the ceasefire. Vanguard opens its doors. And a meme coin frenzy erupts on Robinhood chain.",
+          "url": "https://decrypt.co/372993/morning-minute-vanguard-hires-head-of-digital-assets-in-crypto-capitulation",
+          "source": "Decrypt",
+          "published": "2026-07-08T12:47:37Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/12/vanguard-decrypt-style-gID_7.jpg"
+        },
+        {
+          "title": "The Stablecoin Wars: Which Regulations Will Create the Next Winners and Losers?",
+          "description": "The stablecoin wars are accelerating, but not necessarily in the way we might expect. While liquidity and issuer reputation will still determine stablecoin success in...\nThe post The Stablecoin Wars: Which Regulations Will Create the Next Winners and Losers? …",
+          "url": "https://bitcoinfoundation.org/news/stablecoin-news/stablecoin-wars-regulations-winners-losers/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-07-08T10:12:18Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/stable-wars-1.webp"
+        },
+        {
+          "title": "What Is USDG? Everything You Need to Know About the Fast-Growing Stablecoin in 2026",
+          "description": "USDG is a US dollar-pegged stablecoin issued by Paxos, created for use in payments, trading, and on-chain settlement. It has a 1:1 value with the...\nThe post What Is USDG? Everything You Need to Know About the Fast-Growing Stablecoin in 2026 appeared first on…",
+          "url": "https://bitcoinfoundation.org/news/stablecoin-news/what-is-usdg-everything-you-need-to-know-about-the-stablecoin/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-07-03T10:59:15Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/1-1783075522.webp"
         }
       ]
     },
@@ -140,12 +156,52 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Maserati unveils Trident Stars as logo turns 100",
-          "description": "Celebrating the emblem’s 100th anniversary, the Italian automaker’s project assigns each star in the logo-shaped constellation to a collector, pairing the gifts with blockchain-certified digital works.",
-          "url": "https://www.luxurydaily.com/maserati-unveils-trident-stars-as-logo-turns-100/",
-          "source": "Luxurydaily.com",
-          "published": "2026-07-08T08:30:00Z",
-          "image": "https://www.luxurydaily.com/wp-content/uploads/2026/07/46bc232b3e211c241032642dcd0ee0020d8c3df3.jpeg"
+          "title": "Carbon Offset / Carbon Credit Market; Latest Report Shows Advanced Technologies Spur Growth in Carbon Markets: Blockchain, Remote Sensing, and Digital Ledgers",
+          "description": "The evolving carbon offset market offers opportunities in tech-driven transparency, diversified credit strategies, and responding to regulatory shifts, driving decarbonization goals and stakeholder engagement. The evolving carbon offset market offers opportun…",
+          "url": "https://www.globenewswire.com/news-release/2026/07/09/3324594/28124/en/Carbon-Offset-Carbon-Credit-Market-Latest-Report-Shows-Advanced-Technologies-Spur-Growth-in-Carbon-Markets-Blockchain-Remote-Sensing-and-Digital-Ledgers.html",
+          "source": "GlobeNewswire",
+          "published": "2026-07-09T08:12:00Z",
+          "image": "https://ml.globenewswire.com/Resource/Download/55937fbc-4d64-4cbf-90b6-e40a37cdbc39"
+        },
+        {
+          "title": "Crypto still 'off the table' for Singapore's Temasek, four years after FTX flop",
+          "description": "Temasek's investment in the now-bankrupt FTX cryptocurrency exchange led to a writedown of $275 million in 2022, drawing much local criticism.",
+          "url": "https://www.cnbc.com/2026/07/09/temasek-takeaways-crypto-defense-ai-european-luxury-names.html",
+          "source": "CNBC",
+          "published": "2026-07-09T05:12:22Z",
+          "image": "https://image.cnbcfm.com/api/v1/image/108331819-1783476972478-gettyimages-1785159119-SINGAPORE_FINTECH.jpeg?v=1783476990&w=1920&h=1080"
+        },
+        {
+          "title": "Crypto VC Paradigm raises $1.2B to push into AI",
+          "description": "Paradigm, which has raised over $4 billion to invest in crypto since 2018, is moving into AI for the first time as it seeks to invest in the estimated $540 billion industry.",
+          "url": "https://cointelegraph.com/news/crypto-vc-paradigm-raises-12b-to-push-into-ai",
+          "source": "Cointelegraph",
+          "published": "2026-07-09T02:33:00Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-can-the-eus-massive-investment-into-blockchain-ai-rd-save-us-from-the-tech-oligopoly1.jpg"
+        },
+        {
+          "title": "Crypto could benefit if Fed steps in to backstop US stock market: Analysts",
+          "description": "The size and scope of the US stock market “gives policymakers a strong incentive to backstop major drawdowns,” said Bitget Wallet COO, Alvin Kan.",
+          "url": "https://cointelegraph.com/news/crypto-could-benefit-if-fed-steps-in-to-backstop-us-stock-market-analysts",
+          "source": "Cointelegraph",
+          "published": "2026-07-09T01:32:12Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-impact-of-fed-interest-rates-on-crypto-holders-2.jpg"
+        },
+        {
+          "title": "AscendEX Exchange Collapse Hands Europe Its First MiCA Test",
+          "description": "ESMA launches its first MiCA-wide custody review as AscendEX's collapse shows what failed crypto custody costs users.",
+          "url": "https://beincrypto.com/esma-mica-crypto-custody-review/",
+          "source": "BeInCrypto",
+          "published": "2026-07-08T16:25:26Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/DFBC48C26DB11299CE7DB5EC5BEF147DE23F6A5F638481D415D9B32BFF996D09/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F7e72ebd39809044190676113c05030f9"
+        },
+        {
+          "title": "Exponential Growth: AI in Asset Management Market to Reach $21.82 Billion by 2030",
+          "description": "Key opportunities in AI asset management include adoption of AI-driven platforms, demand for real-time asset visibility, integration with blockchain, and sophisticated fraud detection solutions. Trends such as AI-driven analytics, cloud-based solutions, and i…",
+          "url": "https://www.globenewswire.com/news-release/2026/07/08/3323849/28124/en/Exponential-Growth-AI-in-Asset-Management-Market-to-Reach-21-82-Billion-by-2030.html",
+          "source": "GlobeNewswire",
+          "published": "2026-07-08T08:03:00Z",
+          "image": "https://ml.globenewswire.com/Resource/Download/ccf563ce-2b36-4dde-921f-ceff81d26564"
         },
         {
           "title": "Broadridge's Distributed Ledger Repo Processes $7.5 Trillion in June",
@@ -156,52 +212,12 @@
           "image": "https://mma.prnewswire.com/media/326728/Broadridge_2023_Logo.jpg?p=facebook"
         },
         {
-          "title": "Aptos Price Prediction: Can APT Outperform Solana and SUI This Cycle?",
-          "description": "What Is Aptos? Aptos crypto is built on a Layer 1 blockchain offering fast transactions, low latency, and secure smart-contract execution. It was developed by...\nThe post Aptos Price Prediction: Can APT Outperform Solana and SUI This Cycle? appeared first on …",
-          "url": "https://bitcoinfoundation.org/news/analysis/aptos-price-prediction-can-apt-outperform-solana-and-sui-this-cycle/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-07-06T13:07:57Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/1-1783336051.webp"
-        },
-        {
           "title": "ShinWon advances supply chain traceability with AI and blockchain",
           "description": "ShinWon's latest initiatives focus on enhancing data visibility at every stage in response to growing regulatory and industry expectations for environmental and social responsibility.\nGlobal regulations, such as the European Union's Corporate Sustainability D…",
           "url": "https://biztoc.com/x/1aba526d7bd88976",
           "source": "Biztoc.com",
           "published": "2026-07-06T08:59:24Z",
           "image": "https://biztoc.com/cdn/1aba526d7bd88976_s.webp"
-        },
-        {
-          "title": "Crypto wanted to replace Wall Street – Instead, Wall Street took over crypto",
-          "description": "Crypto was founded on a simple premise: people should be able to send, hold, and manage money without going through a bank. Fifteen years later, some of the industry's most significant developments involve banks doing that, on blockchains, for their own insti…",
-          "url": "https://cryptoslate.com/?p=545421",
-          "source": "CryptoSlate",
-          "published": "2026-07-04T11:30:56Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/07/wall-street-shark-swallows-crypto.jpg"
-        },
-        {
-          "title": "Failed blockchain project ends with big fine for fibs about it being on track",
-          "description": "A final humiliation for Australia’s Securities Exchange and its attempts to run a bourse on distributed ledgers",
-          "url": "https://www.theregister.com/software/2026/07/03/failed-blockchain-project-ends-with-big-fine-for-fibs-about-it-being-on-track/5266297",
-          "source": "Theregister.com",
-          "published": "2026-07-03T04:35:52Z",
-          "image": "https://image.theregister.com/223353.jpg?imageId=223353&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
-        },
-        {
-          "title": "Failed blockchain project ends with fine for fibs about it going fine",
-          "description": "A final humiliation for Australia’s Securities Exchange and its attempts to run a bourse on distributed ledgers",
-          "url": "https://www.theregister.com/software/2026/07/03/failed-blockchain-project-ends-with-fine-for-fibs-about-it-going-fine/5266297",
-          "source": "Theregister.com",
-          "published": "2026-07-03T04:35:52Z",
-          "image": "https://image.theregister.com/223353.jpg?imageId=223353&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
-        },
-        {
-          "title": "Ondo Finance Launches First-Ever Custodial Tokenized Securities in the U.S., Broadridge Partners to Integrate World Class Governance",
-          "description": "The milestone marks the expansion of Ondo – the leader in tokenized securities by total value – into the U.S. For the first time, U.S. listed securities – BlackRock's iShares Core S&P 500 (IVV) ETF and Micron (MU) shares – were tokenized by a third party on a…",
-          "url": "https://www.prnewswire.com/news-releases/ondo-finance-launches-first-ever-custodial-tokenized-securities-in-the-us-broadridge-partners-to-integrate-world-class-governance-302816716.html",
-          "source": "PRNewswire",
-          "published": "2026-07-02T12:30:00Z",
-          "image": null
         }
       ]
     },
@@ -215,44 +231,12 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Polymarket Bitcoin Deposits Get Support for Lightning Network",
-              "description": "Polymarket Bitcoin deposits can now move through Lightning after Spark said the prediction market added support for faster BTC funding. Layer-2 Bitcoin network Spark said...\nThe post Polymarket Bitcoin Deposits Get Support for Lightning Network appeared first…",
-              "url": "https://bitcoinfoundation.org/news/prediction-markets/polymarket-bitcoin-deposits-get-support-for-lightning-network/",
-              "source": "Bitcoinfoundation.org",
-              "published": "2026-07-08T09:15:19Z",
-              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/03/ChatGPT-Image-30-мар.-2026-г.-16_04_18-1-opt.webp"
-            },
-            {
-              "title": "Show HN: Open-source market-making software that runs on your own server",
-              "description": "Free self-hosted liquidity bot for token issuers who want to improve CEX market quality without sending tokens, funds, or API keys to a third-party market maker. - Adamant-im/adamant-tradebot",
-              "url": "https://github.com/Adamant-im/adamant-tradebot",
-              "source": "Github.com",
-              "published": "2026-07-08T09:07:30Z",
-              "image": "https://repository-images.githubusercontent.com/246768611/ed45c080-2ce0-11eb-868d-297f020ae177"
-            },
-            {
-              "title": "HYPE drops below $70 as retail demand weakens despite ETF inflows",
-              "description": "Key takeaways Hyperliquid (HYPE) has fallen below $70, extending its losing streak as broader crypto market sentiment turns risk-off. Retail participation is weakening, with futures open interest declining and long liquidations dominating the derivatives mark…",
-              "url": "https://coinjournal.net/news/hype-drops-below-70-as-retail-demand-weakens-despite-etf-inflows/",
-              "source": "Coinjournal.net",
-              "published": "2026-07-08T08:12:03Z",
-              "image": "https://coinjournal.net/wp-content/uploads/2026/07/ChatGPT-Image-Jul-8-2026-09_11_35-AM.png"
-            },
-            {
               "title": "Independent Labs Crack Google’s Secret Cryptography Work",
               "description": "A quantum computer capable of breaking the codes that help secure today’s internet became dramatically more possible in March, when Google scientists and their colleagues unveiled new research. Usually, cybersecurity researchers share information about how at…",
               "url": "https://spectrum.ieee.org/google-quantum-cryptography-zero-knowledge",
               "source": "Ieee.org",
               "published": "2026-07-07T13:30:01Z",
               "image": "https://spectrum.ieee.org/media-library/conceptual-illustration-of-two-mirrored-hands-using-a-key-to-unlock-opposite-sides-of-the-same-bitcoin-token.jpg?id=67101548&width=1200&height=600&coordinates=0%2C216%2C0%2C284"
-            },
-            {
-              "title": "France promises tougher response as crypto wrench attacks hit 77",
-              "description": "French Interior Minister Laurent Nuñez promised a “more ambitious” three-part plan to reinforce security measures for the crypto sector.",
-              "url": "https://cointelegraph.com/news/french-wrench-attacks-rise-to-77-as-government-promises-more-support",
-              "source": "Cointelegraph",
-              "published": "2026-07-02T05:22:40Z",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/hi-can-bitcoin-be-hacked-2.jpg"
             }
           ]
         },
@@ -261,20 +245,20 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "Crypto Marketing Agency ICODA Releases HackGPT: A Book to Winning AI Search Citations",
-              "description": "The 51-page playbook shows how crypto-native AI marketing agencies are getting ranked by ChatGPT, Perplexity, and Google AI Overviews, ahead of competitors still chasing Google's Page One.",
-              "url": "https://www.globenewswire.com/news-release/2026/07/08/3323875/0/en/Crypto-Marketing-Agency-ICODA-Releases-HackGPT-A-Book-to-Winning-AI-Search-Citations.html",
-              "source": "GlobeNewswire",
-              "published": "2026-07-08T09:01:00Z",
-              "image": "https://ml.globenewswire.com/Resource/Download/c2f54f04-9190-4cc2-8708-e208464132eb"
+              "title": "Nium Acquires Cypher, Expanding its Fiat-to-On-Chain Money Movement Infrastructure",
+              "description": "SAN FRANCISCO, July 8, 2026 /PRNewswire/ -- Nium, the global leader in cross-border payments infrastructure, today announced the acquisition of Cypher, a crypto-native non-custodial wallet and issuing company. The deal further expands Nium as the core infrast…",
+              "url": "https://www.prnewswire.com/news-releases/nium-acquires-cypher-expanding-its-fiat-to-on-chain-money-movement-infrastructure-302821241.html",
+              "source": "PRNewswire",
+              "published": "2026-07-08T20:50:00Z",
+              "image": "https://mmx.prnewswire.com/media/MS1525939/Nium-Logo.jpg?id=OA2756243&p=facebook"
             },
             {
-              "title": "Trump Crypto Scheme Allegations: Market Forces, Not Insider Trading",
-              "description": "Trump-hating California Governor Gavin Newsom echoed claims made by numerous Democrat lawmakers and their mainstream media allies when he tweeted, \"Nearly a million people lost BILLIONS on Trump's crypto scheme while a handful of insiders made a fortune.\nThe …",
-              "url": "https://www.thegatewaypundit.com/2026/07/trump-crypto-scheme-allegations-market-forces-not-insider/",
-              "source": "Thegatewaypundit.com",
-              "published": "2026-07-07T16:20:05Z",
-              "image": "https://www.thegatewaypundit.com/wp-content/uploads/2026/07/trump-crypto-cover-1200x630.jpg"
+              "title": "BNB Chain Plans New Layer-1 for AI Agents and Quantum Future",
+              "description": "The network’s 2026 roadmap targets faster transactions, AI-powered apps, and infrastructure aimed at competing with traditional financial systems, while preparing for a quantum future.",
+              "url": "https://decrypt.co/373042/bnb-chain-new-layer-1-ai-agents-high-speed-trading-quantum",
+              "source": "Decrypt",
+              "published": "2026-07-08T16:14:20Z",
+              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/Binance-BNB-BSC-DecryptStyle-1-scaled-gID_7.jpg"
             }
           ]
         }
