@@ -1,11 +1,43 @@
 {
-  "date": "July 10, 2026",
+  "date": "July 11, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "Enterprise Smart Contracts Have a Cryptography Problem. EY Just Built a Way Around It",
+          "description": "The business case for smart contracts is building fast. Major financial institutions are using programmable, code-based agreements to underpin financial workflows, supply chain operations, and tokenization initiatives. Developers are being asked to prove the …",
+          "url": "https://devops.com/enterprise-smart-contracts-have-a-cryptography-problem-ey-just-built-a-way-around-it/",
+          "source": "DevOps.com",
+          "published": "2026-07-09T21:07:23Z",
+          "image": "https://devops.com/wp-content/uploads/2026/07/smart_contracts_privacy_770x330.jpg"
+        },
+        {
+          "title": "Bitcoin faces a quantum computing problem, and the fix might be bigger than anyone expected",
+          "description": "Bitcoin's quantum vulnerability could reshape its infrastructure, impacting mining dynamics and transaction efficiency, with significant investor implications.\nThe post Bitcoin faces a quantum computing problem, and the fix might be bigger than anyone expecte…",
+          "url": "https://cryptobriefing.com/bitcoin-quantum-challenge-stark-proofs/",
+          "source": "Crypto Briefing",
+          "published": "2026-07-09T14:04:31Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/09100426/google-quantum-computer-800x420.jpeg"
+        },
+        {
+          "title": "Chainlink CCIP Lands On zkSync Era As Layer-2 Interoperability Race Heats Up",
+          "description": "The layer-2 race is not only about speed and low fees anymore. It is also about how easily assets and messages can move between chains. Chainlink’s CCIP integration with zkSync Era lands directly in that part of the mark",
+          "url": "http://www.newsbtc.com/news/chainlink-ccip-lands-on-zksync-era-as-layer-2-interoperability-race-heats-up/",
+          "source": "newsBTC",
+          "published": "2026-07-09T13:40:00Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2023/10/Crypto-news-Template10.png?fit=1380%2C780"
+        },
+        {
+          "title": "Bitcoin’s quantum dilemma: Bigger blocks or STARK proofs?",
+          "description": "Dealing with large post quantum signatures slowing down Bitcoin can be solved with bigger blocks, or aggregating signatures using STARK proofs.",
+          "url": "https://cointelegraph.com/features/bigger-blocks-or-stark-proofs-bitcoins-quantum-dilemma",
+          "source": "Cointelegraph",
+          "published": "2026-07-09T13:30:00Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/zk-starks.jpg"
+        },
         {
           "title": "BNB Chain makes 1,000,000 TPS moonshot bet on AI as BNB price slips to 2024 lows",
           "description": "Binance-backed BNB Chain is restructuring its underlying architecture and setting a long-term goal of processing 1 million transactions per second while integrating protocol-level privacy. The strategic pivot aims to capture two distinct yet demanding emergin…",
@@ -31,20 +63,12 @@
           "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/1-2-1783506393.webp"
         },
         {
-          "title": "What Is Arcium Crypto? A Deep Dive Into the Next Big Privacy Blockchain",
-          "description": "Arcium crypto is not another privacy coin. It is a decentralized confidential computing network that enables the execution of sensitive calculations over encrypted data without...\nThe post What Is Arcium Crypto? A Deep Dive Into the Next Big Privacy Blockchai…",
-          "url": "https://bitcoinfoundation.org/news/altcoins/what-is-arcium-crypto-a-deep-dive-into-the-next-big-privacy-blockchain/",
+          "title": "Bitcoin Should Cap Inflation, Not Supply, StarkWare CEO Says",
+          "description": "StarkWare CEO Eli Ben-Sasson criticized the Bitcoin supply model, saying the fixed design limit “doesn’t make sense.“ Eli Ben-Sasson, the co-founder and chief executive of...\nThe post Bitcoin Should Cap Inflation, Not Supply, StarkWare CEO Says appeared first…",
+          "url": "https://bitcoinfoundation.org/news/bitcoin/bitcoin-should-cap-inflation-not-total-supply-starkware-ceo-says/",
           "source": "Bitcoinfoundation.org",
-          "published": "2026-07-06T18:20:50Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/Arcium1-1.webp"
-        },
-        {
-          "title": "Governance AI study finds EU data protection rules delay 11% of LLM releases",
-          "description": "EU's stringent data protection rules may hinder AI innovation, creating opportunities for privacy-preserving tech to gain a competitive edge.\nThe post Governance AI study finds EU data protection rules delay 11% of LLM releases appeared first on Crypto Briefi…",
-          "url": "https://cryptobriefing.com/eu-gdpr-delays-llm-releases-crypto-impact/",
-          "source": "Crypto Briefing",
-          "published": "2026-07-03T05:07:43Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/03010735/brussels-belgium-berlaymont-building-the-european-commission-1-800x420.jpeg"
+          "published": "2026-07-08T10:38:14Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/04/ChatGPT-Image-16-апр.-2026-г.-16_29_30-1-opt.webp"
         }
       ]
     },
@@ -53,6 +77,14 @@
       "icon": "🔐",
       "color": "#e6a200",
       "articles": [
+        {
+          "title": "Sam Altman’s Worldcoin cuts WLD unlocks by 43% but 4.9B tokens still need to prove demand",
+          "description": "Worldcoin cuts daily WLD unlocks by 43% from July 24 after nearly half of the token's total supply was unlocked by April.Worldcoin cuts daily WLD unlocks by 43% from July 24 after nearly half of the token's total supply was unlocked by April.",
+          "url": "https://cryptoslate.com/worldcoin-cuts-wld-unlocks-by-43-but-4-9b-tokens-still-need-a-reason-to-rally/",
+          "source": "CryptoSlate",
+          "published": "2026-07-09T09:33:05Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/07/sam-altman-worldcoin-wld-unlock-rate-supply-shock.jpg"
+        },
         {
           "title": "StarkWare CEO proposes 4% annual Bitcoin inflation to replace 21M cap",
           "description": "The proposal highlights the tension between maintaining Bitcoin's fixed supply cap and ensuring long-term network security through miner incentives.\nThe post StarkWare CEO proposes 4% annual Bitcoin inflation to replace 21M cap appeared first on Crypto Briefi…",
@@ -85,68 +117,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "SWIFT launches blockchain ledger with 17-bank tokenized deposit pilot",
-          "description": "SWIFT launched its new blockchain ledger and announced that it will host a tokenized bank deposit pilot for 17 major banks seeking faster cross-border payments through tokenization.",
-          "url": "https://cointelegraph.com/news/swift-launches-blockchain-announces-tokenized-deposit-pilot-with-17-banks",
-          "source": "Cointelegraph",
-          "published": "2026-07-09T08:51:48Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-time-to-challenge-swift.jpg"
+          "title": "EX DeFi Spotlights XRP’s Development Following Ripples MiCA Authorization Across Europe.",
+          "description": "EX DeFi, a leading global AI-powered platform, is making waves by highlighting XRP’s development following Ripples MiCA authorization across Europe.",
+          "url": "https://apnews.com/press-release/ein-presswire-newsmatics/press-release-eurocopa-2024-b3d9ae26496276e16526011b1883b96c",
+          "source": "Associated Press",
+          "published": "2026-07-10T03:41:47Z",
+          "image": "https://dims.apnews.com/dims4/default/f390cad/2147483647/strip/true/crop/708x472+103+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F56%2Ff8%2F9ad003f2ab0b3dd02b9565bd4df3%2F38a13dd9093045d9a7c1662da48fb646"
         },
         {
-          "title": "From Hong Kong to Europe: OSL Clears MiCAR in Austria, Joining the Minority of Platforms to Meet Europe's Stringent Crypto Rulebook",
-          "description": "OSL Group, one of the first digital asset platforms licensed in Hong Kong and listed on the HKEX, today announced a major regulatory milestone for its European subsidiary has secured MiCAR authorization from the Austrian FMA. Fewer than one in five previously…",
-          "url": "https://www.globenewswire.com/news-release/2026/07/09/3324574/0/en/From-Hong-Kong-to-Europe-OSL-Clears-MiCAR-in-Austria-Joining-the-Minority-of-Platforms-to-Meet-Europe-s-Stringent-Crypto-Rulebook.html",
-          "source": "GlobeNewswire",
-          "published": "2026-07-09T07:40:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/ff83b406-ff29-4e7f-98d4-1dfeb0cc0a3b"
+          "title": "The Coming Power War That Will Define the AI Era",
+          "description": "Every great economic era has been defined by a fight over a single resource. In the 19th century, it was coal, and the British Empire was built on top of it. In the 20th century, it was oil, and the modern Middle East and American postwar dominance were both …",
+          "url": "https://oilprice.com/Energy/Energy-General/The-Coming-Power-War-That-Will-Define-the-AI-Era.html",
+          "source": "OilPrice.com",
+          "published": "2026-07-10T00:00:00Z",
+          "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-09_m895aefry6.jpg"
         },
         {
-          "title": "Aave’s Native GHO Deployment On Arbitrum Pushes Stablecoin Liquidity Deeper Into Layer 2",
-          "description": "Aave’s GHO stablecoin needs liquidity, distribution, and real places to be used. A native Arbitrum deployment helps with all three, pushing the asset into one of Ethereum’s most active layer-2 environments. The useful",
-          "url": "https://bitcoinist.com/aave-s-native-gho-deployment-on-arbitrum-pushes-stablecoin-liquidity-deeper/",
+          "title": "BlackRock BUIDL Passing $500 Million Shows Tokenized Treasuries Still Have Momentum",
+          "description": "BlackRock’s BUIDL fund crossing the $500 million mark is another reminder that tokenized treasuries are not just a speculative side story. They have become one of the cleanest examples of traditional assets moving onto b",
+          "url": "https://bitcoinist.com/blackrock-buidl-passing-500-million-shows-tokenized-treasuries-still-have/",
           "source": "Bitcoinist",
-          "published": "2026-07-08T23:33:00Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/05/a_108a1d.jpg"
+          "published": "2026-07-09T21:40:00Z",
+          "image": "https://bitcoinist.com/wp-content/uploads/2026/06/Ethereum-from-iStock-30.jpg"
         },
         {
-          "title": "One Vanguard job posting could decide how crypto reaches 50 million investors",
-          "description": "Vanguard posted a Head of Digital Assets, Personal Wealth role on July 6, with openings in Dallas, Scottsdale, Charlotte, and Malvern. The posting asks the incoming executive to lead digital assets strategy, build a multi-year roadmap, and run enterprise exec…",
-          "url": "https://cryptoslate.com/one-vanguard-job-posting-could-decide-how-crypto-reaches-50-million-investors/",
-          "source": "CryptoSlate",
-          "published": "2026-07-08T14:05:27Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/07/vanguard-digital-assets-vault-bitcoin-pathway.jpg"
+          "title": "Figure Technology Solutions Announces Pricing of Private Offering of $600 Million of Senior Notes",
+          "description": "NEW YORK, July 09, 2026 (GLOBE NEWSWIRE) -- Figure Technology Solutions, Inc. (“Figure,” Nasdaq: FIGR; OPEN: FGRS), the leading blockchain-native capital marketplace for the origination, funding, sale and trading of tokenized assets, today announced the prici…",
+          "url": "https://www.globenewswire.com/news-release/2026/07/09/3325253/0/en/Figure-Technology-Solutions-Announces-Pricing-of-Private-Offering-of-600-Million-of-Senior-Notes.html",
+          "source": "GlobeNewswire",
+          "published": "2026-07-09T21:32:00Z",
+          "image": "https://ml.globenewswire.com/Resource/Download/33b684d4-4115-45ef-849e-b207935b0b70"
         },
         {
-          "title": "The 5 types of real world assets being tokenized fastest onchain",
-          "description": "Tokenized Real World Assets span treasuries, real estate, stocks, commodities and private credit. The sector is still small in TradFi terms but it's growing very, very fast.",
-          "url": "https://cointelegraph.com/features/as-real-world-asset-tokenization-accelerates-heres-whats-been-put-onchain",
+          "title": "Swift And Chainlink Settlement Trials Keep Tokenized Assets In The Banking Conversation",
+          "description": "Tokenized assets do not become mainstream because crypto people say they should. They get closer when the institutions that already run financial plumbing test how those assets can move through existing systems. That is",
+          "url": "https://bitcoinist.com/swift-and-chainlink-settlement-trials-keep-tokenized-assets-in-the-banking/",
+          "source": "Bitcoinist",
+          "published": "2026-07-09T21:10:00Z",
+          "image": "https://bitcoinist.com/wp-content/uploads/2026/05/ChatGPT-Image-20.-Mai-2026-08_43_17.png"
+        },
+        {
+          "title": "Banks Turn Stablecoin Safety Into a Selling Point",
+          "description": "Stablecoins have drawn attention for how they move money. Custody may prove to be the business that help solidify banks’ positioning in the institutional market. Traditional financial institutions (FIs) already possess traits corporate treasurers value: regul…",
+          "url": "https://www.pymnts.com/cryptocurrency/2026/banks-turn-stablecoin-safety-into-a-selling-point/",
+          "source": "pymnts.com",
+          "published": "2026-07-09T21:00:56Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2025/05/Stablecoins-economy-digital-assets.jpg"
+        },
+        {
+          "title": "The Siam Commercial Bank Collaborates With Citi to Pioneer 24/7 USD Clearing for Near Real-Time Cross-Border Payments With Citi Token Services",
+          "description": "The Siam Commercial Bank is the first financial institution client globally to go live with Citi’s 24/7 USD Clearing and Citi Token Services solution This collaboration advances Citi’s digital assets agenda by using blockchain and tokenized deposits to offer …",
+          "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/the-siam-commercial-bank-collaborates-with-citi-to-pioneer-24-7-usd-clearing-for-near-real-time-cross-border-payments-with-citi-token-services",
+          "source": "Financial Post",
+          "published": "2026-07-09T12:03:55Z",
+          "image": null
+        },
+        {
+          "title": "Sony Bank gets US regulator nod to issue stablecoins",
+          "description": "Sony Bank received preliminary approval from the Office of the Comptroller of the Currency to establish a US stablecoin issuance business, with $40 million in starting capital.",
+          "url": "https://cointelegraph.com/news/sony-bank-preliminary-approval-us-stablecoin-business",
           "source": "Cointelegraph",
-          "published": "2026-07-08T13:30:00Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-104813-real-world-assets-tokenization-lacks-infrastructure-not-just-regulation.jpg"
-        },
-        {
-          "title": "Morning Minute: Vanguard Hires 'Head of Digital Assets' in Crypto Capitulation",
-          "description": "Crypto majors fall as the U.S. strikes Iran, ending the ceasefire. Vanguard opens its doors. And a meme coin frenzy erupts on Robinhood chain.",
-          "url": "https://decrypt.co/372993/morning-minute-vanguard-hires-head-of-digital-assets-in-crypto-capitulation",
-          "source": "Decrypt",
-          "published": "2026-07-08T12:47:37Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/12/vanguard-decrypt-style-gID_7.jpg"
-        },
-        {
-          "title": "The Stablecoin Wars: Which Regulations Will Create the Next Winners and Losers?",
-          "description": "The stablecoin wars are accelerating, but not necessarily in the way we might expect. While liquidity and issuer reputation will still determine stablecoin success in...\nThe post The Stablecoin Wars: Which Regulations Will Create the Next Winners and Losers? …",
-          "url": "https://bitcoinfoundation.org/news/stablecoin-news/stablecoin-wars-regulations-winners-losers/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-07-08T10:12:18Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/stable-wars-1.webp"
-        },
-        {
-          "title": "What Is USDG? Everything You Need to Know About the Fast-Growing Stablecoin in 2026",
-          "description": "USDG is a US dollar-pegged stablecoin issued by Paxos, created for use in payments, trading, and on-chain settlement. It has a 1:1 value with the...\nThe post What Is USDG? Everything You Need to Know About the Fast-Growing Stablecoin in 2026 appeared first on…",
-          "url": "https://bitcoinfoundation.org/news/stablecoin-news/what-is-usdg-everything-you-need-to-know-about-the-stablecoin/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-07-03T10:59:15Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/1-1783075522.webp"
+          "published": "2026-07-09T11:18:41Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/digital-bank-1.jpg"
         }
       ]
     },
@@ -156,36 +188,28 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Carbon Offset / Carbon Credit Market; Latest Report Shows Advanced Technologies Spur Growth in Carbon Markets: Blockchain, Remote Sensing, and Digital Ledgers",
-          "description": "The evolving carbon offset market offers opportunities in tech-driven transparency, diversified credit strategies, and responding to regulatory shifts, driving decarbonization goals and stakeholder engagement. The evolving carbon offset market offers opportun…",
-          "url": "https://www.globenewswire.com/news-release/2026/07/09/3324594/28124/en/Carbon-Offset-Carbon-Credit-Market-Latest-Report-Shows-Advanced-Technologies-Spur-Growth-in-Carbon-Markets-Blockchain-Remote-Sensing-and-Digital-Ledgers.html",
+          "title": "New Crypto: BNB Based AlphaPepe Nears Tier-1 Exchange Debut While Ethereum Price Prediction Targets $4000",
+          "description": "MONACO, July 09, 2026 (GLOBE NEWSWIRE) -- AlphaPepe is quickly becoming one of the new crypto names retail buyers are watching before the next public-market breakout. The BNB-based presale has now raised $1.95 million, crossed 10,000+ holders, and moved to a …",
+          "url": "https://www.globenewswire.com/news-release/2026/07/10/3325289/0/en/New-Crypto-BNB-Based-AlphaPepe-Nears-Tier-1-Exchange-Debut-While-Ethereum-Price-Prediction-Targets-4000.html",
           "source": "GlobeNewswire",
-          "published": "2026-07-09T08:12:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/55937fbc-4d64-4cbf-90b6-e40a37cdbc39"
+          "published": "2026-07-10T01:30:00Z",
+          "image": "https://ml.globenewswire.com/Resource/Download/084ff60b-35a1-47a7-a21c-4032bd50b230"
         },
         {
-          "title": "Crypto still 'off the table' for Singapore's Temasek, four years after FTX flop",
-          "description": "Temasek's investment in the now-bankrupt FTX cryptocurrency exchange led to a writedown of $275 million in 2022, drawing much local criticism.",
-          "url": "https://www.cnbc.com/2026/07/09/temasek-takeaways-crypto-defense-ai-european-luxury-names.html",
-          "source": "CNBC",
-          "published": "2026-07-09T05:12:22Z",
-          "image": "https://image.cnbcfm.com/api/v1/image/108331819-1783476972478-gettyimages-1785159119-SINGAPORE_FINTECH.jpeg?v=1783476990&w=1920&h=1080"
+          "title": "Swift Goes Live with New Blockchain-Based Ledger",
+          "description": "Swift has officially launched its new blockchain-based ledger that will support 24/7 cross-border payments with tokenized deposits, enabling funds to move in any regulated form, anywhere, with a high level of security. The shared, blockchain-based ledger offe…",
+          "url": "https://finovate.com/swift-goes-live-with-new-blockchain-based-ledger/",
+          "source": "Finovate.com",
+          "published": "2026-07-09T22:26:40Z",
+          "image": null
         },
         {
-          "title": "Crypto VC Paradigm raises $1.2B to push into AI",
-          "description": "Paradigm, which has raised over $4 billion to invest in crypto since 2018, is moving into AI for the first time as it seeks to invest in the estimated $540 billion industry.",
-          "url": "https://cointelegraph.com/news/crypto-vc-paradigm-raises-12b-to-push-into-ai",
-          "source": "Cointelegraph",
-          "published": "2026-07-09T02:33:00Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-can-the-eus-massive-investment-into-blockchain-ai-rd-save-us-from-the-tech-oligopoly1.jpg"
-        },
-        {
-          "title": "Crypto could benefit if Fed steps in to backstop US stock market: Analysts",
-          "description": "The size and scope of the US stock market “gives policymakers a strong incentive to backstop major drawdowns,” said Bitget Wallet COO, Alvin Kan.",
-          "url": "https://cointelegraph.com/news/crypto-could-benefit-if-fed-steps-in-to-backstop-us-stock-market-analysts",
-          "source": "Cointelegraph",
-          "published": "2026-07-09T01:32:12Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-impact-of-fed-interest-rates-on-crypto-holders-2.jpg"
+          "title": "Made in USA reveals using XRP to fight counterfeit goods",
+          "description": "Made in USA Inc. is turning to the XRP Ledger to develop a digital verification platform aimed at improving transparency across American supply chains, accor...",
+          "url": "https://www.thestreet.com/crypto/markets/made-in-usa-reveals-using-xrp-to-fight-counterfeit-goods",
+          "source": "TheStreet",
+          "published": "2026-07-09T15:17:18Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/3735CAC7F67363301C6B080E188E1D4BDD85D311AFB17C2955FB5D346B94DD7B/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F3c0b167d3417bf63166bd5935f25fbcb"
         },
         {
           "title": "AscendEX Exchange Collapse Hands Europe Its First MiCA Test",
@@ -212,6 +236,14 @@
           "image": "https://mma.prnewswire.com/media/326728/Broadridge_2023_Logo.jpg?p=facebook"
         },
         {
+          "title": "Aptos Price Prediction: Can APT Outperform Solana and SUI This Cycle?",
+          "description": "What Is Aptos? Aptos crypto is built on a Layer 1 blockchain offering fast transactions, low latency, and secure smart-contract execution. It was developed by...\nThe post Aptos Price Prediction: Can APT Outperform Solana and SUI This Cycle? appeared first on …",
+          "url": "https://bitcoinfoundation.org/news/analysis/aptos-price-prediction-can-apt-outperform-solana-and-sui-this-cycle/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-07-06T13:07:57Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/1-1783336051.webp"
+        },
+        {
           "title": "ShinWon advances supply chain traceability with AI and blockchain",
           "description": "ShinWon's latest initiatives focus on enhancing data visibility at every stage in response to growing regulatory and industry expectations for environmental and social responsibility.\nGlobal regulations, such as the European Union's Corporate Sustainability D…",
           "url": "https://biztoc.com/x/1aba526d7bd88976",
@@ -231,12 +263,28 @@
           "icon": "💡",
           "articles": [
             {
+              "title": "AI is shortening the shelf life of crypto security audits, researchers warn",
+              "description": "Hackers have also been exploiting the codebases of defunct decentralized finance protocols, draining millions of dollars in customer funds.",
+              "url": "https://cointelegraph.com/news/ai-is-shortening-the-shelf-life-of-crypto-security-audits-researchers-warn",
+              "source": "Cointelegraph",
+              "published": "2026-07-09T05:47:09Z",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/hi-defi-hack-overview-what-happened-and-why.jpg"
+            },
+            {
               "title": "Independent Labs Crack Google’s Secret Cryptography Work",
               "description": "A quantum computer capable of breaking the codes that help secure today’s internet became dramatically more possible in March, when Google scientists and their colleagues unveiled new research. Usually, cybersecurity researchers share information about how at…",
               "url": "https://spectrum.ieee.org/google-quantum-cryptography-zero-knowledge",
               "source": "Ieee.org",
               "published": "2026-07-07T13:30:01Z",
               "image": "https://spectrum.ieee.org/media-library/conceptual-illustration-of-two-mirrored-hands-using-a-key-to-unlock-opposite-sides-of-the-same-bitcoin-token.jpg?id=67101548&width=1200&height=600&coordinates=0%2C216%2C0%2C284"
+            },
+            {
+              "title": "What Is Arcium Crypto? A Deep Dive Into the Next Big Privacy Blockchain",
+              "description": "Arcium crypto is not another privacy coin. It is a decentralized confidential computing network that enables the execution of sensitive calculations over encrypted data without...\nThe post What Is Arcium Crypto? A Deep Dive Into the Next Big Privacy Blockchai…",
+              "url": "https://bitcoinfoundation.org/news/altcoins/what-is-arcium-crypto-a-deep-dive-into-the-next-big-privacy-blockchain/",
+              "source": "Bitcoinfoundation.org",
+              "published": "2026-07-06T18:20:50Z",
+              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/Arcium1-1.webp"
             }
           ]
         },
@@ -245,20 +293,36 @@
           "icon": "☁️",
           "articles": [
             {
+              "title": "Warsh Taps AI, Crypto, and Global Finance Heavyweights to Rethink US Monetary Policy",
+              "description": "Kevin Warsh appoints Marc Andreessen and global central bankers to reshape Fed monetary policy. All you need to know.",
+              "url": "https://beincrypto.com/warsh-fed-team-bitcoin-bull/",
+              "source": "BeInCrypto",
+              "published": "2026-07-09T19:14:15Z",
+              "image": "https://s.yimg.com/lo/mysterio/api/DC3F8D343DB2767DFF25D3CAD22ECFDABDBCDDA5E474E106CBD9D9EAE432414D/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Fb537300b4a125367ddea021e71196edc"
+            },
+            {
+              "title": "Mantle Migrates Its Super Portal to Chainlink CCIP, Bringing Institutional-Grade Security to Every Cross-Chain Transfer of the $2.5B+ MNT Token",
+              "description": "The migration to Chainlink CCIP strengthens the security of MNT as it moves across chains, laying the foundation for Mantle's strategy for powering the future of tokenized finance at scale. DUBAI, UAE, July 9, 2026 /PRNewswire/ -- Mantle, the premier distribu…",
+              "url": "https://www.prnewswire.com/news-releases/mantle-migrates-its-super-portal-to-chainlink-ccip-bringing-institutional-grade-security-to-every-cross-chain-transfer-of-the-2-5b-mnt-token-302822040.html",
+              "source": "PRNewswire",
+              "published": "2026-07-09T14:59:00Z",
+              "image": "https://mma.prnewswire.com/media/3005227/image1.jpg?p=facebook"
+            },
+            {
+              "title": "Over $7.2 billion have migrated from LayerZero to Chainlink CCIP as Mantle joins exodus",
+              "description": "Migrations to Chainlink CCIP so far include Kelp and Lombard, both of which brought over $1 billion, as well as Solv Protocol, Virtuals, Re, and Kraken’s tokenized assets.",
+              "url": "https://www.coindesk.com/business/2026/07/09/over-usd7-2-billion-have-migrated-from-layerzero-to-chainlink-ccip-as-mantle-joins-exodus",
+              "source": "CoinDesk",
+              "published": "2026-07-09T12:02:24Z",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/91da3bd63c2004a35aff872965dcd8d06becfe6d-1920x1280.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
+            },
+            {
               "title": "Nium Acquires Cypher, Expanding its Fiat-to-On-Chain Money Movement Infrastructure",
               "description": "SAN FRANCISCO, July 8, 2026 /PRNewswire/ -- Nium, the global leader in cross-border payments infrastructure, today announced the acquisition of Cypher, a crypto-native non-custodial wallet and issuing company. The deal further expands Nium as the core infrast…",
               "url": "https://www.prnewswire.com/news-releases/nium-acquires-cypher-expanding-its-fiat-to-on-chain-money-movement-infrastructure-302821241.html",
               "source": "PRNewswire",
               "published": "2026-07-08T20:50:00Z",
               "image": "https://mmx.prnewswire.com/media/MS1525939/Nium-Logo.jpg?id=OA2756243&p=facebook"
-            },
-            {
-              "title": "BNB Chain Plans New Layer-1 for AI Agents and Quantum Future",
-              "description": "The network’s 2026 roadmap targets faster transactions, AI-powered apps, and infrastructure aimed at competing with traditional financial systems, while preparing for a quantum future.",
-              "url": "https://decrypt.co/373042/bnb-chain-new-layer-1-ai-agents-high-speed-trading-quantum",
-              "source": "Decrypt",
-              "published": "2026-07-08T16:14:20Z",
-              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/Binance-BNB-BSC-DecryptStyle-1-scaled-gID_7.jpg"
             }
           ]
         }
