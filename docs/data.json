@@ -1,5 +1,5 @@
 {
-  "date": "July 13, 2026",
+  "date": "July 14, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -86,6 +86,14 @@
           "image": "https://zycrypto.com/wp-content/uploads/2024/02/Charts-Show-ADA-Ready-For-1700-Eruption-To-8-Price-As-Stars-Align-For-Cardano-Monster-Bull-Run.jpg"
         },
         {
+          "title": "Starknet powers launch of Internet Court for agentic commerce",
+          "description": "The Internet Court's launch signifies a shift towards autonomous AI-driven commerce, potentially transforming transaction efficiency and dispute resolution.\nThe post Starknet powers launch of Internet Court for agentic commerce appeared first on Crypto Briefi…",
+          "url": "https://cryptobriefing.com/starknet-internet-court-agentic-commerce/",
+          "source": "Crypto Briefing",
+          "published": "2026-07-10T13:13:49Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/10091346/starknet-staking-delegation-program-1-800x420.jpeg"
+        },
+        {
           "title": "Sam Altman’s Worldcoin cuts WLD unlocks by 43% but 4.9B tokens still need to prove demand",
           "description": "Worldcoin cuts daily WLD unlocks by 43% from July 24 after nearly half of the token's total supply was unlocked by April.Worldcoin cuts daily WLD unlocks by 43% from July 24 after nearly half of the token's total supply was unlocked by April.",
           "url": "https://cryptoslate.com/worldcoin-cuts-wld-unlocks-by-43-but-4-9b-tokens-still-need-a-reason-to-rally/",
@@ -108,22 +116,6 @@
           "source": "Crypto Briefing",
           "published": "2026-07-08T05:56:51Z",
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/08015643/eli-ben-sasson-800x420.jpeg"
-        },
-        {
-          "title": "Ethereum 'Reinventing Itself' With Biggest Overhaul Since the Merge: Vitalik Buterin",
-          "description": "Nearly every core piece of the protocol will be rebuilt over three to four years, with quantum safety and privacy moved front and center.",
-          "url": "https://decrypt.co/372803/ethereum-reinventing-itself-with-biggest-overhaul-since-the-merge-vitalik-buterin",
-          "source": "Decrypt",
-          "published": "2026-07-06T12:51:53Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Ethereum-Vitalik-Buterin-decrypt-style-decrypt-source-01-gID_7.png"
-        },
-        {
-          "title": "Ethereum prepares for biggest overhaul since The Merge, says Vitalik Buterin",
-          "description": "Ethereum's overhaul could enhance scalability, privacy, and security, potentially boosting network activity and ETH demand, but fee dynamics pose risks.\nThe post Ethereum prepares for biggest overhaul since The Merge, says Vitalik Buterin appeared first on Cr…",
-          "url": "https://cryptobriefing.com/ethereum-lean-roadmap-biggest-overhaul-since-merge/",
-          "source": "Crypto Briefing",
-          "published": "2026-07-06T08:14:18Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/06041411/https-upload-wikimedia-org-wikipedia-commons-1-1c-vitalik-bu-5-800x420.jpeg"
         }
       ]
     },
@@ -133,12 +125,60 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "3 reasons Bitcoin is stuck in a bear market—and why one analyst predicts a rebound to $100,000 by year-end",
-          "description": "Rising inflation, Bitcoin’s four-year cycle, and excess leverage continue to draw the cryptocurrency’s price down.",
-          "url": "https://fortune.com/2026/07/12/bitcoin-bear-market-three-drivers-rebound/",
-          "source": "Fortune",
-          "published": "2026-07-12T07:00:00Z",
-          "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/go774-bitcoin-slump-copy-1.png?resize=1200,600"
+          "title": "USDT Transactions Draw Scrutiny From Thailand’s Central Bank",
+          "description": "Thailand’s central bank is tightening scrutiny of crypto transfers after finding some USDT transactions may be bypassing compliance rules. The Bank of Thailand, the country’s...\nThe post USDT Transactions Draw Scrutiny From Thailand’s Central Bank appeared fi…",
+          "url": "https://bitcoinfoundation.org/news/stablecoin-news/usdt-transactions-draw-scrutiny-from-thailand/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-07-13T07:54:27Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/04/stablecoin-opt.webp"
+        },
+        {
+          "title": "Virtune Adds BitGo as an Additional Custodian for Selected ETPs Within Its ETP Programme",
+          "description": "Stockholm, 13 July 2026 – Virtune today announces that the issuer has added an additional custodian, BitGo Europe GmbH (\"BitGo\"), which will operate alongside the existing custodians for selected crypto ETPs.",
+          "url": "https://www.globenewswire.com/news-release/2026/07/13/3325929/0/en/Virtune-Adds-BitGo-as-an-Additional-Custodian-for-Selected-ETPs-Within-Its-ETP-Programme.html",
+          "source": "GlobeNewswire",
+          "published": "2026-07-13T07:40:00Z",
+          "image": "https://ml-eu.globenewswire.com/Resource/Download/da0bec69-79eb-4618-87fd-d96aa395aaed"
+        },
+        {
+          "title": "U.S. CBDC Ban Enacted Without Trumpâs Signature on Housing Bill",
+          "description": "A ban on the Federal Reserve issuing a central bank digital currency (CBDC) directly to individuals is set to take effect after being attached to a housing bill that became law without President Donald Trump’s signature, according to the bill text and officia…",
+          "url": "https://www.naturalnews.com/2026-07-13-us-cbdc-ban-enacted-without-trump-signature.html",
+          "source": "Naturalnews.com",
+          "published": "2026-07-13T06:00:00Z",
+          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/cbdc-ban-us-central-bank-digital-currency-donald-trump-2681-original.jpg"
+        },
+        {
+          "title": "Ripple CEO Says Company Considered Folding Before SEC Fight",
+          "description": "Ripple’s CEO says the blockchain company considered shuttering following an Securities and Exchange Commission (SEC) lawsuit. In a talk at the University of Kansas School of Business, Brad Garlinghouse said he and co-founder Chris Larsen weighed winding down …",
+          "url": "https://www.pymnts.com/blockchain/2026/ripple-ceo-says-company-considered-folding-before-sec-fight/",
+          "source": "pymnts.com",
+          "published": "2026-07-12T22:24:17Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/07/Ripple-SEC-1.jpg"
+        },
+        {
+          "title": "Signs of life?: State of Crypto",
+          "description": "Several sources told CoinDesk that a new draft of the Clarity Act may drop this week, but challenges remain.",
+          "url": "https://www.coindesk.com/policy/2026/07/12/signs-of-life-state-of-crypto",
+          "source": "CoinDesk",
+          "published": "2026-07-12T18:30:00Z",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/39aef47b93f60ebf7e668e371d51320693bb79e3-3364x1894.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
+        },
+        {
+          "title": "XRP loses $700 million in futures bets while XRPL builds a $4 billion institutional pipeline",
+          "description": "Demand for XRP is weakening across several key market indicators, testing whether the XRP Ledger’s (XRPL) growing institutional pipeline can translate into sustained investor and network activity. US spot XRP exchange-traded funds recorded about $7.2 million …",
+          "url": "https://cryptoslate.com/xrp-investors-head-for-the-exits-as-700-million-in-futures-bets-disappear/",
+          "source": "CryptoSlate",
+          "published": "2026-07-12T16:05:46Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/07/xrp-liquidity-drain-investor-demand-decline.jpg"
+        },
+        {
+          "title": "Tokenization could make finance faster, but also more susceptible to shocks, IMF says",
+          "description": "Tokenization could make finance faster and cheaper. It also makes it more vulnerable to sudden shocks, the International Monetary Fund said. Tokenization, the process of moving financial assets into a blockchain environment, could make markets faster and chea…",
+          "url": "https://www.activistpost.com/tokenization-could-make-finance-faster-but-also-more-susceptible-to-shocks-imf-says/",
+          "source": "Activistpost.com",
+          "published": "2026-07-12T13:00:00Z",
+          "image": null
         },
         {
           "title": "Ripple's stablecoin is fading away on popular chain, XRP crashes",
@@ -147,54 +187,6 @@
           "source": "Yahoo Entertainment",
           "published": "2026-07-11T20:58:54Z",
           "image": null
-        },
-        {
-          "title": "Crypto won the ETF fight but now the SEC is questioning if things have gone too far",
-          "description": "The ETF became one of Wall Street’s most powerful distribution tools because it turned market exposure into an easy-to-use and easy-to-understand retail product. Investors could buy an index, a basket of bonds, a commodity thesis, or a tightly packaged theme …",
-          "url": "https://cryptoslate.com/crypto-won-the-etf-fight-but-now-the-sec-is-questioning-if-things-have-gone-too-far/",
-          "source": "CryptoSlate",
-          "published": "2026-07-11T19:05:51Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/07/etf-wrapper-hidden-crypto-complexity.jpg"
-        },
-        {
-          "title": "Il calendario delle IPO cripto rallenta in un contesto di mercato debole",
-          "description": "Funding constraints and investor caution, not regulation, are delaying crypto IPOs, according to Cohen & Company Capital Markets' Christian Lopez.",
-          "url": "https://www.coindesk.com/it/business/2026/07/08/crypto-ipo-market-stalls-as-capital-rotates-to-ai-and-macro-uncertainty-weighs",
-          "source": "CoinDesk",
-          "published": "2026-07-11T18:11:33Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/254961a3adc7c5698b4ba47d0de96c8605400978-1920x1280.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
-        },
-        {
-          "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks",
-          "description": "Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.",
-          "url": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
-          "source": "Decrypt",
-          "published": "2026-07-11T16:21:34Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/07/robinhood-chain-learn-gID_7-pID_2.png"
-        },
-        {
-          "title": "Bitcoin’s next parabolic run may need $1 trillion in fresh capital",
-          "description": "The UK unveiled its most comprehensive crypto regulatory framework yet, requiring firms to meet capital, stress-testing, and market-abuse standards while easing some stablecoin rules. The UK’s Financial Conduct Authority published a landmark crypto regulatory…",
-          "url": "https://www.activistpost.com/bitcoins-next-parabolic-run-may-need-1-trillion-in-fresh-capital/",
-          "source": "Activistpost.com",
-          "published": "2026-07-11T16:00:00Z",
-          "image": null
-        },
-        {
-          "title": "US CBDC Ban Set to Become Law at Midnight",
-          "description": "A four-year ban on a U.S. central bank digital currency (CBDC) is set to take effect if a housing bill becomes law Saturday (July 11), CoinDesk reported Friday (July 10).\nThe ban is included in the bill that was approved by Congress and sent to President Dona…",
-          "url": "https://biztoc.com/x/3461e0ca29cc8cfb",
-          "source": "Biztoc.com",
-          "published": "2026-07-11T00:52:48Z",
-          "image": "https://biztoc.com/cdn/995/og.png"
-        },
-        {
-          "title": "Senate Democrats call for hearings into Trump’s ties to crypto amid CLARITY Act discussions",
-          "description": "Five senators called for committee hearings to investigate US President Donald Trump’s policies potentially being influenced by crypto funding from United Arab Emirates-linked and other entities.",
-          "url": "https://cointelegraph.com/news/senate-democrats-hearings-donald-trump-crypto-clarity-act",
-          "source": "Cointelegraph",
-          "published": "2026-07-10T21:03:57Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-hearing-on-23rd.jpg"
         }
       ]
     },
@@ -218,14 +210,6 @@
           "source": "Yahoo Entertainment",
           "published": "2026-07-11T15:32:30Z",
           "image": "https://s.yimg.com/lo/mysterio/api/0917BDEF5E8E867D1AE2D44096DE56671AA9BAE6D0B2885DA3921ECDE0920D8B/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F8a48568f76c211ad6fbd8161bc1d61ba"
-        },
-        {
-          "title": "What Is DeFi? Decentralized Finance Explained 2026",
-          "description": "Out in the open, DeFi cuts out banks and brokers, while skipping payment processors, too. Known fully as decentralized finance, in 2026, it still stands...\nThe post What Is DeFi? Decentralized Finance Explained 2026 appeared first on Bitcoin Foundation.",
-          "url": "https://bitcoinfoundation.org/news/defi/what-is-defi-decentralized-finance-explained/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-07-11T11:17:47Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/defi_explained_2026_140px_padding.webp"
         },
         {
           "title": "Why the Pure Bitcoin-Miner Fund Crushed the Blockchain Basket, Up 184%",
@@ -279,12 +263,12 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Zayıf piyasa koşulları arasında Kripto Halka Arz (IPO) süreci yavaşlıyor",
-              "description": "Funding constraints and investor caution, not regulation, are delaying crypto IPOs, according to Cohen & Company Capital Markets' Christian Lopez.",
-              "url": "https://www.coindesk.com/tr/business/2026/07/08/crypto-ipo-market-stalls-as-capital-rotates-to-ai-and-macro-uncertainty-weighs",
-              "source": "CoinDesk",
-              "published": "2026-07-11T20:09:51Z",
-              "image": "https://cdn.sanity.io/images/s3y3vcno/production/254961a3adc7c5698b4ba47d0de96c8605400978-1920x1280.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
+              "title": "The Funding: Why Japan’s SBI Holdings is investing big in crypto",
+              "description": "The Japanese financial giant's recent crypto deals offer insights into how traditional finance is approaching digital assets.",
+              "url": "https://biztoc.com/x/652e75931dfa41f3",
+              "source": "Biztoc.com",
+              "published": "2026-07-13T02:18:46Z",
+              "image": "https://biztoc.com/cdn/652e75931dfa41f3_s.webp"
             },
             {
               "title": "Independent Labs Crack Google’s Secret Cryptography Work",
@@ -300,6 +284,14 @@
           "title": "Hyperscalers",
           "icon": "☁️",
           "articles": [
+            {
+              "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks",
+              "description": "Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.",
+              "url": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
+              "source": "Decrypt",
+              "published": "2026-07-11T16:21:34Z",
+              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/07/robinhood-chain-learn-gID_7-pID_2.png"
+            },
             {
               "title": "Barclays, Morgan Stanley boost Robinhood price target by up to 50%",
               "description": "Robinhood Markets (Nasdaq: HOOD) is a brokerage platform whose commission-free offering of equities, cryptocurrencies, and tokenized stocks has made it extre...",
