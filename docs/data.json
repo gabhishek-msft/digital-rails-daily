@@ -1,11 +1,27 @@
 {
-  "date": "July 16, 2026",
+  "date": "July 17, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "ClaudeFix: Shared Claude Chats Meet ClickFix",
+          "description": "IntroductionClickFix is a widely employed attack technique, first seen in 2024, where a victim is instructed to paste-and-run instructions on their system to “fix” a problem or install software. The seemingly benign instructions are, in fact, malicious and le…",
+          "url": "https://www.zscaler.com/blogs/security-research/claudefix-shared-claude-chats-meet-clickfix",
+          "source": "Zscaler.com",
+          "published": "2026-07-15T14:39:45Z",
+          "image": "https://cms.zscaler.com/sites/default/files/images/blogs/claude_chats_blog_cover.jpg"
+        },
+        {
+          "title": "Is Robinhood Chain’s success bullish or bearish for ETH the asset?",
+          "description": "Robinhood Chain’s massive launch has reignited the debate over whether Ethereum’s L2 ecosystem will translate into lasting demand for ETH.",
+          "url": "https://cointelegraph.com/features/has-robinhoods-layer-2-given-eth-a-new-bull-case",
+          "source": "Cointelegraph",
+          "published": "2026-07-15T13:30:00Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-does-robinhood-chain-finally-change-the-investment-case-for-eth.jpg"
+        },
         {
           "title": "Starknet launches STRK20 privacy framework for on-chain assets",
           "description": "Starknet's STRK20 framework enhances blockchain privacy, potentially reshaping user trust and regulatory compliance in decentralized finance.\nThe post Starknet launches STRK20 privacy framework for on-chain assets appeared first on Crypto Briefing.",
@@ -45,30 +61,6 @@
           "source": "Crypto Briefing",
           "published": "2026-07-10T14:30:55Z",
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/10103024/Gyeonggi-Province-to-test-stablecoin-for-public-payments-in-August.jpg"
-        },
-        {
-          "title": "AHGDA Reshapes the Global Financial Order and Ushers in a New Era of Digital Assets",
-          "description": "NEW YORK, July 10, 2026 (GLOBE NEWSWIRE) -- AHGDA (Aurum Harbor Global Digital Assets Inc.) officially announced today that the company has completed its entity registration and Good Standing certification in the state of Colorado, USA, and has successfully f…",
-          "url": "https://www.globenewswire.com/news-release/2026/07/10/3325348/0/en/AHGDA-Reshapes-the-Global-Financial-Order-and-Ushers-in-a-New-Era-of-Digital-Assets.html",
-          "source": "GlobeNewswire",
-          "published": "2026-07-10T08:17:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/bdf70081-1281-4973-9723-3e1b5f00364a"
-        },
-        {
-          "title": "Enterprise Smart Contracts Have a Cryptography Problem. EY Just Built a Way Around It",
-          "description": "The business case for smart contracts is building fast. Major financial institutions are using programmable, code-based agreements to underpin financial workflows, supply chain operations, and tokenization initiatives. Developers are being asked to prove the …",
-          "url": "https://devops.com/enterprise-smart-contracts-have-a-cryptography-problem-ey-just-built-a-way-around-it/",
-          "source": "DevOps.com",
-          "published": "2026-07-09T21:07:23Z",
-          "image": "https://devops.com/wp-content/uploads/2026/07/smart_contracts_privacy_770x330.jpg"
-        },
-        {
-          "title": "Bitcoin’s quantum dilemma: Bigger blocks or STARK proofs?",
-          "description": "Dealing with large post quantum signatures slowing down Bitcoin can be solved with bigger blocks, or aggregating signatures using STARK proofs.",
-          "url": "https://cointelegraph.com/features/bigger-blocks-or-stark-proofs-bitcoins-quantum-dilemma",
-          "source": "Cointelegraph",
-          "published": "2026-07-09T13:30:00Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/zk-starks.jpg"
         }
       ]
     },
@@ -78,44 +70,28 @@
       "color": "#e6a200",
       "articles": [
         {
+          "title": "TSMC profits surge 77% on AI demand, signaling sustained compute buildout",
+          "description": "TSMC's profit surge highlights the critical role of semiconductor advancements in sustaining AI and blockchain infrastructure growth globally.\nThe post TSMC profits surge 77% on AI demand, signaling sustained compute buildout appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/tsmc-profits-surge-ai-demand/",
+          "source": "Crypto Briefing",
+          "published": "2026-07-16T06:51:56Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/14195932/ChatGPT-Image-Feb-5-2026-06_41_20-PM-800x420.png"
+        },
+        {
+          "title": "Celo ranks first in 30-day tokenholder growth among L1 and L2 chains",
+          "description": "Celo's growth highlights the potential for blockchain adoption in emerging markets, emphasizing user acquisition strategies and tokenomics evolution.\nThe post Celo ranks first in 30-day tokenholder growth among L1 and L2 chains appeared first on Crypto Briefi…",
+          "url": "https://cryptobriefing.com/celo-tokenholder-growth-l1-l2-chains/",
+          "source": "Crypto Briefing",
+          "published": "2026-07-15T20:17:32Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/14195540/ChatGPT-Image-Mar-31-2026-12_23_49-PM-800x420.png"
+        },
+        {
           "title": "Why Is ZKP Crypto Price Crashing Today? The Real Reason Behind the Sell-Off",
           "description": "The ZKP crypto price is dropping precipitously today, on July 14, 2026, hitting $0.0430 — down 5.84% in the last 24 hours as volume surged...\nThe post Why Is ZKP Crypto Price Crashing Today? The Real Reason Behind the Sell-Off appeared first on Bitcoin Founda…",
           "url": "https://bitcoinfoundation.org/news/analysis/why-is-zkp-crypto-price-crashing-today-the-real-reason-behind-the-sell-off/",
           "source": "Bitcoinfoundation.org",
           "published": "2026-07-14T11:16:10Z",
           "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/zkp-1.webp"
-        },
-        {
-          "title": "Robinhood Chain’s perps deal with Lighter spans 12 years of relationship building, says CEO Novakovski",
-          "description": "The Robinhood-Lighter partnership could redefine retail access to on-chain perpetuals, but regulatory and collateral risks loom large.\nThe post Robinhood Chain’s perps deal with Lighter spans 12 years of relationship building, says CEO Novakovski appeared fir…",
-          "url": "https://cryptobriefing.com/robinhood-chain-lighter-perps-deal-12-years/",
-          "source": "Crypto Briefing",
-          "published": "2026-07-11T16:05:47Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/11120541/vladimir-novakovski-800x420.jpeg"
-        },
-        {
-          "title": "Hoskinson Confirms Cardano’s Strong Fundamentals Ahead of Historic Network Upgrade",
-          "description": "Cardano founder Charles Hoskinson has reaffirmed the blockchain's long-term strength, insisting that the network remains fundamentally secure.",
-          "url": "https://zycrypto.com/hoskinson-confirms-cardanos-strong-fundamentals-ahead-of-historic-network-upgrade/",
-          "source": "ZyCrypto",
-          "published": "2026-07-10T17:24:05Z",
-          "image": "https://zycrypto.com/wp-content/uploads/2024/02/Charts-Show-ADA-Ready-For-1700-Eruption-To-8-Price-As-Stars-Align-For-Cardano-Monster-Bull-Run.jpg"
-        },
-        {
-          "title": "Starknet powers launch of Internet Court for agentic commerce",
-          "description": "The Internet Court's launch signifies a shift towards autonomous AI-driven commerce, potentially transforming transaction efficiency and dispute resolution.\nThe post Starknet powers launch of Internet Court for agentic commerce appeared first on Crypto Briefi…",
-          "url": "https://cryptobriefing.com/starknet-internet-court-agentic-commerce/",
-          "source": "Crypto Briefing",
-          "published": "2026-07-10T13:13:49Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/10091346/starknet-staking-delegation-program-1-800x420.jpeg"
-        },
-        {
-          "title": "Sam Altman’s Worldcoin cuts WLD unlocks by 43% but 4.9B tokens still need to prove demand",
-          "description": "Worldcoin cuts daily WLD unlocks by 43% from July 24 after nearly half of the token's total supply was unlocked by April.Worldcoin cuts daily WLD unlocks by 43% from July 24 after nearly half of the token's total supply was unlocked by April.",
-          "url": "https://cryptoslate.com/worldcoin-cuts-wld-unlocks-by-43-but-4-9b-tokens-still-need-a-reason-to-rally/",
-          "source": "CryptoSlate",
-          "published": "2026-07-09T09:33:05Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/07/sam-altman-worldcoin-wld-unlock-rate-supply-shock.jpg"
         }
       ]
     },
@@ -125,68 +101,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Kraken Adds USDT0 On Tempo As Stablecoin Rails Keep Spreading Across Networks",
-          "description": "Kraken Adds USDT0 On Tempo As Stablecoin Rails Keep Spreading Across Networks is a useful reminder that crypto coverage is not only about token prices. Sometimes the more important story is the infrastructure, regulation",
-          "url": "https://bitcoinist.com/kraken-adds-usdt0-on-tempo-as-stablecoin-rails-keep-spreading-across-networks/",
-          "source": "Bitcoinist",
-          "published": "2026-07-15T01:45:00Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/05/a_5a08e0.jpg"
+          "title": "Why a $545 Slice of a Dubai Apartment Is the Biggest Story in Tokenization",
+          "description": "Explore more conversations like this From the Block. The blockchain industry has spent years promising to replace the filing cabinet to either make illiquid assets tradable or provide an immutable record in the event a natural disaster wipes out the paper rec…",
+          "url": "https://www.pymnts.com/blockchain/2026/why-a-545-slice-of-a-dubai-apartment-is-the-biggest-story-in-tokenization/",
+          "source": "pymnts.com",
+          "published": "2026-07-16T08:00:51Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/07/2026-Podcast-Hero-Citi-FTB-101-copy.png"
         },
         {
-          "title": "Banking Groups Push Senate To Rewrite Stablecoin Yield Rules",
-          "description": "Banking Groups Push Senate To Rewrite Stablecoin Yield Rules is a useful reminder that crypto coverage is not only about token prices. Sometimes the more important story is the infrastructure, regulation, security, or pr",
-          "url": "https://bitcoinist.com/banking-groups-push-senate-to-rewrite-stablecoin-yield-rules/",
+          "title": "HTX H1 2026 Performance Report: Nearly $900 Billion in Trading Volume, Top Asset Surged 620%, Driving Long-Term Value Through Wealth Opportunities, Liquidity, and Security",
+          "description": "PANAMA CITY, July 16, 2026 (GLOBE NEWSWIRE) -- The first half of 2026 has concluded. It was a turbulent six months for the crypto market, marked by rapid sector rotations across AI, RWA, stablecoins, and TradFi. As market opportunities shift rapidly and narra…",
+          "url": "https://www.globenewswire.com/news-release/2026/07/16/3328248/0/en/HTX-H1-2026-Performance-Report-Nearly-900-Billion-in-Trading-Volume-Top-Asset-Surged-620-Driving-Long-Term-Value-Through-Wealth-Opportunities-Liquidity-and-Security.html",
+          "source": "GlobeNewswire",
+          "published": "2026-07-16T07:25:00Z",
+          "image": "https://ml.globenewswire.com/Resource/Download/5f3627f3-7de7-40f7-a168-b88651401c7b"
+        },
+        {
+          "title": "DMG Blockchain Solutions Inc. Announces Two Investments to Develop its Data Center and Digital Transaction Services Businesses",
+          "description": "VANCOUVER, British Columbia, July 16, 2026 (GLOBE NEWSWIRE) — DMG Blockchain Solutions Inc. (TSX-V: DMGI) (OTCQB: DMGGF) (FRANKFURT: 6AX) (“DMG” or the “Company”), a vertically integrated digital asset and data center technology company, announces that it has…",
+          "url": "https://financialpost.com/globe-newswire/dmg-blockchain-solutions-inc-announces-two-investments-to-develop-its-data-center-and-digital-transaction-services-businesses",
+          "source": "Financial Post",
+          "published": "2026-07-16T06:08:54Z",
+          "image": null
+        },
+        {
+          "title": "Tokenized Assets a Key Priority for Financial Services Firms, Broadridge Survey Finds",
+          "description": "New Tokenization Pulse Survey reveals increasing strategic importance and investment, with firms focused on a hybrid market infrastructure NEW YORK, July 16, 2026 /PRNewswire/ -- Tokenization is no longer a future-state concept, as financial institutions incr…",
+          "url": "https://www.prnewswire.com/news-releases/tokenized-assets-a-key-priority-for-financial-services-firms-broadridge-survey-finds-302826937.html",
+          "source": "PRNewswire",
+          "published": "2026-07-16T06:00:00Z",
+          "image": "https://mma.prnewswire.com/media/326728/Broadridge_2023_Logo.jpg?p=facebook"
+        },
+        {
+          "title": "Vanguard Warms to Crypto With Search for Digital Assets Chief",
+          "description": "Vanguard is hiring its first head of digital assets to develop a long-term crypto and blockchain strategy. Vanguard, one of the world’s largest asset managers and a longtime skeptic of cryptocurrency, has opened a search for a head of digital assets, a senior…",
+          "url": "https://www.activistpost.com/vanguard-warms-to-crypto-with-search-for-digital-assets-chief/",
+          "source": "Activistpost.com",
+          "published": "2026-07-16T00:00:00Z",
+          "image": "https://www.activistpost.com/wp-content/uploads/2026/07/Vanguard-Opens-Its-Platform-to-Bitcoin-and-Crypto-ETFs-1024x576-1.webp"
+        },
+        {
+          "title": "Figure Technology Solutions Announces Date for Second Quarter 2026 Results",
+          "description": "NEW YORK, July 15, 2026 (GLOBE NEWSWIRE) -- Figure Technology Solutions, Inc. (Nasdaq: FIGR; OPEN: FGRS) (“Figure”), the leading blockchain-native capital marketplace for the origination, funding, sale, and trading of tokenized assets, today announced that it…",
+          "url": "https://www.globenewswire.com/news-release/2026/07/15/3328165/0/en/Figure-Technology-Solutions-Announces-Date-for-Second-Quarter-2026-Results.html",
+          "source": "GlobeNewswire",
+          "published": "2026-07-15T21:31:00Z",
+          "image": "https://ml.globenewswire.com/Resource/Download/33b684d4-4115-45ef-849e-b207935b0b70"
+        },
+        {
+          "title": "Six U.S. Federal Agencies Push Rules For GENIUS Act Payment Stablecoin Framework",
+          "description": "Six U.S. Federal Agencies Push Rules For GENIUS Act Payment Stablecoin Framework is the kind of story that can look simple at first glance, but it carries more weight once you place it inside the week’s broader crypto ba",
+          "url": "https://bitcoinist.com/six-u-s-federal-agencies-push-rules-for-genius-act-payment-stablecoin-framework/",
           "source": "Bitcoinist",
-          "published": "2026-07-14T23:45:00Z",
+          "published": "2026-07-15T21:05:00Z",
           "image": "https://bitcoinist.com/wp-content/uploads/2026/05/stablecoins.jpg"
         },
         {
-          "title": "Why Digital ID Is The Hill To Die On: The Authentication Layer",
-          "description": "Why Digital ID Is The Hill To Die On: The Authentication Layer\n \nAuthored by Joshua Stylman via Substack,\nA friend and I got into it recently. He’s smart, freedom-minded, and totally gets the danger of Central Bank Digital Currencies (CBDC). Expiring money, p…",
-          "url": "https://biztoc.com/x/9663b64fb2e629f5",
-          "source": "Biztoc.com",
-          "published": "2026-07-14T23:22:48Z",
-          "image": "https://biztoc.com/cdn/9663b64fb2e629f5_s.webp"
-        },
-        {
-          "title": "US, UK treasuries to align transatlantic rules on tokenization and stablecoins",
-          "description": "The two governments issued recommendations on the treatment of digital assets as the US prepares to implement a 2025 law on payment stablecoins.",
-          "url": "https://cointelegraph.com/news/us-uk-treasuries-rules-tokenized-finance",
-          "source": "Cointelegraph",
-          "published": "2026-07-14T19:45:20Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-regulation-considerations-in-the-united-states-and-united-kingdom.jpg"
-        },
-        {
-          "title": "U.S., UK move to align rules for tokenized finance across world's largest financial markets",
-          "description": "The joint roadmap aims to reduce regulatory friction for tokenized assets while strengthening ties between the world's two largest financial centers.",
-          "url": "https://www.coindesk.com/policy/2026/07/14/u-s-uk-move-to-align-rules-for-tokenized-finance-across-world-s-largest-financial-markets",
-          "source": "CoinDesk",
-          "published": "2026-07-14T16:29:48Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/4997e8344864d8af680c8573fe456675d3db41fd-3965x2230.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
-        },
-        {
-          "title": "Tether Backs Pact Labs in $7M Push to Bring USA₮ Into U.S. Payroll",
-          "description": "Tether has backed Pact Labs in a $7 million Series A round to expand USA₮ (CRYPTO: $USDT) across payroll, earned wa...",
-          "url": "https://www.cryptoprowl.com/releases/tether-backs-pact-labs-in-7m-push-to-bring-usa-into-us-payroll-6150",
-          "source": "Cryptoprowl.com",
-          "published": "2026-07-14T14:26:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/53C79AF22CE0AE77281900E1AFCB136A14278D71FF3616EC3B4ABB8E88AC5F92/subgraphmysterio/resizefill_w1200_h720;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F32cbbc8f36323a7886540a815ac753a8"
-        },
-        {
-          "title": "Four Banks Raised Robinhood’s Target in Eight Days: What Do They See Coming?",
-          "description": "Morgan Stanley, Bank of America, Mizuho, and Compass Point lifted Robinhood targets. On-chain data shows what they see.",
-          "url": "https://beincrypto.com/robinhood-price-target-four-banks-analysis/",
-          "source": "BeInCrypto",
-          "published": "2026-07-14T11:26:31Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/3B6457E4402EDCB0586C745F3EDF537681291A9EADD5C50C36D5EE7BEB5A7985/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F73c061ad1f46731a333ec1ef17be9a8b"
-        },
-        {
-          "title": "ECB picks 36 payment providers to test digital euro ahead of 2027 pilot",
-          "description": "The ECB selected 36 payment service providers for a 2027 digital euro pilot that will test the proposed CBDC with companies across the euro area.",
-          "url": "https://cointelegraph.com/news/ecb-36-payment-providers-digital-euro-pilot",
-          "source": "Cointelegraph",
-          "published": "2026-07-14T11:16:38Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-digital-euro-project-how-it-will-impact-the-current-financial-system-ecb-1.jpg"
+          "title": "Banks Make Deposit Defense Their Best Offense in Crypto Battle",
+          "description": "Blockchain financial products are no longer merely standing at the edge of banking. They are beginning to reproduce some of its most profitable functions across banking’s own regulated landscape. Japan, for example, on Wednesday (July 15) passed a new parliam…",
+          "url": "https://www.pymnts.com/cryptocurrency/2026/banks-make-deposit-defense-best-offense-crypto-battle/",
+          "source": "pymnts.com",
+          "published": "2026-07-15T15:49:21Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/07/bank.jpeg"
         }
       ]
     },
@@ -196,28 +172,20 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "US freezes $131M in Iran-linked crypto as Middle East tensions rise",
-          "description": "“US Treasury is committed to disrupting and degrading Iran’s illicit financial activities, including its abuse of digital assets,” US Treasury Secretary Scott Bessent said Tuesday.",
-          "url": "https://cointelegraph.com/news/us-freezes-131m-in-iran-linked-crypto-as-middle-east-tensions-rise",
-          "source": "Cointelegraph",
-          "published": "2026-07-15T03:17:59Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/tether-mints-usdt-iran.jpg"
+          "title": "Live updates: ZachXBT calls hardware wallets complete garbage; BTC steady after Korea rate hike",
+          "description": "Blockchain investigator ZachXBT came down heavily on hardware wallets. BTC traded steady near $65,000 after South Korea's rate hike.",
+          "url": "https://www.coindesk.com/markets/2026/07/16/live-updates-zachxbt-calls-hardware-wallets-complete-garbage-btc-steady-near-usd65-000",
+          "source": "CoinDesk",
+          "published": "2026-07-16T06:20:00Z",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/54946ad2d6ad14a79c141bb3f84a2e8730394705-1280x853.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
         },
         {
-          "title": "New Hampshire’s $100 Million Bitcoin-Backed Bond Faces Final Vote",
-          "description": "New Hampshire’s Executive Council will vote Wednesday on a first-of-its-kind $100 million Bitcoin-backed municipal bond. New Hampshire’s plan to issue what backers call the world’s first Bitcoin-backed municipal bond goes before the state’s Executive Council …",
-          "url": "https://www.activistpost.com/new-hampshires-100-million-bitcoin-backed-bond-faces-final-vote/",
-          "source": "Activistpost.com",
-          "published": "2026-07-14T22:00:00Z",
-          "image": "https://www.activistpost.com/wp-content/uploads/2026/07/New-Hampshires-100-Million-Bitcoin-Backed-Bond-Faces-Final-Vote-1024x576-1.webp"
-        },
-        {
-          "title": "Collector Sébastien Borget Wants Digital Art to Grow Up Without Losing Its Edge",
-          "description": "With a background in gaming, virtual worlds and Web3, he approaches art and collecting from the infrastructure side of digital culture.",
-          "url": "https://observer.com/2026/07/interview-collector-sebastien-borget-artverse-paris-the-sandbox-digital-art/",
-          "source": "Observer",
-          "published": "2026-07-14T19:49:08Z",
-          "image": "https://observer.com/wp-content/uploads/sites/2/2026/07/Artverse-Portraits-8609-HD.jpg?quality=80"
+          "title": "UK plans first G7 digital sovereign bond by early 2027",
+          "description": "The security will launch on HSBC’s Orion platform within the BoE and FCA’s Digital Securities Sandbox to test reduced settlement times and costs.",
+          "url": "https://www.coindesk.com/business/2026/07/15/uk-plans-first-g7-digital-sovereign-bond-by-early-2027",
+          "source": "CoinDesk",
+          "published": "2026-07-15T08:16:34Z",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/9cf7e1b52e7391faee37bcb2cc0bf4a976d531da-5784x3254.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
         },
         {
           "title": "AI, IoT and Blockchain in Modern Agriculture Market Report — Forecasts Market to Reach $154.54 Billion by 2035, Covers Precision Farming, Smart Sensors, Autonomous Machinery, and Blockchain Traceability",
@@ -242,14 +210,6 @@
           "source": "24/7 Wall St.",
           "published": "2026-07-10T20:48:57Z",
           "image": "https://s.yimg.com/lo/mysterio/api/124489933370ECB479AEBDD4962257D6F0DFE61F872CE39832060C82ABBAFB52/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F859859241034558057f076c1c9064a4e"
-        },
-        {
-          "title": "Made in USA reveals using XRP to fight counterfeit goods",
-          "description": "Made in USA Inc. is turning to the XRP Ledger to develop a digital verification platform aimed at improving transparency across American supply chains, accor...",
-          "url": "https://www.thestreet.com/crypto/markets/made-in-usa-reveals-using-xrp-to-fight-counterfeit-goods",
-          "source": "TheStreet",
-          "published": "2026-07-09T15:17:18Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/3735CAC7F67363301C6B080E188E1D4BDD85D311AFB17C2955FB5D346B94DD7B/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F3c0b167d3417bf63166bd5935f25fbcb"
         }
       ]
     },
@@ -263,12 +223,12 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Bitget Wallet and alfred Bring Stablecoin Access to Latin America's Local Banking Rails",
-              "description": "Bitget Wallet, a self-custodial crypto wallet for everyday finance, has partnered with alfred to integrate a bank transfer-based on-ramp for users across..",
-              "url": "https://www.globenewswire.com/news-release/2026/07/15/3327456/0/en/Bitget-Wallet-and-alfred-Bring-Stablecoin-Access-to-Latin-America-s-Local-Banking-Rails.html",
-              "source": "GlobeNewswire",
-              "published": "2026-07-15T05:34:00Z",
-              "image": "https://ml-eu.globenewswire.com/Resource/Download/9976c9ee-73bd-4acc-adfa-95a83f6164e0"
+              "title": "Payments-focused stablecoin startup Cyclops raises $20m",
+              "description": "Cyclops, a stablecoin and crypto infrastructure platform, has raised $20m in a Series A funding round led by Nava Ventures.\nThe round included participation from Castle Island Ventures, Coinbase Ventures, Circle, Lasagna Ventures and Global PayTech Ventures. …",
+              "url": "https://biztoc.com/x/7b4a493e0b1ecec5",
+              "source": "Biztoc.com",
+              "published": "2026-07-16T07:06:31Z",
+              "image": "https://biztoc.com/cdn/7b4a493e0b1ecec5_s.webp"
             },
             {
               "title": "XRP loses $700 million in futures bets while XRPL builds a $4 billion institutional pipeline",
@@ -279,12 +239,12 @@
               "image": "https://cryptoslate.com/wp-content/uploads/2026/07/xrp-liquidity-drain-investor-demand-decline.jpg"
             },
             {
-              "title": "AI Is Shortening the ‘Shelf Life’ of Smart Contract Audits — Experts Call for Continuous Verification",
-              "description": "Cybersecurity specialists warn that one-time smart contract audits no longer provide sufficient protection. We explain why. Artificial intelligence is enabling hackers to find vulnerabilities far...\nThe post AI Is Shortening the ‘Shelf Life’ of Smart Contract…",
-              "url": "https://bitcoinfoundation.org/news/crimes-and-fraud-news/ai-attacks-crypto/",
-              "source": "Bitcoinfoundation.org",
-              "published": "2026-07-09T12:03:10Z",
-              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/04/ChatGPT-Image-24-апр.-2026-г.-14_00_24-1.webp"
+              "title": "Hoskinson Confirms Cardano’s Strong Fundamentals Ahead of Historic Network Upgrade",
+              "description": "Cardano founder Charles Hoskinson has reaffirmed the blockchain's long-term strength, insisting that the network remains fundamentally secure.",
+              "url": "https://zycrypto.com/hoskinson-confirms-cardanos-strong-fundamentals-ahead-of-historic-network-upgrade/",
+              "source": "ZyCrypto",
+              "published": "2026-07-10T17:24:05Z",
+              "image": "https://zycrypto.com/wp-content/uploads/2024/02/Charts-Show-ADA-Ready-For-1700-Eruption-To-8-Price-As-Stars-Align-For-Cardano-Monster-Bull-Run.jpg"
             }
           ]
         },
@@ -293,20 +253,52 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "TxFlow L1 Launches Probly, Expanding Its Multi-Application Ecosystem Into Prediction Markets",
-              "description": "TxFlow L1, the Layer 1 blockchain powering a multi-application on-chain financial ecosystem built around its TIP Liquidity Standards, has announced its second Channel: Probly — the first prediction-market application built on TxFlow Improvement Protocol 3 (TI…",
-              "url": "https://zycrypto.com/txflow-l1-launches-probly-expanding-its-multi-application-ecosystem-into-prediction-markets/",
-              "source": "ZyCrypto",
-              "published": "2026-07-14T18:16:47Z",
-              "image": "https://zycrypto.com/wp-content/uploads/2026/07/TxFlow-L1-Launches-Probly-Expanding-Its-Multi-Application-Ecosystem-Into-Prediction-Markets.jpg"
+              "title": "US Transfer of Seized Crypto Raises Questions About Potential Asset Sales",
+              "description": "The U.S. government has transferred approximately $288 million worth of seized cryptocurrency to Coinbase Prime, fueling speculation over whether federal authorities are preparing to liquidate some of their digital asset holdings or simply moving them into in…",
+              "url": "https://www.pymnts.com/cryptocurrency/2026/us-transfer-of-seized-crypto-raises-questions-about-potential-asset-sales/",
+              "source": "pymnts.com",
+              "published": "2026-07-15T19:41:14Z",
+              "image": "https://www.pymnts.com/wp-content/uploads/2026/07/Bitcoin-digital-assets-federal.jpeg"
             },
             {
-              "title": "TxFlow L1 Introduces Probly, Marking the Next Stage of Its Multi-Application Ecosystem with Prediction Markets",
-              "description": "ROAD TOWN, British Virgin Islands, July 14, 2026 (GLOBE NEWSWIRE) -- TxFlow L1\r\n, the Layer 1 blockchain powering a multi-application onchain financial ecosystem built around its TIP Liquidity Standards, today announced its second Channel: Probly\r\n, the first…",
-              "url": "https://www.globenewswire.com/news-release/2026/07/14/3327207/0/en/TxFlow-L1-Introduces-Probly-Marking-the-Next-Stage-of-Its-Multi-Application-Ecosystem-with-Prediction-Markets.html",
-              "source": "GlobeNewswire",
-              "published": "2026-07-14T18:08:00Z",
-              "image": "https://ml.globenewswire.com/Resource/Download/b0b99820-4d62-415f-84a5-d1faadd86966"
+              "title": "Ostium pauses trading as security firms report multimillion-dollar oracle exploit",
+              "description": "Ostium halted trading and advised revoking contract approvals after blockchain security firms reported an apparent oracle-related exploit of its OLP liquidity vault, with estimated losses ranging from $18 million to $22 million.",
+              "url": "https://cointelegraph.com/news/ostium-pauses-trading-as-security-firms-report-multimillion-dollar-oracle-exploit",
+              "source": "Cointelegraph",
+              "published": "2026-07-15T17:14:21Z",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/magazine-defillama-hacks-analysis.png"
+            },
+            {
+              "title": "Another DeFi Exploit: Perp DEX Ostium Loses $18 Million in Oracle Attack",
+              "description": "Hackers manipulated Ostium's price feed by compromising an oracle signer key, allowing them to drain roughly $18 million from the Arbitrum-based perpetuals exchange.",
+              "url": "https://decrypt.co/373566/defi-exploit-ostium-oracle-hack",
+              "source": "Decrypt",
+              "published": "2026-07-15T17:01:25Z",
+              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/crime_hacker-gID_7.png"
+            },
+            {
+              "title": "What Is Arrow Crypto? The Robinhood Chain DeFi Protocol Bringing Tokenized Assets On-Chain",
+              "description": "Users searching for what is Arrow crypto will find that Arrow Finance is a DeFi project under development on Robinhood Chain that offers borrowing, trading,...\nThe post What Is Arrow Crypto? The Robinhood Chain DeFi Protocol Bringing Tokenized Assets On-Chain…",
+              "url": "https://bitcoinfoundation.org/news/altcoins/what-is-arrow-crypto-the-robinhood-chain-defi-protocol-bringing-tokenized-assets-on-chain/",
+              "source": "Bitcoinfoundation.org",
+              "published": "2026-07-15T16:35:59Z",
+              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/1-1784126851.webp"
+            },
+            {
+              "title": "Securitize, Cantor target tokenized IPOs for public markets",
+              "description": "Securitize and Cantor Fitzgerald are developing blockchain infrastructure for public stock issuance as tokenized equities gain traction among major financial institutions.",
+              "url": "https://cointelegraph.com/news/securitize-cantor-target-tokenized-ipos-for-public-markets",
+              "source": "Cointelegraph",
+              "published": "2026-07-15T15:59:36Z",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ipo-models-that-exist.jpg"
+            },
+            {
+              "title": "DTCC, Wall Street’s post-trade powerhouse, tests tokenized markets with industry heavy hitters",
+              "description": "The DTCC is pushing to bring tokenization of real world assets from concept to reality using existing financial infrastructure.",
+              "url": "https://www.cnbc.com/2026/07/15/dtcc-wall-streets-post-trade-powerhouse-tests-tokenized-markets-with-industry-heavy-hitters.html",
+              "source": "CNBC",
+              "published": "2026-07-15T14:49:03Z",
+              "image": "https://image.cnbcfm.com/api/v1/image/108035906-1726673453668-gettyimages-2172012022-nyse_keith_026.jpeg?v=1737134310&w=1920&h=1080"
             }
           ]
         }
