@@ -1,5 +1,5 @@
 {
-  "date": "July 19, 2026",
+  "date": "July 20, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -93,20 +93,60 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "XRP Holds Near $1.06 While Multi-Token ETF Attention Moves Elsewhere",
-          "description": "XRP Holds Near $1.06 While Multi-Token ETF Attention Moves Elsewhere is worth covering because it sits inside one of crypto’s live conversations rather than floating as a standalone headline. The market has been dealing",
-          "url": "https://bitcoinist.com/xrp-holds-near-1-06-while-multi-token-etf-attention-moves-elsewhere/",
-          "source": "Bitcoinist",
-          "published": "2026-07-18T01:20:00Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/06/xrp.png"
+          "title": "EU lawmakers adopt digital assets policy stance after MiCA transition ends",
+          "description": "The European Parliament adopted a digital assets report calling for further assessment of DeFi, staking, crypto lending and NFTs after MiCA’s transition period ended. EU lawmakers on Tuesday adopted a position paper on digital assets, setting out their view o…",
+          "url": "https://www.activistpost.com/eu-lawmakers-adopt-digital-assets-policy-stance-after-mica-transition-ends/",
+          "source": "Activistpost.com",
+          "published": "2026-07-18T19:00:00Z",
+          "image": "https://www.activistpost.com/wp-content/uploads/2026/07/hi-european-blockchain-partnership-24-countries-story-1280x853-1.webp"
         },
         {
-          "title": "Ethereum Rebound Stalls As Policy Uncertainty Cools ETF Excitement",
-          "description": "Ethereum Rebound Stalls As Policy Uncertainty Cools ETF Excitement is worth covering because it sits inside one of crypto’s live conversations rather than floating as a standalone headline. The market has been dealing wi",
-          "url": "https://bitcoinist.com/ethereum-rebound-stalls-as-policy-uncertainty-cools-etf-excitement/",
+          "title": "Chainlink Labs Exec Says CLARITY Act Could Unlock Institutional Crypto",
+          "description": "Chainlink Labs executive Andrew McCormick has framed the CLARITY Act as a major potential unlock for institutional crypto, arguing that clearer rules",
+          "url": "https://bitcoinist.com/chainlink-labs-exec-says-clarity-act-could-unlock-institutional-crypto/",
           "source": "Bitcoinist",
-          "published": "2026-07-18T01:10:00Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/06/Ethereum-from-iStock-30.jpg"
+          "published": "2026-07-18T17:50:00Z",
+          "image": "https://bitcoinist.com/wp-content/uploads/2026/05/ChatGPT-Image-27.-Mai-2026-13_23_50.png"
+        },
+        {
+          "title": "Tokenization has become a strategic priority for 84% of financial firms",
+          "description": "A Broadridge survey found Wall Street is accelerating tokenization efforts while betting on hybrid markets where digital and traditional assets coexist.",
+          "url": "https://www.coindesk.com/business/2026/07/16/tokenization-has-become-a-strategic-priority-for-84-of-financial-firms",
+          "source": "CoinDesk",
+          "published": "2026-07-18T14:00:00Z",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/d57549b03e21590f600945be64a4c0c6ed82f901-3000x1842.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
+        },
+        {
+          "title": "BNB Chain RWA TVL Hits $5.2B As Tokenized Assets Move Beyond Ethereum",
+          "description": "BNB Chain has reached a new high in tokenized real-world assets, with RWA.xyz data showing roughly $5.2 billion in tokenized assets on the network.",
+          "url": "http://www.newsbtc.com/news/bnb-chain-rwa-tvl-hits-52b-as-tokenized-assets-move-beyond-ethereum/",
+          "source": "newsBTC",
+          "published": "2026-07-18T12:05:00Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2022/10/man-5782411_1920.jpg?fit=1920%2C1280"
+        },
+        {
+          "title": "Bitcoin Whales Are Moving Billions in July — Is BTC Price About to Explode?",
+          "description": "This buying binge has been unfolding since the end of June and represents the main news about Bitcoin whales in July so far. What Is...\nThe post Bitcoin Whales Are Moving Billions in July — Is BTC Price About to Explode? appeared first on Bitcoin Foundation.",
+          "url": "https://bitcoinfoundation.org/news/altcoins/bitcoin-whales-are-moving-billions-in-july-is-btc-price-about-to-explode/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-07-18T11:41:59Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/ChatGPT-Image-Jul-18-2026-02_47_29-PM.webp"
+        },
+        {
+          "title": "One year later, GENIUS Act just made stablecoins easier to sell",
+          "description": "On the eve of the GENIUS Act’s first anniversary, the stablecoin market holds about $310 billion, including roughly $184 billion in USDT and $73 billion in USDC. President Donald Trump signed the law on July 18, 2025, creating a federal framework with one-for…",
+          "url": "https://cryptoslate.com/one-year-later-genius-act-just-made-stablecoins-easier-to-sell/",
+          "source": "CryptoSlate",
+          "published": "2026-07-18T11:20:01Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/07/stablecoins-one-year-after-genius-act-market-growth.jpg"
+        },
+        {
+          "title": "Ripple Payments Joins MiCA With 14 Firms, Does It Mean Anything For XRP?",
+          "description": "ESMA added Ripple Payments Europe and 13 firms to the MiCA register on Juy 16. Here is what the update means.",
+          "url": "https://beincrypto.com/ripple-payments-mica-register-xrp-impact/",
+          "source": "BeInCrypto",
+          "published": "2026-07-18T10:34:06Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/000472D28DB62132469E11FDCDD55B63AB59C26D5415AAB24A8499171881D72E/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F897db4c8a037e1acd6693238a88ed43d"
         },
         {
           "title": "The end of the boom-bust era: How to approach Bitcoin in its new, mature phase",
@@ -115,46 +155,6 @@
           "source": "Addicted2success.com",
           "published": "2026-07-18T00:50:58Z",
           "image": "https://addicted2success.com/wp-content/uploads/2026/07/Bitcoin-boom-bust-1000x600.jpeg"
-        },
-        {
-          "title": "CLARITY Act Faces Four-Week Senate Deadline: Where Does Crypto's Biggest Fight Stand?",
-          "description": "The CLARITY Act enters a critical four-week window as Senate negotiators race to resolve ethics provisions and secure enough votes to advance the landmark cr...",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/clarity-act-faces-four-week-213126015.html",
-          "source": "Yahoo Entertainment",
-          "published": "2026-07-17T21:31:26Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/748A25354E0729B0F2C15497B1129E0906CA139DCD5C6385441223D7923D58FC/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F533291043c8d1d2a3edbe99de90ed9ea"
-        },
-        {
-          "title": "Exodus Announces Workforce Reduction to Focus on Full-Stack Stablecoin Payments Infrastructure",
-          "description": "Organizational changes include an approximately 25% reduction in the global workforce Organizational changes include an approximately 25% reduction in the global workforce",
-          "url": "https://www.globenewswire.com/news-release/2026/07/17/3329307/0/en/Exodus-Announces-Workforce-Reduction-to-Focus-on-Full-Stack-Stablecoin-Payments-Infrastructure.html",
-          "source": "GlobeNewswire",
-          "published": "2026-07-17T21:02:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/7994e273-7033-4aaf-8204-2237b2a59ecf"
-        },
-        {
-          "title": "Cardano Tests Support As ADA Traders Look For A Better Catalyst",
-          "description": "Cardano Tests Support As ADA Traders Look For A Better Catalyst is worth covering because it sits inside one of crypto’s live conversations rather than floating as a standalone headline. The market has been dealing with",
-          "url": "http://www.newsbtc.com/news/cardano-tests-support-as-ada-traders-look-for-a-better-catalyst/",
-          "source": "newsBTC",
-          "published": "2026-07-17T18:30:00Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2023/06/stocks-897x598-1.jpg?fit=897%2C598"
-        },
-        {
-          "title": "Chainlink Holds Support As CCIP Adoption Becomes A Longer-Term Test",
-          "description": "Chainlink Holds Support As CCIP Adoption Becomes A Longer-Term Test is worth covering because it sits inside one of crypto’s live conversations rather than floating as a standalone headline. The market has been dealing w",
-          "url": "http://www.newsbtc.com/news/chainlink-holds-support-as-ccip-adoption-becomes-a-longer-term-test/",
-          "source": "newsBTC",
-          "published": "2026-07-17T18:20:00Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2023/05/iStock-1370952479-2.jpg?fit=2121%2C1414"
-        },
-        {
-          "title": "This Week in Stablecoins: TradFi Doesn’t Want DeFi. It Wants Blockchain",
-          "description": "The most important digital asset story this week was not the price of bitcoin, the launch of another cryptocurrency fund or even the continued expansion of stablecoins. It was the widening gap between the parts of crypto that traditional finance wants to pres…",
-          "url": "https://www.pymnts.com/blockchain/2026/this-week-in-stablecoins-tradfi-doesnt-want-defi-it-wants-blockchain/",
-          "source": "pymnts.com",
-          "published": "2026-07-17T15:07:47Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2026/06/blockchain-settlement-1.jpg"
         }
       ]
     },
@@ -163,14 +163,6 @@
       "icon": "🏥",
       "color": "#00cc88",
       "articles": [
-        {
-          "title": "Injective Price Prediction: Can INJ Keep Its Bullish Momentum Through the End of 2026?",
-          "description": "The latest Injective price prediction is moderately optimistic, although INJ is yet to confirm a durable bull trend. As of writing, the token trades near...\nThe post Injective Price Prediction: Can INJ Keep Its Bullish Momentum Through the End of 2026? appear…",
-          "url": "https://bitcoinfoundation.org/news/analysis/injective-price-prediction-can-inj-keep-its-bullish-momentum-through-the-end-of-2026/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-07-17T16:34:33Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/inj-1.webp"
-        },
         {
           "title": "US, UK Seek Common Path for Stablecoins, Tokenization in Transatlantic Markets",
           "description": "The U.S. Treasury Department and HM Treasury have unveiled a joint blueprint for closer regulatory cooperation on digital assets. It features a series of measures designed to align the two countries’ approaches to stablecoins, tokenization and digital financi…",
@@ -239,12 +231,12 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Kraken Pro Options Upgrade Brings More Structure To Retail Crypto Hedging",
-              "description": "Kraken Pro Options Upgrade Brings More Structure To Retail Crypto Hedging is worth covering because it sits inside one of crypto’s live conversations rather than floating as a standalone headline. The market has been dea",
-              "url": "https://bitcoinist.com/kraken-pro-options-upgrade-brings-more-structure-to-retail-crypto-hedging/",
-              "source": "Bitcoinist",
-              "published": "2026-07-18T00:30:00Z",
-              "image": "https://bitcoinist.com/wp-content/uploads/2026/05/a_5a08e0.jpg"
+              "title": "Launches Expanded Crypto Access With Stablecoin Transfers",
+              "description": "Find your next quality investment with Simply Wall St's easy and powerful screener, trusted by over 7 million individual investors worldwide.\n- Interactive Brokers Group (NasdaqGS:IBKR) has expanded its cryptocurrency offerings with new token listings. \n- The…",
+              "url": "https://biztoc.com/x/3dd00c65444e82ea",
+              "source": "Biztoc.com",
+              "published": "2026-07-19T02:33:20Z",
+              "image": "https://biztoc.com/cdn/3dd00c65444e82ea_s.webp"
             }
           ]
         },
@@ -253,36 +245,36 @@
           "icon": "☁️",
           "articles": [
             {
+              "title": "LINK Bullish Pennant Forms As Chainlink Buy Volume Rebounds",
+              "description": "Chainlink is drawing technical attention after chart analysis pointed to a bullish pennant forming on LINK, with buy volume beginning to recover as pr",
+              "url": "https://bitcoinist.com/link-bullish-pennant-forms-as-chainlink-buy-volume-rebounds/",
+              "source": "Bitcoinist",
+              "published": "2026-07-18T19:35:00Z",
+              "image": "https://bitcoinist.com/wp-content/uploads/2026/05/Untitled-design-40.jpg"
+            },
+            {
+              "title": "New Bitcoin Recovery Plan Aims to Counter Q-Day Threat",
+              "description": "The digital asset community is making efforts ahead of a possible Q-Day when quantum computers will break cryptography.",
+              "url": "https://zycrypto.com/new-bitcoin-recovery-plan-aims-to-counter-q-day-threat/",
+              "source": "ZyCrypto",
+              "published": "2026-07-18T18:53:17Z",
+              "image": "https://zycrypto.com/wp-content/uploads/2026/02/Prominent-Bull-Michael-Saylor-Predicts-Bitcoin-Safe-From-Quantum-Threat-For-Over-A-Decade.jpg"
+            },
+            {
+              "title": "Microsoft warns of surge in ACR Stealer attacks on customers",
+              "description": "Microsoft has observed a surge in attacks using the ACR Stealer malware to steal browser-stored passwords, authentication tokens, and sensitive documents from its enterprise customers. [...]",
+              "url": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/",
+              "source": "BleepingComputer",
+              "published": "2026-07-18T14:17:19Z",
+              "image": "https://www.bleepstatic.com/content/hl-images/2024/06/18/hand.jpg"
+            },
+            {
               "title": "Coinbase Says 95% of Its Code Is Now AI-Generated, Echoing Broader Tech Shift",
               "description": "Over 95% of Coinbase’s Code Now Written Using AI, Executive Says More than 95% of the code produced by cryptocurrency exchange Coinbase is now generated using artificial intelligence, according to a company executive. The statement was made by Rob Witoff, a d…",
               "url": "https://www.naturalnews.com/2026-07-18-coinbase-majority-of-code-now-ai-generated.html",
               "source": "Naturalnews.com",
               "published": "2026-07-18T06:00:00Z",
               "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/coinbase-ai-assisted-coding-github-copilot-2731-original.jpg"
-            },
-            {
-              "title": "Apple Maps Ads Ban Home Services, Crypto ATMs, Bail Bonds via @sejournal, @brookeosmundson",
-              "description": "Apple Maps ads ban home services, crypto ATMs, and bail bonds. Learn which businesses qualify and how advertisers can prepare for the rollout.\nThe post Apple Maps Ads Ban Home Services, Crypto ATMs, Bail Bonds appeared first on Search Engine Journal.",
-              "url": "https://www.searchenginejournal.com/apple-maps-ads-ban-home-services/582542/",
-              "source": "Search Engine Journal",
-              "published": "2026-07-17T19:38:09Z",
-              "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/07/shutterstock_7172026-523.png"
-            },
-            {
-              "title": "Streamex Corp. Announces June 2026 Yield Dividend Distribution for GLDY",
-              "description": "WINTER PARK, Fla., July 17, 2026 (GLOBE NEWSWIRE) -- Streamex Corp. (\"Streamex\" or the \"Company\") (NASDAQ: STEX), a technology company building the tokenization ecosystem for all real-world assets beginning with commodities, today announced the distribution o…",
-              "url": "https://www.globenewswire.com/news-release/2026/07/17/3329036/22558/en/Streamex-Corp-Announces-June-2026-Yield-Dividend-Distribution-for-GLDY.html",
-              "source": "GlobeNewswire",
-              "published": "2026-07-17T11:30:00Z",
-              "image": "https://ml.globenewswire.com/Resource/Download/d335dea2-8c4a-4970-ba9b-2a298fdb0ebd"
-            },
-            {
-              "title": "ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files",
-              "description": "ACR Stealer, an infostealer in circulation since 2024, is walking out of enterprise networks with saved browser passwords, live session tokens, PDFs, Microsoft 365 documents, and files from synced OneDrive and SharePoint folders.\n\nIt gets in because someone p…",
-              "url": "https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html",
-              "source": "Internet",
-              "published": "2026-07-17T08:56:39Z",
-              "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj5a79jcbSLlpVrk_Tkl4E0wiB47Zu2a7V3UrYOddEgvO0bNMVU1VzwmLIK-Ac8I71znO7vmH7QSDdF9cg4-VeEzLo_7InYxfc5yaXG8Ziv-nVAK1qRCkTx73CVKtLOESbkL2yUF9srs53F9hLAkXt9hsiSTjntbS3ThRVi3ApZniyKapqVAgz9PEuW9o/s1700-e365/clicks.png"
             },
             {
               "title": "Bitunix Exchange Launches Visa Debit Card for Daily Purchases and Earning",
