@@ -1,11 +1,19 @@
 {
-  "date": "July 20, 2026",
+  "date": "July 21, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "Wall Street’s most active laboratory transforms private assets with wrappers and repacks",
+          "description": "Tokenized assets reach $320.6 billion but 77.6% remain wrappers. BlackRock, JPMorgan, and Victory Park Capital lead Wall Street's push into blockchain-based\nThe post Wall Street’s most active laboratory transforms private assets with wrappers and repacks appe…",
+          "url": "https://cryptobriefing.com/wall-street-tokenization-wrappers-private-assets/",
+          "source": "Crypto Briefing",
+          "published": "2026-07-19T21:18:48Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/19171845/the-new-york-stock-exchange-in-2022-as-seen-from-a-vantage-p-5-800x420.jpeg"
+        },
         {
           "title": "Base announces upcoming improvements to smart accounts",
           "description": "Base launches Base Account with one-tap USDC payments and sponsored gas fees, with native account abstraction planned via Beryl and Cobalt upgrades in 2026.\nThe post Base announces upcoming improvements to smart accounts appeared first on Crypto Briefing.",
@@ -37,14 +45,6 @@
           "source": "newsBTC",
           "published": "2026-07-14T18:30:00Z",
           "image": "https://www.newsbtc.com/wp-content/uploads/2024/02/Picture8_3c49da.jpg?fit=936%2C524"
-        },
-        {
-          "title": "Starknet launches STRK20 privacy framework for on-chain assets",
-          "description": "Starknet's STRK20 framework enhances blockchain privacy, potentially reshaping user trust and regulatory compliance in decentralized finance.\nThe post Starknet launches STRK20 privacy framework for on-chain assets appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/starknet-strk20-privacy-framework-launch/",
-          "source": "Crypto Briefing",
-          "published": "2026-07-14T11:16:38Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/14071635/starknet-staking-delegation-program-2-800x420.jpeg"
         }
       ]
     },
@@ -93,68 +93,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "EU lawmakers adopt digital assets policy stance after MiCA transition ends",
-          "description": "The European Parliament adopted a digital assets report calling for further assessment of DeFi, staking, crypto lending and NFTs after MiCA’s transition period ended. EU lawmakers on Tuesday adopted a position paper on digital assets, setting out their view o…",
-          "url": "https://www.activistpost.com/eu-lawmakers-adopt-digital-assets-policy-stance-after-mica-transition-ends/",
-          "source": "Activistpost.com",
-          "published": "2026-07-18T19:00:00Z",
-          "image": "https://www.activistpost.com/wp-content/uploads/2026/07/hi-european-blockchain-partnership-24-countries-story-1280x853-1.webp"
+          "title": "South Korea eyes September launch for second phase of CBDC pilot: Report",
+          "description": "South Korea could launch the second phase of its Project Hangang CBDC pilot in September, expanding to nine banks and testing government subsidy payments.",
+          "url": "https://cointelegraph.com/news/south-korea-september-second-phase-cbdc-pilot",
+          "source": "Cointelegraph",
+          "published": "2026-07-20T07:18:28Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-south-korea-lifts-9-year-corporate-crypto-ban-what-the-policy-change-means-1.jpg"
         },
         {
-          "title": "Chainlink Labs Exec Says CLARITY Act Could Unlock Institutional Crypto",
-          "description": "Chainlink Labs executive Andrew McCormick has framed the CLARITY Act as a major potential unlock for institutional crypto, arguing that clearer rules",
-          "url": "https://bitcoinist.com/chainlink-labs-exec-says-clarity-act-could-unlock-institutional-crypto/",
-          "source": "Bitcoinist",
-          "published": "2026-07-18T17:50:00Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/05/ChatGPT-Image-27.-Mai-2026-13_23_50.png"
+          "title": "Dormant Bitcoin Wallet Abruptly Moves $383,000,000 After Eight Years",
+          "description": "A Bitcoin address inactive since 2017 transferred its entire holdings worth about $383 million to a new wallet.\nThe post Dormant Bitcoin Wallet Abruptly Moves $383,000,000 After Eight Years appeared first on The Daily Hodl.",
+          "url": "https://dailyhodl.com/2026/07/20/dormant-bitcoin-wallet-abruptly-moves-383000000-after-eight-years/",
+          "source": "The Daily Hodl",
+          "published": "2026-07-20T07:04:21Z",
+          "image": "https://dailyhodl.com/wp-content/uploads/2024/07/Bitcoin-Whale-Abruptly-Awakens.jpg?resize=1366,800"
         },
         {
-          "title": "Tokenization has become a strategic priority for 84% of financial firms",
-          "description": "A Broadridge survey found Wall Street is accelerating tokenization efforts while betting on hybrid markets where digital and traditional assets coexist.",
-          "url": "https://www.coindesk.com/business/2026/07/16/tokenization-has-become-a-strategic-priority-for-84-of-financial-firms",
-          "source": "CoinDesk",
-          "published": "2026-07-18T14:00:00Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/d57549b03e21590f600945be64a4c0c6ed82f901-3000x1842.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
+          "title": "Alfakraft Fonder AB and Bitwise Announce Strategic Partnership to Expand Institutional Digital Asset Investment Solutions",
+          "description": "Alfakraft and Bitwise join forces focused on developing investment solutions, built on Luxembourg’s institutional fund infrastructure....",
+          "url": "https://www.globenewswire.com/news-release/2026/07/20/3329452/0/en/Alfakraft-Fonder-AB-and-Bitwise-Announce-Strategic-Partnership-to-Expand-Institutional-Digital-Asset-Investment-Solutions.html",
+          "source": "GlobeNewswire",
+          "published": "2026-07-20T07:02:00Z",
+          "image": "https://ml-eu.globenewswire.com/Resource/Download/9e100e92-2d09-418f-b958-a702c0c74f73"
         },
         {
-          "title": "BNB Chain RWA TVL Hits $5.2B As Tokenized Assets Move Beyond Ethereum",
-          "description": "BNB Chain has reached a new high in tokenized real-world assets, with RWA.xyz data showing roughly $5.2 billion in tokenized assets on the network.",
-          "url": "http://www.newsbtc.com/news/bnb-chain-rwa-tvl-hits-52b-as-tokenized-assets-move-beyond-ethereum/",
-          "source": "newsBTC",
-          "published": "2026-07-18T12:05:00Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2022/10/man-5782411_1920.jpg?fit=1920%2C1280"
+          "title": "Will the US get CLARITY this week? Bitcoin’s new $80K target: Hodler’s Digest, July 19",
+          "description": "The fate of the CLARITY Act hinges on Trump’s ethics, and the odds aren’t looking great. Prediction market volumes hit new highs, and more: Hodler’s Digest",
+          "url": "https://cointelegraph.com/magazine/will-the-us-get-finally-clarity-this-week-bitcoin-80k-hodlers-digest",
+          "source": "Cointelegraph",
+          "published": "2026-07-20T00:12:06Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/18-july.jpg"
         },
         {
-          "title": "Bitcoin Whales Are Moving Billions in July — Is BTC Price About to Explode?",
-          "description": "This buying binge has been unfolding since the end of June and represents the main news about Bitcoin whales in July so far. What Is...\nThe post Bitcoin Whales Are Moving Billions in July — Is BTC Price About to Explode? appeared first on Bitcoin Foundation.",
-          "url": "https://bitcoinfoundation.org/news/altcoins/bitcoin-whales-are-moving-billions-in-july-is-btc-price-about-to-explode/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-07-18T11:41:59Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/ChatGPT-Image-Jul-18-2026-02_47_29-PM.webp"
+          "title": "Bank of America Promotes Execs to Champion AI and Crypto",
+          "description": "Bank of America has reportedly promoted new leaders to guide its artificial intelligence and crypto efforts. Sonali Theisen has been named the bank’s head of global digital-assets platform and Kevin Milsom head of platforms AI transformation, Bloomberg News r…",
+          "url": "https://www.pymnts.com/personnel/2026/bank-of-america-promotes-execs-to-champion-ai-and-crypto/",
+          "source": "pymnts.com",
+          "published": "2026-07-19T23:26:06Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/07/Bank-of-America-AI-cryptocurrency-1.jpg"
         },
         {
-          "title": "One year later, GENIUS Act just made stablecoins easier to sell",
-          "description": "On the eve of the GENIUS Act’s first anniversary, the stablecoin market holds about $310 billion, including roughly $184 billion in USDT and $73 billion in USDC. President Donald Trump signed the law on July 18, 2025, creating a federal framework with one-for…",
-          "url": "https://cryptoslate.com/one-year-later-genius-act-just-made-stablecoins-easier-to-sell/",
-          "source": "CryptoSlate",
-          "published": "2026-07-18T11:20:01Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/07/stablecoins-one-year-after-genius-act-market-growth.jpg"
-        },
-        {
-          "title": "Ripple Payments Joins MiCA With 14 Firms, Does It Mean Anything For XRP?",
-          "description": "ESMA added Ripple Payments Europe and 13 firms to the MiCA register on Juy 16. Here is what the update means.",
-          "url": "https://beincrypto.com/ripple-payments-mica-register-xrp-impact/",
+          "title": "MicroStrategy CEO: Wall Street’s Biggest Banks are Locked in a Tight Bitcoin Race",
+          "description": "Goldman, JPMorgan, and Citi trail Fidelity in MicroStrategy's new Bitcoin Banking Adoption Index rankings this year.",
+          "url": "https://beincrypto.com/banks-race-second-bitcoin-adoption-index/",
           "source": "BeInCrypto",
-          "published": "2026-07-18T10:34:06Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/000472D28DB62132469E11FDCDD55B63AB59C26D5415AAB24A8499171881D72E/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F897db4c8a037e1acd6693238a88ed43d"
+          "published": "2026-07-19T20:30:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/E6DDC51540BEE94F0A680935F3CAEBDE3180457D0310B9727670AC83BC189768/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F2e2a553fd59dd600194688d941f84f9b"
         },
         {
-          "title": "The end of the boom-bust era: How to approach Bitcoin in its new, mature phase",
-          "description": "As 2026 progresses and Bitcoin’s market shows clear signs of maturation, the conversation surrounding it has shifted from “Will it survive?” to “How should it be approached?”. Bitcoin’s no longer a fringe experiment trying to win retail buyers over – it has a…",
-          "url": "https://addicted2success.com/cryptonews/bitcoin-mature-phase-investment-strategy-2026/",
-          "source": "Addicted2success.com",
-          "published": "2026-07-18T00:50:58Z",
-          "image": "https://addicted2success.com/wp-content/uploads/2026/07/Bitcoin-boom-bust-1000x600.jpeg"
+          "title": "UK turns delayed wallet identification into a 14-year criminal risk for crypto firms",
+          "description": "The offence took effect July 17 without naming crypto, forcing UK-linked firms to reconstruct what they knew and when.\nThe post UK turns delayed wallet identification into a 14-year criminal risk for crypto firms appeared first on CryptoSlate.",
+          "url": "https://cryptoslate.com/uk-turns-delayed-wallet-identification-into-a-14-year-criminal-risk-for-crypto-firms/",
+          "source": "CryptoSlate",
+          "published": "2026-07-19T19:00:46Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/07/uk-crypto-payments-security-screening.jpg"
+        },
+        {
+          "title": "The GENIUS Act turns 1: State of Crypto",
+          "description": "The stablecoin-focused GENIUS Act became a law a year ago.",
+          "url": "https://www.coindesk.com/policy/2026/07/19/the-genius-act-turns-1-state-of-crypto",
+          "source": "CoinDesk",
+          "published": "2026-07-19T18:30:00Z",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/6e4532d237786704984596878a883a023b94ba32-4540x2554.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
         }
       ]
     },
@@ -196,28 +196,12 @@
           "image": "https://mma.prnewswire.com/media/326728/Broadridge_2023_Logo.jpg?p=facebook"
         },
         {
-          "title": "UK plans first G7 digital sovereign bond by early 2027",
-          "description": "The security will launch on HSBC’s Orion platform within the BoE and FCA’s Digital Securities Sandbox to test reduced settlement times and costs.",
-          "url": "https://www.coindesk.com/business/2026/07/15/uk-plans-first-g7-digital-sovereign-bond-by-early-2027",
-          "source": "CoinDesk",
-          "published": "2026-07-15T08:16:34Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/9cf7e1b52e7391faee37bcb2cc0bf4a976d531da-5784x3254.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
-        },
-        {
           "title": "AI, IoT and Blockchain in Modern Agriculture Market Report — Forecasts Market to Reach $154.54 Billion by 2035, Covers Precision Farming, Smart Sensors, Autonomous Machinery, and Blockchain Traceability",
           "description": "Key opportunities include autonomous machinery, AI crop intelligence, smart irrigation, climate-resilience tools, IoT sensors, farm automation and blockchain traceability, alongside livestock monitoring, greenhouse optimization and digital advisory services. …",
           "url": "https://www.globenewswire.com/news-release/2026/07/14/3327116/28124/en/AI-IoT-and-Blockchain-in-Modern-Agriculture-Market-Report-Forecasts-Market-to-Reach-154-54-Billion-by-2035-Covers-Precision-Farming-Smart-Sensors-Autonomous-Machinery-and-Blockchai.html",
           "source": "GlobeNewswire",
           "published": "2026-07-14T15:26:00Z",
           "image": "https://ml.globenewswire.com/Resource/Download/c27e427f-b858-4075-8ff9-d9e0733d1b8a"
-        },
-        {
-          "title": "Blockchain Marketing Agency Dubai: The Events Playbook",
-          "description": "SNXS is a blockchain marketing agency in Dubai specialising in DMCC ecosystem positioning, conference strategy, and GCC digital asset brand growth.",
-          "url": "https://www.snxs.ae/post/blockchain-marketing-agency-dubai-the-events-playbook",
-          "source": "Snxs.ae",
-          "published": "2026-07-13T14:55:56Z",
-          "image": "https://static.wixstatic.com/media/7d7696_07641622348040b196855a3f8fe1b08f~mv2.jpg/v1/fill/w_0,h_0,al_c/7d7696_07641622348040b196855a3f8fe1b08f~mv2.jpg"
         }
       ]
     },
@@ -231,12 +215,20 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Launches Expanded Crypto Access With Stablecoin Transfers",
-              "description": "Find your next quality investment with Simply Wall St's easy and powerful screener, trusted by over 7 million individual investors worldwide.\n- Interactive Brokers Group (NasdaqGS:IBKR) has expanded its cryptocurrency offerings with new token listings. \n- The…",
-              "url": "https://biztoc.com/x/3dd00c65444e82ea",
-              "source": "Biztoc.com",
-              "published": "2026-07-19T02:33:20Z",
-              "image": "https://biztoc.com/cdn/3dd00c65444e82ea_s.webp"
+              "title": "Agentic Day Lands in Toronto, Completing a Three-Country, Two-Continent 2026 Series",
+              "description": "AI Infrastructure & Investment Summit takes over both days of Blockchain Futurist Conference....",
+              "url": "https://www.globenewswire.com/news-release/2026/07/20/3329464/0/en/Agentic-Day-Lands-in-Toronto-Completing-a-Three-Country-Two-Continent-2026-Series.html",
+              "source": "GlobeNewswire",
+              "published": "2026-07-20T07:36:00Z",
+              "image": null
+            },
+            {
+              "title": "ABCD Review: Reliable Trading Platform or Scam? Our Findings",
+              "description": "ABCD emerges as a newly developed digital asset trading solution built to make easier and upgrade the overall investing process for individuals interested in digital asset investors. The platform suggests that it uses advanced methods such as AI and automated…",
+              "url": "https://whatjapanthinks.com/abcd-review/",
+              "source": "Whatjapanthinks.com",
+              "published": "2026-07-20T07:27:37Z",
+              "image": "https://whatjapanthinks.com/wp-content/uploads/2026/07/abcd-1784532457-oPXKcPAQ.png"
             }
           ]
         },
@@ -245,20 +237,12 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "LINK Bullish Pennant Forms As Chainlink Buy Volume Rebounds",
-              "description": "Chainlink is drawing technical attention after chart analysis pointed to a bullish pennant forming on LINK, with buy volume beginning to recover as pr",
-              "url": "https://bitcoinist.com/link-bullish-pennant-forms-as-chainlink-buy-volume-rebounds/",
-              "source": "Bitcoinist",
-              "published": "2026-07-18T19:35:00Z",
-              "image": "https://bitcoinist.com/wp-content/uploads/2026/05/Untitled-design-40.jpg"
-            },
-            {
-              "title": "New Bitcoin Recovery Plan Aims to Counter Q-Day Threat",
-              "description": "The digital asset community is making efforts ahead of a possible Q-Day when quantum computers will break cryptography.",
-              "url": "https://zycrypto.com/new-bitcoin-recovery-plan-aims-to-counter-q-day-threat/",
-              "source": "ZyCrypto",
-              "published": "2026-07-18T18:53:17Z",
-              "image": "https://zycrypto.com/wp-content/uploads/2026/02/Prominent-Bull-Michael-Saylor-Predicts-Bitcoin-Safe-From-Quantum-Threat-For-Over-A-Decade.jpg"
+              "title": "Top 10 Cryptocurrencies Ranked by Market Cap in 2026, From Bitcoin and Ethereum to XRP and Solana",
+              "description": "Explore the top 10 cryptocurrencies of 2026, highlighting market leaders like Bitcoin and Ethereum, and emerging contenders such as Sui, amidst a volatile and rapidly evolving crypto landscape.",
+              "url": "https://www.ibtimes.com.au/top-10-cryptocurrencies-2026-market-leaders-emerging-contenders-1872590",
+              "source": "Ibtimes.com.au",
+              "published": "2026-07-19T13:13:24Z",
+              "image": "https://d.ibtimes.com.au/en/full/206684/bitcoin-logo.jpg"
             },
             {
               "title": "Microsoft warns of surge in ACR Stealer attacks on customers",
@@ -275,14 +259,6 @@
               "source": "Naturalnews.com",
               "published": "2026-07-18T06:00:00Z",
               "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/coinbase-ai-assisted-coding-github-copilot-2731-original.jpg"
-            },
-            {
-              "title": "Bitunix Exchange Launches Visa Debit Card for Daily Purchases and Earning",
-              "description": "Kingstown, St. Vincent and the Grenadines, 16th July 2026, Chainwire\nThe post Bitunix Exchange Launches Visa Debit Card for Daily Purchases and Earning appeared first on The Daily Hodl.",
-              "url": "https://dailyhodl.com/2026/07/16/bitunix-exchange-launches-visa-debit-card-for-daily-purchases-and-earning/",
-              "source": "The Daily Hodl",
-              "published": "2026-07-16T12:47:54Z",
-              "image": "https://dailyhodl.com/wp-content/uploads/2026/07/image_1_1784202765LwLbWzXFDX.jpg?resize=1600,900"
             }
           ]
         }
