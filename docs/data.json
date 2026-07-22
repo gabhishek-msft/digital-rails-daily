@@ -1,11 +1,35 @@
 {
-  "date": "July 21, 2026",
+  "date": "July 22, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "The Authentication Layer",
+          "description": "Afriend and I got into it recently. He’s smart, freedom-minded, and totally gets the danger of Central Bank Digital Currencies (CBDC). Expiring money, programmable control, carbon budgets – he sees most of the expanding tyranny clearly. And yet he dismisses D…",
+          "url": "https://www.activistpost.com/the-authentication-layer/",
+          "source": "Activistpost.com",
+          "published": "2026-07-20T18:00:00Z",
+          "image": "https://www.activistpost.com/wp-content/uploads/2026/07/Shutterstock_1709063722-800x450-1.webp"
+        },
+        {
+          "title": "Vitalik Buterin’s Aztec Demo Shows Why Ethereum Privacy Still Matters",
+          "description": "# Vitalik Buterin’s Aztec Demo Shows Why Ethereum Privacy Still Matters",
+          "url": "http://www.newsbtc.com/news/vitalik-buterin-aztec-demo-ethereum-privacy/",
+          "source": "newsBTC",
+          "published": "2026-07-20T14:45:00Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2026/05/Captura-de-pantalla-2026-05-22-a-las-11.43.13-a.-m.png?fit=2424%2C1092"
+        },
+        {
+          "title": "U.S. regulatory developments and earnings, ECB rate decision: Crypto Week Ahead",
+          "description": "Your look at what's coming in the week starting July 20.",
+          "url": "https://www.coindesk.com/markets/2026/07/20/u-s-regulatory-developments-and-earnings-ecb-rate-decision-crypto-week-ahead",
+          "source": "CoinDesk",
+          "published": "2026-07-20T08:57:53Z",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/f8247ad03ed0ee80d0bc837f451e14221f8fa7f3-1900x1067.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
+        },
         {
           "title": "Wall Street’s most active laboratory transforms private assets with wrappers and repacks",
           "description": "Tokenized assets reach $320.6 billion but 77.6% remain wrappers. BlackRock, JPMorgan, and Victory Park Capital lead Wall Street's push into blockchain-based\nThe post Wall Street’s most active laboratory transforms private assets with wrappers and repacks appe…",
@@ -37,14 +61,6 @@
           "source": "Cointelegraph",
           "published": "2026-07-15T13:30:00Z",
           "image": "https://s3-images.ctmedia.io/media/article-covers/hi-does-robinhood-chain-finally-change-the-investment-case-for-eth.jpg"
-        },
-        {
-          "title": "Starknet Memory Protocol Draft Puts User-Owned AI Data On The Crypto Agenda",
-          "description": "Starknet Memory Protocol Draft Puts User-Owned AI Data On The Crypto Agenda is a useful reminder that crypto coverage is not only about token prices. Sometimes the more important story is the infrastructure, regulation,",
-          "url": "http://www.newsbtc.com/news/starknet-memory-protocol-draft-puts-user-owned-ai-data-on-the-crypto-agenda/",
-          "source": "newsBTC",
-          "published": "2026-07-14T18:30:00Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2024/02/Picture8_3c49da.jpg?fit=936%2C524"
         }
       ]
     },
@@ -53,6 +69,22 @@
       "icon": "🔐",
       "color": "#e6a200",
       "articles": [
+        {
+          "title": "Morph Launches Tachyon, a High-Performance Layer 1 Purpose-Built for Onchain Trading",
+          "description": "GRAND CAYMAN, Cayman Islands, July 21, 2026 /PRNewswire/ -- Morph, a blockchain network focused on payments, stablecoins, open finance, and onchain markets, has launched Morph Tachyon, a new independent Layer 1 built for trading and high-performance onchain m…",
+          "url": "https://www.prnewswire.com/news-releases/morph-launches-tachyon-a-high-performance-layer-1-purpose-built-for-onchain-trading-302830193.html",
+          "source": "PRNewswire",
+          "published": "2026-07-21T08:00:00Z",
+          "image": null
+        },
+        {
+          "title": "Vitalik Buterin vibe-codes anonymous billboard demo on Aztec",
+          "description": "Vitalik Buterin built an anonymous billboard prototype on Aztec Network using zero-knowledge proofs, ETH deposits, and AI moderation via vibe coding.\nThe post Vitalik Buterin vibe-codes anonymous billboard demo on Aztec appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/vitalik-buterin-vibe-codes-aztec-anonymous-billboard/",
+          "source": "Crypto Briefing",
+          "published": "2026-07-20T10:13:39Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/20061336/https-upload-wikimedia-org-wikipedia-commons-1-1c-vitalik-bu-6-800x420.jpeg"
+        },
         {
           "title": "Cardano Founder Says ADA Price Could Become a “Rocket Ship” By 2027",
           "description": "Charles Hoskinson believes ADA could see explosive growth over the next two years as the ecosystem expands beyond its core blockchain.",
@@ -68,22 +100,6 @@
           "source": "Crypto Briefing",
           "published": "2026-07-16T06:51:56Z",
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/14195932/ChatGPT-Image-Feb-5-2026-06_41_20-PM-800x420.png"
-        },
-        {
-          "title": "Celo ranks first in 30-day tokenholder growth among L1 and L2 chains",
-          "description": "Celo's growth highlights the potential for blockchain adoption in emerging markets, emphasizing user acquisition strategies and tokenomics evolution.\nThe post Celo ranks first in 30-day tokenholder growth among L1 and L2 chains appeared first on Crypto Briefi…",
-          "url": "https://cryptobriefing.com/celo-tokenholder-growth-l1-l2-chains/",
-          "source": "Crypto Briefing",
-          "published": "2026-07-15T20:17:32Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/14195540/ChatGPT-Image-Mar-31-2026-12_23_49-PM-800x420.png"
-        },
-        {
-          "title": "Why Is ZKP Crypto Price Crashing Today? The Real Reason Behind the Sell-Off",
-          "description": "The ZKP crypto price is dropping precipitously today, on July 14, 2026, hitting $0.0430 — down 5.84% in the last 24 hours as volume surged...\nThe post Why Is ZKP Crypto Price Crashing Today? The Real Reason Behind the Sell-Off appeared first on Bitcoin Founda…",
-          "url": "https://bitcoinfoundation.org/news/analysis/why-is-zkp-crypto-price-crashing-today-the-real-reason-behind-the-sell-off/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-07-14T11:16:10Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/zkp-1.webp"
         }
       ]
     },
@@ -93,68 +109,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "South Korea eyes September launch for second phase of CBDC pilot: Report",
-          "description": "South Korea could launch the second phase of its Project Hangang CBDC pilot in September, expanding to nine banks and testing government subsidy payments.",
-          "url": "https://cointelegraph.com/news/south-korea-september-second-phase-cbdc-pilot",
-          "source": "Cointelegraph",
-          "published": "2026-07-20T07:18:28Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-south-korea-lifts-9-year-corporate-crypto-ban-what-the-policy-change-means-1.jpg"
-        },
-        {
-          "title": "Dormant Bitcoin Wallet Abruptly Moves $383,000,000 After Eight Years",
-          "description": "A Bitcoin address inactive since 2017 transferred its entire holdings worth about $383 million to a new wallet.\nThe post Dormant Bitcoin Wallet Abruptly Moves $383,000,000 After Eight Years appeared first on The Daily Hodl.",
-          "url": "https://dailyhodl.com/2026/07/20/dormant-bitcoin-wallet-abruptly-moves-383000000-after-eight-years/",
-          "source": "The Daily Hodl",
-          "published": "2026-07-20T07:04:21Z",
-          "image": "https://dailyhodl.com/wp-content/uploads/2024/07/Bitcoin-Whale-Abruptly-Awakens.jpg?resize=1366,800"
-        },
-        {
-          "title": "Alfakraft Fonder AB and Bitwise Announce Strategic Partnership to Expand Institutional Digital Asset Investment Solutions",
-          "description": "Alfakraft and Bitwise join forces focused on developing investment solutions, built on Luxembourg’s institutional fund infrastructure....",
-          "url": "https://www.globenewswire.com/news-release/2026/07/20/3329452/0/en/Alfakraft-Fonder-AB-and-Bitwise-Announce-Strategic-Partnership-to-Expand-Institutional-Digital-Asset-Investment-Solutions.html",
-          "source": "GlobeNewswire",
-          "published": "2026-07-20T07:02:00Z",
-          "image": "https://ml-eu.globenewswire.com/Resource/Download/9e100e92-2d09-418f-b958-a702c0c74f73"
-        },
-        {
-          "title": "Will the US get CLARITY this week? Bitcoin’s new $80K target: Hodler’s Digest, July 19",
-          "description": "The fate of the CLARITY Act hinges on Trump’s ethics, and the odds aren’t looking great. Prediction market volumes hit new highs, and more: Hodler’s Digest",
-          "url": "https://cointelegraph.com/magazine/will-the-us-get-finally-clarity-this-week-bitcoin-80k-hodlers-digest",
-          "source": "Cointelegraph",
-          "published": "2026-07-20T00:12:06Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/18-july.jpg"
-        },
-        {
-          "title": "Bank of America Promotes Execs to Champion AI and Crypto",
-          "description": "Bank of America has reportedly promoted new leaders to guide its artificial intelligence and crypto efforts. Sonali Theisen has been named the bank’s head of global digital-assets platform and Kevin Milsom head of platforms AI transformation, Bloomberg News r…",
-          "url": "https://www.pymnts.com/personnel/2026/bank-of-america-promotes-execs-to-champion-ai-and-crypto/",
+          "title": "Nium CEO Says Stablecoins’ Real Prize Is the Cash Companies Can’t See",
+          "description": "Watch more: Why Stablecoins Are A Treasury Story, Not a Crypto Story Ask any corporate treasurer how many usable dollars their company has right now across every account in the country. You’ll often get a pause, not because the money isn’t there, but because …",
+          "url": "https://www.pymnts.com/cryptocurrency/2026/nium-ceo-says-stablecoins-real-prize-is-cash-companies-cannot-see/",
           "source": "pymnts.com",
-          "published": "2026-07-19T23:26:06Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2026/07/Bank-of-America-AI-cryptocurrency-1.jpg"
+          "published": "2026-07-21T08:00:05Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/07/PYMNTS-Nium-stablecoins-Summer-School.png"
         },
         {
-          "title": "MicroStrategy CEO: Wall Street’s Biggest Banks are Locked in a Tight Bitcoin Race",
-          "description": "Goldman, JPMorgan, and Citi trail Fidelity in MicroStrategy's new Bitcoin Banking Adoption Index rankings this year.",
-          "url": "https://beincrypto.com/banks-race-second-bitcoin-adoption-index/",
-          "source": "BeInCrypto",
-          "published": "2026-07-19T20:30:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/E6DDC51540BEE94F0A680935F3CAEBDE3180457D0310B9727670AC83BC189768/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F2e2a553fd59dd600194688d941f84f9b"
+          "title": "CoinShares Unveils UCITS Platform, Expanding Access to Europe's €26.3 Trillion Regulated Fund Ecosystem",
+          "description": "Deploys high-operating-leverage growth engine for future thematic strategies; Inaugural Bitcoin Mining ETF lists on Deutsche Börse Xetra today  JERSEY,...",
+          "url": "https://www.globenewswire.com/news-release/2026/07/21/3330188/0/en/CoinShares-Unveils-UCITS-Platform-Expanding-Access-to-Europe-s-26-3-Trillion-Regulated-Fund-Ecosystem.html",
+          "source": "GlobeNewswire",
+          "published": "2026-07-21T05:00:00Z",
+          "image": "https://ml-eu.globenewswire.com/Resource/Download/8ff8acfa-148b-402b-b289-7bf6973541be"
         },
         {
-          "title": "UK turns delayed wallet identification into a 14-year criminal risk for crypto firms",
-          "description": "The offence took effect July 17 without naming crypto, forcing UK-linked firms to reconstruct what they knew and when.\nThe post UK turns delayed wallet identification into a 14-year criminal risk for crypto firms appeared first on CryptoSlate.",
-          "url": "https://cryptoslate.com/uk-turns-delayed-wallet-identification-into-a-14-year-criminal-risk-for-crypto-firms/",
-          "source": "CryptoSlate",
-          "published": "2026-07-19T19:00:46Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/07/uk-crypto-payments-security-screening.jpg"
+          "title": "Binance Further Expands VIP Access with Updated Holder and OTC Criteria",
+          "description": "Lower Holder VIP 3 threshold and OTC Spot Volume recognition make VIP progression more accessible ABU DHABI, UAE, July 21, 2026 /PRNewswire/ -- Binance today announced further updates to its VIP Program criteria, lowering the VIP 3 Wallet Assets threshold and…",
+          "url": "https://www.prnewswire.com/news-releases/binance-further-expands-vip-access-with-updated-holder-and-otc-criteria-302830292.html",
+          "source": "PRNewswire",
+          "published": "2026-07-21T04:41:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS1337864/Binance-Logo-Yellow-4x-Logo.jpg?id=OA2773855&p=facebook"
         },
         {
-          "title": "The GENIUS Act turns 1: State of Crypto",
-          "description": "The stablecoin-focused GENIUS Act became a law a year ago.",
-          "url": "https://www.coindesk.com/policy/2026/07/19/the-genius-act-turns-1-state-of-crypto",
-          "source": "CoinDesk",
-          "published": "2026-07-19T18:30:00Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/6e4532d237786704984596878a883a023b94ba32-4540x2554.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
+          "title": "Crypto IPO market stalls as capital rotates to AI and macro uncertainty weighs",
+          "description": "Funding constraints and investor caution, not regulation, are delaying crypto IPOs, according to Cohen & Company Capital Markets’ Christian Lopez. The market for crypto initial public offerings has slowed sharply as investors rotate capital into other sectors…",
+          "url": "https://www.activistpost.com/crypto-ipo-market-stalls-as-capital-rotates-to-ai-and-macro-uncertainty-weighs/",
+          "source": "Activistpost.com",
+          "published": "2026-07-21T02:03:00Z",
+          "image": null
+        },
+        {
+          "title": "Clarity Act: What’s Next? Why Aug 10 Could Be Crypto’s Biggest Deadline in 2026",
+          "description": "The Digital Asset Market Clarity Act (CLARITY) does not contain a “dead by August 10” provision. Were it to fail passage before that date, no...\nThe post Clarity Act: What’s Next? Why Aug 10 Could Be Crypto’s Biggest Deadline in 2026 appeared first on Bitcoin…",
+          "url": "https://bitcoinfoundation.org/news/regulation/clarity-act-whats-next-why-aug-10-could-be-cryptos-biggest-deadline-in-2026/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-07-20T21:20:51Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/aug-10-1.webp"
+        },
+        {
+          "title": "Bank of Korea Scales Up CBDC Pilot With Half a Million Users",
+          "description": "Phase 1 of Project Hangang opened 81,000 wallets with 42% of them using the CBDC. Phase 2 is bigger, and this time it moves real government money.",
+          "url": "https://decrypt.co/373905/bank-korea-scales-up-cbdc-pilot-half-million-users",
+          "source": "Decrypt",
+          "published": "2026-07-20T21:12:03Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/bitcoin-south-korea-won-decrypt-style-gID_7.jpg"
+        },
+        {
+          "title": "Beyond Bitcoin ETFs: Where Smart Institutional Money Is Moving Next in 2026",
+          "description": "Bitcoin ETFs made crypto investable for pension funds, wealth managers, and corporate treasuries. But what are smart investors doing with their crypto allocations beyond a...\nThe post Beyond Bitcoin ETFs: Where Smart Institutional Money Is Moving Next in 2026…",
+          "url": "https://bitcoinfoundation.org/news/bitcoin/beyond-bitcoin-etfs-where-smart-institutional-money-is-moving-next-in-2026/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-07-20T20:41:11Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/bey-1.webp"
+        },
+        {
+          "title": "SEC sues Mining Automatic and founder over alleged $22M crypto mining scheme",
+          "description": "The SEC alleges Mining Automatic and its founder raised $22 million from investors by promising guaranteed crypto mining returns while spending only a fraction of the funds on mining operations.",
+          "url": "https://cointelegraph.com/news/sec-sues-mining-automatic-and-founder-over-alleged-22m-crypto-mining-scheme",
+          "source": "Cointelegraph",
+          "published": "2026-07-20T20:27:54Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ponzi-vs-pyramid-schemes-whats-the-difference.png"
         }
       ]
     },
@@ -163,6 +179,46 @@
       "icon": "🏥",
       "color": "#00cc88",
       "articles": [
+        {
+          "title": "Opaque, Interoperable Passkey Records (and a Go API)",
+          "description": "Passkey records are an interoperable format for WebAuthn credentials, similar to password hash strings. I propose a potential crypto/passkey Go API based on them.",
+          "url": "https://words.filippo.io/passkey-record/",
+          "source": "Filippo.io",
+          "published": "2026-07-20T23:00:29Z",
+          "image": "https://assets.buttondown.email/images/15df3c3e-98e0-486d-97e4-7542a638e7f4.jpeg?w=960&fit=max"
+        },
+        {
+          "title": "Could Stripe and PayPal reshape the future of digital payments?",
+          "description": "Whether the Stripe-Advent bid ultimately succeeds remains uncertain. However, the technologies driving interest in the deal—stablecoins, direct bank payments, and AI-enabled commerce—are likely to continue evolving regardless of the outcome.\nThe post Could St…",
+          "url": "https://www.digitaljournal.com/article/could-stripe-and-paypal-reshape-the-future-of-digital-payments/",
+          "source": "Digital Journal",
+          "published": "2026-07-20T20:55:08Z",
+          "image": "https://www.digitaljournal.com/wp-content/uploads/2023/08/a2b0321820f7ccd08ddfdb9dbd96288b645a78b2.jpg"
+        },
+        {
+          "title": "QIE Blockchain: The Identity Layer of Web3",
+          "description": "Making crypto as simple as sending an email. Bitcoin solved digital money. Ethereum introduced smart contracts. But one problem still affects almost every blockchain today: Identity doesn’t exist. Every wallet is just a long string of random characters. 0x8b3…",
+          "url": "https://zycrypto.com/qie-blockchain-the-identity-layer-of-web3/",
+          "source": "ZyCrypto",
+          "published": "2026-07-20T17:49:18Z",
+          "image": "https://zycrypto.com/wp-content/uploads/2026/07/QIE-Blockchain-The-Identity-Layer-of-Web3.jpg"
+        },
+        {
+          "title": "ShelterZoom subsidiary Mithra launches AI ‘trust infrastructure’ platform",
+          "description": "Mithra Technologies Inc., a subsidiary of blockchain and document-security company ShelterZoom Corp., today launched Mithra AI, a product built to vet the data behind an enterprise artificial intelligence answer before the model ever produces it. The setup is…",
+          "url": "https://siliconangle.com/2026/07/20/shelterzoom-subsidiary-mithra-launches-ai-trust-infrastructure-platform/",
+          "source": "SiliconANGLE News",
+          "published": "2026-07-20T13:00:18Z",
+          "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/mithraai.png"
+        },
+        {
+          "title": "Alpaca and Broadridge Announce Governance Solution for Tokenized Securities",
+          "description": "Broadridge enables proxy voting, investor communications, and voting entitlement reconciliation across Alpaca's platform NEW YORK, July 20, 2026 /PRNewswire/ -- Alpaca, a global leader in agent-first brokerage infrastructure, and global Fintech leader, Broadr…",
+          "url": "https://www.prnewswire.com/news-releases/alpaca-and-broadridge-announce-governance-solution-for-tokenized-securities-302829204.html",
+          "source": "PRNewswire",
+          "published": "2026-07-20T10:00:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS242893/Broadridge-2023-Logo.jpg?id=OA2769998&p=facebook"
+        },
         {
           "title": "US, UK Seek Common Path for Stablecoins, Tokenization in Transatlantic Markets",
           "description": "The U.S. Treasury Department and HM Treasury have unveiled a joint blueprint for closer regulatory cooperation on digital assets. It features a series of measures designed to align the two countries’ approaches to stablecoins, tokenization and digital financi…",
@@ -186,22 +242,6 @@
           "source": "Financial Post",
           "published": "2026-07-16T06:08:54Z",
           "image": null
-        },
-        {
-          "title": "Tokenized Assets a Key Priority for Financial Services Firms, Broadridge Survey Finds",
-          "description": "New Tokenization Pulse Survey reveals increasing strategic importance and investment, with firms focused on a hybrid market infrastructure NEW YORK, July 16, 2026 /PRNewswire/ -- Tokenization is no longer a future-state concept, as financial institutions incr…",
-          "url": "https://www.prnewswire.com/news-releases/tokenized-assets-a-key-priority-for-financial-services-firms-broadridge-survey-finds-302826937.html",
-          "source": "PRNewswire",
-          "published": "2026-07-16T06:00:00Z",
-          "image": "https://mma.prnewswire.com/media/326728/Broadridge_2023_Logo.jpg?p=facebook"
-        },
-        {
-          "title": "AI, IoT and Blockchain in Modern Agriculture Market Report — Forecasts Market to Reach $154.54 Billion by 2035, Covers Precision Farming, Smart Sensors, Autonomous Machinery, and Blockchain Traceability",
-          "description": "Key opportunities include autonomous machinery, AI crop intelligence, smart irrigation, climate-resilience tools, IoT sensors, farm automation and blockchain traceability, alongside livestock monitoring, greenhouse optimization and digital advisory services. …",
-          "url": "https://www.globenewswire.com/news-release/2026/07/14/3327116/28124/en/AI-IoT-and-Blockchain-in-Modern-Agriculture-Market-Report-Forecasts-Market-to-Reach-154-54-Billion-by-2035-Covers-Precision-Farming-Smart-Sensors-Autonomous-Machinery-and-Blockchai.html",
-          "source": "GlobeNewswire",
-          "published": "2026-07-14T15:26:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/c27e427f-b858-4075-8ff9-d9e0733d1b8a"
         }
       ]
     },
@@ -215,20 +255,20 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Agentic Day Lands in Toronto, Completing a Three-Country, Two-Continent 2026 Series",
-              "description": "AI Infrastructure & Investment Summit takes over both days of Blockchain Futurist Conference....",
-              "url": "https://www.globenewswire.com/news-release/2026/07/20/3329464/0/en/Agentic-Day-Lands-in-Toronto-Completing-a-Three-Country-Two-Continent-2026-Series.html",
-              "source": "GlobeNewswire",
-              "published": "2026-07-20T07:36:00Z",
-              "image": null
+              "title": "Bakuronel ai Review: Legit or Scam? Full Breakdown",
+              "description": "Bakuronel ai is introduced as a newly developed cryptocurrency trading platform built to make easier and improve the overall user experience for individuals interested in online market participants. The platform suggests that it uses modern methods such as ar…",
+              "url": "https://whatjapanthinks.com/bakuronel-ai-review/",
+              "source": "Whatjapanthinks.com",
+              "published": "2026-07-21T05:06:02Z",
+              "image": "https://whatjapanthinks.com/wp-content/uploads/2026/07/bakuronel-ai-1784610362-2Un8DA4T.png"
             },
             {
-              "title": "ABCD Review: Reliable Trading Platform or Scam? Our Findings",
-              "description": "ABCD emerges as a newly developed digital asset trading solution built to make easier and upgrade the overall investing process for individuals interested in digital asset investors. The platform suggests that it uses advanced methods such as AI and automated…",
-              "url": "https://whatjapanthinks.com/abcd-review/",
+              "title": "Prunkelvor Review: Trusted Trading Platform or Fraud?",
+              "description": "Prunkelvor presents itself as a recently introduced online trading program created to smooth and enhance the overall investing process for individuals interested in digital asset investors. The platform states that it uses modern systems such as smart computi…",
+              "url": "https://whatjapanthinks.com/prunkelvor-review/",
               "source": "Whatjapanthinks.com",
-              "published": "2026-07-20T07:27:37Z",
-              "image": "https://whatjapanthinks.com/wp-content/uploads/2026/07/abcd-1784532457-oPXKcPAQ.png"
+              "published": "2026-07-21T05:01:00Z",
+              "image": "https://whatjapanthinks.com/wp-content/uploads/2026/07/prunkelvor-1784610060-mSOvuEh4.png"
             }
           ]
         },
@@ -237,28 +277,20 @@
           "icon": "☁️",
           "articles": [
             {
+              "title": "Hyve acquisition positions RAISE Summit for global expansion",
+              "description": "Hyve Group’s acquisition of Chain of Events is set to accelerate the international expansion of RAISE Summit, Paris Blockchain Week and MACHINA while adding technology designed to improve attendee networking and deal-making. The transaction will help the comp…",
+              "url": "https://siliconangle.com/2026/07/20/hyve-technology-raise-summit-expansion-raisesummit/",
+              "source": "SiliconANGLE News",
+              "published": "2026-07-20T19:15:26Z",
+              "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Charlie-Meraud-Michael-Amar-Raise-Summit-2026.jpg"
+            },
+            {
               "title": "Top 10 Cryptocurrencies Ranked by Market Cap in 2026, From Bitcoin and Ethereum to XRP and Solana",
               "description": "Explore the top 10 cryptocurrencies of 2026, highlighting market leaders like Bitcoin and Ethereum, and emerging contenders such as Sui, amidst a volatile and rapidly evolving crypto landscape.",
               "url": "https://www.ibtimes.com.au/top-10-cryptocurrencies-2026-market-leaders-emerging-contenders-1872590",
               "source": "Ibtimes.com.au",
               "published": "2026-07-19T13:13:24Z",
               "image": "https://d.ibtimes.com.au/en/full/206684/bitcoin-logo.jpg"
-            },
-            {
-              "title": "Microsoft warns of surge in ACR Stealer attacks on customers",
-              "description": "Microsoft has observed a surge in attacks using the ACR Stealer malware to steal browser-stored passwords, authentication tokens, and sensitive documents from its enterprise customers. [...]",
-              "url": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/",
-              "source": "BleepingComputer",
-              "published": "2026-07-18T14:17:19Z",
-              "image": "https://www.bleepstatic.com/content/hl-images/2024/06/18/hand.jpg"
-            },
-            {
-              "title": "Coinbase Says 95% of Its Code Is Now AI-Generated, Echoing Broader Tech Shift",
-              "description": "Over 95% of Coinbase’s Code Now Written Using AI, Executive Says More than 95% of the code produced by cryptocurrency exchange Coinbase is now generated using artificial intelligence, according to a company executive. The statement was made by Rob Witoff, a d…",
-              "url": "https://www.naturalnews.com/2026-07-18-coinbase-majority-of-code-now-ai-generated.html",
-              "source": "Naturalnews.com",
-              "published": "2026-07-18T06:00:00Z",
-              "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/coinbase-ai-assisted-coding-github-copilot-2731-original.jpg"
             }
           ]
         }
