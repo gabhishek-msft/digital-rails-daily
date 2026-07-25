@@ -1,5 +1,5 @@
 {
-  "date": "July 24, 2026",
+  "date": "July 25, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -70,6 +70,14 @@
       "color": "#e6a200",
       "articles": [
         {
+          "title": "Cardano’s Midnight Set for Major Leap as Hoskinson Teases “Huge Things” Ahead",
+          "description": "Cardano founder Charles Hoskinson has sparked fresh excitement around Midnight after teasing that “huge things” are on the horizon.",
+          "url": "https://zycrypto.com/cardanos-midnight-set-for-major-leap-as-hoskinson-teases-huge-things-ahead/",
+          "source": "ZyCrypto",
+          "published": "2026-07-23T19:29:36Z",
+          "image": "https://zycrypto.com/wp-content/uploads/2024/03/Will-Cardano-Reach-8-In-This-Bull-Cycle-Market-Pundit-Reveals-ADA-Price-Trajectory-To-Expect.jpg"
+        },
+        {
           "title": "Crypto Wallet SecondFi Shutters After $2.4 Million Theft",
           "description": "Cryptocurrency wallet SecondFi is shuttering after an attack drained $2.4 million from its users. The company announced Wednesday (July 22) that it had addressed the vulnerability that permitted the theft of 16.1 million in ADA last month, and had secured ano…",
           "url": "https://www.pymnts.com/cryptocurrency/2026/crypto-wallet-secondfi-shutters-after-2-4-million-theft/",
@@ -110,14 +118,6 @@
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/21080542/chain-aster-800x420.jpeg"
         },
         {
-          "title": "Morph Launches Tachyon, a High-Performance Layer 1 Purpose-Built for Onchain Trading",
-          "description": "GRAND CAYMAN, Cayman Islands, July 21, 2026 /PRNewswire/ -- Morph, a blockchain network focused on payments, stablecoins, open finance, and onchain markets, has launched Morph Tachyon, a new independent Layer 1 built for trading and high-performance onchain m…",
-          "url": "https://www.prnewswire.com/news-releases/morph-launches-tachyon-a-high-performance-layer-1-purpose-built-for-onchain-trading-302830193.html",
-          "source": "PRNewswire",
-          "published": "2026-07-21T08:00:00Z",
-          "image": null
-        },
-        {
           "title": "Vitalik Buterin vibe-codes anonymous billboard demo on Aztec",
           "description": "Vitalik Buterin built an anonymous billboard prototype on Aztec Network using zero-knowledge proofs, ETH deposits, and AI moderation via vibe coding.\nThe post Vitalik Buterin vibe-codes anonymous billboard demo on Aztec appeared first on Crypto Briefing.",
           "url": "https://cryptobriefing.com/vitalik-buterin-vibe-codes-aztec-anonymous-billboard/",
@@ -133,68 +133,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Trump reports about $1.4bn in crypto income as digital assets eclipse property",
-          "description": "Donald Trump earned about $1.4 billion from cryptocurrency ventures in 2025, according to the annual financial disclosure his administration filed with the US Office of Government Ethics on June 30, making digital assets the single largest source of income du…",
-          "url": "https://thenextweb.com/news/trump-crypto-income-disclosure/",
-          "source": "The Next Web",
-          "published": "2026-07-23T08:05:40Z",
-          "image": "https://media.thenextweb.com/2017/01/Donald-Trump.avif"
+          "title": "Mirae plans to turn crypto exchange Korbit into something Korea hasn't seen before",
+          "description": "Mirae Asset, the $1 trillion South Korean financial giant, says its plans for newly acquired Korbit go far beyond capturing crypto market share — it wants to build an intelligent investment platform seamlessly connecting real-world assets, stablecoins and dig…",
+          "url": "https://www.coindesk.com/markets/2026/07/24/mirae-asset-has-a-name-for-what-it-s-building-with-korbit-an-intelligent-platform",
+          "source": "CoinDesk",
+          "published": "2026-07-24T06:10:49Z",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/ae0a096246871f868542edd025af448d189d9fa4-2177x1110.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
         },
         {
-          "title": "Why Digital Wallets Matter More Than Crypto for Credit Unions",
-          "description": "Credit unions have an unusual digital asset dilemma. Most members are not asking them to become cryptocurrency exchanges, yet a sizable share of young members expect their financial institutions to provide some route into a financial system that includes cryp…",
-          "url": "https://www.pymnts.com/credit-unions/2026/why-digital-wallets-matter-more-than-crypto-for-credit-unions/",
-          "source": "pymnts.com",
-          "published": "2026-07-23T08:00:20Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2026/07/SB5-digital-wallets-credit-unions.png"
-        },
-        {
-          "title": "Kakao taps Circle to explore won stablecoin payment infrastructure",
-          "description": "Kakao, Kakao Pay and Kakao Bank will explore stablecoin payments, remittances and tokenized finance with Circle amid South Korea’s push to establish a digital asset regulatory framework.",
-          "url": "https://cointelegraph.com/news/kakao-circle-won-stablecoin-payment-infrastructure",
+          "title": "Gemini sent $10M in Bitcoin to Trump PAC after joint motion with CFTC",
+          "description": "The Gemini Trust Company, run by the Winklevoss twins, sent $10 million in Bitcoin to a Trump-aligned Super PAC just weeks after a joint motion with the CFTC to reverse a settlement.",
+          "url": "https://cointelegraph.com/news/gemini-winklevoss-bitcoin-donald-trump-pac-cftc-deal",
           "source": "Cointelegraph",
-          "published": "2026-07-23T06:46:58Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-south-korea-staking-lending-service-1.png"
+          "published": "2026-07-23T21:47:39Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/winklevoss-trump.jpg"
         },
         {
-          "title": "Bitcoin Price Nears $67,000, Lifting Crypto Stocks Amid Geopolitical Tensions",
-          "description": "Bitcoin rose to approximately $66,886 on Tuesday, July 21, gaining nearly 3 percent in 24 hours and close to 6 percent over the prior seven days, according to market data. The advance pushed the digital asset to its highest level in more than a month, lifting…",
-          "url": "https://www.naturalnews.com/2026-07-23-bitcoin-price-nears-67000-lifting-crypto-stocks.html",
-          "source": "Naturalnews.com",
-          "published": "2026-07-23T06:00:00Z",
-          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/bitcoin-price-crypto-stocks-microstrategy-mstr-2913-original.jpg"
+          "title": "Goldman Sachs CEO Breaks With Wall Street to Back Crypto Clarity Act",
+          "description": "Solomon's endorsement splits with JP Morgan's Jamie Dimon and banking trade groups, who warn the bill's stablecoin-yield provisions could pull deposits away from traditional lenders.",
+          "url": "https://decrypt.co/374186/goldman-sachs-ceo-breaks-wall-street-crypto-clarity-act",
+          "source": "Decrypt",
+          "published": "2026-07-23T20:44:09Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/US-Capitol-decrypt-style-04-gID_7.png"
         },
         {
-          "title": "SOLOWIN HOLDINGS (NASDAQ: AXG) Expands into Latin America Through Strategic Partnership with ATTRUS (Formerly Facilitapay)",
-          "description": "HONG KONG, July 22, 2026 (GLOBE NEWSWIRE) -- SOLOWIN HOLDINGS (Nasdaq: AXG) (“AXG” or the “Company”), a leading financial technology firm bridging traditional and digital assets, today announced that its indirect wholly-owned subsidiary, Gello Finance Ltd. (“…",
-          "url": "https://www.globenewswire.com/news-release/2026/07/23/3331835/0/en/SOLOWIN-HOLDINGS-NASDAQ-AXG-Expands-into-Latin-America-Through-Strategic-Partnership-with-ATTRUS-Formerly-Facilitapay.html",
-          "source": "GlobeNewswire",
-          "published": "2026-07-23T02:15:00Z",
-          "image": null
+          "title": "Clarity Act expected to miss its window before Congress' summer break, leadership says",
+          "description": "The deadline to get the crypto market structure bill done before senators scatter will likely be missed, says Majority Leader Thune, though it may get a start before then.",
+          "url": "https://www.coindesk.com/policy/2026/07/23/clarity-act-expected-to-miss-its-window-before-congress-summer-break-leadership-says",
+          "source": "CoinDesk",
+          "published": "2026-07-23T20:16:37Z",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/d80238dd859faada40d384970db94239e3b42fbc-6000x4000.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
         },
         {
-          "title": "Binance Further Expands VIP Access with Updated Holder and OTC Criteria",
-          "description": "Binance Further Expands VIP Access with Updated Holder and OTC Criteria",
-          "url": "https://www.thehindubusinessline.com/brandhub/pr-release/binance-further-expands-vip-access-with-updated-holder-and-otc-criteria/article71256311.ece",
-          "source": "BusinessLine",
-          "published": "2026-07-23T02:04:25Z",
-          "image": "https://bl-i.thgim.com/public/incoming/ym7cin/article71256310.ece/alternates/LANDSCAPE_1200/Binance-Logo-Yellow-4x-Logo.jpg"
+          "title": "House panel bats for interim crypto self-regulation under RBI/SEBI oversight, stresses investor protection norms",
+          "description": "A parliamentary committee has proposed the establishment of a self-regulatory organization for cryptocurrencies, functioning under the supervision of central regulatory authorities. This interim solution calls for the government to assess a specific legal fra…",
+          "url": "https://economictimes.indiatimes.com/news/india/house-panel-bats-for-interim-crypto-self-regulation-under-rbi/sebi-oversight-stresses-investor-protection-norms/articleshow/132591021.cms",
+          "source": "The Times of India",
+          "published": "2026-07-23T19:16:05Z",
+          "image": "https://img.etimg.com/thumb/msid-132591063,width-1200,height-630,imgsize-123792,overlay-economictimes/articleshow.jpg"
         },
         {
-          "title": "Pyth Launches USDY Price Feed For Aptos And Sui DeFi Markets",
-          "description": "Pyth Launches USDY Price Feed For Aptos And Sui DeFi Markets - Read the full analysis on Bitcoinist.",
-          "url": "https://bitcoinist.com/pyth-usdy-price-feed-aptos-sui-defi/",
-          "source": "Bitcoinist",
-          "published": "2026-07-23T00:45:00Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/06/ChatGPT-Image-1.-Juni-2026-14_16_52.png"
+          "title": "Polymarket and Kalshi Are 'Likely' Underestimating Odds of Crypto Bill Passage Due to Insider Trading Restrictions, Says Fundstrat's Tom Lee",
+          "description": "Tom Lee, co-Founder and Head of Research at Fundstrat Global Advisors, said on Tuesday that the Clarity Act has stronger passage odds than shown in predictio...",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/polymarket-kalshi-likely-underestimating-odds-183119199.html",
+          "source": "Yahoo Entertainment",
+          "published": "2026-07-23T18:31:19Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/3894DE10DC149B422E3228519D34B06229F4108FAC93BAE50753825BDF7B6C95/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2Fcbaf78316aab053a337501e25935f9c0"
         },
         {
-          "title": "The CLARITY Act Doesn’t Ban Stablecoin Rewards. It Puts Them to Work.",
-          "description": "The most important line in the Senate’s sprawling 616-page digital asset market structure proposal may be the one that tells Americans what stablecoins are not. They are not deposits. They are not investment products. They are not federally insured. And under…",
-          "url": "https://www.pymnts.com/cryptocurrency/2026/clarity-act-puts-stablecoin-rewards-work/",
-          "source": "pymnts.com",
-          "published": "2026-07-22T22:08:06Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2026/07/Capitol-clarity-act-1.jpg"
+          "title": "Brazilian Farmers Are Tokenizing Cows to Get Farm Loans—And It's Working",
+          "description": "The first tokenized livestock deal on Brazil's stock exchange offers dairy farmers a lifeline as the sector's credit crisis deepens.",
+          "url": "https://decrypt.co/374148/brazilian-farmers-cows-blockchain-loans",
+          "source": "Decrypt",
+          "published": "2026-07-23T17:31:17Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/07/Tokenized-Cow-gID_7.png"
+        },
+        {
+          "title": "$131 billion crypto vault boom will test the limits of SEC’s friendlier crypto stance",
+          "description": "On July 22, SEC Commissioner Hester Peirce warned that some crypto vaults and onchain lending strategies may fall under federal securities laws. According to her, the regulatory risk depends on how the products are structured and who controls the investment d…",
+          "url": "https://cryptoslate.com/131-billion-crypto-vault-boom-will-test-the-limits-of-secs-friendlier-crypto-stance/",
+          "source": "CryptoSlate",
+          "published": "2026-07-23T15:10:52Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/07/sec-crypto-vaults-131-billion-assets.jpg"
         }
       ]
     },
@@ -204,28 +204,36 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "QUBIC Goes Global on Alchemy Pay: Now Purchasable in 173 Countries, Including the US",
-          "description": "Users across 173 countries can buy QUBIC directly with cards, bank transfers, and local payment methods, no crypto exchange required. Users across 173 countries can buy QUBIC directly with cards, bank transfers, and local payment methods, no crypto exchange r…",
-          "url": "https://www.globenewswire.com/news-release/2026/07/23/3331902/0/en/QUBIC-Goes-Global-on-Alchemy-Pay-Now-Purchasable-in-173-Countries-Including-the-US.html",
-          "source": "GlobeNewswire",
-          "published": "2026-07-23T08:00:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/5ea1e9d6-d984-4ed5-baf3-d071144490b1"
+          "title": "PhotonPay Releases Emerging Markets Payment Report: Unlocking Africa's B2B Potential Through Multi-Rail Architecture",
+          "description": "New research highlights how stablecoins and unified multi-rail settlement infrastructure bridge the gap between Africa's rapid domestic digital innovation and fragmented global commercial trade. HONG KONG, July 24, 2026 /PRNewswire/ -- PhotonPay, a next-gener…",
+          "url": "https://www.prnewswire.com/news-releases/photonpay-releases-emerging-markets-payment-report-unlocking-africas-b2b-potential-through-multi-rail-architecture-302834018.html",
+          "source": "PRNewswire",
+          "published": "2026-07-24T08:00:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS1865463/PhotonPay-Logo.jpg?id=OA2790808&p=facebook"
         },
         {
-          "title": "Injective Files SEC Transfer Agent Registration For Regulated RWA Push",
-          "description": "Injective Files SEC Transfer Agent Registration For Regulated RWA Push - Read the full analysis on Bitcoinist.",
-          "url": "https://bitcoinist.com/injective-sec-transfer-agent-registration-rwa/",
+          "title": "BNB Chain Becomes Main Network For Franklin Templeton’s Benji Assets",
+          "description": "BNB Chain Becomes Main Network For Franklin Templeton’s Benji Assets - Read the full analysis on Bitcoinist.",
+          "url": "https://bitcoinist.com/bnb-chain-becomes-main-network-for-franklin-templeton-s-benji-assets/",
           "source": "Bitcoinist",
-          "published": "2026-07-23T01:15:00Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/05/best-altcoins-bitcoin-hyper-injective.jpg"
+          "published": "2026-07-24T07:30:00Z",
+          "image": "https://bitcoinist.com/wp-content/uploads/2026/06/Margex-Crypto-Futures-Exchange.png"
         },
         {
-          "title": "Washington Is Redefining What Stablecoins Are For",
-          "description": "The most important line in the Senate’s sprawling 616-page digital asset market structure proposal may be the one that tells Americans what stablecoins are not. They are not deposits. They are not investment products. They are not federally insured. And under…",
-          "url": "https://www.pymnts.com/cryptocurrency/2026/washington-redefines-what-stablecoins-are-for/",
-          "source": "pymnts.com",
-          "published": "2026-07-22T22:08:06Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2026/07/SB6-stablecoins.png"
+          "title": "Could the EU’s Clothing Destruction Ban Change How Fashion Overproduces?",
+          "description": "New legislation on destroying unsold apparel, footwear and accessories could force brands to rethink overproduction and invest in better planning, according to supply chain veteran Anne-Laure Descours.",
+          "url": "http://wwd.com/sourcing-journal/sustainability/anne-laure-descours-haelixa-eu-clothing-destruction-1239081099/",
+          "source": "WWD",
+          "published": "2026-07-23T21:33:57Z",
+          "image": "https://wwd.com/wp-content/uploads/2026/07/haelixa.png?w=1000&h=563&crop=1"
+        },
+        {
+          "title": "Crypto industry to contribute $55B to US economy in 2026: NCA study",
+          "description": "According to research arranged by the National Cryptocurrency Association, digital asset companies directly employed 34,000 people, more than coffee and tea manufacturing.",
+          "url": "https://cointelegraph.com/news/crypto-industry-contributed-us-economy-2026-nca",
+          "source": "Cointelegraph",
+          "published": "2026-07-23T19:41:10Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/us-coin.jpg"
         },
         {
           "title": "Blockchain AI Market Size to Hit $6,222.89 Million by 2035 as AI-Driven Decentralized Solutions Gain Enterprise Momentum | Research by SNS Insider",
@@ -242,14 +250,6 @@
           "source": "ZyCrypto",
           "published": "2026-07-21T21:27:21Z",
           "image": "https://zycrypto.com/wp-content/uploads/2026/07/Hederas-HBAR-Primed-for-Long-Term-Success-as-Institutional-Adoption-Soars.jpg"
-        },
-        {
-          "title": "Immorta Bio and Collaborators Publish Blueprint for the Future of AI-Driven Precision Medicine",
-          "description": "New Journal of Translational Medicine Perspective outlines how AI, multi-omics, digital twins, and blockchain can transform P4 Medicine into clinical reality. MIAMI, July 21, 2026 /PRNewswire/ -- Immorta Bio today announced the publication of a peer-reviewed …",
-          "url": "https://www.prnewswire.com/news-releases/immorta-bio-and-collaborators-publish-blueprint-for-the-future-of-ai-driven-precision-medicine-302830918.html",
-          "source": "PRNewswire",
-          "published": "2026-07-21T13:39:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS1889644/Immorta-Bio-Logo.jpg?id=OA2776810&p=facebook"
         },
         {
           "title": "Alpaca and Broadridge Announce Governance Solution for Tokenized Securities",
@@ -271,20 +271,20 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "How to fill a €60bn hole in the EU budget? Answers on a postcard, please",
-              "description": "Brussels’ plans to tax tech giants, cigarettes and crypto profits face stiff resistance",
-              "url": "https://www.irishtimes.com/world/europe/2026/07/23/how-to-fill-a-60bn-hole-in-the-eu-budget-answers-on-a-postcard-please/",
-              "source": "The Irish Times",
-              "published": "2026-07-23T05:00:00Z",
-              "image": "https://www.irishtimes.com/resizer/v2/NX5WDUCGCNEJVOOX6M7BUQDUV4.jpg?smart=true&auth=5c25015c8f722623d6e8ae9abadad062d59e0b76811b005aad867c464b12dc51&width=1200&height=630"
+              "title": "Hopes for key crypto bill fade amid delays, Trump ethics controversy",
+              "description": "The CLARITY Act has been kicked down the road once again, and could be a casualty of mid-term politics.",
+              "url": "https://fortune.com/2026/07/24/hopes-for-key-crypto-bill-fade-amid-delays-trump-ethics-controversy/",
+              "source": "Fortune",
+              "published": "2026-07-24T05:40:45Z",
+              "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2287088517.jpg?resize=1200,600"
             },
             {
-              "title": "Chip firm priced as China's most valuable company before its IPO brings scrutiny to crypto platform",
-              "description": "Crypto traders are pricing China's largest memory chipmaker, ChangXin Memory Technologies, at levels that would make it the most valuable company listed on the mainland, days before its record Shanghai debut.\nCrypto startup Trade.xyz offers the CXMT-linked co…",
-              "url": "https://biztoc.com/x/9f949f06f27ff7e9",
-              "source": "Biztoc.com",
-              "published": "2026-07-23T03:30:51Z",
-              "image": "https://biztoc.com/cdn/9f949f06f27ff7e9_s.webp"
+              "title": "$460 billion Bitcoin risk draws BlackRock, Coinbase and Strategy into $15M quantum defense mission",
+              "description": "BlackRock, Coinbase and Strategy are backing a $15 million effort to prepare Bitcoin against future quantum-computing attacks. The companies are among nine founding members of the Bitcoin Security Consortium, announced July 23 to support developers and resear…",
+              "url": "https://cryptoslate.com/460-billion-bitcoin-risk-draws-blackrock-coinbase-and-strategy-into-15m-quantum-computing-defense-push/",
+              "source": "CryptoSlate",
+              "published": "2026-07-23T16:05:22Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/07/bitcoin-quantum-threat-shield-institutional-defense.jpg"
             }
           ]
         },
@@ -292,6 +292,30 @@
           "title": "Hyperscalers",
           "icon": "☁️",
           "articles": [
+            {
+              "title": "Best 5 Altcoins to Buy Before August 2026 — These Could Lead the Next Crypto Rally",
+              "description": "The crypto market is approaching August with Bitcoin still controlling approximately 56% of total market capitalization. The global market is worth roughly $2.3 trillion, but...\nThe post Best 5 Altcoins to Buy Before August 2026 — These Could Lead the Next Cr…",
+              "url": "https://bitcoinfoundation.org/news/altcoins/best-5-altcoins-buy-before-august-2026/",
+              "source": "Bitcoinfoundation.org",
+              "published": "2026-07-23T16:05:39Z",
+              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/5-alt-1.webp"
+            },
+            {
+              "title": "Top exec at $1.7 trillion Wall Street giant makes bold crypto call",
+              "description": "Investors have spent the last few years chasing AI growth by buying shares of companies like Nvidia and Microsoft. But a senior Wall Street executive says th...",
+              "url": "https://www.thestreet.com/crypto/markets/top-exec-at-1-7-trillion-wall-street-giant-makes-bold-crypto-call",
+              "source": "TheStreet",
+              "published": "2026-07-23T15:41:00Z",
+              "image": "https://s.yimg.com/lo/mysterio/api/E17AC1505EF34EB1F91AFC14E951C22F39E6FCC1AE34626FA2900FE3506D157C/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F77f727bda15eab140e16653485db7e82"
+            },
+            {
+              "title": "Bybit Expands Fixed-Return Dual Asset Product Beyond Crypto With xStocks",
+              "description": "DUBAI, UAE, July 23, 2026 /PRNewswire/ -- Bybit, the world's second-largest cryptocurrency exchange by trading volume, is excited to announce the integration of xStocks into its Dual Asset product, becoming the first centralized exchange to offer xStocks as u…",
+              "url": "https://www.prnewswire.com/news-releases/bybit-expands-fixed-return-dual-asset-product-beyond-crypto-with-xstocks-302833271.html",
+              "source": "PRNewswire",
+              "published": "2026-07-23T11:38:00Z",
+              "image": "https://mma.prnewswire.com/media/3007442/image1.jpg?p=facebook"
+            },
             {
               "title": "Chainlink Moves BUILD Rewards Toward Fee-Based LINK Agreements",
               "description": "Chainlink Moves BUILD Rewards Toward Fee-Based LINK Agreements - Read the full analysis on Bitcoinist.",
@@ -307,22 +331,6 @@
               "source": "Decrypt",
               "published": "2026-07-22T19:04:05Z",
               "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/ai-decrypt-style-13-gID_7.png"
-            },
-            {
-              "title": "Bybit Presents Exclusive $1M Prize Pool for Stock-Themed Trading As Wall Street Enters Earnings Season",
-              "description": "Dubai, United Arab Emirates, 22nd July 2026, Chainwire\nThe post Bybit Presents Exclusive $1M Prize Pool for Stock-Themed Trading As Wall Street Enters Earnings Season appeared first on The Daily Hodl.",
-              "url": "https://dailyhodl.com/2026/07/22/bybit-presents-exclusive-1m-prize-pool-for-stock-themed-trading-as-wall-street-enters-earnings-season/",
-              "source": "The Daily Hodl",
-              "published": "2026-07-22T10:31:23Z",
-              "image": "https://dailyhodl.com/wp-content/uploads/2026/07/Social_2607-T92849_Stock_Earnings_Season__Trade_Pr_1784624414Zun2hO7vIa.jpg?resize=1600,900"
-            },
-            {
-              "title": "Balance stablecoin collapses 99% after $1 million exploit drains its bitcoin vaults",
-              "description": "An attacker fed the lending system a fake, abnormally low bitcoin price, liquidated vaults that should have been safe, and pocketed the difference in a single transaction.",
-              "url": "https://www.coindesk.com/tech/2026/07/22/balance-stablecoin-collapses-99-after-usd1-million-exploit-drains-its-bitcoin-vaults",
-              "source": "CoinDesk",
-              "published": "2026-07-22T09:01:54Z",
-              "image": "https://cdn.sanity.io/images/s3y3vcno/production/d4b2490f30fa58bdb6ed0c1a89ed37ee02479a66-3407x2556.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
             }
           ]
         }
