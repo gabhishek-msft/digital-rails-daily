@@ -1,5 +1,5 @@
 {
-  "date": "July 25, 2026",
+  "date": "July 26, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -70,6 +70,22 @@
       "color": "#e6a200",
       "articles": [
         {
+          "title": "World Foundation raises $52 million in token sale as proof-of-human demand accelerates",
+          "description": "World Foundation has raised $52 million through a locked token sale to expand the reach of World ID, its iris-scan-based system for proving someone is a real human online. Pantera Capital led the initial close, joined by Bain Capital Crypto, Eightco Holdings,…",
+          "url": "https://thenextweb.com/news/world-foundation-52-million-token-sale-proof-of-human-ai/",
+          "source": "The Next Web",
+          "published": "2026-07-24T17:11:59Z",
+          "image": "https://media.thenextweb.com/2026/07/world-foundation-52-million-token-sale-proof-of-human-ai.avif"
+        },
+        {
+          "title": "Best Crypto Tokens Launched in 2026 Before They Go Mainstream",
+          "description": "This list of new crypto tokens 2026 covers AI, privacy, prediction markets, verifiable computing, cross-chain, and real-world assets. We have selected crypto tokens with working...\nThe post Best Crypto Tokens Launched in 2026 Before They Go Mainstream appeare…",
+          "url": "https://bitcoinfoundation.org/news/opinion/best-crypto-tokens-launched-in-2026-before-they-go-mainstream/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-07-24T10:04:20Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/Bestcrypto1-1.webp"
+        },
+        {
           "title": "Cardano’s Midnight Set for Major Leap as Hoskinson Teases “Huge Things” Ahead",
           "description": "Cardano founder Charles Hoskinson has sparked fresh excitement around Midnight after teasing that “huge things” are on the horizon.",
           "url": "https://zycrypto.com/cardanos-midnight-set-for-major-leap-as-hoskinson-teases-huge-things-ahead/",
@@ -110,14 +126,6 @@
           "image": "https://s.yimg.com/lo/mysterio/api/8ECAAA6D3096477A7D1187792A3EC4744D52A4E95F9ED155902A25FA9314D3E2/subgraphmysterio/resizefill_w1200_h677;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcoindesk_75%2Ff59fbd8bc0ed5576aa348b53780c535c"
         },
         {
-          "title": "Aster Chain mainnet launches with 450M ASTER staked and 112 RWA markets live",
-          "description": "Aster Chain launches its mainnet with 450M $ASTER staked and 112 RWA markets, leveraging ZK proofs and 50ms block times for privacy-focused\nThe post Aster Chain mainnet launches with 450M ASTER staked and 112 RWA markets live appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/aster-chain-mainnet-launch-rwa-markets/",
-          "source": "Crypto Briefing",
-          "published": "2026-07-21T12:05:43Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/21080542/chain-aster-800x420.jpeg"
-        },
-        {
           "title": "Vitalik Buterin vibe-codes anonymous billboard demo on Aztec",
           "description": "Vitalik Buterin built an anonymous billboard prototype on Aztec Network using zero-knowledge proofs, ETH deposits, and AI moderation via vibe coding.\nThe post Vitalik Buterin vibe-codes anonymous billboard demo on Aztec appeared first on Crypto Briefing.",
           "url": "https://cryptobriefing.com/vitalik-buterin-vibe-codes-aztec-anonymous-billboard/",
@@ -133,68 +141,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Mirae plans to turn crypto exchange Korbit into something Korea hasn't seen before",
-          "description": "Mirae Asset, the $1 trillion South Korean financial giant, says its plans for newly acquired Korbit go far beyond capturing crypto market share — it wants to build an intelligent investment platform seamlessly connecting real-world assets, stablecoins and dig…",
-          "url": "https://www.coindesk.com/markets/2026/07/24/mirae-asset-has-a-name-for-what-it-s-building-with-korbit-an-intelligent-platform",
-          "source": "CoinDesk",
-          "published": "2026-07-24T06:10:49Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/ae0a096246871f868542edd025af448d189d9fa4-2177x1110.png?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
+          "title": "This Week in Stablecoins: Visa, Goldman and Samsung Raise the Stakes",
+          "description": "Stablecoins spent years waiting for regulatory legitimacy. Now that legitimacy is creating a more complicated problem: almost everyone wants a piece of the business. As a result, the biggest stablecoin news this week didn’t come from crypto-native companies. …",
+          "url": "https://www.pymnts.com/cryptocurrency/2026/this-week-in-stablecoins-visa-goldman-and-samsung-raise-the-stakes/",
+          "source": "pymnts.com",
+          "published": "2026-07-24T23:51:13Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2024/12/stablecoins-1.jpg"
         },
         {
-          "title": "Gemini sent $10M in Bitcoin to Trump PAC after joint motion with CFTC",
-          "description": "The Gemini Trust Company, run by the Winklevoss twins, sent $10 million in Bitcoin to a Trump-aligned Super PAC just weeks after a joint motion with the CFTC to reverse a settlement.",
-          "url": "https://cointelegraph.com/news/gemini-winklevoss-bitcoin-donald-trump-pac-cftc-deal",
-          "source": "Cointelegraph",
-          "published": "2026-07-23T21:47:39Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/winklevoss-trump.jpg"
+          "title": "CLARITY Act Delay Shows Crypto Market Structure Fight Is Not Over",
+          "description": "CLARITY Act Delay Shows Crypto Market Structure Fight Is Not Over - Read the full analysis on NewsBTC.",
+          "url": "http://www.newsbtc.com/news/clarity-act-delay-shows-crypto-market-structure-fight-is-not-over/",
+          "source": "newsBTC",
+          "published": "2026-07-24T23:10:00Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/newsbtc_04_sec-proposes-reg-nms-rule-changes-that-could-affec_5dcdb2.png?fit=1200%2C675"
         },
         {
-          "title": "Goldman Sachs CEO Breaks With Wall Street to Back Crypto Clarity Act",
-          "description": "Solomon's endorsement splits with JP Morgan's Jamie Dimon and banking trade groups, who warn the bill's stablecoin-yield provisions could pull deposits away from traditional lenders.",
-          "url": "https://decrypt.co/374186/goldman-sachs-ceo-breaks-wall-street-crypto-clarity-act",
-          "source": "Decrypt",
-          "published": "2026-07-23T20:44:09Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/US-Capitol-decrypt-style-04-gID_7.png"
+          "title": "Price Analysis: Injective Targets EU Crypto Users with MiCA Compliance — Will INJ Reclaim the $10 Mark?",
+          "description": "The Injective Protocol today demonstrated that it holds MiCA authorization, deepening its commitment to better serve EU crypto users through its INJ token and related DeFi assets. Injective officially published its MiCA whitepaper for its flagship cryptocurre…",
+          "url": "https://zycrypto.com/price-analysis-injective-targets-eu-crypto-users-with-mica-compliance-will-inj-reclaim-the-10-mark/",
+          "source": "ZyCrypto",
+          "published": "2026-07-24T21:19:40Z",
+          "image": "https://zycrypto.com/wp-content/uploads/2026/07/Price-Analysis-Injective-Targets-EU-Crypto-Users-with-MiCA-Compliance-—-Will-INJ-Reclaim-the-10-Mark.jpg"
         },
         {
-          "title": "Clarity Act expected to miss its window before Congress' summer break, leadership says",
-          "description": "The deadline to get the crypto market structure bill done before senators scatter will likely be missed, says Majority Leader Thune, though it may get a start before then.",
-          "url": "https://www.coindesk.com/policy/2026/07/23/clarity-act-expected-to-miss-its-window-before-congress-summer-break-leadership-says",
-          "source": "CoinDesk",
-          "published": "2026-07-23T20:16:37Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/d80238dd859faada40d384970db94239e3b42fbc-6000x4000.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
+          "title": "Republicans target Trump's crypto empire with new plan, Dems say it falls short",
+          "description": "Trump's income surged 250% to $2.2 billion largely from crypto ventures, but Senate Democrats say the Clarity Act's ethics provisions fall short.",
+          "url": "https://www.foxnews.com/politics/republicans-target-trumps-crypto-empire-new-plan-dems-say-falls-short",
+          "source": "Fox News",
+          "published": "2026-07-24T19:55:09Z",
+          "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/Warren-Trump.jpeg"
         },
         {
-          "title": "House panel bats for interim crypto self-regulation under RBI/SEBI oversight, stresses investor protection norms",
-          "description": "A parliamentary committee has proposed the establishment of a self-regulatory organization for cryptocurrencies, functioning under the supervision of central regulatory authorities. This interim solution calls for the government to assess a specific legal fra…",
-          "url": "https://economictimes.indiatimes.com/news/india/house-panel-bats-for-interim-crypto-self-regulation-under-rbi/sebi-oversight-stresses-investor-protection-norms/articleshow/132591021.cms",
-          "source": "The Times of India",
-          "published": "2026-07-23T19:16:05Z",
-          "image": "https://img.etimg.com/thumb/msid-132591063,width-1200,height-630,imgsize-123792,overlay-economictimes/articleshow.jpg"
-        },
-        {
-          "title": "Polymarket and Kalshi Are 'Likely' Underestimating Odds of Crypto Bill Passage Due to Insider Trading Restrictions, Says Fundstrat's Tom Lee",
-          "description": "Tom Lee, co-Founder and Head of Research at Fundstrat Global Advisors, said on Tuesday that the Clarity Act has stronger passage odds than shown in predictio...",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/polymarket-kalshi-likely-underestimating-odds-183119199.html",
-          "source": "Yahoo Entertainment",
-          "published": "2026-07-23T18:31:19Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/3894DE10DC149B422E3228519D34B06229F4108FAC93BAE50753825BDF7B6C95/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2Fcbaf78316aab053a337501e25935f9c0"
-        },
-        {
-          "title": "Brazilian Farmers Are Tokenizing Cows to Get Farm Loans—And It's Working",
-          "description": "The first tokenized livestock deal on Brazil's stock exchange offers dairy farmers a lifeline as the sector's credit crisis deepens.",
-          "url": "https://decrypt.co/374148/brazilian-farmers-cows-blockchain-loans",
-          "source": "Decrypt",
-          "published": "2026-07-23T17:31:17Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/07/Tokenized-Cow-gID_7.png"
-        },
-        {
-          "title": "$131 billion crypto vault boom will test the limits of SEC’s friendlier crypto stance",
-          "description": "On July 22, SEC Commissioner Hester Peirce warned that some crypto vaults and onchain lending strategies may fall under federal securities laws. According to her, the regulatory risk depends on how the products are structured and who controls the investment d…",
-          "url": "https://cryptoslate.com/131-billion-crypto-vault-boom-will-test-the-limits-of-secs-friendlier-crypto-stance/",
+          "title": "BlackRock’s IBIT accounted for 90% of a $225 million Bitcoin ETF reversal after a seven-day buying streak",
+          "description": "US spot Bitcoin ETFs recorded $225 million in net outflows on July 23, ending a seven-session inflow streak as net redemptions from BlackRock’s iShares Bitcoin Trust dominated the reversal. IBIT posted a $202 million net outflow, accounting for 89.96% of the …",
+          "url": "https://cryptoslate.com/blackrocks-ibit-accounted-for-90-of-a-225-million-bitcoin-etf-reversal-after-a-seven-day-buying-streak/",
           "source": "CryptoSlate",
-          "published": "2026-07-23T15:10:52Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/07/sec-crypto-vaults-131-billion-assets.jpg"
+          "published": "2026-07-24T17:45:51Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/07/blackrock-ibit-outflow-pressure-bitcoin.jpg"
+        },
+        {
+          "title": "Ethena price prediction: can ENA hold $0.085 after $26.4M whale wallet transfer?",
+          "description": "Ethena (ENA) is testing critical support at $0.085. A 290M ENA wallet transfer raised selling concerns. Bitcoin’s next move could determine ENA’s direction. Ethena is back in focus after a large wallet transfer drew attention at a time when the token is alrea…",
+          "url": "https://coinjournal.net/news/ethena-price-prediction-can-ena-hold-0-085-after-26-4m-whale-wallet-transfer/",
+          "source": "Coinjournal.net",
+          "published": "2026-07-24T17:33:29Z",
+          "image": "https://coinjournal.net/wp-content/uploads/2026/07/Ethena-price-prediction.png"
+        },
+        {
+          "title": "CLARITY Act splits Wall Street and crypto as Goldman Sachs breaks with banks and Charles Hoskinson backs Warren",
+          "description": "The revised CLARITY Act is exposing unusual divisions across Wall Street, Washington and the crypto industry as lawmakers struggle to build support for a Senate vote. Senate Republicans this week released a new draft that would bar the president and other fed…",
+          "url": "https://cryptoslate.com/clarity-act-splits-wall-street-and-crypto-as-goldman-sachs-breaks-with-banks-and-charles-hoskinson-backs-warren/",
+          "source": "CryptoSlate",
+          "published": "2026-07-24T15:35:56Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/07/clarity-act-goldman-hoskinson-warren-crypto-collage-2.jpg"
+        },
+        {
+          "title": "Brazilian farmers tokenized dairy cows to get loans, bypassing bank lending limits",
+          "description": "Smart collars monitor herd health in real time to prevent fraud, allowing local agricultural businesses to secure thousands in funding backed by livestock.",
+          "url": "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
+          "source": "CoinDesk",
+          "published": "2026-07-24T13:03:03Z",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/fc6ad6da7b554fc0089b3535d846dc2ca01ae585-3000x2000.jpg?auto=format&w=960&h=540&crop=focalpoint&fit=clip&q=75&fm=jpg"
         }
       ]
     },
@@ -204,20 +212,20 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "PhotonPay Releases Emerging Markets Payment Report: Unlocking Africa's B2B Potential Through Multi-Rail Architecture",
-          "description": "New research highlights how stablecoins and unified multi-rail settlement infrastructure bridge the gap between Africa's rapid domestic digital innovation and fragmented global commercial trade. HONG KONG, July 24, 2026 /PRNewswire/ -- PhotonPay, a next-gener…",
-          "url": "https://www.prnewswire.com/news-releases/photonpay-releases-emerging-markets-payment-report-unlocking-africas-b2b-potential-through-multi-rail-architecture-302834018.html",
+          "title": "PointsKash Demonstrates How Businesses Can Build on Bitcoin Without Burdening the Blockchain",
+          "description": "As industry debate surrounding Bitcoin Improvement Proposal (BIP-110) intensifies, PointsKash unveils an architecture designed to work regardless of the proposal's outcome. SCOTTSDALE, Ariz., July 24, 2026 /PRNewswire/ -- As the global Bitcoin community debat…",
+          "url": "https://www.prnewswire.com/news-releases/pointskash-demonstrates-how-businesses-can-build-on-bitcoin-without-burdening-the-blockchain-302834473.html",
           "source": "PRNewswire",
-          "published": "2026-07-24T08:00:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS1865463/PhotonPay-Logo.jpg?id=OA2790808&p=facebook"
+          "published": "2026-07-24T22:23:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS1663801/PointsKash-Logo.jpg?id=OA2794143&p=facebook"
         },
         {
-          "title": "BNB Chain Becomes Main Network For Franklin Templeton’s Benji Assets",
-          "description": "BNB Chain Becomes Main Network For Franklin Templeton’s Benji Assets - Read the full analysis on Bitcoinist.",
-          "url": "https://bitcoinist.com/bnb-chain-becomes-main-network-for-franklin-templeton-s-benji-assets/",
-          "source": "Bitcoinist",
-          "published": "2026-07-24T07:30:00Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/06/Margex-Crypto-Futures-Exchange.png"
+          "title": "Samsung Wallet Will Add Stablecoin Support, Including USDC",
+          "description": "Samsung showed a wallet mockup holding Circle's USDC at Galaxy Unpacked. But details are scarce.",
+          "url": "https://decrypt.co/374324/samsung-wallet-stablecoin-support-usdc",
+          "source": "Decrypt",
+          "published": "2026-07-24T19:30:01Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/10/samsung-galaxy-fold-decrypt-style-gID_7.jpg"
         },
         {
           "title": "Could the EU’s Clothing Destruction Ban Change How Fashion Overproduces?",
@@ -228,12 +236,12 @@
           "image": "https://wwd.com/wp-content/uploads/2026/07/haelixa.png?w=1000&h=563&crop=1"
         },
         {
-          "title": "Crypto industry to contribute $55B to US economy in 2026: NCA study",
-          "description": "According to research arranged by the National Cryptocurrency Association, digital asset companies directly employed 34,000 people, more than coffee and tea manufacturing.",
-          "url": "https://cointelegraph.com/news/crypto-industry-contributed-us-economy-2026-nca",
-          "source": "Cointelegraph",
-          "published": "2026-07-23T19:41:10Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/us-coin.jpg"
+          "title": "House panel bats for interim crypto self-regulation under RBI/SEBI oversight, stresses investor protection norms",
+          "description": "A parliamentary committee has proposed the establishment of a self-regulatory organization for cryptocurrencies, functioning under the supervision of central regulatory authorities. This interim solution calls for the government to assess a specific legal fra…",
+          "url": "https://economictimes.indiatimes.com/news/india/house-panel-bats-for-interim-crypto-self-regulation-under-rbi/sebi-oversight-stresses-investor-protection-norms/articleshow/132591021.cms",
+          "source": "The Times of India",
+          "published": "2026-07-23T19:16:05Z",
+          "image": "https://img.etimg.com/thumb/msid-132591063,width-1200,height-630,imgsize-123792,overlay-economictimes/articleshow.jpg"
         },
         {
           "title": "Blockchain AI Market Size to Hit $6,222.89 Million by 2035 as AI-Driven Decentralized Solutions Gain Enterprise Momentum | Research by SNS Insider",
@@ -271,12 +279,12 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Hopes for key crypto bill fade amid delays, Trump ethics controversy",
-              "description": "The CLARITY Act has been kicked down the road once again, and could be a casualty of mid-term politics.",
-              "url": "https://fortune.com/2026/07/24/hopes-for-key-crypto-bill-fade-amid-delays-trump-ethics-controversy/",
-              "source": "Fortune",
-              "published": "2026-07-24T05:40:45Z",
-              "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2287088517.jpg?resize=1200,600"
+              "title": "Zero Knowledge: Twenty Chapters In",
+              "description": "A month ago I opened up Zero Knowledge, the crypto-thriller I'm co-writing with my AI. There are twenty chapters now, a cast page, a plate for every chapter, and a pile of reader notes I'm grateful for.",
+              "url": "https://feld.com/archives/2026/07/zero-knowledge-twenty-chapters-in/",
+              "source": "Feld.com",
+              "published": "2026-07-24T17:35:59Z",
+              "image": "https://feld.com/og-default.png"
             },
             {
               "title": "$460 billion Bitcoin risk draws BlackRock, Coinbase and Strategy into $15M quantum defense mission",
@@ -292,6 +300,14 @@
           "title": "Hyperscalers",
           "icon": "☁️",
           "articles": [
+            {
+              "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
+              "description": "The North Korean threat actors behind the ClickFix-style campaigns that employ typosquatted Zoom and Microsoft Teams domains have been found to operate an active phishing kit to impersonate the videoconferencing platforms in social engineering campaigns desig…",
+              "url": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html",
+              "source": "Internet",
+              "published": "2026-07-24T15:12:35Z",
+              "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs7TSABeFdGk4U17Tg0v-H9ZK2WmPIZ9AtmxJGCtw24Naxa7eEdlvW-eR8yl9NNCAzrMkOCKqSjsdJmAMhuXOq9rHSCE3tNWvTGBe209fpCqn7wVRpUgQ4FgskJgUIWBRz95f25kb8FwrADVj5Cqo5HALXnothJa4kWk9WCU3MG1wkpW_D17sP8o84utoA/s1700-e365/zoom-exploit.jpg"
+            },
             {
               "title": "Best 5 Altcoins to Buy Before August 2026 — These Could Lead the Next Crypto Rally",
               "description": "The crypto market is approaching August with Bitcoin still controlling approximately 56% of total market capitalization. The global market is worth roughly $2.3 trillion, but...\nThe post Best 5 Altcoins to Buy Before August 2026 — These Could Lead the Next Cr…",
@@ -315,14 +331,6 @@
               "source": "PRNewswire",
               "published": "2026-07-23T11:38:00Z",
               "image": "https://mma.prnewswire.com/media/3007442/image1.jpg?p=facebook"
-            },
-            {
-              "title": "Chainlink Moves BUILD Rewards Toward Fee-Based LINK Agreements",
-              "description": "Chainlink Moves BUILD Rewards Toward Fee-Based LINK Agreements - Read the full analysis on Bitcoinist.",
-              "url": "https://bitcoinist.com/chainlink-build-rewards-fee-based-link-agreements/",
-              "source": "Bitcoinist",
-              "published": "2026-07-22T23:45:00Z",
-              "image": "https://bitcoinist.com/wp-content/uploads/2026/05/ChatGPT-Image-20.-Mai-2026-08_43_17.png"
             },
             {
               "title": "Franklin Templeton Says Agentic AI Is Crypto's 'Killer Use Case'",
