@@ -1,11 +1,43 @@
 {
-  "date": "July 29, 2026",
+  "date": "July 30, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "Total value locked in Ethereum Layer 2 networks falls to $5B",
+          "description": "The drastic drop in Ethereum Layer 2 TVL highlights potential liquidity risks and valuation challenges for investors in scaling solutions.\nThe post Total value locked in Ethereum Layer 2 networks falls to $5B appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/ethereum-layer-2-tvl-falls-5-billion/",
+          "source": "Crypto Briefing",
+          "published": "2026-07-28T18:22:38Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/28142234/are-layer-2-networks-helping-or-hurting-ethereum-s-price-800x420.jpeg"
+        },
+        {
+          "title": "Stargate Finance integrates NEAR Intents for cross-chain swaps",
+          "description": "Stargate Finance's integration with NEAR Intents enhances cross-chain liquidity, simplifying user experience and potentially boosting DeFi adoption.\nThe post Stargate Finance integrates NEAR Intents for cross-chain swaps appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/stargate-finance-near-intents-cross-chain-swaps/",
+          "source": "Crypto Briefing",
+          "published": "2026-07-28T13:38:23Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/28093817/stargate-finance-up-13-after-openai-announces-500b-ai-projec-800x420.jpeg"
+        },
+        {
+          "title": "What Is COTI Crypto? Why COTI Token Exploded 63% in Just 24 Hours",
+          "description": "Whereas those who have searched for what is COTI crypto may be familiar with its payment network, it has since transformed into a privacy-first Ethereum...\nThe post What Is COTI Crypto? Why COTI Token Exploded 63% in Just 24 Hours appeared first on Bitcoin Fo…",
+          "url": "https://bitcoinfoundation.org/news/analysis/what-is-coti-crypto-why-coti-token-exploded-63-in-just-24-hours/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-07-28T11:07:27Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/1-1785234265.webp"
+        },
+        {
+          "title": "Is the Web3 startup extinction event here, as Wall Street silently inherits crypto architecture?",
+          "description": "The exchange wind-downs show where pressure is landing, while a messy shutdown tally and 49% drawdown leave timing unresolved.\nThe post Is the Web3 startup extinction event here, as Wall Street silently inherits crypto architecture? appeared first on CryptoSl…",
+          "url": "https://cryptoslate.com/is-the-web3-startup-extinction-event-here-as-wall-street-silently-inherits-crypto-architecture/",
+          "source": "CryptoSlate",
+          "published": "2026-07-28T10:20:35Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/07/bitcoin-bear-market-paper-boat-uncertain-bottom.jpg"
+        },
         {
           "title": "COTI Price Prediction 2026-2030: Can COTI Hit $1 in the Next Crypto Bull Run?",
           "description": "COTI has evolved from a DAG-based payments network into a privacy-focused Ethereum Layer 2. With the crypto market showing renewed volatility in mid-2026, investors are asking whether COTI can deliver strong gains-and potentially approach or hit $1-during the…",
@@ -29,30 +61,6 @@
           "source": "Prtimes.jp",
           "published": "2026-07-27T01:00:00Z",
           "image": "https://prcdn.freetls.fastly.net/release_image/111807/129/111807-129-94dd356d40198a45cca1459fc271eb10-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "title": "Arbitrum Fast Feed Proposal Would Route 97% Of Revenue To DAO Treasury",
-          "description": "Arbitrum Fast Feed Proposal Would Route 97% Of Revenue To DAO Treasury - Read the full analysis on NewsBTC.",
-          "url": "http://www.newsbtc.com/news/arbitrum-fast-feed-revenue-dao-treasury/",
-          "source": "newsBTC",
-          "published": "2026-07-22T18:15:00Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/newsbtc_07_bitcoin-vaults-face-quantum-address-reuse-warning-in-coinbase-linked-report_featured.png?fit=1200%2C675"
-        },
-        {
-          "title": "Sats Terminal launches on Starknet, offering BTC-backed USDC loans at negative interest rates",
-          "description": "Sats Terminal integrates with Starknet to offer BTC-backed USDC loans at negative APR rates, with STRK rewards exceeding borrowing costs for\nThe post Sats Terminal launches on Starknet, offering BTC-backed USDC loans at negative interest rates appeared first …",
-          "url": "https://cryptobriefing.com/sats-terminal-starknet-btc-usdc-loans/",
-          "source": "Crypto Briefing",
-          "published": "2026-07-22T15:23:14Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/22112313/sats-premier-lounge-changi-airport-terminal-3-review-wah-so--800x420.jpeg"
-        },
-        {
-          "title": "Blockchain Market to Reach $610.96 Billion by 2031 at 62% CAGR, Driven by Digital Identity, Tokenization and Enterprise Adoption",
-          "description": "Professional services will see the fastest growth, while private blockchain will lead in 2026. South Korea is set to be Asia Pacific’s fastest-growing market. Professional services will see the fastest growth, while private blockchain will lead in 2026. South…",
-          "url": "https://www.globenewswire.com/news-release/2026/07/22/3331144/28124/en/Blockchain-Market-to-Reach-610-96-Billion-by-2031-at-62-CAGR-Driven-by-Digital-Identity-Tokenization-and-Enterprise-Adoption.html",
-          "source": "GlobeNewswire",
-          "published": "2026-07-22T09:34:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/07a2d5ac-b846-4fda-a9ed-a7ab5fabde3b"
         }
       ]
     },
@@ -100,30 +108,6 @@
           "source": "ZyCrypto",
           "published": "2026-07-23T19:29:36Z",
           "image": "https://zycrypto.com/wp-content/uploads/2024/03/Will-Cardano-Reach-8-In-This-Bull-Cycle-Market-Pundit-Reveals-ADA-Price-Trajectory-To-Expect.jpg"
-        },
-        {
-          "title": "Crypto Wallet SecondFi Shutters After $2.4 Million Theft",
-          "description": "Cryptocurrency wallet SecondFi is shuttering after an attack drained $2.4 million from its users. The company announced Wednesday (July 22) that it had addressed the vulnerability that permitted the theft of 16.1 million in ADA last month, and had secured ano…",
-          "url": "https://www.pymnts.com/cryptocurrency/2026/crypto-wallet-secondfi-shutters-after-2-4-million-theft/",
-          "source": "pymnts.com",
-          "published": "2026-07-22T17:44:31Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2019/07/cryptocurrency-major-crypto-hacks.jpg"
-        },
-        {
-          "title": "515M NIGHT bridge exploit rocks Cardano but ADA jumps 8% anyway after landmark hard fork",
-          "description": "A major exploit involving a bridge connected to the Cardano ecosystem sent Midnight’s NIGHT token to an all-time low on July 20 after an attacker drained roughly 515 million tokens from infrastructure operated by Wanchain. The tokens were removed from a Carda…",
-          "url": "https://cryptoslate.com/515m-night-bridge-exploit-rocks-cardano-but-ada-jumps-nearly-8-anyway-after-landmark-hard-fork/",
-          "source": "CryptoSlate",
-          "published": "2026-07-22T10:05:07Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/07/cardano-ada-night-token-quarantine-exploit.jpg"
-        },
-        {
-          "title": "SecondFi to wind down after $2.6M ADA theft linked to wallet flaw",
-          "description": "SecondFi will wind down after a $2.6 million ADA theft, while users still await recovery tools that were initially expected within weeks of the exploit.",
-          "url": "https://cointelegraph.com/news/secondfi-shutdown-ada-theft-wallet-flaw",
-          "source": "Cointelegraph",
-          "published": "2026-07-22T09:42:00Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-got-crypto-losses-wallet-shutdown.jpg"
         }
       ]
     },
@@ -133,68 +117,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Zimbabwe admits seven fintech projects to regulatory sandbox",
-          "description": "Zimbabwe's fintech sandbox fosters innovation while enhancing regulatory oversight, potentially boosting investor confidence and market stability.\nThe post Zimbabwe admits seven fintech projects to regulatory sandbox appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/zimbabwe-fintech-regulatory-sandbox/",
-          "source": "Crypto Briefing",
-          "published": "2026-07-28T03:29:45Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/27232941/zimbabwe-admits-seven-fintech-projects-to-regulatory-sandbox-800x420.jpeg"
+          "title": "Beyond Bitcoin: Crypto trends investors should watch over the next 6 months",
+          "description": "CoinDCX Co-founder Sumit Gupta writes that disciplined investing through crypto SIPs is replacing market timing. Beyond Bitcoin, structural value is forming across stablecoin payment rails, real-world asset tokenisation led by institutions like BlackRock, and…",
+          "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/beyond-bitcoin-crypto-trends-investors-should-watch-over-the-next-6-months/articleshow/132701499.cms",
+          "source": "The Times of India",
+          "published": "2026-07-29T05:17:04Z",
+          "image": "https://img.etimg.com/thumb/msid-132701565,width-1200,height-630,imgsize-190784,overlay-etmarkets/articleshow.jpg"
         },
         {
-          "title": "Hong Kong prepares banks for quantum threats amid tokenization push",
-          "description": "The HKMA aims to make Hong Kong’s banking sector fully prepared for quantum-related security risks by 2030 as the city expands tokenized finance.",
-          "url": "https://cointelegraph.com/news/hong-kong-banks-quantum-threats-tokenization",
+          "title": "South Korea plans stablecoin rules as opposition pushes crypto tax repeal",
+          "description": "The FSC reportedly plans a government-backed digital asset bill covering stablecoins and exchanges, while opposition lawmakers seek to scrap a 22% crypto tax due in 2027.",
+          "url": "https://cointelegraph.com/news/south-korea-consolidated-crypto-law-tax-repeal",
           "source": "Cointelegraph",
-          "published": "2026-07-28T02:21:04Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-hong-kong-fund-how-dats-could-redefine-stablecoin-treasuries.jpg"
+          "published": "2026-07-29T03:43:05Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-people-start-trust-stablecoin-in-period-of-crisis-south-korea.png"
         },
         {
-          "title": "Binance phishs its own staff monthly, India censors BitChat code: Asia Express",
-          "description": "Staff at Binance who fall victim to in-house phishing attempts probably won’t have a job for long. India censors BitChat’s repo. The week’s crypto news in Asia Express.",
-          "url": "https://cointelegraph.com/magazine/india-bans-bitchat-binance-phishs-its-own-staff-asia-express",
-          "source": "Cointelegraph",
-          "published": "2026-07-28T01:23:07Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/asia-express-6.jpg"
-        },
-        {
-          "title": "Psalion Closes Its Largest Fund Yet to Back the Next Wave of Blockchain Adoption",
-          "description": "SINGAPORE, July 27, 2026 (GLOBE NEWSWIRE) — Psalion today announced the launch of its third and largest venture fund to date — a USD 50 million vehicle aimed at the next wave of blockchain adoption. The fund is structured as a Singapore-domiciled Variable Cap…",
-          "url": "https://financialpost.com/globe-newswire/psalion-closes-its-largest-fund-yet-to-back-the-next-wave-of-blockchain-adoption",
-          "source": "Financial Post",
-          "published": "2026-07-27T22:02:46Z",
-          "image": null
-        },
-        {
-          "title": "The Stablecoin Sandwich Is Missing the Trust Layer",
-          "description": "The stablecoin sandwich has become one of the most persuasive models for explaining how digital currencies like stablecoins can improve cross-border payments. The way the sandwich gets made is typically as follows: A business begins with fiat currency inside …",
-          "url": "https://www.pymnts.com/blockchain/2026/the-stablecoin-sandwich-is-missing-the-trust-layer/",
-          "source": "pymnts.com",
-          "published": "2026-07-27T20:46:25Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2026/07/trust-stablecoin-sandwich-1.jpg"
-        },
-        {
-          "title": "Americans push back as major gold holder brings 'Shariah' compliance to investing",
-          "description": "On July 27, stablecoin issuer and major corporate holder of gold, Tether, announced that XAUT, its gold-backed digital token, had been certified Shariah comp...",
-          "url": "https://www.thestreet.com/crypto/markets/americans-push-back-as-major-gold-holder-brings-shariah-compliance-to-investing",
-          "source": "TheStreet",
-          "published": "2026-07-27T19:16:15Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/2BC846AF7547E5B4760B6F265F5A7177C94C7E93612DBBFC16C2BE4D498B3A4C/subgraphmysterio/resizefill_w1200_h801;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2Fded5ca9dbffb107b636785b9a0c84d93"
-        },
-        {
-          "title": "Xryma Plc announces the upcoming launch of XrymaCoin (XREUR), the regulated euro stablecoin designed to work like money",
-          "description": "Notification of the Whitepaper to the Central Bank of Cyprus A truly cross-border solution designed to transform the stablecoin market XrymaCoin will be put into circulation on 3 September 2026 NICOSIA, Cyprus, July 27, 2026 /PRNewswire/ -- Xryma Plc (\"Xryma\"…",
-          "url": "https://www.prnewswire.com/news-releases/xryma-plc-announces-the-upcoming-launch-of-xrymacoin-xreur-the-regulated-euro-stablecoin-designed-to-work-like-money-302835578.html",
-          "source": "PRNewswire",
-          "published": "2026-07-27T19:10:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS1814441/Xryma-Logo.jpg?id=OA2795629&p=facebook"
-        },
-        {
-          "title": "Metaplanet plans bitcoin-backed Bitbonds with 4% to 6% yields",
-          "description": "Metaplanet's initiative could set a precedent for crypto-backed financial products in Asia, potentially transforming digital asset markets.\nThe post Metaplanet plans bitcoin-backed Bitbonds with 4% to 6% yields appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/metaplanet-bitbonds-bitcoin-backed-yields-project-nova/",
+          "title": "European financial institutions launch RL1 cooperative blockchain network",
+          "description": "RL1's launch signifies a shift towards regulated blockchain solutions, potentially transforming digital finance by aligning with EU regulatory frameworks.\nThe post European financial institutions launch RL1 cooperative blockchain network appeared first on Cry…",
+          "url": "https://cryptobriefing.com/rl1-european-blockchain-cooperative-launch/",
           "source": "Crypto Briefing",
-          "published": "2026-07-27T15:15:39Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/27111528/metaplanet-confirms-451m-bitcoin-spend-as-treasuries-ride-cr-1-800x420.jpeg"
+          "published": "2026-07-29T00:17:54Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/28201749/why-eu-and-us-banks-are-racing-to-issue-stablecoins-800x420.jpeg"
+        },
+        {
+          "title": "Coinbase wants to be Canada’s ‘everything exchange,’ but says clearer rules are needed first",
+          "description": "Coinbase Canada's new CEO, Eric Richmond, says permanent rules, rather than temporary exemptions, are needed as the company pushes to expand into derivatives, tokenized assets and decentralized finance.",
+          "url": "https://www.coindesk.com/policy/2026/07/28/coinbase-wants-to-be-canada-s-everything-exchange-but-says-clearer-rules-are-needed-first",
+          "source": "CoinDesk",
+          "published": "2026-07-28T23:50:38Z",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/01b078cd684ca9805f71cae842b6ed11cbf91ed4-1920x1080.jpg?auto=format&q=75"
+        },
+        {
+          "title": "Morgan Stanley’s MSSE Offers Ethereum Exposure at Market-Leading 0.14% Cost",
+          "description": "Morgan Stanley just entered the spot ether market with a fee structure that undercuts most established rivals, and it is pairing that price advantage with a...",
+          "url": "https://247wallst.com/investing/etf/2026/07/28/morgan-stanleys-msse-offers-ethereum-exposure-at-market-leading-0-14-cost/",
+          "source": "24/7 Wall St.",
+          "published": "2026-07-28T16:46:05Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/CBEACF77B707B4FFD6F5E51ECB1F9C7E519E9014337E5834D78EC5083057D921/subgraphmysterio/resizefill_w1200_h619;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F0ef28ae6caf8f729db86435bf205a5bc"
+        },
+        {
+          "title": "PRISM MarketView Features Exclusive Q&A with AtlasClear Holdings Executive Chairman John Schaible and President Craig Ridenhour on Digital Asset Strategy, M&A and Platform Buildout",
+          "description": "PRISM MarketView Features Exclusive Q&A with AtlasClear Holdings Executive Chairman John Schaible and President Craig Ridenhour on Digital Asset Strategy...",
+          "url": "https://www.globenewswire.com/news-release/2026/07/28/3334511/0/en/PRISM-MarketView-Features-Exclusive-Q-A-with-AtlasClear-Holdings-Executive-Chairman-John-Schaible-and-President-Craig-Ridenhour-on-Digital-Asset-Strategy-M-A-and-Platform-Buildout.html",
+          "source": "GlobeNewswire",
+          "published": "2026-07-28T15:32:00Z",
+          "image": "https://ml.globenewswire.com/Resource/Download/3df9c5fb-eac9-4db0-a9e0-cb425e054089"
+        },
+        {
+          "title": "Tether signs MoU with Nairobi Securities Exchange to explore digital assets in Africa",
+          "description": "This partnership could accelerate blockchain adoption in Africa, enhancing financial inclusion and modernizing market infrastructure across the continent.\nThe post Tether signs MoU with Nairobi Securities Exchange to explore digital assets in Africa appeared …",
+          "url": "https://cryptobriefing.com/tether-nairobi-securities-exchange-digital-assets-africa/",
+          "source": "Crypto Briefing",
+          "published": "2026-07-28T13:47:43Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/28094738/tether-usdt-2-800x420.jpeg"
+        },
+        {
+          "title": "From Payments to Portfolios: How Financial Super Apps Rewrite Economics of Global Investing",
+          "description": "See how stablecoins, tokenized stocks and fractional investing lower costs and expand global access to US markets through modern financial super apps worldwide.",
+          "url": "https://hackread.com/financial-super-app-rewrite-global-investing-economics/",
+          "source": "HackRead",
+          "published": "2026-07-28T13:28:34Z",
+          "image": "https://hackread.com/wp-content/uploads/2026/07/financial-super-app-rewrite-global-investing-economics.png"
         }
       ]
     },
@@ -204,28 +188,28 @@
       "color": "#00cc88",
       "articles": [
         {
+          "title": "Coinbase and Robinhood are locked in a heated battle ahead of Q2 earnings—but only one is being called the industry’s ‘first hyperscaler’",
+          "description": "Robinhood has proven better at diversifying its revenue streams—but emerging fields of AI commerce and tokenized stocks will boost Coinbase in time.",
+          "url": "https://fortune.com/2026/07/28/coinbase-and-robinhood-are-locked-in-a-heated-battle-ahead-of-q2-earningsbut-only-one-is-being-called-the-industrys-first-hyperscaler/",
+          "source": "Fortune",
+          "published": "2026-07-28T20:07:00Z",
+          "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/Fortune-Coinbase-Robinhood.jpg?resize=1200,600"
+        },
+        {
+          "title": "MindWave Innovations Inc., a Wholly Owned Subsidiary of Apimeds Pharmaceuticals US, Inc., Announces MindChain: World’s First Fully Insured Blockchain, Launching in October",
+          "description": "NILA token also becomes available to US users on Webot, a licensed US exchange, beginning August 3 MATAWAN, New Jersey, and GEORGE TOWN, Cayman Islands, July 28, 2026 (GLOBE NEWSWIRE) — via IBN — MindWave Innovations Inc., a wholly owned subsidiary of Apimeds…",
+          "url": "https://financialpost.com/globe-newswire/mindwave-innovations-inc-a-wholly-owned-subsidiary-of-apimeds-pharmaceuticals-us-inc-announces-mindchain-worlds-first-fully-insured-blockchain-launching-in-october",
+          "source": "Financial Post",
+          "published": "2026-07-28T12:34:54Z",
+          "image": null
+        },
+        {
           "title": "Synagie Unveils Geene 2.0 - BytePlus, SingData and FLY Entertainment Among 12 Founding Partners Building Trusted AI",
           "description": "Co-developed by leaders across AI, data, media, commerce and blockchain, the Trusted AI Commerce Intelligence Ecosystem gives enterprises a practical way to ...",
           "url": "https://en.antaranews.com/news/424265/synagie-unveils-geene-20-byteplus-singdata-and-fly-entertainment-among-12-founding-partners-building-trusted-ai",
           "source": "Antaranews.com",
           "published": "2026-07-28T07:43:53Z",
           "image": "https://cdn.antaranews.com/cache/1200x800/2026/07/28/Image_2-2.jpg"
-        },
-        {
-          "title": "Bitcoin Dips Below $65,000 as Iran Conflict Spurs Oil Price Surge, Bond Yields Rise",
-          "description": "Bitcoin’s price dropped below $65,000 on Tuesday, according to market data, as reports of military escalation between Iran and Israel triggered a spike in crude oil prices and a jump in U.S. Treasury bond yields. The decline marked a sharp reversal from weeks…",
-          "url": "https://www.naturalnews.com/2026-07-28-bitcoin-dips-below-65000-iran-oil-surge.html",
-          "source": "Naturalnews.com",
-          "published": "2026-07-28T06:00:00Z",
-          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/bitcoin-iran-conflict-oil-price-surge-2960-original.jpg"
-        },
-        {
-          "title": "Crypto stocks rally thanks to rotation from AI infrastructure; bitcoin miners lag",
-          "description": "Crypto stocks proved some of the top gainers Monday even as the broader market sold off and  capital rotated away from chip and AI infrastructure names.",
-          "url": "https://www.cnbc.com/2026/07/27/crypto-stocks-rally-thanks-to-rotation-from-ai-infrastructure-bitcoin-miners-lag.html",
-          "source": "CNBC",
-          "published": "2026-07-27T18:54:17Z",
-          "image": "https://image.cnbcfm.com/api/v1/image/107115735-1662667698139-gettyimages-1240299195-CLEANSPARK_BITCOIN_GA.jpeg?v=1761666886&w=1920&h=1080"
         },
         {
           "title": "Circle Buys IBM Blockchain Patent Estate—And Becomes America's Biggest Holder",
@@ -252,20 +236,20 @@
           "image": "https://mmx.prnewswire.com/media/MS1663801/PointsKash-Logo.jpg?id=OA2794143&p=facebook"
         },
         {
-          "title": "Brooks Automation weighs IPO as semiconductor automation sector heats up",
-          "description": "Brooks Automation, backed by Thomas H. Lee Partners after a $3 billion acquisition, is exploring an IPO as semiconductor automation demand\nThe post Brooks Automation weighs IPO as semiconductor automation sector heats up appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/brooks-automation-ipo-semiconductor/",
-          "source": "Crypto Briefing",
-          "published": "2026-07-24T15:39:02Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/24113900/kevin-twitchell-at-his-job-at-brooks-automation-800x420.jpeg"
-        },
-        {
           "title": "Could the EU’s Clothing Destruction Ban Change How Fashion Overproduces?",
           "description": "New legislation on destroying unsold apparel, footwear and accessories could force brands to rethink overproduction and invest in better planning, according to supply chain veteran Anne-Laure Descours.",
           "url": "http://wwd.com/sourcing-journal/sustainability/anne-laure-descours-haelixa-eu-clothing-destruction-1239081099/",
           "source": "WWD",
           "published": "2026-07-23T21:33:57Z",
           "image": "https://wwd.com/wp-content/uploads/2026/07/haelixa.png?w=1000&h=563&crop=1"
+        },
+        {
+          "title": "House panel bats for interim crypto self-regulation under RBI/SEBI oversight, stresses investor protection norms",
+          "description": "A parliamentary committee has proposed the establishment of a self-regulatory organization for cryptocurrencies, functioning under the supervision of central regulatory authorities. This interim solution calls for the government to assess a specific legal fra…",
+          "url": "https://economictimes.indiatimes.com/news/india/house-panel-bats-for-interim-crypto-self-regulation-under-rbi/sebi-oversight-stresses-investor-protection-norms/articleshow/132591021.cms",
+          "source": "The Times of India",
+          "published": "2026-07-23T19:16:05Z",
+          "image": "https://img.etimg.com/thumb/msid-132591063,width-1200,height-630,imgsize-123792,overlay-economictimes/articleshow.jpg"
         }
       ]
     },
@@ -278,6 +262,22 @@
           "title": "Startups",
           "icon": "💡",
           "articles": [
+            {
+              "title": "SEC Small Business Forum Participants Target Crypto and Crowdfunding Limits",
+              "description": "The Securities and Exchange Commission (SEC) has released a report to Congress highlighting policy recommendations for improving capital-raising policy. The recommendations were developed by members of the public and private sectors who participated in the re…",
+              "url": "https://www.pymnts.com/smbs/2026/sec-small-business-forum-participants-target-crypto-and-crowdfunding-limits/",
+              "source": "pymnts.com",
+              "published": "2026-07-28T23:49:56Z",
+              "image": "https://www.pymnts.com/wp-content/uploads/2026/05/SEC-private-credit-1.jpg"
+            },
+            {
+              "title": "Show HN: A tool to privately timestamp a claim and reveal it on schedule",
+              "description": "I built my first startup around an optimistic but extremely naive idea: if you get scientists to timestamp their work on a blockchain, and then couple that timestamp with a protective license, you would stop IP theft. This would then allow scientists to colla…",
+              "url": "https://prove-yourself.sebmellen.com/",
+              "source": "Sebmellen.com",
+              "published": "2026-07-28T22:16:27Z",
+              "image": null
+            },
             {
               "title": "Zero Knowledge: Twenty Chapters In",
               "description": "A month ago I opened up Zero Knowledge, the crypto-thriller I'm co-writing with my AI. There are twenty chapters now, a cast page, a plate for every chapter, and a pile of reader notes I'm grateful for.",
@@ -301,36 +301,52 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "SparkKitty Malware Found in App Stores Targets Crypto Wallet Seed Phrases",
-              "description": "A newly detailed report says SparkKitty malware scanned photos on infected iPhones and Android devices for cryptocurrency wallet recovery phrases after infiltrating Apple's App Store and Google Play.",
-              "url": "https://decrypt.co/374450/sparkkitty-malware-mobile-apps-crypto-wallet",
+              "title": "HTX's First TradFi \"Trade to Earn\" Campaign Unleashes New Trading Momentum: Rewards Exceed $23,000, Fee Savings Reach 1.8 Billion $HTX",
+              "description": "APIA, Samoa, July 29, 2026 (GLOBE NEWSWIRE) -- Recently, HTX's first-ever TradFi “Trade to Earn” campaign concluded successfully. The campaign leveraged innovative gameplay - \"24/7 mining\" and \"up to 110% fee rebates\" - to ignite significant trading enthusias…",
+              "url": "https://www.globenewswire.com/news-release/2026/07/29/3334989/0/en/HTX-s-First-TradFi-Trade-to-Earn-Campaign-Unleashes-New-Trading-Momentum-Rewards-Exceed-23-000-Fee-Savings-Reach-1-8-Billion-HTX.html",
+              "source": "GlobeNewswire",
+              "published": "2026-07-29T07:17:00Z",
+              "image": "https://ml.globenewswire.com/Resource/Download/cf597ba8-a998-40fa-8403-9ff0fe2fb0a6"
+            },
+            {
+              "title": "Company behind AI trade that caused $60 million crypto liquidations to cover all losses",
+              "description": "The mark price fell 19% on a single pre-market trade in Korea. The company says its oracle worked exactly as designed.",
+              "url": "https://www.coindesk.com/markets/2026/07/29/company-behind-ai-trade-that-caused-usd60-million-crypto-liquidations-to-cover-all-losses",
+              "source": "CoinDesk",
+              "published": "2026-07-29T06:03:28Z",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/b5d61433a7938f2a44279c76d6a4b0aa0600e1eb-1920x1227.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75"
+            },
+            {
+              "title": "Explained: How Korea’s SK Hynix triggered massive $17.4 million in crypto losses?",
+              "description": "A rogue pre-market trade in SK Hynix shares in Seoul triggered a 20% flash drop in crypto perpetual contracts on Hyperliquid. The oracle price anomaly wiped out nearly $60 million in long positions, resulting in $17.4 million in realised losses for over 900 c…",
+              "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/explained-how-koreas-sk-hynix-triggered-massive-17-4-million-in-crypto-losses/articleshow/132701880.cms",
+              "source": "The Times of India",
+              "published": "2026-07-29T05:35:12Z",
+              "image": "https://img.etimg.com/thumb/msid-132701867,width-1200,height-630,imgsize-100306,overlay-etmarkets/articleshow.jpg"
+            },
+            {
+              "title": "Hyperliquid is taking crypto perps deep into DeFi’s ‘money LEGO’ land",
+              "description": "Hyperliquid is capitalizing on the volume and depth of its order book by giving firms the option to compose with the platform’s shared liquidity, rather than fragmenting it.",
+              "url": "https://www.coindesk.com/business/2026/07/28/hyperliquid-is-taking-crypto-perps-deep-into-defi-s-money-lego-land",
+              "source": "CoinDesk",
+              "published": "2026-07-28T14:49:01Z",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/ee3d1280d6d860935d5dcc6850c74a99402519bf-1672x941.png?auto=format&q=75"
+            },
+            {
+              "title": "Stablecoin Banking Competition Expands Beyond Settlement",
+              "description": "Wirex CEO Pavel Matveev discusses stablecoin payments, card issuance, DeFi yield, customer ownership and agent-led transactions.",
+              "url": "https://beincrypto.com/stablecoin-banking-competition-expands-beyond-settlement/",
+              "source": "BeInCrypto",
+              "published": "2026-07-28T12:56:35Z",
+              "image": "https://s.yimg.com/lo/mysterio/api/996561FA456612D4D6300EAA59C7C7B5C6067C4972F9AFB250A6BA6343484ABD/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F9be53018a0233535aec7d0de0f95af55"
+            },
+            {
+              "title": "Morning Minute: Strategy Chooses Cash, STRC Over BTC",
+              "description": "Plus crypto broadly falls following memory stock slide, Coinbase leans into memes with new feature, and the Fomo app sets a new ATH.",
+              "url": "https://decrypt.co/374535/morning-minute-strategy-chooses-cash-strc-over-btc",
               "source": "Decrypt",
-              "published": "2026-07-27T20:09:57Z",
-              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/crime_hacker-gID_7.png"
-            },
-            {
-              "title": "Circle and IBM Shares Rise After Landmark Blockchain Patent Deal",
-              "description": "This article first appeared on GuruFocus.\nCircle Internet Group (NYSE:CRCL) shares climbed about 3% on Monday after the stablecoin company acquired assets from IBM (NYSE:IBM) covering its blockchain patent portfolio, according to a Monday company statement.\nI…",
-              "url": "https://biztoc.com/x/983919b2fd96f867",
-              "source": "Biztoc.com",
-              "published": "2026-07-27T17:14:23Z",
-              "image": "https://biztoc.com/cdn/995/og.png"
-            },
-            {
-              "title": "Popular crypto stock jumps after acquiring nearly 1,000 patents",
-              "description": "Circle Internet Group (NYSE: CRCL) said on July 27 it had acquired IBM's blockchain patent portfolio, adding more than 680 patent families and nearly 1,000 i...",
-              "url": "https://www.thestreet.com/crypto/trading/popular-crypto-stock-jumps-after-acquiring-nearly-1000-patents",
-              "source": "TheStreet",
-              "published": "2026-07-27T17:10:00Z",
-              "image": "https://s.yimg.com/lo/mysterio/api/84DC08BFA5E980041A56107EE3418F3626CACA8D879585D01507E636FC7643C2/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2Fdc5af4a9b8f03f9756abbbd682b9b268"
-            },
-            {
-              "title": "Circle Acquires 1,000 IBM Blockchain Patents",
-              "description": "This article first appeared on GuruFocus.\nCircle Internet Group (NYSE:CRCL), the issuer of the USDC stablecoin, rose 2.28% premarket after announcing it had acquired assets from IBM's (NYSE:IBM) blockchain patent portfolio. The package runs to more than 680 p…",
-              "url": "https://biztoc.com/x/7cd852e977f88bb3",
-              "source": "Biztoc.com",
-              "published": "2026-07-27T16:59:21Z",
-              "image": "https://biztoc.com/cdn/995/og.png"
+              "published": "2026-07-28T11:57:58Z",
+              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/michael-saylor-bitcoin-nashville-decrypt-style-gID_7.jpg"
             },
             {
               "title": "Cheaper Amazon cloud rival files for Chapter 11 bankruptcy",
@@ -339,14 +355,6 @@
               "source": "TheStreet",
               "published": "2026-07-27T16:45:00Z",
               "image": "https://s.yimg.com/lo/mysterio/api/885C0150CDEA21048C706EAF296395CBA1CF677BF96EAE6941A674B6612AEEC4/subgraphmysterio/resizefill_w1200_h900;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F8af5eb255030cbbd397998272bc87ef5"
-            },
-            {
-              "title": "Circle Buys IBM’s Blockchain Patents to Boost Payments Network",
-              "description": "Digital financial platform Circle acquired IBM’s blockchain patent portfolio, according to a Monday (July 27) press release. “With this acquisition, Circle becomes the leader in blockchain patent holdings in the United States,” the release said. “The expanded…",
-              "url": "https://www.pymnts.com/blockchain/2026/circle-buys-ibm-blockchain-patents-boost-payments-network/",
-              "source": "pymnts.com",
-              "published": "2026-07-27T16:30:45Z",
-              "image": "https://www.pymnts.com/wp-content/uploads/2025/08/Circle-stablecoins.jpg"
             }
           ]
         }
