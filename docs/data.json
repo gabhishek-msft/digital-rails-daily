@@ -1,11 +1,35 @@
 {
-  "date": "July 31, 2026",
+  "date": "August 01, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "Aave to exit Sonic, Scroll, Aptos, and three other blockchain markets affecting $98 million in supplied assets",
+          "description": "Aave is moving to deprecate 50 low adoption reserves and wind down six deployments covering $98.1 million in supply and $15.6 million in debt.\nThe post Aave to exit Sonic, Scroll, Aptos, and three other blockchain markets affecting $98 million in supplied ass…",
+          "url": "https://cryptobriefing.com/aave-to-exit-sonic-scroll-aptos-and-three-other-blockchain-markets-affecting-98-million-in-supplied-assets/",
+          "source": "Crypto Briefing",
+          "published": "2026-07-30T15:15:07Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/30111249/aave-e1785424382124-800x451.png"
+        },
+        {
+          "title": "The economics behind Aave proposal to ditch 6 chains that earn loose change in revenue",
+          "description": "The economics behind Aave proposal to ditch 6 chains that earn loose change in revenue\nA governance proposal would shut deployments on Sonic, Scroll, zkSync, Metis, Soneium and Aptos, and retire 50 asset markets elsewhere. Deposits on some have fallen more th…",
+          "url": "https://biztoc.com/x/013e32bee12c1ee4",
+          "source": "Biztoc.com",
+          "published": "2026-07-30T15:08:55Z",
+          "image": "https://biztoc.com/cdn/013e32bee12c1ee4_s.webp"
+        },
+        {
+          "title": "MEXC Lists Grvt (GRVT) with $60k Worth of GRVT and 10,000 USDT in Airdrop+ Rewards",
+          "description": "Mutsamudu, Comoros, July 30, 2026 – MEXC, a pioneer in 0-fee digital asset trading, will list Grvt (GRVT) in the Innovation Zone, with the GRVT/USDT pair opening at 12:00 (UTC) and the GRVT/USDC pair opening at 12:20 (UTC) on July 30, 2026. To mark the listin…",
+          "url": "https://zycrypto.com/mexc-lists-grvt-grvt-with-60k-worth-of-grvt-and-10000-usdt-in-airdrop-rewards/",
+          "source": "ZyCrypto",
+          "published": "2026-07-30T12:57:07Z",
+          "image": "https://zycrypto.com/wp-content/uploads/2026/07/MEXC-Lists-Grvt-GRVT-with-60k-Worth-of-GRVT-and-10000-USDT-in-Airdrop-Rewards.jpg"
+        },
         {
           "title": "Bitget Lists Grvt (GRVT) for Spot Trading",
           "description": "Bitget lists Grvt (GRVT) for spot trading, expanding DeFi access to self-custodial onchain liquidity and hybrid execution....",
@@ -31,14 +55,6 @@
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/29095350/can-stock-trading-and-prediction-markets-offset-robinhood-s--800x420.jpeg"
         },
         {
-          "title": "Total value locked in Ethereum Layer 2 networks falls to $5B",
-          "description": "The drastic drop in Ethereum Layer 2 TVL highlights potential liquidity risks and valuation challenges for investors in scaling solutions.\nThe post Total value locked in Ethereum Layer 2 networks falls to $5B appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/ethereum-layer-2-tvl-falls-5-billion/",
-          "source": "Crypto Briefing",
-          "published": "2026-07-28T18:22:38Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/28142234/are-layer-2-networks-helping-or-hurting-ethereum-s-price-800x420.jpeg"
-        },
-        {
           "title": "What Is COTI Crypto? Why COTI Token Exploded 63% in Just 24 Hours",
           "description": "Whereas those who have searched for what is COTI crypto may be familiar with its payment network, it has since transformed into a privacy-first Ethereum...\nThe post What Is COTI Crypto? Why COTI Token Exploded 63% in Just 24 Hours appeared first on Bitcoin Fo…",
           "url": "https://bitcoinfoundation.org/news/analysis/what-is-coti-crypto-why-coti-token-exploded-63-in-just-24-hours/",
@@ -47,28 +63,12 @@
           "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/1-1785234265.webp"
         },
         {
-          "title": "Is the Web3 startup extinction event here, as Wall Street silently inherits crypto architecture?",
-          "description": "The exchange wind-downs show where pressure is landing, while a messy shutdown tally and 49% drawdown leave timing unresolved.\nThe post Is the Web3 startup extinction event here, as Wall Street silently inherits crypto architecture? appeared first on CryptoSl…",
-          "url": "https://cryptoslate.com/is-the-web3-startup-extinction-event-here-as-wall-street-silently-inherits-crypto-architecture/",
-          "source": "CryptoSlate",
-          "published": "2026-07-28T10:20:35Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/07/bitcoin-bear-market-paper-boat-uncertain-bottom.jpg"
-        },
-        {
           "title": "COTI Price Prediction 2026-2030: Can COTI Hit $1 in the Next Crypto Bull Run?",
           "description": "COTI has evolved from a DAG-based payments network into a privacy-focused Ethereum Layer 2. With the crypto market showing renewed volatility in mid-2026, investors are asking whether COTI can deliver strong gains-and potentially approach or hit $1-during the…",
           "url": "https://www.successful-blog.com/1/coti-price-prediction/",
           "source": "Successful-blog.com",
           "published": "2026-07-28T05:47:22Z",
           "image": "https://www.successful-blog.com/wp-content/uploads/2026/07/COTI-Crypto-Price-.webp"
-        },
-        {
-          "title": "The Capital Summit Tokyo 開催レポート",
-          "description": "[株式会社DeFimans]\n[画像1: https://prcdn.freetls.fastly.net/release_image/111807/129/111807-129-94dd356d40198a45cca1459fc271eb10-1920x1080.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bound...",
-          "url": "https://prtimes.jp/main/html/rd/p/000000129.000111807.html",
-          "source": "Prtimes.jp",
-          "published": "2026-07-27T01:00:00Z",
-          "image": "https://prcdn.freetls.fastly.net/release_image/111807/129/111807-129-94dd356d40198a45cca1459fc271eb10-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
         }
       ]
     },
@@ -108,22 +108,6 @@
           "source": "Nature.com",
           "published": "2026-07-26T00:00:00Z",
           "image": null
-        },
-        {
-          "title": "World Foundation raises $52 million in token sale as proof-of-human demand accelerates",
-          "description": "World Foundation has raised $52 million through a locked token sale to expand the reach of World ID, its iris-scan-based system for proving someone is a real human online. Pantera Capital led the initial close, joined by Bain Capital Crypto, Eightco Holdings,…",
-          "url": "https://thenextweb.com/news/world-foundation-52-million-token-sale-proof-of-human-ai/",
-          "source": "The Next Web",
-          "published": "2026-07-24T17:11:59Z",
-          "image": "https://media.thenextweb.com/2026/07/world-foundation-52-million-token-sale-proof-of-human-ai.avif"
-        },
-        {
-          "title": "Best Crypto Tokens Launched in 2026 Before They Go Mainstream",
-          "description": "This list of new crypto tokens 2026 covers AI, privacy, prediction markets, verifiable computing, cross-chain, and real-world assets. We have selected crypto tokens with working...\nThe post Best Crypto Tokens Launched in 2026 Before They Go Mainstream appeare…",
-          "url": "https://bitcoinfoundation.org/news/opinion/best-crypto-tokens-launched-in-2026-before-they-go-mainstream/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-07-24T10:04:20Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/Bestcrypto1-1.webp"
         }
       ]
     },
@@ -133,68 +117,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "3iQ and Bhutan's Gelephu Mindfulness City Announce Strategic Partnership to Advance GMC's Digital Asset Ambitions",
-          "description": "3iQ secures a dedicated mandate to manage a portion of Gelephu Mindfulness City's (GMC) Bitcoin reserves. 3iQ and GMC will collaborate closely to support the vision of building a next-generation institutional-grade digital asset management ecosystem focused o…",
-          "url": "https://www.prnewswire.com/news-releases/3iq-and-bhutans-gelephu-mindfulness-city-announce-strategic-partnership-to-advance-gmcs-digital-asset-ambitions-302838467.html",
-          "source": "PRNewswire",
-          "published": "2026-07-30T06:31:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS680829/3iQ-New-Logo.jpg?id=OA2806272&p=facebook"
+          "title": "Upbit lists CFX trading pairs against KRW, BTC, and USDT on July 31",
+          "description": "Upbit's CFX listing could boost liquidity and market dynamics, enhancing Conflux's appeal amid regulatory complexities in China.\nThe post Upbit lists CFX trading pairs against KRW, BTC, and USDT on July 31 appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/upbit-lists-cfx-trading-pairs-july-31/",
+          "source": "Crypto Briefing",
+          "published": "2026-07-31T05:12:58Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/31011253/bitcoin-gold-800x420.jpeg"
         },
         {
-          "title": "South Korea report proposes stablecoin rules before crypto law",
-          "description": "A South Korean policy report calls for early stablecoin regulation and greater flexibility for issuers before the Digital Asset Basic Act is completed.",
-          "url": "https://cointelegraph.com/news/south-korea-report-stablecoin-rules-crypto-law",
+          "title": "Bhutan’s Gelephu taps 3iQ to manage part of Bitcoin treasury",
+          "description": "3iQ will manage an undisclosed portion of Gelephu Mindfulness City’s Bitcoin treasury as Bhutan develops a digital-asset investment hub.",
+          "url": "https://cointelegraph.com/news/bhutan-gelephu-3iq-bitcoin-treasury",
           "source": "Cointelegraph",
-          "published": "2026-07-30T05:33:57Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/south-korea-crypto.jpg"
+          "published": "2026-07-31T00:31:21Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-bhutan-is-building-a-green-bitcoin-economy-from-the-ground-up.jpg"
         },
         {
-          "title": "Tether’s USAT Lands on Celo – A Distribution Play, Not a Product Launch",
-          "description": "Tether’s launch of its GENIUS Act-compliant USAT stablecoin on the Celo blockchain is not a product play; it is a calculated distribution play. By deploying on a network that already handles approximately 28% of cross-chain USDT transfers, Tether is prioritiz…",
-          "url": "https://forkast.news/tethers-usat-lands-on-celo-a-distribution-play-not-a-product-launch/",
-          "source": "Forkast.news",
-          "published": "2026-07-29T23:56:06Z",
-          "image": "https://forkast.news/wp-content/uploads/2026/07/forkast-128544-1024x572.jpg"
-        },
-        {
-          "title": "There's a New Way to Protect Bitcoin From Future Quantum Attacks, Researchers Say",
-          "description": "New research outlines a cryptographic approach that could allow Bitcoin and other blockchain wallets to remain compatible with existing addresses in a post-quantum future.",
-          "url": "https://decrypt.co/374651/new-research-bitcoin-wallet-quantum-attacks-safe",
-          "source": "Decrypt",
-          "published": "2026-07-29T20:01:03Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/Bitcoin-B1-decrypt-style-gID_7.png"
-        },
-        {
-          "title": "Aviva Investors launches tokenized money market fund on XRP Ledger in partnership with Ripple",
-          "description": "Aviva's move into tokenized funds on blockchain signals a shift towards integrating digital assets in traditional finance, enhancing efficiency.\nThe post Aviva Investors launches tokenized money market fund on XRP Ledger in partnership with Ripple appeared fi…",
-          "url": "https://cryptobriefing.com/aviva-investors-tokenized-fund-xrp-ledger-ripple/",
-          "source": "Crypto Briefing",
-          "published": "2026-07-29T19:32:26Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/29153220/hotel-aviva-800x420.jpeg"
-        },
-        {
-          "title": "BNY Adds Blockchain Capabilities to Transfer Agency Business",
-          "description": "Banking giant BNY is bringing blockchain technology to its transfer agency business. The bank on Wednesday (July 29) unveiled its digital transfer agency (TA) capabilities, designed to address a growing set of client needs by extending BNY’s TA services to su…",
-          "url": "https://www.pymnts.com/blockchain/2026/bny-adds-blockchain-capabilities-to-transfer-agency-business/",
+          "title": "Coinbase’s Trading Slump Shows Financial Platforms Need Users",
+          "description": "Coinbase is no longer operating as just a crypto exchange. But the company’s second quarter 2026 financials show that it’s still earning like one. Coinbase on Thursday (July 30) reported revenue of $1.22 billion, below Wall Street expectations. The company’s …",
+          "url": "https://www.pymnts.com/earnings/2026/coinbases-trading-slump-shows-financial-platforms-need-users/",
           "source": "pymnts.com",
-          "published": "2026-07-29T18:09:09Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2026/07/BNY-blockchain-digital-assets.jpeg"
+          "published": "2026-07-31T00:02:57Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2025/10/Coinbase-earnings-3.jpg"
         },
         {
-          "title": "Grayscale Calls HYPE Cheap Beside Coinbase, Robinhood and Circle",
-          "description": "Grayscale Research says Hyperliquid’s HYPE (CRYPTO: $HYPE) token remains inexpensive beside fintech and crypt...",
-          "url": "https://www.cryptoprowl.com/releases/grayscale-calls-hype-cheap-beside-coinbase-robinhood-and-circle-6287",
-          "source": "Cryptoprowl.com",
-          "published": "2026-07-29T15:37:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/664453B2660A459C52C18826872DDFD0FDC4BF566AA531C4763B06C7D781A116/subgraphmysterio/resizefill_w1200_h720;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F0604aa3201a4da3fcf4a2efc2334c4ce"
+          "title": "Ripple (XRP) Price Prediction: Analyst Predicts XRP Will Reach $1,000",
+          "description": "One analyst on X built a detailed case for XRP reaching four figures, and the math behind his collateral thesis is more serious than the price target makes i...",
+          "url": "https://247wallst.com/investing/cryptocurrency/2026/07/30/ripple-xrp-price-prediction-analyst-predicts-xrp-will-reach-1000/",
+          "source": "24/7 Wall St.",
+          "published": "2026-07-30T23:30:24Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/D4DF506B0C2852391C0FC7E6BA7D4E4A56C4F6BEB6451ABA40D5BE1C31820528/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fed8fb1b90362690718fe882e8f280e2a"
         },
         {
-          "title": "Bison Bank secures Portugal’s first full MiCA crypto license",
-          "description": "Bison Bank's MiCA license paves the way for broader EU crypto integration, enhancing regulatory certainty and attracting institutional investors.\nThe post Bison Bank secures Portugal’s first full MiCA crypto license appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/bison-bank-portugal-mica-crypto-license/",
+          "title": "Crypto exchange Coinbase logs third straight quarterly loss on trading slowdown",
+          "description": "Coinbase Global posted a third straight quarterly loss on Thursday as a prolonged downturn in cryptocurrency markets ‌dented its trading volumes, sending the...",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-exchange-coinbase-reports-third-201553001.html",
+          "source": "Yahoo Entertainment",
+          "published": "2026-07-30T20:15:53Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/5527C37CE4F5C47C1A869C7C18BB98BEE6117384CFB51007C7CE23BBD940BA14/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters-finance.com%2F5bfad5433b9e759b1e01e0901e4c0cf4"
+        },
+        {
+          "title": "JPMorgan, Citi, UBS and central banks complete Project Agorá tokenized payment trials",
+          "description": "JPMorgan, Citi, UBS and central banks completed Project Agor tokenized payment trials, settling CHF 800,000 across six currencies.\nThe post JPMorgan, Citi, UBS and central banks complete Project Agorá tokenized payment trials appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/jpmorgan-citi-ubs-and-central-banks-complete-project-agora-tokenized-payment-trials/",
           "source": "Crypto Briefing",
-          "published": "2026-07-29T14:36:28Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/29103625/portugal-atrai-investidores-americanos-800x420.jpeg"
+          "published": "2026-07-30T19:10:36Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/30150648/jp-moran-e1785438419188-800x450.png"
+        },
+        {
+          "title": "Citi Slashes Coinbase Target 41% — And Keeps Its Buy Rating",
+          "description": "Coinbase (COIN) stock enters Q2 earnings after Citi cut its target 41%. See what analysts expect and how traders are positioned.",
+          "url": "https://beincrypto.com/coinbase-stock-q2-earnings-citi-target-analysis/",
+          "source": "BeInCrypto",
+          "published": "2026-07-30T18:29:37Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/A6945C965B6E8930EE55B1E00222AEA91D23730B4BE0E9BACE6DE6A05324666F/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Fd5e09162a6357fefcce61ea3ac2f959a"
+        },
+        {
+          "title": "Aviva Investors launches tokenized fund after Central Bank of Ireland approval",
+          "description": "The new XRPL-based share class gives eligible investors blockchain-based access to a regulated US dollar liquidity fund while keeping traditional custody arrangements.",
+          "url": "https://cointelegraph.com/news/aviva-investors-tokenized-fund-central-bank-ireland-xrp-ledger",
+          "source": "Cointelegraph",
+          "published": "2026-07-30T17:38:13Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/ripple-vs-xrp-vs-xrp-ledger-2.png"
         }
       ]
     },
@@ -204,12 +188,20 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Lava Tokenization Sandbox Gives Electric Blue the Infrastructure for a €500M Rollout in Germany",
-          "description": "The energy firm is the first live test case for Lava Network’s tokenization sandbox, which says it has fielded 40-plus institutional applications since June. Germany has a battery problem. Last year, the country curtailed more than 2,700 GWh of solar generati…",
-          "url": "https://thenextweb.com/news/lava-tokenization-sandbox-electric-blue-500m-battery-germany/",
-          "source": "The Next Web",
-          "published": "2026-07-30T00:20:00Z",
-          "image": "https://media.thenextweb.com/2026/07/lava-tokenization-sandbox-electric-blue-500m-battery-germany.avif"
+          "title": "Cathie Wood once said sell gold and buy Bitcoin, here is whether she got it right",
+          "description": "On February 2, 2026, Cathie Wood said something that turned heads across financial media. The ARK Invest CEO said she would \"make a shift from gold into Bitc...",
+          "url": "https://www.thestreet.com/crypto/markets/cathie-wood-once-said-sell-gold-and-buy-bitcoin-here-is-whether-she-got-it-right",
+          "source": "TheStreet",
+          "published": "2026-07-30T20:16:48Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/AD39CEF6E910D689BE8E8338000BF353626783A0B8969861AEDD340444507AE7/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F151107e48622bab5e506baeb00555d9a"
+        },
+        {
+          "title": "A National Health Authority, Live and Verifiable on IOTA",
+          "description": "How INCUCAI and Extrimian Put Argentina's Transplant System Onchain\n\n\n\n\nTL;DR:\n\n\nIOTA and Latin American decentralized-identity company Extrimian have put Argentina’s national organ, tissue, and cell donation and transplantation authority INCUCAI and its 24 p…",
+          "url": "https://blog.iota.org/extrimian-incucai-iota/",
+          "source": "Iota.org",
+          "published": "2026-07-30T13:00:38Z",
+          "image": "https://blog.iota.org/content/images/size/w1200/2026/07/-2555-Extrimian-INCUCAI-16x9-1.png"
         },
         {
           "title": "MindWave Innovations Inc., a Wholly Owned Subsidiary of Apimeds Pharmaceuticals US, Inc., Announces MindChain: World’s First Fully Insured Blockchain, Launching in October",
@@ -250,14 +242,6 @@
           "source": "Activistpost.com",
           "published": "2026-07-25T22:00:00Z",
           "image": "https://www.activistpost.com/wp-content/uploads/2026/07/Praxian_PART3_UH_V2-1160x650-1.webp"
-        },
-        {
-          "title": "PointsKash Demonstrates How Businesses Can Build on Bitcoin Without Burdening the Blockchain",
-          "description": "As industry debate surrounding Bitcoin Improvement Proposal (BIP-110) intensifies, PointsKash unveils an architecture designed to work regardless of the proposal's outcome. SCOTTSDALE, Ariz., July 24, 2026 /PRNewswire/ -- As the global Bitcoin community debat…",
-          "url": "https://www.prnewswire.com/news-releases/pointskash-demonstrates-how-businesses-can-build-on-bitcoin-without-burdening-the-blockchain-302834473.html",
-          "source": "PRNewswire",
-          "published": "2026-07-24T22:23:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS1663801/PointsKash-Logo.jpg?id=OA2794143&p=facebook"
         }
       ]
     },
@@ -271,28 +255,28 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Did crypto gambler Posh George give his mother £2million for Reform?",
-              "description": "Crypto gambler George Cottrell is alleged to have transferred three large sums to his mother Fiona in the days before she gave money to Nigel Farage's Reform UK party.",
-              "url": "https://www.dailymail.com/news/article-16015037/crypto-gambler-Posh-George-mother-2million-Reform.html",
-              "source": "Dailymail.com",
-              "published": "2026-07-29T23:08:08Z",
-              "image": "https://i.dailymail.com/1s/2026/07/30/00/110333297-0-image-m-79_1785366411251.jpg"
+              "title": "Down to its last $4,000 in cash, a crypto firm holding millions in Solana is seeking a loan to survive $1.5M debt",
+              "description": "Borrowings reached £847,000 at period end, while an uncompleted lender switch is management’s preferred alternative to more asset sales.\nThe post Down to its last $4,000 in cash, a crypto firm holding millions in Solana is seeking a loan to survive $1.5M debt…",
+              "url": "https://cryptoslate.com/down-to-its-last-4000-in-cash-a-crypto-firm-holding-millions-in-solana-is-seeking-a-loan-to-survive-1-5m-debt/",
+              "source": "CryptoSlate",
+              "published": "2026-07-30T23:55:45Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/07/supernova-solana-liquidity-lifebuoy.jpg"
             },
             {
-              "title": "Amazon identifies North Korean hacker group behind open-source supply chain attacks",
-              "description": "Amazon is sharing new findings about how a threat actor linked to the Democratic People’s Republic of Korea (DPRK) is targeting open source software libraries, the shared building blocks that companies around the world use to develop applications. Amazon Thre…",
-              "url": "https://aws.amazon.com/blogs/security/amazon-identifies-north-korean-hacker-group-behind-open-source-supply-chain-attacks/",
-              "source": "Amazon.com",
-              "published": "2026-07-29T21:00:12Z",
-              "image": "https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2026/05/05/aws_logo.jpg"
+              "title": "Trump admin pressures law enforcement groups to support controversial cryptocurrency legislation",
+              "description": "The Trump administration in recent weeks has pressured current and former US law enforcement officials to help corral support for a milestone cryptocurrency...",
+              "url": "https://www.cnn.com/2026/07/30/politics/trump-admin-pressures-law-enforcement-groups-to-support-controversial-cryptocurrency-legislation",
+              "source": "CNN",
+              "published": "2026-07-30T23:23:15Z",
+              "image": "https://s.yimg.com/lo/mysterio/api/c4b166cbddd1d39a6a56ddfa8985a320e19ac766ce9645ebcae402a5872d6bcc/lightyear_networkapi/resizefill_w960_h540;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F2ed120b2cbc829fa2b492807438e1f0b"
             },
             {
-              "title": "Zero Knowledge: Twenty Chapters In",
-              "description": "A month ago I opened up Zero Knowledge, the crypto-thriller I'm co-writing with my AI. There are twenty chapters now, a cast page, a plate for every chapter, and a pile of reader notes I'm grateful for.",
-              "url": "https://feld.com/archives/2026/07/zero-knowledge-twenty-chapters-in/",
-              "source": "Feld.com",
-              "published": "2026-07-24T17:35:59Z",
-              "image": "https://feld.com/og-default.png"
+              "title": "There's a New Way to Protect Bitcoin From Future Quantum Attacks, Researchers Say",
+              "description": "New research outlines a cryptographic approach that could allow Bitcoin and other blockchain wallets to remain compatible with existing addresses in a post-quantum future.",
+              "url": "https://decrypt.co/374651/new-research-bitcoin-wallet-quantum-attacks-safe",
+              "source": "Decrypt",
+              "published": "2026-07-29T20:01:03Z",
+              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/Bitcoin-B1-decrypt-style-gID_7.png"
             }
           ]
         },
@@ -301,12 +285,44 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet",
-              "description": "Amazon has tied the September 2025 hijack of the npm packages debug and chalk to North Korea. For ten months, the incident sat in the public record as crypto theft: a maintainer phished through a lookalike npm domain and a wallet-draining script pushed into a…",
-              "url": "https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html",
+              "title": "Coinbase shares slide as revenue and earnings miss despite record market share",
+              "description": "Shares in Coinbase Global Inc. fell more than 5% in extended trading today after the cryptocurrency exchange missed Wall Street targets on both revenue and earnings, with falling token prices and multi-year lows in volatility gutting its trading business. For…",
+              "url": "https://siliconangle.com/2026/07/30/coinbase-shares-slide-revenue-earnings-miss-despite-record-market-share/",
+              "source": "SiliconANGLE News",
+              "published": "2026-07-30T22:24:03Z",
+              "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/coinbasephoto.jpeg"
+            },
+            {
+              "title": "DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware",
+              "description": "Threat actors with ties to North Korea have been attributed to a sophisticated macOS malvertising campaign that involves redirecting users to fake web pages displaying a full-screen non-existent update sequence to deliver malware as part of a new iteration of…",
+              "url": "https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html",
               "source": "Internet",
-              "published": "2026-07-30T06:05:17Z",
-              "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgWsCKCTbRf4kZF1zcu1cmfHaf-pPPKTo2q21iPUibGu2jsDaxT92LByZdMAi0d_luVH-yt263qlWE5uDFAh4Ue21dIUk_eu08YXHqwgHI_R9bziAK9nBUiht_lMbaL9bqBH800A0HtxNSYNISi1sZ4SKv1DanwxXBPj4rd6OFBk3ogNn9iTUmsiISve0/s1700-e365/northkorean-npm.jpg"
+              "published": "2026-07-30T18:18:24Z",
+              "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCHbm6QCC9jjGwa-7P1N2PwhDjRvpC2hlS2hl09-DUZa5xdDeHt9qH1zISepl2ERqDzmDbdQ_zfE2vkHDsvE7G8QsetJHjzC45DpPr5-83lc1BGaLHfEwMfdYEA04d5xc7GL02_qkz1HjhIenSKBWF0FZqHnICaLn9agLEoEGnnN2n-smXxYFuQQaYNd8A/s1700-e365/all-secure.jpg"
+            },
+            {
+              "title": "Circle Just Bought IBM’s Blockchain Patent Portfolio. The Real Test Is How It Gets Deployed",
+              "description": "Circle Internet Group (CRCL) just gave investors a reason to ask a bigger question than “What is it buying?” and instead, “What can it build with it?”\nThe company’s new acquisition of International Business Machine’s (IBM) blockchain patent portfolio adds mor…",
+              "url": "https://biztoc.com/x/1dbf296fbda442e1",
+              "source": "Biztoc.com",
+              "published": "2026-07-30T14:08:47Z",
+              "image": "https://biztoc.com/cdn/1dbf296fbda442e1_s.webp"
+            },
+            {
+              "title": "Circle Just Bought IBM’s Blockchain Patent Portfolio. The Real Test Is How It Gets Deployed.",
+              "description": "Circle acquired IBM’s blockchain patent portfolio, adding more than 680 patent families and nearly 1,000 issued patents worldwide and becoming the leading ho...",
+              "url": "https://www.barchart.com/story/news/3553240/circle-just-bought-ibms-blockchain-patent-portfolio-the-real-test-is-how-it-gets-deployed",
+              "source": "Barchart.com",
+              "published": "2026-07-30T14:00:02Z",
+              "image": "https://s.yimg.com/lo/mysterio/api/0743F7DA8E2A5C7F084C9442B84178244B9F90D4A5501A292F247C18C85B8BBB/subgraphmysterio/resizefill_w1200_h626;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2Fb755108c26b96e02f25cd85e604fb509"
+            },
+            {
+              "title": "Tether’s USAT Lands on Celo – A Distribution Play, Not a Product Launch",
+              "description": "Tether’s launch of its GENIUS Act-compliant USAT stablecoin on the Celo blockchain is not a product play; it is a calculated distribution play. By deploying on a network that already handles approximately 28% of cross-chain USDT transfers, Tether is prioritiz…",
+              "url": "https://forkast.news/tethers-usat-lands-on-celo-a-distribution-play-not-a-product-launch/",
+              "source": "Forkast.news",
+              "published": "2026-07-29T23:56:06Z",
+              "image": "https://forkast.news/wp-content/uploads/2026/07/forkast-128544-1024x572.jpg"
             },
             {
               "title": "IOTA Stuck in Stagnation; Can its PYTH Price Feeds Integration Overturn Market Slump?",
@@ -317,52 +333,12 @@
               "image": "https://zycrypto.com/wp-content/uploads/2020/03/MIOTA-On-The-Verge-Of-An-Intense-Sell-Off-As-IOTA-Releases-Trinity-Seed-Migration-Tool.jpg"
             },
             {
-              "title": "Microsoft Crushes Q4 as Azure Growth Fuels AI Boom, How Should Traders Position?",
-              "description": "Microsoft beat Q4 estimates as Azure grew 43%. Shares rose after hours while Bitcoin stalled below $64,000.",
-              "url": "https://beincrypto.com/microsoft-earnings-azure-ai-boom/",
-              "source": "BeInCrypto",
-              "published": "2026-07-29T20:32:48Z",
-              "image": "https://s.yimg.com/lo/mysterio/api/6CC46A21F4EE82B1E4348279D0364BD89F0D1B089FA8FFCA00AB7BA2BC94961B/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F434f9e1697e72b9d75fdd61eb12b2ac5"
-            },
-            {
               "title": "MoonPay vault enables ChatGPT and Claude users to authorize crypto transactions",
               "description": "MoonPay launched PayBox, an AI payment vault that lets ChatGPT and Claude users buy crypto, swap tokens and authorize blockchain transactions while retaining custody.",
               "url": "https://cointelegraph.com/news/moonpay-launches-ai-payment-vault-for-chatgpt-and-claude-with-crypto-transaction-support",
               "source": "Cointelegraph",
               "published": "2026-07-29T16:20:37Z",
               "image": "https://s3-images.ctmedia.io/media/article-covers/magazine-ai-agents-are-trading-crypto-now-but-beware-these-rookie-mistakes.png"
-            },
-            {
-              "title": "Binance bStocks Reaches $500 Million in AUM as a New Generation of Investors Turns to Tokenized Stocks",
-              "description": "Binance bStocks Reaches $500 Million in AUM as a New Generation of Investors Turns to Tokenized Stocks",
-              "url": "https://www.thehindubusinessline.com/brandhub/pr-release/binance-bstocks-reaches-500-million-in-aum-as-a-new-generation-of-investors-turns-to-tokenized-stocks/article71281702.ece",
-              "source": "BusinessLine",
-              "published": "2026-07-29T13:00:19Z",
-              "image": "https://bl-i.thgim.com/public/incoming/v7ash2/article71281701.ece/alternates/LANDSCAPE_1200/Binance-Logo-Yellow-4x-Logo.jpg"
-            },
-            {
-              "title": "Streamex Corp. Releases Investor Video on the Platform Strategy and Growth Initiatives Featuring VP of Product and Design Kori Handy",
-              "description": "WINTER PARK, Fla., July 29, 2026 (GLOBE NEWSWIRE) — Streamex Corp. (“Streamex” or the “Company”) (NASDAQ: STEX), a technology company building the future of the commodity markets through tokenization, today released an investor video featuring Kori Handy, Vic…",
-              "url": "https://financialpost.com/globe-newswire/streamex-corp-releases-investor-video-on-the-platform-strategy-and-growth-initiatives-featuring-vp-of-product-and-design-kori-handy",
-              "source": "Financial Post",
-              "published": "2026-07-29T12:03:12Z",
-              "image": null
-            },
-            {
-              "title": "HTX's First TradFi \"Trade to Earn\" Campaign Unleashes New Trading Momentum: Rewards Exceed $23,000, Fee Savings Reach 1.8 Billion $HTX",
-              "description": "APIA, Samoa, July 29, 2026 (GLOBE NEWSWIRE) -- Recently, HTX's first-ever TradFi “Trade to Earn” campaign concluded successfully. The campaign leveraged innovative gameplay - \"24/7 mining\" and \"up to 110% fee rebates\" - to ignite significant trading enthusias…",
-              "url": "https://www.globenewswire.com/news-release/2026/07/29/3334989/0/en/HTX-s-First-TradFi-Trade-to-Earn-Campaign-Unleashes-New-Trading-Momentum-Rewards-Exceed-23-000-Fee-Savings-Reach-1-8-Billion-HTX.html",
-              "source": "GlobeNewswire",
-              "published": "2026-07-29T07:17:00Z",
-              "image": "https://ml.globenewswire.com/Resource/Download/cf597ba8-a998-40fa-8403-9ff0fe2fb0a6"
-            },
-            {
-              "title": "Company behind AI trade that caused $60 million crypto liquidations to cover all losses",
-              "description": "The mark price fell 19% on a single pre-market trade in Korea. The company says its oracle worked exactly as designed.",
-              "url": "https://www.coindesk.com/markets/2026/07/29/company-behind-ai-trade-that-caused-usd60-million-crypto-liquidations-to-cover-all-losses",
-              "source": "CoinDesk",
-              "published": "2026-07-29T06:03:28Z",
-              "image": "https://cdn.sanity.io/images/s3y3vcno/production/b5d61433a7938f2a44279c76d6a4b0aa0600e1eb-1920x1227.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75"
             }
           ]
         }
