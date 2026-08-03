@@ -1,5 +1,5 @@
 {
-  "date": "August 02, 2026",
+  "date": "August 03, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -108,14 +108,6 @@
           "source": "Bitcoinfoundation.org",
           "published": "2026-07-27T10:10:32Z",
           "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/1-2-1785144813.webp"
-        },
-        {
-          "title": "Secure electronic voting system based on blockchain with dilithium authentication and zero-knowledge proof verification",
-          "description": "Scientific Reports - Secure electronic voting system based on blockchain with dilithium authentication and zero-knowledge proof verification",
-          "url": "https://www.nature.com/articles/s41598-026-62925-1",
-          "source": "Nature.com",
-          "published": "2026-07-26T00:00:00Z",
-          "image": null
         }
       ]
     },
@@ -125,68 +117,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Bitget Wallet Card Turns Cashback Into Bitcoin, Gold and Tokenized Stocks",
-          "description": "Bitget Wallet, a self-custodial crypto wallet for everyday finance, has introduced Assetback, an asset cashback program turning the Bitget Wallet Card ....",
-          "url": "https://www.globenewswire.com/news-release/2026/08/01/3337111/0/en/Bitget-Wallet-Card-Turns-Cashback-Into-Bitcoin-Gold-and-Tokenized-Stocks.html",
-          "source": "GlobeNewswire",
-          "published": "2026-08-01T02:00:00Z",
-          "image": "https://ml-eu.globenewswire.com/Resource/Download/a615fa74-7a93-49f5-9504-0d22e905f906"
-        },
-        {
-          "title": "Project Agorá Cuts Cross-Border Payment Times to 80 Seconds",
-          "description": "Real-value testing (RVT) of tokenization of wholesale cross-border payments demonstrated an average time from payment initiation to settlement of about 80 seconds, according to a report by the Bank for International Settlements (BIS).\nProject Agorá, a public-…",
-          "url": "https://biztoc.com/x/501bc3282ff7bb9c",
-          "source": "Biztoc.com",
-          "published": "2026-07-31T23:52:49Z",
-          "image": "https://biztoc.com/cdn/995/og.png"
-        },
-        {
-          "title": "LTP on institutional crypto's missing layer, and why DeFi will split in two",
-          "description": "Similarly to retail traders and investors, hedge funds don't want ten logins, ten custody arrangements, and ten compliance reviews to trade crypto. LTP, a pr...",
-          "url": "https://www.thestreet.com/crypto/innovation/ltp-on-institutional-cryptos-missing-layer-and-why-defi-will-split-in-two-",
-          "source": "TheStreet",
-          "published": "2026-07-31T21:37:26Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/E48EAB06674F919794E48214C1EA0F683E0A2968A009B618AD828CA9F2FE944F/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F6bf06e7d376adf3d213324879c3c35fc"
-        },
-        {
-          "title": "Weekly Wrap: Crypto Stays Rangebound Amid Market Volatility",
-          "description": "Bitcoin (CRYPTO: $BTC) is pacing for a roughly 5% gain in July, although the largest cryptocurrency remains largely...",
-          "url": "https://www.cryptoprowl.com/releases/weekly-wrap-crypto-stays-rangebound-amid-market-volatility-6311",
-          "source": "Cryptoprowl.com",
-          "published": "2026-07-31T21:33:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/1228701313B030C77D7C7FA4FD1659C985DCCD7B070DEFEE742734C0165E0BC4/subgraphmysterio/resizefill_w1200_h720;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2Fdccbfef2a1426a0500803b5d58bc2b40"
-        },
-        {
-          "title": "Bitcoin holds monthly gain, faces 'choppy' August as 'forced-selling' exhausted, analysts say",
-          "description": "The largest crypto shrugged off a barrage of bad news this month, but traders remain cautious as rate hike fears and jobs data loom.",
-          "url": "https://www.coindesk.com/markets/2026/07/31/bitcoin-holds-onto-july-gain-as-forced-selling-fuel-was-already-spent-analysts-say",
-          "source": "CoinDesk",
-          "published": "2026-07-31T20:50:58Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/e5be27224bd7ac7866d20593432ecaaa0ad610c9-2044x1108.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75"
-        },
-        {
-          "title": "Bank of Italy finds no consistent cost advantage for stablecoin remittances",
-          "description": "A Bank of Italy study found stablecoin remittances often beat average remittance costs but failed to consistently outperform leading providers, with fiat on- and off-ramps driving most expenses.",
-          "url": "https://cointelegraph.com/news/bank-of-italy-study-no-stablecoin-remittance-cost-advantages",
+          "title": "Trump Media sells another 2,628 BTC, holdings fall to 4,261 BTC",
+          "description": "Trump Media transferred another 2,628 Bitcoin to Crypto.com, bringing its reported sales over seven months to 7,281 BTC and leaving the company with 4,261 BTC in holdings.",
+          "url": "https://cointelegraph.com/news/trump-media-2628-btc-crypto-com-4261-btc-holdings",
           "source": "Cointelegraph",
-          "published": "2026-07-31T20:10:21Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bank-of-italy-and-crypto-recap.png"
+          "published": "2026-08-02T09:29:15Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-trump-on-bitcoin.jpg"
         },
         {
-          "title": "Circle’s NYDFS Trust Charter Completes a Regulatory Depth Moat No Other Stablecoin Issuer Can Match",
-          "description": "The stablecoin wars are currently bifurcating into two distinct strategic architectures: the scale-at-all-costs model and the regulatory depth moat. While the Open USD consortium—a coalition of 140-plus members including Visa, Mastercard, Stripe, BlackRock, a…",
-          "url": "https://forkast.news/circles-nydfs-trust-charter-completes-a-regulatory-depth-moat-no-other-stablecoin-issuer-can-match/",
-          "source": "Forkast.news",
-          "published": "2026-07-31T19:57:53Z",
-          "image": "https://forkast.news/wp-content/uploads/2026/07/circles-nydfs-trust-charter-completes-a-regulatory-depth-moat-no-other-stablecoin-issuer-can-match-1024x572.jpg"
+          "title": "How thin weekend Bitcoin liquidity turns minor geopolitical news into massive Monday price gaps for ETF holders",
+          "description": "An investor who owns Bitcoin through a brokerage account can finish work on Friday, check the closing price of a spot ETF, and assume the position is done moving for the week. Bitcoin, however, has other plans. Between Friday’s close and Monday’s opening bell…",
+          "url": "https://cryptoslate.com/how-thin-weekend-liquidity-turns-minor-geopolitical-news-into-massive-monday-price-gaps-for-etf-holders/",
+          "source": "CryptoSlate",
+          "published": "2026-08-01T23:10:43Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-24-7-trading-vs-closed-wall-street-market.jpg"
         },
         {
-          "title": "BlackRock Bitcoin Buying Rebounds as ETF Investors Sit 22% Underwater",
-          "description": "BlackRock clients bought $273 million in Bitcoin in two days while the average US spot ETF buyer sits 22% underwater.",
-          "url": "https://beincrypto.com/blackrock-bitcoin-buying-etf-investors-underwater/",
-          "source": "BeInCrypto",
-          "published": "2026-07-31T18:02:04Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/7E0C731D04FA3ACAB554D9F0A4471E603E54DC15D52719B3CF2A8453030D67D3/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F30f81599932c611dc18fb2714309adc9"
+          "title": "Analysts Anticipate Massive XRP Rally as CLARITY Act and Institutional Adoption Build Momentum",
+          "description": "As August begins, XRP finds itself in familiar territory — consolidating in a tight range around $1.06, trading roughly 71% below its all-time high of $3.65 set in July 2025. Yet despite sluggish price action, a growing chorus of analysts argues that XRP is c…",
+          "url": "https://zycrypto.com/analysts-anticipate-massive-xrp-rally-as-clarity-act-and-institutional-adoption-build-momentum/",
+          "source": "ZyCrypto",
+          "published": "2026-08-01T21:00:59Z",
+          "image": "https://zycrypto.com/wp-content/uploads/2026/03/Ripples-XRP-Whales-Eye-1.7-Trillion-Payments-Industry-as-New-SWIFT-Narrative-Gains-Momentum.jpg"
+        },
+        {
+          "title": "JPMorgan Predicted Up to $8 Billion of Year-One XRP ETF Inflows. Here’s Why Inflows Are Stuck at $1.5 Billion",
+          "description": "Wall Street's biggest banks called for up to $8 billion flooding into XRP ETFs within a year, but something broke that forecast almost immediately after trad...",
+          "url": "https://247wallst.com/investing/cryptocurrency/2026/08/01/jpmorgan-predicted-up-to-8-billion-of-year-one-xrp-etf-inflows-heres-why-inflows-are-stuck-at-1-5-billion/",
+          "source": "24/7 Wall St.",
+          "published": "2026-08-01T20:03:50Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/BFA23105E24E2C6AD8EB6844186BAEB0091A4D63E63D30AE44F6BA94DC9C013D/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F2aa9e8fd853d6bbd38df5c6d035a8505"
+        },
+        {
+          "title": "Russia Passes Landmark Crypto Law, Setting State-Run Rails for Sanctioned Trade",
+          "description": "Russia’s parliament passed its first comprehensive crypto law, creating a state-regulated framework for exchanges and investors. Russia’s State Duma passed a law on Tuesday that regulates the circulation of crypto and digital rights for the first time, a fram…",
+          "url": "https://www.activistpost.com/russia-passes-landmark-crypto-law-setting-state-run-rails-for-sanctioned-trade/",
+          "source": "Activistpost.com",
+          "published": "2026-08-01T19:04:00Z",
+          "image": "https://www.activistpost.com/wp-content/uploads/2026/07/Russia-Passes-Landmark-Crypto-Law-Setting-State-Run-Rails-for-Sanctioned-Trade-1024x576-1.webp"
+        },
+        {
+          "title": "UAE freezes 'Desi Bling' star Satish Sanpal's assets over money laundering probe",
+          "description": "Besides the financial services accounts and digital wallets of Satish, the FIU freezing order, issued about a fortnight ago, extends to accounts of Tabinda and companies linked to Sanpals.",
+          "url": "https://economictimes.indiatimes.com/news/international/uae/uae-freezes-desi-bling-star-satish-sanpals-assets-over-money-laundering-probe/articleshow/132795280.cms",
+          "source": "The Times of India",
+          "published": "2026-08-01T18:21:00Z",
+          "image": "https://img.etimg.com/thumb/msid-132795442,width-1200,height-630,imgsize-926169,overlay-economictimes/articleshow.jpg"
+        },
+        {
+          "title": "Crypto PAC pours another $1M into Michigan House race",
+          "description": "Many US states are scheduled to hold party primaries for the midterms, and a PAC with ties to the crypto industry is seeking to influences key races through spending on media.",
+          "url": "https://cointelegraph.com/news/crypto-pac-michigan-thanedar-mckinney",
+          "source": "Cointelegraph",
+          "published": "2026-08-01T15:44:02Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-industry-votes-us.png"
+        },
+        {
+          "title": "Delhi Lakshmi Yojana online portal launched — Check who can apply",
+          "description": "Appealing to eligible women to register online from August 1, Gupta said the portal would enable applicants to submit forms, upload documents and choose their preferred financial option by linking either a CBDC wallet or a bank account with the scheme.",
+          "url": "https://www.livemint.com/money/personal-finance/delhi-lakshmi-yojana-online-portal-launched-check-who-can-apply-11785592509604.html",
+          "source": "Livemint",
+          "published": "2026-08-01T14:31:24Z",
+          "image": "https://www.livemint.com/lm-img/img/2026/08/01/1600x900/logo/ANI-20260801208-0_1785592529436_1785592819680_10f151b8-12b1-41e9-80ac-5545e6ff9673.jpg"
         }
       ]
     },
@@ -196,12 +188,20 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Avalanche Team1 Grant Puts YourGrails RWA Platform In Focus",
-          "description": "Avalanche’s Team1 Accelerator has awarded a $30,000 grant to YourGrails, a platform focused on tokenizing physical trading cards, adding another small...",
-          "url": "https://bitcoinist.com/avalanche-team1-grant-puts-yourgrails-rwa-platform-in-focus/",
-          "source": "Bitcoinist",
-          "published": "2026-08-01T01:05:00Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/06/TOTAL_2026-06-11_13-09-09.png"
+          "title": "Show HN: Btfy – a blockchain that uses weather observations",
+          "description": "Hi HN,I built Btfy, an experimental blockchain that uses weather observations as a source of unpredictability for consensusThe motivation is simple. Proof of Work generates uncertainty by performing computations. I wanted to explore whether we could obtain so…",
+          "url": "https://github.com/kotagit75/btfy",
+          "source": "Github.com",
+          "published": "2026-08-02T06:44:27Z",
+          "image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1200176540/260356b3-788f-4b13-b60f-7ebb038ad56f?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260802%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T072507Z&X-Amz-Expires=300&X-Amz-Signature=2eff5989238e9e696be9efdb6d711e02c5f2b3fa7238de469cca784bf6aac64e&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTY1NTgwNywibmJmIjoxNzg1NjU1NTA3LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.xaLdiD9vBy3CI-IJ1RbUmCK6FU1antJ0lz6ZeoTMsg8"
+        },
+        {
+          "title": "Coldcard Bitcoin Thief Likely Used Top Blockchain Services Provider: Report",
+          "description": "Experts have since said that those holding Bitcoin on a Coldcard device should move funds now. Since over $70 million in Bitcoin was stolen yesterday by an attack that exploited a fault in the Coldcard’s system, it has been reported that the thief used a top …",
+          "url": "https://freerepublic.com/focus/f-chat/4390213/posts",
+          "source": "Freerepublic.com",
+          "published": "2026-08-01T20:41:07Z",
+          "image": null
         },
         {
           "title": "Efficient design of blockchain-based electronic health record systems with federated learning, off-chain storage, and zk-rollup parallelism for minimizing transaction costs",
@@ -250,14 +250,6 @@
           "source": "Decrypt",
           "published": "2026-07-27T15:35:25Z",
           "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/USDC-decrypt-style-07-gID_7.png"
-        },
-        {
-          "title": "USDC issuer Circle to acquire nearly 1,000 IBM blockchain patents",
-          "description": "USDC issuer Circle said it will acquire IBM’s Blockchain portfolio, which includes more than 680 patent families and nearly 1,000 issued patents worldwide, with a particular focus in supply chain applications.",
-          "url": "https://cointelegraph.com/news/circle-to-acquire-nearly-1000-ibm-blockchain-patents",
-          "source": "Cointelegraph",
-          "published": "2026-07-27T13:08:55Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-usdt-vs-usdc-whats-the-difference.png"
         }
       ]
     },
@@ -271,12 +263,12 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "From crypto treasury to AI data centers: Inside the aggressive 4,375 ETH selloff that just hit a massive collateral wall",
-              "description": "The company raised its ceiling to 4,375 ETH, but only 1,714.8 ETH now sits outside the disclosed pledge.\nThe post From crypto treasury to AI data centers: Inside the aggressive 4,375 ETH selloff that just hit a massive collateral wall appeared first on Crypto…",
-              "url": "https://cryptoslate.com/from-crypto-treasury-to-ai-data-centers-inside-the-aggressive-4375-eth-selloff-that-just-hit-a-massive-collateral-wall/",
-              "source": "CryptoSlate",
-              "published": "2026-07-31T22:25:26Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/07/quantum-solutions-ethereum-crane-data-center.jpg"
+              "title": "Asteroid mining gets sold as a trillion-dollar gold rush, but the economics point the other way: hauling platinum back to Earth would crash its price, so the only prize that adds up is mining water and burning it as fuel in space",
+              "description": "The trillion-dollar asteroid fortune collapses the moment you do the math on bringing platinum home.\nThe post Asteroid mining gets sold as a trillion-dollar gold rush, but the economics point the other way: hauling platinum back to Earth would crash its price…",
+              "url": "https://spacedaily.com/t-asteroid-mining-gets-sold-as-a-trillion-dollar-gold-rush-but-the-economics-point-the-other-way-hauling-platinum-back-to-earth-would-crash-its-price-so-the-only-prize-that-adds-up-is-mining-water-and/",
+              "source": "Space Daily",
+              "published": "2026-08-02T04:26:42Z",
+              "image": "https://spacedaily.com/wp-content/uploads/2026/08/asteroid-mining-spacecraft.jpg"
             },
             {
               "title": "There's a New Way to Protect Bitcoin From Future Quantum Attacks, Researchers Say",
@@ -293,12 +285,12 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "NEAR Adds Staking-Based Payments For AI Compute Credits",
-              "description": "NEAR has launched a staking-based payment model for NEAR AI, giving users a way to lock NEAR tokens and receive monthly compute credits instead of...",
-              "url": "http://www.newsbtc.com/news/near-adds-staking-based-payments-for-ai-compute-credits/",
-              "source": "newsBTC",
-              "published": "2026-07-31T20:30:00Z",
-              "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/featured_newsbtc_standard-chartered-says-bitcoin-bottomed-near-59000-as-crypto-winter-ends.png?fit=1600%2C900"
+              "title": "Circle’s NYDFS Trust Charter Completes a Regulatory Depth Moat No Other Stablecoin Issuer Can Match",
+              "description": "The stablecoin wars are currently bifurcating into two distinct strategic architectures: the scale-at-all-costs model and the regulatory depth moat. While the Open USD consortium—a coalition of 140-plus members including Visa, Mastercard, Stripe, BlackRock, a…",
+              "url": "https://forkast.news/circles-nydfs-trust-charter-completes-a-regulatory-depth-moat-no-other-stablecoin-issuer-can-match/",
+              "source": "Forkast.news",
+              "published": "2026-07-31T19:57:53Z",
+              "image": "https://forkast.news/wp-content/uploads/2026/07/circles-nydfs-trust-charter-completes-a-regulatory-depth-moat-no-other-stablecoin-issuer-can-match-1024x572.jpg"
             },
             {
               "title": "Bitcoin trades near $64K; key support seen at $63,800-$64,000 amid Fed uncertainty",
@@ -331,14 +323,6 @@
               "source": "Biztoc.com",
               "published": "2026-07-30T14:08:47Z",
               "image": "https://biztoc.com/cdn/1dbf296fbda442e1_s.webp"
-            },
-            {
-              "title": "Circle Just Bought IBM’s Blockchain Patent Portfolio. The Real Test Is How It Gets Deployed.",
-              "description": "Circle acquired IBM’s blockchain patent portfolio, adding more than 680 patent families and nearly 1,000 issued patents worldwide and becoming the leading ho...",
-              "url": "https://www.barchart.com/story/news/3553240/circle-just-bought-ibms-blockchain-patent-portfolio-the-real-test-is-how-it-gets-deployed",
-              "source": "Barchart.com",
-              "published": "2026-07-30T14:00:02Z",
-              "image": "https://s.yimg.com/lo/mysterio/api/0743F7DA8E2A5C7F084C9442B84178244B9F90D4A5501A292F247C18C85B8BBB/subgraphmysterio/resizefill_w1200_h626;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2Fb755108c26b96e02f25cd85e604fb509"
             }
           ]
         }
