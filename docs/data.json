@@ -1,5 +1,5 @@
 {
-  "date": "August 03, 2026",
+  "date": "August 04, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -92,22 +92,6 @@
           "source": "Crypto Briefing",
           "published": "2026-07-29T13:53:54Z",
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/29095350/can-stock-trading-and-prediction-markets-offset-robinhood-s--800x420.jpeg"
-        },
-        {
-          "title": "K3 Capital Extends a Credit Facility to Galaxy through Accountable's Vault Infrastructure on Monad",
-          "description": "DUBAI, United Arab Emirates, July 27, 2026 (GLOBE NEWSWIRE) -- Accountable today announced the launch of an onchain facility extending credit from K3 Capital to Galaxy, available on Monad to allocators through Accountable's yield marketplace. The facility lau…",
-          "url": "https://www.globenewswire.com/news-release/2026/07/27/3333564/0/en/K3-Capital-Extends-a-Credit-Facility-to-Galaxy-through-Accountable-s-Vault-Infrastructure-on-Monad.html",
-          "source": "GlobeNewswire",
-          "published": "2026-07-27T13:00:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/3113c7fe-9b14-445b-af4f-b1a861e37dcd"
-        },
-        {
-          "title": "RootData 2026 Crypto Project Closures: 99 Projects Have Already Died This Year",
-          "description": "The RootData 2026 crypto project closures report aggregates information on cryptocurrency companies and protocols that shut down in 2026. Compiled by Web3 data infrastructure firm...\nThe post RootData 2026 Crypto Project Closures: 99 Projects Have Already Die…",
-          "url": "https://bitcoinfoundation.org/news/crypto-companies-news/rootdata-2026-crypto-project-closures-99-projects-have-already-died-this-year/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-07-27T10:10:32Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/1-2-1785144813.webp"
         }
       ]
     },
@@ -117,60 +101,52 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Trump Media sells another 2,628 BTC, holdings fall to 4,261 BTC",
-          "description": "Trump Media transferred another 2,628 Bitcoin to Crypto.com, bringing its reported sales over seven months to 7,281 BTC and leaving the company with 4,261 BTC in holdings.",
-          "url": "https://cointelegraph.com/news/trump-media-2628-btc-crypto-com-4261-btc-holdings",
-          "source": "Cointelegraph",
-          "published": "2026-08-02T09:29:15Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-trump-on-bitcoin.jpg"
+          "title": "CLARITY Act Countdown: Senate Has Days to Save Landmark Crypto Bill Before Recess",
+          "description": "The Senate has limited time to vote on the Digital Asset Market Clarity Act before Senators leave Washington to return to their home states for...\nThe post CLARITY Act Countdown: Senate Has Days to Save Landmark Crypto Bill Before Recess appeared first on Bit…",
+          "url": "https://bitcoinfoundation.org/news/regulation/clarity-act-countdown-senate-has-days-to-save-landmark-crypto-bill-before-recess/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-08-03T07:39:00Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/08/1-2.webp"
         },
         {
-          "title": "How thin weekend Bitcoin liquidity turns minor geopolitical news into massive Monday price gaps for ETF holders",
-          "description": "An investor who owns Bitcoin through a brokerage account can finish work on Friday, check the closing price of a spot ETF, and assume the position is done moving for the week. Bitcoin, however, has other plans. Between Friday’s close and Monday’s opening bell…",
-          "url": "https://cryptoslate.com/how-thin-weekend-liquidity-turns-minor-geopolitical-news-into-massive-monday-price-gaps-for-etf-holders/",
+          "title": "Binance to Launch Commodity Options on Gold and Silver",
+          "description": "Building on strong demand for commodity perpetuals, Binance adds another layer to its TradFi ecosystem with compliant, crypto-native options on core macro assets",
+          "url": "https://www.thehindubusinessline.com/brandhub/pr-release/binance-to-launch-commodity-options-on-gold-and-silver/article71289112.ece",
+          "source": "BusinessLine",
+          "published": "2026-08-03T07:03:01Z",
+          "image": "https://bl-i.thgim.com/public/incoming/93jp4e/article71289114.ece/alternates/LANDSCAPE_1200/Screenshot%202026-07-31%20at%209.43.39%E2%80%AFAM.png"
+        },
+        {
+          "title": "Coldcard’s 5-year flaw reveals hardware wallet testing gap: Kraken’s security chief",
+          "description": "The five-year bug escaped detection because auditors verified that the intended random number generator existed, but not that it was being called.",
+          "url": "https://cointelegraph.com/news/coldcards-5-year-flaw-reveals-hardware-wallet-testing-gap-krakens-security-chief",
+          "source": "Cointelegraph",
+          "published": "2026-08-03T04:09:44Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-wallets-btc-wallet-inaccessible.jpg"
+        },
+        {
+          "title": "South Korean stablecoin outflows top $367M in June: Report",
+          "description": "Stablecoins have been flowing out of South Korean exchanges for 18 consecutive months as regulators weigh tighter oversight of cross-border crypto activity.",
+          "url": "https://cointelegraph.com/news/south-korea-stablecoin-outflows-overseas-exchanges",
+          "source": "Cointelegraph",
+          "published": "2026-08-03T04:05:11Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/lost-bitcoins-crypto-hack-hacking-falling-jeans-south-korea.png"
+        },
+        {
+          "title": "Uniswap Crypto Price Prediction: Can UNI Hit $100 as Wall Street Bets Big on DeFi?",
+          "description": "The latest Uniswap crypto price prediction has gained credibility after one of the biggest institutional developments in decentralized finance. BlackRock’s BUIDL fund is now available...\nThe post Uniswap Crypto Price Prediction: Can UNI Hit $100 as Wall Stree…",
+          "url": "https://bitcoinfoundation.org/news/analysis/uniswap-crypto-price-prediction-can-uni-hit-100-as-wall-street-bets-big-on-defi/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-08-02T11:51:59Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/uni-1.webp"
+        },
+        {
+          "title": "The sudden collapse of a $20 billion AI fund reveals why Bitcoin is the first thing Wall Street sells when margin calls hit",
+          "description": "A $20 billion AI hedge fund gained 439% through June, lost roughly two-thirds of its value in July, and sold most of a $16 billion public-stock portfolio as leverage turned against it. The collapse offers a warning for Bitcoin: when Wall Street needs cash qui…",
+          "url": "https://cryptoslate.com/wall-streets-ai-margin-calls-are-here-is-bitcoin-the-next-source-of-cash/",
           "source": "CryptoSlate",
-          "published": "2026-08-01T23:10:43Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-24-7-trading-vs-closed-wall-street-market.jpg"
-        },
-        {
-          "title": "Analysts Anticipate Massive XRP Rally as CLARITY Act and Institutional Adoption Build Momentum",
-          "description": "As August begins, XRP finds itself in familiar territory — consolidating in a tight range around $1.06, trading roughly 71% below its all-time high of $3.65 set in July 2025. Yet despite sluggish price action, a growing chorus of analysts argues that XRP is c…",
-          "url": "https://zycrypto.com/analysts-anticipate-massive-xrp-rally-as-clarity-act-and-institutional-adoption-build-momentum/",
-          "source": "ZyCrypto",
-          "published": "2026-08-01T21:00:59Z",
-          "image": "https://zycrypto.com/wp-content/uploads/2026/03/Ripples-XRP-Whales-Eye-1.7-Trillion-Payments-Industry-as-New-SWIFT-Narrative-Gains-Momentum.jpg"
-        },
-        {
-          "title": "JPMorgan Predicted Up to $8 Billion of Year-One XRP ETF Inflows. Here’s Why Inflows Are Stuck at $1.5 Billion",
-          "description": "Wall Street's biggest banks called for up to $8 billion flooding into XRP ETFs within a year, but something broke that forecast almost immediately after trad...",
-          "url": "https://247wallst.com/investing/cryptocurrency/2026/08/01/jpmorgan-predicted-up-to-8-billion-of-year-one-xrp-etf-inflows-heres-why-inflows-are-stuck-at-1-5-billion/",
-          "source": "24/7 Wall St.",
-          "published": "2026-08-01T20:03:50Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/BFA23105E24E2C6AD8EB6844186BAEB0091A4D63E63D30AE44F6BA94DC9C013D/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F2aa9e8fd853d6bbd38df5c6d035a8505"
-        },
-        {
-          "title": "Russia Passes Landmark Crypto Law, Setting State-Run Rails for Sanctioned Trade",
-          "description": "Russia’s parliament passed its first comprehensive crypto law, creating a state-regulated framework for exchanges and investors. Russia’s State Duma passed a law on Tuesday that regulates the circulation of crypto and digital rights for the first time, a fram…",
-          "url": "https://www.activistpost.com/russia-passes-landmark-crypto-law-setting-state-run-rails-for-sanctioned-trade/",
-          "source": "Activistpost.com",
-          "published": "2026-08-01T19:04:00Z",
-          "image": "https://www.activistpost.com/wp-content/uploads/2026/07/Russia-Passes-Landmark-Crypto-Law-Setting-State-Run-Rails-for-Sanctioned-Trade-1024x576-1.webp"
-        },
-        {
-          "title": "UAE freezes 'Desi Bling' star Satish Sanpal's assets over money laundering probe",
-          "description": "Besides the financial services accounts and digital wallets of Satish, the FIU freezing order, issued about a fortnight ago, extends to accounts of Tabinda and companies linked to Sanpals.",
-          "url": "https://economictimes.indiatimes.com/news/international/uae/uae-freezes-desi-bling-star-satish-sanpals-assets-over-money-laundering-probe/articleshow/132795280.cms",
-          "source": "The Times of India",
-          "published": "2026-08-01T18:21:00Z",
-          "image": "https://img.etimg.com/thumb/msid-132795442,width-1200,height-630,imgsize-926169,overlay-economictimes/articleshow.jpg"
-        },
-        {
-          "title": "Crypto PAC pours another $1M into Michigan House race",
-          "description": "Many US states are scheduled to hold party primaries for the midterms, and a PAC with ties to the crypto industry is seeking to influences key races through spending on media.",
-          "url": "https://cointelegraph.com/news/crypto-pac-michigan-thanedar-mckinney",
-          "source": "Cointelegraph",
-          "published": "2026-08-01T15:44:02Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-industry-votes-us.png"
+          "published": "2026-08-02T11:40:06Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/08/stressed-investor-ai-stocks-bitcoin-selloff.jpg"
         },
         {
           "title": "Delhi Lakshmi Yojana online portal launched — Check who can apply",
@@ -179,6 +155,14 @@
           "source": "Livemint",
           "published": "2026-08-01T14:31:24Z",
           "image": "https://www.livemint.com/lm-img/img/2026/08/01/1600x900/logo/ANI-20260801208-0_1785592529436_1785592819680_10f151b8-12b1-41e9-80ac-5545e6ff9673.jpg"
+        },
+        {
+          "title": "Chainlink partners with Swift, UBS, and Euroclear to tackle $58B AI risk in corporate actions",
+          "description": "Chainlink's collaboration with major financial entities could revolutionize corporate actions processing, reducing costs and enhancing data accuracy.\nThe post Chainlink partners with Swift, UBS, and Euroclear to tackle $58B AI risk in corporate actions appear…",
+          "url": "https://cryptobriefing.com/chainlink-swift-ubs-euroclear-ai-corporate-actions/",
+          "source": "Crypto Briefing",
+          "published": "2026-08-01T13:06:20Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/01090614/chainlink-partners-with-swift-ubs-and-euroclear-to-tackle-58-800x420.jpeg"
         }
       ]
     },
@@ -188,36 +172,12 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Show HN: Btfy – a blockchain that uses weather observations",
-          "description": "Hi HN,I built Btfy, an experimental blockchain that uses weather observations as a source of unpredictability for consensusThe motivation is simple. Proof of Work generates uncertainty by performing computations. I wanted to explore whether we could obtain so…",
-          "url": "https://github.com/kotagit75/btfy",
-          "source": "Github.com",
-          "published": "2026-08-02T06:44:27Z",
-          "image": "https://repository-images.githubusercontent.com/github-production-repository-image-32fea6/1200176540/260356b3-788f-4b13-b60f-7ebb038ad56f?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260802%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260802T072507Z&X-Amz-Expires=300&X-Amz-Signature=2eff5989238e9e696be9efdb6d711e02c5f2b3fa7238de469cca784bf6aac64e&X-Amz-SignedHeaders=host&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoiaHR0cHM6Ly9yZXBvc2l0b3J5LWltYWdlcy5naXRodWJ1c2VyY29udGVudC5jb20vIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NTY1NTgwNywibmJmIjoxNzg1NjU1NTA3LCJwYXRoIjoicmVwb3NpdG9yeS1pbWFnZXMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIn0.xaLdiD9vBy3CI-IJ1RbUmCK6FU1antJ0lz6ZeoTMsg8"
-        },
-        {
-          "title": "Coldcard Bitcoin Thief Likely Used Top Blockchain Services Provider: Report",
-          "description": "Experts have since said that those holding Bitcoin on a Coldcard device should move funds now. Since over $70 million in Bitcoin was stolen yesterday by an attack that exploited a fault in the Coldcard’s system, it has been reported that the thief used a top …",
-          "url": "https://freerepublic.com/focus/f-chat/4390213/posts",
-          "source": "Freerepublic.com",
-          "published": "2026-08-01T20:41:07Z",
-          "image": null
-        },
-        {
           "title": "Efficient design of blockchain-based electronic health record systems with federated learning, off-chain storage, and zk-rollup parallelism for minimizing transaction costs",
           "description": "Scientific Reports - Efficient design of blockchain-based electronic health record systems with federated learning, off-chain storage, and zk-rollup parallelism for minimizing transaction costs",
           "url": "https://www.nature.com/articles/s41598-026-62785-9.pdf",
           "source": "Nature.com",
           "published": "2026-08-01T00:00:00Z",
           "image": null
-        },
-        {
-          "title": "Best Crypto Tokens Under $1 to Buy in August 2026 Before the Next Altcoin Rally",
-          "description": "By August, investors are looking beyond Bitcoin and Ethereum and towards tokens with higher upside potential. Low token prices alone are not an indication of...\nThe post Best Crypto Tokens Under $1 to Buy in August 2026 Before the Next Altcoin Rally appeared …",
-          "url": "https://bitcoinfoundation.org/news/altcoins/best-crypto-tokens-under-1-to-buy-in-august-2026-before-the-next-altcoin-rally/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-07-31T12:09:55Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/0001-1785491198.webp"
         },
         {
           "title": "A National Health Authority, Live and Verifiable on IOTA",
@@ -242,14 +202,6 @@
           "source": "Antaranews.com",
           "published": "2026-07-28T07:43:53Z",
           "image": "https://cdn.antaranews.com/cache/1200x800/2026/07/28/Image_2-2.jpg"
-        },
-        {
-          "title": "Circle Buys IBM Blockchain Patent Estate—And Becomes America's Biggest Holder",
-          "description": "The USDC issuer acquired nearly 1,000 patents from IBM in a single deal, but IBM is still backing USDC's most dangerous rival.",
-          "url": "https://decrypt.co/374388/circle-ibm-blockchain-patent-estate",
-          "source": "Decrypt",
-          "published": "2026-07-27T15:35:25Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/USDC-decrypt-style-07-gID_7.png"
         }
       ]
     },
@@ -263,12 +215,20 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Asteroid mining gets sold as a trillion-dollar gold rush, but the economics point the other way: hauling platinum back to Earth would crash its price, so the only prize that adds up is mining water and burning it as fuel in space",
-              "description": "The trillion-dollar asteroid fortune collapses the moment you do the math on bringing platinum home.\nThe post Asteroid mining gets sold as a trillion-dollar gold rush, but the economics point the other way: hauling platinum back to Earth would crash its price…",
-              "url": "https://spacedaily.com/t-asteroid-mining-gets-sold-as-a-trillion-dollar-gold-rush-but-the-economics-point-the-other-way-hauling-platinum-back-to-earth-would-crash-its-price-so-the-only-prize-that-adds-up-is-mining-water-and/",
-              "source": "Space Daily",
-              "published": "2026-08-02T04:26:42Z",
-              "image": "https://spacedaily.com/wp-content/uploads/2026/08/asteroid-mining-spacecraft.jpg"
+              "title": "Crypto treasury firm ZeroStack warns of survival risk amid $82.5M loss",
+              "description": "The Nasdaq-listed company relies largely on staking rewards to fund operations, while its 0G holdings were valued 91% below their recorded costs.",
+              "url": "https://cointelegraph.com/news/zerostack-survival-risk-82m-crypto-loss",
+              "source": "Cointelegraph",
+              "published": "2026-08-03T07:15:56Z",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/hi-company-buys-ethereum-expands-treasury-to-thousands-eth.png"
+            },
+            {
+              "title": "XRP Ledger v3.3.0 Release Brings Five Amendments Into Focus",
+              "description": "XRP Ledger v3.3.0 Release Brings Five Amendments Into Focus - Read the full analysis on Bitcoinist.",
+              "url": "https://bitcoinist.com/xrp-ledger-v3-3-0-release-brings-five-amendments-into-focus/",
+              "source": "Bitcoinist",
+              "published": "2026-08-03T03:10:00Z",
+              "image": "https://bitcoinist.com/wp-content/uploads/2026/06/xrp.png"
             },
             {
               "title": "There's a New Way to Protect Bitcoin From Future Quantum Attacks, Researchers Say",
@@ -307,14 +267,6 @@
               "source": "SiliconANGLE News",
               "published": "2026-07-30T22:24:03Z",
               "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/coinbasephoto.jpeg"
-            },
-            {
-              "title": "DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware",
-              "description": "Threat actors with ties to North Korea have been attributed to a sophisticated macOS malvertising campaign that involves redirecting users to fake web pages displaying a full-screen non-existent update sequence to deliver malware as part of a new iteration of…",
-              "url": "https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html",
-              "source": "Internet",
-              "published": "2026-07-30T18:18:24Z",
-              "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCHbm6QCC9jjGwa-7P1N2PwhDjRvpC2hlS2hl09-DUZa5xdDeHt9qH1zISepl2ERqDzmDbdQ_zfE2vkHDsvE7G8QsetJHjzC45DpPr5-83lc1BGaLHfEwMfdYEA04d5xc7GL02_qkz1HjhIenSKBWF0FZqHnICaLn9agLEoEGnnN2n-smXxYFuQQaYNd8A/s1700-e365/all-secure.jpg"
             },
             {
               "title": "Circle Just Bought IBM’s Blockchain Patent Portfolio. The Real Test Is How It Gets Deployed",
