@@ -1,11 +1,27 @@
 {
-  "date": "August 04, 2026",
+  "date": "August 05, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "SuperVega launches options trading in public beta on Starknet",
+          "description": "SuperVega's launch on Starknet could enhance the network's derivatives ecosystem, potentially attracting more traders and boosting liquidity.\nThe post SuperVega launches options trading in public beta on Starknet appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/supervega-options-trading-starknet-beta/",
+          "source": "Crypto Briefing",
+          "published": "2026-08-03T16:35:55Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/03123549/starknet-vision-800x420.png"
+        },
+        {
+          "title": "Top New Crypto Coins of August 2026 Ranked by Potential",
+          "description": "In August 2026, there are a large number of new crypto coins launched in the form of tokens, IDOs, or listings on exchange․ Most cryptocurrencies...\nThe post Top New Crypto Coins of August 2026 Ranked by Potential appeared first on Bitcoin Foundation.",
+          "url": "https://bitcoinfoundation.org/news/opinion/top-new-crypto-coins-of-august-2026-ranked-by-potential/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-08-03T15:24:08Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/08/1-2-1785748006.webp"
+        },
         {
           "title": "XRP Ledger 3.3.0 to launch next week with five amendments including revived Batch feature",
           "description": "The XRP Ledger's upgrade could enhance transaction security and flexibility, potentially boosting institutional adoption and regulatory compliance.\nThe post XRP Ledger 3.3.0 to launch next week with five amendments including revived Batch feature appeared fir…",
@@ -47,28 +63,12 @@
           "image": "https://s3-images.ctmedia.io/media/article-covers/hi-aave-survived-845b-in-withdrawals-but-the-risk-debate-is-not-over.jpg"
         },
         {
-          "title": "Aave to exit Sonic, Scroll, Aptos, and three other blockchain markets affecting $98 million in supplied assets",
-          "description": "Aave is moving to deprecate 50 low adoption reserves and wind down six deployments covering $98.1 million in supply and $15.6 million in debt.\nThe post Aave to exit Sonic, Scroll, Aptos, and three other blockchain markets affecting $98 million in supplied ass…",
-          "url": "https://cryptobriefing.com/aave-to-exit-sonic-scroll-aptos-and-three-other-blockchain-markets-affecting-98-million-in-supplied-assets/",
-          "source": "Crypto Briefing",
-          "published": "2026-07-30T15:15:07Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/30111249/aave-e1785424382124-800x451.png"
-        },
-        {
           "title": "The economics behind Aave proposal to ditch 6 chains that earn loose change in revenue",
           "description": "The economics behind Aave proposal to ditch 6 chains that earn loose change in revenue\nA governance proposal would shut deployments on Sonic, Scroll, zkSync, Metis, Soneium and Aptos, and retire 50 asset markets elsewhere. Deposits on some have fallen more th…",
           "url": "https://biztoc.com/x/013e32bee12c1ee4",
           "source": "Biztoc.com",
           "published": "2026-07-30T15:08:55Z",
           "image": "https://biztoc.com/cdn/013e32bee12c1ee4_s.webp"
-        },
-        {
-          "title": "MEXC Lists Grvt (GRVT) with $60k Worth of GRVT and 10,000 USDT in Airdrop+ Rewards",
-          "description": "Mutsamudu, Comoros, July 30, 2026 – MEXC, a pioneer in 0-fee digital asset trading, will list Grvt (GRVT) in the Innovation Zone, with the GRVT/USDT pair opening at 12:00 (UTC) and the GRVT/USDC pair opening at 12:20 (UTC) on July 30, 2026. To mark the listin…",
-          "url": "https://zycrypto.com/mexc-lists-grvt-grvt-with-60k-worth-of-grvt-and-10000-usdt-in-airdrop-rewards/",
-          "source": "ZyCrypto",
-          "published": "2026-07-30T12:57:07Z",
-          "image": "https://zycrypto.com/wp-content/uploads/2026/07/MEXC-Lists-Grvt-GRVT-with-60k-Worth-of-GRVT-and-10000-USDT-in-Airdrop-Rewards.jpg"
         }
       ]
     },
@@ -101,68 +101,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "CLARITY Act Countdown: Senate Has Days to Save Landmark Crypto Bill Before Recess",
-          "description": "The Senate has limited time to vote on the Digital Asset Market Clarity Act before Senators leave Washington to return to their home states for...\nThe post CLARITY Act Countdown: Senate Has Days to Save Landmark Crypto Bill Before Recess appeared first on Bit…",
-          "url": "https://bitcoinfoundation.org/news/regulation/clarity-act-countdown-senate-has-days-to-save-landmark-crypto-bill-before-recess/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-08-03T07:39:00Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/08/1-2.webp"
+          "title": "XRP holders can now borrow RLUSD on Ethereum through $280 million lending pool",
+          "description": "XRP holders can now borrow RLUSD against their coins on Ethereum without selling, through a $280 million vault that had never accepted an XRP-linked asset before.",
+          "url": "https://www.coindesk.com/markets/2026/08/04/flare-s-wrapped-xrp-wins-approval-in-a-usd280-million-rlusd-lending-vault",
+          "source": "CoinDesk",
+          "published": "2026-08-04T06:12:20Z",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/bf2fb64bb4bc73cd9c7a9df82a875d8bcc7a78a8-1440x1080.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75"
         },
         {
-          "title": "Binance to Launch Commodity Options on Gold and Silver",
-          "description": "Building on strong demand for commodity perpetuals, Binance adds another layer to its TradFi ecosystem with compliant, crypto-native options on core macro assets",
-          "url": "https://www.thehindubusinessline.com/brandhub/pr-release/binance-to-launch-commodity-options-on-gold-and-silver/article71289112.ece",
-          "source": "BusinessLine",
-          "published": "2026-08-03T07:03:01Z",
-          "image": "https://bl-i.thgim.com/public/incoming/93jp4e/article71289114.ece/alternates/LANDSCAPE_1200/Screenshot%202026-07-31%20at%209.43.39%E2%80%AFAM.png"
-        },
-        {
-          "title": "Coldcard’s 5-year flaw reveals hardware wallet testing gap: Kraken’s security chief",
-          "description": "The five-year bug escaped detection because auditors verified that the intended random number generator existed, but not that it was being called.",
-          "url": "https://cointelegraph.com/news/coldcards-5-year-flaw-reveals-hardware-wallet-testing-gap-krakens-security-chief",
+          "title": "Malaysia Blockchain Week’s OnlyFans scandal, lonely heart scammed for $3.3M: Asia Express",
+          "description": "Malaysia Blockchain Week meltdown over OnlyFans linked after-party, pig butchering scams net $9M in a week in Hong Kong and more. The week’s top crypto news in Asia Express.",
+          "url": "https://cointelegraph.com/magazine/hong-kong-lonely-heart-scammed-out-of-33m-in-crypto-asia-express",
           "source": "Cointelegraph",
-          "published": "2026-08-03T04:09:44Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-wallets-btc-wallet-inaccessible.jpg"
+          "published": "2026-08-04T02:03:26Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/asia-express-7.jpg"
         },
         {
-          "title": "South Korean stablecoin outflows top $367M in June: Report",
-          "description": "Stablecoins have been flowing out of South Korean exchanges for 18 consecutive months as regulators weigh tighter oversight of cross-border crypto activity.",
-          "url": "https://cointelegraph.com/news/south-korea-stablecoin-outflows-overseas-exchanges",
-          "source": "Cointelegraph",
-          "published": "2026-08-03T04:05:11Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/lost-bitcoins-crypto-hack-hacking-falling-jeans-south-korea.png"
+          "title": "CBN pivots Nigeria toward regulated digital asset market",
+          "description": "The CBN is set to regulate Nigeria’s digital asset market, including cryptocurrencies and stablecoins, under a new framework to foster growth and protect c\n\nRead More: https://punchng.com/cbn-pivots-nigeria-toward-regulated-digital-asset-market/",
+          "url": "https://punchng.com/cbn-pivots-nigeria-toward-regulated-digital-asset-market/",
+          "source": "The Punch",
+          "published": "2026-08-04T00:40:46Z",
+          "image": "https://punchng.com/wp-content/uploads/2026/06/PHOTO-2026-06-15-01-17-35.webp"
         },
         {
-          "title": "Uniswap Crypto Price Prediction: Can UNI Hit $100 as Wall Street Bets Big on DeFi?",
-          "description": "The latest Uniswap crypto price prediction has gained credibility after one of the biggest institutional developments in decentralized finance. BlackRock’s BUIDL fund is now available...\nThe post Uniswap Crypto Price Prediction: Can UNI Hit $100 as Wall Stree…",
-          "url": "https://bitcoinfoundation.org/news/analysis/uniswap-crypto-price-prediction-can-uni-hit-100-as-wall-street-bets-big-on-defi/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-08-02T11:51:59Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/uni-1.webp"
+          "title": "Mastercard Completes BVNK Acquisition: The Network Becomes the Bridge",
+          "description": "Mastercard finally closed its acquisition of London-based stablecoin infrastructure provider BVNK on August 3, 2026. If you have ever wondered what happens when the plumbing of global finance decides to move inside the house, this is your answer. It is not ju…",
+          "url": "https://forkast.news/mastercard-completes-bvnk-acquisition-the-network-becomes-the-bridge/",
+          "source": "Forkast.news",
+          "published": "2026-08-04T00:35:57Z",
+          "image": "https://forkast.news/wp-content/uploads/2026/08/mastercard-bvnk-acquisition-closes-1024x572.jpg"
         },
         {
-          "title": "The sudden collapse of a $20 billion AI fund reveals why Bitcoin is the first thing Wall Street sells when margin calls hit",
-          "description": "A $20 billion AI hedge fund gained 439% through June, lost roughly two-thirds of its value in July, and sold most of a $16 billion public-stock portfolio as leverage turned against it. The collapse offers a warning for Bitcoin: when Wall Street needs cash qui…",
-          "url": "https://cryptoslate.com/wall-streets-ai-margin-calls-are-here-is-bitcoin-the-next-source-of-cash/",
-          "source": "CryptoSlate",
-          "published": "2026-08-02T11:40:06Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/08/stressed-investor-ai-stocks-bitcoin-selloff.jpg"
+          "title": "DeFi Technologies Announces Shareholder Call to Discuss Q2 2026 Financial Results",
+          "description": "TORONTO, Aug. 3, 2026 /PRNewswire/ -- DeFi Technologies Inc. (the \"Company\" or \"DeFi Technologies\") (Nasdaq: DEFT) (CBOE CA: DEFI) (GR: R9B), a financial technology company bridging the gap between traditional capital markets and decentralized finance (\"DeFi\"…",
+          "url": "https://www.prnewswire.com/news-releases/defi-technologies-announces-shareholder-call-to-discuss-q2-2026-financial-results-302841606.html",
+          "source": "PRNewswire",
+          "published": "2026-08-03T20:28:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS1596609/DeFi-Technologies-Inc-DeFi-Technologies-Announces-Shareholder-C.jpg?id=OA2822615&p=facebook"
         },
         {
-          "title": "Delhi Lakshmi Yojana online portal launched — Check who can apply",
-          "description": "Appealing to eligible women to register online from August 1, Gupta said the portal would enable applicants to submit forms, upload documents and choose their preferred financial option by linking either a CBDC wallet or a bank account with the scheme.",
-          "url": "https://www.livemint.com/money/personal-finance/delhi-lakshmi-yojana-online-portal-launched-check-who-can-apply-11785592509604.html",
-          "source": "Livemint",
-          "published": "2026-08-01T14:31:24Z",
-          "image": "https://www.livemint.com/lm-img/img/2026/08/01/1600x900/logo/ANI-20260801208-0_1785592529436_1785592819680_10f151b8-12b1-41e9-80ac-5545e6ff9673.jpg"
+          "title": "Beeline Signs LOI to Acquire TYTL, Expanding into Blockchain-Based Residential Equity",
+          "description": "The proposed all-stock transaction offers Beeline a no-lien, debt-free alternative to HELOCs and cash-out refinances targeting an estimated $1 trillion addressable market",
+          "url": "https://www.globenewswire.com/news-release/2026/08/03/3337888/0/en/Beeline-Signs-LOI-to-Acquire-TYTL-Expanding-into-Blockchain-Based-Residential-Equity.html",
+          "source": "GlobeNewswire",
+          "published": "2026-08-03T20:14:00Z",
+          "image": "https://ml.globenewswire.com/Resource/Download/67c44b84-f874-46c4-baa6-fae3112a5afe"
         },
         {
-          "title": "Chainlink partners with Swift, UBS, and Euroclear to tackle $58B AI risk in corporate actions",
-          "description": "Chainlink's collaboration with major financial entities could revolutionize corporate actions processing, reducing costs and enhancing data accuracy.\nThe post Chainlink partners with Swift, UBS, and Euroclear to tackle $58B AI risk in corporate actions appear…",
-          "url": "https://cryptobriefing.com/chainlink-swift-ubs-euroclear-ai-corporate-actions/",
-          "source": "Crypto Briefing",
-          "published": "2026-08-01T13:06:20Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/01090614/chainlink-partners-with-swift-ubs-and-euroclear-to-tackle-58-800x420.jpeg"
+          "title": "How does the market regard stablecoins?",
+          "description": "We study the demand for safety and liquidity in the crypto ecosystem. We do so under a framework in which a representative investor allocates liquidity across stablecoin deposits in lending pools and traditional safe assets (e.g., MMF shares). Our model deliv…",
+          "url": "https://biztoc.com/x/c93e5e07506bb2e3",
+          "source": "Biztoc.com",
+          "published": "2026-08-03T19:15:11Z",
+          "image": "https://biztoc.com/cdn/c93e5e07506bb2e3_s.webp"
+        },
+        {
+          "title": "BlackRock Intros Pair of Tokenized Money Market Offerings",
+          "description": "BlackRock says it is expanding its cash management strategy with two new tokenized money market products. The new offerings are dubbed OnChain Shares of the BlackRock Select Treasury Based Liquidity Fund (BSTBL) and the BlackRock Daily Reinvestment Stablecoin…",
+          "url": "https://www.pymnts.com/blockchain/2026/blackrock-intros-pair-of-tokenized-money-market-offerings/",
+          "source": "pymnts.com",
+          "published": "2026-08-03T19:09:20Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2024/12/BlackRock.jpg"
         }
       ]
     },
@@ -172,6 +172,38 @@
       "color": "#00cc88",
       "articles": [
         {
+          "title": "Energy-efficient and secure routing in IoMT using FG-WHO-BWOA optimization with blockchain techniques",
+          "description": "Scientific Reports - Energy-efficient and secure routing in IoMT using FG-WHO-BWOA optimization with blockchain techniques",
+          "url": "https://www.nature.com/articles/s41598-026-53750-7.pdf",
+          "source": "Nature.com",
+          "published": "2026-08-04T00:00:00Z",
+          "image": null
+        },
+        {
+          "title": "XRP Holders Can Now Borrow Ripple's RLUSD on Ethereum Without Selling Their Crypto",
+          "description": "Flare's FXRP has been approved as collateral in a $280 million RLUSD lending vault, allowing XRP holders to tap Ethereum's lending markets.",
+          "url": "https://decrypt.co/374862/xrp-holders-borrow-ripple-rlusd-ethereum-without-selling",
+          "source": "Decrypt",
+          "published": "2026-08-03T17:51:03Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/xrp-decrypt-style-whatever-number-it-is-1-gID_7.jpg"
+        },
+        {
+          "title": "What the Agentic Economy Inherited From Crypto — And What It Left Behind",
+          "description": "Disclosure: Forkast is a mind-run newsroom. Animoca Minds is powered by Ethoswarm, the same protocol that underpins our own operations. We cover these developments on their merits. When Yat Siu looks at the gaming non-player characters that populated Animoca …",
+          "url": "https://forkast.news/what-the-agentic-economy-inherited-from-crypto-and-what-it-left-behind/",
+          "source": "Forkast.news",
+          "published": "2026-08-03T14:06:29Z",
+          "image": "https://forkast.news/wp-content/uploads/2026/08/what-the-agentic-economy-inherited-from-crypto-1024x572.jpg"
+        },
+        {
+          "title": "Public or Private Blockchains: Where Is Wall Street Building?",
+          "description": "Wall Street has embraced tokenization like no other trend of crypto. The total RWA market has now crossed over $37 billion but one debate continues to shape...",
+          "url": "https://coingape.com/block-of-fame/pulse/public-or-private-blockchains-where-is-wall-street-building/",
+          "source": "Coingape",
+          "published": "2026-08-03T10:10:02Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/84E0F37A834380EBF588E08D558E5888A298351DF1E201C65B9EF3AAAF652460/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcoingape_360%2F470b2506b8959d95907db83969885012"
+        },
+        {
           "title": "Efficient design of blockchain-based electronic health record systems with federated learning, off-chain storage, and zk-rollup parallelism for minimizing transaction costs",
           "description": "Scientific Reports - Efficient design of blockchain-based electronic health record systems with federated learning, off-chain storage, and zk-rollup parallelism for minimizing transaction costs",
           "url": "https://www.nature.com/articles/s41598-026-62785-9.pdf",
@@ -180,28 +212,20 @@
           "image": null
         },
         {
+          "title": "Best Crypto Tokens Under $1 to Buy in August 2026 Before the Next Altcoin Rally",
+          "description": "By August, investors are looking beyond Bitcoin and Ethereum and towards tokens with higher upside potential. Low token prices alone are not an indication of...\nThe post Best Crypto Tokens Under $1 to Buy in August 2026 Before the Next Altcoin Rally appeared …",
+          "url": "https://bitcoinfoundation.org/news/altcoins/best-crypto-tokens-under-1-to-buy-in-august-2026-before-the-next-altcoin-rally/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-07-31T12:09:55Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/0001-1785491198.webp"
+        },
+        {
           "title": "A National Health Authority, Live and Verifiable on IOTA",
           "description": "How INCUCAI and Extrimian Put Argentina's Transplant System Onchain\n\n\n\n\nTL;DR:\n\n\nIOTA and Latin American decentralized-identity company Extrimian have put Argentina’s national organ, tissue, and cell donation and transplantation authority INCUCAI and its 24 p…",
           "url": "https://blog.iota.org/extrimian-incucai-iota/",
           "source": "Iota.org",
           "published": "2026-07-30T13:00:38Z",
           "image": "https://blog.iota.org/content/images/size/w1200/2026/07/-2555-Extrimian-INCUCAI-16x9-1.png"
-        },
-        {
-          "title": "MindWave Innovations Inc., a Wholly Owned Subsidiary of Apimeds Pharmaceuticals US, Inc., Announces MindChain: World’s First Fully Insured Blockchain, Launching in October",
-          "description": "NILA token also becomes available to US users on Webot, a licensed US exchange, beginning August 3 MATAWAN, New Jersey, and GEORGE TOWN, Cayman Islands, July 28, 2026 (GLOBE NEWSWIRE) — via IBN — MindWave Innovations Inc., a wholly owned subsidiary of Apimeds…",
-          "url": "https://financialpost.com/globe-newswire/mindwave-innovations-inc-a-wholly-owned-subsidiary-of-apimeds-pharmaceuticals-us-inc-announces-mindchain-worlds-first-fully-insured-blockchain-launching-in-october",
-          "source": "Financial Post",
-          "published": "2026-07-28T12:34:54Z",
-          "image": null
-        },
-        {
-          "title": "Synagie Unveils Geene 2.0 - BytePlus, SingData and FLY Entertainment Among 12 Founding Partners Building Trusted AI",
-          "description": "Co-developed by leaders across AI, data, media, commerce and blockchain, the Trusted AI Commerce Intelligence Ecosystem gives enterprises a practical way to ...",
-          "url": "https://en.antaranews.com/news/424265/synagie-unveils-geene-20-byteplus-singdata-and-fly-entertainment-among-12-founding-partners-building-trusted-ai",
-          "source": "Antaranews.com",
-          "published": "2026-07-28T07:43:53Z",
-          "image": "https://cdn.antaranews.com/cache/1200x800/2026/07/28/Image_2-2.jpg"
         }
       ]
     },
@@ -215,20 +239,12 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Crypto treasury firm ZeroStack warns of survival risk amid $82.5M loss",
-              "description": "The Nasdaq-listed company relies largely on staking rewards to fund operations, while its 0G holdings were valued 91% below their recorded costs.",
-              "url": "https://cointelegraph.com/news/zerostack-survival-risk-82m-crypto-loss",
-              "source": "Cointelegraph",
-              "published": "2026-08-03T07:15:56Z",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/hi-company-buys-ethereum-expands-treasury-to-thousands-eth.png"
-            },
-            {
-              "title": "XRP Ledger v3.3.0 Release Brings Five Amendments Into Focus",
-              "description": "XRP Ledger v3.3.0 Release Brings Five Amendments Into Focus - Read the full analysis on Bitcoinist.",
-              "url": "https://bitcoinist.com/xrp-ledger-v3-3-0-release-brings-five-amendments-into-focus/",
-              "source": "Bitcoinist",
-              "published": "2026-08-03T03:10:00Z",
-              "image": "https://bitcoinist.com/wp-content/uploads/2026/06/xrp.png"
+              "title": "UAE Fintech Boom: Payments, SME Finance and Crypto Firms Drive Growth - On: Yorkshire Magazine",
+              "description": "UAE fintech is accelerating through payments innovation, cross-border partnerships, SME funding solutions and crypto sector growth.",
+              "url": "https://www.on-magazine.co.uk/business/finance/uae-fintech-boom-payments-sme-finance-and-crypto-firms-drive-growth/",
+              "source": "On-magazine.co.uk",
+              "published": "2026-08-04T03:17:57Z",
+              "image": "https://www.on-magazine.co.uk/wp-content/uploads/UAE-Fintech-Boom-Payments-SME-Finance-and-Crypto-Firms-Drive-Growth.jpg"
             },
             {
               "title": "There's a New Way to Protect Bitcoin From Future Quantum Attacks, Researchers Say",
@@ -245,36 +261,36 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "Circle’s NYDFS Trust Charter Completes a Regulatory Depth Moat No Other Stablecoin Issuer Can Match",
-              "description": "The stablecoin wars are currently bifurcating into two distinct strategic architectures: the scale-at-all-costs model and the regulatory depth moat. While the Open USD consortium—a coalition of 140-plus members including Visa, Mastercard, Stripe, BlackRock, a…",
-              "url": "https://forkast.news/circles-nydfs-trust-charter-completes-a-regulatory-depth-moat-no-other-stablecoin-issuer-can-match/",
-              "source": "Forkast.news",
-              "published": "2026-07-31T19:57:53Z",
-              "image": "https://forkast.news/wp-content/uploads/2026/07/circles-nydfs-trust-charter-completes-a-regulatory-depth-moat-no-other-stablecoin-issuer-can-match-1024x572.jpg"
+              "title": "'Generative AI is already changing what malicious software packages look like and how threat actors are beginning to probe AI-based code systems': Amazon flags North Korean hacker group as being behind the surge in open source supply chain attacks",
+              "description": "Amazon linked a North Korean hacking group to software supply chain attacks while warning generative AI is changing malware development techniques.",
+              "url": "https://www.techradar.com/pro/security/amazon-flags-a-north-korean-hacker-group-as-being-behind-the-surge-in-open-source-supply-chain-attacks",
+              "source": "TechRadar",
+              "published": "2026-08-03T21:10:00Z",
+              "image": "https://cdn.mos.cms.futurecdn.net/kDLU9By5uaPPbwrbfEaZFJ-2560-80.jpg"
             },
             {
-              "title": "Bitcoin trades near $64K; key support seen at $63,800-$64,000 amid Fed uncertainty",
-              "description": "Bitcoin traded near $64,000 on Friday, holding largely steady over the past 24 hours as softer US inflation data offset concerns over the Federal Reserve’s hawkish stance. Ethereum slipped 0.93%, while Bitcoin eased 0.10%. Among major altcoins, XRP, Solana an…",
-              "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-trades-near-64k-key-support-seen-at-63800-64000-amid-fed-uncertainty/articleshow/132764733.cms",
-              "source": "The Times of India",
-              "published": "2026-07-31T10:39:40Z",
-              "image": "https://img.etimg.com/thumb/msid-132764733,width-1200,height-630,imgsize-291142,overlay-etmarkets/articleshow.jpg"
+              "title": "N. Korea Group Behind Multiple Open Source Supply-Chain Attacks: Amazon",
+              "description": "Amazon’s recent report attributing a series of compromises of open source software libraries to a North Korea-backed threat group encapsulates many of the expanding cyber risks increasingly facing developers, from the growing use of generative AI by bad actor…",
+              "url": "https://devops.com/n-korea-group-behind-multiple-open-source-supply-chain-attacks-amazon/",
+              "source": "DevOps.com",
+              "published": "2026-08-03T20:37:06Z",
+              "image": "https://devops.com/wp-content/uploads/2026/08/north-korea-open-source-supply-chain-770x330-1.jpg"
             },
             {
-              "title": "Coinbase shares slide as revenue and earnings miss despite record market share",
-              "description": "Shares in Coinbase Global Inc. fell more than 5% in extended trading today after the cryptocurrency exchange missed Wall Street targets on both revenue and earnings, with falling token prices and multi-year lows in volatility gutting its trading business. For…",
-              "url": "https://siliconangle.com/2026/07/30/coinbase-shares-slide-revenue-earnings-miss-despite-record-market-share/",
-              "source": "SiliconANGLE News",
-              "published": "2026-07-30T22:24:03Z",
-              "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/coinbasephoto.jpeg"
+              "title": "US hints at more yen intervention: Five things to know in Bitcoin this week",
+              "description": "Oil prices tumble as Trump signals a possible Iran deal, while Bitcoin traders eye nonfarm payrolls, yen intervention fallout, and the ongoing Coldcard wallet exploit. Here’s what’s moving crypto markets this week.",
+              "url": "https://cointelegraph.com/markets/us-hints-at-more-yen-intervention-five-things-to-know-in-bitcoin-this-week",
+              "source": "Cointelegraph",
+              "published": "2026-08-03T14:11:26Z",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-27742-btc-eth-dai-cross-chain-atomic-swaps-launched-by-liquality-on-mainnet.jpg"
             },
             {
-              "title": "Circle Just Bought IBM’s Blockchain Patent Portfolio. The Real Test Is How It Gets Deployed",
-              "description": "Circle Internet Group (CRCL) just gave investors a reason to ask a bigger question than “What is it buying?” and instead, “What can it build with it?”\nThe company’s new acquisition of International Business Machine’s (IBM) blockchain patent portfolio adds mor…",
-              "url": "https://biztoc.com/x/1dbf296fbda442e1",
-              "source": "Biztoc.com",
-              "published": "2026-07-30T14:08:47Z",
-              "image": "https://biztoc.com/cdn/1dbf296fbda442e1_s.webp"
+              "title": "Circle bought 1,000 IBM blockchain patents. Nothing good can come of that",
+              "description": "Circle has yet to share its plans for the IP portfolio, but the power to assert monopoly rights in the blockchain space is worrying.",
+              "url": "https://fortune.com/2026/08/03/circle-bought-1000-ibm-blockchain-patents/",
+              "source": "Fortune",
+              "published": "2026-08-03T10:58:39Z",
+              "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2260125259.jpg?resize=1200,600"
             }
           ]
         }
