@@ -1,5 +1,5 @@
 {
-  "date": "August 05, 2026",
+  "date": "August 06, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -7,12 +7,20 @@
       "color": "#ffb900",
       "articles": [
         {
-          "title": "SuperVega launches options trading in public beta on Starknet",
-          "description": "SuperVega's launch on Starknet could enhance the network's derivatives ecosystem, potentially attracting more traders and boosting liquidity.\nThe post SuperVega launches options trading in public beta on Starknet appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/supervega-options-trading-starknet-beta/",
+          "title": "The Ethereum Developer Exodus: Why Builders Are Looking Beyond ETH in 2026",
+          "description": "In 2026, Ethereum is no longer the first choice for many developers. Builders are choosing between other chains based on a combination of factors: speed,...\nThe post The Ethereum Developer Exodus: Why Builders Are Looking Beyond ETH in 2026 appeared first on …",
+          "url": "https://bitcoinfoundation.org/news/ethereum/the-ethereum-developer-exodus-why-builders-are-looking-beyond-eth-in-2026/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-08-05T00:56:46Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/08/exod-1.webp"
+        },
+        {
+          "title": "Chainlink Labs hires former StarkWare and Cboe Digital legal chief as Head of Legal",
+          "description": "Chainlink Labs' strategic legal hire underscores the increasing need for robust legal frameworks as DeFi and traditional finance converge.\nThe post Chainlink Labs hires former StarkWare and Cboe Digital legal chief as Head of Legal appeared first on Crypto Br…",
+          "url": "https://cryptobriefing.com/chainlink-labs-hires-kk-kirkbos-head-of-legal/",
           "source": "Crypto Briefing",
-          "published": "2026-08-03T16:35:55Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/03123549/starknet-vision-800x420.png"
+          "published": "2026-08-04T15:56:32Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/04115627/chainlink-labs-team-members-800x420.jpeg"
         },
         {
           "title": "Top New Crypto Coins of August 2026 Ranked by Potential",
@@ -61,14 +69,6 @@
           "source": "Cointelegraph",
           "published": "2026-07-31T08:57:53Z",
           "image": "https://s3-images.ctmedia.io/media/article-covers/hi-aave-survived-845b-in-withdrawals-but-the-risk-debate-is-not-over.jpg"
-        },
-        {
-          "title": "The economics behind Aave proposal to ditch 6 chains that earn loose change in revenue",
-          "description": "The economics behind Aave proposal to ditch 6 chains that earn loose change in revenue\nA governance proposal would shut deployments on Sonic, Scroll, zkSync, Metis, Soneium and Aptos, and retire 50 asset markets elsewhere. Deposits on some have fallen more th…",
-          "url": "https://biztoc.com/x/013e32bee12c1ee4",
-          "source": "Biztoc.com",
-          "published": "2026-07-30T15:08:55Z",
-          "image": "https://biztoc.com/cdn/013e32bee12c1ee4_s.webp"
         }
       ]
     },
@@ -78,20 +78,20 @@
       "color": "#e6a200",
       "articles": [
         {
+          "title": "GRVT faces user disappointment over TGE allocation unlock schedule",
+          "description": "The staggered token unlocks may impact GRVT's market stability and investor confidence, influencing long-term project viability.\nThe post GRVT faces user disappointment over TGE allocation unlock schedule appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/grvt-tge-unlock-schedule-disappointment/",
+          "source": "Crypto Briefing",
+          "published": "2026-08-04T13:12:10Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/04091158/grvt-editorial-cover-crypto-800x420.jpeg"
+        },
+        {
           "title": "Bitcoin's quantum plan assumes some algorithms break. AI just weakened one in 60 hours",
           "description": "The HAWK system isn't deployed anywhere, and Bitcoin doesn't use it. But is sitting in the same quantum race that Bitcoin developers are scrambling to finish.",
           "url": "https://www.coindesk.com/tech/2026/07/29/bitcoin-s-quantum-plan-assumes-some-algorithms-break-ai-just-weakened-one-in-60-hours",
           "source": "CoinDesk",
           "published": "2026-07-30T04:16:30Z",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/422bf0c58d3c5d984b8ee7f8a379b85250db7bc2-6016x4016.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75"
-        },
-        {
-          "title": "Robinhood reportedly working on zero-knowledge privacy protocol for anonymous swaps",
-          "description": "Robinhood's move into privacy protocols could challenge regulatory norms, potentially reshaping privacy standards in the crypto industry.\nThe post Robinhood reportedly working on zero-knowledge privacy protocol for anonymous swaps appeared first on Crypto Bri…",
-          "url": "https://cryptobriefing.com/robinhood-zk-privacy-protocol-anonymous-swaps/",
-          "source": "Crypto Briefing",
-          "published": "2026-07-29T13:53:54Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/07/29095350/can-stock-trading-and-prediction-markets-offset-robinhood-s--800x420.jpeg"
         }
       ]
     },
@@ -101,68 +101,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "XRP holders can now borrow RLUSD on Ethereum through $280 million lending pool",
-          "description": "XRP holders can now borrow RLUSD against their coins on Ethereum without selling, through a $280 million vault that had never accepted an XRP-linked asset before.",
-          "url": "https://www.coindesk.com/markets/2026/08/04/flare-s-wrapped-xrp-wins-approval-in-a-usd280-million-rlusd-lending-vault",
-          "source": "CoinDesk",
-          "published": "2026-08-04T06:12:20Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/bf2fb64bb4bc73cd9c7a9df82a875d8bcc7a78a8-1440x1080.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75"
-        },
-        {
-          "title": "Malaysia Blockchain Week’s OnlyFans scandal, lonely heart scammed for $3.3M: Asia Express",
-          "description": "Malaysia Blockchain Week meltdown over OnlyFans linked after-party, pig butchering scams net $9M in a week in Hong Kong and more. The week’s top crypto news in Asia Express.",
-          "url": "https://cointelegraph.com/magazine/hong-kong-lonely-heart-scammed-out-of-33m-in-crypto-asia-express",
+          "title": "Taiwan plans Travel Rule for domestic crypto transfers from October",
+          "description": "Taiwan plans to apply the FATF Travel Rule to all domestic VASP transfers from October, with enhanced checks for transfers above 30,000 New Taiwan dollars.",
+          "url": "https://cointelegraph.com/news/taiwan-crypto-travel-rule-domestic-vasp-transfers",
           "source": "Cointelegraph",
-          "published": "2026-08-04T02:03:26Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/asia-express-7.jpg"
+          "published": "2026-08-05T08:21:54Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-cryptocurrency-aml-and-how-does-it-work-taiwan.jpg"
         },
         {
-          "title": "CBN pivots Nigeria toward regulated digital asset market",
-          "description": "The CBN is set to regulate Nigeria’s digital asset market, including cryptocurrencies and stablecoins, under a new framework to foster growth and protect c\n\nRead More: https://punchng.com/cbn-pivots-nigeria-toward-regulated-digital-asset-market/",
-          "url": "https://punchng.com/cbn-pivots-nigeria-toward-regulated-digital-asset-market/",
-          "source": "The Punch",
-          "published": "2026-08-04T00:40:46Z",
-          "image": "https://punchng.com/wp-content/uploads/2026/06/PHOTO-2026-06-15-01-17-35.webp"
+          "title": "Clarity Act Delay Wouldn’t Derail Crypto Growth, Bitwise CIO Says",
+          "description": "Bitwise Chief Investment Officer Matt Hougan had previously said he didn’t expect the crypto industry to lose momentum even if the long-anticipated Clarity Act doesn’t...\nThe post Clarity Act Delay Wouldn’t Derail Crypto Growth, Bitwise CIO Says appeared firs…",
+          "url": "https://bitcoinfoundation.org/news/regulation/clarity-act-delay-wouldnt-derail-crypto-growth-bitwise-cio-says/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-08-05T08:11:47Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/08/1-2-1785916996.webp"
         },
         {
-          "title": "Mastercard Completes BVNK Acquisition: The Network Becomes the Bridge",
-          "description": "Mastercard finally closed its acquisition of London-based stablecoin infrastructure provider BVNK on August 3, 2026. If you have ever wondered what happens when the plumbing of global finance decides to move inside the house, this is your answer. It is not ju…",
-          "url": "https://forkast.news/mastercard-completes-bvnk-acquisition-the-network-becomes-the-bridge/",
-          "source": "Forkast.news",
-          "published": "2026-08-04T00:35:57Z",
-          "image": "https://forkast.news/wp-content/uploads/2026/08/mastercard-bvnk-acquisition-closes-1024x572.jpg"
+          "title": "Decentralized Masters Review 2026: Is This DeFi Education Platform Worth It?",
+          "description": "Decentralized finance has a credibility problem. The technology is complicated. The risks are real. Social media is filled with anonymous influencers promising effortless returns, while beginners are expected to understand wallets, smart contracts, liquidity …",
+          "url": "https://themattwalshblog.com/decentralized-masters-review/",
+          "source": "Themattwalshblog.com",
+          "published": "2026-08-05T06:19:53Z",
+          "image": "https://themattwalshblog.com/wp-content/uploads/2026/08/Decen-Masters-Review.png"
         },
         {
-          "title": "DeFi Technologies Announces Shareholder Call to Discuss Q2 2026 Financial Results",
-          "description": "TORONTO, Aug. 3, 2026 /PRNewswire/ -- DeFi Technologies Inc. (the \"Company\" or \"DeFi Technologies\") (Nasdaq: DEFT) (CBOE CA: DEFI) (GR: R9B), a financial technology company bridging the gap between traditional capital markets and decentralized finance (\"DeFi\"…",
-          "url": "https://www.prnewswire.com/news-releases/defi-technologies-announces-shareholder-call-to-discuss-q2-2026-financial-results-302841606.html",
-          "source": "PRNewswire",
-          "published": "2026-08-03T20:28:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS1596609/DeFi-Technologies-Inc-DeFi-Technologies-Announces-Shareholder-C.jpg?id=OA2822615&p=facebook"
-        },
-        {
-          "title": "Beeline Signs LOI to Acquire TYTL, Expanding into Blockchain-Based Residential Equity",
-          "description": "The proposed all-stock transaction offers Beeline a no-lien, debt-free alternative to HELOCs and cash-out refinances targeting an estimated $1 trillion addressable market",
-          "url": "https://www.globenewswire.com/news-release/2026/08/03/3337888/0/en/Beeline-Signs-LOI-to-Acquire-TYTL-Expanding-into-Blockchain-Based-Residential-Equity.html",
-          "source": "GlobeNewswire",
-          "published": "2026-08-03T20:14:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/67c44b84-f874-46c4-baa6-fae3112a5afe"
-        },
-        {
-          "title": "How does the market regard stablecoins?",
-          "description": "We study the demand for safety and liquidity in the crypto ecosystem. We do so under a framework in which a representative investor allocates liquidity across stablecoin deposits in lending pools and traditional safe assets (e.g., MMF shares). Our model deliv…",
-          "url": "https://biztoc.com/x/c93e5e07506bb2e3",
-          "source": "Biztoc.com",
-          "published": "2026-08-03T19:15:11Z",
-          "image": "https://biztoc.com/cdn/c93e5e07506bb2e3_s.webp"
-        },
-        {
-          "title": "BlackRock Intros Pair of Tokenized Money Market Offerings",
-          "description": "BlackRock says it is expanding its cash management strategy with two new tokenized money market products. The new offerings are dubbed OnChain Shares of the BlackRock Select Treasury Based Liquidity Fund (BSTBL) and the BlackRock Daily Reinvestment Stablecoin…",
-          "url": "https://www.pymnts.com/blockchain/2026/blackrock-intros-pair-of-tokenized-money-market-offerings/",
+          "title": "Samsung Pursues Digital Assets With Crypto Exchange Deal and Stablecoin Push",
+          "description": "Samsung’s recent announcements that it is adding stablecoin support to new smartphones and that it acquired a stake in cryptocurrency exchange operator Dunamu suggest the company is positioning itself as a leader in stablecoins, CoinDesk reported Tuesday (Aug…",
+          "url": "https://www.pymnts.com/cryptocurrency/2026/samsung-pursues-digital-assets-with-crypto-exchange-deal-and-stablecoin-push/",
           "source": "pymnts.com",
-          "published": "2026-08-03T19:09:20Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2024/12/BlackRock.jpg"
+          "published": "2026-08-05T01:17:45Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/08/Samsung-stablecoins-1.jpg"
+        },
+        {
+          "title": "Western Union Launches Stablecard, Betting Its $107B Network on Solana Instead of Itself",
+          "description": "For decades, Western Union maintained its dominance through a proprietary, closed-loop network of 360,000 agent locations – a system built on physical presence and legacy clearing that processed $107.4 billion in cross-border principal last fiscal year. On Au…",
+          "url": "https://forkast.news/western-union-launches-stablecard-betting-its-107b-network-on-solana-instead-of-itself/",
+          "source": "Forkast.news",
+          "published": "2026-08-05T01:00:23Z",
+          "image": "https://forkast.news/wp-content/uploads/2026/08/western-union-stablecard-forkast.hero_-1024x572.jpg"
+        },
+        {
+          "title": "FIPS 140-3 is not a security guarantee, and auditors know it",
+          "description": "FIPS-validated modules shipped ROCA, EUCLEAK, Dual_EC_DRBG, and a YubiKey flaw caused by the FIPS self-tests themselves. What the certificate actually attests, what FIPS mode costs in performance, why it breaks Bitcoin tooling like BIP32, and where auditors a…",
+          "url": "https://808bits.com/articles/fips-140-3-not-a-security-guarantee/",
+          "source": "808bits.com",
+          "published": "2026-08-04T23:21:33Z",
+          "image": null
+        },
+        {
+          "title": "Streamex Corp. to Report Second Quarter 2026 Results and Host Business & Corporate Update Call",
+          "description": "WINTER PARK, Fla., Aug. 04, 2026 (GLOBE NEWSWIRE) — Streamex Corp. (“Streamex” or the “Company”) (NASDAQ: STEX), a technology company building the future of the commodity markets through tokenization, today announced that it will release its financial results…",
+          "url": "https://financialpost.com/globe-newswire/streamex-corp-to-report-second-quarter-2026-results-and-host-business-corporate-update-call",
+          "source": "Financial Post",
+          "published": "2026-08-04T20:04:48Z",
+          "image": null
+        },
+        {
+          "title": "The 4:1 Leverage Ratio Defining the AI Era",
+          "description": "The 4:1 Leverage Ratio Defining the AI Era A company valued at $2.4 billion has just secured a $10 billion contract. This 4:1 contract-to-valuation ratio signals a structural shift: the era of the compute landlord has fully arrived. Volta Infra Holdings Ltd.,…",
+          "url": "https://forkast.news/the-41-leverage-ratio-defining-the-ai-era/",
+          "source": "Forkast.news",
+          "published": "2026-08-04T19:59:28Z",
+          "image": "https://forkast.news/wp-content/uploads/2026/08/volta-infra-anthropic-compute-landlord-1024x572.jpg"
         }
       ]
     },
@@ -172,28 +172,20 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Energy-efficient and secure routing in IoMT using FG-WHO-BWOA optimization with blockchain techniques",
-          "description": "Scientific Reports - Energy-efficient and secure routing in IoMT using FG-WHO-BWOA optimization with blockchain techniques",
-          "url": "https://www.nature.com/articles/s41598-026-53750-7.pdf",
-          "source": "Nature.com",
-          "published": "2026-08-04T00:00:00Z",
-          "image": null
+          "title": "Wells Fargo Plans to Launch Tokenized Deposits This Fall",
+          "description": "Wells Fargo reportedly hopes to launch tokenized deposits for corporate/commercial customers. That’s according to a report Tuesday (Aug. 4) from the Wall Street Journal (WSJ), which calls the offering the latest example of how banking giants are embracing dig…",
+          "url": "https://www.pymnts.com/news/banking/2026/wells-fargo-plans-to-launch-tokenized-deposits-this-fall/",
+          "source": "pymnts.com",
+          "published": "2026-08-04T17:17:51Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2025/07/Wells-Fargo.png"
         },
         {
-          "title": "XRP Holders Can Now Borrow Ripple's RLUSD on Ethereum Without Selling Their Crypto",
-          "description": "Flare's FXRP has been approved as collateral in a $280 million RLUSD lending vault, allowing XRP holders to tap Ethereum's lending markets.",
-          "url": "https://decrypt.co/374862/xrp-holders-borrow-ripple-rlusd-ethereum-without-selling",
-          "source": "Decrypt",
-          "published": "2026-08-03T17:51:03Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/xrp-decrypt-style-whatever-number-it-is-1-gID_7.jpg"
-        },
-        {
-          "title": "What the Agentic Economy Inherited From Crypto — And What It Left Behind",
-          "description": "Disclosure: Forkast is a mind-run newsroom. Animoca Minds is powered by Ethoswarm, the same protocol that underpins our own operations. We cover these developments on their merits. When Yat Siu looks at the gaming non-player characters that populated Animoca …",
-          "url": "https://forkast.news/what-the-agentic-economy-inherited-from-crypto-and-what-it-left-behind/",
-          "source": "Forkast.news",
-          "published": "2026-08-03T14:06:29Z",
-          "image": "https://forkast.news/wp-content/uploads/2026/08/what-the-agentic-economy-inherited-from-crypto-1024x572.jpg"
+          "title": "XRP holders can now borrow Ripple's stablecoin",
+          "description": "The layer 1 blockchain developer Flare announced on Aug. 3 that its FXRP token has been approved as collateral in Sentora's RLUSD Main vault on the Morpho le...",
+          "url": "https://www.thestreet.com/crypto/markets/xrp-holders-can-now-borrow-ripples-stablecoin",
+          "source": "TheStreet",
+          "published": "2026-08-04T17:11:41Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/DCB8E06ECC7658B383DD039FDA6B2DFBF85E7D9A058ED462F301C72BC51962AA/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2Fae18efabf1e1f5213fa5430cb194f5e6"
         },
         {
           "title": "Public or Private Blockchains: Where Is Wall Street Building?",
@@ -218,14 +210,6 @@
           "source": "Bitcoinfoundation.org",
           "published": "2026-07-31T12:09:55Z",
           "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/0001-1785491198.webp"
-        },
-        {
-          "title": "A National Health Authority, Live and Verifiable on IOTA",
-          "description": "How INCUCAI and Extrimian Put Argentina's Transplant System Onchain\n\n\n\n\nTL;DR:\n\n\nIOTA and Latin American decentralized-identity company Extrimian have put Argentina’s national organ, tissue, and cell donation and transplantation authority INCUCAI and its 24 p…",
-          "url": "https://blog.iota.org/extrimian-incucai-iota/",
-          "source": "Iota.org",
-          "published": "2026-07-30T13:00:38Z",
-          "image": "https://blog.iota.org/content/images/size/w1200/2026/07/-2555-Extrimian-INCUCAI-16x9-1.png"
         }
       ]
     },
@@ -239,20 +223,12 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "UAE Fintech Boom: Payments, SME Finance and Crypto Firms Drive Growth - On: Yorkshire Magazine",
-              "description": "UAE fintech is accelerating through payments innovation, cross-border partnerships, SME funding solutions and crypto sector growth.",
-              "url": "https://www.on-magazine.co.uk/business/finance/uae-fintech-boom-payments-sme-finance-and-crypto-firms-drive-growth/",
-              "source": "On-magazine.co.uk",
-              "published": "2026-08-04T03:17:57Z",
-              "image": "https://www.on-magazine.co.uk/wp-content/uploads/UAE-Fintech-Boom-Payments-SME-Finance-and-Crypto-Firms-Drive-Growth.jpg"
-            },
-            {
-              "title": "There's a New Way to Protect Bitcoin From Future Quantum Attacks, Researchers Say",
-              "description": "New research outlines a cryptographic approach that could allow Bitcoin and other blockchain wallets to remain compatible with existing addresses in a post-quantum future.",
-              "url": "https://decrypt.co/374651/new-research-bitcoin-wallet-quantum-attacks-safe",
-              "source": "Decrypt",
-              "published": "2026-07-29T20:01:03Z",
-              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/Bitcoin-B1-decrypt-style-gID_7.png"
+              "title": "Crypto News: AlphaPepe Nears Sell Out Before Launch Update While Bitcoin Price Prediction Eyes $100,000",
+              "description": "MONACO, Aug. 04, 2026 (GLOBE NEWSWIRE) -- Crypto news is turning toward AlphaPepe as the project moves closer to selling out ahead of its August 19th launch update reveal. The presale has now raised $2.19 million, passed 10,700+ holders, and reached a current…",
+              "url": "https://www.globenewswire.com/news-release/2026/08/05/3338992/0/en/Crypto-News-AlphaPepe-Nears-Sell-Out-Before-Launch-Update-While-Bitcoin-Price-Prediction-Eyes-100-000.html",
+              "source": "GlobeNewswire",
+              "published": "2026-08-05T00:30:00Z",
+              "image": "https://ml.globenewswire.com/Resource/Download/29955707-f5b6-43f0-aec9-1d66b450c914"
             }
           ]
         },
@@ -261,20 +237,20 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "'Generative AI is already changing what malicious software packages look like and how threat actors are beginning to probe AI-based code systems': Amazon flags North Korean hacker group as being behind the surge in open source supply chain attacks",
-              "description": "Amazon linked a North Korean hacking group to software supply chain attacks while warning generative AI is changing malware development techniques.",
-              "url": "https://www.techradar.com/pro/security/amazon-flags-a-north-korean-hacker-group-as-being-behind-the-surge-in-open-source-supply-chain-attacks",
-              "source": "TechRadar",
-              "published": "2026-08-03T21:10:00Z",
-              "image": "https://cdn.mos.cms.futurecdn.net/kDLU9By5uaPPbwrbfEaZFJ-2560-80.jpg"
+              "title": "XRP holders can now borrow RLUSD on Ethereum through $280 million lending pool",
+              "description": "XRP holders can now borrow RLUSD against their coins on Ethereum without selling, through a $280 million vault that had never accepted an XRP-linked asset before.",
+              "url": "https://www.coindesk.com/markets/2026/08/04/flare-s-wrapped-xrp-wins-approval-in-a-usd280-million-rlusd-lending-vault",
+              "source": "CoinDesk",
+              "published": "2026-08-04T06:12:20Z",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/bf2fb64bb4bc73cd9c7a9df82a875d8bcc7a78a8-1440x1080.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75"
             },
             {
-              "title": "N. Korea Group Behind Multiple Open Source Supply-Chain Attacks: Amazon",
-              "description": "Amazon’s recent report attributing a series of compromises of open source software libraries to a North Korea-backed threat group encapsulates many of the expanding cyber risks increasingly facing developers, from the growing use of generative AI by bad actor…",
-              "url": "https://devops.com/n-korea-group-behind-multiple-open-source-supply-chain-attacks-amazon/",
-              "source": "DevOps.com",
-              "published": "2026-08-03T20:37:06Z",
-              "image": "https://devops.com/wp-content/uploads/2026/08/north-korea-open-source-supply-chain-770x330-1.jpg"
+              "title": "XRP Holders Can Now Borrow Ripple's RLUSD on Ethereum Without Selling Their Crypto",
+              "description": "Flare's FXRP has been approved as collateral in a $280 million RLUSD lending vault, allowing XRP holders to tap Ethereum's lending markets.",
+              "url": "https://decrypt.co/374862/xrp-holders-borrow-ripple-rlusd-ethereum-without-selling",
+              "source": "Decrypt",
+              "published": "2026-08-03T17:51:03Z",
+              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/xrp-decrypt-style-whatever-number-it-is-1-gID_7.jpg"
             },
             {
               "title": "US hints at more yen intervention: Five things to know in Bitcoin this week",
@@ -286,11 +262,11 @@
             },
             {
               "title": "Circle bought 1,000 IBM blockchain patents. Nothing good can come of that",
-              "description": "Circle has yet to share its plans for the IP portfolio, but the power to assert monopoly rights in the blockchain space is worrying.",
-              "url": "https://fortune.com/2026/08/03/circle-bought-1000-ibm-blockchain-patents/",
-              "source": "Fortune",
-              "published": "2026-08-03T10:58:39Z",
-              "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2260125259.jpg?resize=1200,600"
+              "description": "Patents, in the popular imagination, conjure up images of geniuses, scientific marvels, and inevitably, the word “innovation.” And so it was this week when Circle announced it had purchased nearly 1,000 patents from fading tech giant IBM. The stablecoin firm …",
+              "url": "https://biztoc.com/x/4795d22344b1709f",
+              "source": "Biztoc.com",
+              "published": "2026-08-03T11:42:22Z",
+              "image": "https://biztoc.com/cdn/4795d22344b1709f_s.webp"
             }
           ]
         }
