@@ -1,5 +1,5 @@
 {
-  "date": "August 06, 2026",
+  "date": "August 07, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -84,14 +84,6 @@
           "source": "Crypto Briefing",
           "published": "2026-08-04T13:12:10Z",
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/04091158/grvt-editorial-cover-crypto-800x420.jpeg"
-        },
-        {
-          "title": "Bitcoin's quantum plan assumes some algorithms break. AI just weakened one in 60 hours",
-          "description": "The HAWK system isn't deployed anywhere, and Bitcoin doesn't use it. But is sitting in the same quantum race that Bitcoin developers are scrambling to finish.",
-          "url": "https://www.coindesk.com/tech/2026/07/29/bitcoin-s-quantum-plan-assumes-some-algorithms-break-ai-just-weakened-one-in-60-hours",
-          "source": "CoinDesk",
-          "published": "2026-07-30T04:16:30Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/422bf0c58d3c5d984b8ee7f8a379b85250db7bc2-6016x4016.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75"
         }
       ]
     },
@@ -101,68 +93,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Taiwan plans Travel Rule for domestic crypto transfers from October",
-          "description": "Taiwan plans to apply the FATF Travel Rule to all domestic VASP transfers from October, with enhanced checks for transfers above 30,000 New Taiwan dollars.",
-          "url": "https://cointelegraph.com/news/taiwan-crypto-travel-rule-domestic-vasp-transfers",
+          "title": "Bitfire Group OTC Desk Surpasses $100 Million in Monthly Volume, Hits All-Time High in July",
+          "description": "HONG KONG, Aug. 6, 2026 /PRNewswire/ -- Bitfire Group (01611.HK), a Hong Kong-listed regulated digital asset custodian, reported that its over-the-counter (OTC) trading desk surpassed $100 million in monthly volume for July, achieving a new all-time high with…",
+          "url": "https://www.prnewswire.com/news-releases/bitfire-group-otc-desk-surpasses-100-million-in-monthly-volume-hits-all-time-high-in-july-302844633.html",
+          "source": "PRNewswire",
+          "published": "2026-08-06T05:58:00Z",
+          "image": null
+        },
+        {
+          "title": "Mastercard’s Trust Layer: The Compliance Bottleneck That Could Decide Who Wins Stablecoin Payments",
+          "description": "The primary obstacle to global stablecoin adoption is not the speed of settlement, but the friction of compliance. As stablecoin volumes surge — Circle’s Q2 2026 report showed $14.8 trillion in onchain volume, up 151% year-over-year — the industry faces a str…",
+          "url": "https://forkast.news/mastercards-trust-layer-the-compliance-bottleneck-that-could-decide-who-wins-stablecoin-payments/",
+          "source": "Forkast.news",
+          "published": "2026-08-05T22:23:41Z",
+          "image": "https://forkast.news/wp-content/uploads/2026/08/mastercard-credential-hero-1024x572.jpg"
+        },
+        {
+          "title": "Visa Puts Stablecoins Into Its Cross-Border Payout Rail Across 18 Billion Endpoints",
+          "description": "Visa has moved stablecoin integration beyond experimental pilots into production-grade infrastructure. As of August 5, 2026, the company is deploying stablecoin capabilities across Visa Direct, its real-time push payments platform, to reach more than 18 billi…",
+          "url": "https://forkast.news/visa-puts-stablecoins-into-its-cross-border-payout-rail-across-18-billion-endpoints/",
+          "source": "Forkast.news",
+          "published": "2026-08-05T22:23:04Z",
+          "image": "https://forkast.news/wp-content/uploads/2026/08/visa-direct-stablecoin-hero-1024x572.jpg"
+        },
+        {
+          "title": "Digital Ascension Group Launches DAG Insurance, Bringing Life Insurance and Annuities to Digital Asset Holders",
+          "description": "Xure Legacy Insurance Agency now operates as DAG Insurance, with Karl Von Schwarz as Chief Executive Officer Xure Legacy Insurance Agency now operates as DAG Insurance, with Karl Von Schwarz as Chief Executive Officer",
+          "url": "https://www.globenewswire.com/news-release/2026/08/05/3339845/0/en/Digital-Ascension-Group-Launches-DAG-Insurance-Bringing-Life-Insurance-and-Annuities-to-Digital-Asset-Holders.html",
+          "source": "GlobeNewswire",
+          "published": "2026-08-05T21:35:00Z",
+          "image": "https://ml.globenewswire.com/Resource/Download/7c59626e-8825-4838-8368-ff52611b4a77"
+        },
+        {
+          "title": "Grayscale Investments Announces Rebalancing of Multi-Asset Funds for Second Quarter 2026",
+          "description": "STAMFORD, Conn., Aug. 05, 2026 (GLOBE NEWSWIRE) -- Grayscale Investments, the world’s largest digital asset-focused investment platform*, and manager of Grayscale® Decentralized Finance (DeFi) Fund (OTCQB: DEFG) (DEFG Fund), Grayscale® Smart Contract Fund (GS…",
+          "url": "https://www.globenewswire.com/news-release/2026/08/05/3339735/0/en/Grayscale-Investments-Announces-Rebalancing-of-Multi-Asset-Funds-for-Second-Quarter-2026.html",
+          "source": "GlobeNewswire",
+          "published": "2026-08-05T20:15:00Z",
+          "image": "https://ml.globenewswire.com/Resource/Download/4b944bce-637f-4386-ac51-330819cae5f3"
+        },
+        {
+          "title": "Senator Lummis still pushing for CLARITY vote before August recess",
+          "description": "Senator Cynthia Lummis, one of the proponents of the Digital Asset Market Clarity Act, is still hoping to get lawmakers on the record in a vote before the Senate breaks for a month.",
+          "url": "https://cointelegraph.com/news/senator-lummis-clarity-vote-movement-calendar",
           "source": "Cointelegraph",
-          "published": "2026-08-05T08:21:54Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-cryptocurrency-aml-and-how-does-it-work-taiwan.jpg"
+          "published": "2026-08-05T19:18:24Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-evolution-of-crypto-regulations-in-2024-what-it-means-for-2025.png"
         },
         {
-          "title": "Clarity Act Delay Wouldn’t Derail Crypto Growth, Bitwise CIO Says",
-          "description": "Bitwise Chief Investment Officer Matt Hougan had previously said he didn’t expect the crypto industry to lose momentum even if the long-anticipated Clarity Act doesn’t...\nThe post Clarity Act Delay Wouldn’t Derail Crypto Growth, Bitwise CIO Says appeared firs…",
-          "url": "https://bitcoinfoundation.org/news/regulation/clarity-act-delay-wouldnt-derail-crypto-growth-bitwise-cio-says/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-08-05T08:11:47Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/08/1-2-1785916996.webp"
+          "title": "Citibank hires crypto director to enhance digital asset solutions",
+          "description": "Citi's strategic hire signals a shift from planning to execution in digital assets, potentially accelerating institutional crypto adoption globally.\nThe post Citibank hires crypto director to enhance digital asset solutions appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/citibank-hires-crypto-director-digital-assets/",
+          "source": "Crypto Briefing",
+          "published": "2026-08-05T19:06:01Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/05150556/citibank-hires-crypto-director-to-enhance-digital-asset-solu-800x420.jpeg"
         },
         {
-          "title": "Decentralized Masters Review 2026: Is This DeFi Education Platform Worth It?",
-          "description": "Decentralized finance has a credibility problem. The technology is complicated. The risks are real. Social media is filled with anonymous influencers promising effortless returns, while beginners are expected to understand wallets, smart contracts, liquidity …",
-          "url": "https://themattwalshblog.com/decentralized-masters-review/",
-          "source": "Themattwalshblog.com",
-          "published": "2026-08-05T06:19:53Z",
-          "image": "https://themattwalshblog.com/wp-content/uploads/2026/08/Decen-Masters-Review.png"
-        },
-        {
-          "title": "Samsung Pursues Digital Assets With Crypto Exchange Deal and Stablecoin Push",
-          "description": "Samsung’s recent announcements that it is adding stablecoin support to new smartphones and that it acquired a stake in cryptocurrency exchange operator Dunamu suggest the company is positioning itself as a leader in stablecoins, CoinDesk reported Tuesday (Aug…",
-          "url": "https://www.pymnts.com/cryptocurrency/2026/samsung-pursues-digital-assets-with-crypto-exchange-deal-and-stablecoin-push/",
-          "source": "pymnts.com",
-          "published": "2026-08-05T01:17:45Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2026/08/Samsung-stablecoins-1.jpg"
-        },
-        {
-          "title": "Western Union Launches Stablecard, Betting Its $107B Network on Solana Instead of Itself",
-          "description": "For decades, Western Union maintained its dominance through a proprietary, closed-loop network of 360,000 agent locations – a system built on physical presence and legacy clearing that processed $107.4 billion in cross-border principal last fiscal year. On Au…",
-          "url": "https://forkast.news/western-union-launches-stablecard-betting-its-107b-network-on-solana-instead-of-itself/",
-          "source": "Forkast.news",
-          "published": "2026-08-05T01:00:23Z",
-          "image": "https://forkast.news/wp-content/uploads/2026/08/western-union-stablecard-forkast.hero_-1024x572.jpg"
-        },
-        {
-          "title": "FIPS 140-3 is not a security guarantee, and auditors know it",
-          "description": "FIPS-validated modules shipped ROCA, EUCLEAK, Dual_EC_DRBG, and a YubiKey flaw caused by the FIPS self-tests themselves. What the certificate actually attests, what FIPS mode costs in performance, why it breaks Bitcoin tooling like BIP32, and where auditors a…",
-          "url": "https://808bits.com/articles/fips-140-3-not-a-security-guarantee/",
-          "source": "808bits.com",
-          "published": "2026-08-04T23:21:33Z",
-          "image": null
-        },
-        {
-          "title": "Streamex Corp. to Report Second Quarter 2026 Results and Host Business & Corporate Update Call",
-          "description": "WINTER PARK, Fla., Aug. 04, 2026 (GLOBE NEWSWIRE) — Streamex Corp. (“Streamex” or the “Company”) (NASDAQ: STEX), a technology company building the future of the commodity markets through tokenization, today announced that it will release its financial results…",
-          "url": "https://financialpost.com/globe-newswire/streamex-corp-to-report-second-quarter-2026-results-and-host-business-corporate-update-call",
-          "source": "Financial Post",
-          "published": "2026-08-04T20:04:48Z",
-          "image": null
-        },
-        {
-          "title": "The 4:1 Leverage Ratio Defining the AI Era",
-          "description": "The 4:1 Leverage Ratio Defining the AI Era A company valued at $2.4 billion has just secured a $10 billion contract. This 4:1 contract-to-valuation ratio signals a structural shift: the era of the compute landlord has fully arrived. Volta Infra Holdings Ltd.,…",
-          "url": "https://forkast.news/the-41-leverage-ratio-defining-the-ai-era/",
-          "source": "Forkast.news",
-          "published": "2026-08-04T19:59:28Z",
-          "image": "https://forkast.news/wp-content/uploads/2026/08/volta-infra-anthropic-compute-landlord-1024x572.jpg"
+          "title": "Western Union brings stablecoin remittances to Visa network with Stablecard",
+          "description": "The remittance giant is rolling out Stablecard across 37 markets, targeting cross-border payments and consumers seeking US dollar-denominated savings in volatile economies.",
+          "url": "https://cointelegraph.com/news/western-union-stablecard-stablecoin-remittances-visa",
+          "source": "Cointelegraph",
+          "published": "2026-08-05T16:30:56Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-defi-stack-stablecoins-exchanges-synthetics-money-markets-and-insurance-western-union-1.jpg"
         }
       ]
     },
@@ -172,20 +164,36 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Wells Fargo Plans to Launch Tokenized Deposits This Fall",
-          "description": "Wells Fargo reportedly hopes to launch tokenized deposits for corporate/commercial customers. That’s according to a report Tuesday (Aug. 4) from the Wall Street Journal (WSJ), which calls the offering the latest example of how banking giants are embracing dig…",
-          "url": "https://www.pymnts.com/news/banking/2026/wells-fargo-plans-to-launch-tokenized-deposits-this-fall/",
-          "source": "pymnts.com",
-          "published": "2026-08-04T17:17:51Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2025/07/Wells-Fargo.png"
+          "title": "Theta Capital Publishes Annual \"The Satellite View\" Report – Blockchain goes Mainstream",
+          "description": "AMSTERDAM, Aug. 06, 2026 (GLOBE NEWSWIRE) -- Theta Capital, the largest European investor in blockchain venture capital, has published its annual report on venture capital investment in blockchain technology, “The Satellite View”, synthesizing insights from l…",
+          "url": "https://www.globenewswire.com/news-release/2026/08/06/3339959/0/en/Theta-Capital-Publishes-Annual-The-Satellite-View-Report-Blockchain-goes-Mainstream.html",
+          "source": "GlobeNewswire",
+          "published": "2026-08-06T07:00:00Z",
+          "image": "https://ml-eu.globenewswire.com/Resource/Download/24d70942-88f6-4193-bdf9-e0ef10a4acd8"
         },
         {
-          "title": "XRP holders can now borrow Ripple's stablecoin",
-          "description": "The layer 1 blockchain developer Flare announced on Aug. 3 that its FXRP token has been approved as collateral in Sentora's RLUSD Main vault on the Morpho le...",
-          "url": "https://www.thestreet.com/crypto/markets/xrp-holders-can-now-borrow-ripples-stablecoin",
-          "source": "TheStreet",
-          "published": "2026-08-04T17:11:41Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/DCB8E06ECC7658B383DD039FDA6B2DFBF85E7D9A058ED462F301C72BC51962AA/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2Fae18efabf1e1f5213fa5430cb194f5e6"
+          "title": "Treasuries, Gold and the S&P 500: The Assets Growing Fastest On-Chain Are the Most Traditional Ones",
+          "description": "New CoinShares and Token Terminal research finds deposits of tokenised real-world assets more than tripled to $7.4 billion over the past year, while total deposits across decentralised finance fell by around 15%, evidence, CoinShares says, that finance is con…",
+          "url": "https://www.globenewswire.com/news-release/2026/08/06/3339914/0/en/Treasuries-Gold-and-the-S-P-500-The-Assets-Growing-Fastest-On-Chain-Are-the-Most-Traditional-Ones.html",
+          "source": "GlobeNewswire",
+          "published": "2026-08-06T05:00:00Z",
+          "image": "https://ml-eu.globenewswire.com/Resource/Download/8ff8acfa-148b-402b-b289-7bf6973541be"
+        },
+        {
+          "title": "FBI agent accused of stealing $1 million in crypto — and he even consulted ChatGPT on how to leave the country",
+          "description": "Asking an AI agent that retains all its conversations how to reinvest your criminal proceeds might not be the best play",
+          "url": "https://www.techradar.com/pro/fbi-agent-accused-of-stealing-usd1-million-in-crypto-and-he-even-consulted-chatgpt-on-how-to-leave-the-country",
+          "source": "TechRadar",
+          "published": "2026-08-05T23:20:00Z",
+          "image": "https://cdn.mos.cms.futurecdn.net/Y5BaBkp9uJ2RQnJbCbDEsA-970-80.jpg"
+        },
+        {
+          "title": "Broadridge and Payward Services Collaborate to Give xStocks Holders a Voice in Corporate Governance",
+          "description": "Broadridge's unified governance platform enables xStocks holders to submit voting preferences for shares underpinning their tokenized equities, closing one of the clearest gaps between tokenized equities and traditional stock ownership NEW YORK, Aug. 5, 2026 …",
+          "url": "https://www.prnewswire.com/news-releases/broadridge-and-payward-services-collaborate-to-give-xstocks-holders-a-voice-in-corporate-governance-302843541.html",
+          "source": "PRNewswire",
+          "published": "2026-08-05T10:30:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS1964124/Payward-Services.jpg?id=OA2825170&p=facebook"
         },
         {
           "title": "Public or Private Blockchains: Where Is Wall Street Building?",
@@ -223,12 +231,20 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Crypto News: AlphaPepe Nears Sell Out Before Launch Update While Bitcoin Price Prediction Eyes $100,000",
-              "description": "MONACO, Aug. 04, 2026 (GLOBE NEWSWIRE) -- Crypto news is turning toward AlphaPepe as the project moves closer to selling out ahead of its August 19th launch update reveal. The presale has now raised $2.19 million, passed 10,700+ holders, and reached a current…",
-              "url": "https://www.globenewswire.com/news-release/2026/08/05/3338992/0/en/Crypto-News-AlphaPepe-Nears-Sell-Out-Before-Launch-Update-While-Bitcoin-Price-Prediction-Eyes-100-000.html",
-              "source": "GlobeNewswire",
-              "published": "2026-08-05T00:30:00Z",
-              "image": "https://ml.globenewswire.com/Resource/Download/29955707-f5b6-43f0-aec9-1d66b450c914"
+              "title": "Japanese stablecoin firm JPYC raises $38 million in extended Series B",
+              "description": "The firm said Wednesday that the proceeds will be used to expand its financial and Web3 ecosystem and accelerate adoption of JPYC.",
+              "url": "https://biztoc.com/x/612767cf8e16003e",
+              "source": "Biztoc.com",
+              "published": "2026-08-06T07:04:10Z",
+              "image": "https://biztoc.com/cdn/612767cf8e16003e_s.webp"
+            },
+            {
+              "title": "Binance says RedotPay diverted users in $605 million lawsuit",
+              "description": "RedotPay rejected the allegations, saying the company would “respond through the appropriate legal process”. Read more at straitstimes.com. Read more at straitstimes.com.",
+              "url": "https://www.straitstimes.com/business/binance-says-redotpay-diverted-users-in-605-million-lawsuit",
+              "source": "The Straits Times",
+              "published": "2026-08-06T03:25:00Z",
+              "image": "https://cassette.sphdigital.com.sg/image/straitstimes/6b70b2b480fef784ef2eec3882b433badfee58c2537737e9dfd87bfb770d55d5"
             }
           ]
         },
@@ -236,6 +252,38 @@
           "title": "Hyperscalers",
           "icon": "☁️",
           "articles": [
+            {
+              "title": "Circle’s $14.8 Trillion Quarter Demolishes the Bear Thesis — But the Revenue Miss Reminds You Why It Existed",
+              "description": "$14.8 trillion in onchain transaction volume moved through USDC in the second quarter of 2026. If you are still betting that the stablecoin is losing its utility as the primary settlement layer for the digital economy, you are betting against the plumbing of …",
+              "url": "https://forkast.news/circles-14-8-trillion-quarter-demolishes-the-bear-thesis-but-the-revenue-miss-reminds-you-why-it-existed/",
+              "source": "Forkast.news",
+              "published": "2026-08-05T12:35:19Z",
+              "image": "https://forkast.news/wp-content/uploads/2026/08/circle-q2-earnings-128766-forkast.hero_-1024x572.jpg"
+            },
+            {
+              "title": "FIPS 140-3 is not a security guarantee, and auditors know it",
+              "description": "FIPS-validated modules shipped ROCA, EUCLEAK, Dual_EC_DRBG, and a YubiKey flaw caused by the FIPS self-tests themselves. What the certificate actually attests, what FIPS mode costs in performance, why it breaks Bitcoin tooling like BIP32, and where auditors a…",
+              "url": "https://808bits.com/articles/fips-140-3-not-a-security-guarantee/",
+              "source": "808bits.com",
+              "published": "2026-08-04T23:21:33Z",
+              "image": null
+            },
+            {
+              "title": "XRP holders can now borrow Ripple's stablecoin",
+              "description": "The layer 1 blockchain developer Flare announced on Aug. 3 that its FXRP token has been approved as collateral in Sentora's RLUSD Main vault on the Morpho le...",
+              "url": "https://www.thestreet.com/crypto/markets/xrp-holders-can-now-borrow-ripples-stablecoin",
+              "source": "TheStreet",
+              "published": "2026-08-04T17:11:41Z",
+              "image": "https://s.yimg.com/lo/mysterio/api/DCB8E06ECC7658B383DD039FDA6B2DFBF85E7D9A058ED462F301C72BC51962AA/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2Fae18efabf1e1f5213fa5430cb194f5e6"
+            },
+            {
+              "title": "Jim Cramer plans to sell his Bitcoin over quantum fears as BTC rises 1.6%",
+              "description": "The CNBC personality said he’ll sell his Bitcoin holdings due to fears about quantum computing, as some cryptocurrency investors celebrated, referencing the popular “inverse Cramer” meme.",
+              "url": "https://cointelegraph.com/markets/jim-cramer-sell-bitcoin-quantum-fears-btc-rises",
+              "source": "Cointelegraph",
+              "published": "2026-08-04T10:47:39Z",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/hi-who-is-jim-cramerand-why-do-traders-love-to-hate-him.jpg"
+            },
             {
               "title": "XRP holders can now borrow RLUSD on Ethereum through $280 million lending pool",
               "description": "XRP holders can now borrow RLUSD against their coins on Ethereum without selling, through a $280 million vault that had never accepted an XRP-linked asset before.",
@@ -251,22 +299,6 @@
               "source": "Decrypt",
               "published": "2026-08-03T17:51:03Z",
               "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/xrp-decrypt-style-whatever-number-it-is-1-gID_7.jpg"
-            },
-            {
-              "title": "US hints at more yen intervention: Five things to know in Bitcoin this week",
-              "description": "Oil prices tumble as Trump signals a possible Iran deal, while Bitcoin traders eye nonfarm payrolls, yen intervention fallout, and the ongoing Coldcard wallet exploit. Here’s what’s moving crypto markets this week.",
-              "url": "https://cointelegraph.com/markets/us-hints-at-more-yen-intervention-five-things-to-know-in-bitcoin-this-week",
-              "source": "Cointelegraph",
-              "published": "2026-08-03T14:11:26Z",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-27742-btc-eth-dai-cross-chain-atomic-swaps-launched-by-liquality-on-mainnet.jpg"
-            },
-            {
-              "title": "Circle bought 1,000 IBM blockchain patents. Nothing good can come of that",
-              "description": "Patents, in the popular imagination, conjure up images of geniuses, scientific marvels, and inevitably, the word “innovation.” And so it was this week when Circle announced it had purchased nearly 1,000 patents from fading tech giant IBM. The stablecoin firm …",
-              "url": "https://biztoc.com/x/4795d22344b1709f",
-              "source": "Biztoc.com",
-              "published": "2026-08-03T11:42:22Z",
-              "image": "https://biztoc.com/cdn/4795d22344b1709f_s.webp"
             }
           ]
         }
