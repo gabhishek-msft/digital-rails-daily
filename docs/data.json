@@ -1,5 +1,5 @@
 {
-  "date": "August 07, 2026",
+  "date": "August 08, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -45,30 +45,6 @@
           "source": "Bitcoinist",
           "published": "2026-08-01T00:20:00Z",
           "image": "https://bitcoinist.com/wp-content/uploads/2026/06/TOTAL_2026-06-11_13-09-09.png"
-        },
-        {
-          "title": "Why DeFi giant Aave is pulling the plug on six hyped blockchains making less than $5,000 a quarter",
-          "description": "LlamaRisk would freeze new activity, redirect nearly all interest revenue to the treasury, and reserve stronger unwind levers for later.\nThe post Why DeFi giant Aave is pulling the plug on six hyped blockchains making less than $5,000 a quarter appeared first…",
-          "url": "https://cryptoslate.com/why-defi-giant-aave-is-pulling-the-plug-on-six-hyped-blockchains-making-less-than-5000-a-quarter/",
-          "source": "CryptoSlate",
-          "published": "2026-07-31T21:30:17Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/07/aave-six-chain-debt-exit-path-editorial-collage.jpg"
-        },
-        {
-          "title": "As Ethereum turns 11 years old it hosts $148B in stablecoins, but daily mainnet revenue just fell to $330k",
-          "description": "Ethereum turned 11 on July 30, the anniversary of the day users generated and loaded the Frontier genesis block in 2015. In its first decade, the network survived the DAO crisis, executed the Merge to proof-of-stake, and became the leading public venue for st…",
-          "url": "https://cryptoslate.com/as-ethereum-turns-11-years-old-it-hosts-148b-in-stablecoins-but-daily-mainnet-revenue-just-fell-to-330k/",
-          "source": "CryptoSlate",
-          "published": "2026-07-31T10:30:44Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/07/ethereum-compass-next-decade-collage.jpg"
-        },
-        {
-          "title": "Aave weighs closing 6 V3 blockchain markets, offboarding 50 low-use reserves",
-          "description": "DeFi risk management service LlamaRisk recommended that Aave wind down every reserve on Sonic, Scroll, zkSync, Metis, Soneium and Aptos, but action against most of those instances was already taken.",
-          "url": "https://cointelegraph.com/news/aave-weighs-closing-6-v3-blockchain-markets-offboarding-50-low-use-reserves",
-          "source": "Cointelegraph",
-          "published": "2026-07-31T08:57:53Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-aave-survived-845b-in-withdrawals-but-the-risk-debate-is-not-over.jpg"
         }
       ]
     },
@@ -77,6 +53,14 @@
       "icon": "🔐",
       "color": "#e6a200",
       "articles": [
+        {
+          "title": "Binance proof of reserves shows Bitcoin and Ethereum fully backed at 100.25%",
+          "description": "Binance's robust reserves enhance trust in crypto exchanges, potentially stabilizing the market and encouraging broader adoption.\nThe post Binance proof of reserves shows Bitcoin and Ethereum fully backed at 100.25% appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/binance-proof-of-reserves-august-2026/",
+          "source": "Crypto Briefing",
+          "published": "2026-08-06T11:23:09Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/06072305/binance-proof-of-reserves-shows-bitcoin-and-ethereum-fully-b-800x420.jpeg"
+        },
         {
           "title": "GRVT faces user disappointment over TGE allocation unlock schedule",
           "description": "The staggered token unlocks may impact GRVT's market stability and investor confidence, influencing long-term project viability.\nThe post GRVT faces user disappointment over TGE allocation unlock schedule appeared first on Crypto Briefing.",
@@ -93,68 +77,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Bitfire Group OTC Desk Surpasses $100 Million in Monthly Volume, Hits All-Time High in July",
-          "description": "HONG KONG, Aug. 6, 2026 /PRNewswire/ -- Bitfire Group (01611.HK), a Hong Kong-listed regulated digital asset custodian, reported that its over-the-counter (OTC) trading desk surpassed $100 million in monthly volume for July, achieving a new all-time high with…",
-          "url": "https://www.prnewswire.com/news-releases/bitfire-group-otc-desk-surpasses-100-million-in-monthly-volume-hits-all-time-high-in-july-302844633.html",
+          "title": "Primary Crypto Market: What Is It, and Should You Invest Here?",
+          "description": "Most cryptocurrency investors buy assets only after they are already trading. They open an exchange account, search for Bitcoin or an altcoin, review the current price, and purchase tokens from another market participant. That activity takes place in the seco…",
+          "url": "https://themattwalshblog.com/primary-crypto-market/",
+          "source": "Themattwalshblog.com",
+          "published": "2026-08-07T05:13:30Z",
+          "image": "https://themattwalshblog.com/wp-content/uploads/2026/08/Primary-Crypto-Market-Guide.png"
+        },
+        {
+          "title": "AVAX One holds $88 million in Avalanche tokens, but its lender only wants cash or Bitcoin",
+          "description": "The waiver required a $1.3 million payment, increased the remaining note and left $5.437 million under lender control.\nThe post AVAX One holds $88 million in Avalanche tokens, but its lender only wants cash or Bitcoin appeared first on CryptoSlate.",
+          "url": "https://cryptoslate.com/avax-one-holds-88-million-in-avalanche-tokens-but-its-lender-only-wants-cash-or-bitcoin/",
+          "source": "CryptoSlate",
+          "published": "2026-08-07T02:45:54Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/08/avax-one-token-debt-pressure-clamp.jpg"
+        },
+        {
+          "title": "Tim Scott Boasts About Trump's Unparalleled Ethics And We Can't Keep A Straight Face",
+          "description": "The South Carolina senator talked up the president while promoting a cryptocurrency industry-backed bill which is currently in legislative limbo.",
+          "url": "https://www.huffpost.com/entry/tim-scott-trump-ethics-clarity-act-crypto-bill_n_6a74a53ce4b0e33593d20170",
+          "source": "HuffPost",
+          "published": "2026-08-07T02:28:42Z",
+          "image": "https://img.huffingtonpost.com/asset/6a753f0b160000e4042fc278.jpeg?cache=gbBArBUkwV&ops=1200_630"
+        },
+        {
+          "title": "Mastercard (MA) vs. Visa (V): Stablecoins or AI Fraud Defense?",
+          "description": "On August 3, Mastercard (NYSE:MA) announced that it had completed its acquisition of BVNK, a deal meant to connect its card network with the stablecoins and...",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mastercard-ma-vs-visa-v-222246965.html",
+          "source": "Yahoo Entertainment",
+          "published": "2026-08-06T22:22:46Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/7630FF8ECD7CEA7EBCD7EB155986E21A05684A2E9C527AAF7D0224EF37C2D1DF/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F0fd268bfdf023d0589a2a4957f4d60fd"
+        },
+        {
+          "title": "Wintermute launches U.S. broker-dealer to expand regulated institutional reach",
+          "description": "SEC and FINRA registration mark a formal entry into U.S. regulated markets NEW YORK, Aug. 6, 2026 /PRNewswire/ -- Wintermute, a leading algorithmic trading firm and OTC desk in digital assets, today announced that its affiliate Wintermute USA LLC has register…",
+          "url": "https://www.prnewswire.com/news-releases/wintermute-launches-us-broker-dealer-to-expand-regulated-institutional-reach-302845457.html",
           "source": "PRNewswire",
-          "published": "2026-08-06T05:58:00Z",
+          "published": "2026-08-06T21:05:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS1064305/Wintermute-Transparent-Logo.jpg?id=OA2834085&p=facebook"
+        },
+        {
+          "title": "Metalpha Reports Breakthrough in Total Assets for FY2026 Amidst Market Volatility",
+          "description": "HONG KONG, Aug. 6, 2026 /PRNewswire/ -- Metalpha Technology Holding Limited (Nasdaq: MATH) (the \"Company\" or \"Metalpha\"), through its subsidiaries, is a global leading provider of blockchain and trading technology solutions, with a strong emphasis on the digi…",
+          "url": "https://www.prnewswire.com/news-releases/metalpha-reports-breakthrough-in-total-assets-for-fy2026-amidst-market-volatility-302845381.html",
+          "source": "PRNewswire",
+          "published": "2026-08-06T20:30:00Z",
           "image": null
         },
         {
-          "title": "Mastercard’s Trust Layer: The Compliance Bottleneck That Could Decide Who Wins Stablecoin Payments",
-          "description": "The primary obstacle to global stablecoin adoption is not the speed of settlement, but the friction of compliance. As stablecoin volumes surge — Circle’s Q2 2026 report showed $14.8 trillion in onchain volume, up 151% year-over-year — the industry faces a str…",
-          "url": "https://forkast.news/mastercards-trust-layer-the-compliance-bottleneck-that-could-decide-who-wins-stablecoin-payments/",
-          "source": "Forkast.news",
-          "published": "2026-08-05T22:23:41Z",
-          "image": "https://forkast.news/wp-content/uploads/2026/08/mastercard-credential-hero-1024x572.jpg"
+          "title": "Crypto and National Security: Why Governments See Blockchain as a Strategic Asset",
+          "description": "The global community no longer sees crypto as just an investment market. Governments are now considering blockchain networks, digital assets, payment rails, and tokenized infrastructure...\nThe post Crypto and National Security: Why Governments See Blockchain …",
+          "url": "https://bitcoinfoundation.org/news/people-in-crypto-news/crypto-and-national-security-why-governments-see-blockchain-as-a-strategic-asset/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-08-06T19:21:47Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/08/Nashsec1-1.webp"
         },
         {
-          "title": "Visa Puts Stablecoins Into Its Cross-Border Payout Rail Across 18 Billion Endpoints",
-          "description": "Visa has moved stablecoin integration beyond experimental pilots into production-grade infrastructure. As of August 5, 2026, the company is deploying stablecoin capabilities across Visa Direct, its real-time push payments platform, to reach more than 18 billi…",
-          "url": "https://forkast.news/visa-puts-stablecoins-into-its-cross-border-payout-rail-across-18-billion-endpoints/",
-          "source": "Forkast.news",
-          "published": "2026-08-05T22:23:04Z",
-          "image": "https://forkast.news/wp-content/uploads/2026/08/visa-direct-stablecoin-hero-1024x572.jpg"
-        },
-        {
-          "title": "Digital Ascension Group Launches DAG Insurance, Bringing Life Insurance and Annuities to Digital Asset Holders",
-          "description": "Xure Legacy Insurance Agency now operates as DAG Insurance, with Karl Von Schwarz as Chief Executive Officer Xure Legacy Insurance Agency now operates as DAG Insurance, with Karl Von Schwarz as Chief Executive Officer",
-          "url": "https://www.globenewswire.com/news-release/2026/08/05/3339845/0/en/Digital-Ascension-Group-Launches-DAG-Insurance-Bringing-Life-Insurance-and-Annuities-to-Digital-Asset-Holders.html",
-          "source": "GlobeNewswire",
-          "published": "2026-08-05T21:35:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/7c59626e-8825-4838-8368-ff52611b4a77"
-        },
-        {
-          "title": "Grayscale Investments Announces Rebalancing of Multi-Asset Funds for Second Quarter 2026",
-          "description": "STAMFORD, Conn., Aug. 05, 2026 (GLOBE NEWSWIRE) -- Grayscale Investments, the world’s largest digital asset-focused investment platform*, and manager of Grayscale® Decentralized Finance (DeFi) Fund (OTCQB: DEFG) (DEFG Fund), Grayscale® Smart Contract Fund (GS…",
-          "url": "https://www.globenewswire.com/news-release/2026/08/05/3339735/0/en/Grayscale-Investments-Announces-Rebalancing-of-Multi-Asset-Funds-for-Second-Quarter-2026.html",
-          "source": "GlobeNewswire",
-          "published": "2026-08-05T20:15:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/4b944bce-637f-4386-ac51-330819cae5f3"
-        },
-        {
-          "title": "Senator Lummis still pushing for CLARITY vote before August recess",
-          "description": "Senator Cynthia Lummis, one of the proponents of the Digital Asset Market Clarity Act, is still hoping to get lawmakers on the record in a vote before the Senate breaks for a month.",
-          "url": "https://cointelegraph.com/news/senator-lummis-clarity-vote-movement-calendar",
-          "source": "Cointelegraph",
-          "published": "2026-08-05T19:18:24Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-evolution-of-crypto-regulations-in-2024-what-it-means-for-2025.png"
-        },
-        {
-          "title": "Citibank hires crypto director to enhance digital asset solutions",
-          "description": "Citi's strategic hire signals a shift from planning to execution in digital assets, potentially accelerating institutional crypto adoption globally.\nThe post Citibank hires crypto director to enhance digital asset solutions appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/citibank-hires-crypto-director-digital-assets/",
-          "source": "Crypto Briefing",
-          "published": "2026-08-05T19:06:01Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/05150556/citibank-hires-crypto-director-to-enhance-digital-asset-solu-800x420.jpeg"
-        },
-        {
-          "title": "Western Union brings stablecoin remittances to Visa network with Stablecard",
-          "description": "The remittance giant is rolling out Stablecard across 37 markets, targeting cross-border payments and consumers seeking US dollar-denominated savings in volatile economies.",
-          "url": "https://cointelegraph.com/news/western-union-stablecard-stablecoin-remittances-visa",
-          "source": "Cointelegraph",
-          "published": "2026-08-05T16:30:56Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-defi-stack-stablecoins-exchanges-synthetics-money-markets-and-insurance-western-union-1.jpg"
+          "title": "BlackRock’s Ethereum ETF To Undergo 1-For-3 Reverse Split",
+          "description": "BlackRock (NYSE: $BLK) says it plans to implement a one-for-three reverse share split on its iShares Ethereum Trust...",
+          "url": "https://www.cryptoprowl.com/releases/blackrocks-ethereum-etf-to-undergo-1-for-3-reverse-split-6345",
+          "source": "Cryptoprowl.com",
+          "published": "2026-08-06T15:00:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/3E3EFA7A22062AC91DFDB450138B61706EC6EDE4FD380195F11671DE46133298/subgraphmysterio/resizefill_w1200_h720;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F23df8a01f822f07d1077908c675cb23c"
         }
       ]
     },
@@ -164,28 +148,36 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Theta Capital Publishes Annual \"The Satellite View\" Report – Blockchain goes Mainstream",
-          "description": "AMSTERDAM, Aug. 06, 2026 (GLOBE NEWSWIRE) -- Theta Capital, the largest European investor in blockchain venture capital, has published its annual report on venture capital investment in blockchain technology, “The Satellite View”, synthesizing insights from l…",
-          "url": "https://www.globenewswire.com/news-release/2026/08/06/3339959/0/en/Theta-Capital-Publishes-Annual-The-Satellite-View-Report-Blockchain-goes-Mainstream.html",
+          "title": "Crypto News Today: AlphaPepe Presale Nears Tier-1 CEX Partnership Reveal as XRP Price Prediction Targets $10",
+          "description": "MONACO, Aug. 06, 2026 (GLOBE NEWSWIRE) -- Crypto news today is shifting toward AlphaPepe as the presale moves closer to its next major launch update. The project has now raised $2.2 million, passed 10,700+ holders, and reached a current presale price of $0.02…",
+          "url": "https://www.globenewswire.com/news-release/2026/08/07/3340900/0/en/crypto-news-today-alphapepe-presale-nears-tier-1-cex-partnership-reveal-as-xrp-price-prediction-targets-10.html",
           "source": "GlobeNewswire",
-          "published": "2026-08-06T07:00:00Z",
-          "image": "https://ml-eu.globenewswire.com/Resource/Download/24d70942-88f6-4193-bdf9-e0ef10a4acd8"
+          "published": "2026-08-07T01:00:00Z",
+          "image": "https://ml.globenewswire.com/Resource/Download/f577255d-4d53-49a8-88cb-231378738318"
         },
         {
-          "title": "Treasuries, Gold and the S&P 500: The Assets Growing Fastest On-Chain Are the Most Traditional Ones",
-          "description": "New CoinShares and Token Terminal research finds deposits of tokenised real-world assets more than tripled to $7.4 billion over the past year, while total deposits across decentralised finance fell by around 15%, evidence, CoinShares says, that finance is con…",
-          "url": "https://www.globenewswire.com/news-release/2026/08/06/3339914/0/en/Treasuries-Gold-and-the-S-P-500-The-Assets-Growing-Fastest-On-Chain-Are-the-Most-Traditional-Ones.html",
-          "source": "GlobeNewswire",
-          "published": "2026-08-06T05:00:00Z",
-          "image": "https://ml-eu.globenewswire.com/Resource/Download/8ff8acfa-148b-402b-b289-7bf6973541be"
+          "title": "Hyperscale sells Bitcoin for AI business set to deliver less than 20% of 2027 revenue",
+          "description": "The roughly 4.9% variable-rate position leaves its exact collateral amount, current LTV and liquidation threshold undisclosed.\nThe post Hyperscale sells Bitcoin for AI business set to deliver less than 20% of 2027 revenue appeared first on CryptoSlate.",
+          "url": "https://cryptoslate.com/hyperscale-sells-bitcoin-for-ai-business-set-to-deliver-less-than-20-of-2027-revenue/",
+          "source": "CryptoSlate",
+          "published": "2026-08-06T20:00:46Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-construction-conveyor.jpg"
         },
         {
-          "title": "FBI agent accused of stealing $1 million in crypto — and he even consulted ChatGPT on how to leave the country",
-          "description": "Asking an AI agent that retains all its conversations how to reinvest your criminal proceeds might not be the best play",
-          "url": "https://www.techradar.com/pro/fbi-agent-accused-of-stealing-usd1-million-in-crypto-and-he-even-consulted-chatgpt-on-how-to-leave-the-country",
-          "source": "TechRadar",
-          "published": "2026-08-05T23:20:00Z",
-          "image": "https://cdn.mos.cms.futurecdn.net/Y5BaBkp9uJ2RQnJbCbDEsA-970-80.jpg"
+          "title": "Tether expands tokenization business into Saudi Arabia, starting with real estate",
+          "description": "The stablecoin issuer is extending its tokenization business into Saudi Arabia, starting with institutional real estate assets with plans to expand to other asset classes.",
+          "url": "https://www.coindesk.com/business/2026/08/06/tether-expands-tokenization-business-into-saudi-arabia-starting-with-real-estate",
+          "source": "CoinDesk",
+          "published": "2026-08-06T16:10:04Z",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/27b510056d3b25a67300d1c4cc5407c2ac5cf669-4635x3090.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75"
+        },
+        {
+          "title": "Altcoin Investment Guide: How to Research, Buy and Invest in Altcoins",
+          "description": "Altcoins can produce dramatic returns. They can also lose 80%, 90%, or effectively all their value with remarkable efficiency. That is not a contradiction. It is the basic nature of the market. Alternative cryptocurrencies give investors exposure to smart-con…",
+          "url": "https://themattwalshblog.com/altcoin-investment-guide/",
+          "source": "Themattwalshblog.com",
+          "published": "2026-08-06T09:05:32Z",
+          "image": "https://themattwalshblog.com/wp-content/uploads/2026/08/Altcoin-Investment-Guide.png"
         },
         {
           "title": "Broadridge and Payward Services Collaborate to Give xStocks Holders a Voice in Corporate Governance",
@@ -202,22 +194,6 @@
           "source": "Coingape",
           "published": "2026-08-03T10:10:02Z",
           "image": "https://s.yimg.com/lo/mysterio/api/84E0F37A834380EBF588E08D558E5888A298351DF1E201C65B9EF3AAAF652460/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcoingape_360%2F470b2506b8959d95907db83969885012"
-        },
-        {
-          "title": "Efficient design of blockchain-based electronic health record systems with federated learning, off-chain storage, and zk-rollup parallelism for minimizing transaction costs",
-          "description": "Scientific Reports - Efficient design of blockchain-based electronic health record systems with federated learning, off-chain storage, and zk-rollup parallelism for minimizing transaction costs",
-          "url": "https://www.nature.com/articles/s41598-026-62785-9.pdf",
-          "source": "Nature.com",
-          "published": "2026-08-01T00:00:00Z",
-          "image": null
-        },
-        {
-          "title": "Best Crypto Tokens Under $1 to Buy in August 2026 Before the Next Altcoin Rally",
-          "description": "By August, investors are looking beyond Bitcoin and Ethereum and towards tokens with higher upside potential. Low token prices alone are not an indication of...\nThe post Best Crypto Tokens Under $1 to Buy in August 2026 Before the Next Altcoin Rally appeared …",
-          "url": "https://bitcoinfoundation.org/news/altcoins/best-crypto-tokens-under-1-to-buy-in-august-2026-before-the-next-altcoin-rally/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-07-31T12:09:55Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/07/0001-1785491198.webp"
         }
       ]
     },
@@ -231,20 +207,12 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Japanese stablecoin firm JPYC raises $38 million in extended Series B",
-              "description": "The firm said Wednesday that the proceeds will be used to expand its financial and Web3 ecosystem and accelerate adoption of JPYC.",
-              "url": "https://biztoc.com/x/612767cf8e16003e",
-              "source": "Biztoc.com",
-              "published": "2026-08-06T07:04:10Z",
-              "image": "https://biztoc.com/cdn/612767cf8e16003e_s.webp"
-            },
-            {
-              "title": "Binance says RedotPay diverted users in $605 million lawsuit",
-              "description": "RedotPay rejected the allegations, saying the company would “respond through the appropriate legal process”. Read more at straitstimes.com. Read more at straitstimes.com.",
-              "url": "https://www.straitstimes.com/business/binance-says-redotpay-diverted-users-in-605-million-lawsuit",
-              "source": "The Straits Times",
-              "published": "2026-08-06T03:25:00Z",
-              "image": "https://cassette.sphdigital.com.sg/image/straitstimes/6b70b2b480fef784ef2eec3882b433badfee58c2537737e9dfd87bfb770d55d5"
+              "title": "XRP leads majors losses as Clarity Act vote slips to September",
+              "description": "Bitcoin, ether showed slight losses while Ripple-linked XRP fell 5.5% on the week, the worst of the majors, as the Senate left Washington without taking up the market structure bill.",
+              "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-stuck-near-usd64-000-as-clarity-act-vote-slips-to-september",
+              "source": "CoinDesk",
+              "published": "2026-08-07T04:17:01Z",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/b1c014a2d37a67798524621c1d3d9c1251ff9030-1500x935.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75"
             }
           ]
         },
@@ -252,6 +220,22 @@
           "title": "Hyperscalers",
           "icon": "☁️",
           "articles": [
+            {
+              "title": "Deutsche Telekom and SphereNet Is Helping Build Payment Rails for AI Agents",
+              "description": "Deutsche Telekom will operate a SphereNet validator as Sphere Labs develops a compliance-focused ledger for regulated finance and agentic payments.",
+              "url": "https://beincrypto.com/deutsche-telekom-spherenet-ai-agent-payments/",
+              "source": "BeInCrypto",
+              "published": "2026-08-06T22:38:01Z",
+              "image": "https://s.yimg.com/lo/mysterio/api/C0465FEFD7C9698C4710C1FB0C61360DF0256A924A1C3F722CDA10CD9EC3C50C/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Ffac9730a5e68bd1b9abcb7e51cf40032"
+            },
+            {
+              "title": "The $667.7 Million Question: What Happens When Stablecoin Reserve Income Gets Competed Away",
+              "description": "Circle renewed its revenue-sharing agreement with Coinbase on August 5, locking in a distribution model that cost the issuer approximately $908 million in fiscal year 2024. The following day, CoinShares published a research note identifying the Open USD (OUSD…",
+              "url": "https://forkast.news/the-667-7-million-question-what-happens-when-stablecoin-reserve-income-gets-competed-away/",
+              "source": "Forkast.news",
+              "published": "2026-08-06T14:45:12Z",
+              "image": "https://forkast.news/wp-content/uploads/2026/08/ousd-reserve-income-128815-1024x572.jpg"
+            },
             {
               "title": "Circle’s $14.8 Trillion Quarter Demolishes the Bear Thesis — But the Revenue Miss Reminds You Why It Existed",
               "description": "$14.8 trillion in onchain transaction volume moved through USDC in the second quarter of 2026. If you are still betting that the stablecoin is losing its utility as the primary settlement layer for the digital economy, you are betting against the plumbing of …",
@@ -275,30 +259,6 @@
               "source": "TheStreet",
               "published": "2026-08-04T17:11:41Z",
               "image": "https://s.yimg.com/lo/mysterio/api/DCB8E06ECC7658B383DD039FDA6B2DFBF85E7D9A058ED462F301C72BC51962AA/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2Fae18efabf1e1f5213fa5430cb194f5e6"
-            },
-            {
-              "title": "Jim Cramer plans to sell his Bitcoin over quantum fears as BTC rises 1.6%",
-              "description": "The CNBC personality said he’ll sell his Bitcoin holdings due to fears about quantum computing, as some cryptocurrency investors celebrated, referencing the popular “inverse Cramer” meme.",
-              "url": "https://cointelegraph.com/markets/jim-cramer-sell-bitcoin-quantum-fears-btc-rises",
-              "source": "Cointelegraph",
-              "published": "2026-08-04T10:47:39Z",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/hi-who-is-jim-cramerand-why-do-traders-love-to-hate-him.jpg"
-            },
-            {
-              "title": "XRP holders can now borrow RLUSD on Ethereum through $280 million lending pool",
-              "description": "XRP holders can now borrow RLUSD against their coins on Ethereum without selling, through a $280 million vault that had never accepted an XRP-linked asset before.",
-              "url": "https://www.coindesk.com/markets/2026/08/04/flare-s-wrapped-xrp-wins-approval-in-a-usd280-million-rlusd-lending-vault",
-              "source": "CoinDesk",
-              "published": "2026-08-04T06:12:20Z",
-              "image": "https://cdn.sanity.io/images/s3y3vcno/production/bf2fb64bb4bc73cd9c7a9df82a875d8bcc7a78a8-1440x1080.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75"
-            },
-            {
-              "title": "XRP Holders Can Now Borrow Ripple's RLUSD on Ethereum Without Selling Their Crypto",
-              "description": "Flare's FXRP has been approved as collateral in a $280 million RLUSD lending vault, allowing XRP holders to tap Ethereum's lending markets.",
-              "url": "https://decrypt.co/374862/xrp-holders-borrow-ripple-rlusd-ethereum-without-selling",
-              "source": "Decrypt",
-              "published": "2026-08-03T17:51:03Z",
-              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/xrp-decrypt-style-whatever-number-it-is-1-gID_7.jpg"
             }
           ]
         }
