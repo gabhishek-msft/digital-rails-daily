@@ -1,5 +1,5 @@
 {
-  "date": "August 09, 2026",
+  "date": "August 10, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -46,6 +46,14 @@
       "color": "#e6a200",
       "articles": [
         {
+          "title": "Four years after FTX, crypto exchanges still prove assets without proving solvency",
+          "description": "A customer opens an exchange account, copies a string of numbers and follows a path through a Merkle tree. The page processes the request and returns a reassuring result: the customer’s balance was included in the exchange’s proof of reserves. The verificatio…",
+          "url": "https://cryptoslate.com/four-years-after-ftx-crypto-exchanges-still-prove-assets-without-proving-solvency/",
+          "source": "CryptoSlate",
+          "published": "2026-08-08T17:20:31Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/08/proof-of-reserves-solvency-iceberg-collage.jpg"
+        },
+        {
           "title": "Binance proof of reserves shows Bitcoin and Ethereum fully backed at 100.25%",
           "description": "Binance's robust reserves enhance trust in crypto exchanges, potentially stabilizing the market and encouraging broader adoption.\nThe post Binance proof of reserves shows Bitcoin and Ethereum fully backed at 100.25% appeared first on Crypto Briefing.",
           "url": "https://cryptobriefing.com/binance-proof-of-reserves-august-2026/",
@@ -69,68 +77,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Binance co-founder CZ backs crypto license passporting across ASEAN",
-          "description": "Binance co-founder CZ backed crypto license passporting across ASEAN to simplify approvals, reduce compliance costs and encourage competition. Binance co-founder Changpeng “CZ” Zhao backed crypto license passporting across ASEAN, arguing that firms regulated …",
-          "url": "https://www.activistpost.com/binance-co-founder-cz-backs-crypto-license-passporting-across-asean/",
-          "source": "Activistpost.com",
-          "published": "2026-08-08T02:18:00Z",
-          "image": "https://www.activistpost.com/wp-content/uploads/2026/08/hi-cz-vs-eu-960x644-1.webp"
+          "title": "Ondo's USDY crosses $2.1B market cap in 3 years",
+          "description": "Ondo Finance is marking a milestone for one of its earliest products, as its tokenized Treasury note, USDY, turns three with a market cap of $2.1 billion. US...",
+          "url": "https://www.thestreet.com/crypto/innovation/ondos-usdy-crosses-2-1b-market-cap-in-3-years",
+          "source": "TheStreet",
+          "published": "2026-08-08T21:30:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/A6E603B6A4D910D293BAD91A1210A809665E999B4E2D690E5E85AC514F32F51A/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F75b3e40ba46b423253b4726bbc2f7eff"
         },
         {
-          "title": "Bitcoin’s $65K recovery shows its growing immunity to bad news as ETFs and whales buy $2 billion",
-          "description": "Bitcoin climbed back above $65,000 this week, extending an unusual stretch of resilience as the cryptocurrency absorbed a string of developments that would typically pressure prices. The top digital asset rose about 2% over the past 24 hours to as high as $65…",
-          "url": "https://cryptoslate.com/bitcoins-65k-recovery-shows-its-growing-immunity-to-bad-news-as-etfs-and-whales-buy-2-billion/",
+          "title": "US Senate advances landmark crypto bill before heading on August recess",
+          "description": "Senator John Thune is advancing a significant bill to regulate cryptocurrencies.  This legislation aims to provide the crypto industry with its first federal rulebook.  Passage of the Clarity Act would offer a major win for President Donald Trump.  Banks may …",
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/us-senate-moves-to-pass-landmark-crypto-bill-paving-the-way-for-major-regulatory-changes/articleshow/133058887.cms",
+          "source": "The Times of India",
+          "published": "2026-08-08T19:33:15Z",
+          "image": "https://img.etimg.com/thumb/msid-133058960,width-1200,height-630,imgsize-311542,overlay-economictimes/articleshow.jpg"
+        },
+        {
+          "title": "Bitcoin and Ethereum ETFs break $1B in their best week since April and BlackRock brought in 80% of the cash",
+          "description": "US-listed spot Bitcoin and Ethereum exchange-traded funds pulled in more than $1 billion in fresh cash this week, with both groups registering their strongest inflows since April as demand for regulated crypto investment products rebounded. Data from SoSoValu…",
+          "url": "https://cryptoslate.com/bitcoin-and-ethereum-etfs-break-1b-in-their-best-week-since-april-and-blackrock-brought-in-80-of-the-cash/",
           "source": "CryptoSlate",
-          "published": "2026-08-07T20:45:09Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-market-balance-scale.jpg"
+          "published": "2026-08-08T18:40:18Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/08/blackrock-etf-crane.jpg"
         },
         {
-          "title": "Sharplink and Galaxy Digital Launch First-of-Its-Kind $125M Onchain Yield Fund",
-          "description": "Institutional Fund Begins Deploying Capital Across DecentralizedFinance and Onchain Yield Strategies  NEW YORK, Aug.  07, 2026  (GLOBE NEWSWIRE) --...",
-          "url": "https://www.globenewswire.com/news-release/2026/08/07/3341392/0/en/sharplink-and-galaxy-digital-launch-first-of-its-kind-125m-onchain-yield-fund.html",
-          "source": "GlobeNewswire",
-          "published": "2026-08-07T20:15:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/2596f209-38c8-445d-ae60-92860d836186"
+          "title": "The world is writing the rules for digital assets",
+          "description": "And the U.S. cannot afford to fall behind",
+          "url": "https://www.wnd.com/2026/08/world-is-writing-rules-digital-assets/",
+          "source": "Wnd.com",
+          "published": "2026-08-08T17:22:04Z",
+          "image": "https://www.wnd.com/wp-content/uploads/2022/11/bitcoin-cryptocurrency-digital-money-pixabay-1200x630.jpg"
         },
         {
-          "title": "Nigeria's First SEC-Licensed Exchange, Quidax, Expands Stablecoin Infrastructure to Over 21 Countries",
-          "description": "The Expansion Unlocks a Compliant Engine for Businesses and Fintechs to Move Value Across Africa and Beyond  LAGOS, Nigeria, Aug.  07, 2026  (GLOBE...",
-          "url": "https://www.globenewswire.com/news-release/2026/08/07/3341366/0/en/nigeria-s-first-sec-licensed-exchange-quidax-expands-stablecoin-infrastructure-to-over-21-countries.html",
-          "source": "GlobeNewswire",
-          "published": "2026-08-07T19:50:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/676b521a-ea3f-43ed-ba45-3c8ded70b11a"
+          "title": "Senate Keeps Clarity Act Alive With Crypto Bill Vote Set for September",
+          "description": "Senate Majority Leader John Thune filed the motion to proceed early Saturday, setting up a mid-September showdown.",
+          "url": "https://decrypt.co/375174/senate-keeps-clarity-act-alive-with-crypto-bill-vote-set-for-september",
+          "source": "Decrypt",
+          "published": "2026-08-08T16:33:02Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/US-Capitol-decrypt-style-01-gID_7.png"
         },
         {
-          "title": "WonderFi Founder Says Canadian Crypto Rules Pushed Company Toward Robinhood",
-          "description": "WonderFi founder Karia Samaroo says Canada’s capital markets and crypto regulatory structure made the company...",
-          "url": "https://www.cryptoprowl.com/releases/wonderfi-founder-says-canadian-crypto-rules-pushed-company-toward-robinhood-6360",
-          "source": "Cryptoprowl.com",
-          "published": "2026-08-07T17:34:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/E271029682E218F8E04BB1E5FA2AD45AAD72F37FE240CE6B8AE6F05E06D030C1/subgraphmysterio/resizefill_w1200_h720;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F1aa94ad6d666160e48ae6a8985588adb"
+          "title": "US spot Bitcoin ETFs post best week since April with $1B inflows",
+          "description": "The spot Bitcoin exchange-traded funds registered their third-strongest showing since October as institutional demand showed signs of renewed momentum.",
+          "url": "https://cointelegraph.com/news/us-bitcoin-etfs-best-weekly-inflows-april-coldcard-hack",
+          "source": "Cointelegraph",
+          "published": "2026-08-08T16:20:17Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-part-2-where-oh-where-has-btc-volatility-gone-etf.jpg"
         },
         {
-          "title": "Coinbase Shares Jump 4% as Weak Jobs Report Fuels Bitcoin Rally and Rate Cut Hopes Across Crypto Stocks",
-          "description": "Coinbase shares rose 4.42% amid a broader crypto rally, driven by weak US jobs data that increased expectations for Federal Reserve rate cuts, boosting investor appetite for riskier assets.",
-          "url": "https://www.ibtimes.com.au/coinbase-shares-surge-crypto-rally-weak-us-jobs-report-1873729",
-          "source": "Ibtimes.com.au",
-          "published": "2026-08-07T16:04:21Z",
-          "image": "https://d.ibtimes.com.au/en/full/1843502/coinbase.jpg"
+          "title": "Bitcoin, XRP, Solana and Tron beat Ethereum and Cardano every month since 2022 on investor buying",
+          "description": "Crypto’s favorite buy-the-dip strategy failed to make money for Ethereum and Cardano investors who stuck with it since the start of 2022. An investor who placed $100 into Ethereum every month from January 2022 through August 2026 would have contributed $5,600…",
+          "url": "https://cryptoslate.com/bitcoin-xrp-solana-and-tron-beat-ethereum-and-cardano-every-month-since-2022-on-investor-buying/",
+          "source": "CryptoSlate",
+          "published": "2026-08-08T16:10:55Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/08/crypto-dca-gains-losses.jpg"
         },
         {
-          "title": "Tether Expands Tokenization To Saudi Arabia",
-          "description": "Stablecoin issuer Tether (CRYPTO: $USDT) is expanding its tokenization business to Saudi Arabia.",
-          "url": "https://www.cryptoprowl.com/releases/tether-expands-tokenization-to-saudi-arabia-6357",
-          "source": "Cryptoprowl.com",
-          "published": "2026-08-07T14:13:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/53C79AF22CE0AE77281900E1AFCB136A14278D71FF3616EC3B4ABB8E88AC5F92/subgraphmysterio/resizefill_w1200_h720;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F32cbbc8f36323a7886540a815ac753a8"
-        },
-        {
-          "title": "Crypto and National Security: Why Governments See Blockchain as a Strategic Asset",
-          "description": "The global community no longer sees crypto as just an investment market. Governments are now considering blockchain networks, digital assets, payment rails, and tokenized infrastructure...\nThe post Crypto and National Security: Why Governments See Blockchain …",
-          "url": "https://bitcoinfoundation.org/news/people-in-crypto-news/crypto-and-national-security-why-governments-see-blockchain-as-a-strategic-asset/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-08-06T19:21:47Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/08/Nashsec1-1.webp"
+          "title": "US Senate to vote on advancing CLARITY Act on Sept. 15 after Thune files cloture",
+          "description": "The procedural move puts crypto market structure legislation back on track as lawmakers continue negotiations over ethics and stablecoin provisions.",
+          "url": "https://cointelegraph.com/news/us-senate-clarity-act-september-vote-thune-cloture",
+          "source": "Cointelegraph",
+          "published": "2026-08-08T15:08:06Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-crypto-regulation-is-pushing-its-way-to-clarity-act-2.jpg"
         }
       ]
     },
@@ -139,6 +147,30 @@
       "icon": "🏥",
       "color": "#00cc88",
       "articles": [
+        {
+          "title": "Cashelix Announces Audited CASX Token Presale with Fixed Hard Caps to Power Blockchain P2P Payments",
+          "description": "CASX introduces a structured crypto presale with predefined timelines, fixed round-specific hard caps, transparent tokenomics, and utility centered on the Cashelix P2P payment ecosystem. CASX introduces a structured crypto presale with predefined timelines, f…",
+          "url": "https://www.globenewswire.com/news-release/2026/08/08/3341458/0/en/cashelix-announces-audited-casx-token-presale-with-fixed-hard-caps-to-power-blockchain-p2p-payments.html",
+          "source": "GlobeNewswire",
+          "published": "2026-08-08T14:23:00Z",
+          "image": "https://ml.globenewswire.com/Resource/Download/813fd4e3-22f6-4a79-adbf-bb3ef08f56ea"
+        },
+        {
+          "title": "CASX Token Presale Marks the Next Milestone for the Cashelix Payment Ecosystem",
+          "description": "Singapore, SG, Aug. 08, 2026 (GLOBE NEWSWIRE) -- Cashelix, a blockchain-powered digital payments platform focused on peer-to-peer (P2P) financial infrastructure, today announced the launch of CASX, its native utility token designed to power transactions, rewa…",
+          "url": "https://www.globenewswire.com/news-release/2026/08/08/3341450/0/en/casx-token-presale-marks-the-next-milestone-for-the-cashelix-payment-ecosystem.html",
+          "source": "GlobeNewswire",
+          "published": "2026-08-08T12:00:00Z",
+          "image": "https://ml.globenewswire.com/Resource/Download/d34a0e01-9efd-423e-9e95-ea03ef571217"
+        },
+        {
+          "title": "How to Buy New Crypto Before Listing",
+          "description": "Buying cryptocurrency before it appears on a major exchange sounds like the perfect strategy. Find the token early. Buy it cheaply. Wait for Coinbase, Kraken, Binance, or another large exchange to list it. Then benefit as millions of additional investors gain…",
+          "url": "https://themattwalshblog.com/how-to-buy-new-crypto-before-listing/",
+          "source": "Themattwalshblog.com",
+          "published": "2026-08-08T08:49:06Z",
+          "image": "https://themattwalshblog.com/wp-content/uploads/2026/08/How-to-Buy-New-Crypto-Before-Listing.png"
+        },
         {
           "title": "Trump Media Abandons Crypto Treasury, Prediction Market Ventures",
           "description": "Truth Social's parent company is unwinding two major Crypto.com partnerships as new leadership shifts its focus to media, data licensing, and a planned merger with fusion energy company TAE.",
@@ -178,30 +210,6 @@
           "source": "pymnts.com",
           "published": "2026-08-07T15:14:21Z",
           "image": "https://www.pymnts.com/wp-content/uploads/2023/03/Senate.jpg"
-        },
-        {
-          "title": "Carbon Launches TradFi-Native On-Chain Derivatives Venue With 950+ Markets in One Account",
-          "description": "Road Town, British Virgin Islands, 7th August 2026, Chainwire\nThe post Carbon Launches TradFi-Native On-Chain Derivatives Venue With 950+ Markets in One Account appeared first on The Daily Hodl.",
-          "url": "https://dailyhodl.com/2026/08/07/carbon-launches-tradfi-native-on-chain-derivatives-venue-with-950-markets-in-one-account/",
-          "source": "The Daily Hodl",
-          "published": "2026-08-07T14:10:13Z",
-          "image": "https://dailyhodl.com/wp-content/uploads/2026/08/PR_1785939515dNMTOKYCqN.jpg?resize=1920,1080"
-        },
-        {
-          "title": "Primary Crypto Market: What Is It, and Should You Invest Here?",
-          "description": "Most cryptocurrency investors buy assets only after they are already trading. They open an exchange account, search for Bitcoin or an altcoin, review the current price, and purchase tokens from another market participant. That activity takes place in the seco…",
-          "url": "https://themattwalshblog.com/primary-crypto-market/",
-          "source": "Themattwalshblog.com",
-          "published": "2026-08-07T05:13:30Z",
-          "image": "https://themattwalshblog.com/wp-content/uploads/2026/08/Primary-Crypto-Market-Guide.png"
-        },
-        {
-          "title": "Altcoin Investment Guide: How to Research, Buy and Invest in Altcoins",
-          "description": "Altcoins can produce dramatic returns. They can also lose 80%, 90%, or effectively all their value with remarkable efficiency. That is not a contradiction. It is the basic nature of the market. Alternative cryptocurrencies give investors exposure to smart-con…",
-          "url": "https://themattwalshblog.com/altcoin-investment-guide/",
-          "source": "Themattwalshblog.com",
-          "published": "2026-08-06T09:05:32Z",
-          "image": "https://themattwalshblog.com/wp-content/uploads/2026/08/Altcoin-Investment-Guide.png"
         }
       ]
     },
@@ -215,28 +223,12 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Crypto News Today: AlphaPepe Presale Passes 10,000 Holders As the Dogecoin Price Prediction Targets $0.50",
-              "description": "MONACO, Aug. 07, 2026 (GLOBE NEWSWIRE) -- Crypto news today is shifting toward AlphaPepe as the presale passes 10,000 holders and continues building momentum before its next launch update. The project has now raised $2.23 million, crossed 10,700+ holders, and…",
-              "url": "https://www.globenewswire.com/news-release/2026/08/08/3341430/0/en/crypto-news-today-alphapepe-presale-passes-10-000-holders-as-the-dogecoin-price-prediction-targets-0-50.html",
-              "source": "GlobeNewswire",
-              "published": "2026-08-08T01:00:00Z",
-              "image": "https://ml.globenewswire.com/Resource/Download/133252d8-81e3-4f16-901a-0d293c866a3e"
-            },
-            {
-              "title": "Scott Bessent unveils new evidence that U.S. pressure on Iran is working",
-              "description": "The United States has sanctioned crypto exchanges and companies it alleges helped Iran evade financial restrictions.\nTreasury Secretary Scott Bessent said Washington would continue targeting funding networks supporting the Iranian government.\nThe U.S. Treasur…",
-              "url": "https://biztoc.com/x/5a6715392057bf60",
-              "source": "Biztoc.com",
-              "published": "2026-08-07T23:29:48Z",
-              "image": "https://biztoc.com/cdn/5a6715392057bf60_s.webp"
-            },
-            {
-              "title": "Weekly Wrap: Bitcoin Hit By Coldcard Hack And Clarity Act Disappointment",
-              "description": "Bitcoin was trading right around $65,000 U.S. on Aug. 7 to end a difficult week for the crypto market....",
-              "url": "https://www.cryptoprowl.com/releases/weekly-wrap-bitcoin-hit-by-coldcard-hack-and-clarity-act-disappointment-6364",
-              "source": "Cryptoprowl.com",
-              "published": "2026-08-07T22:11:00Z",
-              "image": "https://s.yimg.com/lo/mysterio/api/64A790A320A9522D96AE9CFB6F9521A1F7D36A6297779ED35024F2A5472DFE15/subgraphmysterio/resizefill_w1200_h720;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2Fbd57b92632408b8bfb29aecad42bd286"
+              "title": "Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects",
+              "description": "A volunteer security effort says it has scanned 150 Bitcoin repositories, disclosed more than a dozen vulnerabilities, and is building an open-source AI platform to automate software security reviews.",
+              "url": "https://decrypt.co/375169/bitcoin-red-team-ai-finding-critical-vulnerabilities",
+              "source": "Decrypt",
+              "published": "2026-08-08T17:31:03Z",
+              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Bitcoin-decrypt-style-17-gID_7.png"
             }
           ]
         },
@@ -245,12 +237,20 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "MARA Holdings Falls 7%, Cipher Mining Drops 6%, TeraWulf Slides 4% as Q2 Losses Outweigh Bitcoin’s $65K Push",
-              "description": "Bitcoin is holding near $65,000, yet some of the largest mining stocks are posting their worst week in months. The reason has nothing to do with the coin and...",
-              "url": "https://247wallst.com/investing/2026/08/07/mara-holdings-falls-7-cipher-mining-drops-6-terawulf-slides-4-as-q2-losses-outweigh-bitcoins-65k-push/",
-              "source": "24/7 Wall St.",
-              "published": "2026-08-07T19:13:13Z",
-              "image": "https://s.yimg.com/lo/mysterio/api/9DF9AC65CA4EF73485313206F2D5F7A2844B7804A358D77363801BDE806D5537/subgraphmysterio/resizefill_w1200_h714;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2Fdc53c7c0f3887854b27b8d1f70df16c0"
+              "title": "Nvidia RTX 5090 ships in bizarre 8-motherboard bundle — retailers hold GPUs hostage similar to the crypto boom",
+              "description": "Taiwanese ecommerce platform PChome24h is packaging RTX 5090 GPUs with a crazy number of motherboards, entry-to-mid-range GPUs, and several other components. While interesting, these combos are alarming as they show the direction that the PC building industry…",
+              "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5090-ships-in-bizarre-8-motherboard-bundle-retailers-hold-gpus-hostage-similar-to-the-crypto-boom",
+              "source": "Tom's Hardware UK",
+              "published": "2026-08-08T17:08:45Z",
+              "image": "https://cdn.mos.cms.futurecdn.net/vRL36xuMjW72TLynN5pkge-1920-80.jpg"
+            },
+            {
+              "title": "Trump Media Terminates Crypto Treasury Plans To Prioritize Core Operations and Fusion Energy Merger",
+              "description": "Trump Media and Technology Group ends its multibillion-dollar cryptocurrency deals with Crypto.com to refocus on its media business and a pending merger with fusion firm TAE Technologies.\nThe post Trump Media Terminates Crypto Treasury Plans To Prioritize Cor…",
+              "url": "https://dailyhodl.com/2026/08/08/trump-media-terminates-crypto-treasury-plans-to-prioritize-core-operations-and-fusion-energy-merger/",
+              "source": "The Daily Hodl",
+              "published": "2026-08-08T14:30:19Z",
+              "image": "https://dailyhodl.com/wp-content/uploads/2025/04/truth-utility-token.jpg?resize=1365,800"
             },
             {
               "title": "Hackers Use BNB Chain to Spread Malware Through Fake CAPTCHAs",
@@ -267,6 +267,14 @@
               "source": "Forkast.news",
               "published": "2026-08-06T14:45:12Z",
               "image": "https://forkast.news/wp-content/uploads/2026/08/ousd-reserve-income-128815-1024x572.jpg"
+            },
+            {
+              "title": "Altcoin Investment Guide: How to Research, Buy and Invest in Altcoins",
+              "description": "Altcoins can produce dramatic returns. They can also lose 80%, 90%, or effectively all their value with remarkable efficiency. That is not a contradiction. It is the basic nature of the market. Alternative cryptocurrencies give investors exposure to smart-con…",
+              "url": "https://themattwalshblog.com/altcoin-investment-guide/",
+              "source": "Themattwalshblog.com",
+              "published": "2026-08-06T09:05:32Z",
+              "image": "https://themattwalshblog.com/wp-content/uploads/2026/08/Altcoin-Investment-Guide.png"
             },
             {
               "title": "FIPS 140-3 is not a security guarantee, and auditors know it",
