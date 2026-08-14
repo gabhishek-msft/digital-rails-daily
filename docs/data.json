@@ -1,11 +1,35 @@
 {
-  "date": "August 13, 2026",
+  "date": "August 14, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "Arbitrum Warning: ARB Token Unlock Could Trigger Another Sell-Off — Is a Crash Coming?",
+          "description": "Arbitrum is set to unlock another significant supply of tokens. On August 16, 2026, about 92.65 million ARB will enter circulation at a sub-$0.08 price....\nThe post Arbitrum Warning: ARB Token Unlock Could Trigger Another Sell-Off — Is a Crash Coming? appeare…",
+          "url": "https://bitcoinfoundation.org/news/altcoins/arbitrum-warning-arb-token-unlock-could-trigger-another-sell-off-is-a-crash-coming/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-08-12T20:02:51Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/08/ARB1-1.webp"
+        },
+        {
+          "title": "ZkSync Era leads RWA market cap growth by $77M in 24 hours",
+          "description": "ZkSync Era's rapid RWA market cap growth highlights the increasing institutional interest in blockchain for tokenizing traditional assets.\nThe post ZkSync Era leads RWA market cap growth by $77M in 24 hours appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/zksync-era-rwa-market-cap-growth/",
+          "source": "Crypto Briefing",
+          "published": "2026-08-12T15:04:17Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/12110407/zksync-era-le-mainnet-de-la-solution-de-scalabilit-pour-ethe-800x420.jpeg"
+        },
+        {
+          "title": "Pay with confidence: How Solv Labs built verifiable, auditable agent payments on Amazon Bedrock AgentCore payments",
+          "description": "Solv Labs built a governed agent-payments workflow on Amazon Bedrock AgentCore payments, where every transaction is authorized, attested in an AWS Nitro Enclave, priced for risk, and anchored to a public blockchain before settlement. See how the pattern gives…",
+          "url": "https://aws.amazon.com/blogs/machine-learning/pay-with-confidence-how-solv-labs-built-verifiable-auditable-agent-payments-on-amazon-bedrock-agentcore-payments/",
+          "source": "Amazon.com",
+          "published": "2026-08-12T13:44:58Z",
+          "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/06/ML-21446-featured-image.png"
+        },
         {
           "title": "What Is SXT Crypto? The Real Reason Space and Time Crashed 96%",
           "description": "SXT crypto has suffered one of the more brutal post-launch collapses among major exchange-listed tokens. Space and Time’s SXT reached roughly $0.16-$0.19 shortly after trading...\nThe post What Is SXT Crypto? The Real Reason Space and Time Crashed 96% appeared…",
@@ -21,6 +45,21 @@
           "source": "Crypto Briefing",
           "published": "2026-08-11T14:30:32Z",
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/11103025/about-aster-token-800x420.jpeg"
+        }
+      ]
+    },
+    "zkp-beyond": {
+      "title": "ZKP Beyond Finance",
+      "icon": "🔐",
+      "color": "#e6a200",
+      "articles": [
+        {
+          "title": "StarkWare CEO Eli Ben-Sasson advocates for affordable privacy and post-quantum security",
+          "description": "StarkWare's focus on privacy and post-quantum security could redefine blockchain standards, pressuring competitors to prioritize these features.\nThe post StarkWare CEO Eli Ben-Sasson advocates for affordable privacy and post-quantum security appeared first on…",
+          "url": "https://cryptobriefing.com/starkware-privacy-post-quantum-security/",
+          "source": "Crypto Briefing",
+          "published": "2026-08-12T18:38:02Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/12143757/starkware-launches-privacy-tokens-that-still-allow-complianc-800x420.jpeg"
         },
         {
           "title": "Cari Network secures commitments from 30 banks, enabling $10T in assets to move on-chain",
@@ -40,65 +79,97 @@
         }
       ]
     },
-    "zkp-beyond": {
-      "title": "ZKP Beyond Finance",
-      "icon": "🔐",
-      "color": "#e6a200",
-      "articles": [
-        {
-          "title": "Circle Built Its Own Blockchain: What Is Arc and Why It Matters for USDC",
-          "description": "Circle has spent years enabling USDC on other blockchains. Now it is building its own infrastructure. Arc, the Circle blockchain, is a settlement network for...\nThe post Circle Built Its Own Blockchain: What Is Arc and Why It Matters for USDC appeared first o…",
-          "url": "https://bitcoinfoundation.org/news/uncategorised/circle-blockchain-arc/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-08-09T07:48:31Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/08/arc-1.webp"
-        },
-        {
-          "title": "Four years after FTX, crypto exchanges still prove assets without proving solvency",
-          "description": "A customer opens an exchange account, copies a string of numbers and follows a path through a Merkle tree. The page processes the request and returns a reassuring result: the customer’s balance was included in the exchange’s proof of reserves. The verificatio…",
-          "url": "https://cryptoslate.com/four-years-after-ftx-crypto-exchanges-still-prove-assets-without-proving-solvency/",
-          "source": "CryptoSlate",
-          "published": "2026-08-08T17:20:31Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/08/proof-of-reserves-solvency-iceberg-collage.jpg"
-        }
-      ]
-    },
     "finserv": {
       "title": "Financial Institutions & Digital Assets",
       "icon": "🏦",
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Helfie AI Appoints Heavyweight Tech and Governance Leaders to its Board of Directors",
-          "description": "Former Apple and Airbnb executive Patrick Gates and ex-Meta executive Sunita Parasuraman join as Non-Executive Directors, strengthening Helfie's technology and governance. MELBOURNE, Australia, Aug. 11, 2026 /PRNewswire/ -- Helfie AI (\"Helfie\"), an AI-powered…",
-          "url": "https://www.prnewswire.com/news-releases/helfie-ai-appoints-heavyweight-tech-and-governance-leaders-to-its-board-of-directors-302849131.html",
+          "title": "HTX Ventures Examines Open USD: How Stablecoin Revenue and Rule-Setting Are Being Redistributed",
+          "description": "APIA, Samoa, Aug. 13, 2026 /PRNewswire/ -- HTX Ventures, the global investment arm of HTX, has released a new report titled Open Infrastructure, Closed Financial Rails: Open USD, Revenue Redistribution, and Participant Governance, examining the shifts underwa…",
+          "url": "https://www.prnewswire.com/news-releases/htx-ventures-examines-open-usd-how-stablecoin-revenue-and-rule-setting-are-being-redistributed-302850617.html",
           "source": "PRNewswire",
-          "published": "2026-08-12T03:08:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS1966667/Helfie-AI-Headshots.jpg?id=OA2850039&p=facebook"
+          "published": "2026-08-13T06:58:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS1969111/20260813021538EDT_image_1.jpg?id=OA2878639&p=facebook"
         },
         {
-          "title": "Itaú Unibanco tests tokenized bonds and funds on blockchain in Brazil pilot",
-          "description": "Ita's blockchain pilot could accelerate blockchain adoption in finance, influencing Ethereum's market dynamics and regulatory landscapes.\nThe post Itaú Unibanco tests tokenized bonds and funds on blockchain in Brazil pilot appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/ita-unibanco-tests-tokenized-bonds-and-funds-on-blockchain-in-brazil-pilot/",
-          "source": "Crypto Briefing",
-          "published": "2026-08-11T21:47:51Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/11174749/ita-unibanco-tests-tokenized-bonds-and-funds-on-blockchain-i-1-800x420.jpeg"
+          "title": "Metaplanet denies selling bitcoin worth $320 million",
+          "description": "Metaplanet CEO dismisses bitcoin sale rumors, confirms 43,000 BTC holdings",
+          "url": "https://www.coindesk.com/markets/2026/08/13/metaplanet-denies-selling-bitcoin-worth-usd320-million",
+          "source": "CoinDesk",
+          "published": "2026-08-13T05:34:48Z",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/44d0294c484d8706555e882705c55e5a13f13e91-1192x628.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75"
         },
         {
-          "title": "BlackRock Cuts IBIT In-Kind Conversion Minimum To $1M",
-          "description": "BlackRock has reduced the in-kind conversion minimum for its iShares Bitcoin Trust from $25 million to $1 million, potentially making the mechanism available to a wider group of institutional participants.",
-          "url": "http://www.newsbtc.com/news/blackrock-cuts-ibit-in-kind-conversion-minimum-to-1m/",
-          "source": "newsBTC",
-          "published": "2026-08-11T21:30:00Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2026/08/Full-House-Crypto-home.jpg?fit=1200%2C565"
+          "title": "Binance to launch commodity options on gold and silver",
+          "description": "Building on strong demand for commodity perpetuals, Binance adds another layer to its TradFi ecosystem with compliant, crypto-native options on core macro assets",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/binance-to-launch-commodity-options-on-gold-and-silver/articleshow/133198779.cms",
+          "source": "The Times of India",
+          "published": "2026-08-13T05:24:22Z",
+          "image": "https://img.etimg.com/thumb/msid-133198809,width-1200,height-630,imgsize-226434,overlay-economictimes/articleshow.jpg"
         },
         {
-          "title": "SEC to address crypto regulations in absence of CLARITY passage",
-          "description": "As the Senate remains in recess until September, the US Securities and Exchange Commission is expected to address crypto regulation that might have been covered in the CLARITY Act.",
-          "url": "https://cointelegraph.com/news/sec-crypto-regulations-absence-clarity-act",
-          "source": "Cointelegraph",
-          "published": "2026-08-11T20:59:07Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-court-case-crypto-vs-sec.jpg"
+          "title": "Project Pigeon Consortium Launches APAC Working Group to Advance Governance Standards for Permissionless Blockchains",
+          "description": "Project Pigeon Consortium Launches APAC Working Group to Advance Governance Standards for Permissionless Blockchains",
+          "url": "https://www.thehindubusinessline.com/brandhub/pr-release/project-pigeon-consortium-launches-apac-working-group-to-advance-governance-standards-for-permissionless-blockchains/article71339345.ece",
+          "source": "BusinessLine",
+          "published": "2026-08-13T02:00:21Z",
+          "image": "https://bl-i.thgim.com/public/incoming/vnjfga/article71339344.ece/alternates/LANDSCAPE_1200/RFI-logo-v1-Logo.jpg"
+        },
+        {
+          "title": "Fintech deepens global expansion after $40m strategic raise",
+          "description": "Yellow Card, a pan-African stablecoin provider, expands globally after a $40m Series C raise, strengthening its infrastructure and regulatory footprint.\n\nRead More: https://punchng.com/fintech-deepens-global-expansion-after-40m-strategic-raise/",
+          "url": "https://punchng.com/fintech-deepens-global-expansion-after-40m-strategic-raise/",
+          "source": "The Punch",
+          "published": "2026-08-13T00:07:07Z",
+          "image": "https://punchng.com/wp-content/uploads/2026/08/The-Group-Vice-President-of-Operations-and-Managing-Director-of-Yellow-Card-Nigeria-Lasbery-Oludimu._1786578537.webp"
+        },
+        {
+          "title": "Banks Challenge OCC’s Weekly Stablecoin Reporting Burden",
+          "description": "Comment letters filed with the Office of the Comptroller of the Currency show where implementation of federal stablecoin regulation may require further work, particularly around the information regulators expect issuers to produce regularly.\nThe OCC is focuse…",
+          "url": "https://biztoc.com/x/134924e459e89be7",
+          "source": "Biztoc.com",
+          "published": "2026-08-12T21:45:24Z",
+          "image": "https://biztoc.com/cdn/995/og.png"
+        },
+        {
+          "title": "Securitize Reports Second Quarter 2026 Results",
+          "description": "MIAMI, Aug. 12, 2026 /PRNewswire/ -- Securitize Corp.(1) (\"Securitize\" or the \"Company\") (NYSE: SECZ), the leader in tokenized assets, today announced financial results for the second quarter of 2026, which ended June 30, 2026. \"On July 2nd, shortly after qua…",
+          "url": "https://www.prnewswire.com/news-releases/securitize-reports-second-quarter-2026-results-302850119.html",
+          "source": "PRNewswire",
+          "published": "2026-08-12T20:15:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS1745764/Securitize-Logo.jpg?id=OA2869424&p=facebook"
+        },
+        {
+          "title": "Why CI/CD Security Testing Is Going Autonomous (and Why It Should Stay Local)",
+          "description": "Continuous integration and delivery changed the tempo of software. Teams merge dozens of times a day, infrastructure is redefined on every commit, and a new build can reach production in minutes. Security testing never caught up with that tempo. It still live…",
+          "url": "https://devops.com/why-ci-cd-security-testing-is-going-autonomous-and-why-it-should-stay-local/",
+          "source": "DevOps.com",
+          "published": "2026-08-12T19:26:26Z",
+          "image": "https://devops.com/wp-content/uploads/2026/08/SecurityTesting-e1786561674588.jpeg"
+        }
+      ]
+    },
+    "industries": {
+      "title": "Blockchain Beyond Finance",
+      "icon": "🏥",
+      "color": "#00cc88",
+      "articles": [
+        {
+          "title": "Tron Inc. put over 90% of assets behind an uninsured JustLend dependency as its TRX treasury kept growing",
+          "description": "Nearly all treasury TRX is sTRX, with no token insurance and a standard 14-day route back to native TRX.\nThe post Tron Inc. put over 90% of assets behind an uninsured JustLend dependency as its TRX treasury kept growing appeared first on CryptoSlate.",
+          "url": "https://cryptoslate.com/tron-inc-put-over-90-of-assets-behind-an-uninsured-justlend-dependency-as-its-trx-treasury-kept-growing/",
+          "source": "CryptoSlate",
+          "published": "2026-08-12T16:50:11Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/08/tron-justlend-token-flow.jpg"
+        },
+        {
+          "title": "Tracking Shai-Hulud: Inside the ChainDrop NPM Worm",
+          "description": "IntroductionOn August 4, 2026, a self-propagating worm called ChainDrop entered the npm ecosystem through a compromised maintainer account. ChainDrop is a variant of Mini Shai-Hulud linked to TeamPCP. ChainDrop anchored its C2 infrastructure in an Ethereum sm…",
+          "url": "https://www.zscaler.com/blogs/security-research/tracking-shai-hulud-inside-chaindrop-npm-worm",
+          "source": "Zscaler.com",
+          "published": "2026-08-11T21:21:27Z",
+          "image": "https://cms.zscaler.com/sites/default/files/images/blogs/chaindrop-%28shai---hulud%29.jpg"
         },
         {
           "title": "Itaú joins Brazil tokenization pilot with OpenAssets",
@@ -109,61 +180,6 @@
           "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-binance-plans-to-bring-tokenized-us-stocks-2.png"
         },
         {
-          "title": "GM reaches up to $4.5 billion parts deal designed to avoid supply chain troubles",
-          "description": "The deal follows years of global automotive supply chain issues for GM and other companies.",
-          "url": "https://www.cnbc.com/2026/08/11/gm-makes-4point5-billion-parts-deal-to-bolster-supply-chain.html",
-          "source": "CNBC",
-          "published": "2026-08-11T20:35:20Z",
-          "image": "https://image.cnbcfm.com/api/v1/image/108251655-1768310306409-gettyimages-2255454909-GM_BARRA.jpeg?v=1769119297&w=1920&h=1080"
-        },
-        {
-          "title": "SEC Prepares Escape Hatch From Securities Registration for Crypto Projects",
-          "description": "The agency has set an open meeting to consider moving forward with its Regulation Crypto proposal.",
-          "url": "https://decrypt.co/375375/sec-prepares-escape-hatch-securities-registration-crypto-projects",
-          "source": "Decrypt",
-          "published": "2026-08-11T20:10:00Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/paul-atkins-decrypt-style-01-gID_7.jpg"
-        },
-        {
-          "title": "Itaú deepens involvement in tokenization through joint initiative with OpenAssets",
-          "description": "Ita's tokenization push could revolutionize Brazil's financial markets, enhancing efficiency and potentially influencing global standards.\nThe post Itaú deepens involvement in tokenization through joint initiative with OpenAssets appeared first on Crypto Brie…",
-          "url": "https://cryptobriefing.com/itau-openassets-tokenization-brazil-pilot/",
-          "source": "Crypto Briefing",
-          "published": "2026-08-11T19:57:38Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/11155734/ita-deepens-involvement-in-tokenization-through-joint-initia-800x420.jpeg"
-        }
-      ]
-    },
-    "industries": {
-      "title": "Blockchain Beyond Finance",
-      "icon": "🏥",
-      "color": "#00cc88",
-      "articles": [
-        {
-          "title": "Tracking Shai-Hulud: Inside the ChainDrop NPM Worm",
-          "description": "IntroductionOn August 4, 2026, a self-propagating worm called ChainDrop entered the npm ecosystem through a compromised maintainer account. ChainDrop is a variant of Mini Shai-Hulud linked to TeamPCP. ChainDrop anchored its C2 infrastructure in an Ethereum sm…",
-          "url": "https://www.zscaler.com/blogs/security-research/tracking-shai-hulud-inside-chaindrop-npm-worm",
-          "source": "Zscaler.com",
-          "published": "2026-08-11T21:21:27Z",
-          "image": "https://cms.zscaler.com/sites/default/files/images/blogs/chaindrop-%28shai---hulud%29.jpg"
-        },
-        {
-          "title": "Trump’s media and crypto firm just posted a $238 million quarterly loss—here’s where those losses came from",
-          "description": "The decline in Bitcoin’s price and merger-related legal costs hurt results, prompting a push into new businesses.",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/trump-media-crypto-firm-just-181627531.html",
-          "source": "Yahoo Entertainment",
-          "published": "2026-08-11T18:16:27Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/930B108530EA01A6CFCCC064F5F8EF21328FC201227BB73F9FB3F6BD988C2451/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2Ffd94b8a210097a94802421bb9b069c5e.jpg"
-        },
-        {
-          "title": "Wells Fargo (WFC) Bets On Blockchain, But Can The Rally Continue?",
-          "description": "Wells Fargo (NYSE:WFC) just told its biggest clients they can move money on a Sunday. On August 4, the bank announced tokenized deposits, a blockchain-based...",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-wfc-bets-blockchain-180358121.html",
-          "source": "Yahoo Entertainment",
-          "published": "2026-08-11T18:03:58Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/2768E8898AE070CF8CE2ED05B7D9545AF4AE2D306C09B9470B0D5757E0B328CB/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F8cc81029b1165bd93086879696a844d4.jpg"
-        },
-        {
           "title": "Six npm Packages Read C2 Addresses From Ethereum Wallet",
           "description": "Six npm packages queried an Ethereum wallet to locate C2 infrastructure",
           "url": "https://www.infosecurity-magazine.com/news/npm-packages-ethereum-wallet-c2/",
@@ -172,20 +188,20 @@
           "image": "https://assets.infosecurity-magazine.com/webpage/og/7f4ffb01-78a2-4367-87bc-07725c580cec.jpg"
         },
         {
+          "title": "OpenAssets and Itaú Form Joint Initiative to Advance Tokenization Across Brazilian Capital Markets",
+          "description": "The initiative pairs OpenAssets' tokenization infrastructure with the largest Latin American bank, working together on ANBIMA's tokenization pilot. PITTSBURGH and SÃO PAULO, Aug. 11, 2026 /PRNewswire/ -- OpenAssets, a leading digital asset infrastructure prov…",
+          "url": "https://www.prnewswire.com/news-releases/openassets-and-itau-form-joint-initiative-to-advance-tokenization-across-brazilian-capital-markets-302847468.html",
+          "source": "PRNewswire",
+          "published": "2026-08-11T12:07:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS1967256/OpenAssets-Itaú-Strategic-Collaboration.jpg?id=OA2836788&p=facebook"
+        },
+        {
           "title": "Broadridge's Distributed Ledger Repo Processes $8.0 Trillion in July",
           "description": "July 2026 ADV reaches $365 billion; Institutional adoption continues as tokenized funding markets mature NEW YORK, Aug. 10, 2026 /PRNewswire/ -- Broadridge Financial Solutions, Inc. (NYSE: BR), global Fintech leader, today announced that its Distributed Ledge…",
           "url": "https://www.prnewswire.com/news-releases/broadridges-distributed-ledger-repo-processes-8-0-trillion-in-july-302847362.html",
           "source": "PRNewswire",
           "published": "2026-08-10T20:15:00Z",
           "image": "https://mmx.prnewswire.com/media/MS242893/Broadridge-2023-Logo.jpg?id=OA2851967&p=facebook"
-        },
-        {
-          "title": "Schroders gets Irish nod for tokenised money market fund",
-          "description": "The share class is intended to address client interest in digital asset products and more efficient fund operations.",
-          "url": "https://www.privatebankerinternational.com/news/schroders-irish-nod-tokenised-market-fund/",
-          "source": "Privatebankerinternational.com",
-          "published": "2026-08-10T11:29:54Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/A52D5FE5511054CD5C2B0DAD6B30275FBA4309D0C3D4901AF16375D3F0F85042/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fprivate_banker_international_938%2F776ca25b5c9543fa7790016e72ebf277"
         },
         {
           "title": "Mobile Wallet Market Report, Till 2035 Now Available — Forecasts Growth from $15.65B to $177.31B, Profiles Apple, Google, PayPal, and 15 Other Key Players",
@@ -215,28 +231,20 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Post-quantum migration gets harder when every user holds a key",
-              "description": "In this Help Net Security interview, Christopher Smith, CEO of Quantus, discusses what cryptographic inventories turn up in banks and hospitals, including default passwords and admin keys still held by former employees. He explains where post-quantum key size…",
-              "url": "https://www.helpnetsecurity.com/2026/08/12/christopher-smith-quantus-post-quantum-migration/",
-              "source": "Help Net Security",
-              "published": "2026-08-12T06:00:53Z",
-              "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/08/11113634/christopher_smith-2-quantus.webp"
+              "title": "Crypto valuations could double as protocols link revenue to tokens: Bitwise CIO",
+              "description": "Bitwise’s Matt Hougan expects revenue-capture mechanisms to spread across DeFi applications and layer-1 networks over the next 12 to 24 months.",
+              "url": "https://cointelegraph.com/news/crypto-valuations-protocol-revenue-token-buybacks",
+              "source": "Cointelegraph",
+              "published": "2026-08-13T05:01:42Z",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/hi-defi-revolution-during-a-global-crisis.jpg"
             },
             {
-              "title": "velaHita – Analyze stocks and crypto with signals, charts, and research",
-              "description": "Analyze stocks and crypto with signals, charts, and research",
-              "url": "https://betalist.com/startups/velahita",
-              "source": "Betalist.com",
-              "published": "2026-08-12T06:00:00Z",
-              "image": "https://resize.imagekit.co/N4xr5ciGpiJ1oD25o2lFOydufzCyrJq3VC7HJE03SrU/plain/s3://betalist-production/7y5ld5mq6h3if1egu00h3xj4mx6c"
-            },
-            {
-              "title": "Friday’s SEC vote could unlock $75 million crypto raises – or trap token issuers in unexpected legal fine print",
-              "description": "The Commission is considering a proposal, not a live exemption, and eligibility and resale rules remain undisclosed.\nThe post Friday’s SEC vote could unlock $75 million crypto raises – or trap token issuers in unexpected legal fine print appeared first on Cry…",
-              "url": "https://cryptoslate.com/fridays-sec-vote-could-unlock-75-million-crypto-raises-or-trap-token-issuers-in-unexpected-legal-fine-print/",
-              "source": "CryptoSlate",
-              "published": "2026-08-11T20:10:02Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/08/sec-crypto-exemption-path.jpg"
+              "title": "ooor",
+              "description": "Ooor  Ooor, also stylized ooor, oooor, ooooor or with varying numbers of *o*s, is an internet slang term and meme format primarily associated with Crypto T",
+              "url": "https://knowyourmeme.com/memes/ooor",
+              "source": "Knowyourmeme.com",
+              "published": "2026-08-12T22:04:04Z",
+              "image": "https://i.kym-cdn.com/entries/icons/original/000/057/284/oooor.png"
             }
           ]
         },
@@ -244,6 +252,30 @@
           "title": "Hyperscalers",
           "icon": "☁️",
           "articles": [
+            {
+              "title": "Robinhood’s Crypto Slump Got the Headlines. Its 10x Business Got Ignored.",
+              "description": "Robinhood Markets, Inc. (NASDAQ:HOOD) reported record quarterly revenue on July 29, 2026, and the stock faded anyway. Second-quarter revenue hit an all-time...",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/robinhood-crypto-slump-got-headlines-194949580.html",
+              "source": "Yahoo Entertainment",
+              "published": "2026-08-12T19:49:49Z",
+              "image": "https://s.yimg.com/lo/mysterio/api/5F0F8B5104D20A8AFD650B7C1922657E23C13B8ED767EFA4BDD28A5A65A90A00/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fec7cdbcb5520f1c412e1549972f60dcf.jpg"
+            },
+            {
+              "title": "Bringing Crypto-Agility And PQC Visibility To The Network With NAV",
+              "description": "The Q4 2025 Wave™ evaluation for Network Analysis and Visibility (NAV) solutions was the first iteration of the research to evaluate vendors on their post-quantum cryptography (PQC) capabilities, a decision that has become more pronounced in 2026. The rationa…",
+              "url": "https://www.forrester.com/blogs/bringing-crypto-agility-and-pqc-visibility-to-the-network-with-nav/",
+              "source": "Forrester.com",
+              "published": "2026-08-12T19:05:09Z",
+              "image": "https://go.forrester.com/wp-content/uploads/2026/08/Jitin-Shabadu-WP1-Image-1.jpg"
+            },
+            {
+              "title": "Whales Rush to Buy Chainlink After Standard Chartered’s 2030 Price Forecast",
+              "description": "Chainlink whale transactions hit a 5-month high after Standard Chartered's LINK call, but ETF flows stay flat.",
+              "url": "https://beincrypto.com/chainlink-whale-activity-standard-chartered-call/",
+              "source": "BeInCrypto",
+              "published": "2026-08-12T11:36:23Z",
+              "image": "https://s.yimg.com/lo/mysterio/api/4D8B673F06CF90D5393FB99914C3955F743763F8734810DD3680BF3C7DD4C78F/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Fc436216ce9fa7872ed352e0d6ac72ce7.png"
+            },
             {
               "title": "DeadLock ransomware uses blockchain to resist infrastructure takedown",
               "description": "The DeadLock ransomware operation is using a decentralized infrastructure that relies on blockchain-backed services to protect its communication with victims and data-leak activity. [...]",
@@ -269,44 +301,12 @@
               "image": null
             },
             {
-              "title": "Standard Chartered predicts 2,300% upside for LINK",
-              "description": "Standard Chartered initiated coverage of Chainlink's native token, LINK, with an extremely bullish price target on Aug. 10. Chainlink is a decentralized bloc...",
-              "url": "https://www.thestreet.com/crypto/markets/standard-chartered-predicts-2300-upside-for-link",
-              "source": "TheStreet",
-              "published": "2026-08-10T20:30:00Z",
-              "image": "https://s.yimg.com/lo/mysterio/api/DED698720EA309EC6BF1DE1F56126BFB1DDD17368A1D7E44303A34DA339C5CCC/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F5bc0d16d0e09f604d90d7387376995be"
-            },
-            {
-              "title": "DeadLock ransomware turns recovery chat into a decentralized takedown challenge",
-              "description": "DeadLock ransomware is using a self-contained recovery chat that combines the Polygon blockchain, the decentralized Session messenger, and external file storage. Microsoft’s analysis also details a Rust-based encryptor that suppresses security and backup serv…",
-              "url": "https://4sysops.com/archives/deadlock-ransomware-turns-recovery-chat-into-a-decentralized-takedown-challenge/",
-              "source": "4sysops.com",
-              "published": "2026-08-10T15:59:08Z",
-              "image": "https://4sysops.com/wp-content/uploads/2026/08/deadlock-ransomware-turns-recovery-chat-into-a-decentralized-takedown-challenge.webp"
-            },
-            {
-              "title": "Hackers Drain $8 Million From Crypto Exchange Across Two Blockchains",
-              "description": "The attacker moved funds across Tron and Ethereum before routing millions through crypto exchanges, while later wallet activity offers clues about how the breach occurred.",
-              "url": "https://decrypt.co/375213/hackers-drain-8-million-from-crypto-platform-coinsbuy",
-              "source": "Decrypt",
-              "published": "2026-08-10T15:56:30Z",
-              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/crime_hacker-gID_7.png"
-            },
-            {
               "title": "DeadLock ransomware: Breaking down a Rust-based encryptor with decentralized recovery infrastructure",
               "description": "Microsoft Threat Intelligence examines DeadLock ransomware, an emerging financially motivated operation distinguished by its use of decentralized infrastructure to support victim communications, negotiations, and data leak operations alongside double extortio…",
               "url": "https://www.microsoft.com/en-us/security/blog/2026/08/10/deadlock-ransomware-breaking-down-a-rust-based-encryptor-with-decentralized-recovery-infrastructure/",
               "source": "Microsoft.com",
               "published": "2026-08-10T15:00:00Z",
               "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/08/DeadLock-featured-image-1024x576.png"
-            },
-            {
-              "title": "Tokenized RWA surge to $4T may push LINK to $200 by end 2030: Standard Chartered",
-              "description": "The LINK token may see a 25-fold increase to $200 by the end of 2030, as the growing real world asset market increases demand for the industry’s largest oracle services provider, according to Standard Chartered.",
-              "url": "https://cointelegraph.com/news/tokenized-rwa-4t-push-link-200-standard-chartered",
-              "source": "Cointelegraph",
-              "published": "2026-08-10T11:39:39Z",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-revolution-3.jpg"
             }
           ]
         }
