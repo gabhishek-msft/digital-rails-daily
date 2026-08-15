@@ -1,11 +1,19 @@
 {
-  "date": "August 14, 2026",
+  "date": "August 15, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "Zcash is borrowing crypto’s new institutional playbook as privacy goes mainstream",
+          "description": "Zcash Labs launched Aug. 6 to move Zcash deeper into business and institutional use. The independent group is focused on integrations, infrastructure, and adoption projects for companies that want to use ZEC. Zcash Labs will front project costs and later seek…",
+          "url": "https://cryptoslate.com/zcash-is-borrowing-cryptos-new-institutional-playbook-as-privacy-goes-mainstream/",
+          "source": "CryptoSlate",
+          "published": "2026-08-13T10:15:09Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/08/savers-bitcoin.jpeg"
+        },
         {
           "title": "Arbitrum Warning: ARB Token Unlock Could Trigger Another Sell-Off — Is a Crash Coming?",
           "description": "Arbitrum is set to unlock another significant supply of tokens. On August 16, 2026, about 92.65 million ARB will enter circulation at a sub-$0.08 price....\nThe post Arbitrum Warning: ARB Token Unlock Could Trigger Another Sell-Off — Is a Crash Coming? appeare…",
@@ -54,12 +62,12 @@
       "color": "#e6a200",
       "articles": [
         {
-          "title": "StarkWare CEO Eli Ben-Sasson advocates for affordable privacy and post-quantum security",
-          "description": "StarkWare's focus on privacy and post-quantum security could redefine blockchain standards, pressuring competitors to prioritize these features.\nThe post StarkWare CEO Eli Ben-Sasson advocates for affordable privacy and post-quantum security appeared first on…",
-          "url": "https://cryptobriefing.com/starkware-privacy-post-quantum-security/",
+          "title": "Ethereum Foundation moves away from Poseidon hash toward SHA and BLAKE",
+          "description": "Ethereum's shift to SHA and BLAKE3 highlights the evolving landscape of cryptographic security, emphasizing compatibility and post-quantum readiness.\nThe post Ethereum Foundation moves away from Poseidon hash toward SHA and BLAKE appeared first on Crypto Brie…",
+          "url": "https://cryptobriefing.com/ethereum-foundation-drops-poseidon-sha-blake/",
           "source": "Crypto Briefing",
-          "published": "2026-08-12T18:38:02Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/12143757/starkware-launches-privacy-tokens-that-still-allow-complianc-800x420.jpeg"
+          "published": "2026-08-13T15:56:48Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/13115638/ethereum-foundation-800x420.png"
         },
         {
           "title": "Cari Network secures commitments from 30 banks, enabling $10T in assets to move on-chain",
@@ -85,68 +93,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "HTX Ventures Examines Open USD: How Stablecoin Revenue and Rule-Setting Are Being Redistributed",
-          "description": "APIA, Samoa, Aug. 13, 2026 /PRNewswire/ -- HTX Ventures, the global investment arm of HTX, has released a new report titled Open Infrastructure, Closed Financial Rails: Open USD, Revenue Redistribution, and Participant Governance, examining the shifts underwa…",
-          "url": "https://www.prnewswire.com/news-releases/htx-ventures-examines-open-usd-how-stablecoin-revenue-and-rule-setting-are-being-redistributed-302850617.html",
-          "source": "PRNewswire",
-          "published": "2026-08-13T06:58:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS1969111/20260813021538EDT_image_1.jpg?id=OA2878639&p=facebook"
+          "title": "Multicoin exits the $1.65 billion Solana treasury company it helped launch eight months ago",
+          "description": "Cash fell to $4.5 million while Galaxy loans reached $120 million and 52.7% of reported SOL equivalents were pledged.\nThe post Multicoin exits the $1.65 billion Solana treasury company it helped launch eight months ago appeared first on CryptoSlate.",
+          "url": "https://cryptoslate.com/multicoin-exits-the-1-65-billion-solana-treasury-company-it-helped-launch-eight-months-ago/",
+          "source": "CryptoSlate",
+          "published": "2026-08-13T23:20:17Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/08/forward_multicoin_solana_collage.jpg"
         },
         {
-          "title": "Metaplanet denies selling bitcoin worth $320 million",
-          "description": "Metaplanet CEO dismisses bitcoin sale rumors, confirms 43,000 BTC holdings",
-          "url": "https://www.coindesk.com/markets/2026/08/13/metaplanet-denies-selling-bitcoin-worth-usd320-million",
+          "title": "Yellow Card’s new funding ’ll improve cross-border payments",
+          "description": "By Prince Osuagwu, Hi-Tech Editor Challenges facing businesses especially in the area of cross-border payment may soon be over as a stablecoin-based infrastructure, Yellow Card, has disclosed a fresh $40 million funding to scale its technology and expand its …",
+          "url": "https://www.vanguardngr.com/2026/08/yellow-cards-new-funding-ll-improve-cross-border-payments/",
+          "source": "Vanguard",
+          "published": "2026-08-13T23:19:00Z",
+          "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/08/Yello-card.png"
+        },
+        {
+          "title": "Chime Weighs Adding Stablecoin Wallet to Consumer Banking App",
+          "description": "Chime Financial is considering adding stablecoins as a feature in its consumer banking app, Bloomberg reported Thursday (Aug. 13), citing unnamed sources. The FinTech asked blockchain technology companies to submit proposals to provide stablecoin wallet servi…",
+          "url": "https://www.pymnts.com/blockchain/2026/chime-weighs-adding-stablecoin-wallet-to-consumer-banking-app/",
+          "source": "pymnts.com",
+          "published": "2026-08-13T23:13:30Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/02/Chime-Enterprise-personal-finances.jpeg"
+        },
+        {
+          "title": "SEC cancels long-awaited proposal of Reg Crypto, postponing meeting without new date",
+          "description": "The first major crypto rule to be proposed by the U.S. Securities and Exchange Commission will have to wait a bit longer after a sudden postponement.",
+          "url": "https://www.coindesk.com/policy/2026/08/13/sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-date",
           "source": "CoinDesk",
-          "published": "2026-08-13T05:34:48Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/44d0294c484d8706555e882705c55e5a13f13e91-1192x628.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75"
+          "published": "2026-08-13T22:18:07Z",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/090e5c77bf9a39a85f3ba365ccf65e1cbecb6a4f-3781x2129.jpg?auto=format&fit=crop&crop=focalpoint&fp-x=0.526&fp-y=0.8214&w=1920&h=1080&q=75"
         },
         {
-          "title": "Binance to launch commodity options on gold and silver",
-          "description": "Building on strong demand for commodity perpetuals, Binance adds another layer to its TradFi ecosystem with compliant, crypto-native options on core macro assets",
-          "url": "https://economictimes.indiatimes.com/industry/banking/finance/binance-to-launch-commodity-options-on-gold-and-silver/articleshow/133198779.cms",
-          "source": "The Times of India",
-          "published": "2026-08-13T05:24:22Z",
-          "image": "https://img.etimg.com/thumb/msid-133198809,width-1200,height-630,imgsize-226434,overlay-economictimes/articleshow.jpg"
+          "title": "MUFG PoC to bring Japanese government bond repo transactions onchain",
+          "description": "MUFG’s experiment plans to bring Japanese government bond repo transactions onchain to achieve 24/7 settlement, as well as improved capital and operational efficiency.",
+          "url": "https://cointelegraph.com/news/mufg-bring-japanese-government-bond-repo-transactions-onchain",
+          "source": "Cointelegraph",
+          "published": "2026-08-13T13:00:37Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-japan-issue-bonds-on-blockchain-how-significant-is-this-1.jpg"
         },
         {
-          "title": "Project Pigeon Consortium Launches APAC Working Group to Advance Governance Standards for Permissionless Blockchains",
-          "description": "Project Pigeon Consortium Launches APAC Working Group to Advance Governance Standards for Permissionless Blockchains",
-          "url": "https://www.thehindubusinessline.com/brandhub/pr-release/project-pigeon-consortium-launches-apac-working-group-to-advance-governance-standards-for-permissionless-blockchains/article71339345.ece",
-          "source": "BusinessLine",
-          "published": "2026-08-13T02:00:21Z",
-          "image": "https://bl-i.thgim.com/public/incoming/vnjfga/article71339344.ece/alternates/LANDSCAPE_1200/RFI-logo-v1-Logo.jpg"
+          "title": "Why millions of everyday savers will soon own Bitcoin without ever downloading a crypto app",
+          "description": "A future Bitcoin buyer may encounter the asset through a portfolio they already own. An adviser can add a small allocation, a brokerage account can hold a spot ETF, and future retirement products could place Bitcoin inside another familiar investment wrapper.…",
+          "url": "https://cryptoslate.com/why-millions-of-everyday-savers-will-soon-own-bitcoin-without-ever-downloading-a-crypto-app/",
+          "source": "CryptoSlate",
+          "published": "2026-08-13T12:15:51Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/08/btc-saver-Large.jpeg"
         },
         {
-          "title": "Fintech deepens global expansion after $40m strategic raise",
-          "description": "Yellow Card, a pan-African stablecoin provider, expands globally after a $40m Series C raise, strengthening its infrastructure and regulatory footprint.\n\nRead More: https://punchng.com/fintech-deepens-global-expansion-after-40m-strategic-raise/",
-          "url": "https://punchng.com/fintech-deepens-global-expansion-after-40m-strategic-raise/",
-          "source": "The Punch",
-          "published": "2026-08-13T00:07:07Z",
-          "image": "https://punchng.com/wp-content/uploads/2026/08/The-Group-Vice-President-of-Operations-and-Managing-Director-of-Yellow-Card-Nigeria-Lasbery-Oludimu._1786578537.webp"
+          "title": "MUFG to test real-time blockchain settlement for Japanese government bond trades",
+          "description": "MUFG is preparing a proof-of-concept for onchain JGB transactions using the Canton network.",
+          "url": "https://www.coindesk.com/business/2026/08/13/mufg-to-test-real-time-blockchain-settlement-for-japanese-government-bond-trades",
+          "source": "CoinDesk",
+          "published": "2026-08-13T10:15:32Z",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/8ffa2d62fbee889a39cf3506a9fb9ed7ab545c85-1500x888.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75"
         },
         {
-          "title": "Banks Challenge OCC’s Weekly Stablecoin Reporting Burden",
-          "description": "Comment letters filed with the Office of the Comptroller of the Currency show where implementation of federal stablecoin regulation may require further work, particularly around the information regulators expect issuers to produce regularly.\nThe OCC is focuse…",
-          "url": "https://biztoc.com/x/134924e459e89be7",
-          "source": "Biztoc.com",
-          "published": "2026-08-12T21:45:24Z",
-          "image": "https://biztoc.com/cdn/995/og.png"
-        },
-        {
-          "title": "Securitize Reports Second Quarter 2026 Results",
-          "description": "MIAMI, Aug. 12, 2026 /PRNewswire/ -- Securitize Corp.(1) (\"Securitize\" or the \"Company\") (NYSE: SECZ), the leader in tokenized assets, today announced financial results for the second quarter of 2026, which ended June 30, 2026. \"On July 2nd, shortly after qua…",
-          "url": "https://www.prnewswire.com/news-releases/securitize-reports-second-quarter-2026-results-302850119.html",
-          "source": "PRNewswire",
-          "published": "2026-08-12T20:15:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS1745764/Securitize-Logo.jpg?id=OA2869424&p=facebook"
-        },
-        {
-          "title": "Why CI/CD Security Testing Is Going Autonomous (and Why It Should Stay Local)",
-          "description": "Continuous integration and delivery changed the tempo of software. Teams merge dozens of times a day, infrastructure is redefined on every commit, and a new build can reach production in minutes. Security testing never caught up with that tempo. It still live…",
-          "url": "https://devops.com/why-ci-cd-security-testing-is-going-autonomous-and-why-it-should-stay-local/",
-          "source": "DevOps.com",
-          "published": "2026-08-12T19:26:26Z",
-          "image": "https://devops.com/wp-content/uploads/2026/08/SecurityTesting-e1786561674588.jpeg"
+          "title": "Bank of England Takes Digital Pound to Phase 2 With Polygon Cross-Border Tests",
+          "description": "Exporters settle in stablecoins on Polygon; UK importers settle in a simulated digital pound, testing atomic dual-currency settlement within a single trade f...",
+          "url": "https://www.ccn.com/news/crypto/bank-england-digital-pound-stablecoins-polygon/",
+          "source": "Crypto Coins News",
+          "published": "2026-08-13T08:22:45Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/0CDEE7DB9B6574E132A0A2E0FDE494700F82733974E95C0A276240F6606ED647/subgraphmysterio/resizefill_w1200_h750;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fccn_928%2Fb8f4a1bd85898e6075a674191ef593c4"
         }
       ]
     },
@@ -156,12 +164,28 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Tron Inc. put over 90% of assets behind an uninsured JustLend dependency as its TRX treasury kept growing",
-          "description": "Nearly all treasury TRX is sTRX, with no token insurance and a standard 14-day route back to native TRX.\nThe post Tron Inc. put over 90% of assets behind an uninsured JustLend dependency as its TRX treasury kept growing appeared first on CryptoSlate.",
-          "url": "https://cryptoslate.com/tron-inc-put-over-90-of-assets-behind-an-uninsured-justlend-dependency-as-its-trx-treasury-kept-growing/",
-          "source": "CryptoSlate",
-          "published": "2026-08-12T16:50:11Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/08/tron-justlend-token-flow.jpg"
+          "title": "Are churches missing out in the bitcoin boom?",
+          "description": "Earlier this summer, a church on England’s south coast made headlines, when it declared it was going to accept bitcoin as donations.",
+          "url": "https://www.christiantoday.com/news/are-churches-missing-out-in-the-bitcoin-boom",
+          "source": "Christiantoday.com",
+          "published": "2026-08-14T04:41:00Z",
+          "image": "https://www.christiantoday.com/media/original/thumbnail/14/54/145418.jpg"
+        },
+        {
+          "title": "Figure’s Blockchain Marketplace Tops $1 Billion Weekly Loan Applications After Record Q2",
+          "description": "Blockchain-native capital marketplace Figure Technology Solutions saw its Consumer Loan Marketplace volume leap 132% to $4.3 billion in the second quarter as both prospects and investors saw the benefits of this platform for capital, CEO Michael Tannenbaum sa…",
+          "url": "https://www.pymnts.com/earnings/2026/figures-blockchain-marketplace-tops-1-billion-weekly-loan-applications-after-record-q2/",
+          "source": "pymnts.com",
+          "published": "2026-08-14T01:18:08Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/02/Figure-earnings-xxx1.jpg"
+        },
+        {
+          "title": "Chime Financial Considers Adding Stablecoins To Its App",
+          "description": "Chime Financial (NASDAQ: $CHYM) is planning to add stablecoins to its consumer banking platform and app.",
+          "url": "https://www.cryptoprowl.com/releases/chime-financial-considers-adding-stablecoins-to-its-app-6419",
+          "source": "Cryptoprowl.com",
+          "published": "2026-08-13T19:47:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/293AF121D4B54F9A1B562EEFBDB8A9B558DC3B33BCDB1F13A998CB465BF9F16B/subgraphmysterio/resizefill_w1200_h720;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2Fd67065daac5533a35e675c8da9d56208.jpg"
         },
         {
           "title": "Tracking Shai-Hulud: Inside the ChainDrop NPM Worm",
@@ -202,22 +226,6 @@
           "source": "PRNewswire",
           "published": "2026-08-10T20:15:00Z",
           "image": "https://mmx.prnewswire.com/media/MS242893/Broadridge-2023-Logo.jpg?id=OA2851967&p=facebook"
-        },
-        {
-          "title": "Mobile Wallet Market Report, Till 2035 Now Available — Forecasts Growth from $15.65B to $177.31B, Profiles Apple, Google, PayPal, and 15 Other Key Players",
-          "description": "Global mobile wallet market poised for rapid expansion as biometric security, super apps, and emerging-market digital payment initiatives reshape the competitive landscape Global mobile wallet market poised for rapid expansion as biometric security, super app…",
-          "url": "https://www.globenewswire.com/news-release/2026/08/10/3341582/28124/en/mobile-wallet-market-report-till-2035-now-available-forecasts-growth-from-15-65b-to-177-31b-profiles-apple-google-paypal-and-15-other-key-players.html",
-          "source": "GlobeNewswire",
-          "published": "2026-08-10T08:12:00Z",
-          "image": "https://ml.globenewswire.com/Resource/Download/666f5bb2-7dcf-46d3-9082-dcdd9f45c636"
-        },
-        {
-          "title": "How to Buy New Crypto Before Listing",
-          "description": "Buying cryptocurrency before it appears on a major exchange sounds like the perfect strategy. Find the token early. Buy it cheaply. Wait for Coinbase, Kraken, Binance, or another large exchange to list it. Then benefit as millions of additional investors gain…",
-          "url": "https://themattwalshblog.com/how-to-buy-new-crypto-before-listing/",
-          "source": "Themattwalshblog.com",
-          "published": "2026-08-08T08:49:06Z",
-          "image": "https://themattwalshblog.com/wp-content/uploads/2026/08/How-to-Buy-New-Crypto-Before-Listing.png"
         }
       ]
     },
@@ -231,20 +239,20 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Crypto valuations could double as protocols link revenue to tokens: Bitwise CIO",
-              "description": "Bitwise’s Matt Hougan expects revenue-capture mechanisms to spread across DeFi applications and layer-1 networks over the next 12 to 24 months.",
-              "url": "https://cointelegraph.com/news/crypto-valuations-protocol-revenue-token-buybacks",
-              "source": "Cointelegraph",
-              "published": "2026-08-13T05:01:42Z",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/hi-defi-revolution-during-a-global-crisis.jpg"
+              "title": "Bit Digital pledged 74% of its staked Ethereum position to a loan that can trigger a 24-hour collateral call",
+              "description": "The non-cash charge did not trigger a disclosed margin call, but the loan's live collateral thresholds remain private.\nThe post Bit Digital pledged 74% of its staked Ethereum position to a loan that can trigger a 24-hour collateral call appeared first on Cryp…",
+              "url": "https://cryptoslate.com/bit-digital-pledged-74-of-its-staked-ethereum-position-to-a-loan-that-can-trigger-a-24-hour-collateral-call/",
+              "source": "CryptoSlate",
+              "published": "2026-08-14T00:30:29Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/08/bit_digital_whitefiber_collateral_flow.jpg"
             },
             {
-              "title": "ooor",
-              "description": "Ooor  Ooor, also stylized ooor, oooor, ooooor or with varying numbers of *o*s, is an internet slang term and meme format primarily associated with Crypto T",
-              "url": "https://knowyourmeme.com/memes/ooor",
-              "source": "Knowyourmeme.com",
-              "published": "2026-08-12T22:04:04Z",
-              "image": "https://i.kym-cdn.com/entries/icons/original/000/057/284/oooor.png"
+              "title": "US securities regulator cancels meeting to vote on crypto rules",
+              "description": "The U.S. Securities and Exchange Commission on Thursday abruptly canceled a meeting scheduled for Friday on whether the agency should propose ‌new crypto-rel...",
+              "url": "https://finance.yahoo.com/markets/crypto/articles/us-securities-regulator-cancels-meeting-214845828.html",
+              "source": "Yahoo Entertainment",
+              "published": "2026-08-13T21:48:45Z",
+              "image": "https://s.yimg.com/lo/mysterio/api/817B89A9F32842E485344D13E8122DD86AEEC510BD9CB89E42AD636D0D2B4AF2/subgraphmysterio/resizefill_w1200_h782;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters-finance.com%2F13ad0f41be7e6452bea76c6accba101c.jpg"
             }
           ]
         },
@@ -253,20 +261,12 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "Robinhood’s Crypto Slump Got the Headlines. Its 10x Business Got Ignored.",
-              "description": "Robinhood Markets, Inc. (NASDAQ:HOOD) reported record quarterly revenue on July 29, 2026, and the stock faded anyway. Second-quarter revenue hit an all-time...",
-              "url": "https://finance.yahoo.com/markets/stocks/articles/robinhood-crypto-slump-got-headlines-194949580.html",
-              "source": "Yahoo Entertainment",
-              "published": "2026-08-12T19:49:49Z",
-              "image": "https://s.yimg.com/lo/mysterio/api/5F0F8B5104D20A8AFD650B7C1922657E23C13B8ED767EFA4BDD28A5A65A90A00/subgraphmysterio/resizefill_w1200_h673;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fec7cdbcb5520f1c412e1549972f60dcf.jpg"
-            },
-            {
-              "title": "Bringing Crypto-Agility And PQC Visibility To The Network With NAV",
-              "description": "The Q4 2025 Wave™ evaluation for Network Analysis and Visibility (NAV) solutions was the first iteration of the research to evaluate vendors on their post-quantum cryptography (PQC) capabilities, a decision that has become more pronounced in 2026. The rationa…",
-              "url": "https://www.forrester.com/blogs/bringing-crypto-agility-and-pqc-visibility-to-the-network-with-nav/",
-              "source": "Forrester.com",
-              "published": "2026-08-12T19:05:09Z",
-              "image": "https://go.forrester.com/wp-content/uploads/2026/08/Jitin-Shabadu-WP1-Image-1.jpg"
+              "title": "Crypto is the canary in the coal mine for the quantum computing threat, experts say",
+              "description": "As estimates for “Q-Day” move closer, experts warn that crypto’s slow governance, not its cryptography, may be the biggest obstacle to defending against quantum attacks. Quantum computing is a risk factor for every encrypted system on the planet, including ma…",
+              "url": "https://www.activistpost.com/crypto-is-the-canary-in-the-coal-mine-for-the-quantum-computing-threat-experts-say/",
+              "source": "Activistpost.com",
+              "published": "2026-08-13T22:04:00Z",
+              "image": null
             },
             {
               "title": "Whales Rush to Buy Chainlink After Standard Chartered’s 2030 Price Forecast",
@@ -283,30 +283,6 @@
               "source": "BleepingComputer",
               "published": "2026-08-11T22:15:22Z",
               "image": "https://www.bleepstatic.com/content/hl-images/2026/04/28/ransomware.jpg"
-            },
-            {
-              "title": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt",
-              "description": "The ransomware group known as DeadLock has been observed using decentralized infrastructure to facilitate victim communications and data leak operations in a bid to improve operational resilience.\n\n\"Its recovery ecosystem combines the Session messaging networ…",
-              "url": "https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html",
-              "source": "Internet",
-              "published": "2026-08-11T16:35:27Z",
-              "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHe7Kt8X_4eEC2ICocbCp-eg1Vs7xknMUYEnZzepw5j6mg7v7C7DmPvzf4S-Z4wGhofTJco3eW95xPm3x7nDEzdfF9dpJAEriyIAGsXqNcLT02br6Em30kPnD5vYp4CrHHAR8TvvNr6glr8mIeRwhPANZqTSG7w_tR1-8QUNgYWg4AXgVPrmob7CFzwLmA/s1700-e365/deadlock.jpg"
-            },
-            {
-              "title": "Circle buys nearly 1,000 blockchain patents from IBM",
-              "description": "The portfolio covers blockchain technology, banking, insurance, and cloud security, though the financial terms of the deal were not disclosed. Stablecoin issuer Circle (CRCL) has acquired nearly 1,000 issued blockchain-anchored patents from IBM, a deal the fi…",
-              "url": "https://www.activistpost.com/circle-buys-nearly-1000-blockchain-patents-from-ibm/",
-              "source": "Activistpost.com",
-              "published": "2026-08-11T13:01:00Z",
-              "image": null
-            },
-            {
-              "title": "DeadLock ransomware: Breaking down a Rust-based encryptor with decentralized recovery infrastructure",
-              "description": "Microsoft Threat Intelligence examines DeadLock ransomware, an emerging financially motivated operation distinguished by its use of decentralized infrastructure to support victim communications, negotiations, and data leak operations alongside double extortio…",
-              "url": "https://www.microsoft.com/en-us/security/blog/2026/08/10/deadlock-ransomware-breaking-down-a-rust-based-encryptor-with-decentralized-recovery-infrastructure/",
-              "source": "Microsoft.com",
-              "published": "2026-08-10T15:00:00Z",
-              "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/08/DeadLock-featured-image-1024x576.png"
             }
           ]
         }
