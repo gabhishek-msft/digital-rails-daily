@@ -1,5 +1,5 @@
 {
-  "date": "August 15, 2026",
+  "date": "August 16, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -62,12 +62,12 @@
       "color": "#e6a200",
       "articles": [
         {
-          "title": "Ethereum Foundation moves away from Poseidon hash toward SHA and BLAKE",
-          "description": "Ethereum's shift to SHA and BLAKE3 highlights the evolving landscape of cryptographic security, emphasizing compatibility and post-quantum readiness.\nThe post Ethereum Foundation moves away from Poseidon hash toward SHA and BLAKE appeared first on Crypto Brie…",
-          "url": "https://cryptobriefing.com/ethereum-foundation-drops-poseidon-sha-blake/",
+          "title": "Cardano founder Charles Hoskinson announces Midnight enters beta testing",
+          "description": "Midnight's beta testing could revolutionize blockchain privacy and interoperability, potentially attracting enterprise interest and cross-network collaboration.\nThe post Cardano founder Charles Hoskinson announces Midnight enters beta testing appeared first o…",
+          "url": "https://cryptobriefing.com/midnight-beta-testing-hoskinson-announcement/",
           "source": "Crypto Briefing",
-          "published": "2026-08-13T15:56:48Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/13115638/ethereum-foundation-800x420.png"
+          "published": "2026-08-14T19:20:49Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/14152040/cardano-news-midnight-night-token-price-800x420.jpeg"
         },
         {
           "title": "Cari Network secures commitments from 30 banks, enabling $10T in assets to move on-chain",
@@ -93,68 +93,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Multicoin exits the $1.65 billion Solana treasury company it helped launch eight months ago",
-          "description": "Cash fell to $4.5 million while Galaxy loans reached $120 million and 52.7% of reported SOL equivalents were pledged.\nThe post Multicoin exits the $1.65 billion Solana treasury company it helped launch eight months ago appeared first on CryptoSlate.",
-          "url": "https://cryptoslate.com/multicoin-exits-the-1-65-billion-solana-treasury-company-it-helped-launch-eight-months-ago/",
+          "title": "Bitcoin erased $118 million from Abu Dhabi’s ETF holdings, but its sovereign funds kept every share",
+          "description": "Two Abu Dhabi sovereign investors kept their BlackRock Bitcoin ETF holdings unchanged through the second quarter, retaining $764 million of exposure even as the cryptocurrency remained mired in one of its steepest annual declines. Mubadala Investment Company …",
+          "url": "https://cryptoslate.com/bitcoin-erased-118-million-from-abu-dhabis-etf-holdings-but-its-sovereign-funds-kept-every-share/",
           "source": "CryptoSlate",
-          "published": "2026-08-13T23:20:17Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/08/forward_multicoin_solana_collage.jpg"
+          "published": "2026-08-15T06:00:24Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/08/abu-dhabi-bitcoin-shield.jpg"
         },
         {
-          "title": "Yellow Card’s new funding ’ll improve cross-border payments",
-          "description": "By Prince Osuagwu, Hi-Tech Editor Challenges facing businesses especially in the area of cross-border payment may soon be over as a stablecoin-based infrastructure, Yellow Card, has disclosed a fresh $40 million funding to scale its technology and expand its …",
-          "url": "https://www.vanguardngr.com/2026/08/yellow-cards-new-funding-ll-improve-cross-border-payments/",
-          "source": "Vanguard",
-          "published": "2026-08-13T23:19:00Z",
-          "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/08/Yello-card.png"
+          "title": "Chinese AI Models Outperform Restricted U.S. Systems in Bitcoin Security Work, Developers Say",
+          "description": "Bitcoin developers and company leaders say they are relying on Chinese open-source artificial intelligence (AI) models because OpenAI and Anthropic restrict legitimate defensive security work, according to statements cited by Bitcoin Magazine. Rob Hamilton, C…",
+          "url": "https://www.naturalnews.com/2026-08-15-chinese-models-outperform-us-systems-bitcoin-security.html",
+          "source": "Naturalnews.com",
+          "published": "2026-08-15T06:00:00Z",
+          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/chinese-ai-models-bitcoin-security-open-source-ai-3385-original.jpg"
         },
         {
-          "title": "Chime Weighs Adding Stablecoin Wallet to Consumer Banking App",
-          "description": "Chime Financial is considering adding stablecoins as a feature in its consumer banking app, Bloomberg reported Thursday (Aug. 13), citing unnamed sources. The FinTech asked blockchain technology companies to submit proposals to provide stablecoin wallet servi…",
-          "url": "https://www.pymnts.com/blockchain/2026/chime-weighs-adding-stablecoin-wallet-to-consumer-banking-app/",
+          "title": "The $1.74m crypto win proves whales are moving into entertainment",
+          "description": "A player reportedly deposited 1 million USDC on 1win and backed Paris Saint-Germain at 1.74 odds against Aston Villa, receiving a $1.749 million USDC payout after the win.",
+          "url": "https://crypto.news/the-1-74m-crypto-win-proves-whales-are-moving-into-entertainment/",
+          "source": "Crypto.news",
+          "published": "2026-08-14T23:43:05Z",
+          "image": "https://media.crypto.news/2024/03/crypto-news-SirWin-Casino-option01.webp"
+        },
+        {
+          "title": "World Liberty Gets Conditional OCC Approval to Issue USD1 Through National Trust Bank",
+          "description": "World Liberty Financial (CRYPTO: $WLFI) has moved closer to bringing its USD1 (CRYPTO: $USD1) stablecoin under a fe...",
+          "url": "https://www.cryptoprowl.com/releases/world-liberty-gets-conditional-occ-approval-to-issue-usd1-through-national-trust-bank-6435",
+          "source": "Cryptoprowl.com",
+          "published": "2026-08-14T21:35:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/98399E2B55E1C13E0935E1E607606CD3A5553CD2A92E74D8254554F944ACF4C3/subgraphmysterio/resizefill_w1200_h720;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F878d7c5016f8ca6b3f92f643abfe5acf.jpg"
+        },
+        {
+          "title": "VWA Crypto Explained: What Is Vanguard (VWA) Token and Is It Legit?",
+          "description": "VWA crypto refers to the Vanguard (VWA) token, a Solana-based token that is marketed to tokenize real world assets. In public market pages such as...\nThe post VWA Crypto Explained: What Is Vanguard (VWA) Token and Is It Legit? appeared first on Bitcoin Founda…",
+          "url": "https://bitcoinfoundation.org/news/altcoins/vwa-crypto-explained-what-is-vanguard-vwa-token-and-is-it-legit/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-08-14T20:54:59Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/08/VWA-Crypto-Explained-What-Is-Vanguard-VWA-Token-and-Is-It-Legit-2.webp"
+        },
+        {
+          "title": "Trump-Linked World Liberty Financial Wins Preliminary Approval for Bank Charter",
+          "description": "The Office of the Comptroller of the Currency granted preliminary approval Friday for World Liberty Financial, the cryptocurrency venture co-founded by President Trump and his sons, to establish a national trust bank that would issue and manage its USD1 stabl…",
+          "url": "https://www.breitbart.com/economy/2026/08/14/trump-linked-world-liberty-financial-wins-preliminary-approval-for-national-trust-bank/",
+          "source": "Breitbart News",
+          "published": "2026-08-14T20:41:14Z",
+          "image": "https://media.breitbart.com/media/2026/08/GettyImages-2225581931-640x335.jpg"
+        },
+        {
+          "title": "Weekly Wrap: Bitcoin Treads Water As Summer Doldrums Grip Markets",
+          "description": "Bitcoin’s (CRYPTO: $BTC) price was trading at $62,800 U.S. on Aug. 14 as the market finds itself in the midst...",
+          "url": "https://www.cryptoprowl.com/releases/weekly-wrap-bitcoin-treads-water-as-summer-doldrums-grip-markets-6434",
+          "source": "Cryptoprowl.com",
+          "published": "2026-08-14T20:15:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/5B24A6D9E2D077569B8476B1C4A8EC3EAC16247960B00C0B3C75EA177CE7448C/subgraphmysterio/resizefill_w1200_h720;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F80a3c6958634409ffc4b1d746efb7c7a.jpg"
+        },
+        {
+          "title": "Stablecoin Competition Moves From Issuing Tokens to Owning Distribution",
+          "description": "The stablecoin industry’s most important developments this week did not involve tokens, valuations or assets in circulation. Instead, they involved the infrastructure around the tokens. Chime is exploring stablecoin wallet capabilities for its consumer bankin…",
+          "url": "https://www.pymnts.com/cryptocurrency/2026/stablecoin-competition-moves-from-issuing-tokens-to-owning-distribution/",
           "source": "pymnts.com",
-          "published": "2026-08-13T23:13:30Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2026/02/Chime-Enterprise-personal-finances.jpeg"
-        },
-        {
-          "title": "SEC cancels long-awaited proposal of Reg Crypto, postponing meeting without new date",
-          "description": "The first major crypto rule to be proposed by the U.S. Securities and Exchange Commission will have to wait a bit longer after a sudden postponement.",
-          "url": "https://www.coindesk.com/policy/2026/08/13/sec-cancels-long-awaited-proposal-of-reg-crypto-postponing-meeting-without-new-date",
-          "source": "CoinDesk",
-          "published": "2026-08-13T22:18:07Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/090e5c77bf9a39a85f3ba365ccf65e1cbecb6a4f-3781x2129.jpg?auto=format&fit=crop&crop=focalpoint&fp-x=0.526&fp-y=0.8214&w=1920&h=1080&q=75"
-        },
-        {
-          "title": "MUFG PoC to bring Japanese government bond repo transactions onchain",
-          "description": "MUFG’s experiment plans to bring Japanese government bond repo transactions onchain to achieve 24/7 settlement, as well as improved capital and operational efficiency.",
-          "url": "https://cointelegraph.com/news/mufg-bring-japanese-government-bond-repo-transactions-onchain",
-          "source": "Cointelegraph",
-          "published": "2026-08-13T13:00:37Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-japan-issue-bonds-on-blockchain-how-significant-is-this-1.jpg"
-        },
-        {
-          "title": "Why millions of everyday savers will soon own Bitcoin without ever downloading a crypto app",
-          "description": "A future Bitcoin buyer may encounter the asset through a portfolio they already own. An adviser can add a small allocation, a brokerage account can hold a spot ETF, and future retirement products could place Bitcoin inside another familiar investment wrapper.…",
-          "url": "https://cryptoslate.com/why-millions-of-everyday-savers-will-soon-own-bitcoin-without-ever-downloading-a-crypto-app/",
-          "source": "CryptoSlate",
-          "published": "2026-08-13T12:15:51Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/08/btc-saver-Large.jpeg"
-        },
-        {
-          "title": "MUFG to test real-time blockchain settlement for Japanese government bond trades",
-          "description": "MUFG is preparing a proof-of-concept for onchain JGB transactions using the Canton network.",
-          "url": "https://www.coindesk.com/business/2026/08/13/mufg-to-test-real-time-blockchain-settlement-for-japanese-government-bond-trades",
-          "source": "CoinDesk",
-          "published": "2026-08-13T10:15:32Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/8ffa2d62fbee889a39cf3506a9fb9ed7ab545c85-1500x888.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75"
-        },
-        {
-          "title": "Bank of England Takes Digital Pound to Phase 2 With Polygon Cross-Border Tests",
-          "description": "Exporters settle in stablecoins on Polygon; UK importers settle in a simulated digital pound, testing atomic dual-currency settlement within a single trade f...",
-          "url": "https://www.ccn.com/news/crypto/bank-england-digital-pound-stablecoins-polygon/",
-          "source": "Crypto Coins News",
-          "published": "2026-08-13T08:22:45Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/0CDEE7DB9B6574E132A0A2E0FDE494700F82733974E95C0A276240F6606ED647/subgraphmysterio/resizefill_w1200_h750;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fccn_928%2Fb8f4a1bd85898e6075a674191ef593c4"
+          "published": "2026-08-14T18:26:23Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2022/06/stablecoins-1.jpg"
         }
       ]
     },
@@ -164,28 +164,28 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Are churches missing out in the bitcoin boom?",
-          "description": "Earlier this summer, a church on England’s south coast made headlines, when it declared it was going to accept bitcoin as donations.",
-          "url": "https://www.christiantoday.com/news/are-churches-missing-out-in-the-bitcoin-boom",
-          "source": "Christiantoday.com",
-          "published": "2026-08-14T04:41:00Z",
-          "image": "https://www.christiantoday.com/media/original/thumbnail/14/54/145418.jpg"
+          "title": "Blockchain-enabled intelligent model for energy-constrained IoMT networks with privacy-preserving",
+          "description": "Scientific Reports - Blockchain-enabled intelligent model for energy-constrained IoMT networks with privacy-preserving",
+          "url": "https://www.nature.com/articles/s41598-026-65721-z.pdf",
+          "source": "Nature.com",
+          "published": "2026-08-15T00:00:00Z",
+          "image": null
         },
         {
-          "title": "Figure’s Blockchain Marketplace Tops $1 Billion Weekly Loan Applications After Record Q2",
-          "description": "Blockchain-native capital marketplace Figure Technology Solutions saw its Consumer Loan Marketplace volume leap 132% to $4.3 billion in the second quarter as both prospects and investors saw the benefits of this platform for capital, CEO Michael Tannenbaum sa…",
-          "url": "https://www.pymnts.com/earnings/2026/figures-blockchain-marketplace-tops-1-billion-weekly-loan-applications-after-record-q2/",
-          "source": "pymnts.com",
-          "published": "2026-08-14T01:18:08Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2026/02/Figure-earnings-xxx1.jpg"
+          "title": "AquaChain Advances Its Web3 Vision for Verifiable AI Infrastructure Ahead of AQUA Listing",
+          "description": "The emerging Web3 infrastructure initiative outlines an incentive-driven model connecting verified cooling performance with Efficiency Credits and the future utility envisioned for AQUA. Cayman Islands, 14th August 2026: AquaChain is advancing its vision for …",
+          "url": "https://zycrypto.com/aquachain-advances-its-web3-vision-for-verifiable-ai-infrastructure-ahead-of-aqua-listing/",
+          "source": "ZyCrypto",
+          "published": "2026-08-14T20:13:19Z",
+          "image": "https://zycrypto.com/wp-content/uploads/2026/08/AquaChain-Advances-Its-Web3-Vision-for-Verifiable-AI-Infrastructure-Ahead-of-AQUAs-Upcoming-Listing.jpg"
         },
         {
-          "title": "Chime Financial Considers Adding Stablecoins To Its App",
-          "description": "Chime Financial (NASDAQ: $CHYM) is planning to add stablecoins to its consumer banking platform and app.",
-          "url": "https://www.cryptoprowl.com/releases/chime-financial-considers-adding-stablecoins-to-its-app-6419",
-          "source": "Cryptoprowl.com",
-          "published": "2026-08-13T19:47:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/293AF121D4B54F9A1B562EEFBDB8A9B558DC3B33BCDB1F13A998CB465BF9F16B/subgraphmysterio/resizefill_w1200_h720;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2Fd67065daac5533a35e675c8da9d56208.jpg"
+          "title": "Tim Draper Says Bitcoin Is Headed for ‘Infinity’ Against Dollar as Growing BTC Payments Could Trigger Bank Runs",
+          "description": "Venture capitalist Tim Draper projected on Tuesday that Bitcoin will go to infinity against the dollar in a fundamental global shift. Draper Confident About...",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/tim-draper-says-bitcoin-headed-094511603.html",
+          "source": "Yahoo Entertainment",
+          "published": "2026-08-14T09:45:11Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/2CC61B4D9BD013956CB7AAB665451B6A2F494E05786C16C4F69E5C26DFF5695A/subgraphmysterio/resizefill_w1200_h780;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F61580235f1fd7ae378efa84350da69de.jpg"
         },
         {
           "title": "Tracking Shai-Hulud: Inside the ChainDrop NPM Worm",
@@ -237,29 +237,20 @@
         "startups": {
           "title": "Startups",
           "icon": "💡",
-          "articles": [
-            {
-              "title": "Bit Digital pledged 74% of its staked Ethereum position to a loan that can trigger a 24-hour collateral call",
-              "description": "The non-cash charge did not trigger a disclosed margin call, but the loan's live collateral thresholds remain private.\nThe post Bit Digital pledged 74% of its staked Ethereum position to a loan that can trigger a 24-hour collateral call appeared first on Cryp…",
-              "url": "https://cryptoslate.com/bit-digital-pledged-74-of-its-staked-ethereum-position-to-a-loan-that-can-trigger-a-24-hour-collateral-call/",
-              "source": "CryptoSlate",
-              "published": "2026-08-14T00:30:29Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/08/bit_digital_whitefiber_collateral_flow.jpg"
-            },
-            {
-              "title": "US securities regulator cancels meeting to vote on crypto rules",
-              "description": "The U.S. Securities and Exchange Commission on Thursday abruptly canceled a meeting scheduled for Friday on whether the agency should propose ‌new crypto-rel...",
-              "url": "https://finance.yahoo.com/markets/crypto/articles/us-securities-regulator-cancels-meeting-214845828.html",
-              "source": "Yahoo Entertainment",
-              "published": "2026-08-13T21:48:45Z",
-              "image": "https://s.yimg.com/lo/mysterio/api/817B89A9F32842E485344D13E8122DD86AEEC510BD9CB89E42AD636D0D2B4AF2/subgraphmysterio/resizefill_w1200_h782;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Freuters-finance.com%2F13ad0f41be7e6452bea76c6accba101c.jpg"
-            }
-          ]
+          "articles": []
         },
         "hyperscalers": {
           "title": "Hyperscalers",
           "icon": "☁️",
           "articles": [
+            {
+              "title": "HOW TO RECOVER BTC/USDT CRYPTO FROM SCAMMERS/ CONTACT WIZARD HACKERS RECOVERY EX",
+              "description": "HOW TO RECOVER BTC/USDT CRYPTO FROM SCAMMERS/ CONTACT WIZARD HACKERS RECOVERY EX - posted in Windows 8 and Windows 8.1: \nHOW TO RECOVER BTC/USDT CRYPTO FROM SCAMMERS/ CONTACT WIZARD HACKERS RECOVERY EXPERT/BANK ACCT RECOVERY \n\n\nI was a victim of crypto invest…",
+              "url": "https://www.bleepingcomputer.com/forums/t/817923/how-to-recover-btcusdt-crypto-from-scammers-contact-wizard-hackers-recovery-ex/",
+              "source": "BleepingComputer",
+              "published": "2026-08-14T21:06:33Z",
+              "image": "https://www.bleepingcomputer.com/forums/public/style_images/master/meta_image.png"
+            },
             {
               "title": "Crypto is the canary in the coal mine for the quantum computing threat, experts say",
               "description": "As estimates for “Q-Day” move closer, experts warn that crypto’s slow governance, not its cryptography, may be the biggest obstacle to defending against quantum attacks. Quantum computing is a risk factor for every encrypted system on the planet, including ma…",
@@ -267,22 +258,6 @@
               "source": "Activistpost.com",
               "published": "2026-08-13T22:04:00Z",
               "image": null
-            },
-            {
-              "title": "Whales Rush to Buy Chainlink After Standard Chartered’s 2030 Price Forecast",
-              "description": "Chainlink whale transactions hit a 5-month high after Standard Chartered's LINK call, but ETF flows stay flat.",
-              "url": "https://beincrypto.com/chainlink-whale-activity-standard-chartered-call/",
-              "source": "BeInCrypto",
-              "published": "2026-08-12T11:36:23Z",
-              "image": "https://s.yimg.com/lo/mysterio/api/4D8B673F06CF90D5393FB99914C3955F743763F8734810DD3680BF3C7DD4C78F/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Fc436216ce9fa7872ed352e0d6ac72ce7.png"
-            },
-            {
-              "title": "DeadLock ransomware uses blockchain to resist infrastructure takedown",
-              "description": "The DeadLock ransomware operation is using a decentralized infrastructure that relies on blockchain-backed services to protect its communication with victims and data-leak activity. [...]",
-              "url": "https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/",
-              "source": "BleepingComputer",
-              "published": "2026-08-11T22:15:22Z",
-              "image": "https://www.bleepstatic.com/content/hl-images/2026/04/28/ransomware.jpg"
             }
           ]
         }
