@@ -1,11 +1,19 @@
 {
-  "date": "August 18, 2026",
+  "date": "August 19, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "OpenMatter Network to Take Verification Message to Belgrade Blockchain Week 2026",
+          "description": "Melbourne, Florida, 17th August 2026, CyberNewswire",
+          "url": "https://www.nextbigfuture.com/2026/08/openmatter-network-to-take-verification-message-to-belgrade-blockchain-week-2026.html",
+          "source": "Next Big Future",
+          "published": "2026-08-17T13:00:37Z",
+          "image": null
+        },
         {
           "title": "Data of 54,000 wallet users leaked, Clarity odds just 10%: Hodler’s Digest, Aug. 16",
           "description": "Data leaks expose 54,000 Trezor and SafePal users to phishing scams and the CLARITY Act odds are just 10% says Galaxy despite a planned White House meeting. Hodler’s Digest, Aug. 16",
@@ -21,6 +29,14 @@
           "source": "Bitcoinfoundation.org",
           "published": "2026-08-16T08:51:09Z",
           "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/08/zback-1.webp"
+        },
+        {
+          "title": "Etherealize CEO warns Wall Street’s private blockchain push is a race to the bottom",
+          "description": "Private blockchain adoption risks perpetuating inefficiencies, while public chains like Ethereum offer scalable, transparent solutions for finance.\nThe post Etherealize CEO warns Wall Street’s private blockchain push is a race to the bottom appeared first on …",
+          "url": "https://cryptobriefing.com/etherealize-ceo-private-blockchain-race-to-bottom/",
+          "source": "Crypto Briefing",
+          "published": "2026-08-15T12:07:14Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/15080703/etherealize-ceo-16tn-mortgage-market-primed-for-ethereum-tre-800x420.jpeg"
         },
         {
           "title": "Zcash is borrowing crypto’s new institutional playbook as privacy goes mainstream",
@@ -53,14 +69,6 @@
           "source": "Amazon.com",
           "published": "2026-08-12T13:44:58Z",
           "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/06/ML-21446-featured-image.png"
-        },
-        {
-          "title": "Aster implements AOS-2 to streamline perpetual market listings",
-          "description": "AOS-2's permissionless listing could democratize market access, potentially increasing token liquidity and decentralizing financial power.\nThe post Aster implements AOS-2 to streamline perpetual market listings appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/aster-aos-2-perpetual-market-listings/",
-          "source": "Crypto Briefing",
-          "published": "2026-08-11T14:30:32Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/11103025/about-aster-token-800x420.jpeg"
         }
       ]
     },
@@ -70,12 +78,12 @@
       "color": "#e6a200",
       "articles": [
         {
-          "title": "Etherealize CEO warns Wall Street’s private blockchain push is a race to the bottom",
-          "description": "Private blockchain adoption risks perpetuating inefficiencies, while public chains like Ethereum offer scalable, transparent solutions for finance.\nThe post Etherealize CEO warns Wall Street’s private blockchain push is a race to the bottom appeared first on …",
-          "url": "https://cryptobriefing.com/etherealize-ceo-private-blockchain-race-to-bottom/",
-          "source": "Crypto Briefing",
-          "published": "2026-08-15T12:07:14Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/15080703/etherealize-ceo-16tn-mortgage-market-primed-for-ethereum-tre-800x420.jpeg"
+          "title": "Show HN: A blockchain that proves instead of storing",
+          "description": "Proof-native Layer 1 ordered by proof of work. State validated from genesis in O(1). Provable end-to-end post-quantum soundness from genesis at NIST PQC Category 1. - ignotusnemo/parano1d",
+          "url": "https://github.com/ignotusnemo/parano1d",
+          "source": "Github.com",
+          "published": "2026-08-17T21:30:46Z",
+          "image": "https://opengraph.githubassets.com/689ccdaceb0644bb057943260d3fb712ba844d411f6ce78c4de3d57f5c3c7a1b/ignotusnemo/parano1d"
         },
         {
           "title": "Cardano founder Charles Hoskinson announces Midnight enters beta testing",
@@ -84,6 +92,14 @@
           "source": "Crypto Briefing",
           "published": "2026-08-14T19:20:49Z",
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/14152040/cardano-news-midnight-night-token-price-800x420.jpeg"
+        },
+        {
+          "title": "Ethereum Foundation moves away from Poseidon hash toward SHA and BLAKE",
+          "description": "Ethereum's shift to SHA and BLAKE3 highlights the evolving landscape of cryptographic security, emphasizing compatibility and post-quantum readiness.\nThe post Ethereum Foundation moves away from Poseidon hash toward SHA and BLAKE appeared first on Crypto Brie…",
+          "url": "https://cryptobriefing.com/ethereum-foundation-drops-poseidon-sha-blake/",
+          "source": "Crypto Briefing",
+          "published": "2026-08-13T15:56:48Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/13115638/ethereum-foundation-800x420.png"
         }
       ]
     },
@@ -93,68 +109,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Visa’s Agentic Ready Program Moves Issuer-Layer Readiness From Theory to Production",
-          "description": "The July 2, 2026, live agentic payment transaction in Germany—executed by Worldline, ING, and Visa—served as a definitive proof of concept for the future of commerce. By successfully navigating product identification, consumer authentication via Visa Payment …",
-          "url": "https://forkast.news/visas-agentic-ready-program-moves-issuer-layer-readiness-from-theory-to-production/",
-          "source": "Forkast.news",
-          "published": "2026-08-17T01:19:57Z",
-          "image": "https://forkast.news/wp-content/uploads/2026/08/visa-agentic-ready-hero-1024x572.jpg"
+          "title": "Blockchain.com Admitted to Nigeria SEC's Accelerated Regulatory Incubation Programme",
+          "description": "Admission advances Blockchain.com's engagement with Nigerian regulators and reinforces the Company's broader commitment to operating within clear regulatory frameworks globally LAGOS, Nigeria, Aug. 18, 2026 /PRNewswire/ -- Blockchain.com has been admitted int…",
+          "url": "https://www.prnewswire.com/news-releases/blockchaincom-admitted-to-nigeria-secs-accelerated-regulatory-incubation-programme-302853349.html",
+          "source": "PRNewswire",
+          "published": "2026-08-18T06:00:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS1803727/New-BCDC-Logo-Logo.jpg?id=OA2891831&p=facebook"
         },
         {
-          "title": "Hong Kong’s Stablecoin Bifurcation: Two Paths for Tokenized Money",
-          "description": "The arrival of regulated stablecoins in Hong Kong is less a singular race for market share and more a structural bifurcation of how tokenized money will function in the regional economy. With the Hong Kong Monetary Authority granting its first two licenses on…",
-          "url": "https://forkast.news/hong-kongs-stablecoin-bifurcation-two-paths-for-tokenized-money/",
-          "source": "Forkast.news",
-          "published": "2026-08-16T22:37:13Z",
-          "image": "https://forkast.news/wp-content/uploads/2026/08/hk-stablecoin-bifurcation-1024x572.jpg"
+          "title": "XRP slips below $1 even as a Korean regional bank adopts Ripple Payments",
+          "description": "Jeonbuk Bank will use Ripple’s 24/7 cross-border payment service for business remittances, but it is unknown whether the flows will use XRP or Ripple’s RLUSD stablecoin.",
+          "url": "https://www.coindesk.com/markets/2026/08/18/xrp-slips-below-usd1-even-as-korean-regional-bank-adopts-ripple-payments",
+          "source": "CoinDesk",
+          "published": "2026-08-18T05:34:32Z",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/b7d512ba660aea0dd60d8f3f58b1ae6ddd1786d8-1920x1282.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75"
         },
         {
-          "title": "Trump-Affiliated Crypto Company Wins US Banking Charter",
-          "description": "American regulators have granted a banking license to a President Donald Trump-affiliated cryptocurrency company. The Office for the Comptroller of the Currency (OCC) issued its preliminary conditional approval Friday (Aug. 14) for a national banking charter …",
-          "url": "https://www.pymnts.com/cryptocurrency/2026/trump-affiliated-crypto-company-wins-us-banking-charter/",
-          "source": "pymnts.com",
-          "published": "2026-08-16T20:47:50Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2026/08/World-Liberty-Financial-bank-charter-1.jpg"
+          "title": "South Korea’s Jeonbuk Bank taps Ripple for cross-border payments",
+          "description": "Ripple is bringing its cross-border payments platform to Jeonbuk Bank, but key details including its launch status and settlement asset remain undisclosed.",
+          "url": "https://cointelegraph.com/news/jeonbuk-bank-ripple-cross-border-payments",
+          "source": "Cointelegraph",
+          "published": "2026-08-18T04:11:02Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-negotiation-south-korea-1.jpg"
         },
         {
-          "title": "White House Convenes Meeting With Crypto and Prediction Market CEOs",
-          "description": "Cryptocurrency and prediction market executives are reportedly meeting with Trump administration officials this week. President Donald Trump is expected to attend this gathering scheduled for Wednesday (Aug. 19), according to a report by CoinDesk that cited s…",
-          "url": "https://www.pymnts.com/cryptocurrency/2026/white-house-convenes-meeting-with-crypto-and-prediction-market-ceos/",
-          "source": "pymnts.com",
-          "published": "2026-08-16T20:23:07Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2026/08/white-house-crypto-meet-1.jpg"
+          "title": "‘Fabricated rumors’ about BitMart founder, Binance bStocks dominate: Asia Express",
+          "description": "Binance’s bStocks are the second largest tokenized stock issuer just two months after launch, and BitMart’s internal feud erupts into the spotlight ahead of its closure",
+          "url": "https://cointelegraph.com/magazine/fabricated-rumors-about-bitmart-founder-binance-bstocks-dominate-asia-express",
+          "source": "Cointelegraph",
+          "published": "2026-08-18T01:28:37Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/asia-express-9.jpg"
         },
         {
-          "title": "Slowing ETF demand and corporate treasury selling are breaking the math behind Wall Street’s $16 trillion Bitcoin target",
-          "description": "ARK's scenario now requires 78.6% annual growth, with institutional allocation and digital gold supplying 92.8% of modeled value.\nThe post Slowing ETF demand and corporate treasury selling are breaking the math behind Wall Street’s $16 trillion Bitcoin target…",
-          "url": "https://cryptoslate.com/bitcoin-market-cap-16-trillion-2030-model-etf-reality-check-us/",
-          "source": "CryptoSlate",
-          "published": "2026-08-16T20:20:49Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-ark-base-case.jpg"
+          "title": "Treasury Proposes Rules Defining Who Can Legally Sell Stablecoins in US",
+          "description": "Exchanges and other crypto platforms would face new restrictions on selling stablecoins to US customers beginning in 2027.",
+          "url": "https://decrypt.co/375817/treasury-rules-sell-stablecoins-us",
+          "source": "Decrypt",
+          "published": "2026-08-17T20:31:04Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/scott-bessent-decrypt-style-1-gID_7.jpg"
         },
         {
-          "title": "Wall Street Banks Duking It Out With Crypto Bros Over Key Bill",
-          "description": "The banking industry could threaten the passage of a cryptocurrency bill largely backed by Republicans and President Donald Trump.",
-          "url": "https://dailycaller.com/2026/08/16/banking-industry-could-threaten-passage-of-trump-backed-crypto-bill",
-          "source": "The Daily Caller",
-          "published": "2026-08-16T18:20:06Z",
-          "image": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/08/GettyImages-2286807958.jpg"
+          "title": "Spot Bitcoin and Ethereum ETFs: The difference between owning the coin and the fund",
+          "description": "Spot Bitcoin and Ethereum ETFs make crypto investing easy, but how do they compare to owning the coin directly? Learn the pros, cons, and key differences.",
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/spot-bitcoin-etfs-200144120.html",
+          "source": "Yahoo Entertainment",
+          "published": "2026-08-17T20:01:44Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/730DD02881C75FBB3FCBED383FC64936B1AD567B5F018D2BC9C17867AB753E4F/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-09%2Faf5f1f90-8458-11ef-bf39-d593aac269c4"
         },
         {
-          "title": "Crypto Clarity Act Risks More Delay As Recess Looms",
-          "description": "Coordinated action sent the yen sharply higher, but bitcoin’s recent correlation suggests U.S. dollar strength, rather than the carry trade, may be the bigger risk. U.S. Treasury Secretary Scott Bessent confirmed Sunday that the U.S. joined Japan in coordinat…",
-          "url": "https://www.activistpost.com/crypto-clarity-act-risks-more-delay-as-recess-looms/",
-          "source": "Activistpost.com",
-          "published": "2026-08-16T16:00:00Z",
-          "image": "https://www.activistpost.com/wp-content/uploads/2026/08/Crypto-Clarity-Act-Risks-Delay-1024x576-1.webp"
+          "title": "Centralized vs. decentralized exchanges: What's the difference?",
+          "description": "Discover the key differences between centralized and decentralized crypto exchanges. Learn the pros, cons, and which platform fits your trading needs best.",
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/centralized-vs-decentralized-exchanges-191328712.html",
+          "source": "Yahoo Entertainment",
+          "published": "2026-08-17T19:13:28Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/B9D75B66D5C5DE61CC8245A33DC7B445231EF7AC53CFB028383F6A64E5C69F47/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F65b82617-010f-4490-b8f7-a583667c38fe"
         },
         {
-          "title": "Texas refuses to sell as its $10 million Bitcoin bet sinks to $6.6 million",
-          "description": "The state reserve is separately tied to IBIT, while the filing names neither the owning portfolio nor a reliable dollar value.\nThe post Texas refuses to sell as its $10 million Bitcoin bet sinks to $6.6 million appeared first on CryptoSlate.",
-          "url": "https://cryptoslate.com/texas-refuses-to-sell-as-its-10-million-bitcoin-bet-sinks-to-6-6-million/",
-          "source": "CryptoSlate",
-          "published": "2026-08-16T12:00:34Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/08/texas-ibit-hidden-owner.jpg"
+          "title": "Trump Admin Gave the Trump Family’s Crypto Company the Okay to Start a Bank",
+          "description": "“This is the most brazen act of self-dealing our financial system has ever seen,” says Senator Elizabeth Warren.",
+          "url": "http://nymag.com/intelligencer/article/trump-family-crypto-bank.html",
+          "source": "New York Magazine",
+          "published": "2026-08-17T18:49:14Z",
+          "image": "https://pyxis.nymag.com/v1/imgs/77f/628/1a546189137a969ee2b496cda1395b6d83-eric-don.1x.rsocial.w1200.jpg"
         }
       ]
     },
@@ -164,20 +180,20 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Breach at Crypto Wallet Company Called ‘SafePal’ Exposes 39,798 Customers",
-          "description": "Now the company is warning users about phishing attacks.",
-          "url": "https://gizmodo.com/breach-at-crypto-wallet-company-called-safepal-exposes-39798-customers-2000799138",
-          "source": "Gizmodo.com",
-          "published": "2026-08-16T20:22:38Z",
-          "image": "https://gizmodo.com/app/uploads/2025/10/gizmodo-social-1200x675-1.jpg"
+          "title": "Trump’s Crypto Bank Is Coming: World Liberty Gets Conditional OCC Approval for USD1",
+          "description": "Donald Trump’s family-backed World Liberty Financial has moved one step closer to opening Trump’s crypto bank. The Office of the Comptroller of the Currency (OCC)...\nThe post Trump’s Crypto Bank Is Coming: World Liberty Gets Conditional OCC Approval for USD1 …",
+          "url": "https://bitcoinfoundation.org/news/altcoins/trumps-crypto-bank-is-coming-world-liberty-gets-conditional-occ-approval-for-usd1/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-08-17T15:30:23Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/08/occ-1.webp"
         },
         {
-          "title": "Crypto Version of Your Favorite Stocks Soon? SEC Reportedly Planning to Release Framework for Tokenized Assets",
-          "description": "The Securities and Exchange Commission is preparing to launch a framework for trading blockchain versions of popular Wall Street-listed stocks, according to...",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-version-favorite-stocks-soon-183119627.html",
-          "source": "Yahoo Entertainment",
-          "published": "2026-08-16T18:31:19Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/5BA0BE1158B55F548FB2B67EC0B98C95610BBFE1C07E5290A376DD86D36285A7/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2Fd1e1aeaf10b1a2c969428c188ec424cc.jpg"
+          "title": "Aventus Crypto Price Prediction 2026–2030: Can AVT Recover to $1?",
+          "description": "Aventus forecasts vary widely. Because AVT has a small market cap and trading volume, as of late August 2026, AVT is priced at about $0.22....\nThe post Aventus Crypto Price Prediction 2026–2030: Can AVT Recover to $1? appeared first on Bitcoin Foundation.",
+          "url": "https://bitcoinfoundation.org/news/altcoins/aventus-crypto-price-prediction-2026-2030-can-avt-recover-to-1/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-08-17T10:27:27Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/08/Aventus-Crypto-Price-Prediction-2026–2030-Can-AVT-Recover-to-1-2.webp"
         },
         {
           "title": "Blockchain-enabled intelligent model for energy-constrained IoMT networks with privacy-preserving",
@@ -186,38 +202,6 @@
           "source": "Nature.com",
           "published": "2026-08-15T00:00:00Z",
           "image": null
-        },
-        {
-          "title": "Tracking Shai-Hulud: Inside the ChainDrop NPM Worm",
-          "description": "IntroductionOn August 4, 2026, a self-propagating worm called ChainDrop entered the npm ecosystem through a compromised maintainer account. ChainDrop is a variant of Mini Shai-Hulud linked to TeamPCP. ChainDrop anchored its C2 infrastructure in an Ethereum sm…",
-          "url": "https://www.zscaler.com/blogs/security-research/tracking-shai-hulud-inside-chaindrop-npm-worm",
-          "source": "Zscaler.com",
-          "published": "2026-08-11T21:21:27Z",
-          "image": "https://cms.zscaler.com/sites/default/files/images/blogs/chaindrop-%28shai---hulud%29.jpg"
-        },
-        {
-          "title": "Itaú joins Brazil tokenization pilot with OpenAssets",
-          "description": "Itaú and OpenAssets are participating in an ANBIMA-led pilot testing the issuance, trading and settlement of tokenized fixed-income securities and investment funds in Brazil.",
-          "url": "https://cointelegraph.com/news/ita-joins-brazil-tokenization-pilot-with-openassets-brief",
-          "source": "Cointelegraph",
-          "published": "2026-08-11T20:55:58Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-binance-plans-to-bring-tokenized-us-stocks-2.png"
-        },
-        {
-          "title": "Six npm Packages Read C2 Addresses From Ethereum Wallet",
-          "description": "Six npm packages queried an Ethereum wallet to locate C2 infrastructure",
-          "url": "https://www.infosecurity-magazine.com/news/npm-packages-ethereum-wallet-c2/",
-          "source": "Infosecurity Magazine",
-          "published": "2026-08-11T15:00:00Z",
-          "image": "https://assets.infosecurity-magazine.com/webpage/og/7f4ffb01-78a2-4367-87bc-07725c580cec.jpg"
-        },
-        {
-          "title": "OpenAssets and Itaú Form Joint Initiative to Advance Tokenization Across Brazilian Capital Markets",
-          "description": "The initiative pairs OpenAssets' tokenization infrastructure with the largest Latin American bank, working together on ANBIMA's tokenization pilot. PITTSBURGH and SÃO PAULO, Aug. 11, 2026 /PRNewswire/ -- OpenAssets, a leading digital asset infrastructure prov…",
-          "url": "https://www.prnewswire.com/news-releases/openassets-and-itau-form-joint-initiative-to-advance-tokenization-across-brazilian-capital-markets-302847468.html",
-          "source": "PRNewswire",
-          "published": "2026-08-11T12:07:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS1967256/OpenAssets-Itaú-Strategic-Collaboration.jpg?id=OA2836788&p=facebook"
         }
       ]
     },
@@ -231,20 +215,12 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Malta Regulator Flags Unlicensed Crypto Marketing Firm",
-              "description": "The MFSA warns consumers against DistributeX, a crypto marketing entity in Malta operating unapproved offices and potential pyramid schemes.",
-              "url": "https://news.bitcoin.com/regulation-and-legal/malta-regulator-flags-unlicensed-crypto-marketing-firm/",
-              "source": "Bitcoin.com",
-              "published": "2026-08-17T06:25:47Z",
-              "image": "https://static.news.bitcoin.com/wp-content/uploads/2026/08/alta-warns-public-against-distributex-pyramid-scheme.jpg"
-            },
-            {
-              "title": "What Is SXT Crypto? The Real Reason Space and Time Crashed 96%",
-              "description": "SXT crypto has suffered one of the more brutal post-launch collapses among major exchange-listed tokens. Space and Time’s SXT reached roughly $0.16-$0.19 shortly after trading...\nThe post What Is SXT Crypto? The Real Reason Space and Time Crashed 96% appeared…",
-              "url": "https://bitcoinfoundation.org/news/altcoins/what-is-sxt-crypto/",
-              "source": "Bitcoinfoundation.org",
-              "published": "2026-08-11T15:47:43Z",
-              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/08/sxt-1.webp"
+              "title": "At Beijing AI-Themed Bar, DeepSeek Tokens Come With the Pints",
+              "description": "AI and alcohol have three main similarities, according to Beijing bar owner Song De: hallucinations, bubbles and distillation. As AI enthusiasm sweeps across China, Song hopes his bar can ride the wave. He opened AGI Bar, ‌named after the concept of artificia…",
+              "url": "https://freerepublic.com/focus/f-chat/4392154/posts",
+              "source": "Freerepublic.com",
+              "published": "2026-08-18T00:52:19Z",
+              "image": null
             }
           ]
         },
@@ -252,6 +228,14 @@
           "title": "Hyperscalers",
           "icon": "☁️",
           "articles": [
+            {
+              "title": "LiteLLM Supply-Chain Attack – Technology, Banking and Healthcare the Most Affected",
+              "description": "The SANDCLOCK LiteLLM supply-chain attack exposed credentials across 2,038 repositories, affecting technology, finance, healthcare, retail and more. Resecurity (USA) estimated the most affected sectors by the “SANDCLOCK” backdoor, which was planted as a resul…",
+              "url": "https://securityaffairs.com/197377/hacking/litellm-supply-chain-attack-technology-banking-and-healthcare-the-most-affected.html",
+              "source": "Securityaffairs.com",
+              "published": "2026-08-17T17:09:53Z",
+              "image": "https://securityaffairs.com/wp-content/uploads/2026/08/signal-2026-08-17-18-48-09-671.jpg"
+            },
             {
               "title": "Chinese AI Models Outperform Restricted U.S. Systems in Bitcoin Security Work, Developers Say",
               "description": "Bitcoin developers and company leaders say they are relying on Chinese open-source artificial intelligence (AI) models because OpenAI and Anthropic restrict legitimate defensive security work, according to statements cited by Bitcoin Magazine. Rob Hamilton, C…",
