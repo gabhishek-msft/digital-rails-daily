@@ -1,5 +1,5 @@
 {
-  "date": "August 19, 2026",
+  "date": "August 20, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -45,30 +45,6 @@
           "source": "CryptoSlate",
           "published": "2026-08-13T10:15:09Z",
           "image": "https://cryptoslate.com/wp-content/uploads/2026/08/savers-bitcoin.jpeg"
-        },
-        {
-          "title": "Arbitrum Warning: ARB Token Unlock Could Trigger Another Sell-Off — Is a Crash Coming?",
-          "description": "Arbitrum is set to unlock another significant supply of tokens. On August 16, 2026, about 92.65 million ARB will enter circulation at a sub-$0.08 price....\nThe post Arbitrum Warning: ARB Token Unlock Could Trigger Another Sell-Off — Is a Crash Coming? appeare…",
-          "url": "https://bitcoinfoundation.org/news/altcoins/arbitrum-warning-arb-token-unlock-could-trigger-another-sell-off-is-a-crash-coming/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-08-12T20:02:51Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/08/ARB1-1.webp"
-        },
-        {
-          "title": "ZkSync Era leads RWA market cap growth by $77M in 24 hours",
-          "description": "ZkSync Era's rapid RWA market cap growth highlights the increasing institutional interest in blockchain for tokenizing traditional assets.\nThe post ZkSync Era leads RWA market cap growth by $77M in 24 hours appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/zksync-era-rwa-market-cap-growth/",
-          "source": "Crypto Briefing",
-          "published": "2026-08-12T15:04:17Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/12110407/zksync-era-le-mainnet-de-la-solution-de-scalabilit-pour-ethe-800x420.jpeg"
-        },
-        {
-          "title": "Pay with confidence: How Solv Labs built verifiable, auditable agent payments on Amazon Bedrock AgentCore payments",
-          "description": "Solv Labs built a governed agent-payments workflow on Amazon Bedrock AgentCore payments, where every transaction is authorized, attested in an AWS Nitro Enclave, priced for risk, and anchored to a public blockchain before settlement. See how the pattern gives…",
-          "url": "https://aws.amazon.com/blogs/machine-learning/pay-with-confidence-how-solv-labs-built-verifiable-auditable-agent-payments-on-amazon-bedrock-agentcore-payments/",
-          "source": "Amazon.com",
-          "published": "2026-08-12T13:44:58Z",
-          "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/08/06/ML-21446-featured-image.png"
         }
       ]
     },
@@ -77,6 +53,14 @@
       "icon": "🔐",
       "color": "#e6a200",
       "articles": [
+        {
+          "title": "ZKP’s Aren’t Age Verification Silver Bullets",
+          "description": "Age verification (laws and regulations requiring platforms and websites to assure or estimate that a user seeking to use an online service is of a certain age) is everywhere. At the time of writing, about half the states in the US have some internet age verif…",
+          "url": "https://www.eff.org/deeplinks/2026/08/zkps-arent-age-verification-silver-bullets",
+          "source": "EFF",
+          "published": "2026-08-18T22:39:03Z",
+          "image": "https://www.eff.org/files/banner_library/ageverificationbanner-3.png"
+        },
         {
           "title": "Show HN: A blockchain that proves instead of storing",
           "description": "Proof-native Layer 1 ordered by proof of work. State validated from genesis in O(1). Provable end-to-end post-quantum soundness from genesis at NIST PQC Category 1. - ignotusnemo/parano1d",
@@ -109,68 +93,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Blockchain.com Admitted to Nigeria SEC's Accelerated Regulatory Incubation Programme",
-          "description": "Admission advances Blockchain.com's engagement with Nigerian regulators and reinforces the Company's broader commitment to operating within clear regulatory frameworks globally LAGOS, Nigeria, Aug. 18, 2026 /PRNewswire/ -- Blockchain.com has been admitted int…",
-          "url": "https://www.prnewswire.com/news-releases/blockchaincom-admitted-to-nigeria-secs-accelerated-regulatory-incubation-programme-302853349.html",
-          "source": "PRNewswire",
-          "published": "2026-08-18T06:00:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS1803727/New-BCDC-Logo-Logo.jpg?id=OA2891831&p=facebook"
+          "title": "SEC Proposes Rules to Streamline Capital Formation for Digital Asset Entrepreneurs",
+          "description": "The Securities and Exchange Commission (SEC) proposed new rules that it said in a Tuesday (Aug. 18) press release would create a clear framework for certain investment contracts involving crypto assets.\nDubbed “Regulation Crypto Assets,” the proposed rule wil…",
+          "url": "https://biztoc.com/x/953e7f3104df28ee",
+          "source": "Biztoc.com",
+          "published": "2026-08-19T01:20:58Z",
+          "image": "https://biztoc.com/cdn/995/og.png"
         },
         {
-          "title": "XRP slips below $1 even as a Korean regional bank adopts Ripple Payments",
-          "description": "Jeonbuk Bank will use Ripple’s 24/7 cross-border payment service for business remittances, but it is unknown whether the flows will use XRP or Ripple’s RLUSD stablecoin.",
-          "url": "https://www.coindesk.com/markets/2026/08/18/xrp-slips-below-usd1-even-as-korean-regional-bank-adopts-ripple-payments",
-          "source": "CoinDesk",
-          "published": "2026-08-18T05:34:32Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/b7d512ba660aea0dd60d8f3f58b1ae6ddd1786d8-1920x1282.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75"
-        },
-        {
-          "title": "South Korea’s Jeonbuk Bank taps Ripple for cross-border payments",
-          "description": "Ripple is bringing its cross-border payments platform to Jeonbuk Bank, but key details including its launch status and settlement asset remain undisclosed.",
-          "url": "https://cointelegraph.com/news/jeonbuk-bank-ripple-cross-border-payments",
+          "title": "SEC proposes new crypto rules in absence of CLARITY Act",
+          "description": "The proposed rules from the US securities regulator would provide companies with a safe harbor from tokens being treated as“investment contracts” and certain exemptions for token issuance.",
+          "url": "https://cointelegraph.com/news/us-sec-crypto-rules-clarity-act",
           "source": "Cointelegraph",
-          "published": "2026-08-18T04:11:02Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-negotiation-south-korea-1.jpg"
+          "published": "2026-08-18T21:24:15Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-sec-cftc-event-overview.jpg"
         },
         {
-          "title": "‘Fabricated rumors’ about BitMart founder, Binance bStocks dominate: Asia Express",
-          "description": "Binance’s bStocks are the second largest tokenized stock issuer just two months after launch, and BitMart’s internal feud erupts into the spotlight ahead of its closure",
-          "url": "https://cointelegraph.com/magazine/fabricated-rumors-about-bitmart-founder-binance-bstocks-dominate-asia-express",
-          "source": "Cointelegraph",
-          "published": "2026-08-18T01:28:37Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/asia-express-9.jpg"
+          "title": "$5.5 Trillion Bet: Why Every Major Bank Is Racing To Put Wall Street On The Blockchain",
+          "description": "Larry Fink, CEO of BlackRock, the world's largest asset manager has called tokenization “the next generation for markets.” After a ...",
+          "url": "https://biztoc.com/x/c209abbf1c5199f1",
+          "source": "Biztoc.com",
+          "published": "2026-08-18T20:54:59Z",
+          "image": "https://biztoc.com/cdn/c209abbf1c5199f1_s.webp"
         },
         {
-          "title": "Treasury Proposes Rules Defining Who Can Legally Sell Stablecoins in US",
-          "description": "Exchanges and other crypto platforms would face new restrictions on selling stablecoins to US customers beginning in 2027.",
-          "url": "https://decrypt.co/375817/treasury-rules-sell-stablecoins-us",
+          "title": "SEC Proposes Crypto Fundraising Exemptions in Abrupt About-Face",
+          "description": "The proposed rules would let crypto projects raise capital through token sales without full securities registration and create a path for tokens to separate from investment contracts.",
+          "url": "https://decrypt.co/375902/sec-regulation-crypto-fundraising-exemptions",
           "source": "Decrypt",
-          "published": "2026-08-17T20:31:04Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/scott-bessent-decrypt-style-1-gID_7.jpg"
+          "published": "2026-08-18T20:00:25Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/paul-atkins-decrypt-style-01-gID_7.jpg"
         },
         {
-          "title": "Spot Bitcoin and Ethereum ETFs: The difference between owning the coin and the fund",
-          "description": "Spot Bitcoin and Ethereum ETFs make crypto investing easy, but how do they compare to owning the coin directly? Learn the pros, cons, and key differences.",
-          "url": "https://finance.yahoo.com/personal-finance/investing/article/spot-bitcoin-etfs-200144120.html",
-          "source": "Yahoo Entertainment",
-          "published": "2026-08-17T20:01:44Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/730DD02881C75FBB3FCBED383FC64936B1AD567B5F018D2BC9C17867AB753E4F/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-09%2Faf5f1f90-8458-11ef-bf39-d593aac269c4"
+          "title": "US securities regulator reveals long-awaited crypto rules",
+          "description": "The US Securities and Exchange Commission today proposed a new regulatory framework for cryptocurrency assets, the first major step under US President Donald Trump's administration to give the industry the tailored rules it has long pushed for.",
+          "url": "https://www.rte.ie/news/business/2026/0818/1588422-sec-crypto-rules/",
+          "source": "RTE",
+          "published": "2026-08-18T19:49:13Z",
+          "image": "https://www.rte.ie/images/00249e7a-1600.jpg"
         },
         {
-          "title": "Centralized vs. decentralized exchanges: What's the difference?",
-          "description": "Discover the key differences between centralized and decentralized crypto exchanges. Learn the pros, cons, and which platform fits your trading needs best.",
-          "url": "https://finance.yahoo.com/personal-finance/investing/article/centralized-vs-decentralized-exchanges-191328712.html",
-          "source": "Yahoo Entertainment",
-          "published": "2026-08-17T19:13:28Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/B9D75B66D5C5DE61CC8245A33DC7B445231EF7AC53CFB028383F6A64E5C69F47/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-08%2F65b82617-010f-4490-b8f7-a583667c38fe"
+          "title": "What Would Have to Happen for XRP to Hit $5?",
+          "description": "XRP sits nearly 50% down on the year, yet a $5 price target keeps circulating with a September deadline attached. Three specific catalysts could move the nee...",
+          "url": "https://247wallst.com/investing/cryptocurrency/2026/08/18/what-would-have-to-happen-for-xrp-to-hit-5/",
+          "source": "24/7 Wall St.",
+          "published": "2026-08-18T17:40:34Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/025B4A88BED59A1683C44E548FCD1CEB87336BFBB3775272E95F283DC4852A7F/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F469ae7b49e004dc7d322c0db8cf01df1.jpg"
         },
         {
-          "title": "Trump Admin Gave the Trump Family’s Crypto Company the Okay to Start a Bank",
-          "description": "“This is the most brazen act of self-dealing our financial system has ever seen,” says Senator Elizabeth Warren.",
-          "url": "http://nymag.com/intelligencer/article/trump-family-crypto-bank.html",
-          "source": "New York Magazine",
-          "published": "2026-08-17T18:49:14Z",
-          "image": "https://pyxis.nymag.com/v1/imgs/77f/628/1a546189137a969ee2b496cda1395b6d83-eric-don.1x.rsocial.w1200.jpg"
+          "title": "Kraken’s Krak debuts US debit card as Payward broadens financial services push",
+          "description": "Kraken’s Krak launched a US multi-asset debit card offering up to 2% cashback as parent Payward broadens its push into financial services and additional asset classes.",
+          "url": "https://cointelegraph.com/news/krakens-krak-launches-us-debit-card-as-payward-broadens-financial-services-push",
+          "source": "Cointelegraph",
+          "published": "2026-08-18T17:39:37Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/btc-comau-sponsor2.png"
+        },
+        {
+          "title": "Toyota Finance opens tokenized bonds to retail investors via app",
+          "description": "Toyota's tokenized bonds democratize investment access, potentially reshaping retail finance by integrating blockchain with everyday transactions.\nThe post Toyota Finance opens tokenized bonds to retail investors via app appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/toyota-finance-tokenized-bonds-retail/",
+          "source": "Crypto Briefing",
+          "published": "2026-08-18T13:59:17Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/18095912/free-toyota-c-hr-photo-and-picture-800x420.jpeg"
         }
       ]
     },
@@ -180,20 +164,52 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Trump’s Crypto Bank Is Coming: World Liberty Gets Conditional OCC Approval for USD1",
-          "description": "Donald Trump’s family-backed World Liberty Financial has moved one step closer to opening Trump’s crypto bank. The Office of the Comptroller of the Currency (OCC)...\nThe post Trump’s Crypto Bank Is Coming: World Liberty Gets Conditional OCC Approval for USD1 …",
-          "url": "https://bitcoinfoundation.org/news/altcoins/trumps-crypto-bank-is-coming-world-liberty-gets-conditional-occ-approval-for-usd1/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-08-17T15:30:23Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/08/occ-1.webp"
+          "title": "Apex Fusion Brings AI Agents Into Its Settlement Layer With a Verifiable Framework",
+          "description": "Vector, proven across 20,000 agent-run jobs in a pilot with OriginTrail, is now open to labs, companies, and researchers. ZUG, Switzerland — 18 August 2026 — The Apex Fusion Foundation today opened Vector, the neutral settlement, accountability, and provenanc…",
+          "url": "https://zycrypto.com/apex-fusion-brings-ai-agents-into-its-settlement-layer-with-a-verifiable-framework/",
+          "source": "ZyCrypto",
+          "published": "2026-08-18T18:51:10Z",
+          "image": "https://zycrypto.com/wp-content/uploads/2026/08/Apex-Fusion-Brings-AI-Agents-Into-Its-Settlement-Layer-With-a-Verifiable-Framework-1.jpg"
         },
         {
-          "title": "Aventus Crypto Price Prediction 2026–2030: Can AVT Recover to $1?",
-          "description": "Aventus forecasts vary widely. Because AVT has a small market cap and trading volume, as of late August 2026, AVT is priced at about $0.22....\nThe post Aventus Crypto Price Prediction 2026–2030: Can AVT Recover to $1? appeared first on Bitcoin Foundation.",
-          "url": "https://bitcoinfoundation.org/news/altcoins/aventus-crypto-price-prediction-2026-2030-can-avt-recover-to-1/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-08-17T10:27:27Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/08/Aventus-Crypto-Price-Prediction-2026–2030-Can-AVT-Recover-to-1-2.webp"
+          "title": "AI can demystify supply chain regulations for global businesses — if geopolitics don't get in the way",
+          "description": "The Chinese Ministry of Commerce added seven US companies, including Altana, to its countermeasures list amid US-China trade tensions.",
+          "url": "https://www.businessinsider.com/us-china-trade-altana-supply-chain-software-2026-8#article",
+          "source": "Business Insider",
+          "published": "2026-08-18T18:47:11Z",
+          "image": "https://i.insider.com/6a83206c1708a52d99c370db?width=1200&format=jpeg"
+        },
+        {
+          "title": "Neuberger teams with Securitize on multi-chain tokenized fixed-income fund launch",
+          "description": "Securitize and Neuberger launched a tokenized high-yield fixed-income fund across Ethereum, Solana, Avalanche and Sui, expanding institutional offerings of onchain investment products.",
+          "url": "https://cointelegraph.com/news/neuberger-launches-tokenized-fixed-income-fund-with-securitize",
+          "source": "Cointelegraph",
+          "published": "2026-08-18T15:59:54Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-sbuidl-blackrocks-tokenized-treasury-fund.png"
+        },
+        {
+          "title": "Arthur Hayes’ New Token Will Airdrop Before Its Blockchain Exists: What Do Holders Get?",
+          "description": "Arthur Hayes will lead Flop Labs, with a FLOP airdrop set for Q4 2026 before the chain's Q1 2027 genesis block.",
+          "url": "https://beincrypto.com/arthur-hayes-flop-airdrop-before-blockchain/",
+          "source": "BeInCrypto",
+          "published": "2026-08-18T15:43:43Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/A8768F52549555D2974CA399B7EF501EF1CAB8049408C53847216C1838731296/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Ffac9730a5e68bd1b9abcb7e51cf40032.jpg"
+        },
+        {
+          "title": "BRABUS BODO Gets an Exclusive Open-Top Gran Turismo Counterpart",
+          "description": "The BRABUS BODO Cabriolet represents a remarkable fusion of innovative engineering and unparalleled luxury, redefining the Gran Turismo convertible experience. Limited to just 77 carefully crafted units, this open-top marvel pays tribute to BRABUS founder Bod…",
+          "url": "https://www.geeky-gadgets.com/brabus-bodo-cabriolet-specs/",
+          "source": "Geeky Gadgets",
+          "published": "2026-08-18T15:00:53Z",
+          "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/08/brabus-bodo-cabriolet.jpg"
+        },
+        {
+          "title": "XRP Holders Are Excited About a BRICS Pay Link — Here’s What’s Actually Confirmed",
+          "description": "XRP supporters are circulating claims that Standard Chartered gives XRP access to BRICS Pay, but no official BRICS Pay announcement confirms XRP, Ripple, XRP...",
+          "url": "https://www.ccn.com/news/crypto/xrp-brics-pay-viral-connection-fact-check/",
+          "source": "Crypto Coins News",
+          "published": "2026-08-18T13:14:22Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/12FE598349E23F7F06B2938E2DD591E1BB303D1194BBDF958F4729D864267B69/subgraphmysterio/resizefill_w1200_h750;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fccn_928%2F6c697eb49147fbfbd351f3dae8350f2d"
         },
         {
           "title": "Blockchain-enabled intelligent model for energy-constrained IoMT networks with privacy-preserving",
@@ -213,28 +229,35 @@
         "startups": {
           "title": "Startups",
           "icon": "💡",
-          "articles": [
-            {
-              "title": "At Beijing AI-Themed Bar, DeepSeek Tokens Come With the Pints",
-              "description": "AI and alcohol have three main similarities, according to Beijing bar owner Song De: hallucinations, bubbles and distillation. As AI enthusiasm sweeps across China, Song hopes his bar can ride the wave. He opened AGI Bar, ‌named after the concept of artificia…",
-              "url": "https://freerepublic.com/focus/f-chat/4392154/posts",
-              "source": "Freerepublic.com",
-              "published": "2026-08-18T00:52:19Z",
-              "image": null
-            }
-          ]
+          "articles": []
         },
         "hyperscalers": {
           "title": "Hyperscalers",
           "icon": "☁️",
           "articles": [
             {
-              "title": "LiteLLM Supply-Chain Attack – Technology, Banking and Healthcare the Most Affected",
-              "description": "The SANDCLOCK LiteLLM supply-chain attack exposed credentials across 2,038 repositories, affecting technology, finance, healthcare, retail and more. Resecurity (USA) estimated the most affected sectors by the “SANDCLOCK” backdoor, which was planted as a resul…",
-              "url": "https://securityaffairs.com/197377/hacking/litellm-supply-chain-attack-technology-banking-and-healthcare-the-most-affected.html",
-              "source": "Securityaffairs.com",
-              "published": "2026-08-17T17:09:53Z",
-              "image": "https://securityaffairs.com/wp-content/uploads/2026/08/signal-2026-08-17-18-48-09-671.jpg"
+              "title": "easywall v2.7.0",
+              "description": "Web interface for the nftables firewall on Linux, written in Go. The apply undoes itself after 120 seconds unless you confirm it — you cannot lock yourself out. Debian & Docker install.",
+              "url": "https://kitploit.com/en/posts/github-jp1337-easywall-v270",
+              "source": "Kitploit.com",
+              "published": "2026-08-19T01:10:05Z",
+              "image": "https://kitploit.com/production/public/tools/43596/12d87b1f20c9a0ddf0121ca4a82e73b615f3e7b79e55e0162dd410828878d0ff.png"
+            },
+            {
+              "title": "Visa’s Search for a New Stablecoin Partner Reveals a Strategic Divide",
+              "description": "Visa is currently shopping for a new stablecoin settlement and over-the-counter (OTC) partner. While the move appears to be a routine vendor swap, it functions as a strategic decoupling. According to CoinDesk, which reviewed the request for proposal (RFP) iss…",
+              "url": "https://forkast.news/visas-search-for-a-new-stablecoin-partner-reveals-a-strategic-divide/",
+              "source": "Forkast.news",
+              "published": "2026-08-18T22:02:33Z",
+              "image": "https://forkast.news/wp-content/uploads/2026/08/visa-stablecoin-settlement-partner-bvnk-1024x687.jpg"
+            },
+            {
+              "title": "Wyoming Stable Token Commission Migrates to Chainlink CCIP for Enhanced Operational Security",
+              "description": "After an exhaustive security review, the Wyoming Stable Token Commission adopts Chainlink CCIP to further bolster its cybersecurity foundation and set a new standard for the first state digital asset issuer CHEYENNE, Wyo., Aug. 18, 2026 /PRNewswire/ -- The Wy…",
+              "url": "https://www.prnewswire.com/news-releases/wyoming-stable-token-commission-migrates-to-chainlink-ccip-for-enhanced-operational-security-302854502.html",
+              "source": "PRNewswire",
+              "published": "2026-08-18T19:43:00Z",
+              "image": "https://mmx.prnewswire.com/media/MS1971840/Wyoming-Stablecoin-Commission-Announcement-Banner-1920x1080-1-1.jpg?id=OA2894981&p=facebook"
             },
             {
               "title": "Chinese AI Models Outperform Restricted U.S. Systems in Bitcoin Security Work, Developers Say",
