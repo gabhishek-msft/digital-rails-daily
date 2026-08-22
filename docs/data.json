@@ -1,11 +1,27 @@
 {
-  "date": "August 21, 2026",
+  "date": "August 22, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "Aligned Launches $ALIGN, the Native Token of Its Full Ethereum Stack",
+          "description": "August 20th, 2026 – Montevideo, Uruguay Today, Aligned, a full-stack Ethereum infrastructure project, has launched $ALIGN*, the native token of its ecosystem, with listings on major exchanges. Aligned is working to turn Ethereum into the world’s financial bac…",
+          "url": "https://dailyhodl.com/2026/08/20/aligned-launches-align-the-native-token-of-its-full-ethereum-stack/",
+          "source": "The Daily Hodl",
+          "published": "2026-08-20T20:00:29Z",
+          "image": "https://dailyhodl.com/wp-content/uploads/2026/08/image1.jpg?resize=266,160"
+        },
+        {
+          "title": "Starknet Bitcoin bridging goes dark after Atomiq security incident",
+          "description": "The incident highlights the vulnerability of crypto infrastructure to sophisticated attacks, emphasizing the need for robust security measures.\nThe post Starknet Bitcoin bridging goes dark after Atomiq security incident appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/starknet-bitcoin-bridging-atomiq-outage/",
+          "source": "Crypto Briefing",
+          "published": "2026-08-20T16:33:39Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/20123332/starknet-scaling-bitcoin-1-800x420.jpeg"
+        },
         {
           "title": "Self launches stablecoin distribution program for USA₮ on Celo",
           "description": "The program enhances financial inclusion by securely distributing stablecoins while preserving user privacy, potentially reshaping digital finance.\nThe post Self launches stablecoin distribution program for USA₮ on Celo appeared first on Crypto Briefing.",
@@ -37,14 +53,6 @@
           "source": "Cointelegraph",
           "published": "2026-08-16T23:54:50Z",
           "image": "https://s3-images.ctmedia.io/media/article-covers/hodlers-15-aug.jpg"
-        },
-        {
-          "title": "Zcash Is Making a Comeback: Why ZEC Could Lead Crypto’s Privacy Revival",
-          "description": "The Zcash comeback is hard to ignore. Having fallen out of the public eye, ZEC has jumped more than 1,000% in the past year alone,...\nThe post Zcash Is Making a Comeback: Why ZEC Could Lead Crypto’s Privacy Revival appeared first on Bitcoin Foundation.",
-          "url": "https://bitcoinfoundation.org/news/altcoins/zcash-comeback-crypto-privacy-revival/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-08-16T08:51:09Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/08/zback-1.webp"
         }
       ]
     },
@@ -53,6 +61,22 @@
       "icon": "🔐",
       "color": "#e6a200",
       "articles": [
+        {
+          "title": "SOL Strategies Evolving Into Broader Blockchain Platform – Quarterly Update Report",
+          "description": "Download the Complete Report Here SOL Strategies Inc. (STKE) Houdini Adds a High-Margin Growth Engine as STKE Evolves into a Broader Blockchain Infrastructur...",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/sol-strategies-evolving-broader-blockchain-172631865.html",
+          "source": "Yahoo Entertainment",
+          "published": "2026-08-20T17:26:31Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/8BE9F7807EF60BACA5D66EB0CE721463FA8A70743DE5AA32F2C071E7FAB16678/subgraphmysterio/resizefill_w1200_h5169;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fexec_edge_220%2Fe6b13e42e1f7671b30935554c9dbdac3.png"
+        },
+        {
+          "title": "A crypto network just voted to abandon its standalone blockchain and unlock 27% of its token supply",
+          "description": "GnosisDAO has approved a plan to retire Gnosis Chain’s standalone Layer 1, a shift that will unlock roughly 350,000 staked GNO. Under GIP-153, Gnosis Chain will become a zero-knowledge-proven Ethereum Economic Zone rollup that settles directly to Ethereum eve…",
+          "url": "https://cryptoslate.com/a-crypto-network-just-voted-to-abandon-its-standalone-blockchain-and-unlock-27-of-its-token-supply/",
+          "source": "CryptoSlate",
+          "published": "2026-08-20T08:30:25Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/08/gnosis-validator-model-retirement.jpg"
+        },
         {
           "title": "Gnosis Chain transitions to Ethereum rollup, retiring its 100,000-node validator set",
           "description": "Gnosis Chain's transition to an Ethereum rollup could enhance security and interoperability, influencing future blockchain integration strategies.\nThe post Gnosis Chain transitions to Ethereum rollup, retiring its 100,000-node validator set appeared first on …",
@@ -78,12 +102,12 @@
           "image": "https://opengraph.githubassets.com/689ccdaceb0644bb057943260d3fb712ba844d411f6ce78c4de3d57f5c3c7a1b/ignotusnemo/parano1d"
         },
         {
-          "title": "Etherealize CEO warns Wall Street’s private blockchain push is a race to the bottom",
-          "description": "Private blockchain adoption risks perpetuating inefficiencies, while public chains like Ethereum offer scalable, transparent solutions for finance.\nThe post Etherealize CEO warns Wall Street’s private blockchain push is a race to the bottom appeared first on …",
-          "url": "https://cryptobriefing.com/etherealize-ceo-private-blockchain-race-to-bottom/",
-          "source": "Crypto Briefing",
-          "published": "2026-08-15T12:07:14Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/15080703/etherealize-ceo-16tn-mortgage-market-primed-for-ethereum-tre-800x420.jpeg"
+          "title": "Zcash Is Making a Comeback: Why ZEC Could Lead Crypto’s Privacy Revival",
+          "description": "The Zcash comeback is hard to ignore. Having fallen out of the public eye, ZEC has jumped more than 1,000% in the past year alone,...\nThe post Zcash Is Making a Comeback: Why ZEC Could Lead Crypto’s Privacy Revival appeared first on Bitcoin Foundation.",
+          "url": "https://bitcoinfoundation.org/news/altcoins/zcash-comeback-crypto-privacy-revival/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-08-16T08:51:09Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/08/zback-1.webp"
         }
       ]
     },
@@ -93,68 +117,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Bitcoin surges 8% as short squeeze ripples across battered crypto market",
-          "description": "Bitcoin climbed to around $69,500 after a wave of short covering, amid Trump's meeting with crypto executives and lower borrowing costs adding to buying momentum",
-          "url": "https://www.business-standard.com/markets/cryptocurrency/bitcoin-surges-8-as-short-squeeze-ripples-across-battered-crypto-market-126082000145_1.html",
-          "source": "Business Standard",
-          "published": "2026-08-20T03:47:34Z",
-          "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/20/thumb/featurecrop/1200X628/1787197574-3753.jpg"
-        },
-        {
-          "title": "Blueprint Finance Announces Strategic Funding Round to Scale Concrete's Institutional DeFi Infrastructure",
-          "description": "Polychain Capital leads the round, with participation from Bullish, Keyrock, BitGo, FalconX, G-20, Flowdesk, JPEG Trading, and Sentient Capital. NEW YORK, Aug. 19, 2026 /PRNewswire/ -- Blueprint Finance, the core developer of Concrete, today announced the com…",
-          "url": "https://www.prnewswire.com/news-releases/blueprint-finance-announces-strategic-funding-round-to-scale-concretes-institutional-defi-infrastructure-302855894.html",
-          "source": "PRNewswire",
-          "published": "2026-08-20T03:30:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS1614574/BlueprintLogo-Logo.jpg?id=OA2899243&p=facebook"
-        },
-        {
-          "title": "Aave Horizon to onboard fixed-income fund from Neuberger Berman and Securitize",
-          "description": "Aave Horizon's integration of HINC signals a shift towards higher-risk, higher-yield assets, potentially attracting more institutional investors.\nThe post Aave Horizon to onboard fixed-income fund from Neuberger Berman and Securitize appeared first on Crypto …",
-          "url": "https://cryptobriefing.com/aave-horizon-neuberger-securitize-hinc-fund/",
-          "source": "Crypto Briefing",
-          "published": "2026-08-19T23:07:07Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/19190656/aave-800x420.jpeg"
-        },
-        {
-          "title": "Down 50% on crypto and burning $8 million in cash, this Nasdaq firm just pivoted to event robots to survive",
-          "description": "Its holdings were valued at $5.21 million on June 30, while order economics and sale timing remain undisclosed.\nThe post Down 50% on crypto and burning $8 million in cash, this Nasdaq firm just pivoted to event robots to survive appeared first on CryptoSlate.",
-          "url": "https://cryptoslate.com/down-50-on-crypto-and-burning-8-million-in-cash-one-nasdaq-firm-pivots-to-event-robots-to-survive/",
-          "source": "CryptoSlate",
-          "published": "2026-08-19T21:55:42Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/08/aixcrypto-robot-pivot.jpg"
-        },
-        {
-          "title": "Bitcoin.com integrates UAE-registered US dollar stablecoin into self-custodial wallet",
-          "description": "The integration expands access to USDU, the UAE’s first central bank-registered US dollar stablecoin, as it builds distribution beyond institutional channels.",
-          "url": "https://cointelegraph.com/news/bitcoincom-integrates-uae-registered-usdu-stablecoin-into-self-custodial-wallet",
+          "title": "Capital.com plans UAE spot crypto services after affiliate wins licence",
+          "description": "Capital Vault will handle execution, custody and settlement through a separately governed UAE entity with an Abu Dhabi office under the CMA framework.",
+          "url": "https://cointelegraph.com/news/capital-com-uae-spot-crypto-license",
           "source": "Cointelegraph",
-          "published": "2026-08-19T20:33:51Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-read-a-stablecoin-attestation-report-eu-1.png"
+          "published": "2026-08-21T03:33:11Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-time-to-switch-license-uae-1.jpg"
         },
         {
-          "title": "Hyperliquid Strategies Inc Announces Webcast to Discuss Results for the Fiscal Year Ended June 30, 2026",
-          "description": "NEW YORK, Aug. 19, 2026 /PRNewswire/ -- Hyperliquid Strategies Inc (NASDAQ: PURR) (\"HSI\" or the \"Company\"), the premier digital asset treasury platform focused on the Hyperliquid ecosystem, today announced that it will host a live webcast on Thursday, August …",
-          "url": "https://www.prnewswire.com/news-releases/hyperliquid-strategies-inc-announces-webcast-to-discuss-results-for-the-fiscal-year-ended-june-30-2026-302855589.html",
-          "source": "PRNewswire",
-          "published": "2026-08-19T20:15:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS1790773/Hyperliquid-Strategies-Inc-Logo.jpg?id=OA2898061&p=facebook"
+          "title": "Garlinghouse Says 67M US Crypto Owners Show Industry Has Gone Mainstream",
+          "description": "Garlinghouse Says 67M US Crypto Owners Show Industry Has Gone Mainstream - Read the full analysis on Bitcoinist.",
+          "url": "https://bitcoinist.com/garlinghouse-says-67m-us-crypto-owners-show-industry-has-gone-mainstream/",
+          "source": "Bitcoinist",
+          "published": "2026-08-21T03:30:00Z",
+          "image": "https://bitcoinist.com/wp-content/uploads/2026/06/bitcoinist_sec_tokenized_stocks_clean.jpg"
         },
         {
-          "title": "The White House Summit Isn’t a Photo Op. It’s the Regulatory Architecture.",
-          "description": "First reported by Politico on August 13 and confirmed by CoinDesk on August 14, the August 19, 2026, White House crypto summit at the Eisenhower Executive Office Building was not a photo opportunity; it was an operational agenda. By shifting the focus from th…",
-          "url": "https://forkast.news/the-white-house-summit-isnt-a-photo-op-its-the-regulatory-architecture/",
-          "source": "Forkast.news",
-          "published": "2026-08-19T20:04:22Z",
-          "image": "https://forkast.news/wp-content/uploads/2026/08/white-house-crypto-summit-aug-2026-v2-1024x687.jpg"
+          "title": "Wyoming Stable Token Commission Moves FRNT Infrastructure To Chainlink CCIP",
+          "description": "Wyoming Stable Token Commission Moves FRNT Infrastructure To Chainlink CCIP - Read the full analysis on Bitcoinist.",
+          "url": "https://bitcoinist.com/wyoming-stable-token-commission-moves-frnt-infrastructure-to-chainlink-ccip/",
+          "source": "Bitcoinist",
+          "published": "2026-08-21T02:00:00Z",
+          "image": "https://bitcoinist.com/wp-content/uploads/2026/06/bitcoinist_13_kalshi-cftc-fight-reaches-new-mexico-in-prediction-market-clash_featured.png"
         },
         {
-          "title": "Trump Calls on Congress to Pass 'Fair Version' of Clarity Act at White House Crypto Meeting",
-          "description": "Trump touted his administration’s crypto policies and said regulators are working to bring Hyperliquid into the U.S. under a compliant framework.",
-          "url": "https://decrypt.co/376006/trump-pass-fair-version-clarity-white-house-crypto-meeting",
+          "title": "Infineo CEO calls life insurance ‘blue chip collateral,’ and he’s putting it on chain",
+          "description": "Jay Rogers built a $500 million pool of institutional policies, borrowed against it through a bank CDO, and now says tokenization is the efficiency step the...",
+          "url": "https://www.thestreet.com/crypto/innovation/infineo-ceo-calls-life-insurance-blue-chip-collateral-and-hes-putting-it-on-chain-",
+          "source": "TheStreet",
+          "published": "2026-08-20T22:55:55Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/A63617CB523E5903C11AA8082A771621BB911B7EE078DFFFE892C0FA2D7B44E4/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2Fb3ddfa94d7f7bffe9ceb3a7323e88dbf.png"
+        },
+        {
+          "title": "CFTC chair says agency will move forward on crypto regulation if CLARITY fails",
+          "description": "Michael Selig said at a meeting of the Innovation Advisory Committee that he had directed CFTC staff to explore developer protections and other crypto-related policies.",
+          "url": "https://cointelegraph.com/news/cftc-chair-crypto-regulation-without-clarity-act-congress",
+          "source": "Cointelegraph",
+          "published": "2026-08-20T20:56:23Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/regulation-lot-of-papers-clarity-act-1.jpg"
+        },
+        {
+          "title": "What's Next for Bitcoin After Historic Rally? Experts Weigh In",
+          "description": "Bitcoin's surge above $72,000 wiped out billions in bearish bets, but analysts say fresh buying will be needed to keep the rally going.",
+          "url": "https://decrypt.co/376155/what-next-for-bitcoin-price-experts-weigh-in",
           "source": "Decrypt",
-          "published": "2026-08-19T19:56:45Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/Trump-decrypt-style-08-gID_7.png"
+          "published": "2026-08-20T20:40:56Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/Bitcoin-glasses-decrypt-style-gID_7.png"
+        },
+        {
+          "title": "K2view positioned as a Leader in the SPARK Matrix™: Data Masking, Tokenization, and Synthetic Data Solutions, 2026 by QKS Group",
+          "description": "The QKS Group SPARK Matrix™ provides competitive analysis & ranking of the leading Data Masking, Tokenization, and Synthetic Data Solutions vendors. K2view, with its comprehensive solution, has received strong ratings across technology excellence and customer…",
+          "url": "https://www.prnewswire.co.uk/news-releases/k2view-positioned-as-a-leader-in-the-spark-matrix-data-masking-tokenization-and-synthetic-data-solutions-2026-by-qks-group-302856698.html",
+          "source": "PR Newswire UK",
+          "published": "2026-08-20T17:22:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS1596754/QKS-Group-Logo.jpg?id=OA2900441&p=facebook"
+        },
+        {
+          "title": "Trump administration moves ahead with new crypto rules, with key bill stalled in Congress",
+          "description": "The Trump administration is aggressively pushing forward with executive actions to bolster the cryptocurrency industry as comprehensive regulatory legislatio...",
+          "url": "https://finance.yahoo.com/markets/crypto/article/trump-administration-moves-ahead-with-new-crypto-rules-with-key-bill-stalled-in-congress-165233256.html",
+          "source": "Yahoo Entertainment",
+          "published": "2026-08-20T16:52:33Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/635BBBFF7AF5E1F7E937757678712CF3011FC18E8EAECA5033E80719E080EA34/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fdd84504e-db67-47dc-939a-5a97d5161f75_fd852a845685788b55d584e97ee72046c91bdd133b5b91f7cfd80bd2a85c5dbb.jpg"
         }
       ]
     },
@@ -164,20 +188,28 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Crypto Unchained: The evolution of money and the rise of Bitcoin",
-          "description": "The book “Crypto Unchained: The Battle for Privacy, Freedom, and the Future of Money” traces Bitcoin’s creation by Satoshi Nakamoto as a response to the 2008 financial crisis, emphasizing its decentralized, inflation-proof design (21M cap, proof-of-work) as a…",
-          "url": "https://www.naturalnews.com/2026-08-20-crypto-unchained-evolution-money-rise-of-bitcoin.html",
-          "source": "Naturalnews.com",
-          "published": "2026-08-20T06:00:00Z",
-          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/Crypto-Unchained.jpg"
+          "title": "Securitize And Neuberger Berman Bring Tokenized HINC Fund To Sui",
+          "description": "Securitize And Neuberger Berman Bring Tokenized HINC Fund To Sui - Read the full analysis on Bitcoinist.",
+          "url": "https://bitcoinist.com/securitize-and-neuberger-berman-bring-tokenized-hinc-fund-to-sui/",
+          "source": "Bitcoinist",
+          "published": "2026-08-20T23:45:00Z",
+          "image": "https://bitcoinist.com/wp-content/uploads/2026/06/TOTAL_2026-06-10_12-31-34.png"
         },
         {
-          "title": "Can tokenized assets continue to scale faster than the revenue models behind them?",
-          "description": "Securitize closed its first quarter as a public company with average tokenized assets under management hitting a record $4.3 billion, up 16% year over year, while transaction volume on the platform jumped 147% to $5.3 billion. Total revenue fell 5% to $14.4 m…",
-          "url": "https://cryptoslate.com/can-tokenized-assets-continue-to-scale-faster-than-the-revenue-models-behind-them/",
-          "source": "CryptoSlate",
-          "published": "2026-08-19T22:50:35Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/08/securitize-growth-profit-tanker.jpg"
+          "title": "Futureverse collapse: How a claimed billion-dollar Kiwi-founded crypto company roll-up left $40m in debts",
+          "description": "Futureverse claimed to be a billion-dollar unicorn. A receivership sale fetched $4.5m.",
+          "url": "https://www.nzherald.co.nz/business/markets/crypto/futureverse-collapse-how-a-claimed-billion-dollar-kiwi-founded-crypto-company-roll-up-left-40m-in-debts/premium/Y6HIQ2YW2NEO7H6RYL2M4RSJVQ/",
+          "source": "New Zealand Herald",
+          "published": "2026-08-20T17:00:00Z",
+          "image": "https://www.nzherald.co.nz/resizer/v2/LHYZXAJDTFG7XPIVADUZFYEBCU.jpg?auth=cbfcac2e92eabadfe3c784fe7000edea5c6f2255d68a0c5ada2726fb72dd5477&width=1200&height=675&quality=70&smart=true"
+        },
+        {
+          "title": "Robinhood CEO Vlad Tenev Says America 'Must Continue to Lead' and 'Move Quickly' in Stock Tokenization, Warns of This 'Strange Outcome'",
+          "description": "Robinhood Markets Inc. CEO Vlad Tenev on Tuesday described tokenization as an unstoppable force that will overhaul the financial system, urging America to ta...",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/robinhood-ceo-vlad-tenev-says-143113634.html",
+          "source": "Yahoo Entertainment",
+          "published": "2026-08-20T14:31:13Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/7CF6CE457955D6386EF13CD18B62FE2AF751E640FC04F6D225687FB873077AE8/subgraphmysterio/resizefill_w1200_h800;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2Fc75fdfb7bfd3d51c5b1bcc34bd8cac3e.jpg"
         },
         {
           "title": "AI can demystify supply chain regulations for global businesses — if geopolitics don't get in the way",
@@ -215,12 +247,12 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Bitcoin treasury Hyperscale sells 686 BTC to clear loans but says cash won’t cover next 12 months",
-              "description": "The August repayment ended the immediate collateral risk while the company’s going-concern warning and Michigan financing need persisted.\nThe post Bitcoin treasury Hyperscale sells 686 BTC to clear loans but says cash won’t cover next 12 months appeared first…",
-              "url": "https://cryptoslate.com/bitcoin-treasury-hyperscale-sells-686-btc-to-clear-loans-but-says-cash-wont-cover-next-12-months/",
-              "source": "CryptoSlate",
-              "published": "2026-08-20T02:00:01Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/08/hyperscale-liquidity-ai-risk.jpg"
+              "title": "The new kingmakers: Crypto, AI and betting firms drive record spending in 2026 US midterms",
+              "description": "New political money is challenging Washington’s traditional corporate power brokers as emerging industries seek influence over regulation and election outcomes",
+              "url": "https://www.thehindubusinessline.com/news/world/the-new-kingmakers-crypto-ai-and-betting-firms-drive-record-spending-in-2026-us-midterms/article71371995.ece",
+              "source": "BusinessLine",
+              "published": "2026-08-21T00:10:36Z",
+              "image": "https://bl-i.thgim.com/public/incoming/68z9v/article71372000.ece/alternates/LANDSCAPE_1200/2026-08-15T100112Z_9487056_RC22VMAL1NHC_RTRMADP_3_USA-ELECTION-TRUMP-INFLATION.JPG"
             }
           ]
         },
@@ -229,12 +261,28 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "FBI comes calling at Hyd in Rs 200 cr call centre fraud case, shares inputs with ED",
-              "description": "FBI visited ED Hyderabad to share info on a Rs 200 crore call-centre scam targeting US nationals; ED probes laundering via gift cards, crypto and hawala.",
-              "url": "https://timesofindia.indiatimes.com/city/hyderabad/fbi-comes-calling-at-hyd-in-rs-200-cr-call-centre-fraud-case-shares-inputs-with-ed/articleshow/133357688.cms",
-              "source": "The Times of India",
-              "published": "2026-08-19T18:45:42Z",
-              "image": "https://static.toiimg.com/thumb/msid-133357683,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
+              "title": "NAVI Prime Brings Curated Institutional Lending Markets To Sui",
+              "description": "NAVI Prime Brings Curated Institutional Lending Markets To Sui - Read the full analysis on Bitcoinist.",
+              "url": "https://bitcoinist.com/navi-prime-brings-curated-institutional-lending-markets-to-sui/",
+              "source": "Bitcoinist",
+              "published": "2026-08-21T00:30:00Z",
+              "image": "https://bitcoinist.com/wp-content/uploads/2026/06/bitcoinist_11_ethereum-nears-rare-third-straight-red-quarter-as-staking-signals-improve_featured.png"
+            },
+            {
+              "title": "Cybersecurity firm unveils crypto phishing campaign targeting 885,000 phone numbers",
+              "description": "Cybersecurity company Rapid7 unveiled a massive crypto phishing campaign targeting 885,000 phone numbers to steal the seed phrases of cryptocurrency investors through fake websites.",
+              "url": "https://cointelegraph.com/news/cybersecurity-unveils-crypto-phishing-885000-phone-numbers",
+              "source": "Cointelegraph",
+              "published": "2026-08-20T12:35:32Z",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-crypto-money-mule-scam-and-how-to-avoid-it.jpg"
+            },
+            {
+              "title": "Anvil CEO says on-chain letters of credit make lending ‘virtually default proof’",
+              "description": "Anvil lets you promise money without handing it over, keep the upside, and prove to any counterparty that the funds can’t run away.",
+              "url": "https://www.thestreet.com/crypto/innovation/anvil-ceo-says-on-chain-letters-of-credit-make-lending-virtually-default-proof-",
+              "source": "TheStreet",
+              "published": "2026-08-20T01:03:00Z",
+              "image": "https://s.yimg.com/lo/mysterio/api/E1DD7B1EC08CC55BA544F2C8F153FB5D744DFB001524F670DA6BF946822357D5/subgraphmysterio/resizefill_w1200_h674;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F2ba9a0e790e8b0f0816f77256a173407.jpg"
             },
             {
               "title": "Wyoming Stable Token Commission Migrates to Chainlink CCIP for Enhanced Operational Security",
@@ -251,14 +299,6 @@
               "source": "ZyCrypto",
               "published": "2026-08-18T18:51:10Z",
               "image": "https://zycrypto.com/wp-content/uploads/2026/08/Apex-Fusion-Brings-AI-Agents-Into-Its-Settlement-Layer-With-a-Verifiable-Framework-1.jpg"
-            },
-            {
-              "title": "Chinese AI Models Outperform Restricted U.S. Systems in Bitcoin Security Work, Developers Say",
-              "description": "Bitcoin developers and company leaders say they are relying on Chinese open-source artificial intelligence (AI) models because OpenAI and Anthropic restrict legitimate defensive security work, according to statements cited by Bitcoin Magazine. Rob Hamilton, C…",
-              "url": "https://www.naturalnews.com/2026-08-15-chinese-models-outperform-us-systems-bitcoin-security.html",
-              "source": "Naturalnews.com",
-              "published": "2026-08-15T06:00:00Z",
-              "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/chinese-ai-models-bitcoin-security-open-source-ai-3385-original.jpg"
             }
           ]
         }
