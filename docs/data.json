@@ -1,11 +1,27 @@
 {
-  "date": "August 23, 2026",
+  "date": "August 24, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "Reaching instant 27ms validation on Bitcoin will take 17 GPU years of compute power",
+          "description": "Hazync’s developer reports millisecond verification for blocks 1 through 1,789, while the full-chain proving campaign remains unfinished.\nThe post Reaching instant 27ms validation on Bitcoin will take 17 GPU years of compute power appeared first on CryptoSlat…",
+          "url": "https://cryptoslate.com/reaching-instant-27ms-validation-on-bitcoin-will-take-17-gpu-years-of-compute-power/",
+          "source": "CryptoSlate",
+          "published": "2026-08-22T20:45:15Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-stopwatch-gpu.jpg"
+        },
+        {
+          "title": "How a former crypto user’s archived Binance data ended up in a foreign terrorism prosecution",
+          "description": "When Russian investigators detained IT specialist Yuri Belenkiy in September 2025, Binance had been formally out of Russia for almost two years. Its customer records, however, were still available. Law enforcement documents reviewed by Reuters show that Binan…",
+          "url": "https://cryptoslate.com/binance-left-russia-years-ago-but-moscow-still-got-customer-records-used-in-a-terrorism-case/",
+          "source": "CryptoSlate",
+          "published": "2026-08-22T15:05:23Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/08/binance-russia-surveillance.jpg"
+        },
         {
           "title": "Grayscale moves closer to Zcash ETF launch with SEC filing",
           "description": "Grayscale's Zcash ETF pursuit could redefine crypto ETF norms, impacting market dynamics and regulatory approaches to privacy-focused assets.\nThe post Grayscale moves closer to Zcash ETF launch with SEC filing appeared first on Crypto Briefing.",
@@ -45,14 +61,6 @@
           "source": "PRNewswire",
           "published": "2026-08-19T07:47:00Z",
           "image": "https://mmx.prnewswire.com/media/MS1972139/20260819014137EDT_image_1.jpg?id=OA2896447&p=facebook"
-        },
-        {
-          "title": "OpenMatter Network to Take Verification Message to Belgrade Blockchain Week 2026",
-          "description": "Melbourne, Florida, 17th August 2026, CyberNewswire",
-          "url": "https://www.nextbigfuture.com/2026/08/openmatter-network-to-take-verification-message-to-belgrade-blockchain-week-2026.html",
-          "source": "Next Big Future",
-          "published": "2026-08-17T13:00:37Z",
-          "image": null
         }
       ]
     },
@@ -102,14 +110,6 @@
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/19103730/la-gnosis-chain-migre-vers-la-proof-of-stake-et-devient-la-3-800x420.jpeg"
         },
         {
-          "title": "ZKP’s Aren’t Age Verification Silver Bullets",
-          "description": "Age verification (laws and regulations requiring platforms and websites to assure or estimate that a user seeking to use an online service is of a certain age) is everywhere. At the time of writing, about half the states in the US have some internet age verif…",
-          "url": "https://www.eff.org/deeplinks/2026/08/zkps-arent-age-verification-silver-bullets",
-          "source": "EFF",
-          "published": "2026-08-18T22:39:03Z",
-          "image": "https://www.eff.org/files/banner_library/ageverificationbanner-3.png"
-        },
-        {
           "title": "Show HN: A blockchain that proves instead of storing",
           "description": "Proof-native Layer 1 ordered by proof of work. State validated from genesis in O(1). Provable end-to-end post-quantum soundness from genesis at NIST PQC Category 1. - ignotusnemo/parano1d",
           "url": "https://github.com/ignotusnemo/parano1d",
@@ -125,20 +125,36 @@
       "color": "#00a4ef",
       "articles": [
         {
+          "title": "How bitcoin and gold went from a slump to an MVP week in just a few days",
+          "description": "Bitcoin had dropped from a January high of around $95,000 to below $60,000 at the end of June. Investors shied away from speculative assets earlier in the year and crypto supporters were concerned about the lack of movement on proposed regulation of the indus…",
+          "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/how-bitcoin-and-gold-went-from-a-slump-to-an-mvp-week-in-just-a-few-days/articleshow/133434294.cms",
+          "source": "The Times of India",
+          "published": "2026-08-23T04:33:05Z",
+          "image": "https://img.etimg.com/thumb/msid-133434328,width-1200,height-630,imgsize-237482,overlay-etmarkets/articleshow.jpg"
+        },
+        {
+          "title": "Mapping India’s space-tech opportunity: Which listed stocks to buy, which unlisted companies to track",
+          "description": "COSMIC COMMERCE India’s private space ecosystem is expanding across launch, satellites, components, data and communications. For investors, understanding where companies sit in this value chain matters as much as the excitement around the theme.",
+          "url": "https://www.thehindubusinessline.com/portfolio/big-story/india-space-tech-stocks-investment-opportunities-space-economy/article71373040.ece",
+          "source": "BusinessLine",
+          "published": "2026-08-22T16:20:09Z",
+          "image": "https://bl-i.thgim.com/public/incoming/8me4ky/article71373503.ece/alternates/LANDSCAPE_1200/PO23_BS_India_night_space.jpg"
+        },
+        {
+          "title": "MiCA is coming for DeFi vaults, but regulation will be difficult",
+          "description": "Brussels is reviewing whether crypto lending should fall under MiCA, but DeFi lending vaults are making it harder to determine who, exactly, should be regulated.",
+          "url": "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult",
+          "source": "Cointelegraph",
+          "published": "2026-08-22T13:30:00Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/defi-lending-vaults-live-in-micas-blind-spot-but-brussels-may-be-about-to-close-it.jpg"
+        },
+        {
           "title": "Coinbase CEO: Bitcoin “Very Likely” to Reach $400,000 by 2030",
           "description": "Coinbase Global Inc. Chief Executive Officer Brian Armstrong said Thursday, Aug. 20, that Bitcoin will “very likely” trade between $300,000 and $400,000 by 2030. Armstrong made the remarks during his appearance that day on Fox Business Network‘s “Varney & Co.…",
           "url": "https://www.naturalnews.com/2026-08-22-coinbase-ceo-bitcoin-price-400k-by-2030.html",
           "source": "Naturalnews.com",
           "published": "2026-08-22T06:00:00Z",
           "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/bitcoin-brian-armstrong-price-prediction-3536-original.jpg"
-        },
-        {
-          "title": "Standard Chartered and HSBC Complete First Interbank Transaction on Swift’s Blockchain-Based Ledger",
-          "description": "Standard Chartered and HSBC have completed the first interbank transaction executed on Swift’s blockchain-based ledger, Standard Chartered said in a Wednesday (Aug. 19) press release. This live cross-border transaction demonstrated interbank operability and h…",
-          "url": "https://www.pymnts.com/blockchain/2026/standard-chartered-and-hsbc-complete-first-interbank-transaction-on-swifts-blockchain-based-ledger/",
-          "source": "pymnts.com",
-          "published": "2026-08-21T23:42:50Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2025/01/blockchain-stablecoins-digital-payments.jpg"
         },
         {
           "title": "OBOOK Q2 Earnings Call Highlights",
@@ -149,44 +165,28 @@
           "image": "https://s.yimg.com/lo/mysterio/api/5522CFAFE05CE6FA6A6F2D9262A6EAFF010543F16441B5B99BB9E608DFEEED17/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmarketbeat_955%2F285e7acbf1a990b211beb42e6fdb5f85.png"
         },
         {
-          "title": "SEC Reg Crypto Proposal Starts 60-Day Federal Register Comment Clock",
-          "description": "SEC Reg Crypto Proposal Starts 60-Day Federal Register Comment Clock - Read the full analysis on NewsBTC.",
-          "url": "http://www.newsbtc.com/news/sec-reg-crypto-proposal-federal-register-comment-clock/",
-          "source": "newsBTC",
-          "published": "2026-08-21T19:45:00Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/newsbtc_08_hester-peirce-farewell-speech-highlights-sec-crypt_fac548.png?fit=1200%2C675"
+          "title": "Polymarket's public ledger may be leaking military secrets",
+          "description": "A watchdog group traced $8M in longshot bets that landed right before U.S. strikes on Iran.",
+          "url": "https://www.thestreet.com/latest-news/polymarket-military-secrets-leak",
+          "source": "TheStreet",
+          "published": "2026-08-21T16:03:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/813DBEA454C28AAD34D576A1B7A9239BA2C27C5B5BB94D326EF810C28C49A4DC/subgraphmysterio/resizefill_w1200_h798;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F39ab1d0fbf301fc045e881fe860eec63.jpg"
         },
         {
-          "title": "Hashdex Liquidates DEFI As First US Spot Bitcoin ETF Closure Arrives",
-          "description": "Hashdex Liquidates DEFI As First US Spot Bitcoin ETF Closure Arrives - Read the full analysis on NewsBTC.",
-          "url": "http://www.newsbtc.com/news/hashdex-liquidates-defi-first-us-spot-bitcoin-etf-closure/",
-          "source": "newsBTC",
-          "published": "2026-08-21T19:00:00Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/Bitcoin-chart-from-World-of-Charts.jpg?fit=512%2C270"
+          "title": "SEC’s latest crypto rules only open a few of Wall Street’s ‘million doors’ – Bitwise CIO Matt Hougan",
+          "description": "Bitwise CIO Matt Hougan doesn't think Washington's crypto-friendly turn is the moment that completely unlocks Wall Street. In an interview with CryptoSlate, he described the real barrier as something far less dramatic than a single landmark bill. The “brutal …",
+          "url": "https://cryptoslate.com/secs-latest-crypto-rules-only-open-a-few-of-wall-streets-million-doors-bitwise-cio-matt-hougan/",
+          "source": "CryptoSlate",
+          "published": "2026-08-21T09:29:56Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/08/wall-street-million-doors.jpg"
         },
         {
-          "title": "XRP Explodes 40% in a Week. Can It Hit a New High by September 15?",
-          "description": "XRP just posted its strongest weekly gain of 2026, and a Senate vote on legislation that could permanently settle its legal status lands in 25 days. The path...",
-          "url": "https://247wallst.com/investing/2026/08/21/xrp-explodes-40-in-a-week-can-it-hit-a-new-high-by-september-15/",
-          "source": "24/7 Wall St.",
-          "published": "2026-08-21T18:42:31Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/025B4A88BED59A1683C44E548FCD1CEB87336BFBB3775272E95F283DC4852A7F/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F469ae7b49e004dc7d322c0db8cf01df1.jpg"
-        },
-        {
-          "title": "This Week in Stablecoins: Crypto That Never Touches the Customer",
-          "description": "Stablecoins five years ago represented a new form of money looking for a reason to exist. This week offered a different picture. The reason for stablecoins as a cash alternative is emerging precisely as the technology itself becomes harder to see. Across payr…",
-          "url": "https://www.pymnts.com/cryptocurrency/2026/this-week-in-stablecoins-crypto-that-never-touches-the-customer/",
-          "source": "pymnts.com",
-          "published": "2026-08-21T18:17:05Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2025/08/stablecoins-5.jpg"
-        },
-        {
-          "title": "Bitcoin ETFs Just Had Their Biggest Day Since May—BlackRock Took 83% of It",
-          "description": "U.S. spot Bitcoin ETFs pulled in $606 million Thursday, the biggest haul since May. And altcoin funds finally showed up too.",
-          "url": "https://decrypt.co/376211/bitcoin-etfs-biggest-day-since-may",
-          "source": "Decrypt",
-          "published": "2026-08-21T16:29:01Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg"
+          "title": "Why Bitcoin Is Surging 21% After the Treasury’s Bond Market Intervention",
+          "description": "Custodia Bank founder Caitlin Long explains why Bitcoin is enjoying its best week in years",
+          "url": "https://www.coinage.media/2026/why-bitcoin-is-surging-21-after-the-treasurys-bond-market-intervention",
+          "source": "Coinage.media",
+          "published": "2026-08-21T06:26:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/521BFE3F345ED04531BF71602A82FC35EEBBEC64A81F4FA2C45534D42527D042/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcoinage_coop_399%2F6e64b5f17f3f1464250214309f230435.png"
         }
       ]
     },
@@ -195,6 +195,22 @@
       "icon": "🏥",
       "color": "#00cc88",
       "articles": [
+        {
+          "title": "BlockchAIn Digital Infrastructure Targets AI Data Centers With 65 MW of Contracted Power",
+          "description": "BlockchAIn Digital Infrastructure (NYSEAMERICAN:AIB) outlined its strategy to convert powered land and former Bitcoin mining sites into facilities designed f...",
+          "url": "https://www.marketbeat.com/instant-alerts/blockchain-digital-infrastructure-targets-ai-data-centers-with-65-mw-of-contracted-power-2026-08-22/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+          "source": "MarketBeat",
+          "published": "2026-08-22T12:01:58Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/0D972FB68DD4F7D70A9699FD1CD5878CC9873D9EE3BB83E19D1B60436E80E12D/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmarketbeat_955%2F85d804d72f2ddc70f04ca0fcb7c85809.png"
+        },
+        {
+          "title": "Avalanche Tokenized Asset Value Crosses $3B As RWA Push Grows",
+          "description": "Avalanche Tokenized Asset Value Crosses $3B As RWA Push Grows - Read the full analysis on Bitcoinist.",
+          "url": "https://bitcoinist.com/avalanche-tokenized-asset-value-3b-rwa/",
+          "source": "Bitcoinist",
+          "published": "2026-08-22T08:15:00Z",
+          "image": "https://bitcoinist.com/wp-content/uploads/2026/06/featured_bitcoinist_spacex-tokenization-scramble-shows-the-difference-between-tokens-and-real-shares.png"
+        },
         {
           "title": "Multi-party transaction optimization decision-making in microgrid electricity market based on blockchain Berge-NS equilibrium",
           "description": "Scientific Reports - Multi-party transaction optimization decision-making in microgrid electricity market based on blockchain Berge-NS equilibrium",
@@ -212,12 +228,12 @@
           "image": "https://s.yimg.com/lo/mysterio/api/01471C64ACFE0DDF364ADD0C6ACCEFC1ADDCFDE6F93161FCC859BA0A9AA97228/subgraphmysterio/resizefill_w1200_h720;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F603902a93447122bcbd62086bed9d91e.jpg"
         },
         {
-          "title": "Securitize And Neuberger Berman Bring Tokenized HINC Fund To Sui",
-          "description": "Securitize And Neuberger Berman Bring Tokenized HINC Fund To Sui - Read the full analysis on Bitcoinist.",
-          "url": "https://bitcoinist.com/securitize-and-neuberger-berman-bring-tokenized-hinc-fund-to-sui/",
-          "source": "Bitcoinist",
-          "published": "2026-08-20T23:45:00Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/06/TOTAL_2026-06-10_12-31-34.png"
+          "title": "This Week in Stablecoins: Crypto That Never Touches the Customer",
+          "description": "Stablecoins five years ago represented a new form of money looking for a reason to exist. This week offered a different picture. The reason for stablecoins as a cash alternative is emerging precisely as the technology itself becomes harder to see. Across payr…",
+          "url": "https://www.pymnts.com/cryptocurrency/2026/this-week-in-stablecoins-crypto-that-never-touches-the-customer/",
+          "source": "pymnts.com",
+          "published": "2026-08-21T18:17:05Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2025/08/stablecoins-5.jpg"
         },
         {
           "title": "AI can demystify supply chain regulations for global businesses — if geopolitics don't get in the way",
@@ -234,6 +250,14 @@
           "source": "Crypto Coins News",
           "published": "2026-08-18T13:14:22Z",
           "image": "https://s.yimg.com/lo/mysterio/api/12FE598349E23F7F06B2938E2DD591E1BB303D1194BBDF958F4729D864267B69/subgraphmysterio/resizefill_w1200_h750;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fccn_928%2F6c697eb49147fbfbd351f3dae8350f2d"
+        },
+        {
+          "title": "OpenMatter Network to Take Verification Message to Belgrade Blockchain Week 2026",
+          "description": "Melbourne, Florida, 17th August 2026, CyberNewswire",
+          "url": "https://www.nextbigfuture.com/2026/08/openmatter-network-to-take-verification-message-to-belgrade-blockchain-week-2026.html",
+          "source": "Next Big Future",
+          "published": "2026-08-17T13:00:37Z",
+          "image": null
         }
       ]
     },
@@ -247,44 +271,12 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Illuvium says six months of cuts bought it another year as MMO becomes its main remaining bet",
-              "description": "Warwick says six months of cost reductions restored runway, but the studio has not published its current burn.\nThe post Illuvium says six months of cuts bought it another year as MMO becomes its main remaining bet appeared first on CryptoSlate.",
-              "url": "https://cryptoslate.com/illuvium-says-six-months-of-cuts-bought-it-another-year-as-mmo-becomes-its-main-remaining-bet/",
-              "source": "CryptoSlate",
-              "published": "2026-08-22T04:00:09Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/08/illuvium_standard_image.jpg"
-            },
-            {
-              "title": "Inside the libertarian city on a Caribbean island backed by Silicon Valley",
-              "description": "It might sound like something out of a  Reddit thread — a Caribbean island where libertarians, biohackers and crypto bros are building an experimental city. In Honduras, it's real.",
-              "url": "https://www.abc.net.au/news/2026-08-22/honduras-prospera-libertarian-utopia-caribbean-roatan/107045960",
-              "source": "ABC News (AU)",
-              "published": "2026-08-22T02:38:57Z",
-              "image": "https://live-production.wcms.abc-cdn.net.au/296cc82f142ace9740880110ec67b5f4?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic"
-            },
-            {
-              "title": "Ethena and FalconX: Institutionalizing the USDe Yield Pipeline",
-              "description": "The Shift to Institutional Credit On August 19, 2026, Ethena and FalconX announced a $1 billion secured warehouse lending facility, signaling a structural evolution in how stablecoin backing assets are deployed. By moving capital from the assets backing USDe …",
-              "url": "https://forkast.news/ethena-and-falconx-institutionalizing-the-usde-yield-pipeline/",
-              "source": "Forkast.news",
-              "published": "2026-08-22T02:23:56Z",
-              "image": "https://forkast.news/wp-content/uploads/2026/08/ethena-falconx-bridge-1024x687.jpg"
-            },
-            {
-              "title": "Shinhan Tests Tokenized Won Fund On Solana In RWA Push",
-              "description": "Shinhan Tests Tokenized Won Fund On Solana In RWA Push - Read the full analysis on Bitcoinist.",
-              "url": "https://bitcoinist.com/shinhan-tokenized-won-fund-solana-rwa/",
-              "source": "Bitcoinist",
-              "published": "2026-08-22T02:15:00Z",
-              "image": "https://bitcoinist.com/wp-content/uploads/2026/06/Solana-chart-from-Zensei-1.png"
-            },
-            {
-              "title": "Data of 54,000 wallet users leaked, Clarity odds just 10%: Hodler’s Digest, Aug. 16",
-              "description": "Data leaks expose 54,000 Trezor and SafePal users to phishing scams and the CLARITY Act odds are just 10% says Galaxy despite a planned White House meeting. Hodler’s Digest, Aug. 16",
-              "url": "https://cointelegraph.com/magazine/data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest",
-              "source": "Cointelegraph",
-              "published": "2026-08-16T23:54:50Z",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/hodlers-15-aug.jpg"
+              "title": "AI Has Made Bitcoin Software a Target—This Group Is Fighting Back",
+              "description": "A group of 20-odd developers is scanning the Bitcoin ecosystem for AI-discoverable flaws, warning that cheap, powerful models have handed attackers unprecedented reach.",
+              "url": "https://decrypt.co/376296/bitcoin-target-ai-red-team-group-fighting-back",
+              "source": "Decrypt",
+              "published": "2026-08-22T15:31:04Z",
+              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/bitcoin-decrypt-style-specs-gID_7.png"
             }
           ]
         },
