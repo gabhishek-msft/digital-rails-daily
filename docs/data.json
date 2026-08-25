@@ -1,11 +1,19 @@
 {
-  "date": "August 24, 2026",
+  "date": "August 25, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "themis",
+          "description": "Easy to use cryptographic framework for data protection: secure messaging with forward secrecy and secure data storage. Has unified APIs across 14 platforms.",
+          "url": "https://kitploit.com/en/tools/github/cossacklabs/themis/",
+          "source": "Kitploit.com",
+          "published": "2026-08-24T01:21:13Z",
+          "image": "https://assets.kitploit.com/production/public/tools/50817/5980e8dfc4a093b1b0bd466480f8e234e2dcfe39e63c0c7ac3bd8cc83c6a5b6c-social-v1.webp"
+        },
         {
           "title": "Reaching instant 27ms validation on Bitcoin will take 17 GPU years of compute power",
           "description": "Hazync’s developer reports millisecond verification for blocks 1 through 1,789, while the full-chain proving campaign remains unfinished.\nThe post Reaching instant 27ms validation on Bitcoin will take 17 GPU years of compute power appeared first on CryptoSlat…",
@@ -108,14 +116,6 @@
           "source": "Crypto Briefing",
           "published": "2026-08-19T14:37:41Z",
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/19103730/la-gnosis-chain-migre-vers-la-proof-of-stake-et-devient-la-3-800x420.jpeg"
-        },
-        {
-          "title": "Show HN: A blockchain that proves instead of storing",
-          "description": "Proof-native Layer 1 ordered by proof of work. State validated from genesis in O(1). Provable end-to-end post-quantum soundness from genesis at NIST PQC Category 1. - ignotusnemo/parano1d",
-          "url": "https://github.com/ignotusnemo/parano1d",
-          "source": "Github.com",
-          "published": "2026-08-17T21:30:46Z",
-          "image": "https://opengraph.githubassets.com/689ccdaceb0644bb057943260d3fb712ba844d411f6ce78c4de3d57f5c3c7a1b/ignotusnemo/parano1d"
         }
       ]
     },
@@ -125,44 +125,52 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "How bitcoin and gold went from a slump to an MVP week in just a few days",
-          "description": "Bitcoin had dropped from a January high of around $95,000 to below $60,000 at the end of June. Investors shied away from speculative assets earlier in the year and crypto supporters were concerned about the lack of movement on proposed regulation of the indus…",
-          "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/how-bitcoin-and-gold-went-from-a-slump-to-an-mvp-week-in-just-a-few-days/articleshow/133434294.cms",
-          "source": "The Times of India",
-          "published": "2026-08-23T04:33:05Z",
-          "image": "https://img.etimg.com/thumb/msid-133434328,width-1200,height-630,imgsize-237482,overlay-etmarkets/articleshow.jpg"
-        },
-        {
-          "title": "Mapping India’s space-tech opportunity: Which listed stocks to buy, which unlisted companies to track",
-          "description": "COSMIC COMMERCE India’s private space ecosystem is expanding across launch, satellites, components, data and communications. For investors, understanding where companies sit in this value chain matters as much as the excitement around the theme.",
-          "url": "https://www.thehindubusinessline.com/portfolio/big-story/india-space-tech-stocks-investment-opportunities-space-economy/article71373040.ece",
-          "source": "BusinessLine",
-          "published": "2026-08-22T16:20:09Z",
-          "image": "https://bl-i.thgim.com/public/incoming/8me4ky/article71373503.ece/alternates/LANDSCAPE_1200/PO23_BS_India_night_space.jpg"
-        },
-        {
-          "title": "MiCA is coming for DeFi vaults, but regulation will be difficult",
-          "description": "Brussels is reviewing whether crypto lending should fall under MiCA, but DeFi lending vaults are making it harder to determine who, exactly, should be regulated.",
-          "url": "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult",
-          "source": "Cointelegraph",
-          "published": "2026-08-22T13:30:00Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/defi-lending-vaults-live-in-micas-blind-spot-but-brussels-may-be-about-to-close-it.jpg"
-        },
-        {
-          "title": "Coinbase CEO: Bitcoin “Very Likely” to Reach $400,000 by 2030",
-          "description": "Coinbase Global Inc. Chief Executive Officer Brian Armstrong said Thursday, Aug. 20, that Bitcoin will “very likely” trade between $300,000 and $400,000 by 2030. Armstrong made the remarks during his appearance that day on Fox Business Network‘s “Varney & Co.…",
-          "url": "https://www.naturalnews.com/2026-08-22-coinbase-ceo-bitcoin-price-400k-by-2030.html",
+          "title": "BitcoinâsÂ latestÂ 23% weekly surgeÂ tied to a favorable regulatory climate incoming, as CLARITY Act vote nears",
+          "description": "The digital asset market is experiencing a seismic shift this week, as Bitcoin recorded its most explosive performance since 2023, shattering the $79,000 mark and obliterating over $1 billion in short-seller positions. While mainstream media attributes this s…",
+          "url": "https://www.naturalnews.com/2026-08-24-bitcoins-latest-weekly-surge-favorable-regulatory-climate-incoming.html",
           "source": "Naturalnews.com",
-          "published": "2026-08-22T06:00:00Z",
-          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/bitcoin-brian-armstrong-price-prediction-3536-original.jpg"
+          "published": "2026-08-24T06:00:00Z",
+          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/bitcoin-price-crypto-stocks-microstrategy-mstr-2913-original.jpg"
         },
         {
-          "title": "OBOOK Q2 Earnings Call Highlights",
-          "description": "OBOOK (NASDAQ:OWLS), which operates under the OwlTing Group brand, said its first-half 2026 results reflected a transition from building stablecoin-enabled p...",
-          "url": "https://www.marketbeat.com/instant-alerts/obook-q2-earnings-call-highlights-2026-08-21/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
-          "source": "MarketBeat",
-          "published": "2026-08-21T22:02:17Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/5522CFAFE05CE6FA6A6F2D9262A6EAFF010543F16441B5B99BB9E608DFEEED17/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmarketbeat_955%2F285e7acbf1a990b211beb42e6fdb5f85.png"
+          "title": "Banks, regulators join quantum-resistant crypto transfer pilot",
+          "description": "Banks will test post-quantum wallets and digital asset transfers as regulators from Abu Dhabi, Bhutan and Malta observe the new pilot’s first phase.",
+          "url": "https://cointelegraph.com/news/banks-regulators-quantum-resistant-crypto-pilot",
+          "source": "Cointelegraph",
+          "published": "2026-08-24T05:51:29Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-why-quantum-security-is-rising-on-layer-1-roadmaps-and-which-networks-are-preparing-first.jpg"
+        },
+        {
+          "title": "‘Crypto today is where mutual funds were in 1995’: BitDelta India CEO on digital assets and their role in your portfolio",
+          "description": "Vikaas M. Sachdeva, CEO of BitDelta India, talks to Abhinav Kaul about his journey from mutual funds and PMS to crypto, and where digital assets fit in an investor’s portfolio.",
+          "url": "https://economictimes.indiatimes.com/wealth/invest/crypto-today-is-where-mutual-funds-were-in-1995-bitdelta-india-ceo-on-digital-assets-and-their-role-in-your-portfolio/articleshow/133416135.cms",
+          "source": "The Times of India",
+          "published": "2026-08-24T01:00:00Z",
+          "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1229708,resizemode-75,msid-133416135/wealth/invest/crypto-today-is-where-mutual-funds-were-in-1995-bitdelta-india-ceo-on-digital-assets-and-their-role-in-your-portfolio.jpg"
+        },
+        {
+          "title": "Consortium launches cross-regional pilot on post-quantum security with participation from banks and regulatory stakeholders",
+          "description": "Convened by the Responsible Fintech Institute with Safeheron as technology partner, to evaluate and eventually open-source quantum-resilient infrastructure for wallet generation and digital asset transfers in a regulated, cross-jurisdiction setting. SINGAPORE…",
+          "url": "https://www.prnewswire.com/news-releases/consortium-launches-cross-regional-pilot-on-post-quantum-security-with-participation-from-banks-and-regulatory-stakeholders-302857693.html",
+          "source": "PRNewswire",
+          "published": "2026-08-24T01:00:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS1973450/20260820223806EDT_image_1.jpg?id=OA2901227&p=facebook"
+        },
+        {
+          "title": "We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest",
+          "description": "The US may face a debt crisis within three years according to Ray Dalio, and debt-related issues helped fuel a rally in Bitcoin that could mark the beginning of a new cycle.",
+          "url": "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest",
+          "source": "Cointelegraph",
+          "published": "2026-08-23T23:56:00Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/ray-dalio-replacement.png"
+        },
+        {
+          "title": "BitMart Rethinks Shutdown of Its Crypto Exchange",
+          "description": "Last month, cryptocurrency exchange BitMart announced plans to wind down its operations. Now, the company says it is exploring a way to remain open, according to an announcement published on its website Friday (Aug. 21). “Following further discussions with me…",
+          "url": "https://www.pymnts.com/cryptocurrency/2026/bitmart-rethinks-shutdown-of-its-crypto-exchange/",
+          "source": "pymnts.com",
+          "published": "2026-08-23T22:54:53Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/08/BitMart-comeback-1.jpg"
         },
         {
           "title": "Polymarket's public ledger may be leaking military secrets",
@@ -179,14 +187,6 @@
           "source": "CryptoSlate",
           "published": "2026-08-21T09:29:56Z",
           "image": "https://cryptoslate.com/wp-content/uploads/2026/08/wall-street-million-doors.jpg"
-        },
-        {
-          "title": "Why Bitcoin Is Surging 21% After the Treasury’s Bond Market Intervention",
-          "description": "Custodia Bank founder Caitlin Long explains why Bitcoin is enjoying its best week in years",
-          "url": "https://www.coinage.media/2026/why-bitcoin-is-surging-21-after-the-treasurys-bond-market-intervention",
-          "source": "Coinage.media",
-          "published": "2026-08-21T06:26:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/521BFE3F345ED04531BF71602A82FC35EEBBEC64A81F4FA2C45534D42527D042/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcoinage_coop_399%2F6e64b5f17f3f1464250214309f230435.png"
         }
       ]
     },
@@ -212,30 +212,6 @@
           "image": "https://bitcoinist.com/wp-content/uploads/2026/06/featured_bitcoinist_spacex-tokenization-scramble-shows-the-difference-between-tokens-and-real-shares.png"
         },
         {
-          "title": "Multi-party transaction optimization decision-making in microgrid electricity market based on blockchain Berge-NS equilibrium",
-          "description": "Scientific Reports - Multi-party transaction optimization decision-making in microgrid electricity market based on blockchain Berge-NS equilibrium",
-          "url": "https://www.nature.com/articles/s41598-026-66140-w.pdf",
-          "source": "Nature.com",
-          "published": "2026-08-22T00:00:00Z",
-          "image": null
-        },
-        {
-          "title": "Weekly Wrap: Bitcoin Breaks Out",
-          "description": "Bitcoin (CRYPTO: $BTC) was on track to end the week up more than 20% following its biggest rally since 2023. The la...",
-          "url": "https://www.cryptoprowl.com/releases/weekly-wrap-bitcoin-breaks-out-6497",
-          "source": "Cryptoprowl.com",
-          "published": "2026-08-21T20:34:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/01471C64ACFE0DDF364ADD0C6ACCEFC1ADDCFDE6F93161FCC859BA0A9AA97228/subgraphmysterio/resizefill_w1200_h720;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F603902a93447122bcbd62086bed9d91e.jpg"
-        },
-        {
-          "title": "This Week in Stablecoins: Crypto That Never Touches the Customer",
-          "description": "Stablecoins five years ago represented a new form of money looking for a reason to exist. This week offered a different picture. The reason for stablecoins as a cash alternative is emerging precisely as the technology itself becomes harder to see. Across payr…",
-          "url": "https://www.pymnts.com/cryptocurrency/2026/this-week-in-stablecoins-crypto-that-never-touches-the-customer/",
-          "source": "pymnts.com",
-          "published": "2026-08-21T18:17:05Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2025/08/stablecoins-5.jpg"
-        },
-        {
           "title": "AI can demystify supply chain regulations for global businesses — if geopolitics don't get in the way",
           "description": "The Chinese Ministry of Commerce added seven US companies, including Altana, to its countermeasures list amid US-China trade tensions.",
           "url": "https://www.businessinsider.com/us-china-trade-altana-supply-chain-software-2026-8#article",
@@ -250,14 +226,6 @@
           "source": "Crypto Coins News",
           "published": "2026-08-18T13:14:22Z",
           "image": "https://s.yimg.com/lo/mysterio/api/12FE598349E23F7F06B2938E2DD591E1BB303D1194BBDF958F4729D864267B69/subgraphmysterio/resizefill_w1200_h750;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fccn_928%2F6c697eb49147fbfbd351f3dae8350f2d"
-        },
-        {
-          "title": "OpenMatter Network to Take Verification Message to Belgrade Blockchain Week 2026",
-          "description": "Melbourne, Florida, 17th August 2026, CyberNewswire",
-          "url": "https://www.nextbigfuture.com/2026/08/openmatter-network-to-take-verification-message-to-belgrade-blockchain-week-2026.html",
-          "source": "Next Big Future",
-          "published": "2026-08-17T13:00:37Z",
-          "image": null
         }
       ]
     },
@@ -269,21 +237,28 @@
         "startups": {
           "title": "Startups",
           "icon": "💡",
-          "articles": [
-            {
-              "title": "AI Has Made Bitcoin Software a Target—This Group Is Fighting Back",
-              "description": "A group of 20-odd developers is scanning the Bitcoin ecosystem for AI-discoverable flaws, warning that cheap, powerful models have handed attackers unprecedented reach.",
-              "url": "https://decrypt.co/376296/bitcoin-target-ai-red-team-group-fighting-back",
-              "source": "Decrypt",
-              "published": "2026-08-22T15:31:04Z",
-              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/bitcoin-decrypt-style-specs-gID_7.png"
-            }
-          ]
+          "articles": []
         },
         "hyperscalers": {
           "title": "Hyperscalers",
           "icon": "☁️",
           "articles": [
+            {
+              "title": "Term Finance loses estimated $8.5M in vault governance exploit",
+              "description": "Term permanently closed its Meta Vaults after an attack reportedly removed nearly all of their Ethereum deposits.",
+              "url": "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit",
+              "source": "Cointelegraph",
+              "published": "2026-08-24T03:59:29Z",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-scammers-exploit-trusted-platforms-for-crypto-fraud-3.jpg"
+            },
+            {
+              "title": "HTX Research Examines U.S. AI Equities: Technology Remains Early, While Capital Expenditure and Valuations Have Entered the Late Cycle",
+              "description": "APIA, Samoa, Aug. 23, 2026 /PRNewswire/ -- HTX Research, the dedicated research arm of HTX, has released a new report titled The Industrialization of Intelligence and the Bubble Cycle: Token Economics, Capital Expenditure, and the Repricing of Risk-Reward Acr…",
+              "url": "https://www.prnewswire.com/news-releases/htx-research-examines-us-ai-equities-technology-remains-early-while-capital-expenditure-and-valuations-have-entered-the-late-cycle-302857764.html",
+              "source": "PRNewswire",
+              "published": "2026-08-23T08:07:00Z",
+              "image": "https://mmx.prnewswire.com/media/MS1974029/20260823035140EDT_image_1.jpg?id=OA2904292&p=facebook"
+            },
             {
               "title": "Circle Internet shares surge after acquisition of IBM blockchain patent portfolio",
               "description": null,
@@ -307,14 +282,6 @@
               "source": "Cointelegraph",
               "published": "2026-08-20T12:35:32Z",
               "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-crypto-money-mule-scam-and-how-to-avoid-it.jpg"
-            },
-            {
-              "title": "Anvil CEO says on-chain letters of credit make lending ‘virtually default proof’",
-              "description": "Anvil lets you promise money without handing it over, keep the upside, and prove to any counterparty that the funds can’t run away.",
-              "url": "https://www.thestreet.com/crypto/innovation/anvil-ceo-says-on-chain-letters-of-credit-make-lending-virtually-default-proof-",
-              "source": "TheStreet",
-              "published": "2026-08-20T01:03:00Z",
-              "image": "https://s.yimg.com/lo/mysterio/api/E1DD7B1EC08CC55BA544F2C8F153FB5D744DFB001524F670DA6BF946822357D5/subgraphmysterio/resizefill_w1200_h674;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F2ba9a0e790e8b0f0816f77256a173407.jpg"
             }
           ]
         }
