@@ -1,11 +1,19 @@
 {
-  "date": "August 25, 2026",
+  "date": "August 26, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "Blockchain Association urges tailored KYC rules for stablecoin issuers",
+          "description": "The Blockchain Association's stance highlights the need for regulatory frameworks to balance innovation with privacy and practicality in digital finance.\nThe post Blockchain Association urges tailored KYC rules for stablecoin issuers appeared first on Crypto …",
+          "url": "https://cryptobriefing.com/blockchain-association-stablecoin-kyc-rules/",
+          "source": "Crypto Briefing",
+          "published": "2026-08-24T20:48:23Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/24164817/us-blockchain-start-ups-launch-blockchain-association-800x420.jpeg"
+        },
         {
           "title": "themis",
           "description": "Easy to use cryptographic framework for data protection: secure messaging with forward secrecy and secure data storage. Has unified APIs across 14 platforms.",
@@ -31,14 +39,6 @@
           "image": "https://cryptoslate.com/wp-content/uploads/2026/08/binance-russia-surveillance.jpg"
         },
         {
-          "title": "Grayscale moves closer to Zcash ETF launch with SEC filing",
-          "description": "Grayscale's Zcash ETF pursuit could redefine crypto ETF norms, impacting market dynamics and regulatory approaches to privacy-focused assets.\nThe post Grayscale moves closer to Zcash ETF launch with SEC filing appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/grayscale-zcash-etf-sec-filing/",
-          "source": "Crypto Briefing",
-          "published": "2026-08-21T21:45:12Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/21174507/digital-dollar-sign-surrounded-by-binary-code-cryptocurrency-3-800x420.jpeg"
-        },
-        {
           "title": "Aligned Debuts $ALIGN as the Native Token Across Its Complete Ethereum Stack",
           "description": "Aligned, a full-stack Ethereum infrastructure project, has launched $ALIGN, the native token of its ecosystem, with listings now live on major exchanges.",
           "url": "https://zycrypto.com/aligned-debuts-align-as-the-native-token-across-its-complete-ethereum-stack/",
@@ -61,14 +61,6 @@
           "source": "Crypto Briefing",
           "published": "2026-08-19T15:29:12Z",
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/19112904/self-launches-stablecoin-distribution-program-for-usa-on-cel-800x420.png"
-        },
-        {
-          "title": "HTX Hot Listings Weekly Recap (Aug 10-16): BTCFi Leads the Rally as DeFi and AI Sectors Heat Up",
-          "description": "APIA, Samoa, Aug. 19, 2026 /PRNewswire/ -- As broader market sentiment stabilized, the cryptocurrency market staged a rebound during the second week of August (Aug 10–16), with capital rotating into several high-performing sectors. According to data from HTX,…",
-          "url": "https://www.prnewswire.com/news-releases/htx-hot-listings-weekly-recap-aug-10-16-btcfi-leads-the-rally-as-defi-and-ai-sectors-heat-up-302855035.html",
-          "source": "PRNewswire",
-          "published": "2026-08-19T07:47:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS1972139/20260819014137EDT_image_1.jpg?id=OA2896447&p=facebook"
         }
       ]
     },
@@ -77,6 +69,22 @@
       "icon": "🔐",
       "color": "#e6a200",
       "articles": [
+        {
+          "title": "Ethereum proposal would cut 33,800 ETH issuance and break every deployed Altair light client",
+          "description": "EIP-8390 proposes offchain ZK finality proofs but defines no replacement API or prover incentive and supplies no reproducible GPU benchmark.\nThe post Ethereum proposal would cut 33,800 ETH issuance and break every deployed Altair light client appeared first o…",
+          "url": "https://cryptoslate.com/?p=557465",
+          "source": "CryptoSlate",
+          "published": "2026-08-25T03:40:43Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/08/ethereum-sync-committee-removal.jpg"
+        },
+        {
+          "title": "Zcash soars to eight-year high amid crypto rally, and hopes of an ETF approval",
+          "description": "The privacy-focused chain Zcash's native token, ZEC, surged 66% over the past week.",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/zcash-soars-eight-high-amid-161028100.html",
+          "source": "Yahoo Entertainment",
+          "published": "2026-08-24T16:10:28Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/0ce5838fe495ce04eacb4aa43e6887b677163514fe1e34bdb2cd437e35394b3a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2F562245d86dc9215654b1576fdff4972d.jpg"
+        },
         {
           "title": "Zero Knowledge Proofs Aren’t Age Verification Silver Bullets",
           "description": "Age verification (laws and regulations requiring platforms and websites to assure or estimate that a user seeking to use an online service is of a certain age) is everywhere. At the time of writing, about half the states in the US have some internet age verif…",
@@ -125,68 +133,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "BitcoinâsÂ latestÂ 23% weekly surgeÂ tied to a favorable regulatory climate incoming, as CLARITY Act vote nears",
-          "description": "The digital asset market is experiencing a seismic shift this week, as Bitcoin recorded its most explosive performance since 2023, shattering the $79,000 mark and obliterating over $1 billion in short-seller positions. While mainstream media attributes this s…",
-          "url": "https://www.naturalnews.com/2026-08-24-bitcoins-latest-weekly-surge-favorable-regulatory-climate-incoming.html",
-          "source": "Naturalnews.com",
-          "published": "2026-08-24T06:00:00Z",
-          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/08/bitcoin-price-crypto-stocks-microstrategy-mstr-2913-original.jpg"
-        },
-        {
-          "title": "Banks, regulators join quantum-resistant crypto transfer pilot",
-          "description": "Banks will test post-quantum wallets and digital asset transfers as regulators from Abu Dhabi, Bhutan and Malta observe the new pilot’s first phase.",
-          "url": "https://cointelegraph.com/news/banks-regulators-quantum-resistant-crypto-pilot",
-          "source": "Cointelegraph",
-          "published": "2026-08-24T05:51:29Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-why-quantum-security-is-rising-on-layer-1-roadmaps-and-which-networks-are-preparing-first.jpg"
-        },
-        {
-          "title": "‘Crypto today is where mutual funds were in 1995’: BitDelta India CEO on digital assets and their role in your portfolio",
-          "description": "Vikaas M. Sachdeva, CEO of BitDelta India, talks to Abhinav Kaul about his journey from mutual funds and PMS to crypto, and where digital assets fit in an investor’s portfolio.",
-          "url": "https://economictimes.indiatimes.com/wealth/invest/crypto-today-is-where-mutual-funds-were-in-1995-bitdelta-india-ceo-on-digital-assets-and-their-role-in-your-portfolio/articleshow/133416135.cms",
-          "source": "The Times of India",
-          "published": "2026-08-24T01:00:00Z",
-          "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1229708,resizemode-75,msid-133416135/wealth/invest/crypto-today-is-where-mutual-funds-were-in-1995-bitdelta-india-ceo-on-digital-assets-and-their-role-in-your-portfolio.jpg"
-        },
-        {
-          "title": "Consortium launches cross-regional pilot on post-quantum security with participation from banks and regulatory stakeholders",
-          "description": "Convened by the Responsible Fintech Institute with Safeheron as technology partner, to evaluate and eventually open-source quantum-resilient infrastructure for wallet generation and digital asset transfers in a regulated, cross-jurisdiction setting. SINGAPORE…",
-          "url": "https://www.prnewswire.com/news-releases/consortium-launches-cross-regional-pilot-on-post-quantum-security-with-participation-from-banks-and-regulatory-stakeholders-302857693.html",
+          "title": "HashKey Exchange and Franklin Templeton to Bring OnChain U.S. Government Liquidity Fund to Asia",
+          "description": "HONG KONG, Aug. 25, 2026 /PRNewswire/ -- HashKey Holdings Limited (3887.HK), a leading comprehensive digital asset company in Asia, announced that its licensed trading platform, HashKey Exchange (\"HashKey\"), has today announced a collaboration with establishe…",
+          "url": "https://www.prnewswire.com/news-releases/hashkey-exchange-and-franklin-templeton-to-bring-onchain-us-government-liquidity-fund-to-asia-302859057.html",
           "source": "PRNewswire",
-          "published": "2026-08-24T01:00:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS1973450/20260820223806EDT_image_1.jpg?id=OA2901227&p=facebook"
+          "published": "2026-08-25T05:47:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS1638114/HashKey-Group-Logo.jpg?id=OA2909302&p=facebook"
         },
         {
-          "title": "We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest",
-          "description": "The US may face a debt crisis within three years according to Ray Dalio, and debt-related issues helped fuel a rally in Bitcoin that could mark the beginning of a new cycle.",
-          "url": "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest",
+          "title": "Korean bank taps Ripple for payments, Pakistan opens crypto licensing: Asia Express",
+          "description": "South Korea’s Jeonbuk Bank has tapped Ripple for cross border payments, while Pakistan has begun the process of licensing crypto exchanges.",
+          "url": "https://cointelegraph.com/magazine/korean-bank-to-use-ripple-payments-japans-first-exchange-in-4-years-asia-express",
           "source": "Cointelegraph",
-          "published": "2026-08-23T23:56:00Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/ray-dalio-replacement.png"
+          "published": "2026-08-25T02:03:55Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/asia-express-10.jpg"
         },
         {
-          "title": "BitMart Rethinks Shutdown of Its Crypto Exchange",
-          "description": "Last month, cryptocurrency exchange BitMart announced plans to wind down its operations. Now, the company says it is exploring a way to remain open, according to an announcement published on its website Friday (Aug. 21). “Following further discussions with me…",
-          "url": "https://www.pymnts.com/cryptocurrency/2026/bitmart-rethinks-shutdown-of-its-crypto-exchange/",
-          "source": "pymnts.com",
-          "published": "2026-08-23T22:54:53Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2026/08/BitMart-comeback-1.jpg"
+          "title": "Coinbase Investor Class Action Can Move Forward, Federal Judge Rules",
+          "description": "Coinbase Investor Class Action Can Move Forward, Federal Judge Rules - Read the full analysis on NewsBTC.",
+          "url": "http://www.newsbtc.com/news/coinbase-investor-class-action-can-move-forward-federal-judge-rules/",
+          "source": "newsBTC",
+          "published": "2026-08-25T00:15:00Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/image_xy4INP0h_1780626753962_raw.jpg?fit=1024%2C1024"
         },
         {
-          "title": "Polymarket's public ledger may be leaking military secrets",
-          "description": "A watchdog group traced $8M in longshot bets that landed right before U.S. strikes on Iran.",
-          "url": "https://www.thestreet.com/latest-news/polymarket-military-secrets-leak",
-          "source": "TheStreet",
-          "published": "2026-08-21T16:03:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/813DBEA454C28AAD34D576A1B7A9239BA2C27C5B5BB94D326EF810C28C49A4DC/subgraphmysterio/resizefill_w1200_h798;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F39ab1d0fbf301fc045e881fe860eec63.jpg"
+          "title": "Treasury Proposes Stablecoin Licensing Rules Under GENIUS Act",
+          "description": "Treasury Proposes Stablecoin Licensing Rules Under GENIUS Act - Read the full analysis on NewsBTC.",
+          "url": "http://www.newsbtc.com/news/treasury-proposes-stablecoin-licensing-rules-under-genius-act/",
+          "source": "newsBTC",
+          "published": "2026-08-24T22:45:00Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2026/05/shutterstock_2139614619.jpg?fit=1000%2C562"
         },
         {
-          "title": "SEC’s latest crypto rules only open a few of Wall Street’s ‘million doors’ – Bitwise CIO Matt Hougan",
-          "description": "Bitwise CIO Matt Hougan doesn't think Washington's crypto-friendly turn is the moment that completely unlocks Wall Street. In an interview with CryptoSlate, he described the real barrier as something far less dramatic than a single landmark bill. The “brutal …",
-          "url": "https://cryptoslate.com/secs-latest-crypto-rules-only-open-a-few-of-wall-streets-million-doors-bitwise-cio-matt-hougan/",
-          "source": "CryptoSlate",
-          "published": "2026-08-21T09:29:56Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/08/wall-street-million-doors.jpg"
+          "title": "Crypto Industry Raining Millions On Candidates That Back Its Favorite Bill",
+          "description": "The crypto industry poured money into candidates backing the CLARITY Act, which is the industry’s biggest legislative priority.",
+          "url": "https://dailycaller.com/2026/08/24/clarity-act-fec-campaign-spending-crypto-industry",
+          "source": "The Daily Caller",
+          "published": "2026-08-24T21:21:49Z",
+          "image": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/08/GettyImages-2286808321.jpg"
+        },
+        {
+          "title": "Wall Street Is Moving Into Altcoins: Why XRP, Solana and HYPE Are Winning",
+          "description": "Wall Street’s appetite for crypto has turned to altcoins, with nearly $90 million in net inflows to alternative crypto ETFs during the week. XRP, Solana...\nThe post Wall Street Is Moving Into Altcoins: Why XRP, Solana and HYPE Are Winning appeared first on Bi…",
+          "url": "https://bitcoinfoundation.org/news/altcoins/wall-street-is-moving-into-altcoins-why-xrp-solana-and-hype-are-winning/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-08-24T19:21:35Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/08/Alts1-1.webp"
+        },
+        {
+          "title": "India Is Finally Getting Its First Tokenized Corporate Bond",
+          "description": "\"Better late than never,\" says India’s market regulator SEBI as it pilots the first corporate bond issuance next month.",
+          "url": "https://app.moby.co/home/news/news-india-is-finally-getting-its-first-tokenized-corporate-bond?utm_source=yahoo_finance&amp;utm_medium=rss",
+          "source": "Moby.co",
+          "published": "2026-08-24T18:02:21Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/a99bd9bd0a992a953c13ef4f70d0f56a223669b4dd258c9e906e54099788dbc7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoby_896%2Fd5b40680b2480cc18aac557bace948a5.jpg"
+        },
+        {
+          "title": "India plans first tokenised bond issue in September: Report",
+          "description": "India is set to roll out tokenised corporate bonds next month, utilizing blockchain technology to facilitate immediate transaction settlements. The state-owned REC will be at the forefront of issuing these innovative bonds, which will require investors to pos…",
+          "url": "https://economictimes.indiatimes.com/markets/bonds/india-plans-first-tokenised-bond-issue-in-september-report/articleshow/133464895.cms",
+          "source": "The Times of India",
+          "published": "2026-08-24T11:57:16Z",
+          "image": "https://img.etimg.com/thumb/msid-133465140,width-1200,height-630,imgsize-126494,overlay-etmarkets/articleshow.jpg"
         }
       ]
     },
@@ -196,36 +204,36 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "BlockchAIn Digital Infrastructure Targets AI Data Centers With 65 MW of Contracted Power",
-          "description": "BlockchAIn Digital Infrastructure (NYSEAMERICAN:AIB) outlined its strategy to convert powered land and former Bitcoin mining sites into facilities designed f...",
-          "url": "https://www.marketbeat.com/instant-alerts/blockchain-digital-infrastructure-targets-ai-data-centers-with-65-mw-of-contracted-power-2026-08-22/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+          "title": "Forum Markets Eyes AI Compute Growth as Aircraft Engines Drive Cash Flow",
+          "description": "Forum Markets (NASDAQ:FRMM) outlined its strategy to build a portfolio of cash-flowing real-world assets while retaining the option to fractionalize or token...",
+          "url": "https://www.marketbeat.com/instant-alerts/forum-markets-eyes-ai-compute-growth-as-aircraft-engines-drive-cash-flow-2026-08-24/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
           "source": "MarketBeat",
-          "published": "2026-08-22T12:01:58Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/0D972FB68DD4F7D70A9699FD1CD5878CC9873D9EE3BB83E19D1B60436E80E12D/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmarketbeat_955%2F85d804d72f2ddc70f04ca0fcb7c85809.png"
+          "published": "2026-08-24T18:02:08Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/b866e075ed637018c026907561795966d96e9c852ff07e088c6826a93cc17b76/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmarketbeat_955%2F72150be5d812cfe63281566782663e61.png"
         },
         {
-          "title": "Avalanche Tokenized Asset Value Crosses $3B As RWA Push Grows",
-          "description": "Avalanche Tokenized Asset Value Crosses $3B As RWA Push Grows - Read the full analysis on Bitcoinist.",
-          "url": "https://bitcoinist.com/avalanche-tokenized-asset-value-3b-rwa/",
-          "source": "Bitcoinist",
-          "published": "2026-08-22T08:15:00Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/06/featured_bitcoinist_spacex-tokenization-scramble-shows-the-difference-between-tokens-and-real-shares.png"
+          "title": "SEC Rulemaking Is Giving Corporate Finance a New Crypto Hurdle Rate",
+          "description": "Cryptocurrency’s biggest enterprise problem isn’t its volatility and unpredictable returns. It’s that the risk of digital assets, spanning both the balance sheet and the compliance and regulatory arena, is difficult to calculate. Chief financial officers have…",
+          "url": "https://www.pymnts.com/cryptocurrency/2026/sec-rulemaking-is-giving-corporate-finance-new-crypto-hurdle-rate/",
+          "source": "pymnts.com",
+          "published": "2026-08-24T16:10:31Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/02/SEC-crypto.png"
         },
         {
-          "title": "AI can demystify supply chain regulations for global businesses — if geopolitics don't get in the way",
-          "description": "The Chinese Ministry of Commerce added seven US companies, including Altana, to its countermeasures list amid US-China trade tensions.",
-          "url": "https://www.businessinsider.com/us-china-trade-altana-supply-chain-software-2026-8#article",
-          "source": "Business Insider",
-          "published": "2026-08-18T18:47:11Z",
-          "image": "https://i.insider.com/6a83206c1708a52d99c370db?width=1200&format=jpeg"
+          "title": "Cut Flowers Market Size to Reach $52.78 Billion by 2031 as Online Ordering and Cold-Chain Innovation Reshape Global Trade, Reports Mordor Intelligence",
+          "description": "HYDERABAD, India, Aug. 24, 2026 /PRNewswire/ -- According to Mordor Intelligence, the cut flowers market size is projected to grow from $40.58 billion in 2026 to $52.78 billion by 2031, registering a CAGR of 5.4% during the forecast period (2026-2031). The ma…",
+          "url": "https://www.prnewswire.com/news-releases/cut-flowers-market-size-to-reach-52-78-billion-by-2031-as-online-ordering-and-cold-chain-innovation-reshape-global-trade-reports-mordor-intelligence-302858268.html",
+          "source": "PRNewswire",
+          "published": "2026-08-24T15:16:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS1701215/Mordor-Intelligence-Logo.jpg?id=OA2906485&p=facebook"
         },
         {
-          "title": "XRP Holders Are Excited About a BRICS Pay Link — Here’s What’s Actually Confirmed",
-          "description": "XRP supporters are circulating claims that Standard Chartered gives XRP access to BRICS Pay, but no official BRICS Pay announcement confirms XRP, Ripple, XRP...",
-          "url": "https://www.ccn.com/news/crypto/xrp-brics-pay-viral-connection-fact-check/",
+          "title": "Can XRP Be Used With FedNow Through Volante? Here’s What the Evidence Reveals",
+          "description": "Volante Technologies supports FedNow connectivity and a separate Ripple connection and has historically confirmed that its platform could settle through XRP....",
+          "url": "https://www.ccn.com/news/crypto/is-fednow-using-xrp-volante-ripple-connection-explained/",
           "source": "Crypto Coins News",
-          "published": "2026-08-18T13:14:22Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/12FE598349E23F7F06B2938E2DD591E1BB303D1194BBDF958F4729D864267B69/subgraphmysterio/resizefill_w1200_h750;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fccn_928%2F6c697eb49147fbfbd351f3dae8350f2d"
+          "published": "2026-08-24T13:20:34Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/F503D6BD2B9479656514A777612B6439354FE588CE73E0C7792DC824BA7231E7/subgraphmysterio/resizefill_w1200_h750;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fccn_928%2F1ec4a027902a5e661e6f8a3517544e22"
         }
       ]
     },
@@ -244,6 +252,30 @@
           "icon": "☁️",
           "articles": [
             {
+              "title": "The $500 billion experiment to build 24/7 markets on blockchain",
+              "description": "Modern finance spent decades building markets around a common architecture: recognized venues, set trading hours and benchmark prices that anchored everyone else.",
+              "url": "https://www.business-standard.com/world-news/the-500-billion-experiment-to-build-24-7-markets-on-blockchain-126082401400_1.html",
+              "source": "Business Standard",
+              "published": "2026-08-24T16:47:57Z",
+              "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2020-10/18/thumb/fitandfill/1200X628/1603039758-7933.jpg"
+            },
+            {
+              "title": "Coinbase Selects Chainlink To Bring New Tokenized Stocks to Millions of DeFi Users",
+              "description": "Chainlink is delivering continuous pricing for Coinbase Tokenized Stocks as its official oracle infrastructure, enabling millions of Base users to lend, borrow, and trade the largest publicly traded U.S. equities onchain. SAN FRANCISCO, August 24, 2026 /PRNew…",
+              "url": "https://www.prnewswire.com/news-releases/coinbase-selects-chainlink-to-bring-new-tokenized-stocks-to-millions-of-defi-users-302858414.html",
+              "source": "PRNewswire",
+              "published": "2026-08-24T16:15:00Z",
+              "image": "https://mmx.prnewswire.com/media/MS1974156/Coinbase-Chainlink.jpg?id=OA2905460&p=facebook"
+            },
+            {
+              "title": "The $500 Billion Experiment to Build 24/7 Markets on Blockchain",
+              "description": "When the US and Israel launched their aerial assault on Iran on the last Saturday of February, the world’s main oil markets were closed. The price of crude k...",
+              "url": "https://finance.yahoo.com/markets/crypto/articles/500-billion-experiment-build-24-113000240.html",
+              "source": "Yahoo Entertainment",
+              "published": "2026-08-24T11:30:00Z",
+              "image": "https://s.yimg.com/lo/mysterio/api/35d5a24a1844fda983fca8e43620879a5ab35d74b7d7b961ea51c862e6c3abd5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F636931051b97de443dc1283107528303.jpg"
+            },
+            {
               "title": "Term Finance loses estimated $8.5M in vault governance exploit",
               "description": "Term permanently closed its Meta Vaults after an attack reportedly removed nearly all of their Ethereum deposits.",
               "url": "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit",
@@ -260,28 +292,12 @@
               "image": "https://mmx.prnewswire.com/media/MS1974029/20260823035140EDT_image_1.jpg?id=OA2904292&p=facebook"
             },
             {
-              "title": "Circle Internet shares surge after acquisition of IBM blockchain patent portfolio",
-              "description": null,
-              "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_edf4128c-22df-4f8b-bbe9-ce3d6be7e24a",
-              "source": "Yahoo Entertainment",
-              "published": "2026-08-21T09:58:07Z",
-              "image": null
-            },
-            {
-              "title": "NAVI Prime Brings Curated Institutional Lending Markets To Sui",
-              "description": "NAVI Prime Brings Curated Institutional Lending Markets To Sui - Read the full analysis on Bitcoinist.",
-              "url": "https://bitcoinist.com/navi-prime-brings-curated-institutional-lending-markets-to-sui/",
-              "source": "Bitcoinist",
-              "published": "2026-08-21T00:30:00Z",
-              "image": "https://bitcoinist.com/wp-content/uploads/2026/06/bitcoinist_11_ethereum-nears-rare-third-straight-red-quarter-as-staking-signals-improve_featured.png"
-            },
-            {
-              "title": "Cybersecurity firm unveils crypto phishing campaign targeting 885,000 phone numbers",
-              "description": "Cybersecurity company Rapid7 unveiled a massive crypto phishing campaign targeting 885,000 phone numbers to steal the seed phrases of cryptocurrency investors through fake websites.",
-              "url": "https://cointelegraph.com/news/cybersecurity-unveils-crypto-phishing-885000-phone-numbers",
-              "source": "Cointelegraph",
-              "published": "2026-08-20T12:35:32Z",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-crypto-money-mule-scam-and-how-to-avoid-it.jpg"
+              "title": "BlockchAIn Digital Infrastructure Targets AI Data Centers With 65 MW of Contracted Power",
+              "description": "BlockchAIn Digital Infrastructure (NYSEAMERICAN:AIB) outlined its strategy to convert powered land and former Bitcoin mining sites into facilities designed f...",
+              "url": "https://www.marketbeat.com/instant-alerts/blockchain-digital-infrastructure-targets-ai-data-centers-with-65-mw-of-contracted-power-2026-08-22/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+              "source": "MarketBeat",
+              "published": "2026-08-22T12:01:58Z",
+              "image": "https://s.yimg.com/lo/mysterio/api/0D972FB68DD4F7D70A9699FD1CD5878CC9873D9EE3BB83E19D1B60436E80E12D/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmarketbeat_955%2F85d804d72f2ddc70f04ca0fcb7c85809.png"
             }
           ]
         }
