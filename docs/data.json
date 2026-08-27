@@ -1,11 +1,35 @@
 {
-  "date": "August 26, 2026",
+  "date": "August 27, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "India Blockchain Week Conference 2026 Heads to Mumbai, Launches Institutional Forum",
+          "description": "Mumbai (Maharashtra) [India], August 26: India Blockchain Week (IBW) Conference, India's flagship blockchain and Web3 conference, today announced its fourth edition of the conference, scheduled to take place on 1-2 November 2026 at Fairmont Mumbai. Hosted by …",
+          "url": "https://www.business-standard.com/content/press-releases-ani/india-blockchain-week-conference-2026-heads-to-mumbai-launches-institutional-forum-126082600770_1.html",
+          "source": "Business Standard",
+          "published": "2026-08-26T10:45:13Z",
+          "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/26/full/20260826144125.jpg"
+        },
+        {
+          "title": "Crypto Group Warns Regulators Against Expanding Stablecoin KYC",
+          "description": "The crypto trade group warned that forcing issuers to verify identities for peer-to-peer wallet transfers would “cripple the industry” as regulators implement the GENIUS Act.",
+          "url": "https://decrypt.co/376445/crypto-group-regulators-stablecoin-identity-checks",
+          "source": "Decrypt",
+          "published": "2026-08-25T16:28:59Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/circle-usdc-tether-usdt-stablecoin-decrypt-style-gID_7.jpg"
+        },
+        {
+          "title": "LayerZero unveils ATLAS platform for builders, testnet coming soon",
+          "description": "ATLAS could revolutionize global finance by enabling seamless, decentralized trading infrastructure, potentially reshaping market dynamics.\nThe post LayerZero unveils ATLAS platform for builders, testnet coming soon appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/layerzero-atlas-platform-testnet/",
+          "source": "Crypto Briefing",
+          "published": "2026-08-25T14:21:49Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/25102135/what-is-layerzero-zro-cross-chain-interoperability-protocol-1-800x420.png"
+        },
         {
           "title": "Blockchain Association urges tailored KYC rules for stablecoin issuers",
           "description": "The Blockchain Association's stance highlights the need for regulatory frameworks to balance innovation with privacy and practicality in digital finance.\nThe post Blockchain Association urges tailored KYC rules for stablecoin issuers appeared first on Crypto …",
@@ -45,22 +69,6 @@
           "source": "ZyCrypto",
           "published": "2026-08-21T06:57:35Z",
           "image": "https://zycrypto.com/wp-content/uploads/2026/08/Aligned-Debuts-ALIGN-as-the-Native-Token-Across-Its-Complete-Ethereum-Stack.jpg"
-        },
-        {
-          "title": "Aligned Launches $ALIGN, the Native Token of Its Full Ethereum Stack",
-          "description": "August 20th, 2026 – Montevideo, Uruguay Today, Aligned, a full-stack Ethereum infrastructure project, has launched $ALIGN*, the native token of its ecosystem, with listings on major exchanges. Aligned is working to turn Ethereum into the world’s financial bac…",
-          "url": "https://dailyhodl.com/2026/08/20/aligned-launches-align-the-native-token-of-its-full-ethereum-stack/",
-          "source": "The Daily Hodl",
-          "published": "2026-08-20T20:00:29Z",
-          "image": "https://dailyhodl.com/wp-content/uploads/2026/08/image1.jpg?resize=266,160"
-        },
-        {
-          "title": "Self launches stablecoin distribution program for USA₮ on Celo",
-          "description": "The program enhances financial inclusion by securely distributing stablecoins while preserving user privacy, potentially reshaping digital finance.\nThe post Self launches stablecoin distribution program for USA₮ on Celo appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/self-usadt-stablecoin-faucet-celo/",
-          "source": "Crypto Briefing",
-          "published": "2026-08-19T15:29:12Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/19112904/self-launches-stablecoin-distribution-program-for-usa-on-cel-800x420.png"
         }
       ]
     },
@@ -69,6 +77,14 @@
       "icon": "🔐",
       "color": "#e6a200",
       "articles": [
+        {
+          "title": "LayerZero’s ZRO surges 20% after unveiling ATLAS trading infrastructure",
+          "description": "LayerZero's ATLAS could revolutionize trading by streamlining processes, potentially challenging traditional financial systems and boosting ZRO's value.\nThe post LayerZero’s ZRO surges 20% after unveiling ATLAS trading infrastructure appeared first on Crypto …",
+          "url": "https://cryptobriefing.com/layerzero-zro-surges-atlas-trading-infrastructure/",
+          "source": "Crypto Briefing",
+          "published": "2026-08-25T16:45:13Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/25124507/what-is-layerzero-omnichain-protocol-1-800x420.jpeg"
+        },
         {
           "title": "Ethereum proposal would cut 33,800 ETH issuance and break every deployed Altair light client",
           "description": "EIP-8390 proposes offchain ZK finality proofs but defines no replacement API or prover incentive and supplies no reproducible GPU benchmark.\nThe post Ethereum proposal would cut 33,800 ETH issuance and break every deployed Altair light client appeared first o…",
@@ -100,30 +116,6 @@
           "source": "Crypto Briefing",
           "published": "2026-08-21T16:53:08Z",
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/21125300/roman-storm-defends-tornado-cash-operation-as-judge-weighs-a-800x420.jpeg"
-        },
-        {
-          "title": "SOL Strategies Evolving Into Broader Blockchain Platform – Quarterly Update Report",
-          "description": "Download the Complete Report Here SOL Strategies Inc. (STKE) Houdini Adds a High-Margin Growth Engine as STKE Evolves into a Broader Blockchain Infrastructur...",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/sol-strategies-evolving-broader-blockchain-172631865.html",
-          "source": "Yahoo Entertainment",
-          "published": "2026-08-20T17:26:31Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/8BE9F7807EF60BACA5D66EB0CE721463FA8A70743DE5AA32F2C071E7FAB16678/subgraphmysterio/resizefill_w1200_h5169;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fexec_edge_220%2Fe6b13e42e1f7671b30935554c9dbdac3.png"
-        },
-        {
-          "title": "A crypto network just voted to abandon its standalone blockchain and unlock 27% of its token supply",
-          "description": "GnosisDAO has approved a plan to retire Gnosis Chain’s standalone Layer 1, a shift that will unlock roughly 350,000 staked GNO. Under GIP-153, Gnosis Chain will become a zero-knowledge-proven Ethereum Economic Zone rollup that settles directly to Ethereum eve…",
-          "url": "https://cryptoslate.com/a-crypto-network-just-voted-to-abandon-its-standalone-blockchain-and-unlock-27-of-its-token-supply/",
-          "source": "CryptoSlate",
-          "published": "2026-08-20T08:30:25Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/08/gnosis-validator-model-retirement.jpg"
-        },
-        {
-          "title": "Gnosis Chain transitions to Ethereum rollup, retiring its 100,000-node validator set",
-          "description": "Gnosis Chain's transition to an Ethereum rollup could enhance security and interoperability, influencing future blockchain integration strategies.\nThe post Gnosis Chain transitions to Ethereum rollup, retiring its 100,000-node validator set appeared first on …",
-          "url": "https://cryptobriefing.com/gnosis-chain-ethereum-rollup-transition/",
-          "source": "Crypto Briefing",
-          "published": "2026-08-19T14:37:41Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/19103730/la-gnosis-chain-migre-vers-la-proof-of-stake-et-devient-la-3-800x420.jpeg"
         }
       ]
     },
@@ -133,68 +125,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "HashKey Exchange and Franklin Templeton to Bring OnChain U.S. Government Liquidity Fund to Asia",
-          "description": "HONG KONG, Aug. 25, 2026 /PRNewswire/ -- HashKey Holdings Limited (3887.HK), a leading comprehensive digital asset company in Asia, announced that its licensed trading platform, HashKey Exchange (\"HashKey\"), has today announced a collaboration with establishe…",
-          "url": "https://www.prnewswire.com/news-releases/hashkey-exchange-and-franklin-templeton-to-bring-onchain-us-government-liquidity-fund-to-asia-302859057.html",
-          "source": "PRNewswire",
-          "published": "2026-08-25T05:47:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS1638114/HashKey-Group-Logo.jpg?id=OA2909302&p=facebook"
+          "title": "Dallas Fed Economists Warn Tokenized Deposits Could Trigger Bank Rate Wars",
+          "description": "Widespread adoption of tokenized deposits could make it easier for depositors to move their funds to pursue higher interest rates and therefore require banks to raise their rates to remain competitive, two Federal Reserve Bank of Dallas economists wrote in a …",
+          "url": "https://www.pymnts.com/cryptocurrency/2026/dallas-fed-economists-warn-tokenized-deposits-could-trigger-bank-rate-wars/",
+          "source": "pymnts.com",
+          "published": "2026-08-26T16:49:49Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/08/Dallas-Federal-Reserve-tokenization-digital-assets.jpeg"
         },
         {
-          "title": "Korean bank taps Ripple for payments, Pakistan opens crypto licensing: Asia Express",
-          "description": "South Korea’s Jeonbuk Bank has tapped Ripple for cross border payments, while Pakistan has begun the process of licensing crypto exchanges.",
-          "url": "https://cointelegraph.com/magazine/korean-bank-to-use-ripple-payments-japans-first-exchange-in-4-years-asia-express",
+          "title": "Banks found a way to copy stablecoins without losing the money that funds their loans",
+          "description": "Banks defend themselves against stablecoins by saying they are building tokenized deposits to modernize payments, with programmable money and around-the-clock settlement. Falcon Finance chief RWA officer Artem Tolkachev told CryptoSlate that the explanation c…",
+          "url": "https://cryptoslate.com/banks-found-a-way-to-copy-stablecoins-without-losing-the-money-that-funds-their-loans/",
+          "source": "CryptoSlate",
+          "published": "2026-08-26T16:40:16Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/08/stablecoin-bank-funding-drain.jpg"
+        },
+        {
+          "title": "SEC sends crypto custody rule overhaul to White House for review",
+          "description": "The securities regulator’s crypto custody overhaul could clarify how investment advisers and funds hold digital assets for clients as the proposal moves through review.",
+          "url": "https://cointelegraph.com/news/sec-crypto-custody-rules-investment-firms-white-house",
           "source": "Cointelegraph",
-          "published": "2026-08-25T02:03:55Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/asia-express-10.jpg"
+          "published": "2026-08-26T16:19:09Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/political-tokens-into-the-white-house-sec-1.jpg"
         },
         {
-          "title": "Coinbase Investor Class Action Can Move Forward, Federal Judge Rules",
-          "description": "Coinbase Investor Class Action Can Move Forward, Federal Judge Rules - Read the full analysis on NewsBTC.",
-          "url": "http://www.newsbtc.com/news/coinbase-investor-class-action-can-move-forward-federal-judge-rules/",
-          "source": "newsBTC",
-          "published": "2026-08-25T00:15:00Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/image_xy4INP0h_1780626753962_raw.jpg?fit=1024%2C1024"
+          "title": "Crypto Group Urges Regulators to Keep Stablecoin KYC Away From Wallet Transfers",
+          "description": "The Blockchain Association is urging federal regulators to preserve a boundary between regulated stablecoin issuers and the decentralized networks on which their tokens circulate. In a Friday (Aug. 21) comment letter, the digital-asset trade group broadly end…",
+          "url": "https://www.pymnts.com/cryptocurrency/2026/crypto-group-urges-regulators-to-keep-stablecoin-kyc-away-from-wallet-transfers/",
+          "source": "pymnts.com",
+          "published": "2026-08-26T15:47:10Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2022/11/crypto-regulation.jpg"
         },
         {
-          "title": "Treasury Proposes Stablecoin Licensing Rules Under GENIUS Act",
-          "description": "Treasury Proposes Stablecoin Licensing Rules Under GENIUS Act - Read the full analysis on NewsBTC.",
-          "url": "http://www.newsbtc.com/news/treasury-proposes-stablecoin-licensing-rules-under-genius-act/",
-          "source": "newsBTC",
-          "published": "2026-08-24T22:45:00Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2026/05/shutterstock_2139614619.jpg?fit=1000%2C562"
+          "title": "Japan To Proceed With Stock And Bond Tokenization",
+          "description": "Japan plans to proceed with a national blockchain-based settlement infrastructure for tokenized versions of stocks and Japanese government bonds.\nJapan's financial regulator, the Bank of Japan, and major financial institutions are collaborating on the tokeniz…",
+          "url": "https://biztoc.com/x/75caa078f729974f",
+          "source": "Biztoc.com",
+          "published": "2026-08-26T14:35:08Z",
+          "image": "https://biztoc.com/cdn/75caa078f729974f_s.webp"
         },
         {
-          "title": "Crypto Industry Raining Millions On Candidates That Back Its Favorite Bill",
-          "description": "The crypto industry poured money into candidates backing the CLARITY Act, which is the industry’s biggest legislative priority.",
-          "url": "https://dailycaller.com/2026/08/24/clarity-act-fec-campaign-spending-crypto-industry",
-          "source": "The Daily Caller",
-          "published": "2026-08-24T21:21:49Z",
-          "image": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/08/GettyImages-2286808321.jpg"
+          "title": "U.S. State Banking Associations To Launch Blockchain Network",
+          "description": "Associations that represent banks scattered across U.S. states are planning to launch their own blockchain network....",
+          "url": "https://www.cryptoprowl.com/releases/us-state-banking-associations-to-launch-blockchain-network-6538",
+          "source": "Cryptoprowl.com",
+          "published": "2026-08-26T13:45:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/94398c6812e6cbb056b28b63fde392afe2f7579cd9e5c4466479e8f989a267d4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2Ffe7fda2c8f005fca10a9ea679da88a5a.jpg"
         },
         {
-          "title": "Wall Street Is Moving Into Altcoins: Why XRP, Solana and HYPE Are Winning",
-          "description": "Wall Street’s appetite for crypto has turned to altcoins, with nearly $90 million in net inflows to alternative crypto ETFs during the week. XRP, Solana...\nThe post Wall Street Is Moving Into Altcoins: Why XRP, Solana and HYPE Are Winning appeared first on Bi…",
-          "url": "https://bitcoinfoundation.org/news/altcoins/wall-street-is-moving-into-altcoins-why-xrp-solana-and-hype-are-winning/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-08-24T19:21:35Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/08/Alts1-1.webp"
+          "title": "Revolut debuts Euro-pegged stablecoin",
+          "description": null,
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ef0efdd1-3d4b-4d3c-be41-241d4dd5b9c0",
+          "source": "Yahoo Entertainment",
+          "published": "2026-08-26T12:27:38Z",
+          "image": null
         },
         {
-          "title": "India Is Finally Getting Its First Tokenized Corporate Bond",
-          "description": "\"Better late than never,\" says India’s market regulator SEBI as it pilots the first corporate bond issuance next month.",
-          "url": "https://app.moby.co/home/news/news-india-is-finally-getting-its-first-tokenized-corporate-bond?utm_source=yahoo_finance&amp;utm_medium=rss",
-          "source": "Moby.co",
-          "published": "2026-08-24T18:02:21Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/a99bd9bd0a992a953c13ef4f70d0f56a223669b4dd258c9e906e54099788dbc7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmoby_896%2Fd5b40680b2480cc18aac557bace948a5.jpg"
-        },
-        {
-          "title": "India plans first tokenised bond issue in September: Report",
-          "description": "India is set to roll out tokenised corporate bonds next month, utilizing blockchain technology to facilitate immediate transaction settlements. The state-owned REC will be at the forefront of issuing these innovative bonds, which will require investors to pos…",
-          "url": "https://economictimes.indiatimes.com/markets/bonds/india-plans-first-tokenised-bond-issue-in-september-report/articleshow/133464895.cms",
-          "source": "The Times of India",
-          "published": "2026-08-24T11:57:16Z",
-          "image": "https://img.etimg.com/thumb/msid-133465140,width-1200,height-630,imgsize-126494,overlay-etmarkets/articleshow.jpg"
+          "title": "Taurus links digital asset platforms to Swift’s blockchain ledger",
+          "description": "Taurus integrated its tokenization and custody platforms with Swift’s blockchain ledger, with its first institutional clients set to connect within days.",
+          "url": "https://cointelegraph.com/news/taurus-digital-asset-platforms-swift-blockchain-ledger",
+          "source": "Cointelegraph",
+          "published": "2026-08-26T12:00:00Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/blockchain-technology-takes-hold-swift.jpg"
         }
       ]
     },
@@ -204,20 +196,52 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Forum Markets Eyes AI Compute Growth as Aircraft Engines Drive Cash Flow",
-          "description": "Forum Markets (NASDAQ:FRMM) outlined its strategy to build a portfolio of cash-flowing real-world assets while retaining the option to fractionalize or token...",
-          "url": "https://www.marketbeat.com/instant-alerts/forum-markets-eyes-ai-compute-growth-as-aircraft-engines-drive-cash-flow-2026-08-24/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
-          "source": "MarketBeat",
-          "published": "2026-08-24T18:02:08Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/b866e075ed637018c026907561795966d96e9c852ff07e088c6826a93cc17b76/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmarketbeat_955%2F72150be5d812cfe63281566782663e61.png"
+          "title": "Rent TRON Energy and Reduce USDT Fees : TronBid Expands Marketplace",
+          "description": "Berlin, Germany, 26th August 2026, Chainwire\nThe post Rent TRON Energy and Reduce USDT Fees : TronBid Expands Marketplace appeared first on The Daily Hodl.",
+          "url": "https://dailyhodl.com/2026/08/26/rent-tron-energy-and-reduce-usdt-fees-tronbid-expands-marketplace/",
+          "source": "The Daily Hodl",
+          "published": "2026-08-26T13:47:49Z",
+          "image": "https://dailyhodl.com/wp-content/uploads/2026/08/808ccaa3-22b8-4a4b-b7be-dd3614c33246_1787750315mB1JDXcg2E.jpg?resize=1619,972"
         },
         {
-          "title": "SEC Rulemaking Is Giving Corporate Finance a New Crypto Hurdle Rate",
-          "description": "Cryptocurrency’s biggest enterprise problem isn’t its volatility and unpredictable returns. It’s that the risk of digital assets, spanning both the balance sheet and the compliance and regulatory arena, is difficult to calculate. Chief financial officers have…",
-          "url": "https://www.pymnts.com/cryptocurrency/2026/sec-rulemaking-is-giving-corporate-finance-new-crypto-hurdle-rate/",
-          "source": "pymnts.com",
-          "published": "2026-08-24T16:10:31Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2026/02/SEC-crypto.png"
+          "title": "Piero Cipollone: From vision to delivery: building Europe’s tokenised financial market",
+          "description": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260826~3641116314.en.html",
+          "source": "Europa.eu",
+          "published": "2026-08-26T10:15:00Z",
+          "image": "https://www.ecb.europa.eu/press/key/shared/img/socialmedia/social-default.jpg?0dbb2de262f4f1fcaeae410be132177a"
+        },
+        {
+          "title": "BankChain Targets 2027 U.S. Blockchain Launch as 39 Banking Groups Join Forces",
+          "description": "Thirty-nine U.S. state banking associations announced on 25 August the formation of BankChain Alliance, an industry consortium that will build a bank-owned blockchain system targeted to support...\nThe post BankChain Targets 2027 U.S. Blockchain Launch as 39 B…",
+          "url": "https://bitcoinfoundation.org/news/regulation/bankchain-targets-2027-u-s-blockchain-launch-as-39-banking-groups-join-forces/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-08-26T09:53:19Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/08/BankChain-Targets-2027-U.S.-Blockchain-Launch-as-39-Banking-Groups-Join-Forces-2.webp"
+        },
+        {
+          "title": "Show HN: A batch settlement layer for tokenized NYSE stocks",
+          "description": "The original intention was just to introduce a time dimension to solve the blockchain trilemma. Now it has turned into 312 Rust crates and 2.8 million lines of Rust code (about 2 million lines in production, about 400,000 lines in standalone test directories,…",
+          "url": "https://github.com/niumeta/niumeta",
+          "source": "Github.com",
+          "published": "2026-08-26T00:37:32Z",
+          "image": "https://opengraph.githubassets.com/c22d74d9c878015f116a5f7e0a48648a7fb514d5a7766e09bba9a64ecc944e26/niumeta/niumeta"
+        },
+        {
+          "title": "3E Recognized as a Leader in Supply Chain Sustainability Software by Independent Research Firm as Product Compliance and Supply Chain Converge",
+          "description": "3E’s leadership in capabilities and momentum is highlighted in the 2026 Verdantix Green Quadrant for Supply Chain Sustainability Software. 3E received the highest scores among the 16 vendors evaluated on both its AI criteria and customer success, following 3E…",
+          "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/3e-recognized-as-a-leader-in-supply-chain-sustainability-software-by-independent-research-firm-as-product-compliance-and-supply-chain-converge",
+          "source": "Financial Post",
+          "published": "2026-08-25T18:16:42Z",
+          "image": null
+        },
+        {
+          "title": "Zerostack’s Crypto Holdings Top $1 Billion",
+          "description": "Zerostack’s (NASDAQ: $ZSTK) cryptocurrency holdings have reached $1.06 billion U.S.",
+          "url": "https://www.cryptoprowl.com/releases/zerostacks-crypto-holdings-top-1-billion-6525",
+          "source": "Cryptoprowl.com",
+          "published": "2026-08-25T14:03:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/6AFB9F92DA0FCA984105F7EDE8A9DE91B84F4D92AA41024E2A12C03125D301CC/subgraphmysterio/resizefill_w1200_h720;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2Fe0813b183ece9d3a7ca593923e534c28.jpg"
         },
         {
           "title": "Cut Flowers Market Size to Reach $52.78 Billion by 2031 as Online Ordering and Cold-Chain Innovation Reshape Global Trade, Reports Mordor Intelligence",
@@ -226,14 +250,6 @@
           "source": "PRNewswire",
           "published": "2026-08-24T15:16:00Z",
           "image": "https://mmx.prnewswire.com/media/MS1701215/Mordor-Intelligence-Logo.jpg?id=OA2906485&p=facebook"
-        },
-        {
-          "title": "Can XRP Be Used With FedNow Through Volante? Here’s What the Evidence Reveals",
-          "description": "Volante Technologies supports FedNow connectivity and a separate Ripple connection and has historically confirmed that its platform could settle through XRP....",
-          "url": "https://www.ccn.com/news/crypto/is-fednow-using-xrp-volante-ripple-connection-explained/",
-          "source": "Crypto Coins News",
-          "published": "2026-08-24T13:20:34Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/F503D6BD2B9479656514A777612B6439354FE588CE73E0C7792DC824BA7231E7/subgraphmysterio/resizefill_w1200_h750;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fccn_928%2F1ec4a027902a5e661e6f8a3517544e22"
         }
       ]
     },
@@ -245,12 +261,37 @@
         "startups": {
           "title": "Startups",
           "icon": "💡",
-          "articles": []
+          "articles": [
+            {
+              "title": "SOL Strategies Evolving Into Broader Blockchain Platform – Quarterly Update Report",
+              "description": "Download the Complete Report Here SOL Strategies Inc. (STKE) Houdini Adds a High-Margin Growth Engine as STKE Evolves into a Broader Blockchain Infrastructur...",
+              "url": "https://finance.yahoo.com/markets/crypto/articles/sol-strategies-evolving-broader-blockchain-172631865.html",
+              "source": "Yahoo Entertainment",
+              "published": "2026-08-20T17:26:31Z",
+              "image": "https://s.yimg.com/lo/mysterio/api/8BE9F7807EF60BACA5D66EB0CE721463FA8A70743DE5AA32F2C071E7FAB16678/subgraphmysterio/resizefill_w1200_h5169;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fexec_edge_220%2Fe6b13e42e1f7671b30935554c9dbdac3.png"
+            }
+          ]
         },
         "hyperscalers": {
           "title": "Hyperscalers",
           "icon": "☁️",
           "articles": [
+            {
+              "title": "JPMorgan Weighs Stablecoin as Bank Push Accelerates",
+              "description": "JPMorgan weighs its own stablecoin as major banks explore a global consortium and thousands of smaller banks launch BankChain Alliance.",
+              "url": "https://www.bankless.com/read/news/jpmorgan-weighs-stablecoin-as-bank-push-accelerates",
+              "source": "Bankless.com",
+              "published": "2026-08-26T15:53:44Z",
+              "image": "https://s.yimg.com/lo/mysterio/api/418fff51511af87f8deae21e9b522764d2da9aa234c2adb218b648fa6bd023f4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbankless_325%2F3fc3833508176f9d0a363fc69af52565"
+            },
+            {
+              "title": "Coinbase’s Tokenized Stocks Are Live on Base. The SEC’s Framework Isn’t.",
+              "description": "Coinbase has launched tokenized U.S. equities on the Base blockchain. The August 24 rollout includes 13 stocks — NVDAc, METAc, AAPLc, GOOGLc, AMZN, COIN, CRCL, INTC, MSFT, MSTR, SNDK, SPCX, and TSLA — each representing a direct claim on the underlying share, …",
+              "url": "https://forkast.news/coinbases-tokenized-stocks-are-live-on-base-the-secs-framework-isnt/",
+              "source": "Forkast.news",
+              "published": "2026-08-25T09:45:25Z",
+              "image": "https://forkast.news/wp-content/uploads/2026/08/coinbase-tokenized-stocks-base-1024x572.jpg"
+            },
             {
               "title": "The $500 billion experiment to build 24/7 markets on blockchain",
               "description": "Modern finance spent decades building markets around a common architecture: recognized venues, set trading hours and benchmark prices that anchored everyone else.",
@@ -266,22 +307,6 @@
               "source": "PRNewswire",
               "published": "2026-08-24T16:15:00Z",
               "image": "https://mmx.prnewswire.com/media/MS1974156/Coinbase-Chainlink.jpg?id=OA2905460&p=facebook"
-            },
-            {
-              "title": "The $500 Billion Experiment to Build 24/7 Markets on Blockchain",
-              "description": "When the US and Israel launched their aerial assault on Iran on the last Saturday of February, the world’s main oil markets were closed. The price of crude k...",
-              "url": "https://finance.yahoo.com/markets/crypto/articles/500-billion-experiment-build-24-113000240.html",
-              "source": "Yahoo Entertainment",
-              "published": "2026-08-24T11:30:00Z",
-              "image": "https://s.yimg.com/lo/mysterio/api/35d5a24a1844fda983fca8e43620879a5ab35d74b7d7b961ea51c862e6c3abd5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbloomberg_holding_pen_162%2F636931051b97de443dc1283107528303.jpg"
-            },
-            {
-              "title": "Term Finance loses estimated $8.5M in vault governance exploit",
-              "description": "Term permanently closed its Meta Vaults after an attack reportedly removed nearly all of their Ethereum deposits.",
-              "url": "https://cointelegraph.com/news/term-finance-8-5m-vault-governance-exploit",
-              "source": "Cointelegraph",
-              "published": "2026-08-24T03:59:29Z",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-scammers-exploit-trusted-platforms-for-crypto-fraud-3.jpg"
             },
             {
               "title": "HTX Research Examines U.S. AI Equities: Technology Remains Early, While Capital Expenditure and Valuations Have Entered the Late Cycle",
