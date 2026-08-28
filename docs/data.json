@@ -1,11 +1,19 @@
 {
-  "date": "August 27, 2026",
+  "date": "August 28, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "ZEC Crypto Price Is Surging: Why Zcash Could Be the Biggest Privacy Coin Comeback of 2026",
+          "description": "Zcash staged one of the largest crypto recoveries of 2026, climbing near $800 in August for the first time since 2018 after a Zcash dump...\nThe post ZEC Crypto Price Is Surging: Why Zcash Could Be the Biggest Privacy Coin Comeback of 2026 appeared first on Bi…",
+          "url": "https://bitcoinfoundation.org/news/analysis/zec-crypto-price-is-surging-why-zcash-could-be-the-biggest-privacy-coin-comeback-of-2026/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-08-27T12:14:23Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/08/ZEC-Crypto-Price-Is-Surging-Why-Zcash-Could-Be-the-Biggest-Privacy-Coin-Comeback-of-2026-2.webp"
+        },
         {
           "title": "India Blockchain Week Conference 2026 Heads to Mumbai, Launches Institutional Forum",
           "description": "Mumbai (Maharashtra) [India], August 26: India Blockchain Week (IBW) Conference, India's flagship blockchain and Web3 conference, today announced its fourth edition of the conference, scheduled to take place on 1-2 November 2026 at Fairmont Mumbai. Hosted by …",
@@ -61,14 +69,6 @@
           "source": "CryptoSlate",
           "published": "2026-08-22T15:05:23Z",
           "image": "https://cryptoslate.com/wp-content/uploads/2026/08/binance-russia-surveillance.jpg"
-        },
-        {
-          "title": "Aligned Debuts $ALIGN as the Native Token Across Its Complete Ethereum Stack",
-          "description": "Aligned, a full-stack Ethereum infrastructure project, has launched $ALIGN, the native token of its ecosystem, with listings now live on major exchanges.",
-          "url": "https://zycrypto.com/aligned-debuts-align-as-the-native-token-across-its-complete-ethereum-stack/",
-          "source": "ZyCrypto",
-          "published": "2026-08-21T06:57:35Z",
-          "image": "https://zycrypto.com/wp-content/uploads/2026/08/Aligned-Debuts-ALIGN-as-the-Native-Token-Across-Its-Complete-Ethereum-Stack.jpg"
         }
       ]
     },
@@ -77,6 +77,14 @@
       "icon": "🔐",
       "color": "#e6a200",
       "articles": [
+        {
+          "title": "Grayscale Research sees Zcash capturing Bitcoin market share as privacy demand surges",
+          "description": "Grayscale Research argues Zcash could capture Bitcoin market share via privacy features, launching the first US spot ZEC ETF on NYSE Arca.\nThe post Grayscale Research sees Zcash capturing Bitcoin market share as privacy demand surges appeared first on Crypto …",
+          "url": "https://cryptobriefing.com/grayscale-zcash-bitcoin-market-share/",
+          "source": "Crypto Briefing",
+          "published": "2026-08-27T14:56:29Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/27105628/us-strikes-on-iran-wipe-80b-off-crypto-as-bitcoin-ethereum-s-26-800x420.jpeg"
+        },
         {
           "title": "LayerZero’s ZRO surges 20% after unveiling ATLAS trading infrastructure",
           "description": "LayerZero's ATLAS could revolutionize trading by streamlining processes, potentially challenging traditional financial systems and boosting ZRO's value.\nThe post LayerZero’s ZRO surges 20% after unveiling ATLAS trading infrastructure appeared first on Crypto …",
@@ -108,14 +116,6 @@
           "source": "Techdirt",
           "published": "2026-08-21T18:11:18Z",
           "image": "http://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png"
-        },
-        {
-          "title": "Roman Storm remains convicted as DOJ’s expansive theory raises concerns about developer liability",
-          "description": "The DOJ's theory could redefine developer liability, impacting innovation and legal boundaries in tech and blockchain industries.\nThe post Roman Storm remains convicted as DOJ’s expansive theory raises concerns about developer liability appeared first on Cryp…",
-          "url": "https://cryptobriefing.com/roman-storm-convicted-doj-developer-liability/",
-          "source": "Crypto Briefing",
-          "published": "2026-08-21T16:53:08Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/21125300/roman-storm-defends-tornado-cash-operation-as-judge-weighs-a-800x420.jpeg"
         }
       ]
     },
@@ -125,68 +125,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Dallas Fed Economists Warn Tokenized Deposits Could Trigger Bank Rate Wars",
-          "description": "Widespread adoption of tokenized deposits could make it easier for depositors to move their funds to pursue higher interest rates and therefore require banks to raise their rates to remain competitive, two Federal Reserve Bank of Dallas economists wrote in a …",
-          "url": "https://www.pymnts.com/cryptocurrency/2026/dallas-fed-economists-warn-tokenized-deposits-could-trigger-bank-rate-wars/",
-          "source": "pymnts.com",
-          "published": "2026-08-26T16:49:49Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2026/08/Dallas-Federal-Reserve-tokenization-digital-assets.jpeg"
-        },
-        {
-          "title": "Banks found a way to copy stablecoins without losing the money that funds their loans",
-          "description": "Banks defend themselves against stablecoins by saying they are building tokenized deposits to modernize payments, with programmable money and around-the-clock settlement. Falcon Finance chief RWA officer Artem Tolkachev told CryptoSlate that the explanation c…",
-          "url": "https://cryptoslate.com/banks-found-a-way-to-copy-stablecoins-without-losing-the-money-that-funds-their-loans/",
-          "source": "CryptoSlate",
-          "published": "2026-08-26T16:40:16Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/08/stablecoin-bank-funding-drain.jpg"
-        },
-        {
-          "title": "SEC sends crypto custody rule overhaul to White House for review",
-          "description": "The securities regulator’s crypto custody overhaul could clarify how investment advisers and funds hold digital assets for clients as the proposal moves through review.",
-          "url": "https://cointelegraph.com/news/sec-crypto-custody-rules-investment-firms-white-house",
-          "source": "Cointelegraph",
-          "published": "2026-08-26T16:19:09Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/political-tokens-into-the-white-house-sec-1.jpg"
-        },
-        {
-          "title": "Crypto Group Urges Regulators to Keep Stablecoin KYC Away From Wallet Transfers",
-          "description": "The Blockchain Association is urging federal regulators to preserve a boundary between regulated stablecoin issuers and the decentralized networks on which their tokens circulate. In a Friday (Aug. 21) comment letter, the digital-asset trade group broadly end…",
-          "url": "https://www.pymnts.com/cryptocurrency/2026/crypto-group-urges-regulators-to-keep-stablecoin-kyc-away-from-wallet-transfers/",
-          "source": "pymnts.com",
-          "published": "2026-08-26T15:47:10Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2022/11/crypto-regulation.jpg"
-        },
-        {
-          "title": "Japan To Proceed With Stock And Bond Tokenization",
-          "description": "Japan plans to proceed with a national blockchain-based settlement infrastructure for tokenized versions of stocks and Japanese government bonds.\nJapan's financial regulator, the Bank of Japan, and major financial institutions are collaborating on the tokeniz…",
-          "url": "https://biztoc.com/x/75caa078f729974f",
+          "title": "Ripple Prime Expands Into Stock Trading With New Delta One Derivatives Launch",
+          "description": "Ripple is expanding its institutional trading business into U.S. equities, launching a Delta One service that brings stock, index and digital asset derivatives onto the same prime brokerage platform.\nRipple Prime said the business is live and will let clients…",
+          "url": "https://biztoc.com/x/c491b9975248e315",
           "source": "Biztoc.com",
-          "published": "2026-08-26T14:35:08Z",
-          "image": "https://biztoc.com/cdn/75caa078f729974f_s.webp"
+          "published": "2026-08-27T17:57:47Z",
+          "image": "https://biztoc.com/cdn/c491b9975248e315_s.webp"
         },
         {
-          "title": "U.S. State Banking Associations To Launch Blockchain Network",
-          "description": "Associations that represent banks scattered across U.S. states are planning to launch their own blockchain network....",
-          "url": "https://www.cryptoprowl.com/releases/us-state-banking-associations-to-launch-blockchain-network-6538",
-          "source": "Cryptoprowl.com",
-          "published": "2026-08-26T13:45:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/94398c6812e6cbb056b28b63fde392afe2f7579cd9e5c4466479e8f989a267d4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2Ffe7fda2c8f005fca10a9ea679da88a5a.jpg"
+          "title": "Why Bitcoin’s Price Is Spiking This Week",
+          "description": "Bitcoin’s latest rally comes as Treasury debt buybacks and expanding U.S. sanctions highlight the risks of a dollar-dominated financial system.",
+          "url": "https://gizmodo.com/why-bitcoins-price-is-spiking-this-week-2000803801",
+          "source": "Gizmodo.com",
+          "published": "2026-08-27T17:50:23Z",
+          "image": "https://gizmodo.com/app/uploads/2026/08/why-bitcoin-price-is-spiking-1200x675.jpg"
         },
         {
-          "title": "Revolut debuts Euro-pegged stablecoin",
-          "description": null,
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_ef0efdd1-3d4b-4d3c-be41-241d4dd5b9c0",
-          "source": "Yahoo Entertainment",
-          "published": "2026-08-26T12:27:38Z",
+          "title": "Grayscale CEO: Crypto winter has thawed—but market watchers are still missing the point",
+          "description": "The CEO of Grayscale explains why the market volatility of the last 18 months barely matters in light of a broader sea change underway in finance.",
+          "url": "https://fortune.com/2026/08/27/grayscale-ceo-crypto-winter-has-thawedbut-market-watchers-are-still-missing-the-point/",
+          "source": "Fortune",
+          "published": "2026-08-27T16:07:40Z",
+          "image": "https://fortune.com/img-assets/wp-content/uploads/2025/04/Peter-Mintzberg-e1787846216615.jpeg?resize=1200,600"
+        },
+        {
+          "title": "SEC’s Crypto Custody Shake-Up: Why the Next Bitcoin Boom Could Start on Wall Street",
+          "description": "Wall Street may be at the threshold of a crypto custody paradigm shift. The SEC is seeking more favorable rules for digital assets, banks, advisers,...\nThe post SEC’s Crypto Custody Shake-Up: Why the Next Bitcoin Boom Could Start on Wall Street appeared first…",
+          "url": "https://bitcoinfoundation.org/news/stablecoin-news/secs-crypto-custody-shake-up-why-the-next-bitcoin-boom-could-start-on-wall-street/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-08-27T15:59:40Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/08/SEC1-1-1787823576.webp"
+        },
+        {
+          "title": "Bitcoin’s ‘Uptober’ test: Will August’s rebound turn into a lasting rally?",
+          "description": "Bitcoin's sharp rebound from its July low has revived hopes of an ‘Uptober’ rally, but analysts say sustained ETF inflows, institutional demand, regulatory clarity and Fed policy will matter more than seasonality. Bitcoin remains about 37% below its October 2…",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/bitcoins-uptober-test-will-augusts-rebound-turn-into-a-lasting-rally/articleshow/133572814.cms",
+          "source": "The Times of India",
+          "published": "2026-08-27T15:51:31Z",
+          "image": "https://img.etimg.com/thumb/msid-133572967,width-1200,height-630,imgsize-251128,overlay-etmarkets/articleshow.jpg"
+        },
+        {
+          "title": "Is the Jackson Hole central bank retreat now a crypto conference?",
+          "description": "There was an actual crypto conference that took place in Jackson Hole between Aug. 17 and Aug. 20, where about 500 guests gathered at the Four Seasons for the Wyoming Blockchain Symposium and listened to executives, investors, and lawmakers discuss digital as…",
+          "url": "https://cryptoslate.com/is-jackson-hole-now-a-crypto-conference/",
+          "source": "CryptoSlate",
+          "published": "2026-08-27T15:50:59Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/08/jackson-hole-conference-badge.jpg"
+        },
+        {
+          "title": "Community Banks Embrace Pooled Infrastructure as New Edge in Stablecoin Race",
+          "description": "Thirty-nine state banker associations this week announced plans to create an industry-owned, industry-designed and industry-governed blockchain network capable of supporting smart payments, tokenized deposits, stablecoins and automated settlement. But the mos…",
+          "url": "https://www.pymnts.com/news/banking/2026/community-banks-embrace-pooled-infrastructure-as-new-edge-in-stablecoin-race/",
+          "source": "pymnts.com",
+          "published": "2026-08-27T15:24:25Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/08/community-banks-stablecoins.jpeg"
+        },
+        {
+          "title": "HAM Launches Hedgeye Hedged Bitcoin ETF (HBIT) to Help Manage Bitcoin Volatility",
+          "description": "New actively managed ETF combines bitcoin exposure with a dynamic options strategy driven by Hedgeye's proprietary Risk Range™ Signals. STAMFORD, Conn., Aug. 27, 2026 /PRNewswire/ -- Hedgeye Asset Management, LLC (\"HAM\"), a subsidiary of Hedgeye Risk Manageme…",
+          "url": "https://www.prnewswire.com/news-releases/ham-launches-hedgeye-hedged-bitcoin-etf-hbit-to-help-manage-bitcoin-volatility-302861974.html",
+          "source": "PRNewswire",
+          "published": "2026-08-27T15:16:00Z",
           "image": null
-        },
-        {
-          "title": "Taurus links digital asset platforms to Swift’s blockchain ledger",
-          "description": "Taurus integrated its tokenization and custody platforms with Swift’s blockchain ledger, with its first institutional clients set to connect within days.",
-          "url": "https://cointelegraph.com/news/taurus-digital-asset-platforms-swift-blockchain-ledger",
-          "source": "Cointelegraph",
-          "published": "2026-08-26T12:00:00Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/blockchain-technology-takes-hold-swift.jpg"
         }
       ]
     },
@@ -196,12 +196,36 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Rent TRON Energy and Reduce USDT Fees : TronBid Expands Marketplace",
-          "description": "Berlin, Germany, 26th August 2026, Chainwire\nThe post Rent TRON Energy and Reduce USDT Fees : TronBid Expands Marketplace appeared first on The Daily Hodl.",
-          "url": "https://dailyhodl.com/2026/08/26/rent-tron-energy-and-reduce-usdt-fees-tronbid-expands-marketplace/",
+          "title": "ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories",
+          "description": "A fake login page. A fake security scan. A fake productivity app. Apparently, pretending to be useful is still one of the easier ways into a machine.\n\nThe rest of the week gets stranger: botnets borrowing AI, command traffic hiding in public infrastructure, m…",
+          "url": "https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html",
+          "source": "Internet",
+          "published": "2026-08-27T15:12:16Z",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwWCb2shFhaav60Wjr2-8DoStCVaQrYqkE6EBZ8F5sREap-Khi19y-w9NVmFHyHosV6xVB0fTeN_DcSpGIyCZ621SnjqZozRVG70ceOey_D8djA5r5rpP9tFkRSESgs4kHZilTMoz2y8uqX-iTLR0JjjZkhypYjCCAEvQKzyU7xarQpt3sYvJc-fnWSWlb/s1700-e365/threats.jpg"
+        },
+        {
+          "title": "YZi Labs Backs TermMax to Advance On-Chain Bond Market Infrastructure",
+          "description": "Singapore, Singapore, 27th August 2026, Chainwire\nThe post YZi Labs Backs TermMax to Advance On-Chain Bond Market Infrastructure appeared first on The Daily Hodl.",
+          "url": "https://dailyhodl.com/2026/08/27/yzi-labs-backs-termmax-to-advance-on-chain-bond-market-infrastructure/",
           "source": "The Daily Hodl",
-          "published": "2026-08-26T13:47:49Z",
-          "image": "https://dailyhodl.com/wp-content/uploads/2026/08/808ccaa3-22b8-4a4b-b7be-dd3614c33246_1787750315mB1JDXcg2E.jpg?resize=1619,972"
+          "published": "2026-08-27T14:14:05Z",
+          "image": "https://dailyhodl.com/wp-content/uploads/2026/08/image-1787823359040_1787823373NfHDeUP8px.jpg?resize=1728,1152"
+        },
+        {
+          "title": "Why Figure Could Be One of Crypto’s Most Undervalued Stocks",
+          "description": "Figure may be one of crypto’s most misunderstood public companies, says Fundstrat’s Sean Farrell",
+          "url": "https://www.coinage.media/2026/why-figure-could-be-one-of-cryptos-most-undervalued-stocks",
+          "source": "Coinage.media",
+          "published": "2026-08-27T13:40:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/5aca86e2a1be0b6458aafdbe304e895b45a327bc4a64124b9370c893ebe7069c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcoinage_coop_399%2F84d8ac2f05e5bc24cda130f2e5625df2.png"
+        },
+        {
+          "title": "Bank of England set for new innovation mandate covering stablecoins",
+          "description": "The UK plans to expand the Bank of England’s remit to support digital payments innovation, including stablecoins, while keeping financial stability first.",
+          "url": "https://cointelegraph.com/news/uk-boe-innovation-mandate-stablecoins",
+          "source": "Cointelegraph",
+          "published": "2026-08-27T12:51:59Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-uk-regulations2-1.jpg"
         },
         {
           "title": "Piero Cipollone: From vision to delivery: building Europe’s tokenised financial market",
@@ -234,22 +258,6 @@
           "source": "Financial Post",
           "published": "2026-08-25T18:16:42Z",
           "image": null
-        },
-        {
-          "title": "Zerostack’s Crypto Holdings Top $1 Billion",
-          "description": "Zerostack’s (NASDAQ: $ZSTK) cryptocurrency holdings have reached $1.06 billion U.S.",
-          "url": "https://www.cryptoprowl.com/releases/zerostacks-crypto-holdings-top-1-billion-6525",
-          "source": "Cryptoprowl.com",
-          "published": "2026-08-25T14:03:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/6AFB9F92DA0FCA984105F7EDE8A9DE91B84F4D92AA41024E2A12C03125D301CC/subgraphmysterio/resizefill_w1200_h720;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2Fe0813b183ece9d3a7ca593923e534c28.jpg"
-        },
-        {
-          "title": "Cut Flowers Market Size to Reach $52.78 Billion by 2031 as Online Ordering and Cold-Chain Innovation Reshape Global Trade, Reports Mordor Intelligence",
-          "description": "HYDERABAD, India, Aug. 24, 2026 /PRNewswire/ -- According to Mordor Intelligence, the cut flowers market size is projected to grow from $40.58 billion in 2026 to $52.78 billion by 2031, registering a CAGR of 5.4% during the forecast period (2026-2031). The ma…",
-          "url": "https://www.prnewswire.com/news-releases/cut-flowers-market-size-to-reach-52-78-billion-by-2031-as-online-ordering-and-cold-chain-innovation-reshape-global-trade-reports-mordor-intelligence-302858268.html",
-          "source": "PRNewswire",
-          "published": "2026-08-24T15:16:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS1701215/Mordor-Intelligence-Logo.jpg?id=OA2906485&p=facebook"
         }
       ]
     },
@@ -263,68 +271,19 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "SOL Strategies Evolving Into Broader Blockchain Platform – Quarterly Update Report",
-              "description": "Download the Complete Report Here SOL Strategies Inc. (STKE) Houdini Adds a High-Margin Growth Engine as STKE Evolves into a Broader Blockchain Infrastructur...",
-              "url": "https://finance.yahoo.com/markets/crypto/articles/sol-strategies-evolving-broader-blockchain-172631865.html",
-              "source": "Yahoo Entertainment",
-              "published": "2026-08-20T17:26:31Z",
-              "image": "https://s.yimg.com/lo/mysterio/api/8BE9F7807EF60BACA5D66EB0CE721463FA8A70743DE5AA32F2C071E7FAB16678/subgraphmysterio/resizefill_w1200_h5169;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fexec_edge_220%2Fe6b13e42e1f7671b30935554c9dbdac3.png"
+              "title": "The US$500 billion experiment to build 24/7 markets on blockchain",
+              "description": "Modern finance spent decades building markets around a common architecture. Crypto has broken from that convention. Find out more",
+              "url": "https://financialpost.com/investing/experiment-to-build-24-7-markets-blockchain",
+              "source": "Financial Post",
+              "published": "2026-08-27T17:04:01Z",
+              "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/08/0828-mg-hyperliquid.png"
             }
           ]
         },
         "hyperscalers": {
           "title": "Hyperscalers",
           "icon": "☁️",
-          "articles": [
-            {
-              "title": "JPMorgan Weighs Stablecoin as Bank Push Accelerates",
-              "description": "JPMorgan weighs its own stablecoin as major banks explore a global consortium and thousands of smaller banks launch BankChain Alliance.",
-              "url": "https://www.bankless.com/read/news/jpmorgan-weighs-stablecoin-as-bank-push-accelerates",
-              "source": "Bankless.com",
-              "published": "2026-08-26T15:53:44Z",
-              "image": "https://s.yimg.com/lo/mysterio/api/418fff51511af87f8deae21e9b522764d2da9aa234c2adb218b648fa6bd023f4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbankless_325%2F3fc3833508176f9d0a363fc69af52565"
-            },
-            {
-              "title": "Coinbase’s Tokenized Stocks Are Live on Base. The SEC’s Framework Isn’t.",
-              "description": "Coinbase has launched tokenized U.S. equities on the Base blockchain. The August 24 rollout includes 13 stocks — NVDAc, METAc, AAPLc, GOOGLc, AMZN, COIN, CRCL, INTC, MSFT, MSTR, SNDK, SPCX, and TSLA — each representing a direct claim on the underlying share, …",
-              "url": "https://forkast.news/coinbases-tokenized-stocks-are-live-on-base-the-secs-framework-isnt/",
-              "source": "Forkast.news",
-              "published": "2026-08-25T09:45:25Z",
-              "image": "https://forkast.news/wp-content/uploads/2026/08/coinbase-tokenized-stocks-base-1024x572.jpg"
-            },
-            {
-              "title": "The $500 billion experiment to build 24/7 markets on blockchain",
-              "description": "Modern finance spent decades building markets around a common architecture: recognized venues, set trading hours and benchmark prices that anchored everyone else.",
-              "url": "https://www.business-standard.com/world-news/the-500-billion-experiment-to-build-24-7-markets-on-blockchain-126082401400_1.html",
-              "source": "Business Standard",
-              "published": "2026-08-24T16:47:57Z",
-              "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2020-10/18/thumb/fitandfill/1200X628/1603039758-7933.jpg"
-            },
-            {
-              "title": "Coinbase Selects Chainlink To Bring New Tokenized Stocks to Millions of DeFi Users",
-              "description": "Chainlink is delivering continuous pricing for Coinbase Tokenized Stocks as its official oracle infrastructure, enabling millions of Base users to lend, borrow, and trade the largest publicly traded U.S. equities onchain. SAN FRANCISCO, August 24, 2026 /PRNew…",
-              "url": "https://www.prnewswire.com/news-releases/coinbase-selects-chainlink-to-bring-new-tokenized-stocks-to-millions-of-defi-users-302858414.html",
-              "source": "PRNewswire",
-              "published": "2026-08-24T16:15:00Z",
-              "image": "https://mmx.prnewswire.com/media/MS1974156/Coinbase-Chainlink.jpg?id=OA2905460&p=facebook"
-            },
-            {
-              "title": "HTX Research Examines U.S. AI Equities: Technology Remains Early, While Capital Expenditure and Valuations Have Entered the Late Cycle",
-              "description": "APIA, Samoa, Aug. 23, 2026 /PRNewswire/ -- HTX Research, the dedicated research arm of HTX, has released a new report titled The Industrialization of Intelligence and the Bubble Cycle: Token Economics, Capital Expenditure, and the Repricing of Risk-Reward Acr…",
-              "url": "https://www.prnewswire.com/news-releases/htx-research-examines-us-ai-equities-technology-remains-early-while-capital-expenditure-and-valuations-have-entered-the-late-cycle-302857764.html",
-              "source": "PRNewswire",
-              "published": "2026-08-23T08:07:00Z",
-              "image": "https://mmx.prnewswire.com/media/MS1974029/20260823035140EDT_image_1.jpg?id=OA2904292&p=facebook"
-            },
-            {
-              "title": "BlockchAIn Digital Infrastructure Targets AI Data Centers With 65 MW of Contracted Power",
-              "description": "BlockchAIn Digital Infrastructure (NYSEAMERICAN:AIB) outlined its strategy to convert powered land and former Bitcoin mining sites into facilities designed f...",
-              "url": "https://www.marketbeat.com/instant-alerts/blockchain-digital-infrastructure-targets-ai-data-centers-with-65-mw-of-contracted-power-2026-08-22/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
-              "source": "MarketBeat",
-              "published": "2026-08-22T12:01:58Z",
-              "image": "https://s.yimg.com/lo/mysterio/api/0D972FB68DD4F7D70A9699FD1CD5878CC9873D9EE3BB83E19D1B60436E80E12D/subgraphmysterio/resizefill_w1200_h675;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fmarketbeat_955%2F85d804d72f2ddc70f04ca0fcb7c85809.png"
-            }
-          ]
+          "articles": []
         }
       }
     }
