@@ -1,11 +1,19 @@
 {
-  "date": "August 28, 2026",
+  "date": "August 29, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "Bitcoin Completes First Experimental Quantum-Safe Transaction, Starkware Says",
+          "description": "The transaction used Bitcoin’s existing rules to protect funds from a future quantum attack without requiring a network upgrade.",
+          "url": "https://decrypt.co/376767/bitcoin-quantum-safe-transaction-starkware",
+          "source": "Decrypt",
+          "published": "2026-08-27T22:36:04Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/10/google-quantum-decrypt-style-01-2-gID_7.jpg"
+        },
         {
           "title": "ZEC Crypto Price Is Surging: Why Zcash Could Be the Biggest Privacy Coin Comeback of 2026",
           "description": "Zcash staged one of the largest crypto recoveries of 2026, climbing near $800 in August for the first time since 2018 after a Zcash dump...\nThe post ZEC Crypto Price Is Surging: Why Zcash Could Be the Biggest Privacy Coin Comeback of 2026 appeared first on Bi…",
@@ -61,14 +69,6 @@
           "source": "CryptoSlate",
           "published": "2026-08-22T20:45:15Z",
           "image": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-stopwatch-gpu.jpg"
-        },
-        {
-          "title": "How a former crypto user’s archived Binance data ended up in a foreign terrorism prosecution",
-          "description": "When Russian investigators detained IT specialist Yuri Belenkiy in September 2025, Binance had been formally out of Russia for almost two years. Its customer records, however, were still available. Law enforcement documents reviewed by Reuters show that Binan…",
-          "url": "https://cryptoslate.com/binance-left-russia-years-ago-but-moscow-still-got-customer-records-used-in-a-terrorism-case/",
-          "source": "CryptoSlate",
-          "published": "2026-08-22T15:05:23Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/08/binance-russia-surveillance.jpg"
         }
       ]
     },
@@ -108,14 +108,6 @@
           "source": "Yahoo Entertainment",
           "published": "2026-08-24T16:10:28Z",
           "image": "https://s.yimg.com/lo/mysterio/api/0ce5838fe495ce04eacb4aa43e6887b677163514fe1e34bdb2cd437e35394b3a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2F562245d86dc9215654b1576fdff4972d.jpg"
-        },
-        {
-          "title": "Zero Knowledge Proofs Aren’t Age Verification Silver Bullets",
-          "description": "Age verification (laws and regulations requiring platforms and websites to assure or estimate that a user seeking to use an online service is of a certain age) is everywhere. At the time of writing, about half the states in the US have some internet age verif…",
-          "url": "http://www.techdirt.com/2026/08/21/zero-knowledge-proofs-arent-age-verification-silver-bullets/",
-          "source": "Techdirt",
-          "published": "2026-08-21T18:11:18Z",
-          "image": "http://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png"
         }
       ]
     },
@@ -125,68 +117,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Ripple Prime Expands Into Stock Trading With New Delta One Derivatives Launch",
-          "description": "Ripple is expanding its institutional trading business into U.S. equities, launching a Delta One service that brings stock, index and digital asset derivatives onto the same prime brokerage platform.\nRipple Prime said the business is live and will let clients…",
-          "url": "https://biztoc.com/x/c491b9975248e315",
-          "source": "Biztoc.com",
-          "published": "2026-08-27T17:57:47Z",
-          "image": "https://biztoc.com/cdn/c491b9975248e315_s.webp"
-        },
-        {
-          "title": "Why Bitcoin’s Price Is Spiking This Week",
-          "description": "Bitcoin’s latest rally comes as Treasury debt buybacks and expanding U.S. sanctions highlight the risks of a dollar-dominated financial system.",
-          "url": "https://gizmodo.com/why-bitcoins-price-is-spiking-this-week-2000803801",
-          "source": "Gizmodo.com",
-          "published": "2026-08-27T17:50:23Z",
-          "image": "https://gizmodo.com/app/uploads/2026/08/why-bitcoin-price-is-spiking-1200x675.jpg"
-        },
-        {
-          "title": "Grayscale CEO: Crypto winter has thawed—but market watchers are still missing the point",
-          "description": "The CEO of Grayscale explains why the market volatility of the last 18 months barely matters in light of a broader sea change underway in finance.",
-          "url": "https://fortune.com/2026/08/27/grayscale-ceo-crypto-winter-has-thawedbut-market-watchers-are-still-missing-the-point/",
-          "source": "Fortune",
-          "published": "2026-08-27T16:07:40Z",
-          "image": "https://fortune.com/img-assets/wp-content/uploads/2025/04/Peter-Mintzberg-e1787846216615.jpeg?resize=1200,600"
-        },
-        {
-          "title": "SEC’s Crypto Custody Shake-Up: Why the Next Bitcoin Boom Could Start on Wall Street",
-          "description": "Wall Street may be at the threshold of a crypto custody paradigm shift. The SEC is seeking more favorable rules for digital assets, banks, advisers,...\nThe post SEC’s Crypto Custody Shake-Up: Why the Next Bitcoin Boom Could Start on Wall Street appeared first…",
-          "url": "https://bitcoinfoundation.org/news/stablecoin-news/secs-crypto-custody-shake-up-why-the-next-bitcoin-boom-could-start-on-wall-street/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-08-27T15:59:40Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/08/SEC1-1-1787823576.webp"
-        },
-        {
-          "title": "Bitcoin’s ‘Uptober’ test: Will August’s rebound turn into a lasting rally?",
-          "description": "Bitcoin's sharp rebound from its July low has revived hopes of an ‘Uptober’ rally, but analysts say sustained ETF inflows, institutional demand, regulatory clarity and Fed policy will matter more than seasonality. Bitcoin remains about 37% below its October 2…",
-          "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/bitcoins-uptober-test-will-augusts-rebound-turn-into-a-lasting-rally/articleshow/133572814.cms",
-          "source": "The Times of India",
-          "published": "2026-08-27T15:51:31Z",
-          "image": "https://img.etimg.com/thumb/msid-133572967,width-1200,height-630,imgsize-251128,overlay-etmarkets/articleshow.jpg"
-        },
-        {
-          "title": "Is the Jackson Hole central bank retreat now a crypto conference?",
-          "description": "There was an actual crypto conference that took place in Jackson Hole between Aug. 17 and Aug. 20, where about 500 guests gathered at the Four Seasons for the Wyoming Blockchain Symposium and listened to executives, investors, and lawmakers discuss digital as…",
-          "url": "https://cryptoslate.com/is-jackson-hole-now-a-crypto-conference/",
-          "source": "CryptoSlate",
-          "published": "2026-08-27T15:50:59Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/08/jackson-hole-conference-badge.jpg"
-        },
-        {
-          "title": "Community Banks Embrace Pooled Infrastructure as New Edge in Stablecoin Race",
-          "description": "Thirty-nine state banker associations this week announced plans to create an industry-owned, industry-designed and industry-governed blockchain network capable of supporting smart payments, tokenized deposits, stablecoins and automated settlement. But the mos…",
-          "url": "https://www.pymnts.com/news/banking/2026/community-banks-embrace-pooled-infrastructure-as-new-edge-in-stablecoin-race/",
-          "source": "pymnts.com",
-          "published": "2026-08-27T15:24:25Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2026/08/community-banks-stablecoins.jpeg"
-        },
-        {
-          "title": "HAM Launches Hedgeye Hedged Bitcoin ETF (HBIT) to Help Manage Bitcoin Volatility",
-          "description": "New actively managed ETF combines bitcoin exposure with a dynamic options strategy driven by Hedgeye's proprietary Risk Range™ Signals. STAMFORD, Conn., Aug. 27, 2026 /PRNewswire/ -- Hedgeye Asset Management, LLC (\"HAM\"), a subsidiary of Hedgeye Risk Manageme…",
-          "url": "https://www.prnewswire.com/news-releases/ham-launches-hedgeye-hedged-bitcoin-etf-hbit-to-help-manage-bitcoin-volatility-302861974.html",
+          "title": "USD.AI Secures $100M Stablecoin Debt Facility From Bullish for GPU Financing",
+          "description": "NEW YORK, Aug. 28, 2026 /PRNewswire/ -- Bullish, an institutionally focused global digital asset platform that provides market infrastructure and information services, today announced its strategic entry into middle-market AI infrastructure financing through …",
+          "url": "https://www.prnewswire.com/news-releases/usdai-secures-100m-stablecoin-debt-facility-from-bullish-for-gpu-financing-302862370.html",
           "source": "PRNewswire",
-          "published": "2026-08-27T15:16:00Z",
+          "published": "2026-08-28T11:00:00Z",
           "image": null
+        },
+        {
+          "title": "Mirae Asset’s $109 Billion Crypto Pivot Hinges on a 0.5% Market Share Exchange",
+          "description": "Mirae Asset Financial Group is attempting to bypass the retail-dominated South Korean crypto market by acquiring a proprietary pipeline for real-world assets and stablecoins. By securing a 97.15% stake in the exchange formerly known as Korbit, the country’s l…",
+          "url": "https://forkast.news/mirae-assets-109-billion-crypto-pivot-hinges-on-a-0-5-market-share-exchange/",
+          "source": "Forkast.news",
+          "published": "2026-08-28T10:11:10Z",
+          "image": "https://forkast.news/wp-content/uploads/2026/08/mirae-asset-digital-x-hero-1024x687.jpg"
+        },
+        {
+          "title": "Bank Plans on CLARITY Act Send Circle and Coinbase Shares Lower",
+          "description": "Circle (CRCL) and Coinbase (COIN) shares both fell more than 3% after reports that JPMorgan Chase and a consortium of major banks were moving toward issuing...",
+          "url": "https://cryptonews.com/news/clarity-act-bank-stablecoin-plans-circle-coinbase/",
+          "source": "Cryptonews",
+          "published": "2026-08-28T09:11:59Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/6ceb295cd4275078e21843fd5aa76c55d80ed792e7e117dd748a9dac5eecc5bd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptonews_us_711%2F4dd4e777e4ec84aa795b100049d2406a"
+        },
+        {
+          "title": "Crypto’s Anonymous Era Just Ended: Form 1099-DA Now Tells the IRS What You Sold and Its Cost-Basis Math May Not Match Yours",
+          "description": "A new IRS form already sent the government a dollar figure from your crypto account, and it almost certainly does not tell the story you think it does.",
+          "url": "https://247wallst.com/personal-finance/2026/08/28/cryptos-anonymous-era-just-ended-form-1099-da-now-tells-the-irs-what-you-sold-and-its-cost-basis-math-may-not-match-yours/",
+          "source": "24/7 Wall St.",
+          "published": "2026-08-28T09:04:37Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/c94c3f42a7c5155b8fa770c332c5df69621674547759ed2df29c61c36cc398ff/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F6519e800c21583df5424b2b2926a8dcd.jpg"
+        },
+        {
+          "title": "From Market Access to Long-Term Trust: KuCoin VP Edwin Wong Outlines a Four-Pillar Trust Framework for Institutional Digital Asset Infrastructure",
+          "description": "HONG KONG, Aug. 28, 2026 /PRNewswire/ -- Edwin Wong, Vice President and Head of Risk Control at KuCoin, today delivered a keynote address at the CYPHER ASIA Intelligent Crypto Finance Summit, sharing his perspective on how the industry can build a more resili…",
+          "url": "https://www.prnewswire.com/news-releases/from-market-access-to-long-term-trust-kucoin-vp-edwin-wong-outlines-a-four-pillar-trust-framework-for-institutional-digital-asset-infrastructure-302862645.html",
+          "source": "PRNewswire",
+          "published": "2026-08-28T08:24:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS1977413/20260828031425EDT_image_1.jpg?id=OA2917695&p=facebook"
+        },
+        {
+          "title": "Best Crypto IRA 2026",
+          "description": "The best Crypto IRA for most investors in 2026 is iTrustCapital because it combines a transparent 1% cryptocurrency transaction fee, no recurring account charge, more than 90 digital assets, physical gold and silver, staking, and institutional custody. Fideli…",
+          "url": "https://themattwalshblog.com/best-crypto-ira-2026/",
+          "source": "Themattwalshblog.com",
+          "published": "2026-08-28T05:16:14Z",
+          "image": "https://themattwalshblog.com/wp-content/uploads/2026/08/Best-Crypto-IRA-2026.png"
+        },
+        {
+          "title": "BitGo Acquires Bitcoin Miner NYDIG’s Institutional Trading Business, BTGO Stock Jumps",
+          "description": "BitGo announced today that it has completed the acquisition of bitcoin miner NYDIG’s institutional trading business and related assets. This acquisition stre...",
+          "url": "https://coingape.com/bitgo-acquires-bitcoin-miner-nydigs-institutional-trading-business-btgo-stock-jumps/",
+          "source": "Coingape",
+          "published": "2026-08-28T04:33:29Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/2cc25b2c34b3f1867fffcf4f746c3438493a78f6f2fa280905acc47827d086d1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcoingape_360%2Fc9692a0568dff79e1bac35779ea50abf"
+        },
+        {
+          "title": "Data center firm IREN signs new deal with frontier AI lab; quarterly loss hits shares",
+          "description": "IREN shares ‌fell more ⁠than ⁠7% in extended trading after the company swung to ​a quarterly loss, driven by costs tied to retiring ​bitcoin mining hardware as it shifts to AI cloud services.",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/data-center-firm-iren-signs-new-deal-with-frontier-ai-lab-quarterly-loss-hits-shares/articleshow/133582380.cms",
+          "source": "The Times of India",
+          "published": "2026-08-28T03:39:51Z",
+          "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-305600,resizemode-75,msid-133582380/tech/artificial-intelligence/data-center-firm-iren-signs-new-deal-with-frontier-ai-lab-quarterly-loss-hits-shares.jpg"
         }
       ]
     },
@@ -196,6 +188,38 @@
       "color": "#00cc88",
       "articles": [
         {
+          "title": "Capital B raises $24.5M for its Bitcoin treasury amid market uncertainty with BlockStream’s Adam Back chipping in",
+          "description": "The French Bitcoin treasury firm’s private placement drew support from Adam Back and TOBAM, with warrant exercises potentially unlocking another $158 million.",
+          "url": "https://cointelegraph.com/news/capital-b-raises-245m-for-its-bitcoin-treasury-amid-market-uncertainty-with-blockstreams-adam-back-chipping-in",
+          "source": "Cointelegraph",
+          "published": "2026-08-28T11:36:43Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M142AJ5B6BQSFDTHCF63GJPC/hi-five-bitcoin-narratives-analysts-are-watching-beyond-price-1.jpg"
+        },
+        {
+          "title": "Research on trusted closed loop management of the whole process of service evaluation based on blockchain",
+          "description": "Scientific Reports - Research on trusted closed loop management of the whole process of service evaluation based on blockchain",
+          "url": "https://www.nature.com/articles/s41598-026-61722-0.pdf",
+          "source": "Nature.com",
+          "published": "2026-08-28T00:00:00Z",
+          "image": null
+        },
+        {
+          "title": "Evernorth Announces Effectiveness of Form S-4 Registration Statement, Progresses Toward Planned Nasdaq-Listing",
+          "description": "Armada Acquisition Corp. II shareholders to vote on the transaction at a special meeting on September 30, 2026; if approved and the transaction closes, the combined company is expected to list on Nasdaq under the ticker \"XRPN\" Evernorth intends to deploy capi…",
+          "url": "https://www.prnewswire.com/news-releases/evernorth-announces-effectiveness-of-form-s-4-registration-statement-progresses-toward-planned-nasdaq-listing-302862280.html",
+          "source": "PRNewswire",
+          "published": "2026-08-27T21:04:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS1977128/Evernorth-Logo.jpg?id=OA2916836&p=facebook"
+        },
+        {
+          "title": "XDC Says AI Agents Could Upend Invoices and Card Payments",
+          "description": "AI agents have already made 176 million on-chain payments. XDC Network believes machine-driven settlement could eventually replace invoices and cards.",
+          "url": "https://beincrypto.com/xdc-ai-agent-payment-invoice-replacement/",
+          "source": "BeInCrypto",
+          "published": "2026-08-27T16:56:02Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/8c91d9614fc518f0ca7a2fccb2196e674b4038fa609e6692cfb187933d9b4557/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F7b008a3321831e94018d6d54023d1a9f.png"
+        },
+        {
           "title": "ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories",
           "description": "A fake login page. A fake security scan. A fake productivity app. Apparently, pretending to be useful is still one of the easier ways into a machine.\n\nThe rest of the week gets stranger: botnets borrowing AI, command traffic hiding in public infrastructure, m…",
           "url": "https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html",
@@ -204,20 +228,12 @@
           "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwWCb2shFhaav60Wjr2-8DoStCVaQrYqkE6EBZ8F5sREap-Khi19y-w9NVmFHyHosV6xVB0fTeN_DcSpGIyCZ621SnjqZozRVG70ceOey_D8djA5r5rpP9tFkRSESgs4kHZilTMoz2y8uqX-iTLR0JjjZkhypYjCCAEvQKzyU7xarQpt3sYvJc-fnWSWlb/s1700-e365/threats.jpg"
         },
         {
-          "title": "YZi Labs Backs TermMax to Advance On-Chain Bond Market Infrastructure",
-          "description": "Singapore, Singapore, 27th August 2026, Chainwire\nThe post YZi Labs Backs TermMax to Advance On-Chain Bond Market Infrastructure appeared first on The Daily Hodl.",
-          "url": "https://dailyhodl.com/2026/08/27/yzi-labs-backs-termmax-to-advance-on-chain-bond-market-infrastructure/",
-          "source": "The Daily Hodl",
-          "published": "2026-08-27T14:14:05Z",
-          "image": "https://dailyhodl.com/wp-content/uploads/2026/08/image-1787823359040_1787823373NfHDeUP8px.jpg?resize=1728,1152"
-        },
-        {
-          "title": "Why Figure Could Be One of Crypto’s Most Undervalued Stocks",
-          "description": "Figure may be one of crypto’s most misunderstood public companies, says Fundstrat’s Sean Farrell",
-          "url": "https://www.coinage.media/2026/why-figure-could-be-one-of-cryptos-most-undervalued-stocks",
-          "source": "Coinage.media",
-          "published": "2026-08-27T13:40:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/5aca86e2a1be0b6458aafdbe304e895b45a327bc4a64124b9370c893ebe7069c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcoinage_coop_399%2F84d8ac2f05e5bc24cda130f2e5625df2.png"
+          "title": "UK Wants Central Bank to Support Stablecoin Innovation",
+          "description": "England wants its central bank to support innovation in stablecoins and other digital money. The U.K. Treasury announced Thursday (Aug. 27) that it had set a new objective for the Bank of England to make sure its regulatory framework fosters the appropriate c…",
+          "url": "https://www.pymnts.com/news/banking/2026/uk-wants-central-bank-to-support-stablecoin-innovation/",
+          "source": "pymnts.com",
+          "published": "2026-08-27T12:53:28Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2023/11/Bank-England-stablecoins.jpg"
         },
         {
           "title": "Bank of England set for new innovation mandate covering stablecoins",
@@ -234,30 +250,6 @@
           "source": "Europa.eu",
           "published": "2026-08-26T10:15:00Z",
           "image": "https://www.ecb.europa.eu/press/key/shared/img/socialmedia/social-default.jpg?0dbb2de262f4f1fcaeae410be132177a"
-        },
-        {
-          "title": "BankChain Targets 2027 U.S. Blockchain Launch as 39 Banking Groups Join Forces",
-          "description": "Thirty-nine U.S. state banking associations announced on 25 August the formation of BankChain Alliance, an industry consortium that will build a bank-owned blockchain system targeted to support...\nThe post BankChain Targets 2027 U.S. Blockchain Launch as 39 B…",
-          "url": "https://bitcoinfoundation.org/news/regulation/bankchain-targets-2027-u-s-blockchain-launch-as-39-banking-groups-join-forces/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-08-26T09:53:19Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/08/BankChain-Targets-2027-U.S.-Blockchain-Launch-as-39-Banking-Groups-Join-Forces-2.webp"
-        },
-        {
-          "title": "Show HN: A batch settlement layer for tokenized NYSE stocks",
-          "description": "The original intention was just to introduce a time dimension to solve the blockchain trilemma. Now it has turned into 312 Rust crates and 2.8 million lines of Rust code (about 2 million lines in production, about 400,000 lines in standalone test directories,…",
-          "url": "https://github.com/niumeta/niumeta",
-          "source": "Github.com",
-          "published": "2026-08-26T00:37:32Z",
-          "image": "https://opengraph.githubassets.com/c22d74d9c878015f116a5f7e0a48648a7fb514d5a7766e09bba9a64ecc944e26/niumeta/niumeta"
-        },
-        {
-          "title": "3E Recognized as a Leader in Supply Chain Sustainability Software by Independent Research Firm as Product Compliance and Supply Chain Converge",
-          "description": "3E’s leadership in capabilities and momentum is highlighted in the 2026 Verdantix Green Quadrant for Supply Chain Sustainability Software. 3E received the highest scores among the 16 vendors evaluated on both its AI criteria and customer success, following 3E…",
-          "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/3e-recognized-as-a-leader-in-supply-chain-sustainability-software-by-independent-research-firm-as-product-compliance-and-supply-chain-converge",
-          "source": "Financial Post",
-          "published": "2026-08-25T18:16:42Z",
-          "image": null
         }
       ]
     },
@@ -269,21 +261,37 @@
         "startups": {
           "title": "Startups",
           "icon": "💡",
-          "articles": [
-            {
-              "title": "The US$500 billion experiment to build 24/7 markets on blockchain",
-              "description": "Modern finance spent decades building markets around a common architecture. Crypto has broken from that convention. Find out more",
-              "url": "https://financialpost.com/investing/experiment-to-build-24-7-markets-blockchain",
-              "source": "Financial Post",
-              "published": "2026-08-27T17:04:01Z",
-              "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/08/0828-mg-hyperliquid.png"
-            }
-          ]
+          "articles": []
         },
         "hyperscalers": {
           "title": "Hyperscalers",
           "icon": "☁️",
-          "articles": []
+          "articles": [
+            {
+              "title": "Bitcoin falls 30% as Google, gold and defence stocks outperform since 2020: Report",
+              "description": "Google emerged as the best-performing asset in a Taurex study, gaining nearly 291% between 2020 and August 2026, while Bitcoin fell 30%. BAE Systems, gold, Apple and Microsoft also delivered gains of more than 100%. Defence stocks featured prominently among t…",
+              "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-falls-30-as-google-gold-and-defence-stocks-outperform-since-2020-report/articleshow/133586960.cms",
+              "source": "The Times of India",
+              "published": "2026-08-28T08:00:54Z",
+              "image": "https://img.etimg.com/thumb/msid-133587015,width-1200,height-630,imgsize-92612,overlay-etmarkets/articleshow.jpg"
+            },
+            {
+              "title": "AI agents are getting wallets: the Web3 infrastructure behind the machine economy",
+              "description": "After years of promise, the machine economy is finally taking shape. AI agents are getting wallets and are now able to make decisions on behalf of owners. For investors, this is a potentially exciting opportunity. Early movers in this space will be able to ta…",
+              "url": "https://thenextweb.com/news/ai-agents-wallets-web3-machine-economy-varun-datta",
+              "source": "The Next Web",
+              "published": "2026-08-27T19:52:47Z",
+              "image": "https://media.thenextweb.com/2026/08/ai-agents-wallets-web3-machine-economy-varun-datta.jpg"
+            },
+            {
+              "title": "Google Cloud Just Gave Rezolve AI a Major Vote of Confidence",
+              "description": "Alphabet's selection of Rezolve AI for Google Cloud Web3 data pipelines sent shares up nearly 22%, fueling short covering ahead of the company's Sept. 1 earn...",
+              "url": "https://www.marketbeat.com/articles/google-cloud-just-gave-rezolve-ai-a-major-vote-of-confidence/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
+              "source": "MarketBeat",
+              "published": "2026-08-27T15:30:00Z",
+              "image": "https://s.yimg.com/lo/mysterio/api/ae50cc0dfa5ca22e8feb16a9a9842c199a832f09c19cd1219f85014eb2a1d922/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmarketbeat_955%2F771e918cabb17a6397cdf48f87b908e9.png"
+            }
+          ]
         }
       }
     }
