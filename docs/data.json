@@ -1,5 +1,5 @@
 {
-  "date": "August 29, 2026",
+  "date": "August 30, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -61,14 +61,6 @@
           "source": "Kitploit.com",
           "published": "2026-08-24T01:21:13Z",
           "image": "https://assets.kitploit.com/production/public/tools/50817/5980e8dfc4a093b1b0bd466480f8e234e2dcfe39e63c0c7ac3bd8cc83c6a5b6c-social-v1.webp"
-        },
-        {
-          "title": "Reaching instant 27ms validation on Bitcoin will take 17 GPU years of compute power",
-          "description": "Hazync’s developer reports millisecond verification for blocks 1 through 1,789, while the full-chain proving campaign remains unfinished.\nThe post Reaching instant 27ms validation on Bitcoin will take 17 GPU years of compute power appeared first on CryptoSlat…",
-          "url": "https://cryptoslate.com/reaching-instant-27ms-validation-on-bitcoin-will-take-17-gpu-years-of-compute-power/",
-          "source": "CryptoSlate",
-          "published": "2026-08-22T20:45:15Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-stopwatch-gpu.jpg"
         }
       ]
     },
@@ -78,20 +70,20 @@
       "color": "#e6a200",
       "articles": [
         {
+          "title": "Lighter expands Chainlink integration to enhance oracle security across 125+ markets",
+          "description": "The expanded Chainlink integration enhances Lighter's security and scalability, potentially reshaping DeFi's approach to RWA derivatives.\nThe post Lighter expands Chainlink integration to enhance oracle security across 125+ markets appeared first on Crypto Br…",
+          "url": "https://cryptobriefing.com/lighter-chainlink-oracle-integration-expansion/",
+          "source": "Crypto Briefing",
+          "published": "2026-08-28T17:44:43Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/28134439/library-lighter-expands-chainlink-integration-to-enhance-oracle--800x450.png"
+        },
+        {
           "title": "Grayscale Research sees Zcash capturing Bitcoin market share as privacy demand surges",
           "description": "Grayscale Research argues Zcash could capture Bitcoin market share via privacy features, launching the first US spot ZEC ETF on NYSE Arca.\nThe post Grayscale Research sees Zcash capturing Bitcoin market share as privacy demand surges appeared first on Crypto …",
           "url": "https://cryptobriefing.com/grayscale-zcash-bitcoin-market-share/",
           "source": "Crypto Briefing",
           "published": "2026-08-27T14:56:29Z",
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/27105628/us-strikes-on-iran-wipe-80b-off-crypto-as-bitcoin-ethereum-s-26-800x420.jpeg"
-        },
-        {
-          "title": "LayerZero’s ZRO surges 20% after unveiling ATLAS trading infrastructure",
-          "description": "LayerZero's ATLAS could revolutionize trading by streamlining processes, potentially challenging traditional financial systems and boosting ZRO's value.\nThe post LayerZero’s ZRO surges 20% after unveiling ATLAS trading infrastructure appeared first on Crypto …",
-          "url": "https://cryptobriefing.com/layerzero-zro-surges-atlas-trading-infrastructure/",
-          "source": "Crypto Briefing",
-          "published": "2026-08-25T16:45:13Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/25124507/what-is-layerzero-omnichain-protocol-1-800x420.jpeg"
         },
         {
           "title": "Ethereum proposal would cut 33,800 ETH issuance and break every deployed Altair light client",
@@ -117,68 +109,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "USD.AI Secures $100M Stablecoin Debt Facility From Bullish for GPU Financing",
-          "description": "NEW YORK, Aug. 28, 2026 /PRNewswire/ -- Bullish, an institutionally focused global digital asset platform that provides market infrastructure and information services, today announced its strategic entry into middle-market AI infrastructure financing through …",
-          "url": "https://www.prnewswire.com/news-releases/usdai-secures-100m-stablecoin-debt-facility-from-bullish-for-gpu-financing-302862370.html",
-          "source": "PRNewswire",
-          "published": "2026-08-28T11:00:00Z",
-          "image": null
-        },
-        {
-          "title": "Mirae Asset’s $109 Billion Crypto Pivot Hinges on a 0.5% Market Share Exchange",
-          "description": "Mirae Asset Financial Group is attempting to bypass the retail-dominated South Korean crypto market by acquiring a proprietary pipeline for real-world assets and stablecoins. By securing a 97.15% stake in the exchange formerly known as Korbit, the country’s l…",
-          "url": "https://forkast.news/mirae-assets-109-billion-crypto-pivot-hinges-on-a-0-5-market-share-exchange/",
+          "title": "Bullish Is Backing $100M in Stablecoin Loans Collateralized by GPUs. That’s a New Kind of RWA.",
+          "description": "The conversion of physical compute into on-chain liquidity relies on a specific mechanical stack: GPU Warehouse Receipt Tokens (GWRTs). These are UCC-governed digital receipts representing verified ownership of physical hardware, minted via USD.AI’s modular t…",
+          "url": "https://forkast.news/bullish-is-backing-100m-in-stablecoin-loans-collateralized-by-gpus-thats-a-new-kind-of-rwa/",
           "source": "Forkast.news",
-          "published": "2026-08-28T10:11:10Z",
-          "image": "https://forkast.news/wp-content/uploads/2026/08/mirae-asset-digital-x-hero-1024x687.jpg"
+          "published": "2026-08-29T08:44:44Z",
+          "image": "https://forkast.news/wp-content/uploads/2026/08/bullish-gpu-stablecoin-hero-1024x572.jpg"
         },
         {
-          "title": "Bank Plans on CLARITY Act Send Circle and Coinbase Shares Lower",
-          "description": "Circle (CRCL) and Coinbase (COIN) shares both fell more than 3% after reports that JPMorgan Chase and a consortium of major banks were moving toward issuing...",
-          "url": "https://cryptonews.com/news/clarity-act-bank-stablecoin-plans-circle-coinbase/",
-          "source": "Cryptonews",
-          "published": "2026-08-28T09:11:59Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/6ceb295cd4275078e21843fd5aa76c55d80ed792e7e117dd748a9dac5eecc5bd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptonews_us_711%2F4dd4e777e4ec84aa795b100049d2406a"
+          "title": "Taliban Declare War on Bitcoin: Crypto Banned in Afghanistan as a “Scam”",
+          "description": "Afghanistan looked set to be an unlikely success story for Bitcoin, but the arrival of the Taliban put an end to that. The Taliban Bitcoin...\nThe post Taliban Declare War on Bitcoin: Crypto Banned in Afghanistan as a “Scam” appeared first on Bitcoin Foundatio…",
+          "url": "https://bitcoinfoundation.org/news/regulation/taliban-declare-war-on-bitcoin-crypto-banned-in-afghanistan-as-a-scam/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-08-29T08:39:20Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/08/Taliban1-1.webp"
         },
         {
-          "title": "Crypto’s Anonymous Era Just Ended: Form 1099-DA Now Tells the IRS What You Sold and Its Cost-Basis Math May Not Match Yours",
-          "description": "A new IRS form already sent the government a dollar figure from your crypto account, and it almost certainly does not tell the story you think it does.",
-          "url": "https://247wallst.com/personal-finance/2026/08/28/cryptos-anonymous-era-just-ended-form-1099-da-now-tells-the-irs-what-you-sold-and-its-cost-basis-math-may-not-match-yours/",
-          "source": "24/7 Wall St.",
-          "published": "2026-08-28T09:04:37Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/c94c3f42a7c5155b8fa770c332c5df69621674547759ed2df29c61c36cc398ff/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F6519e800c21583df5424b2b2926a8dcd.jpg"
-        },
-        {
-          "title": "From Market Access to Long-Term Trust: KuCoin VP Edwin Wong Outlines a Four-Pillar Trust Framework for Institutional Digital Asset Infrastructure",
-          "description": "HONG KONG, Aug. 28, 2026 /PRNewswire/ -- Edwin Wong, Vice President and Head of Risk Control at KuCoin, today delivered a keynote address at the CYPHER ASIA Intelligent Crypto Finance Summit, sharing his perspective on how the industry can build a more resili…",
-          "url": "https://www.prnewswire.com/news-releases/from-market-access-to-long-term-trust-kucoin-vp-edwin-wong-outlines-a-four-pillar-trust-framework-for-institutional-digital-asset-infrastructure-302862645.html",
-          "source": "PRNewswire",
-          "published": "2026-08-28T08:24:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS1977413/20260828031425EDT_image_1.jpg?id=OA2917695&p=facebook"
-        },
-        {
-          "title": "Best Crypto IRA 2026",
-          "description": "The best Crypto IRA for most investors in 2026 is iTrustCapital because it combines a transparent 1% cryptocurrency transaction fee, no recurring account charge, more than 90 digital assets, physical gold and silver, staking, and institutional custody. Fideli…",
-          "url": "https://themattwalshblog.com/best-crypto-ira-2026/",
-          "source": "Themattwalshblog.com",
-          "published": "2026-08-28T05:16:14Z",
-          "image": "https://themattwalshblog.com/wp-content/uploads/2026/08/Best-Crypto-IRA-2026.png"
-        },
-        {
-          "title": "BitGo Acquires Bitcoin Miner NYDIG’s Institutional Trading Business, BTGO Stock Jumps",
-          "description": "BitGo announced today that it has completed the acquisition of bitcoin miner NYDIG’s institutional trading business and related assets. This acquisition stre...",
-          "url": "https://coingape.com/bitgo-acquires-bitcoin-miner-nydigs-institutional-trading-business-btgo-stock-jumps/",
-          "source": "Coingape",
-          "published": "2026-08-28T04:33:29Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/2cc25b2c34b3f1867fffcf4f746c3438493a78f6f2fa280905acc47827d086d1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcoingape_360%2Fc9692a0568dff79e1bac35779ea50abf"
-        },
-        {
-          "title": "Data center firm IREN signs new deal with frontier AI lab; quarterly loss hits shares",
-          "description": "IREN shares ‌fell more ⁠than ⁠7% in extended trading after the company swung to ​a quarterly loss, driven by costs tied to retiring ​bitcoin mining hardware as it shifts to AI cloud services.",
-          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/data-center-firm-iren-signs-new-deal-with-frontier-ai-lab-quarterly-loss-hits-shares/articleshow/133582380.cms",
+          "title": "BlackRock helps pull more Bitcoin wealth deeper into Wall Street",
+          "description": "BlackRock and other Wall Street firms are making it easier for large Bitcoin holders to move crypto wealth into spot Bitcoin ETFs through in-kind transactions. Lower minimums, expanding market infrastructure and growing demand for simpler custody are accelera…",
+          "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/blackrock-helps-pull-more-bitcoin-wealth-deeper-into-wall-street/articleshow/133607321.cms",
           "source": "The Times of India",
-          "published": "2026-08-28T03:39:51Z",
-          "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-305600,resizemode-75,msid-133582380/tech/artificial-intelligence/data-center-firm-iren-signs-new-deal-with-frontier-ai-lab-quarterly-loss-hits-shares.jpg"
+          "published": "2026-08-29T07:54:42Z",
+          "image": "https://img.etimg.com/thumb/msid-133607594,width-1200,height-630,imgsize-95126,overlay-etmarkets/articleshow.jpg"
+        },
+        {
+          "title": "iTrustCapital vs Bitcoin IRA",
+          "description": "iTrustCapital and BitcoinIRA are two prominent platforms for holding cryptocurrency inside a self-directed retirement account. Both let eligible US investors transfer or roll over retirement funds, buy supported digital assets, and trade within a tax-advantag…",
+          "url": "https://themattwalshblog.com/itrustcapital-vs-bitcoin-ira/",
+          "source": "Themattwalshblog.com",
+          "published": "2026-08-29T05:08:41Z",
+          "image": "https://themattwalshblog.com/wp-content/uploads/2026/08/iTrustCapital-vs-Bitcoin-IRA.png"
+        },
+        {
+          "title": "When the spender isn't a person",
+          "description": "By Monty DonohewCoinbase spent February building crypto wallets for AI agents. It is worth pausing on what that sentence actually means.",
+          "url": "https://www.americanthinker.com/blog/2026/08/when-the-spender-isn-t-a-person/",
+          "source": "Americanthinker.com",
+          "published": "2026-08-29T04:00:00Z",
+          "image": "https://images.americanthinker.com/c4/c48ovlio0sq1wvpieqqo_1200.jpg"
+        },
+        {
+          "title": "Coinbase and Robinhood Rally as Bitcoin Marches Toward Its Best Week in Months",
+          "description": "Crypto-related stocks surged significantly on August 21, as bitcoin extended its rally, putting the digital currency on track to finish the week more than 20...",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-robinhood-rally-bitcoin-marches-035923976.html",
+          "source": "Yahoo Entertainment",
+          "published": "2026-08-29T03:59:23Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/7ca49a0b41f26a8bc12801e01a3a86c24b7424c18b4a5061f563134aa2b6957c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fc7b4d0e05ca5b213d76cce5001de89ba.jpg"
+        },
+        {
+          "title": "How to Compare Cryptocurrency Exchanges: The CryptoVantage Research Framework",
+          "description": "Choosing a cryptocurrency exchange can be more complicated than it first appears. Platforms advertise low fees, extensive asset selections, strong security, and beginner-friendly software, but those claims are not always easy to compare. Costs may be calculat…",
+          "url": "https://www.solidsmack.com/finance/how-to-compare-cryptocurrency-exchanges-the-cryptovantage-research-framework/",
+          "source": "Solidsmack.com",
+          "published": "2026-08-29T02:20:12Z",
+          "image": "https://www.solidsmack.com/wp-content/uploads/2026/08/fixlqxahcfk-e1787907723263.jpg"
+        },
+        {
+          "title": "Warsh Used His First Jackson Hole Keynote to Talk About AI Tokens and the Death of Forward Guidance. He Didn’t Mention Stablecoins Once.",
+          "description": "At the Jackson Hole Economic Policy Symposium this week, the theme was “Financial Innovation: Implications for Payments and Policy.” It was the perfect stage for the Federal Reserve to address the rapid evolution of digital assets. Instead, the new Fed Chair,…",
+          "url": "https://forkast.news/warsh-used-his-first-jackson-hole-keynote-to-talk-about-ai-tokens-and-the-death-of-forward-guidance-he-didnt-mention-stablecoins-once/",
+          "source": "Forkast.news",
+          "published": "2026-08-29T01:40:51Z",
+          "image": "https://forkast.news/wp-content/uploads/2026/08/warsh-jackson-hole-missing-stablecoins-hero-1024x687.jpg"
         }
       ]
     },
@@ -188,6 +180,14 @@
       "color": "#00cc88",
       "articles": [
         {
+          "title": "Bullish Provides $100 Million to USD.AI for AI Chip Financing",
+          "description": "Cryptocurrency exchange Bullish (NYSE: $BLSH) is providing $100 million in funding to USD.AI (CRYPTO: $CHIP) to hel...",
+          "url": "https://www.cryptoprowl.com/releases/bullish-provides-100-million-to-usdai-for-ai-chip-financing-6575",
+          "source": "Cryptoprowl.com",
+          "published": "2026-08-28T14:59:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/08b2de36000f37da81bf65506beb70b0286b04910a763ff18e6147d8fc482c1d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F70c654396347ed545afb36720ebabbe4.jpg"
+        },
+        {
           "title": "Capital B raises $24.5M for its Bitcoin treasury amid market uncertainty with BlockStream’s Adam Back chipping in",
           "description": "The French Bitcoin treasury firm’s private placement drew support from Adam Back and TOBAM, with warrant exercises potentially unlocking another $158 million.",
           "url": "https://cointelegraph.com/news/capital-b-raises-245m-for-its-bitcoin-treasury-amid-market-uncertainty-with-blockstreams-adam-back-chipping-in",
@@ -196,28 +196,20 @@
           "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M142AJ5B6BQSFDTHCF63GJPC/hi-five-bitcoin-narratives-analysts-are-watching-beyond-price-1.jpg"
         },
         {
+          "title": "USD.AI Secures $100M Stablecoin Debt Facility From Bullish for GPU Financing",
+          "description": "NEW YORK, Aug. 28, 2026 /PRNewswire/ -- Bullish, an institutionally focused global digital asset platform that provides market infrastructure and information services, today announced its strategic entry into middle-market AI infrastructure financing through …",
+          "url": "https://www.prnewswire.com/news-releases/usdai-secures-100m-stablecoin-debt-facility-from-bullish-for-gpu-financing-302862370.html",
+          "source": "PRNewswire",
+          "published": "2026-08-28T11:00:00Z",
+          "image": null
+        },
+        {
           "title": "Research on trusted closed loop management of the whole process of service evaluation based on blockchain",
           "description": "Scientific Reports - Research on trusted closed loop management of the whole process of service evaluation based on blockchain",
           "url": "https://www.nature.com/articles/s41598-026-61722-0.pdf",
           "source": "Nature.com",
           "published": "2026-08-28T00:00:00Z",
           "image": null
-        },
-        {
-          "title": "Evernorth Announces Effectiveness of Form S-4 Registration Statement, Progresses Toward Planned Nasdaq-Listing",
-          "description": "Armada Acquisition Corp. II shareholders to vote on the transaction at a special meeting on September 30, 2026; if approved and the transaction closes, the combined company is expected to list on Nasdaq under the ticker \"XRPN\" Evernorth intends to deploy capi…",
-          "url": "https://www.prnewswire.com/news-releases/evernorth-announces-effectiveness-of-form-s-4-registration-statement-progresses-toward-planned-nasdaq-listing-302862280.html",
-          "source": "PRNewswire",
-          "published": "2026-08-27T21:04:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS1977128/Evernorth-Logo.jpg?id=OA2916836&p=facebook"
-        },
-        {
-          "title": "XDC Says AI Agents Could Upend Invoices and Card Payments",
-          "description": "AI agents have already made 176 million on-chain payments. XDC Network believes machine-driven settlement could eventually replace invoices and cards.",
-          "url": "https://beincrypto.com/xdc-ai-agent-payment-invoice-replacement/",
-          "source": "BeInCrypto",
-          "published": "2026-08-27T16:56:02Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/8c91d9614fc518f0ca7a2fccb2196e674b4038fa609e6692cfb187933d9b4557/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F7b008a3321831e94018d6d54023d1a9f.png"
         },
         {
           "title": "ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories",
@@ -261,19 +253,36 @@
         "startups": {
           "title": "Startups",
           "icon": "💡",
-          "articles": []
+          "articles": [
+            {
+              "title": "Bitcoin now has a quantum computing escape route, but 7 million BTC may still be exposed",
+              "description": "A mainnet QSB transaction passed consensus, yet nonstandard relay, high computation costs and exposed keys limit the escape route.\nThe post Bitcoin now has a quantum computing escape route, but 7 million BTC may still be exposed appeared first on CryptoSlate.",
+              "url": "https://cryptoslate.com/bitcoin-now-has-a-quantum-computing-escape-route-but-7-million-btc-may-still-be-exposed/",
+              "source": "CryptoSlate",
+              "published": "2026-08-27T22:30:35Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-miner-side-door.jpg"
+            }
+          ]
         },
         "hyperscalers": {
           "title": "Hyperscalers",
           "icon": "☁️",
           "articles": [
             {
-              "title": "Bitcoin falls 30% as Google, gold and defence stocks outperform since 2020: Report",
-              "description": "Google emerged as the best-performing asset in a Taurex study, gaining nearly 291% between 2020 and August 2026, while Bitcoin fell 30%. BAE Systems, gold, Apple and Microsoft also delivered gains of more than 100%. Defence stocks featured prominently among t…",
-              "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-falls-30-as-google-gold-and-defence-stocks-outperform-since-2020-report/articleshow/133586960.cms",
+              "title": "GTA 6 leaker cashes out in $250,000 crypto rug pull just hours before Rockstar's official reveal — memecoin crashes as Cyberleek's 'anti-corporate' campaign ends in a payday",
+              "description": "The person or group behind nine days of Grand Theft Auto VI gameplay leaks cashed out of the $CYBERLEEK memecoin on Thursday, hours before Rockstar's Extended Look premiered on Netflix.",
+              "url": "https://www.tomshardware.com/video-games/console-gaming/gta-6-leaker-cyberleek-cashes-out-roughly-250000-hours-before-rockstars-official-reveal",
+              "source": "Tom's Hardware UK",
+              "published": "2026-08-29T10:30:00Z",
+              "image": "https://cdn.mos.cms.futurecdn.net/Naa9i5RiWd85B2GTsqkKzK-2560-80.jpg"
+            },
+            {
+              "title": "Bitcoin falls below $78,000 as crypto market faces correction after Warsh’s Jackson Hole comments",
+              "description": "Bitcoin and Ethereum extended their declines as crypto markets remained under pressure following Kevin Warsh’s hawkish comments on inflation and US monetary policy. Analysts said elevated leverage and liquidations added to selling pressure, while crypto ETF i…",
+              "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-falls-below-78000-as-crypto-market-faces-correction-after-warshs-jackson-hole-comments/articleshow/133608563.cms",
               "source": "The Times of India",
-              "published": "2026-08-28T08:00:54Z",
-              "image": "https://img.etimg.com/thumb/msid-133587015,width-1200,height-630,imgsize-92612,overlay-etmarkets/articleshow.jpg"
+              "published": "2026-08-29T09:23:16Z",
+              "image": "https://img.etimg.com/thumb/msid-133608616,width-1200,height-630,imgsize-11293,overlay-etmarkets/articleshow.jpg"
             },
             {
               "title": "AI agents are getting wallets: the Web3 infrastructure behind the machine economy",
@@ -284,12 +293,28 @@
               "image": "https://media.thenextweb.com/2026/08/ai-agents-wallets-web3-machine-economy-varun-datta.jpg"
             },
             {
+              "title": "XDC Says AI Agents Could Upend Invoices and Card Payments",
+              "description": "AI agents have already made 176 million on-chain payments. XDC Network believes machine-driven settlement could eventually replace invoices and cards.",
+              "url": "https://beincrypto.com/xdc-ai-agent-payment-invoice-replacement/",
+              "source": "BeInCrypto",
+              "published": "2026-08-27T16:56:02Z",
+              "image": "https://s.yimg.com/lo/mysterio/api/8c91d9614fc518f0ca7a2fccb2196e674b4038fa609e6692cfb187933d9b4557/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F7b008a3321831e94018d6d54023d1a9f.png"
+            },
+            {
               "title": "Google Cloud Just Gave Rezolve AI a Major Vote of Confidence",
               "description": "Alphabet's selection of Rezolve AI for Google Cloud Web3 data pipelines sent shares up nearly 22%, fueling short covering ahead of the company's Sept. 1 earn...",
               "url": "https://www.marketbeat.com/articles/google-cloud-just-gave-rezolve-ai-a-major-vote-of-confidence/?utm_source=yahoofinance&amp;utm_medium=yahoofinance",
               "source": "MarketBeat",
               "published": "2026-08-27T15:30:00Z",
               "image": "https://s.yimg.com/lo/mysterio/api/ae50cc0dfa5ca22e8feb16a9a9842c199a832f09c19cd1219f85014eb2a1d922/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmarketbeat_955%2F771e918cabb17a6397cdf48f87b908e9.png"
+            },
+            {
+              "title": "Community Banks Embrace Pooled Infrastructure as New Edge in Stablecoin Race",
+              "description": "Thirty-nine state banker associations this week announced plans to create an industry-owned, industry-designed and industry-governed blockchain network capable of supporting smart payments, tokenized deposits, stablecoins and automated settlement. But the mos…",
+              "url": "https://www.pymnts.com/news/banking/2026/community-banks-embrace-pooled-infrastructure-as-new-edge-in-stablecoin-race/",
+              "source": "pymnts.com",
+              "published": "2026-08-27T15:24:25Z",
+              "image": "https://www.pymnts.com/wp-content/uploads/2026/08/community-banks-stablecoins.jpeg"
             }
           ]
         }
