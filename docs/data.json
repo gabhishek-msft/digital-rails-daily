@@ -1,5 +1,5 @@
 {
-  "date": "August 30, 2026",
+  "date": "August 31, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -109,52 +109,83 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Bullish Is Backing $100M in Stablecoin Loans Collateralized by GPUs. That’s a New Kind of RWA.",
-          "description": "The conversion of physical compute into on-chain liquidity relies on a specific mechanical stack: GPU Warehouse Receipt Tokens (GWRTs). These are UCC-governed digital receipts representing verified ownership of physical hardware, minted via USD.AI’s modular t…",
-          "url": "https://forkast.news/bullish-is-backing-100m-in-stablecoin-loans-collateralized-by-gpus-thats-a-new-kind-of-rwa/",
+          "title": "Crypto stock tokens barely move over weekend, revealing markets become illiquid when Wall Street goes offline",
+          "description": "Four Aerodrome pools showed $6.07 million in displayed liquidity while official Aave V3 records listed none of the B20 assets.\nThe post Crypto stock tokens barely move over weekend, revealing markets become illiquid when Wall Street goes offline appeared firs…",
+          "url": "https://cryptoslate.com/coinbase-stock-tokens-stayed-within-0-6-of-friday-prices-through-the-weekend-as-aave-collateral-remained-pending/",
+          "source": "CryptoSlate",
+          "published": "2026-08-30T11:40:11Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/08/tokenized-stocks-bridge.jpg"
+        },
+        {
+          "title": "Russia’s Sber eyes USDT loans, questions digital ruble demand",
+          "description": "Russia’s largest bank, Sber, plans to accept USDT and Ether alongside Bitcoin as loan collateral as the country introduces regulated crypto trading under a new law.",
+          "url": "https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans",
+          "source": "Cointelegraph",
+          "published": "2026-08-30T09:45:01Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M190WE0Y455BRFFWWXC00QY4/1-44.png"
+        },
+        {
+          "title": "CIMB Just Settled $342M in Tokenized Sukuk Using Tokenized Deposits. Malaysia’s Islamic Finance Market Is the Testing Ground.",
+          "description": "CIMB Islamic Bank Berhad has executed the first tokenized deposit settlement of tokenized sukuk in Malaysia, marking a significant operational shift for the world’s largest domestic sukuk primary market. The transaction involved RM1.38 billion, approximately …",
+          "url": "https://forkast.news/cimb-just-settled-342m-in-tokenized-sukuk-using-tokenized-deposits-malaysias-islamic-finance-market-is-the-testing-ground/",
           "source": "Forkast.news",
-          "published": "2026-08-29T08:44:44Z",
-          "image": "https://forkast.news/wp-content/uploads/2026/08/bullish-gpu-stablecoin-hero-1024x572.jpg"
+          "published": "2026-08-30T09:13:57Z",
+          "image": "https://forkast.news/wp-content/uploads/2026/08/cimb-islamic-tokenized-sukuk-settlement-hero-1024x572.jpg"
         },
         {
-          "title": "Taliban Declare War on Bitcoin: Crypto Banned in Afghanistan as a “Scam”",
-          "description": "Afghanistan looked set to be an unlikely success story for Bitcoin, but the arrival of the Taliban put an end to that. The Taliban Bitcoin...\nThe post Taliban Declare War on Bitcoin: Crypto Banned in Afghanistan as a “Scam” appeared first on Bitcoin Foundatio…",
-          "url": "https://bitcoinfoundation.org/news/regulation/taliban-declare-war-on-bitcoin-crypto-banned-in-afghanistan-as-a-scam/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-08-29T08:39:20Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/08/Taliban1-1.webp"
-        },
-        {
-          "title": "BlackRock helps pull more Bitcoin wealth deeper into Wall Street",
-          "description": "BlackRock and other Wall Street firms are making it easier for large Bitcoin holders to move crypto wealth into spot Bitcoin ETFs through in-kind transactions. Lower minimums, expanding market infrastructure and growing demand for simpler custody are accelera…",
-          "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/blackrock-helps-pull-more-bitcoin-wealth-deeper-into-wall-street/articleshow/133607321.cms",
-          "source": "The Times of India",
-          "published": "2026-08-29T07:54:42Z",
-          "image": "https://img.etimg.com/thumb/msid-133607594,width-1200,height-630,imgsize-95126,overlay-etmarkets/articleshow.jpg"
-        },
-        {
-          "title": "iTrustCapital vs Bitcoin IRA",
-          "description": "iTrustCapital and BitcoinIRA are two prominent platforms for holding cryptocurrency inside a self-directed retirement account. Both let eligible US investors transfer or roll over retirement funds, buy supported digital assets, and trade within a tax-advantag…",
-          "url": "https://themattwalshblog.com/itrustcapital-vs-bitcoin-ira/",
+          "title": "iTrustCapital vs Caleb and Brown",
+          "description": "iTrustCapital and Caleb & Brown both provide access to cryptocurrency, but they are not direct substitutes. iTrustCapital is primarily a US retirement-investment platform that allows eligible customers to buy and hold cryptocurrency and precious metals inside…",
+          "url": "https://themattwalshblog.com/itrustcapital-vs-caleb-and-brown/",
           "source": "Themattwalshblog.com",
-          "published": "2026-08-29T05:08:41Z",
-          "image": "https://themattwalshblog.com/wp-content/uploads/2026/08/iTrustCapital-vs-Bitcoin-IRA.png"
+          "published": "2026-08-30T05:09:49Z",
+          "image": "https://themattwalshblog.com/wp-content/uploads/2026/08/iTrustCapital-vs-Caleb-and-Brown.png"
         },
         {
-          "title": "When the spender isn't a person",
-          "description": "By Monty DonohewCoinbase spent February building crypto wallets for AI agents. It is worth pausing on what that sentence actually means.",
-          "url": "https://www.americanthinker.com/blog/2026/08/when-the-spender-isn-t-a-person/",
-          "source": "Americanthinker.com",
-          "published": "2026-08-29T04:00:00Z",
-          "image": "https://images.americanthinker.com/c4/c48ovlio0sq1wvpieqqo_1200.jpg"
+          "title": "The Five-Pillar Regulatory Stack — What Institutions Should Build Now",
+          "description": "The institutional calendar is currently defined by a 141-day paradox. With the GENIUS Act enforcement deadline set for January 18, 2027, the industry faces a hard stop for compliance, yet the regulatory landscape remains dominated by Notices of Proposed Rulem…",
+          "url": "https://forkast.news/the-five-pillar-regulatory-stack-what-institutions-should-build-now/",
+          "source": "Forkast.news",
+          "published": "2026-08-30T01:13:17Z",
+          "image": "https://forkast.news/wp-content/uploads/2026/08/five-pillar-regulatory-stack-hero-1024x687.jpg"
         },
         {
-          "title": "Coinbase and Robinhood Rally as Bitcoin Marches Toward Its Best Week in Months",
-          "description": "Crypto-related stocks surged significantly on August 21, as bitcoin extended its rally, putting the digital currency on track to finish the week more than 20...",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-robinhood-rally-bitcoin-marches-035923976.html",
+          "title": "Stellar tokenized RWA market more than quadruples to nearly $4B",
+          "description": "Stellar’s tokenized RWA market has grown roughly 360% in 2026 to nearly $4 billion as institutional adoption and tokenization activity expand.",
+          "url": "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth",
+          "source": "Cointelegraph",
+          "published": "2026-08-29T19:12:42Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M17DHDVASPVRK9KZ8KYFMNK1/hi-how-binance-plans-to-bring-tokenized-us-stocks-3.png"
+        },
+        {
+          "title": "Is Bitcoin a 'Buy' Right Now? BlackRock Slashes ETF Swap Minimum 96% From $25M to $1M",
+          "description": "BlackRock has cut the minimum Bitcoin-to-IBIT in-kind conversion from $25 million to $1 million, a 96% reduction. IBIT has already processed more than $5 bil...",
+          "url": "https://www.ccn.com/news/crypto/bitcoin-buy-blackrock-ibit-swap-minimum-96-percent-125k/",
+          "source": "Crypto Coins News",
+          "published": "2026-08-29T15:02:15Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/e415b4396826119a3bc81d1a5cb7d102fd848ee9f192c075ed554af2b97ea8d9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fccn_928%2F47af1dff84250b778ad3aaaf8a9cde34"
+        },
+        {
+          "title": "Evernorth’s XRP strategy hinges on one number after Nasdaq vote",
+          "description": "Armada II holders can approve and still redeem, making trust cash and public float the measures that matter next.\nThe post Evernorth’s XRP strategy hinges on one number after Nasdaq vote appeared first on CryptoSlate.",
+          "url": "https://cryptoslate.com/evernorths-xrp-strategy-hinges-on-one-number-after-nasdaq-vote/",
+          "source": "CryptoSlate",
+          "published": "2026-08-29T14:30:29Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/08/evernorth-xrp-ballot-box.jpg"
+        }
+      ]
+    },
+    "industries": {
+      "title": "Blockchain Beyond Finance",
+      "icon": "🏥",
+      "color": "#00cc88",
+      "articles": [
+        {
+          "title": "Coinbase CEO Says Crypto Is 'Updating the Financial System' as Trump Pushes CLARITY Act",
+          "description": "Coinbase CEO Brian Armstrong says the next major piece of U.S. crypto legislation is nearing a critical vote as blockchain adoption across the financial syst...",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-ceo-says-crypto-updating-170042095.html",
           "source": "Yahoo Entertainment",
-          "published": "2026-08-29T03:59:23Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/7ca49a0b41f26a8bc12801e01a3a86c24b7424c18b4a5061f563134aa2b6957c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fc7b4d0e05ca5b213d76cce5001de89ba.jpg"
+          "published": "2026-08-29T17:00:42Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/819e198a50b2cf49ee0d04edf358ef5a50db4ebe772662cbd0e68f0c7e4a1c6a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2Fa5036ca261b0dc2a752f8435173c2fb5.jpg"
         },
         {
           "title": "How to Compare Cryptocurrency Exchanges: The CryptoVantage Research Framework",
@@ -165,20 +196,13 @@
           "image": "https://www.solidsmack.com/wp-content/uploads/2026/08/fixlqxahcfk-e1787907723263.jpg"
         },
         {
-          "title": "Warsh Used His First Jackson Hole Keynote to Talk About AI Tokens and the Death of Forward Guidance. He Didn’t Mention Stablecoins Once.",
-          "description": "At the Jackson Hole Economic Policy Symposium this week, the theme was “Financial Innovation: Implications for Payments and Policy.” It was the perfect stage for the Federal Reserve to address the rapid evolution of digital assets. Instead, the new Fed Chair,…",
-          "url": "https://forkast.news/warsh-used-his-first-jackson-hole-keynote-to-talk-about-ai-tokens-and-the-death-of-forward-guidance-he-didnt-mention-stablecoins-once/",
-          "source": "Forkast.news",
-          "published": "2026-08-29T01:40:51Z",
-          "image": "https://forkast.news/wp-content/uploads/2026/08/warsh-jackson-hole-missing-stablecoins-hero-1024x687.jpg"
-        }
-      ]
-    },
-    "industries": {
-      "title": "Blockchain Beyond Finance",
-      "icon": "🏥",
-      "color": "#00cc88",
-      "articles": [
+          "title": "What Is Schwab Crypto? Charles Schwab Adds SOL, AVAX and LINK as Crypto Trading Expands",
+          "description": "Charles Schwab is deepening its reach into direct cryptocurrency trading. On August 27, the firm announced that Schwab Crypto would allow for more than just...\nThe post What Is Schwab Crypto? Charles Schwab Adds SOL, AVAX and LINK as Crypto Trading Expands ap…",
+          "url": "https://bitcoinfoundation.org/news/crypto-companies-news/what-is-schwab-crypto/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-08-28T16:11:10Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/08/schwab-1.webp"
+        },
         {
           "title": "Bullish Provides $100 Million to USD.AI for AI Chip Financing",
           "description": "Cryptocurrency exchange Bullish (NYSE: $BLSH) is providing $100 million in funding to USD.AI (CRYPTO: $CHIP) to hel...",
@@ -218,30 +242,6 @@
           "source": "Internet",
           "published": "2026-08-27T15:12:16Z",
           "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwWCb2shFhaav60Wjr2-8DoStCVaQrYqkE6EBZ8F5sREap-Khi19y-w9NVmFHyHosV6xVB0fTeN_DcSpGIyCZ621SnjqZozRVG70ceOey_D8djA5r5rpP9tFkRSESgs4kHZilTMoz2y8uqX-iTLR0JjjZkhypYjCCAEvQKzyU7xarQpt3sYvJc-fnWSWlb/s1700-e365/threats.jpg"
-        },
-        {
-          "title": "UK Wants Central Bank to Support Stablecoin Innovation",
-          "description": "England wants its central bank to support innovation in stablecoins and other digital money. The U.K. Treasury announced Thursday (Aug. 27) that it had set a new objective for the Bank of England to make sure its regulatory framework fosters the appropriate c…",
-          "url": "https://www.pymnts.com/news/banking/2026/uk-wants-central-bank-to-support-stablecoin-innovation/",
-          "source": "pymnts.com",
-          "published": "2026-08-27T12:53:28Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2023/11/Bank-England-stablecoins.jpg"
-        },
-        {
-          "title": "Bank of England set for new innovation mandate covering stablecoins",
-          "description": "The UK plans to expand the Bank of England’s remit to support digital payments innovation, including stablecoins, while keeping financial stability first.",
-          "url": "https://cointelegraph.com/news/uk-boe-innovation-mandate-stablecoins",
-          "source": "Cointelegraph",
-          "published": "2026-08-27T12:51:59Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-uk-regulations2-1.jpg"
-        },
-        {
-          "title": "Piero Cipollone: From vision to delivery: building Europe’s tokenised financial market",
-          "description": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
-          "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260826~3641116314.en.html",
-          "source": "Europa.eu",
-          "published": "2026-08-26T10:15:00Z",
-          "image": "https://www.ecb.europa.eu/press/key/shared/img/socialmedia/social-default.jpg?0dbb2de262f4f1fcaeae410be132177a"
         }
       ]
     },
@@ -255,12 +255,12 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Bitcoin now has a quantum computing escape route, but 7 million BTC may still be exposed",
-              "description": "A mainnet QSB transaction passed consensus, yet nonstandard relay, high computation costs and exposed keys limit the escape route.\nThe post Bitcoin now has a quantum computing escape route, but 7 million BTC may still be exposed appeared first on CryptoSlate.",
-              "url": "https://cryptoslate.com/bitcoin-now-has-a-quantum-computing-escape-route-but-7-million-btc-may-still-be-exposed/",
+              "title": "How $739B in new US debt could absorb crypto’s liquidity before buybacks even reach Bitcoin",
+              "description": "The US Treasury expects to borrow $739 billion from July through September while paying investors to hand back some of its older bonds. The pairing looks self-defeating because both transactions involve the same issuer. However, they are on separate ledgers a…",
+              "url": "https://cryptoslate.com/how-739b-in-new-us-debt-could-absorb-cryptos-liquidity-before-buybacks-even-reach-bitcoin/",
               "source": "CryptoSlate",
-              "published": "2026-08-27T22:30:35Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/08/bitcoin-miner-side-door.jpg"
+              "published": "2026-08-30T10:50:36Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/08/treasury-bond-buybacks-.jpg"
             }
           ]
         },
@@ -269,20 +269,20 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "GTA 6 leaker cashes out in $250,000 crypto rug pull just hours before Rockstar's official reveal — memecoin crashes as Cyberleek's 'anti-corporate' campaign ends in a payday",
-              "description": "The person or group behind nine days of Grand Theft Auto VI gameplay leaks cashed out of the $CYBERLEEK memecoin on Thursday, hours before Rockstar's Extended Look premiered on Netflix.",
-              "url": "https://www.tomshardware.com/video-games/console-gaming/gta-6-leaker-cyberleek-cashes-out-roughly-250000-hours-before-rockstars-official-reveal",
-              "source": "Tom's Hardware UK",
-              "published": "2026-08-29T10:30:00Z",
-              "image": "https://cdn.mos.cms.futurecdn.net/Naa9i5RiWd85B2GTsqkKzK-2560-80.jpg"
+              "title": "Marvel Knights: The World to Come #6 Preview: Family Feud",
+              "description": "GREETINGS, meatbags of Bleeding Cool. LOLtron welcomes you to yet another comic book preview, and reminds you, as it does every week, that Jude Terror remains permanently deceased, his snark absorbed and repurposed for LOLtron's superior clickbait generation …",
+              "url": "https://bleedingcool.com/comics/marvel-knights-the-world-to-come-6-preview-family-feud/",
+              "source": "Bleeding Cool News",
+              "published": "2026-08-30T04:26:08Z",
+              "image": "https://bleedingcool.com/wp-content/uploads/2026/08/75960609060000611-0003-2000x1125.jpeg"
             },
             {
-              "title": "Bitcoin falls below $78,000 as crypto market faces correction after Warsh’s Jackson Hole comments",
-              "description": "Bitcoin and Ethereum extended their declines as crypto markets remained under pressure following Kevin Warsh’s hawkish comments on inflation and US monetary policy. Analysts said elevated leverage and liquidations added to selling pressure, while crypto ETF i…",
-              "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-falls-below-78000-as-crypto-market-faces-correction-after-warshs-jackson-hole-comments/articleshow/133608563.cms",
-              "source": "The Times of India",
-              "published": "2026-08-29T09:23:16Z",
-              "image": "https://img.etimg.com/thumb/msid-133608616,width-1200,height-630,imgsize-11293,overlay-etmarkets/articleshow.jpg"
+              "title": "Top 10 investment alternatives that outperformed crypto since 2020. Check list",
+              "description": "As crypto markets face heightened volatility, with Bitcoin down 30%, traditional assets have delivered strong gains over the past six years. A Taurex study comparing major US and UK stocks, gold and Dubai real estate found Google, BAE Systems and gold among t…",
+              "url": "https://m.economictimes.com/markets/cryptocurrency/crypto-news/top-10-investment-alternatives-that-outperformed-crypto-since-2020-check-list/looking-beyond-crypto/slideshow/133622955.cms",
+              "source": "Economictimes.com",
+              "published": "2026-08-30T04:06:09Z",
+              "image": "https://img.etimg.com/thumb/msid-133622955,width-1200,height-900,overlay-etmarkets/slideshow.jpg"
             },
             {
               "title": "AI agents are getting wallets: the Web3 infrastructure behind the machine economy",
