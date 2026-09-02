@@ -1,5 +1,5 @@
 {
-  "date": "September 01, 2026",
+  "date": "September 02, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -13,6 +13,14 @@
           "source": "Crypto Briefing",
           "published": "2026-08-29T13:06:03Z",
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/29090600/library-ethereum-core-developers-schedule-eip-8141-for-hegot-upg-800x450.png"
+        },
+        {
+          "title": "StarkWare secures Bitcoin with quantum-safe method on mainnet",
+          "description": "StarkWare's quantum-safe method enhances Bitcoin's security, prompting future-proofing discussions and potential consensus-level changes.\nThe post StarkWare secures Bitcoin with quantum-safe method on mainnet appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/starkware-quantum-safe-bitcoin-mainnet/",
+          "source": "Crypto Briefing",
+          "published": "2026-08-28T17:25:17Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/28132514/library-starkware-secures-bitcoin-with-quantum-safe-method-on-ma-800x450.png"
         },
         {
           "title": "Bitcoin Completes First Experimental Quantum-Safe Transaction, Starkware Says",
@@ -37,22 +45,6 @@
           "source": "Business Standard",
           "published": "2026-08-26T10:45:13Z",
           "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/26/full/20260826144125.jpg"
-        },
-        {
-          "title": "Crypto Group Warns Regulators Against Expanding Stablecoin KYC",
-          "description": "The crypto trade group warned that forcing issuers to verify identities for peer-to-peer wallet transfers would “cripple the industry” as regulators implement the GENIUS Act.",
-          "url": "https://decrypt.co/376445/crypto-group-regulators-stablecoin-identity-checks",
-          "source": "Decrypt",
-          "published": "2026-08-25T16:28:59Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/circle-usdc-tether-usdt-stablecoin-decrypt-style-gID_7.jpg"
-        },
-        {
-          "title": "LayerZero unveils ATLAS platform for builders, testnet coming soon",
-          "description": "ATLAS could revolutionize global finance by enabling seamless, decentralized trading infrastructure, potentially reshaping market dynamics.\nThe post LayerZero unveils ATLAS platform for builders, testnet coming soon appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/layerzero-atlas-platform-testnet/",
-          "source": "Crypto Briefing",
-          "published": "2026-08-25T14:21:49Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/25102135/what-is-layerzero-zro-cross-chain-interoperability-protocol-1-800x420.png"
         }
       ]
     },
@@ -76,14 +68,6 @@
           "source": "Crypto Briefing",
           "published": "2026-08-27T14:56:29Z",
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/27105628/us-strikes-on-iran-wipe-80b-off-crypto-as-bitcoin-ethereum-s-26-800x420.jpeg"
-        },
-        {
-          "title": "Ethereum proposal would cut 33,800 ETH issuance and break every deployed Altair light client",
-          "description": "EIP-8390 proposes offchain ZK finality proofs but defines no replacement API or prover incentive and supplies no reproducible GPU benchmark.\nThe post Ethereum proposal would cut 33,800 ETH issuance and break every deployed Altair light client appeared first o…",
-          "url": "https://cryptoslate.com/?p=557465",
-          "source": "CryptoSlate",
-          "published": "2026-08-25T03:40:43Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/08/ethereum-sync-committee-removal.jpg"
         }
       ]
     },
@@ -93,68 +77,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Crypto exchange Gemini not at fault for collapse of Earn lending program, arbitrator says",
-          "description": "An arbitrator earlier this month said Gemini Space Station did not mislead users of its Earn program.",
-          "url": "https://www.cnbc.com/2026/08/31/gemini-not-at-fault-for-collapse-of-earn-lending-program-arbitrator-says.html",
-          "source": "CNBC",
-          "published": "2026-08-31T11:00:18Z",
-          "image": "https://image.cnbcfm.com/api/v1/image/108198236-17576943512025-09-12t162407z_1620249728_rc2dqgaf1uhw_rtrmadp_0_gemini-ipo.jpeg?v=1757694452&w=1920&h=1080"
+          "title": "KuCoin Upgrades Institutional Lending to Improve Capital Infrastructure and Efficiency",
+          "description": "PROVIDENCIALES, Turks and Caicos Islands, Sept. 1, 2026 /PRNewswire/ -- KuCoin, a leading global crypto platform built on trust, today announced an upgrade to its Institutional Interest-Free Lending Program, adding support for its Unified Trading Account (UTA…",
+          "url": "https://www.prnewswire.com/news-releases/kucoin-upgrades-institutional-lending-to-improve-capital-infrastructure-and-efficiency-302864839.html",
+          "source": "PRNewswire",
+          "published": "2026-09-01T10:00:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS1978293/20260831050649EDT_image_1.jpg?id=OA2920130&p=facebook"
         },
         {
-          "title": "CLARITY Act Lags as Bitcoin ETFs Slip",
-          "description": "U.S. spot Bitcoin ETFs turned negative at the end of last week, ending a nine-day inflow streak that had brought in a total of $2.8 billion. Meanwhile, Rober...",
-          "url": "https://cryptonews.com/news/bitcoin-etfs-inflow-streak-clarity-act/",
-          "source": "Cryptonews",
-          "published": "2026-08-31T09:20:29Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/74517ece7b9f27f8856318763ea6637c496356c7276c4b62009fbd85318dac01/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptonews_us_711%2F00c3fd44b99892c0dbb6c9e8179e648d"
+          "title": "Shyft Partners With VARA-Licensed GAP3 as shCORE and shYIELD Near Pre-Deposits",
+          "description": "Shyft Finance is set to open its first two curated yield vaults on Ethereum, with the regulated GAP3 Partners FZCO serving as the Co-Curator for both vaults. GAP3 Partners FZCO is a Dubai-based Virtual Asset Service Provider that obtained an active license fr…",
+          "url": "https://bitcoinist.com/shyft-partners-with-vara-licensed-gap3-as-shcore-and-shyield-near-pre-deposits/",
+          "source": "Bitcoinist",
+          "published": "2026-09-01T09:26:46Z",
+          "image": "https://bitcoinist.com/wp-content/uploads/2026/09/Screenshot-2026-09-01-at-10.24.52.png"
         },
         {
-          "title": "KuCoin Partners with FinChain to Integrate FUSD into Its RWA Collateral Mirroring Solution",
-          "description": "PROVIDENCIALES, Turks and Caicos Islands, Aug. 31, 2026 /PRNewswire/ -- KuCoin, a leading global cryptocurrency exchange built on trust, today announced a partnership with FinChain to integrate FUSD into KuCoin's RWA Collateral Mirroring Solution (RCMS). Thro…",
-          "url": "https://www.prnewswire.co.uk/news-releases/kucoin-partners-with-finchain-to-integrate-fusd-into-its-rwa-collateral-mirroring-solution-302864786.html",
-          "source": "PR Newswire UK",
-          "published": "2026-08-31T08:11:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS1731569/KuCoin-new-Logo.jpg?id=OA2920029&p=facebook"
+          "title": "Ripple and SettleMint partner to provide digital asset custody and tokenization for financial institutions in Asia Pacific",
+          "description": "New integration between Ripple Custody and SettleMint's Digital Asset Lifecycle Platform gives regulated financial institutions a single, connected foundation to issue, manage, and operate digital assets across their full lifecycle. SINGAPORE, Sept. 1, 2026 /…",
+          "url": "https://www.prnewswire.com/news-releases/ripple-and-settlemint-partner-to-provide-digital-asset-custody-and-tokenization-for-financial-institutions-in-asia-pacific-302865190.html",
+          "source": "PRNewswire",
+          "published": "2026-09-01T05:00:00Z",
+          "image": null
         },
         {
-          "title": "Ripple Lawyer Says CLARITY Act Could Boost U.S. Jobs as Crucial Senate Vote Nears",
-          "description": "Ripple Chief Legal Officer Stuart Alderoty is urging U.S. senators to back the Digital Asset Market Clarity Act in a push to link the bill...\nThe post Ripple Lawyer Says CLARITY Act Could Boost U.S. Jobs as Crucial Senate Vote Nears appeared first on Bitcoin …",
-          "url": "https://bitcoinfoundation.org/news/regulation/ripple-lawyer-says-clarity-act-could-boost-u-s-jobs-as-crucial-senate-vote-nears/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-08-31T08:07:59Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/08/Ripple-Lawyer-Says-CLARITY-Act-Could-Boost-U.S.-Jobs-as-Crucial-Senate-Vote-Nears-2.webp"
+          "title": "Thailand SEC proposes retail access to regulated overseas crypto derivatives",
+          "description": "Under the proposal, retail investors could access qualifying overseas crypto derivatives through intermediaries, while higher-risk products would remain limited to institutions.",
+          "url": "https://cointelegraph.com/news/thailand-sec-retail-overseas-crypto-derivatives",
+          "source": "Cointelegraph",
+          "published": "2026-09-01T03:49:00Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1DH1WEZ277YHH7XH1QMY4YC/regulations-thailand-crypto.jpg"
         },
         {
-          "title": "XRP’s next rally could put this 115 million-token short under pressure",
-          "description": "The Aug. 25 CFTC snapshot shows 115.7 million XRP-equivalent net short against rising dealer and asset-manager net longs.\nThe post XRP’s next rally could put this 115 million-token short under pressure appeared first on CryptoSlate.",
-          "url": "https://cryptoslate.com/xrps-next-rally-could-put-this-115-million-token-short-under-pressure/",
-          "source": "CryptoSlate",
-          "published": "2026-08-31T06:30:46Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/08/xrp-market-tug-war.jpg"
+          "title": "Coinbase's India return: How a bespoke rupee on-ramp changes the game for foreign exchanges",
+          "description": "Operating under a fresh local entity fully registered with India's Financial Intelligence Unit (FIU-IND) and compliant with local tax frameworks, Coinbase has achieved a major competitive breakthrough: a custom-built, bespoke Indian Rupee (INR) on-ramp and of…",
+          "url": "https://economictimes.indiatimes.com/markets/expert-view/coinbases-india-return-how-a-bespoke-rupee-on-ramp-changes-the-game-for-foreign-exchanges/articleshow/133666124.cms",
+          "source": "The Times of India",
+          "published": "2026-09-01T02:34:10Z",
+          "image": "https://img.etimg.com/thumb/msid-133666185,width-1200,height-630,imgsize-12080,overlay-etmarkets/articleshow.jpg"
         },
         {
-          "title": "ECB Wants the Euro Directly on Blockchain. Will It Kill Stablecoins in Europe?",
-          "description": "Schnabel says the ECB should issue euro reserves on-chain, casting stablecoins as complements, not settlement anchors.",
-          "url": "https://beincrypto.com/ecb-euro-reserves-on-chain-stablecoin-impact/",
-          "source": "BeInCrypto",
-          "published": "2026-08-30T22:00:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/3288f202b08f9c5edb3545d9443fe57a565e5dbc727e0ac7179bf046abef9b42/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F51658067077a4e2bdb1ac966afcdf733.png"
+          "title": "Russia Bets Big on Crypto as Regulated Trading Targets $46 Billion",
+          "description": "Crypto trading in Russia is expected to spike in the next twelve months after legalization, according to the country’s largest bank.",
+          "url": "https://zycrypto.com/russia-bets-big-on-crypto-as-regulated-trading-targets-46-billion/",
+          "source": "ZyCrypto",
+          "published": "2026-08-31T21:09:28Z",
+          "image": "https://zycrypto.com/wp-content/uploads/2022/09/Russia-To-Legalize-Crypto-For-Cross-Border-Settlements.jpg"
         },
         {
-          "title": "BlackRock's Exec Says CLARITY Act Is 'Less Critical' for Bitcoin Other Cryptos",
-          "description": "BlackRock’s head of digital assets Robert Mitchnick told CNBC Wednesday that the CLARITY Act is “less critical” for Bitcoin than for the rest of crypto. What...",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/blackrocks-exec-says-clarity-act-213130929.html",
-          "source": "Yahoo Entertainment",
-          "published": "2026-08-30T21:31:30Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/f320a3cf02bdb80aabd77e4b49c10d0a3c3afc6dbb87268513839fd84be55427/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2Fed89309ca3af23db4717e27af469b64a.jpg"
+          "title": "NYSE Dual-Vendor Strategy Signals Institutional Shift in Tokenized Securities",
+          "description": "The Intercontinental Exchange is formalizing a two-vendor digital transfer agent program, positioning the New York Stock Exchange as the primary regulated venue for tokenized public equities. By signing a memorandum of understanding with tZERO on August 31, 2…",
+          "url": "https://forkast.news/nyse-dual-vendor-strategy-signals-institutional-shift-in-tokenized-securities/",
+          "source": "Forkast.news",
+          "published": "2026-08-31T19:19:19Z",
+          "image": "https://forkast.news/wp-content/uploads/2026/08/ice-tzero-nyse-tokenized-securities-platform-hero-1024x572.jpg"
         },
         {
-          "title": "US treasury relies on stablecoins to fund short-term debt, but they can’t fix its $28B long-bond problem",
-          "description": "GENIUS reserves stop at 93 days while Treasury expands liquidity buybacks across 10- to 30-year debt.\nThe post US treasury relies on stablecoins to fund short-term debt, but they can’t fix its $28B long-bond problem appeared first on CryptoSlate.",
-          "url": "https://cryptoslate.com/us-treasury-relies-on-stablecoins-to-fund-short-term-debt-but-they-cant-fix-its-28b-long-bond-problem/",
-          "source": "CryptoSlate",
-          "published": "2026-08-30T18:25:24Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/08/stablecoin-93-day-gate.jpg"
+          "title": "Russia's Sberbank Sees $46 Billion in Crypto Trading, Plans Ethereum and USDT-Backed Loans",
+          "description": "Deputy Chairman Anatoly Popov told state media that trading could hit 4 trillion rubles in its first year, as the bank prepares to broaden crypto-backed lending once regulators sign off.",
+          "url": "https://decrypt.co/376971/russia-sberbank-46-billion-crypto-trading-ethereum-usdt",
+          "source": "Decrypt",
+          "published": "2026-08-31T18:46:04Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/russia-moscow-red-square-kremlin-decrypt-style-gID_7.jpg"
         }
       ]
     },
@@ -164,44 +148,36 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Stablecoins are crypto’s killer app—but no one can agree on who will use them",
-          "description": "Airwallex is the latest giant company to plow into stablecoins—even as the business case for them is still emerging.",
-          "url": "https://fortune.com/2026/08/31/who-will-use-stablecoins-airwallex-dan-kim/",
-          "source": "Fortune",
-          "published": "2026-08-31T10:43:49Z",
-          "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2271059115.jpg?resize=1200,600"
-        },
-        {
-          "title": "Holistic and proactive machine learning approaches to predict cyberattacks in blockchain networks",
-          "description": "Scientific Reports - Holistic and proactive machine learning approaches to predict cyberattacks in blockchain networks",
-          "url": "https://www.nature.com/articles/s41598-026-66732-6.pdf",
-          "source": "Nature.com",
-          "published": "2026-08-31T00:00:00Z",
-          "image": null
-        },
-        {
-          "title": "Coinbase CEO Says Crypto Is 'Updating the Financial System' as Trump Pushes CLARITY Act",
-          "description": "Coinbase CEO Brian Armstrong says the next major piece of U.S. crypto legislation is nearing a critical vote as blockchain adoption across the financial syst...",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-ceo-says-crypto-updating-170042095.html",
-          "source": "Yahoo Entertainment",
-          "published": "2026-08-29T17:00:42Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/819e198a50b2cf49ee0d04edf358ef5a50db4ebe772662cbd0e68f0c7e4a1c6a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2Fa5036ca261b0dc2a752f8435173c2fb5.jpg"
-        },
-        {
-          "title": "How to Compare Cryptocurrency Exchanges: The CryptoVantage Research Framework",
-          "description": "Choosing a cryptocurrency exchange can be more complicated than it first appears. Platforms advertise low fees, extensive asset selections, strong security, and beginner-friendly software, but those claims are not always easy to compare. Costs may be calculat…",
-          "url": "https://www.solidsmack.com/finance/how-to-compare-cryptocurrency-exchanges-the-cryptovantage-research-framework/",
-          "source": "Solidsmack.com",
-          "published": "2026-08-29T02:20:12Z",
-          "image": "https://www.solidsmack.com/wp-content/uploads/2026/08/fixlqxahcfk-e1787907723263.jpg"
-        },
-        {
-          "title": "What Is Schwab Crypto? Charles Schwab Adds SOL, AVAX and LINK as Crypto Trading Expands",
-          "description": "Charles Schwab is deepening its reach into direct cryptocurrency trading. On August 27, the firm announced that Schwab Crypto would allow for more than just...\nThe post What Is Schwab Crypto? Charles Schwab Adds SOL, AVAX and LINK as Crypto Trading Expands ap…",
-          "url": "https://bitcoinfoundation.org/news/crypto-companies-news/what-is-schwab-crypto/",
+          "title": "Is MEDVi a Scam? What You Need to Know Before Using MEDVi",
+          "description": "Is MEDVi scam or not? This is a question traders started asking after a company with the same name made global headlines. MEDVi seems to...\nThe post Is MEDVi a Scam? What You Need to Know Before Using MEDVi appeared first on Bitcoin Foundation.",
+          "url": "https://bitcoinfoundation.org/news/security/is-medvi-a-scam/",
           "source": "Bitcoinfoundation.org",
-          "published": "2026-08-28T16:11:10Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/08/schwab-1.webp"
+          "published": "2026-09-01T10:25:19Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/med-1.webp"
+        },
+        {
+          "title": "Flare (FLR) Is Building a Bigger XRP DeFi Ecosystem: Can the Token Finally Break Above $0.01?",
+          "description": "Flare is building an XRP-based DeFi stack around FXRP in the forms of lending, staking, trading, and yield. Flare (FLR) Is Building a Bigger XRP...\nThe post Flare (FLR) Is Building a Bigger XRP DeFi Ecosystem: Can the Token Finally Break Above $0.01? appeared…",
+          "url": "https://bitcoinfoundation.org/news/altcoins/flare-flr-is-building-a-bigger-xrp-defi-ecosystem-can-the-token-finally-break-above-0-01/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-09-01T10:16:24Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/Flare-FLR-Is-Building-a-Bigger-XRP-DeFi-Ecosystem-Can-the-Token-Finally-Break-Above-0.01-2.webp"
+        },
+        {
+          "title": "Uphold review 2026: One account for crypto, metals, and cash",
+          "description": "Uphold puts crypto, precious metals, and national currencies in one account with reserves you can check in real time, but its spread-based pricing runs high.",
+          "url": "https://finance.yahoo.com/personal-finance/investing/review/uphold-review-203900002.html",
+          "source": "Yahoo Entertainment",
+          "published": "2026-08-31T20:39:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/d19dbf9198df886a93e36d2be8d6e0015ce7ded453e5c11773416577457cb003/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2024-12%2Fb1f36650-b85e-11ef-9fef-da1862ea229e"
+        },
+        {
+          "title": "DeFi protocols just lost $83 million to an attack financial regulators already warned about",
+          "description": "Malicious actors exposed two decentralized finance (DeFi) lenders to over $84 million in losses over four days, using variations of a price-manipulation strategy previously targeted by US regulators. The larger incident hit Tectonic on the Cronos blockchain, …",
+          "url": "https://cryptoslate.com/defi-protocols-just-lost-83-million-to-an-attack-financial-regulators-already-warned-about/",
+          "source": "CryptoSlate",
+          "published": "2026-08-31T13:45:33Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/08/defi-predator-liquidity-attack.jpg"
         },
         {
           "title": "Research on trusted closed loop management of the whole process of service evaluation based on blockchain",
@@ -226,6 +202,14 @@
           "source": "pymnts.com",
           "published": "2026-08-27T12:53:28Z",
           "image": "https://www.pymnts.com/wp-content/uploads/2023/11/Bank-England-stablecoins.jpg"
+        },
+        {
+          "title": "Bank of England set for new innovation mandate covering stablecoins",
+          "description": "The UK plans to expand the Bank of England’s remit to support digital payments innovation, including stablecoins, while keeping financial stability first.",
+          "url": "https://cointelegraph.com/news/uk-boe-innovation-mandate-stablecoins",
+          "source": "Cointelegraph",
+          "published": "2026-08-27T12:51:59Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/hi-uk-regulations2-1.jpg"
         }
       ]
     },
@@ -239,12 +223,20 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Bitcoin Faces a Three-Way Macro Test Near $78,000",
-              "description": "Bitcoin traded at $78,500 as the Japanese yen breached 160 per dollar in Tokyo trading, while a U.S. strike on Iran’s Larak Island added to market uncertaint...",
-              "url": "https://cryptonews.com/news/bitcoin-macro-risks-78000/",
-              "source": "Cryptonews",
-              "published": "2026-08-31T10:20:16Z",
-              "image": "https://s.yimg.com/lo/mysterio/api/7ff344e537085fc322ec3b5c90a320c9358c68e35f60348b7738e55265f57d7b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptonews_us_711%2F94f1935bec510b094b03b392f156a268"
+              "title": "IREN (IREN) Swaps Bitcoin Rigs For Microsoft’s (MSFT) GPU Contracts",
+              "description": "IREN (NASDAQ:IREN) spent years mining Bitcoin. On August 27, the company told investors that the chapter is closing for good. Fourth-quarter AI cloud revenue...",
+              "url": "https://finance.yahoo.com/technology/ai/articles/iren-iren-swaps-bitcoin-rigs-083947823.html",
+              "source": "Yahoo Entertainment",
+              "published": "2026-09-01T08:39:47Z",
+              "image": "https://s.yimg.com/lo/mysterio/api/f2d71584cfc29e8cbcab77c4cea09f26d9b83be1e227bbb1b23afd22a35902b9/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fe1794e2cabb65e764e737b7181da738a.jpg"
+            },
+            {
+              "title": "“StableStock Lands in Korea With 300+ Korean Stocks and ETFs for Stablecoin Users”",
+              "description": "StableStock has officially launched Korean stock trading, giving users access to more than 300 Korean-listed stocks and ETFs directly with stablecoins. The launch expands StableStock’s global equity coverage from the U.S. and Hong Kong into one of Asia’s most…",
+              "url": "https://zycrypto.com/stablestock-expands-to-korea-bringing-300-korean-stocks-and-etfs-to-stablecoin-users/",
+              "source": "ZyCrypto",
+              "published": "2026-09-01T07:45:49Z",
+              "image": "https://zycrypto.com/wp-content/uploads/2026/09/StableStock-Expands-to-Korea-Bringing-300-Korean-Stocks-and-ETFs-to-Stablecoin-Users.jpg"
             },
             {
               "title": "Bitcoin’s new quantum defenses, 18.9M SOL cancelled: Hodler’s Digest",
@@ -261,20 +253,20 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "LayerZero’s ‘Headless Exchange’ Arrives With Citadel, DTCC, and ICE Looking On. The Infrastructure Race Just Got More Crowded.",
-              "description": "LayerZero unveiled ATLAS—Aggregated Trading Liquidity and Settlement—on August 25, 2026, aiming to consolidate the fragmented plumbing of global finance into a single, high-performance architecture. The system leverages the Zero blockchain, a Layer-1 network …",
-              "url": "https://forkast.news/layerzeros-headless-exchange-arrives-with-citadel-dtcc-and-ice-looking-on-the-infrastructure-race-just-got-more-crowded/",
-              "source": "Forkast.news",
-              "published": "2026-08-31T10:27:15Z",
-              "image": "https://forkast.news/wp-content/uploads/2026/08/layerzero-atlas-headless-exchange-hero-1024x687.jpg"
+              "title": "Anthropic has signed a $35bn cloud deal with Nvidia-backed Lambda",
+              "description": "Anthropic has committed $35bn to a cloud provider most people have never heard of, for capacity in a Texas data centre being built by a former bitcoin miner. The Wall Street Journal reported the Lambda agreement on Monday, and Reuters confirmed it with a pers…",
+              "url": "https://thenextweb.com/news/anthropic-lambda-35bn-cloud-deal",
+              "source": "The Next Web",
+              "published": "2026-09-01T07:33:28Z",
+              "image": "https://media.thenextweb.com/2026/08/anthropic-in-house-chip-team-custom-silicon-claude.jpg"
             },
             {
-              "title": "MEXC Launches MEXC Global Card With Up to 10% Cashback and 7% Annualized Returns",
-              "description": "Disclaimer: The below article is sponsored, and the views in it do not represent those of ZyCrypto. Readers should conduct independent research before taking any actions related to the project mentioned in this piece. This article should not be regarded as in…",
-              "url": "https://zycrypto.com/mexc-launches-mexc-global-card-with-up-to-10-cashback-and-7-annualized-returns/",
-              "source": "ZyCrypto",
-              "published": "2026-08-31T10:00:29Z",
-              "image": "https://zycrypto.com/wp-content/uploads/2026/08/MEXC-Launches-MEXC-Global-Card-With-Up-to-10-Cashback-and-7-Annualized-Returns.jpg"
+              "title": "Building a Supply Chain Attack with .NET and NuGet",
+              "description": "Every time npm has a supply chain incident, it’s tempting to think “haha, npm had yet another supply chain attack!” and feel safe in .NET land. But the tools to do the same thing in .NET, or at least similar things, are all there. Module initializers, source …",
+              "url": "https://blog.maartenballiauw.be/posts/2026-09-01-building-a-supply-chain-attack-with-dotnet-and-nuget/",
+              "source": "Maartenballiauw.be",
+              "published": "2026-09-01T06:00:00Z",
+              "image": "https://blog.maartenballiauw.be/posts/2026-09-01-building-a-supply-chain-attack-with-dotnet-and-nuget/index.png"
             },
             {
               "title": "Crypto.com's Cronos Halts Entire Blockchain After $75M Tectonic Exploit",
@@ -283,22 +275,6 @@
               "source": "Decrypt",
               "published": "2026-08-31T09:41:27Z",
               "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Hacker-decrypt-style-02-gID_7.png"
-            },
-            {
-              "title": "Oh Canada: We Will Neither Cower Nor Bend",
-              "description": "More insane idiocy from the petty huckster clown king whose idea of governance is threatening lawsuits, trade wars, buildings that won't put his name on them; bungling war and peace; flaunting Nazi loyalty queries and sadistic images of black men in chains; a…",
-              "url": "https://www.commondreams.org/further/oh-canada-we-will-neither-cower-nor-bend",
-              "source": "Common Dreams",
-              "published": "2026-08-31T05:12:02Z",
-              "image": "https://www.commondreams.org/media-library/meme-from-the-war-between-canada-and-south-canada.jpg?id=67691271&width=1200&height=600&coordinates=187%2C0%2C187%2C0"
-            },
-            {
-              "title": "Crypto stock tokens barely move over weekend, revealing markets become illiquid when Wall Street goes offline",
-              "description": "Four Aerodrome pools showed $6.07 million in displayed liquidity while official Aave V3 records listed none of the B20 assets.\nThe post Crypto stock tokens barely move over weekend, revealing markets become illiquid when Wall Street goes offline appeared firs…",
-              "url": "https://cryptoslate.com/coinbase-stock-tokens-stayed-within-0-6-of-friday-prices-through-the-weekend-as-aave-collateral-remained-pending/",
-              "source": "CryptoSlate",
-              "published": "2026-08-30T11:40:11Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/08/tokenized-stocks-bridge.jpg"
             },
             {
               "title": "AI agents are getting wallets: the Web3 infrastructure behind the machine economy",
