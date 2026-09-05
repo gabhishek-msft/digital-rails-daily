@@ -1,11 +1,19 @@
 {
-  "date": "September 04, 2026",
+  "date": "September 05, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "Eightco Holdings (NASDAQ: ORBS) Reports Total Holdings of Approximately $380 Million, Includes OpenAI, Beast Industries, More Than 16,000 ETH and Nearly 302 Million WLD Tokens",
+          "description": "Eightco treasury composition as of September 2, 2026: $90M OpenAI equity (indirect), $18M Beast Industries equity, 16,278 ETH, nearly 302 million WLD holdings, and $122M cash and equivalents, totaling approximately $380 million Eightco recently repurchased ov…",
+          "url": "https://www.prnewswire.com/news-releases/eightco-holdings-nasdaq-orbs-reports-total-holdings-of-approximately-380-million-includes-openai-beast-industries-more-than-16-000-eth-and-nearly-302-million-wld-tokens-302868387.html",
+          "source": "PRNewswire",
+          "published": "2026-09-03T12:30:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS1980965/A0EF6A59-5686-4B45-AD75-C6E171BC531F.jpg?id=OA2927632&p=facebook"
+        },
         {
           "title": "awesome-web3-security — Updated!",
           "description": "A curated list of Web3 Security materials and resources for Pentesters and Bug Hunters.",
@@ -70,12 +78,12 @@
       "color": "#e6a200",
       "articles": [
         {
-          "title": "Solana’s Transaction V1 goes live on testnet, tripling max transaction size",
-          "description": "Solana's expanded transaction capacity could significantly enhance scalability, enabling more complex applications and improving developer efficiency.\nThe post Solana’s Transaction V1 goes live on testnet, tripling max transaction size appeared first on Crypt…",
-          "url": "https://cryptobriefing.com/solana-transaction-v1-testnet-live/",
+          "title": "USDT transfers surge 438% over three years, led by Polygon and Arbitrum One",
+          "description": "The surge in USDT transfers highlights the growing importance of Layer-2 networks in reducing transaction costs and enhancing crypto liquidity.\nThe post USDT transfers surge 438% over three years, led by Polygon and Arbitrum One appeared first on Crypto Brief…",
+          "url": "https://cryptobriefing.com/usdt-transfers-surge-polygon-arbitrum/",
           "source": "Crypto Briefing",
-          "published": "2026-09-02T18:25:01Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/02142458/library-solana-s-transaction-v1-goes-live-on-testnet-tripling-ma-800x450.png"
+          "published": "2026-09-03T18:48:48Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/03144845/library-usdt-transfers-surge-438-over-three-years-led-by-polygon-800x450.png"
         },
         {
           "title": "Grayscale Research Is Warning of AI-Driven Surveillance Risks on Transparent Blockchains, Says Zcash Will Be Part of the Solution",
@@ -101,12 +109,91 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Standard Chartered launches spot Bitcoin and Ether trading in UAE",
-          "description": "Standard Chartered launches spot Bitcoin and Ether trading for institutional clients in the UAE, claiming it is the first global bank to launch a similar regulated offering.",
-          "url": "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-uae",
+          "title": "Bitcoin Bear Market May Not Be Over Despite August Rally, Fidelity Warns",
+          "description": "Bitcoin’s rally in August has revived optimism for the crypto sector, but Fidelity Digital Assets stated that the rebound from June to mid-August was weak....\nThe post Bitcoin Bear Market May Not Be Over Despite August Rally, Fidelity Warns appeared first on …",
+          "url": "https://bitcoinfoundation.org/news/bitcoin/bitcoin-bear-market-may-not-be-over-despite-august-rally-fidelity-warns/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-09-04T08:57:52Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/Bitcoin-Bear-Market-May-Not-Be-Over-Despite-August-Rally-Fidelity-Warns.webp"
+        },
+        {
+          "title": "Coinbase Launches Regulated Crypto Derivatives with 10 Times Leverage in Canada",
+          "description": "Coinbase, the largest cryptocurrency exchange in the U.S., has announced the launch of regulated crypto derivatives – including futures contracts with up to 10 times leverage – for eligible clients in Canada. The company said the new products are now availabl…",
+          "url": "https://www.naturalnews.com/2026-09-04-coinbase-launches-regulated-crypto-derivatives-in-canada.html",
+          "source": "Naturalnews.com",
+          "published": "2026-09-04T06:00:00Z",
+          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/coinbase-crypto-derivatives-10x-leverage-3876-original.jpg"
+        },
+        {
+          "title": "REC set to debut tokenised corporate bond sale next week, bankers say",
+          "description": "Tokenised bonds are securities ​whose ownership, ‌issuance, trading and settlement are recorded digitally on a blockchain or distributed ledger",
+          "url": "https://www.thehindubusinessline.com/markets/rec-set-to-debut-tokenised-corporate-bond-sale-next-week-bankers-say/article71426936.ece",
+          "source": "BusinessLine",
+          "published": "2026-09-04T04:38:37Z",
+          "image": "https://bl-i.thgim.com/public/incoming/3akgjt/article71427035.ece/alternates/LANDSCAPE_1200/PO02_Archery_percent.jpg"
+        },
+        {
+          "title": "Tether sued over frozen ‘pig butcher’ coins, 6,600 students get crypto loans: Asia Express",
+          "description": "Two Thai businessmen who don’t dispute involvement with a pig butchering scam sue Tether over frozen funds, thousands of Asia students access crypto loans. Asia Express.",
+          "url": "https://cointelegraph.com/magazine/tether-sued-over-frozen-pig-butcher-coins-6600-students-get-crypto-loans-asia-express",
           "source": "Cointelegraph",
-          "published": "2026-09-03T10:15:34Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1KANTKWQNSCNEMJXC5A98C8/hi-crypto-assets-regulation-in-dubai-is-cryptocurrency-regulated-in-uae.jpg"
+          "published": "2026-09-03T23:40:09Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1MT8AVRA0N4FG4HK9PK2CZ5/asia-express-11.jpg"
+        },
+        {
+          "title": "APX Lending Launches Five-Year Bitcoin and Ethereum-Backed Line of Credit, Closing the Gap Between Digital Assets & Traditional Finance",
+          "description": "Canada's first regulated digital-asset-backed lender launches a five-year revolving facility that lets clients borrow against Bitcoin, Ethereum or both, with no origination, prepayment or liquidation fees and up to $250 million in collateral insurance coverag…",
+          "url": "https://www.prnewswire.com/news-releases/apx-lending-launches-five-year-bitcoin-and-ethereum-backed-line-of-credit-closing-the-gap-between-digital-assets--traditional-finance-302869366.html",
+          "source": "PRNewswire",
+          "published": "2026-09-03T18:52:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS1801327/APX-Lending-APX-Lending-Launches-Five-Year-Bitcoin-and-Ethereum.jpg?id=OA2927630&p=facebook"
+        },
+        {
+          "title": "CFTC Advisory Sets Expectations For Tokenized Collateral At Clearinghouses",
+          "description": "Read the latest update on CFTC Advisory Sets Expectations For Tokenized Collateral At Clearinghouses.",
+          "url": "http://www.newsbtc.com/news/cftc-advisory-sets-expectations-for-tokenized-collateral-at-clearinghouses/",
+          "source": "newsBTC",
+          "published": "2026-09-03T18:00:00Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2026/01/01JQ8RR72AHWZB6KJ86MRZYZD9-28.jpg?fit=2560%2C1096"
+        },
+        {
+          "title": "Sebi's Demat 2.0 to debut next week with REC's tokenised bond pilot",
+          "description": "Sebi is set to launch Demat 2.0 next week, with REC expected to issue India's first tokenised bond using CBDC-based settlement",
+          "url": "https://www.business-standard.com/markets/capital-market-news/sebi-s-demat-2-0-to-debut-next-week-with-rec-s-tokenised-bond-pilot-126090301286_1.html",
+          "source": "Business Standard",
+          "published": "2026-09-03T16:52:22Z",
+          "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/20/thumb/fitandfill/1200X628/1787246491-4022.jpg"
+        },
+        {
+          "title": "Citi Marks Live Transactions Using Swift’s Blockchain-Based Ledger",
+          "description": "Citi says it has successfully processed live transactions on Swift’s blockchain-based ledger. The banking giant announced the completion of this effort Thursday (Sept. 3), calling it a “significant milestone in its strategy to deliver always-on, cross-currenc…",
+          "url": "https://www.pymnts.com/blockchain/2026/citi-marks-live-transactions-using-swifts-blockchain-based-ledger/",
+          "source": "pymnts.com",
+          "published": "2026-09-03T16:26:46Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2025/12/Citi-tokenization.png"
+        }
+      ]
+    },
+    "industries": {
+      "title": "Blockchain Beyond Finance",
+      "icon": "🏥",
+      "color": "#00cc88",
+      "articles": [
+        {
+          "title": "Lawmakers Test the Rules for AI Agents That Move Money",
+          "description": "Artificial intelligence (AI) agents, stablecoins and tokenized securities put some of the mechanics of digital finance before lawmakers Wednesday (Sept. 2), including how software-driven transactions will be authorized and settled. At a House Financial Servic…",
+          "url": "https://www.pymnts.com/news/payments-innovation/2026/lawmakers-test-the-rules-for-ai-agents-that-move-money/",
+          "source": "pymnts.com",
+          "published": "2026-09-03T16:06:58Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/01/Congress-Capitol-Hill.jpeg"
+        },
+        {
+          "title": "BitGo Brings Gold, Real Estate And Fine Art Tokenization To Core Chain",
+          "description": "Read the latest update on BitGo Brings Gold, Real Estate And Fine Art Tokenization To Core Chain.",
+          "url": "http://www.newsbtc.com/news/bitgo-brings-gold-real-estate-and-fine-art-tokenization-to-core-chain-2/",
+          "source": "newsBTC",
+          "published": "2026-09-03T15:00:00Z",
+          "image": null
         },
         {
           "title": "HashKey Settlement Platform (HSP) and ONERWAY Announce Strategic Partnership to Shape the Future of On-Chain Payments and Support Cross-Border Commerce Development",
@@ -117,75 +204,12 @@
           "image": "https://mmx.prnewswire.com/media/MS1638114/HashKey-Group-Logo.jpg?id=OA2928043&p=facebook"
         },
         {
-          "title": "Standard Chartered launches institutional spot crypto trading in UAE",
-          "description": "Sept 3 : Standard Chartered said on Thursday it had launched cryptocurrency spot trading in bitcoin and ether for institutional clients in the United Arab Emirates, becoming the first global systemically important bank to offer the service in the Gulf country…",
-          "url": "https://www.channelnewsasia.com/business/standard-chartered-launches-institutional-spot-crypto-trading-in-uae-6360101",
-          "source": "CNA",
-          "published": "2026-09-03T09:03:22Z",
-          "image": "https://dam.mediacorp.sg/image/upload/s--w_n0y10c--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-03T090633Z_3_LYNXMPEM820RB_RTROPTP_3_CRYPTOCURRENCY-EMIRATES-STANCHART.JPG?itok=WQN_Jaiz"
-        },
-        {
-          "title": "SEC Chair Paul Atkins Sees CLARITY Act Advancing as Crucial Senate Vote Nears",
-          "description": "SEC Chairman Paul Atkins said he expected the Digital Asset Market Clarity Act to move forward in September as the Senate prepares to vote on...\nThe post SEC Chair Paul Atkins Sees CLARITY Act Advancing as Crucial Senate Vote Nears appeared first on Bitcoin F…",
-          "url": "https://bitcoinfoundation.org/news/regulation/sec-chair-paul-atkins-sees-clarity-act-advancing-as-crucial-senate-vote-nears/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-09-03T08:59:33Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/SEC-Chair-Paul-Atkins-Sees-CLARITY-Act-Advancing-as-Crucial-Senate-Vote-Nears-2.webp"
-        },
-        {
-          "title": "Explained | What CLARITY Act in the US mean for Indian investors and how it is different from Indian laws",
-          "description": "India's crypto asset regulations focus on strict compliance related to taxation and AML rather than a market regulator. The US Senate's CLARITY Act is poised to clarify legal structures for digital assets, with potential global implications affecting how coun…",
-          "url": "https://www.livemint.com/money/personal-finance/what-clarity-act-in-the-us-mean-for-indian-investors-and-how-it-is-different-from-indian-laws-11788422627189.html",
-          "source": "Livemint",
-          "published": "2026-09-03T08:13:45Z",
-          "image": "https://www.livemint.com/lm-img/img/2026/09/03/1600x900/logo/crypto_1788423026534_1d3942e3-7096-4265-98c6-caffb9935dca_1788423044504_d89b5a75-2822-455d-bb8d-752e360d44b5_8fe3e0fa-a600-4c91-9dff-7056a34c9702_42b339fd-f644-4faa-8c1c-59790a772106.jpg"
-        },
-        {
-          "title": "How stablecoins are quietly becoming the Fed’s debt buyer of last resort",
-          "description": "Dollar tokens can expand private use and Treasury-bill demand without deciding how central banks allocate reserves.\nThe post How stablecoins are quietly becoming the Fed’s debt buyer of last resort appeared first on CryptoSlate.",
-          "url": "https://cryptoslate.com/how-stablecoins-are-quietly-becoming-the-feds-debt-buyer-of-last-resort/",
-          "source": "CryptoSlate",
-          "published": "2026-09-03T02:30:23Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/09/globe-dollar-liquidity.jpg"
-        },
-        {
-          "title": "BlackRock’s Bitcoin ETF barely beat the S&P 500 after putting investors through a 53% crash",
-          "description": "IBIT’s 1.60-point lead masked a maximum decline nearly three times as deep as the S&P 500 fund’s.\nThe post BlackRock’s Bitcoin ETF barely beat the S&P 500 after putting investors through a 53% crash appeared first on CryptoSlate.",
-          "url": "https://cryptoslate.com/blackrocks-bitcoin-etf-barely-beat-the-sp-500-after-putting-investors-through-a-53-crash/",
-          "source": "CryptoSlate",
-          "published": "2026-09-02T22:20:04Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/09/etf-volatility-rollercoaster.jpg"
-        },
-        {
-          "title": "Russia’s New Crypto Framework to be Incepted Today; Here’s What to Expect",
-          "description": "One notable change is Russia’s new cryptocurrency law, set to take effect on September 1, 2026.",
-          "url": "https://zycrypto.com/russias-new-crypto-framework-to-be-incepted-today-heres-what-to-expect/",
-          "source": "ZyCrypto",
-          "published": "2026-09-02T21:07:12Z",
-          "image": "https://zycrypto.com/wp-content/uploads/2022/01/Putin-Not-Going-To-Ban-Bitcoin-In-Russia-As-He-Supports-Proposal-To-Regulate-Crypto-Mining.jpg"
-        }
-      ]
-    },
-    "industries": {
-      "title": "Blockchain Beyond Finance",
-      "icon": "🏥",
-      "color": "#00cc88",
-      "articles": [
-        {
           "title": "Coinbase co-founder joins rush for Venezuelan oil assets under new US-backed framework",
           "description": "Primavera is reportedly negotiating for three fields, but no signed agreement or transfer has been announced.\nThe post Coinbase co-founder joins rush for Venezuelan oil assets under new US-backed framework appeared first on CryptoSlate.",
           "url": "https://cryptoslate.com/coinbase-co-founder-joins-rush-for-venezuelan-oil-assets-under-new-us-backed-framework/",
           "source": "CryptoSlate",
           "published": "2026-09-03T03:50:38Z",
           "image": "https://cryptoslate.com/wp-content/uploads/2026/09/ehrsam-venezuela-field-map.jpg"
-        },
-        {
-          "title": "Citi’s Services Business Pioneers Live Transactions on Swift’s Ledger, Collaborating with FAB and OCBC to Redefine Always-On Global Payments",
-          "description": "DBS and UOB Set to Join Initiative, Expanding Always-On Payment Capabilities Citi, First Abu Dhabi Bank (FAB) and Oversea-Chinese Banking Corporation (OCBC) are the first to conduct live transactions in USD in the Middle East and Southeast Asia regions, respe…",
-          "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/citis-services-business-pioneers-live-transactions-on-swifts-ledger-collaborating-with-fab-and-ocbc-to-redefine-always-on-global-payments",
-          "source": "Financial Post",
-          "published": "2026-09-02T19:52:34Z",
-          "image": null
         },
         {
           "title": "Four Leaf Acquisition and Data443 Advance Business Combination Toward Planned Nasdaq Listing",
@@ -204,28 +228,12 @@
           "image": null
         },
         {
-          "title": "Broadridge Brings G7 Securities to Institutional Tokenized Repo",
-          "description": "Broadridge's Distributed Ledger Repo solution expands cross-border atomic settlement and collateral mobility across G7 securities for global financing and collateral markets NEW YORK, Sept. 2, 2026 /PRNewswire/ -- Broadridge Financial Solutions, Inc., (NYSE: …",
-          "url": "https://www.prnewswire.com/news-releases/broadridge-brings-g7-securities-to-institutional-tokenized-repo-302867070.html",
-          "source": "PRNewswire",
-          "published": "2026-09-02T06:00:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS242893/Broadridge-2023-Logo.jpg?id=OA2923517&p=facebook"
-        },
-        {
           "title": "Trusted collaboration mechanism of blockchain and smart contracts in the circular economy supply chain",
           "description": "Scientific Reports - Trusted collaboration mechanism of blockchain and smart contracts in the circular economy supply chain",
           "url": "https://www.nature.com/articles/s41598-026-68717-x.pdf",
           "source": "Nature.com",
           "published": "2026-09-02T00:00:00Z",
           "image": null
-        },
-        {
-          "title": "Federated Hermes enters strategic alliance with Conduit Digital Holdings on tokenized money market fund in Asia Pacific",
-          "description": "Builds on over 50-years of money markets innovation Further evidence of commitment to evolving Digital Assets Product and Strategy Continues growth of APAC product offering following recent announcement of Hong Kong expansion plans PITTSBURGH, Sept. 1, 2026 /…",
-          "url": "https://www.prnewswire.com/news-releases/federated-hermes-enters-strategic-alliance-with-conduit-digital-holdings-on-tokenized-money-market-fund-in-asia-pacific-302866801.html",
-          "source": "PRNewswire",
-          "published": "2026-09-01T20:22:00Z",
-          "image": "https://mma.prnewswire.com/media/1084941/Federated_Hermes_Logo.jpg?p=facebook"
         },
         {
           "title": "Is MEDVi a Scam? What You Need to Know Before Using MEDVi",
@@ -245,19 +253,44 @@
         "startups": {
           "title": "Startups",
           "icon": "💡",
-          "articles": []
+          "articles": [
+            {
+              "title": "Todays Cryptogram",
+              "description": "Hiya kids! Hiya, Hiya!Good Morning Crypto-FReepers.I see some of the same old faces out there.But that's OK - I like you anyway.Today's quote is well worth learning and keeping in mind for all of today's issues. Froggy's dear wife found this quote while Frogg…",
+              "url": "https://freerepublic.com/focus/f-chat/4394194/posts",
+              "source": "Freerepublic.com",
+              "published": "2026-09-04T09:53:24Z",
+              "image": null
+            },
+            {
+              "title": "Bitcoin just crossed the line that ended 4 out of 5 bear markets, but one deadly historical trap could still trigger a crash to $62,000",
+              "description": "Bitcoin registered an intraday high above $82,000 on Sept. 3, pushing above the 50-week moving average that Galaxy Research says marked the definitive end of four of Bitcoin's five comparable completed bear markets. Galaxy's signal requires a weekly close abo…",
+              "url": "https://cryptoslate.com/bitcoin-just-crossed-the-line-that-ended-4-out-of-5-bear-markets-but-one-deadly-historical-trap-could-still-trigger-a-crash-to-62000/",
+              "source": "CryptoSlate",
+              "published": "2026-09-04T09:50:34Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-ridge-reclaim.jpg"
+            },
+            {
+              "title": "After selling every coin it owned, a public company is using Strategy’s STRC playbook to restart its $827M Bitcoin treasury plan",
+              "description": "The existing order no longer restrains the company, while its proposed first raise covers just 1.51% of an $827 million Bitcoin target before allocation.\nThe post After selling every coin it owned, a public company is using Strategy’s STRC playbook to restart…",
+              "url": "https://cryptoslate.com/after-selling-every-coin-it-owned-a-public-company-is-using-strategys-strc-playbook-to-restart-its-827m-bitcoin-treasury-plan/",
+              "source": "CryptoSlate",
+              "published": "2026-09-04T06:30:03Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/09/vacated-bitcoin-bridge-.jpg"
+            }
+          ]
         },
         "hyperscalers": {
           "title": "Hyperscalers",
           "icon": "☁️",
           "articles": [
             {
-              "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
-              "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added seven security flaws to its Known Exploited Vulnerabilities (KEV) catalog after they landed in attackers' crosshairs.\n\nThe vulnerabilities are as follows -\n\n\n CVE-2026-83548 (…",
-              "url": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
-              "source": "Internet",
-              "published": "2026-09-03T05:19:04Z",
-              "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaGEC2JQn3dU5muXzZhp9ouduHJ5hE4vWW4zHDomXp7hJ3hHafGPmMU33aKs7A8dwhvqsMiwh8PNi4GUNzH635enPZT3oPdcZejqkA9vpPYbQTLZaAhzAVAuUFksC4mCNX6SRUzUx1vhSxokKBz9RBGXXOBJshSXfYLIox2OCi2htQdcmyDJDMvWTamC8/s1700-nu-rw-lo-l85-e365/cisa.jpg"
+              "title": "From One Corridor to Many: Indonesia as the Blueprint for Asia’s Stablecoin Future",
+              "description": "Across Asia, issuers are bringing local currencies onchain, regulators are establishing digital asset frameworks, and financial institutions are exploring stablecoins for payments, treasury, and cross-border settlement. Issuance, however, is only the first la…",
+              "url": "https://thenextweb.com/news/indonesia-local-currency-stablecoins-asia-corridor",
+              "source": "The Next Web",
+              "published": "2026-09-03T14:00:42Z",
+              "image": "https://media.thenextweb.com/2026/09/jakarta-skyline-sunrise-stablecoin-corridor.jpg"
             },
             {
               "title": "Wyoming adds Chainlink reserve verification to state-issued stable token",
@@ -268,36 +301,12 @@
               "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HMS4JRWZ5GYFS8E74WQ8XR/hi-wyoming-crypto.jpg"
             },
             {
-              "title": "Arbitrum Foundation Reports First Half 2026 Progress Update",
-              "description": "The network processed 478 million transactions in the half, taking its lifetime total to 2.7 billion, with ecosystem GDP of $206 million for the period and $1.7 billion cumulative since launch Average monthly stablecoin transfer volume exceeded $70 billion an…",
-              "url": "https://www.prnewswire.com/news-releases/arbitrum-foundation-reports-first-half-2026-progress-update-302866991.html",
-              "source": "PRNewswire",
-              "published": "2026-09-02T16:00:00Z",
-              "image": "https://mmx.prnewswire.com/media/MS1032686/Arbitrum-Foundation-v2-Logo.jpg?id=OA2924659&p=facebook"
-            },
-            {
-              "title": "Sui DeFi protocol Full Sail to wind down after Switchboard incident",
-              "description": "Sui-based protocol Full Sail is shutting down after a suspected oracle compromise involving Switchboard and has pledged its remaining liquidity to compensate users.",
-              "url": "https://cointelegraph.com/news/full-sail-sui-wind-down-switchboard-incident",
-              "source": "Cointelegraph",
-              "published": "2026-09-02T13:40:03Z",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1H2YME5WK16MEE643RQSSVQ/layoffs-fired-human-resource-hr-leaving-quit-closing-breaking-news-3.jpg"
-            },
-            {
               "title": "Startups want to rent your idle gaming PC for AI tasks — Startups pitch an 'Airbnb for AI inference,' but profitability remains unproven",
               "description": "If your gaming rig spends most of its life doing nothing, a pair of startups would be willing to pay you something close to minimum wage for its downtime",
               "url": "https://www.tomshardware.com/pc-components/gpus/startups-pitch-an-airbnb-for-ai-inference-that-pays-gamers-for-their-idle-pcs",
               "source": "Tom's Hardware UK",
               "published": "2026-09-02T11:00:00Z",
               "image": "https://cdn.mos.cms.futurecdn.net/ZnmibWeDaW8opTxR9rVBfE-2560-80.jpg"
-            },
-            {
-              "title": "Fake Claude Opus 5 app delivers malware and wipes its own tracks",
-              "description": "A malicious GitHub repository impersonating Anthropic and claiming to offer free access to “Claude Opus 5” is delivering RevStealer, Windows information-stealing malware that targets passwords, cryptocurrency wallet data and login credentials, according to Mo…",
-              "url": "https://www.helpnetsecurity.com/2026/09/01/revstealer-malware-claude-opus-5-github/",
-              "source": "Help Net Security",
-              "published": "2026-09-01T12:21:35Z",
-              "image": "https://img.helpnetsecurity.com/wp-content/uploads/2026/05/06084922/malware-website.webp"
             },
             {
               "title": "Building a Supply Chain Attack with .NET and NuGet",
