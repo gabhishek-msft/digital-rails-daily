@@ -1,5 +1,5 @@
 {
-  "date": "September 06, 2026",
+  "date": "September 07, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -78,6 +78,14 @@
       "color": "#e6a200",
       "articles": [
         {
+          "title": "Where Google Wallet state IDs are available on Android",
+          "description": "States across the US are slowly rolling out support for adding your driver’s license or ID to the Google Wallet app on Android.\n\n\n\n more…",
+          "url": "http://9to5google.com/2026/09/05/google-wallet-state-ids/",
+          "source": "9to5google.com",
+          "published": "2026-09-05T18:31:00Z",
+          "image": "https://9to5google.com/wp-content/uploads/sites/4/2023/03/google-wallet-logo-circle-2.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
           "title": "Zero-knowledge apps go dark after chain upgrade breaks their underlying verification keys",
           "description": "Transactions stop at 10:00 UTC, while deployed applications must replace verification keys before proof-authorized activity can resume.\nThe post Zero-knowledge apps go dark after chain upgrade breaks their underlying verification keys appeared first on Crypto…",
           "url": "https://cryptoslate.com/zero-knowledge-apps-go-dark-after-chain-upgrade-breaks-their-underlying-verification-keys/",
@@ -117,6 +125,54 @@
       "color": "#00a4ef",
       "articles": [
         {
+          "title": "Strategy and Robinhood now lead a $4.5 billion large-cap ETF that was not built for crypto",
+          "description": "Their 6.01% combined weight shows how crypto-linked volatility can reach a generalist stock portfolio.\nThe post Strategy and Robinhood now lead a $4.5 billion large-cap ETF that was not built for crypto appeared first on CryptoSlate.",
+          "url": "https://cryptoslate.com/strategy-and-robinhood-now-lead-a-4-5-billion-large-cap-etf-that-was-not-built-for-crypto/",
+          "source": "CryptoSlate",
+          "published": "2026-09-06T10:00:43Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/09/crypto-road-mainstream-etf.jpg"
+        },
+        {
+          "title": "Tether-backed Orionx to shut down after audit flags $7M custody gap",
+          "description": "Orionx, backed by Tether in 2025, is winding down after an audit found asset gaps and the exchange filed a criminal complaint against former executives.",
+          "url": "https://cointelegraph.com/news/orionx-shut-down-7-million-move-outside-wallets",
+          "source": "Cointelegraph",
+          "published": "2026-09-06T09:07:08Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1TTSPPYA631ETX2200VF1YM/orionx1.png"
+        },
+        {
+          "title": "Crypto Industry’s CLARITY Act Faces Major Setback",
+          "description": "The House is cutting its September schedule to just four voting days, leaving the crypto industry’s biggest remaining legislative priority with almost no time to clear Congress before the midterm elections.",
+          "url": "https://gizmodo.com/crypto-industrys-clarity-act-faces-major-setback-2000807516",
+          "source": "Gizmodo.com",
+          "published": "2026-09-05T17:38:17Z",
+          "image": "https://gizmodo.com/app/uploads/2026/08/USCapitolBuilding-1200x675.jpg"
+        },
+        {
+          "title": "Fed stablecoin research exposes how the same dollar could count twice in M1 or M2",
+          "description": "Their staff note makes classification possible in theory, while reserve overlap and offshore circulation block a clean liquidity measure.\nThe post Fed stablecoin research exposes how the same dollar could count twice in M1 or M2 appeared first on CryptoSlate.",
+          "url": "https://cryptoslate.com/fed-economists-stablecoin-research-exposes-how-the-same-dollar-could-count-twice-in-m1-or-m2/",
+          "source": "CryptoSlate",
+          "published": "2026-09-05T16:45:23Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/09/fed-stablecoin-money-pipes.jpg"
+        },
+        {
+          "title": "CZ Says These 7 Crypto Investments from YZi Labs Will Perform Best",
+          "description": "CZ expects the YZi Labs deals struck during the crypto winter to perform best. Here is what the fund actually bought.",
+          "url": "https://beincrypto.com/cz-yzi-labs-crypto-winter-investments/",
+          "source": "BeInCrypto",
+          "published": "2026-09-05T14:00:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/2a3e9ac383a99e0b7241950d34a2ecf74f2c231973140be60dc0af5cb05c8b4d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F849505749e7a32dcab8186e5698380cd.png"
+        },
+        {
+          "title": "BitMEX sale collapsed as buyers balked at founder ownership and shrinking business",
+          "description": "Potential buyers, including Exodus, passed on BitMEX amid concerns over founder ownership and its shrinking business, according to a source familiar. Before once-popular crypto exchange BitMEX announced plans to wind down operations, it spent two years explor…",
+          "url": "https://www.activistpost.com/bitmex-sale-collapsed-as-buyers-balked-at-founder-ownership-and-shrinking-business/",
+          "source": "Activistpost.com",
+          "published": "2026-09-05T13:29:28Z",
+          "image": null
+        },
+        {
           "title": "Trump Family’s Crypto Bank Gains OCC Approval with Sheikh al Nahyan as Largest Shareholder",
           "description": "The Office of the Comptroller of the Currency (OCC) has granted preliminary approval to World Liberty Financial (WLF) for a national trust bank charter, according to people familiar with the matter. The new institution will issue the stablecoin USD1, consolid…",
           "url": "https://www.naturalnews.com/2026-09-05-trump-family-crypto-bank-gains-occ-approval.html",
@@ -125,60 +181,12 @@
           "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/world-liberty-financial-occ-approval-stablecoin-usd1-3849-original_853985315.jpg"
         },
         {
-          "title": "Weekly Wrap: Bitcoin’s Win Streak Continues",
-          "description": "Bitcoin’s (CRYPTO: $BTC) win streak continued for a third consecutive week as the cryptocurrency’s pric...",
-          "url": "https://www.cryptoprowl.com/releases/weekly-wrap-bitcoins-win-streak-continues-6730",
-          "source": "Cryptoprowl.com",
-          "published": "2026-09-04T19:25:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/d93e50c4a9a5b9a1dd0d164440a63c379b02af32de4761fd2f8c39519c74bfc2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F80a3c6958634409ffc4b1d746efb7c7a.jpg"
-        },
-        {
-          "title": "SpaceTrade rebrands to simplify crypto, broaden access to digital assets",
-          "description": "LAGOS — SpaceTrade Technologies has unveiled a new brand identity and headquarters in Lagos, saying the rebranding is aimed at making cryptocurrency trading more accessible and expanding its focus beyond crypto exchange. The company unveiled the new identity …",
-          "url": "https://www.vanguardngr.com/2026/09/spacetrade-rebrands-to-simplify-crypto-broaden-access-to-digital-assets/",
-          "source": "Vanguard",
-          "published": "2026-09-04T17:31:00Z",
-          "image": "https://cdn.vanguardngr.com/wp-content/uploads/2026/09/Spacetrade.png"
-        },
-        {
-          "title": "Crypto Biz: AI took a back seat when Bitcoin started climbing",
-          "description": "Corporate crypto bets are getting bigger as rising markets reward direct exposure, putting balance-sheet strategies and institutional adoption back in focus.",
-          "url": "https://cointelegraph.com/news/crypto-biz-bitcoin-miners-strategy-strive-bitmine-stablecoins",
-          "source": "Cointelegraph",
-          "published": "2026-09-04T17:22:58Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1PQ0H0YWX9P513482DDRDG2/a-lot-of-hands-of-shiva-office-coins2.jpg"
-        },
-        {
-          "title": "Bitcoin ETFs post best day in 9 months as price hits $82,000",
-          "description": "Bitcoin ETF inflows hit nearly $731 million, with BlackRock leading demand.",
-          "url": "https://www.thestreet.com/crypto/markets/bitcoin-etfs-post-best-day-in-9-months-as-price-hits-82000",
-          "source": "TheStreet",
-          "published": "2026-09-04T15:54:46Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/bbeaadc880cf440da49939292eefc6a69f605c1e9530668c1af2baac5121c851/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F9bb1d09f11ee13ab2cbcc413faeaaedc.jpg"
-        },
-        {
           "title": "FEDS Note: New Forms of Money and the U.S. Monetary Aggregates",
           "description": "Kristen Payne and Mary-Frances StyczynskiThe money supply is defined as a group of safe assets with stable values that households and businesses can use to make payments or to hold as short-term investments. In the U.S., the Federal Reserve measures the money…",
           "url": "https://www.federalreserve.gov/econres/notes/feds-notes/new-forms-of-money-and-the-u-s-monetary-aggregates-20260904.html",
           "source": "Federalreserve.gov",
           "published": "2026-09-04T14:25:00Z",
           "image": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg"
-        },
-        {
-          "title": "South Korea To Launch Tokenized Securities Market In Early 2027",
-          "description": "South Korea is planning to launch a tokenized securities market encompassing stocks, bonds, and exchange-traded fun...",
-          "url": "https://www.cryptoprowl.com/releases/south-korea-to-launch-tokenized-securities-market-in-early-2027-6710",
-          "source": "Cryptoprowl.com",
-          "published": "2026-09-04T13:56:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/d6787032181c854f626b28e68275b4996fe365ae98d2dafd59b74ccb46b6cf4f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F5071ca9605d9ad8da8bd5bc2535d58d3.jpg"
-        },
-        {
-          "title": "Top Crypto Market Makers: Leading Crypto Market Making Companies in 2026",
-          "description": "Crypto market making is the practice of providing continuously buy and/or sell liquidity to a digital asset’s order book by placing limit orders at pre-defined...\nThe post Top Crypto Market Makers: Leading Crypto Market Making Companies in 2026 appeared first…",
-          "url": "https://bitcoinfoundation.org/news/companies/best-crypto-market-makers/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-09-04T11:27:50Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/Top-Crypto-Market-Makers-Leading-Crypto-Market-Making-Companies-in-2026-2.webp"
         }
       ]
     },
@@ -204,28 +212,12 @@
           "image": "https://www.pymnts.com/wp-content/uploads/2026/05/cryptocurrency-bitcoin-blockchain.jpeg"
         },
         {
-          "title": "Remixpoint Dumps $5.5M of Altcoins for Bitcoin: Why Japanese Company Went BTC-Only",
-          "description": "Japanese-listed Remixpoint has disposed of its altcoins. The company sold approximately $5.5 million worth of Ethereum, Solana, XRP, and Dogecoin, leaving Bitcoin as the only...\nThe post Remixpoint Dumps $5.5M of Altcoins for Bitcoin: Why Japanese Company Wen…",
-          "url": "https://bitcoinfoundation.org/news/trading/remixpoint-dumps-altcoins-for-bitcoin/",
+          "title": "Who Will Win the Stablecoin Infrastructure Race? Companies Building the Future of Digital Payments",
+          "description": "The stablecoin infrastructure race is shaping up to be one of the most interesting competitions in the global payments space. Stablecoins no longer sit on...\nThe post Who Will Win the Stablecoin Infrastructure Race? Companies Building the Future of Digital Pa…",
+          "url": "https://bitcoinfoundation.org/news/stablecoins/stablecoin-infrastructure-race/",
           "source": "Bitcoinfoundation.org",
-          "published": "2026-09-04T16:02:01Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/rem-1.webp"
-        },
-        {
-          "title": "CoinRabbit Wins “Best Crypto Lending Platform 2026” Award from International Business Magazine",
-          "description": "Toronto, Canada, 4th September 2026, Chainwire\nThe post CoinRabbit Wins “Best Crypto Lending Platform 2026” Award from International Business Magazine appeared first on The Daily Hodl.",
-          "url": "https://dailyhodl.com/2026/09/04/coinrabbit-wins-best-crypto-lending-platform-2026-award-from-international-business-magazine/",
-          "source": "The Daily Hodl",
-          "published": "2026-09-04T15:56:36Z",
-          "image": "https://dailyhodl.com/wp-content/uploads/2026/09/Expert_Post_01_1788518964lyBf4OzNjg.jpg?resize=1200,720"
-        },
-        {
-          "title": "Why GENIUS could leave digital dollars vulnerable to sudden blockchain network ‘bank runs’",
-          "description": "A Federal Reserve staff paper shows how congestion and weak network effects can push holders toward redemptions or chain migration even with safe backing.\nThe post Why GENIUS could leave digital dollars vulnerable to sudden blockchain network ‘bank runs’ appe…",
-          "url": "https://cryptoslate.com/why-genius-could-leave-digital-dollars-vulnerable-to-sudden-blockchain-network-bank-runs/",
-          "source": "CryptoSlate",
-          "published": "2026-09-04T15:30:13Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/09/ethereum-fee-turnstile.jpg"
+          "published": "2026-09-02T19:34:40Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/sir-1.webp"
         },
         {
           "title": "Four Leaf Acquisition and Data443 Advance Business Combination Toward Planned Nasdaq Listing",
@@ -250,6 +242,22 @@
           "source": "PRNewswire",
           "published": "2026-09-02T06:00:00Z",
           "image": "https://mmx.prnewswire.com/media/MS242893/Broadridge-2023-Logo.jpg?id=OA2923517&p=facebook"
+        },
+        {
+          "title": "Trusted collaboration mechanism of blockchain and smart contracts in the circular economy supply chain",
+          "description": "Scientific Reports - Trusted collaboration mechanism of blockchain and smart contracts in the circular economy supply chain",
+          "url": "https://www.nature.com/articles/s41598-026-68717-x.pdf",
+          "source": "Nature.com",
+          "published": "2026-09-02T00:00:00Z",
+          "image": null
+        },
+        {
+          "title": "Is MEDVi a Scam? What You Need to Know Before Using MEDVi",
+          "description": "Is MEDVi scam or not? This is a question traders started asking after a company with the same name made global headlines. MEDVi seems to...\nThe post Is MEDVi a Scam? What You Need to Know Before Using MEDVi appeared first on Bitcoin Foundation.",
+          "url": "https://bitcoinfoundation.org/news/security/is-medvi-a-scam/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-09-01T10:25:19Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/med-1.webp"
         }
       ]
     },
@@ -261,37 +269,20 @@
         "startups": {
           "title": "Startups",
           "icon": "💡",
-          "articles": [
-            {
-              "title": "Southeast Asia’s crypto funding rebounds to $680 million as investors focus on mature firms",
-              "description": "Vercel Security Checkpoint\ncle1::1788585097-UwRILppxpGlQEnJMlxhNb6fDDk57M46u",
-              "url": "https://biztoc.com/x/b06e13735783739c",
-              "source": "Biztoc.com",
-              "published": "2026-09-05T05:11:37Z",
-              "image": "https://biztoc.com/cdn/b06e13735783739c_s.webp"
-            },
-            {
-              "title": "Crypto CEO Chris Larsen Donates $500,000 to Support Political Moderate in Supervisors Race",
-              "description": "The donation supports moderate Democrat Theo Ellington’s bid to replace progressive supervisor Shamann Walton in November.",
-              "url": "https://www.kqed.org/news/12098461/crypto-ceo-chris-larsen-donates-500000-to-support-political-moderate-in-supervisors-race",
-              "source": "KQED",
-              "published": "2026-09-04T23:23:25Z",
-              "image": "https://cdn.kqed.org/wp-content/uploads/sites/10/2026/04/230808-SanFranciscoCityHall-18-BL_qed.jpg"
-            },
-            {
-              "title": "El Salvador added 1,540 Bitcoin, but the IMF says Bukele’s government didn’t pay for them",
-              "description": "A new IMF disclosure says no public resources funded the accumulation since its first review, exposing a gap in the country's one-Bitcoin-a-day message.\nThe post El Salvador added 1,540 Bitcoin, but the IMF says Bukele’s government didn’t pay for them appeare…",
-              "url": "https://cryptoslate.com/el-salvador-added-1540-bitcoin-but-the-imf-says-bukeles-government-didnt-pay-for-them/",
-              "source": "CryptoSlate",
-              "published": "2026-09-04T23:15:02Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-donation-reservoir.jpg"
-            }
-          ]
+          "articles": []
         },
         "hyperscalers": {
           "title": "Hyperscalers",
           "icon": "☁️",
           "articles": [
+            {
+              "title": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner",
+              "description": "Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the stealer deletes itself.\n\nOne of them switches off Windows Update and Mic…",
+              "url": "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html",
+              "source": "Internet",
+              "published": "2026-09-06T08:34:20Z",
+              "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpRcdfXd6kYnqLLWSFdzGKICUzSr90MsV2f3PXtw8VDVcT-xOP2w4HwnVzrRI4bdJqhboQMFIm9BZ393b89IOqgYx-VVmb_B8-XJCsZ9SAIymdlBpEf5ARizHvn32t8Mr9stzV6nMVcn3utUYI1xSRxhaC29QZjS-C3haNSRPfQI_eBYzXCrwn5rl18Nw/s1700-nu-rw-lo-l85-e365/rev.jpg"
+            },
             {
               "title": "Crypto Traders Are Pairing Meme Coins With Stocks on Robinhood—And It's Working (Sort Of)",
               "description": "A meme coin called BONER cornered half of Hims & Hers Health's tokenized shares on Robinhood's new blockchain. It started a new trend that's spreading fast.",
