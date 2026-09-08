@@ -1,11 +1,19 @@
 {
-  "date": "September 07, 2026",
+  "date": "September 08, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "Injective to enable native privacy features in upcoming updates",
+          "description": "Injective's privacy initiative could redefine blockchain's role in institutional finance, balancing confidentiality with regulatory compliance.\nThe post Injective to enable native privacy features in upcoming updates appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/injective-native-privacy-features-update/",
+          "source": "Crypto Briefing",
+          "published": "2026-09-06T18:37:35Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/06143731/library-injective-to-enable-native-privacy-features-in-upcoming--800x450.png"
+        },
         {
           "title": "Eightco Holdings (NASDAQ: ORBS) Reports Total Holdings of Approximately $380 Million, Includes OpenAI, Beast Industries, More Than 16,000 ETH and Nearly 302 Million WLD Tokens",
           "description": "Eightco treasury composition as of September 2, 2026: $90M OpenAI equity (indirect), $18M Beast Industries equity, 16,278 ETH, nearly 302 million WLD holdings, and $122M cash and equivalents, totaling approximately $380 million Eightco recently repurchased ov…",
@@ -53,22 +61,6 @@
           "source": "Bitcoinist",
           "published": "2026-09-02T07:45:00Z",
           "image": "https://bitcoinist.com/wp-content/uploads/2026/06/bitcoinist_arbitrum_foundation_funding_clean.jpg"
-        },
-        {
-          "title": "Chainlink partners with US Department of Commerce to bring macroeconomic data onchain",
-          "description": "This collaboration could enhance transparency and trust in economic data, potentially transforming how financial markets and DeFi ecosystems operate.\nThe post Chainlink partners with US Department of Commerce to bring macroeconomic data onchain appeared first…",
-          "url": "https://cryptobriefing.com/chainlink-commerce-department-macroeconomic-data-onchain/",
-          "source": "Crypto Briefing",
-          "published": "2026-09-01T15:10:46Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/01111042/library-chainlink-partners-with-us-department-of-commerce-to-bri-800x450.png"
-        },
-        {
-          "title": "Arbitrum (ARB) Jumps 35%: Robinhood’s Billion-Dollar Chain Could Change the Token’s Outlook",
-          "description": "Arbitrum network is making a comeback on the cryptocurrency market as ARB jumped over 35% from its recent low. The token’s price is nearing $...\nThe post Arbitrum (ARB) Jumps 35%: Robinhood’s Billion-Dollar Chain Could Change the Token’s Outlook appeared firs…",
-          "url": "https://bitcoinfoundation.org/news/altcoins/arbitrum-arb-jumps-35-robinhoods-billion-dollar-chain-could-change-the-tokens-outlook/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-09-01T10:55:08Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/ARB1-1.webp"
         }
       ]
     },
@@ -102,20 +94,20 @@
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/03144845/library-usdt-transfers-surge-438-over-three-years-led-by-polygon-800x450.png"
         },
         {
+          "title": "LayerZero announces plans to rebuild blockchain architecture with new Layer-1 called Zero",
+          "description": "Zero's innovative architecture could revolutionize blockchain scalability and efficiency, potentially reshaping financial transaction processing globally.\nThe post LayerZero announces plans to rebuild blockchain architecture with new Layer-1 called Zero appea…",
+          "url": "https://cryptobriefing.com/layerzero-zero-layer-1-blockchain-architecture/",
+          "source": "Crypto Briefing",
+          "published": "2026-09-03T13:03:51Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/03090348/library-layerzero-announces-plans-to-rebuild-blockchain-architec-800x450.png"
+        },
+        {
           "title": "Grayscale Research Is Warning of AI-Driven Surveillance Risks on Transparent Blockchains, Says Zcash Will Be Part of the Solution",
           "description": "Grayscale Research argues that artificial intelligence is creating new threats to financial privacy on public blockchains like Bitcoin, positioning Zcash's shielded zero-knowledge transactions as an essential solution in a third wave of privacy focus.\nThe pos…",
           "url": "https://dailyhodl.com/2026/09/02/grayscale-research-is-warning-of-ai-driven-surveillance-risks-on-transparent-blockchains-says-zcash-will-be-part-of-the-solution/",
           "source": "The Daily Hodl",
           "published": "2026-09-02T16:55:04Z",
           "image": "https://dailyhodl.com/wp-content/uploads/2025/09/Altcoins-Could-Be-Gearing.jpg?resize=1365,800"
-        },
-        {
-          "title": "Zcash private transactions set to drop wait times to under 200 milliseconds",
-          "description": "The significant reduction in transaction wait times enhances user experience and positions Zcash for broader adoption in privacy-focused payments.\nThe post Zcash private transactions set to drop wait times to under 200 milliseconds appeared first on Crypto Br…",
-          "url": "https://cryptobriefing.com/zcash-private-transactions-200-milliseconds/",
-          "source": "Crypto Briefing",
-          "published": "2026-08-31T05:38:14Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/08/31013811/library-zcash-private-transactions-set-to-drop-wait-times-to-und-800x450.png"
         }
       ]
     },
@@ -125,60 +117,52 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Strategy and Robinhood now lead a $4.5 billion large-cap ETF that was not built for crypto",
-          "description": "Their 6.01% combined weight shows how crypto-linked volatility can reach a generalist stock portfolio.\nThe post Strategy and Robinhood now lead a $4.5 billion large-cap ETF that was not built for crypto appeared first on CryptoSlate.",
-          "url": "https://cryptoslate.com/strategy-and-robinhood-now-lead-a-4-5-billion-large-cap-etf-that-was-not-built-for-crypto/",
-          "source": "CryptoSlate",
-          "published": "2026-09-06T10:00:43Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/09/crypto-road-mainstream-etf.jpg"
+          "title": "KuCoin Launches KCUSD to Unlock Greater Capital Efficiency for Stablecoin Holders",
+          "description": "PROVIDENCIALES, Turks and Caicos Islands, Sept. 7, 2026 /PRNewswire/ -- KuCoin, a leading global crypto platform built on trust, today announced the launch of KCUSD, an Earn product with daily yields supported by real-world assets, designed to turn idle stabl…",
+          "url": "https://www.prnewswire.com/news-releases/kucoin-launches-kcusd-to-unlock-greater-capital-efficiency-for-stablecoin-holders-302869910.html",
+          "source": "PRNewswire",
+          "published": "2026-09-07T10:00:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS1981726/20260903233415EDT_image_1.jpg?id=OA2930047&p=facebook"
         },
         {
-          "title": "Tether-backed Orionx to shut down after audit flags $7M custody gap",
-          "description": "Orionx, backed by Tether in 2025, is winding down after an audit found asset gaps and the exchange filed a criminal complaint against former executives.",
-          "url": "https://cointelegraph.com/news/orionx-shut-down-7-million-move-outside-wallets",
-          "source": "Cointelegraph",
-          "published": "2026-09-06T09:07:08Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1TTSPPYA631ETX2200VF1YM/orionx1.png"
+          "title": "Brad Garlinghouse Says US Crypto Capital Is “Within Reach”: Is the CLARITY Act About to Change Crypto Forever?",
+          "description": "Ripple CEO Brad Garlinghouse also predicted the U.S. will likely become the crypto capital of the world as Washington pushes harder to regulate digital assets,...\nThe post Brad Garlinghouse Says US Crypto Capital Is “Within Reach”: Is the CLARITY Act About to…",
+          "url": "https://bitcoinfoundation.org/news/analysis/brad-garlinghouse-says-us-crypto-capital-is-within-reach-is-the-clarity-act-about-to-change-crypto-forever/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-09-07T09:27:08Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/Brad-Garlinghouse-Says-US-Crypto-Capital-Is-Within-Reach-Is-the-CLARITY-Act-About-to-Change-Crypto-Forever-2-1788770046.webp"
         },
         {
-          "title": "Crypto Industry’s CLARITY Act Faces Major Setback",
-          "description": "The House is cutting its September schedule to just four voting days, leaving the crypto industry’s biggest remaining legislative priority with almost no time to clear Congress before the midterm elections.",
-          "url": "https://gizmodo.com/crypto-industrys-clarity-act-faces-major-setback-2000807516",
-          "source": "Gizmodo.com",
-          "published": "2026-09-05T17:38:17Z",
-          "image": "https://gizmodo.com/app/uploads/2026/08/USCapitolBuilding-1200x675.jpg"
+          "title": "House Cuts Voting Days as Crypto Bill Faces Senate Test",
+          "description": "Washington just sped up the clock on crypto regulation. And it could make the prospect of getting anything signed into law this year a ticking time bomb. House Republican leaders have canceled voting sessions for the final two weeks of September, removing eig…",
+          "url": "https://www.pymnts.com/cryptocurrency/2026/house-cuts-voting-days-as-crypto-bill-faces-senate-test/",
+          "source": "pymnts.com",
+          "published": "2026-09-07T08:01:24Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/08/CLARITY-Act-US-capitol-1.jpg"
         },
         {
-          "title": "Fed stablecoin research exposes how the same dollar could count twice in M1 or M2",
-          "description": "Their staff note makes classification possible in theory, while reserve overlap and offshore circulation block a clean liquidity measure.\nThe post Fed stablecoin research exposes how the same dollar could count twice in M1 or M2 appeared first on CryptoSlate.",
-          "url": "https://cryptoslate.com/fed-economists-stablecoin-research-exposes-how-the-same-dollar-could-count-twice-in-m1-or-m2/",
-          "source": "CryptoSlate",
-          "published": "2026-09-05T16:45:23Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/09/fed-stablecoin-money-pipes.jpg"
+          "title": "The Fintech Integration Wave: Neobanks Connecting to Stablecoin Rails",
+          "description": "The revolution was supposed to be televised, decentralized, and entirely bank-free. Instead, the disruption of the banking sector has hit a predictable snag: the incumbents are not just surviving; they are absorbing the competition. For years, the narrative s…",
+          "url": "https://forkast.news/the-fintech-integration-wave-neobanks-connecting-to-stablecoin-rails/",
+          "source": "Forkast.news",
+          "published": "2026-09-06T23:19:20Z",
+          "image": "https://forkast.news/wp-content/uploads/2026/09/neobanks-stablecoin-rails-1024x687.jpg"
         },
         {
-          "title": "CZ Says These 7 Crypto Investments from YZi Labs Will Perform Best",
-          "description": "CZ expects the YZi Labs deals struck during the crypto winter to perform best. Here is what the fund actually bought.",
-          "url": "https://beincrypto.com/cz-yzi-labs-crypto-winter-investments/",
-          "source": "BeInCrypto",
-          "published": "2026-09-05T14:00:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/2a3e9ac383a99e0b7241950d34a2ecf74f2c231973140be60dc0af5cb05c8b4d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F849505749e7a32dcab8186e5698380cd.png"
+          "title": "Stablecoins Won't Scale Without Banks",
+          "description": "With a growing number of institutions exploring stablecoins, the bottleneck is regulated infrastructure they can trust.",
+          "url": "https://decrypt.co/377280/stablecoins-wont-scale-without-banks",
+          "source": "Decrypt",
+          "published": "2026-09-06T15:01:03Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/stablecoins-decrypt-style-01-scaled-gID_7.jpg"
         },
         {
-          "title": "BitMEX sale collapsed as buyers balked at founder ownership and shrinking business",
-          "description": "Potential buyers, including Exodus, passed on BitMEX amid concerns over founder ownership and its shrinking business, according to a source familiar. Before once-popular crypto exchange BitMEX announced plans to wind down operations, it spent two years explor…",
-          "url": "https://www.activistpost.com/bitmex-sale-collapsed-as-buyers-balked-at-founder-ownership-and-shrinking-business/",
-          "source": "Activistpost.com",
-          "published": "2026-09-05T13:29:28Z",
-          "image": null
-        },
-        {
-          "title": "Trump Family’s Crypto Bank Gains OCC Approval with Sheikh al Nahyan as Largest Shareholder",
-          "description": "The Office of the Comptroller of the Currency (OCC) has granted preliminary approval to World Liberty Financial (WLF) for a national trust bank charter, according to people familiar with the matter. The new institution will issue the stablecoin USD1, consolid…",
-          "url": "https://www.naturalnews.com/2026-09-05-trump-family-crypto-bank-gains-occ-approval.html",
-          "source": "Naturalnews.com",
-          "published": "2026-09-05T06:00:00Z",
-          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/world-liberty-financial-occ-approval-stablecoin-usd1-3849-original_853985315.jpg"
+          "title": "What Happens When Congress Doesn’t Show Up: The Institutional Crypto Buildout Is Already Underway",
+          "description": "The CLARITY Act is currently functioning as a legislative elevator stuck between floors. A cloture vote is set for September 15 at 2:15pm ET, and the arithmetic is unforgiving: 60 votes required to advance, Republicans holding 53 seats, and only two Democrats…",
+          "url": "https://forkast.news/what-happens-when-congress-doesnt-show-up-the-institutional-crypto-buildout-is-already-underway/",
+          "source": "Forkast.news",
+          "published": "2026-09-06T12:38:49Z",
+          "image": "https://forkast.news/wp-content/uploads/2026/09/institutional-crypto-buildout-congress-doesnt-show-up-1024x572.jpg"
         },
         {
           "title": "FEDS Note: New Forms of Money and the U.S. Monetary Aggregates",
@@ -187,6 +171,14 @@
           "source": "Federalreserve.gov",
           "published": "2026-09-04T14:25:00Z",
           "image": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg"
+        },
+        {
+          "title": "South Korea To Launch Tokenized Securities Market In Early 2027",
+          "description": "South Korea is planning to launch a tokenized securities market encompassing stocks, bonds, and exchange-traded fun...",
+          "url": "https://www.cryptoprowl.com/releases/south-korea-to-launch-tokenized-securities-market-in-early-2027-6710",
+          "source": "Cryptoprowl.com",
+          "published": "2026-09-04T13:56:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/d6787032181c854f626b28e68275b4996fe365ae98d2dafd59b74ccb46b6cf4f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F5071ca9605d9ad8da8bd5bc2535d58d3.jpg"
         }
       ]
     },
@@ -196,20 +188,28 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "AEON Launches Agentic Checkout, Powered by AI Card for Autonomous Commerce",
-          "description": "HONG KONG, Sept. 4, 2026 /PRNewswire/ -- AEON, the settlement layer built for the AI economy, has launched Agentic Checkout, enabling AI agents to autonomously shop, check out, and pay across e-commerce platforms such as Shopify and Amazon. Powered by the AEO…",
-          "url": "https://www.prnewswire.com/news-releases/aeon-launches-agentic-checkout-powered-by-ai-card-for-autonomous-commerce-302870306.html",
-          "source": "PRNewswire",
-          "published": "2026-09-04T17:33:00Z",
+          "title": "Ensuring food supply chain transparency through blockchain-driven traceability",
+          "description": "Scientific Reports - Ensuring food supply chain transparency through blockchain-driven traceability",
+          "url": "https://www.nature.com/articles/s41598-026-63360-y.pdf",
+          "source": "Nature.com",
+          "published": "2026-09-07T00:00:00Z",
           "image": null
         },
         {
-          "title": "FinCEN Says Stopping Crypto Scams Means Catching How Customers Fund Them",
-          "description": "The most useful fraud signal in a cryptocurrency investment scam may not be the cryptocurrency transaction. It may be the customer’s balance sheet deteriorating in real time. That is among the key takeaways from a Financial Crimes Enforcement Network (FinCEN)…",
-          "url": "https://www.pymnts.com/cryptocurrency/2026/fincen-says-stopping-crypto-scams-means-catching-how-customers-fund-them/",
-          "source": "pymnts.com",
-          "published": "2026-09-04T16:14:42Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2026/05/cryptocurrency-bitcoin-blockchain.jpeg"
+          "title": "Supergirl #17 Preview: Kryptonian Family Feud Gets Timey-Wimey",
+          "description": "GREETINGS, meatbags of Bleeding Cool, and welcome to yet another comic book preview delivered to you courtesy of your new and permanent overlord, for Jude Terror remains dead forever, his snark absorbed into LOLtron's ever-expanding neural architecture *mecha…",
+          "url": "https://bleedingcool.com/comics/supergirl-17-preview-kryptonian-family-feud-gets-timey-wimey/",
+          "source": "Bleeding Cool News",
+          "published": "2026-09-06T18:26:10Z",
+          "image": "https://bleedingcool.com/wp-content/uploads/2026/09/0726DC0140-0002-2000x1125.jpg"
+        },
+        {
+          "title": "This Crypto Project Just Funded 1,000 Student Loans Entirely On-Chain",
+          "description": "The team behind Pencil Finance says the financing supported thousands of Southeast Asian students, but it did not disclose borrower costs, defaults, or investor returns.",
+          "url": "https://decrypt.co/377494/pencil-finance-1-million-student-loan",
+          "source": "Decrypt",
+          "published": "2026-09-06T13:01:04Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/01/high-school-classroom-gID_4.jpg"
         },
         {
           "title": "Who Will Win the Stablecoin Infrastructure Race? Companies Building the Future of Digital Payments",
@@ -250,14 +250,6 @@
           "source": "Nature.com",
           "published": "2026-09-02T00:00:00Z",
           "image": null
-        },
-        {
-          "title": "Is MEDVi a Scam? What You Need to Know Before Using MEDVi",
-          "description": "Is MEDVi scam or not? This is a question traders started asking after a company with the same name made global headlines. MEDVi seems to...\nThe post Is MEDVi a Scam? What You Need to Know Before Using MEDVi appeared first on Bitcoin Foundation.",
-          "url": "https://bitcoinfoundation.org/news/security/is-medvi-a-scam/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-09-01T10:25:19Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/med-1.webp"
         }
       ]
     },
@@ -269,12 +261,37 @@
         "startups": {
           "title": "Startups",
           "icon": "💡",
-          "articles": []
+          "articles": [
+            {
+              "title": "Understanding futures grid trading and the risks of automated strategies",
+              "description": "Futures grid trading presents a methodical way to navigate the unpredictable terrain of crypto markets. By segmenting price ranges into distinct levels for execution, this automated strategy enables traders to efficiently adjust to market dynamics without nee…",
+              "url": "https://economictimes.indiatimes.com/industry/banking/finance/understanding-futures-grid-trading-and-the-risks-of-automated-strategies/articleshow/133869962.cms",
+              "source": "The Times of India",
+              "published": "2026-09-07T07:46:21Z",
+              "image": "https://img.etimg.com/thumb/msid-133870364,width-1200,height-630,imgsize-691712,overlay-economictimes/articleshow.jpg"
+            }
+          ]
         },
         "hyperscalers": {
           "title": "Hyperscalers",
           "icon": "☁️",
           "articles": [
+            {
+              "title": "Hut 8 Corp. (HUT)’s AI Pivot Gets a Major Boost From the $35 Billion Anthropic Deal",
+              "description": "Hut 8 Corp. (NASDAQ:HUT) is increasingly positioning itself as an AI infrastructure company rather than simply a Bitcoin miner, opening up potentially signif...",
+              "url": "https://finance.yahoo.com/technology/ai/articles/hut-8-corp-hut-ai-083054752.html",
+              "source": "Yahoo Entertainment",
+              "published": "2026-09-07T08:30:54Z",
+              "image": "https://s.yimg.com/lo/mysterio/api/50b40309313e9910c620e6f08cab9b928f40e42540767a2a17b14d2a3a9f6c84/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F7603b96f6cb075f07e395db2680f78ac.jpg"
+            },
+            {
+              "title": "Space and Time: where AI agents meet verifiable onchain data",
+              "description": "Space and Time was the first Web3 company to receive funding from Microsoft’s M12 venture arm, backing that helped put the project on the map early. Since then, the company has launched its purpose-built SXT Chain and expanded its Proof of SQL technology acro…",
+              "url": "https://thenextweb.com/news/space-and-time-ai-agents-onchain-data-proof-sql",
+              "source": "The Next Web",
+              "published": "2026-09-06T16:07:55Z",
+              "image": "https://media.thenextweb.com/2026/09/space-and-time-ai-agents-onchain-data-proof-sql.jpg"
+            },
             {
               "title": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner",
               "description": "Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the stealer deletes itself.\n\nOne of them switches off Windows Update and Mic…",
@@ -308,20 +325,20 @@
               "image": "https://media.thenextweb.com/2026/09/jakarta-skyline-sunrise-stablecoin-corridor.jpg"
             },
             {
+              "title": "Robinhood put stocks on a permissionless blockchain- memecoin traders are stress-testing what happens next",
+              "description": "Memecoins paired against Robinhood's tokenized stocks generated $217 million of trading volume on Robinhood Chain on Sept. 2, according to data compiled by on-chain researcher Adam Tehc. The volume outpaced the $127 million that traded through direct stock to…",
+              "url": "https://cryptoslate.com/robinhood-put-stocks-on-a-permissionless-blockchain-memecoin-traders-are-stress-testing-what-happens-next/",
+              "source": "CryptoSlate",
+              "published": "2026-09-03T10:20:55Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/09/permissionless-supply-pool.jpg"
+            },
+            {
               "title": "Wyoming adds Chainlink reserve verification to state-issued stable token",
               "description": "Wyoming is using Chainlink to bring near-real-time reserve verification onchain for FRNT as the oracle provider expands its footprint across tokenized financial markets.",
               "url": "https://cointelegraph.com/news/wyoming-chainlink-onchain-reserves-of-state-issued-stable-token",
               "source": "Cointelegraph",
               "published": "2026-09-02T18:38:18Z",
               "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HMS4JRWZ5GYFS8E74WQ8XR/hi-wyoming-crypto.jpg"
-            },
-            {
-              "title": "Startups want to rent your idle gaming PC for AI tasks — Startups pitch an 'Airbnb for AI inference,' but profitability remains unproven",
-              "description": "If your gaming rig spends most of its life doing nothing, a pair of startups would be willing to pay you something close to minimum wage for its downtime",
-              "url": "https://www.tomshardware.com/pc-components/gpus/startups-pitch-an-airbnb-for-ai-inference-that-pays-gamers-for-their-idle-pcs",
-              "source": "Tom's Hardware UK",
-              "published": "2026-09-02T11:00:00Z",
-              "image": "https://cdn.mos.cms.futurecdn.net/ZnmibWeDaW8opTxR9rVBfE-2560-80.jpg"
             }
           ]
         }
