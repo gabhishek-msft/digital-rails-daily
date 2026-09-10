@@ -1,5 +1,5 @@
 {
-  "date": "September 09, 2026",
+  "date": "September 10, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -45,30 +45,6 @@
           "source": "Kitploit.com",
           "published": "2026-09-03T02:28:22Z",
           "image": "https://assets.kitploit.com/production/public/tools/50619/77bff66f613677f9d25631cc1ec06aa7a896d848192cca21f0b9360a8cb761f1-social-v1.webp"
-        },
-        {
-          "title": "USDC may be only as quantum-safe as its slowest wallet, bridge or blockchain",
-          "description": "The 813-logical-qubit record is not a Q-day clock, but it shows why host chains, wallets, custodians, bridges and users must move with Circle.\nThe post USDC may be only as quantum-safe as its slowest wallet, bridge or blockchain appeared first on CryptoSlate.",
-          "url": "https://cryptoslate.com/usdc-may-be-only-as-quantum-safe-as-its-slowest-wallet-bridge-or-blockchain/",
-          "source": "CryptoSlate",
-          "published": "2026-09-02T21:10:30Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/09/usdc-weakest-chain-break.jpg"
-        },
-        {
-          "title": "Arbitrum DAO Approves Governance Proposal For Ecosystem Incentives",
-          "description": "Arbitrum DAO has approved a governance proposal for ecosystem incentive programs, giving the community another chance to direct treasury resources toward gro...",
-          "url": "https://bitcoinist.com/arbitrum-dao-governance-proposal-ecosystem-incentives/",
-          "source": "Bitcoinist",
-          "published": "2026-09-02T10:00:00Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/06/bitcoinist_arbitrum_foundation_funding_clean.jpg"
-        },
-        {
-          "title": "Arbitrum DEX Volume Hits $814M As Layer-2 Activity Picks Up",
-          "description": "Arbitrum recorded $814 million in daily decentralized exchange volume, giving the Ethereum Layer-2 network another strong activity signal as traders rotate t...",
-          "url": "https://bitcoinist.com/arbitrum-dex-volume-814m-layer-2-activity/",
-          "source": "Bitcoinist",
-          "published": "2026-09-02T07:45:00Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/06/bitcoinist_arbitrum_foundation_funding_clean.jpg"
         }
       ]
     },
@@ -77,6 +53,14 @@
       "icon": "🔐",
       "color": "#e6a200",
       "articles": [
+        {
+          "title": "Solana Activates Transaction V1 on September 9 With Alpenglow Following in October. What Actually Changes?",
+          "description": "Solana is about to flip a switch on a new transaction format while a sweeping consensus overhaul waits in the wings, but bigger and faster does not automatic...",
+          "url": "https://247wallst.com/investing/cryptocurrency/2026/09/08/solana-activates-transaction-v1-on-september-9-with-alpenglow-following-in-october-what-actually-changes/",
+          "source": "24/7 Wall St.",
+          "published": "2026-09-08T19:00:34Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/dcfd8a0fbc2ca71f1dab2b616b094a05e4f5d403edf2c3f53ab9a66d5dbd3b0e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F60088eea885263849d01ee8e3a5f557b.jpg"
+        },
         {
           "title": "Kamino launches ZEC-backed borrowing on Solana, letting users borrow USDC against Zcash",
           "description": "Kamino's ZEC-backed borrowing on Solana could enhance DeFi's appeal by integrating privacy-focused assets, potentially reshaping market dynamics.\nThe post Kamino launches ZEC-backed borrowing on Solana, letting users borrow USDC against Zcash appeared first o…",
@@ -109,68 +93,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Uzbekistan begins government bond-backed stablecoin payment pilot",
-          "description": "Uzbekistan has begun testing HUMO, a som-pegged stablecoin backed by government securities, with more than 20 merchants prepared to participate.",
-          "url": "https://cointelegraph.com/news/uzbekistan-humo-stablecoin-payment-pilot",
-          "source": "Cointelegraph",
-          "published": "2026-09-08T10:07:10Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M206SWCMNKXPJXWKTH0HCEYH/s.jpg"
+          "title": "Does becoming a federal bank protect crypto from Washington—or give Washington more control?",
+          "description": "Alan Lane’s new Silvergate account raises a question for crypto trust banks: how much protection survives a change in supervisors?\nThe post Does becoming a federal bank protect crypto from Washington—or give Washington more control? appeared first on CryptoSl…",
+          "url": "https://cryptoslate.com/does-becoming-a-federal-bank-protect-crypto-from-washington-or-give-washington-more-control/",
+          "source": "CryptoSlate",
+          "published": "2026-09-09T10:30:03Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/09/crypto-custody-control.jpg"
         },
         {
-          "title": "ADI Foundation and DCM Partner to Enable Tokenized Deposits on Existing Banking Infrastructure",
-          "description": "Technical partnership will allow banks to connect existing systems to ADI Chain, combining DCM’s banking technology with ADI’s institutional blockchain infrastructure and regional reach across MENA and Sub Saharan Africa ABU DHABI, United Arab Emirates and LO…",
-          "url": "https://financialpost.com/globe-newswire/adi-foundation-and-dcm-partner-to-enable-tokenized-deposits-on-existing-banking-infrastructure",
-          "source": "Financial Post",
-          "published": "2026-09-08T10:02:16Z",
-          "image": null
+          "title": "Crypto, banks take lobbying war to US senators' home states ahead of key vote",
+          "description": "Sept 9 : A fight over major cryptocurrency legislation has spilled into the congressional summer recess, with the crypto industry and the banking sector mounting a final lobbying blitz in senators' home states ahead of a vote on the bill next week. The indust…",
+          "url": "https://www.channelnewsasia.com/business/crypto-banks-take-lobbying-war-us-senators-home-states-ahead-key-vote-6372721",
+          "source": "CNA",
+          "published": "2026-09-09T10:02:26Z",
+          "image": "https://dam.mediacorp.sg/image/upload/s--dfS7mvhj--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-09T100117Z_1_LYNXMPEM880T2_RTROPTP_3_CRYPTOCURRENCY-EMIRATES-STANCHART.JPG?itok=ChSGInHg"
         },
         {
-          "title": "Bottomline Is Wiring 600 Banks to Chainlink’s Cross-Chain Rails – and the Agent Commerce Thesis Just Got Its Biggest Backing",
-          "description": "If you are looking for the plumbing of the global financial system, you don’t look for the shiny new protocols; you look for the entities that quietly move the world’s money. Bottomline Technologies is one such entity. As a top-three SWIFT service provider, i…",
-          "url": "https://forkast.news/bottomline-is-wiring-600-banks-to-chainlinks-cross-chain-rails-and-the-agent-commerce-thesis-just-got-its-biggest-backing/",
+          "title": "Capital Flows in Agentic AI: The Six-Jurisdiction Unlock",
+          "description": "Polymarket bettors currently price the passage of the CLARITY Act at a dismal 14%, down from 80% earlier this year. This legislative uncertainty creates a stark contrast with the institutional momentum arriving on September 16, when Circle launches the Circle…",
+          "url": "https://forkast.news/capital-flows-in-agentic-ai-the-six-jurisdiction-unlock/",
           "source": "Forkast.news",
-          "published": "2026-09-08T09:43:08Z",
-          "image": "https://forkast.news/wp-content/uploads/2026/09/bottomline-is-wiring-600-banks-to-chainlinks-cross-chain-rails-and-the-agent-commerce-thesis-just-got-its-biggest-backing-1024x572.jpg"
+          "published": "2026-09-09T09:16:01Z",
+          "image": "https://forkast.news/wp-content/uploads/2026/09/capital-flows-six-jurisdiction-unlock-1024x687.jpg"
         },
         {
-          "title": "South Korea’s KRW1 Goes Omnichain as LayerZero Unlocks Cross-Chain Expansion",
-          "description": "South Korean digital asset custodian BDACS is migrating its won-backed KRW1 stablecoin to LayerZero’s Omnichain Fungible Token standard for usage across multiple blockchains. The KRW1 token has...\nThe post South Korea’s KRW1 Goes Omnichain as LayerZero Unlock…",
-          "url": "https://bitcoinfoundation.org/news/companies/south-koreas-krw1-goes-omnichain-as-layerzero-unlocks-cross-chain-expansion/",
+          "title": "Jack Dorsey’s Block Seeks US Bank Charter for Bitcoin and Stablecoin Custody",
+          "description": "Block is applying to the Office of the Comptroller of the Currency to form Builders Bank & Trust, N.A., an uninsured national trust bank under...\nThe post Jack Dorsey’s Block Seeks US Bank Charter for Bitcoin and Stablecoin Custody appeared first on Bitcoin F…",
+          "url": "https://bitcoinfoundation.org/news/bitcoin/jack-dorseys-block-seeks-us-bank-charter-for-bitcoin-and-stablecoin-custody/",
           "source": "Bitcoinfoundation.org",
-          "published": "2026-09-08T09:42:41Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/South-Koreas-KRW1-Goes-Omnichain-as-LayerZero-Unlocks-Cross-Chain-Expansion-2.webp"
+          "published": "2026-09-09T09:14:55Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/Jack-Dorseys-Block-Seeks-US-Bank-Charter-for-Bitcoin-and-Stablecoin-Custody.webp"
         },
         {
-          "title": "XRP Holders Put on Notice as Media Personality Warns of Potential US Seizure: Details",
-          "description": "Outspoken U.S. media figure Alex Jones has sparked concern among XRP holders with a warning that governments could move to confiscate privately held assets if worsening economic turmoil puts greater strain on the global financial system.  Could Uncle Sam Come…",
-          "url": "https://zycrypto.com/xrp-holders-put-on-notice-as-media-personality-warns-of-potential-us-seizure-details/",
-          "source": "ZyCrypto",
-          "published": "2026-09-08T07:15:40Z",
-          "image": "https://zycrypto.com/wp-content/uploads/2023/05/Garlinghouse-Reveals-Ripple-Will-Spend-200M-Defending-Itself-Against-The-SEC-Even-As-Case-Worries-XRP-Holders.jpg"
-        },
-        {
-          "title": "Bitcoin’s latest hack puts key crypto vulnerability in spotlight",
-          "description": "Ongoing hacks are exposing decentralization — once touted as one of crypto’s greatest strengths — as a vulnerability",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-08/bitcoin-s-latest-hack-puts-key-crypto-vulnerability-in-spotlight",
-          "source": "Bloomberg",
-          "published": "2026-09-08T07:01:08Z",
-          "image": "https://bl-i.thgim.com/public/incoming/z3cjhx/article71374796.ece/alternates/LANDSCAPE_1200/2026-07-01T070532Z_1378868067_RC22PGAE5QKF_RTRMADP_3_CRYPTO-BITCOIN-CITIGROUP.JPG"
-        },
-        {
-          "title": "Fuze Finance Expands to Switzerland to Serve Growing Demand for Crypto-Assets and Stablecoins",
-          "description": "Approved by SO-FIT as a supervised financial intermediary, it will offer institutional clients with crypto-assets infrastructure and stablecoin settlement alongside SWIFT, SEPA and SIC rails LUGANO, Switzerland, Sept. 8, 2026 /PRNewswire/ -- Fuze Finance (Fuz…",
-          "url": "https://www.prnewswire.com/news-releases/fuze-finance-expands-to-switzerland-to-serve-growing-demand-for-crypto-assets-and-stablecoins-302871513.html",
-          "source": "PRNewswire",
-          "published": "2026-09-08T07:00:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS1982965/L-R-Gianluca-Masini-Country-Manager-at-Fuze-Finance-Switzerland-Mo-Ali.jpg?id=OA2933757&p=facebook"
-        },
-        {
-          "title": "India's first tokenised bond: What changes when debt moves to blockchain",
-          "description": "Tokenisation changes how ownership and settlement are recorded, potentially allowing the bond and digital money to move together in a single transaction",
-          "url": "https://www.business-standard.com/markets/news/india-s-first-tokenised-bond-what-changes-when-debt-moves-to-blockchain-126090800162_1.html",
+          "title": "L&T raises Rs 500 cr via tokenised bonds issuance",
+          "description": "Larsen & Toubro (L&T) has become the first private sector corporate in India to raise Rs 500 crore through tokenised bonds with a 3-year tenure, under the Securities and Exchange Board of India's (SEBI) newly introduced blockchain-based tokenisation framework.",
+          "url": "https://www.business-standard.com/markets/capital-market-news/l-t-raises-rs-500-cr-via-tokenised-bonds-issuance-126090900673_1.html",
           "source": "Business Standard",
-          "published": "2026-09-08T04:01:25Z",
-          "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-07/20/thumb/featurecrop/1200X628/1784569480-1022.jpg"
+          "published": "2026-09-09T08:34:30Z",
+          "image": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg"
+        },
+        {
+          "title": "Jack Dorsey's Block Applies for Bank Charter to Custody Bitcoin",
+          "description": "Builders Bank would consolidate custody work Block now runs under more than 50 state money transmitter licenses.",
+          "url": "https://decrypt.co/377746/jack-dorseys-block-applies-for-bank-charter-to-custody-bitcoin",
+          "source": "Decrypt",
+          "published": "2026-09-09T08:26:08Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/jack-dorsey-twitter-square-bitcoin-decrypt-style-gID_7.jpg"
+        },
+        {
+          "title": "Jack Dorsey’s Block seeks US trust bank charter for Bitcoin, stablecoin",
+          "description": "Block applied to establish Builders Bank & Trust, an OCC-regulated national trust bank offering Bitcoin and stablecoin custody services.",
+          "url": "https://cointelegraph.com/news/block-us-trust-bank-charter-bitcoin-stablecoin-custody",
+          "source": "Cointelegraph",
+          "published": "2026-09-09T07:36:21Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M22GDYQR3DVCE1PJVZEV5JJ4/hi-who-is-jack-dorsey-profile-and-biography.jpg"
+        },
+        {
+          "title": "FIU-India issues non-compliance notices to 15 Virtual Digital Asset Service Providers under PMLA",
+          "description": "India's Financial Intelligence Unit issued notices to fifteen Virtual Digital Assets Service Providers. These firms operated without complying with anti-money laundering regulations in India. The Director of FIU-India also ordered the takedown of illegal appl…",
+          "url": "https://economictimes.indiatimes.com/news/economy/policy/fiu-india-issues-non-compliance-notices-to-15-virtual-digital-asset-service-providers-under-pmla/articleshow/133956262.cms",
+          "source": "The Times of India",
+          "published": "2026-09-09T06:26:47Z",
+          "image": "https://img.etimg.com/thumb/msid-133956396,width-1200,height-630,imgsize-72762,overlay-economictimes/articleshow.jpg"
         }
       ]
     },
@@ -180,12 +164,36 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Hackers steal $320M in bitcoin from Liquid Network, return most of it after patch",
-          "description": "Hackers stole about $320 million worth of bitcoin over the weekend from a blockchain platform called the Liquid Network. In a somewhat unusual development, the attackers returned most of the haul earlier today. They retained 598 of the 4,000 stolen bitcoin, o…",
-          "url": "https://siliconangle.com/2026/09/07/hackers-steal-320m-in-bitcoin-from-liquid-network-return-most-of-it-after-patch/",
-          "source": "SiliconANGLE News",
-          "published": "2026-09-07T22:36:46Z",
-          "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Unsplash-1.png"
+          "title": "'No fraud' enabled through card tokenisation on mobile devices: PhonePe founder Rahul Chari",
+          "description": "PhonePe's Rahul Chari dismissed card tokenization security concerns, stating no fraud is enabled.  The company launched three new payment solutions with Visa at the Global Fintech Festival.  PhonePe now offers Cross Border Scan to Pay for international transa…",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/no-fraud-claims-on-mobile-card-tokenisation-by-phonepes-rahul-chari-amid-new-payment-solutions-launch/articleshow/133961817.cms",
+          "source": "The Times of India",
+          "published": "2026-09-09T09:12:36Z",
+          "image": "https://img.etimg.com/thumb/msid-133961816,width-1200,height-630,imgsize-49398,overlay-economictimes/articleshow.jpg"
+        },
+        {
+          "title": "Maharashtra moves closer to becoming India’s first 'tokenised state': Fadnavis on asset tokenisation",
+          "description": "Maharashtra is progressing towards becoming India's first tokenised state. The proposed DELTA Act will create a legal framework for blockchain tokenisation. This initiative aims to simplify access and review of land records. Ordinary citizens will gain liquid…",
+          "url": "https://economictimes.indiatimes.com/news/india/maharashtra-moves-closer-to-becoming-indias-first-tokenised-state-fadnavis-on-asset-tokenisation-gff-2026/articleshow/133959461.cms",
+          "source": "The Times of India",
+          "published": "2026-09-09T08:40:10Z",
+          "image": "https://img.etimg.com/thumb/msid-133960375,width-1200,height-630,imgsize-104040,overlay-economictimes/articleshow.jpg"
+        },
+        {
+          "title": "Visa Brings Onchain Lending into Everyday Payments",
+          "description": "Visa Brings Onchain Lending into Everyday Payments",
+          "url": "https://www.thehindubusinessline.com/brandhub/pr-release/visa-brings-onchain-lending-into-everyday-payments/article71445440.ece",
+          "source": "BusinessLine",
+          "published": "2026-09-09T02:00:51Z",
+          "image": "https://bl-i.thgim.com/public/incoming/2okxd6/article71445439.ece/alternates/LANDSCAPE_1200/visa-Logo.jpg"
+        },
+        {
+          "title": "Visa Taps Onchain Lending to Finance Stablecoin Card Programs",
+          "description": "The payment processor giant is pairing payment settlement data with blockchain lending tools to help fintechs and stablecoin-linked card programs access working capital.",
+          "url": "https://decrypt.co/377696/visa-onchain-lending-finance-stablecoin-card",
+          "source": "Decrypt",
+          "published": "2026-09-08T18:16:04Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/visa-logo2-gID_7.jpg"
         },
         {
           "title": "⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
@@ -210,38 +218,6 @@
           "source": "Business Standard",
           "published": "2026-09-03T16:52:22Z",
           "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/20/thumb/fitandfill/1200X628/1787246491-4022.jpg"
-        },
-        {
-          "title": "Who Will Win the Stablecoin Infrastructure Race? Companies Building the Future of Digital Payments",
-          "description": "The stablecoin infrastructure race is shaping up to be one of the most interesting competitions in the global payments space. Stablecoins no longer sit on...\nThe post Who Will Win the Stablecoin Infrastructure Race? Companies Building the Future of Digital Pa…",
-          "url": "https://bitcoinfoundation.org/news/stablecoins/stablecoin-infrastructure-race/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-09-02T19:34:40Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/sir-1.webp"
-        },
-        {
-          "title": "Four Leaf Acquisition and Data443 Advance Business Combination Toward Planned Nasdaq Listing",
-          "description": "Four Leaf Acquisition (USOTC:FORL) and Data443 Risk Mitigation (USOTC:ATDS) are advancing their definitive business combination, with preparation of a Form S...",
-          "url": "https://investorshub.advfn.com/market-news/article/35530/four-leaf-acquisition-and-data443-advance-business-combination-toward-planned-nasdaq-listing",
-          "source": "Advfn.com",
-          "published": "2026-09-02T14:44:14Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/b1157f95cc7c154908799d4b39bc520f079282103556450cfeb929ed82f28a1d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finvestorshub_458%2F045bd403283d315e15b3bf68b5329011.png"
-        },
-        {
-          "title": "Tether expands tokenization business into Saudi Arabia, starting with real estate",
-          "description": "The stablecoin issuer is extending its tokenization business into Saudi Arabia, starting with institutional real estate assets with plans to expand to other asset classes. Tether, best known for issuing USDT, the world’s most widely used stablecoin, is expand…",
-          "url": "https://www.activistpost.com/tether-expands-tokenization-business-into-saudi-arabia-starting-with-real-estate/",
-          "source": "Activistpost.com",
-          "published": "2026-09-02T13:44:25Z",
-          "image": null
-        },
-        {
-          "title": "Broadridge Brings G7 Securities to Institutional Tokenized Repo",
-          "description": "Broadridge's Distributed Ledger Repo solution expands cross-border atomic settlement and collateral mobility across G7 securities for global financing and collateral markets NEW YORK, Sept. 2, 2026 /PRNewswire/ -- Broadridge Financial Solutions, Inc., (NYSE: …",
-          "url": "https://www.prnewswire.com/news-releases/broadridge-brings-g7-securities-to-institutional-tokenized-repo-302867070.html",
-          "source": "PRNewswire",
-          "published": "2026-09-02T06:00:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS242893/Broadridge-2023-Logo.jpg?id=OA2923517&p=facebook"
         }
       ]
     },
@@ -255,12 +231,36 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-              "description": "We assess with moderate confidence that the attacks are not targeted at a particular organization, but are a part of a cryptocurrency and credentials-stealing operation using the Amatera stealer as the primary payload.",
-              "url": "https://blog.talosintelligence.com/clearfake-webdav-infection-chain/",
-              "source": "Talosintelligence.com",
-              "published": "2026-09-08T10:01:07Z",
-              "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/threat_spotlight-1.jpg"
+              "title": "Silvergate ex-CEO blames Biden pressure for bank’s 2023 wind-down",
+              "description": "Alan Lane disputed federal findings that cited concentrated crypto deposits, funding risks and weaknesses in Silvergate’s risk management and AML controls.",
+              "url": "https://cointelegraph.com/news/silvergate-ex-ceo-biden-pressure-bank-wind-down",
+              "source": "Cointelegraph",
+              "published": "2026-09-09T10:05:00Z",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M22R46XM5HB5F0NP53KDRX9H/bank-run-attack.png"
+            },
+            {
+              "title": "Bybit Unleashes 100x FX Perpetuals as Crypto Exchange Targets $9.6 Trillion Currency Market",
+              "description": "On 8 September, Bybit added three foreign-exchange perpetual contracts to its derivatives trading platform. The contracts offer EUR/USD, GBP/USD and USD/JPY forex trading to eligible...\nThe post Bybit Unleashes 100x FX Perpetuals as Crypto Exchange Targets $9…",
+              "url": "https://bitcoinfoundation.org/news/trading/bybit-unleashes-100x-fx-perpetuals-as-crypto-exchange-targets-9-6-trillion-currency-market/",
+              "source": "Bitcoinfoundation.org",
+              "published": "2026-09-09T08:46:55Z",
+              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/Bybit-Unleashes-100x-FX-Perpetuals-as-Crypto-Exchange-Targets-9.6-Trillion-Currency-Market-2.webp"
+            },
+            {
+              "title": "Bitcoin Core Lightning Docker bug leaves node operators exposed despite showing updated version",
+              "description": "Four tags served images that reported v26.06.7 without its fixes, prompting digest checks before planned source disclosure.\nThe post Bitcoin Core Lightning Docker bug leaves node operators exposed despite showing updated version appeared first on CryptoSlate.",
+              "url": "https://cryptoslate.com/bitcoin-core-lightning-docker-bug-leaves-node-operators-exposed-despite-showing-updated-version/",
+              "source": "CryptoSlate",
+              "published": "2026-09-09T08:30:48Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/09/lightning-digest-check.jpg"
+            },
+            {
+              "title": "Iran eases currency rules to bypass US sanctions with crypto: Report",
+              "description": "Iran’s central bank has reportedly relaxed currency controls, giving businesses more scope to use USDT and Bitcoin for trade amid tightening US sanctions.",
+              "url": "https://cointelegraph.com/news/iran-central-bank-encourages-crypto-evade-sanctions",
+              "source": "Cointelegraph",
+              "published": "2026-09-09T07:36:39Z",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M22ESE8ZYFYS2R1YN4CJ0FMK/hi-iran-launching-a-currency.jpg"
             }
           ]
         },
@@ -269,12 +269,44 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "Solana beats Bitcoin on one key metric, but a single software bug could still take down the network",
-              "description": "A live reading is already 18, showing why institutions need more than one decentralization metric.\nThe post Solana beats Bitcoin on one key metric, but a single software bug could still take down the network appeared first on CryptoSlate.",
-              "url": "https://cryptoslate.com/solana-beats-bitcoin-on-one-key-metric-but-a-single-software-bug-could-still-take-down-the-network/",
-              "source": "CryptoSlate",
-              "published": "2026-09-07T19:00:42Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/09/solana-threshold-fortress.jpg"
+              "title": "Chainlink surges 51% as bullish breakout points to $18",
+              "description": "Key takeaways Chainlink has gained 51% over seven days amid improving regulatory sentiment and project-specific developments. Chainlink’s total value secured rose from $43 billion in June to nearly $57 billion by the end of August—an increase of approximately…",
+              "url": "https://coinjournal.net/news/chainlink-surges-51-as-bullish-breakout-points-to-18/",
+              "source": "Coinjournal.net",
+              "published": "2026-09-09T08:15:48Z",
+              "image": "https://coinjournal.net/wp-content/uploads/2026/09/ChatGPT-Image-Sep-9-2026-09_12_38-AM.png"
+            },
+            {
+              "title": "Malone Lam pleads guilty in $245M crypto theft conspiracy",
+              "description": "Singaporean national Malone Lam pleaded guilty to participating in a RICO conspiracy that stole and laundered more than $245 million in crypto.",
+              "url": "https://cointelegraph.com/news/malone-lam-pleads-guilty-245m-crypto-theft-conspiracy",
+              "source": "Cointelegraph",
+              "published": "2026-09-09T04:09:51Z",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M225DFFFFZQWQQC6PNGCEK5J/doj-hammer.png"
+            },
+            {
+              "title": "Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution",
+              "description": "A previously undocumented financially motivated threat actor has been linked to attacks targeting Brazilian financial institutions since at least March 2026.\n\nCybersecurity company CrowdStrike is tracking the Brazil-based activity cluster under the name Slim …",
+              "url": "https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html",
+              "source": "Internet",
+              "published": "2026-09-08T16:20:23Z",
+              "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim6TzHNI7Stg7pvo_Pu0vMltU2jmnIr922wxLWIYFfaRpN3G7rVZCy76FgWwyZUCT36dRygtzxVmZPFTPSm1FuRrmqXwuvTjJhxwJE7zl34ZHuwZUEDdlrnunlem-Xo7KS6Buy1xlHYYxf-0u-d3qWer-o64MrNvrsh5V1WC7dVtGVwubINEgB1AtfQBNC/s1700-nu-rw-lo-l85-e365/brazil-hackers.jpg"
+            },
+            {
+              "title": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
+              "description": "We assess with moderate confidence that the attacks are not targeted at a particular organization, but are a part of a cryptocurrency and credentials-stealing operation using the Amatera stealer as the primary payload.",
+              "url": "https://blog.talosintelligence.com/clearfake-webdav-infection-chain/",
+              "source": "Talosintelligence.com",
+              "published": "2026-09-08T10:01:07Z",
+              "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/threat_spotlight-1.jpg"
+            },
+            {
+              "title": "Darrell Duffie Optimistic On Integration Of Tokenized Finance Into Mainstream Financial Markets",
+              "description": "Hoover Institution fellow Darrell Duffie talks about the integration of tokenized finance into mainstream financial markets and notes that key tokenized innovation lies in the ability to make payments around clock, a feature that traditional banking systems d…",
+              "url": "https://kathleenhays.substack.com/p/duffie-optimistic-on-integration",
+              "source": "Substack.com",
+              "published": "2026-09-08T00:00:00Z",
+              "image": "https://substackcdn.com/image/fetch/$s_!NQzz!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F213332066%2F28e42d05-f55b-44fe-b5f1-24c78ecd06f5%2Ftranscoded-1788039223.png"
             },
             {
               "title": "Vitalik Buterin now confident AI won’t break crypto, betting 90% of his net worth",
@@ -299,38 +331,6 @@
               "source": "The Next Web",
               "published": "2026-09-06T16:07:55Z",
               "image": "https://media.thenextweb.com/2026/09/space-and-time-ai-agents-onchain-data-proof-sql.jpg"
-            },
-            {
-              "title": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner",
-              "description": "Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the stealer deletes itself.\n\nOne of them switches off Windows Update and Mic…",
-              "url": "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html",
-              "source": "Internet",
-              "published": "2026-09-06T08:34:20Z",
-              "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpRcdfXd6kYnqLLWSFdzGKICUzSr90MsV2f3PXtw8VDVcT-xOP2w4HwnVzrRI4bdJqhboQMFIm9BZ393b89IOqgYx-VVmb_B8-XJCsZ9SAIymdlBpEf5ARizHvn32t8Mr9stzV6nMVcn3utUYI1xSRxhaC29QZjS-C3haNSRPfQI_eBYzXCrwn5rl18Nw/s1700-nu-rw-lo-l85-e365/rev.jpg"
-            },
-            {
-              "title": "Crypto Traders Are Pairing Meme Coins With Stocks on Robinhood—And It's Working (Sort Of)",
-              "description": "A meme coin called BONER cornered half of Hims & Hers Health's tokenized shares on Robinhood's new blockchain. It started a new trend that's spreading fast.",
-              "url": "https://decrypt.co/377463/crypto-meme-coin-stock-pairs-robinhood",
-              "source": "Decrypt",
-              "published": "2026-09-04T19:16:03Z",
-              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/01/crypto-trading-gen-z-decrypt-style-gID_7.jpg"
-            },
-            {
-              "title": "AEON Launches Agentic Checkout, Powered by AI Card for Autonomous Commerce",
-              "description": "HONG KONG, Sept. 4, 2026 /PRNewswire/ -- AEON, the settlement layer built for the AI economy, has launched Agentic Checkout, enabling AI agents to autonomously shop, check out, and pay across e-commerce platforms such as Shopify and Amazon. Powered by the AEO…",
-              "url": "https://www.prnewswire.com/news-releases/aeon-launches-agentic-checkout-powered-by-ai-card-for-autonomous-commerce-302870306.html",
-              "source": "PRNewswire",
-              "published": "2026-09-04T17:33:00Z",
-              "image": null
-            },
-            {
-              "title": "CFTC Advisory Sets Expectations For Tokenized Collateral At Clearinghouses",
-              "description": "Read the latest update on CFTC Advisory Sets Expectations For Tokenized Collateral At Clearinghouses.",
-              "url": "http://www.newsbtc.com/news/cftc-advisory-sets-expectations-for-tokenized-collateral-at-clearinghouses/",
-              "source": "newsBTC",
-              "published": "2026-09-03T18:00:00Z",
-              "image": "https://www.newsbtc.com/wp-content/uploads/2026/01/01JQ8RR72AHWZB6KJ86MRZYZD9-28.jpg?fit=2560%2C1096"
             }
           ]
         }
