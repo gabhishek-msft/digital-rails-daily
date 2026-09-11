@@ -1,11 +1,27 @@
 {
-  "date": "September 10, 2026",
+  "date": "September 11, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "Lattice Jolt introduces faster zkVM with post-quantum security",
+          "description": "Lattice Jolt's advancements in zkVM technology enhance cryptographic resilience and efficiency, crucial for future-proofing against quantum threats.\nThe post Lattice Jolt introduces faster zkVM with post-quantum security appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/lattice-jolt-post-quantum-zkvm/",
+          "source": "Crypto Briefing",
+          "published": "2026-09-09T16:17:26Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/09121725/chip-slump-erases-1-3-trillion-in-stock-market-value-reuters-106-800x420.jpeg"
+        },
+        {
+          "title": "Zcash Just Hit $1,180: Is Wall Street Turning Privacy Coins Into the Next Crypto Trade?",
+          "description": "Zcash has once again become the center of the crypto market as ZEC approached $1,180. Zcash price rally has benefited from increased institutional access and...\nThe post Zcash Just Hit $1,180: Is Wall Street Turning Privacy Coins Into the Next Crypto Trade? a…",
+          "url": "https://bitcoinfoundation.org/news/altcoins/zcash-just-hit-1180-is-wall-street-turning-privacy-coins-into-the-next-crypto-trade/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-09-09T13:52:55Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/ZEC1-1.webp"
+        },
         {
           "title": "Starknet shields 45 assets with new privacy framework",
           "description": "Starknet's privacy framework could redefine DeFi privacy standards, balancing user confidentiality with regulatory transparency.\nThe post Starknet shields 45 assets with new privacy framework appeared first on Crypto Briefing.",
@@ -15,36 +31,12 @@
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/08052837/library-starknet-shields-45-assets-with-new-privacy-framework-800x450.png"
         },
         {
-          "title": "Aptos launches Confidential APT on mainnet for compliant use cases",
-          "description": "Aptos' Confidential APT could redefine crypto privacy by balancing business needs with regulatory transparency, potentially influencing future token standards.\nThe post Aptos launches Confidential APT on mainnet for compliant use cases appeared first on Crypt…",
-          "url": "https://cryptobriefing.com/aptos-confidential-apt-mainnet-launch/",
-          "source": "Crypto Briefing",
-          "published": "2026-09-08T04:07:10Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/08000706/library-aptos-launches-confidential-apt-on-mainnet-for-compliant-800x450.png"
-        },
-        {
           "title": "What Is Railgun Crypto? Why RAIL Is Back on the Crypto Radar in 2026",
           "description": "Railgun crypto is a rising area of interest in 2026, as privacy becomes a growing concern on Ethereum. Ethereum-based governance token RAIL is seeing a...\nThe post What Is Railgun Crypto? Why RAIL Is Back on the Crypto Radar in 2026 appeared first on Bitcoin …",
           "url": "https://bitcoinfoundation.org/news/analysis/what-is-railgun-crypto/",
           "source": "Bitcoinfoundation.org",
           "published": "2026-09-07T13:01:34Z",
           "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/rail-1.webp"
-        },
-        {
-          "title": "Eightco Holdings (NASDAQ: ORBS) Reports Total Holdings of Approximately $380 Million, Includes OpenAI, Beast Industries, More Than 16,000 ETH and Nearly 302 Million WLD Tokens",
-          "description": "Eightco treasury composition as of September 2, 2026: $90M OpenAI equity (indirect), $18M Beast Industries equity, 16,278 ETH, nearly 302 million WLD holdings, and $122M cash and equivalents, totaling approximately $380 million Eightco recently repurchased ov…",
-          "url": "https://www.prnewswire.com/news-releases/eightco-holdings-nasdaq-orbs-reports-total-holdings-of-approximately-380-million-includes-openai-beast-industries-more-than-16-000-eth-and-nearly-302-million-wld-tokens-302868387.html",
-          "source": "PRNewswire",
-          "published": "2026-09-03T12:30:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS1980965/A0EF6A59-5686-4B45-AD75-C6E171BC531F.jpg?id=OA2927632&p=facebook"
-        },
-        {
-          "title": "awesome-web3-security — Updated!",
-          "description": "A curated list of Web3 Security materials and resources for Pentesters and Bug Hunters.",
-          "url": "https://kitploit.com/en/posts/github-gmh5225-awesome-web3-security-af0b237f429daf1e30c34239292d1d63618eeee9938eb1c804e44ff6f51584a1",
-          "source": "Kitploit.com",
-          "published": "2026-09-03T02:28:22Z",
-          "image": "https://assets.kitploit.com/production/public/tools/50619/77bff66f613677f9d25631cc1ec06aa7a896d848192cca21f0b9360a8cb761f1-social-v1.webp"
         }
       ]
     },
@@ -54,28 +46,36 @@
       "color": "#e6a200",
       "articles": [
         {
+          "title": "Charles Hoskinson Says Cardano Team Is Moving Faster Than Ever Amid AI Push",
+          "description": "Cardano's Charles Hoskinson says the project’s development pace has accelerated sharply as the blockchain ecosystem increasingly embraces AI.",
+          "url": "https://zycrypto.com/charles-hoskinson-says-cardano-team-is-moving-faster-than-ever-amid-ai-push/",
+          "source": "ZyCrypto",
+          "published": "2026-09-10T07:15:59Z",
+          "image": "https://zycrypto.com/wp-content/uploads/2023/10/Charles-Hoskinson-Shuts-Down-Claims-That-Cardanos-Game-Changing-Hydra-Upgrade-Has-Failed.jpg"
+        },
+        {
+          "title": "EIP-8288 introduces frame type for post-quantum signatures and STARK aggregation",
+          "description": "EIP-8288's framework could significantly reduce Ethereum's gas costs and enhance privacy, making post-quantum security economically viable.\nThe post EIP-8288 introduces frame type for post-quantum signatures and STARK aggregation appeared first on Crypto Brie…",
+          "url": "https://cryptobriefing.com/eip-8288-recursive-stark-mempools-ethereum/",
+          "source": "Crypto Briefing",
+          "published": "2026-09-09T15:43:39Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/09114335/library-eip-8288-introduces-frame-type-for-post-quantum-signatur-800x450.png"
+        },
+        {
+          "title": "Consensys splits into two companies, focusing restructured entity on institutional blockchain",
+          "description": "Consensys' split could accelerate institutional blockchain adoption, enhancing security and governance while attracting traditional finance interest.\nThe post Consensys splits into two companies, focusing restructured entity on institutional blockchain appear…",
+          "url": "https://cryptobriefing.com/consensys-splits-linea-institutional-focus/",
+          "source": "Crypto Briefing",
+          "published": "2026-09-09T15:10:49Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/09111044/library-consensys-splits-into-two-companies-focusing-restructure-800x450.png"
+        },
+        {
           "title": "Solana Activates Transaction V1 on September 9 With Alpenglow Following in October. What Actually Changes?",
           "description": "Solana is about to flip a switch on a new transaction format while a sweeping consensus overhaul waits in the wings, but bigger and faster does not automatic...",
           "url": "https://247wallst.com/investing/cryptocurrency/2026/09/08/solana-activates-transaction-v1-on-september-9-with-alpenglow-following-in-october-what-actually-changes/",
           "source": "24/7 Wall St.",
           "published": "2026-09-08T19:00:34Z",
           "image": "https://s.yimg.com/lo/mysterio/api/dcfd8a0fbc2ca71f1dab2b616b094a05e4f5d403edf2c3f53ab9a66d5dbd3b0e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F60088eea885263849d01ee8e3a5f557b.jpg"
-        },
-        {
-          "title": "Kamino launches ZEC-backed borrowing on Solana, letting users borrow USDC against Zcash",
-          "description": "Kamino's ZEC-backed borrowing on Solana could enhance DeFi's appeal by integrating privacy-focused assets, potentially reshaping market dynamics.\nThe post Kamino launches ZEC-backed borrowing on Solana, letting users borrow USDC against Zcash appeared first o…",
-          "url": "https://cryptobriefing.com/kamino-zec-backed-borrowing-solana-usdc/",
-          "source": "Crypto Briefing",
-          "published": "2026-09-07T21:25:09Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/07172505/library-kamino-launches-zec-backed-borrowing-on-solana-letting-u-800x450.png"
-        },
-        {
-          "title": "Wormhole connects Dogecoin to Solana via Sunrise project",
-          "description": "The integration enhances Solana's liquidity and trading capabilities while expanding Dogecoin's DeFi opportunities, despite potential risks.\nThe post Wormhole connects Dogecoin to Solana via Sunrise project appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/wormhole-dogecoin-solana-sunrise-ntt/",
-          "source": "Crypto Briefing",
-          "published": "2026-09-07T17:06:58Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/07130655/library-wormhole-connects-dogecoin-to-solana-via-sunrise-project-800x450.png"
         },
         {
           "title": "Where Google Wallet state IDs are available on Android",
@@ -93,68 +93,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Does becoming a federal bank protect crypto from Washington—or give Washington more control?",
-          "description": "Alan Lane’s new Silvergate account raises a question for crypto trust banks: how much protection survives a change in supervisors?\nThe post Does becoming a federal bank protect crypto from Washington—or give Washington more control? appeared first on CryptoSl…",
-          "url": "https://cryptoslate.com/does-becoming-a-federal-bank-protect-crypto-from-washington-or-give-washington-more-control/",
-          "source": "CryptoSlate",
-          "published": "2026-09-09T10:30:03Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/09/crypto-custody-control.jpg"
-        },
-        {
-          "title": "Crypto, banks take lobbying war to US senators' home states ahead of key vote",
-          "description": "Sept 9 : A fight over major cryptocurrency legislation has spilled into the congressional summer recess, with the crypto industry and the banking sector mounting a final lobbying blitz in senators' home states ahead of a vote on the bill next week. The indust…",
-          "url": "https://www.channelnewsasia.com/business/crypto-banks-take-lobbying-war-us-senators-home-states-ahead-key-vote-6372721",
-          "source": "CNA",
-          "published": "2026-09-09T10:02:26Z",
-          "image": "https://dam.mediacorp.sg/image/upload/s--dfS7mvhj--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-09T100117Z_1_LYNXMPEM880T2_RTROPTP_3_CRYPTOCURRENCY-EMIRATES-STANCHART.JPG?itok=ChSGInHg"
-        },
-        {
-          "title": "Capital Flows in Agentic AI: The Six-Jurisdiction Unlock",
-          "description": "Polymarket bettors currently price the passage of the CLARITY Act at a dismal 14%, down from 80% earlier this year. This legislative uncertainty creates a stark contrast with the institutional momentum arriving on September 16, when Circle launches the Circle…",
-          "url": "https://forkast.news/capital-flows-in-agentic-ai-the-six-jurisdiction-unlock/",
+          "title": "The Fed’s New Yardstick for Stablecoins",
+          "description": "For years, the debate surrounding stablecoins has been dominated by the mechanics of compliance and the looming threat of regulatory cliffs. However, a September 4, 2026, FEDS Note from Federal Reserve staff shifts the conversation from what issuers must do t…",
+          "url": "https://forkast.news/the-feds-new-yardstick-for-stablecoins/",
           "source": "Forkast.news",
-          "published": "2026-09-09T09:16:01Z",
-          "image": "https://forkast.news/wp-content/uploads/2026/09/capital-flows-six-jurisdiction-unlock-1024x687.jpg"
+          "published": "2026-09-10T09:27:20Z",
+          "image": "https://forkast.news/wp-content/uploads/2026/09/fed-feds-note-stablecoins-yardstick-1024x572.jpg"
         },
         {
-          "title": "Jack Dorsey’s Block Seeks US Bank Charter for Bitcoin and Stablecoin Custody",
-          "description": "Block is applying to the Office of the Comptroller of the Currency to form Builders Bank & Trust, N.A., an uninsured national trust bank under...\nThe post Jack Dorsey’s Block Seeks US Bank Charter for Bitcoin and Stablecoin Custody appeared first on Bitcoin F…",
-          "url": "https://bitcoinfoundation.org/news/bitcoin/jack-dorseys-block-seeks-us-bank-charter-for-bitcoin-and-stablecoin-custody/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-09-09T09:14:55Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/Jack-Dorseys-Block-Seeks-US-Bank-Charter-for-Bitcoin-and-Stablecoin-Custody.webp"
+          "title": "India to push BRICS digital currency link despite hurdles, sources say",
+          "description": "By Nikunj Ohri and Jaspreet Kalra NEW DELHI, Sept 10 (Reuters) - India is pushing to link central bank digital currencies (CBDCs) across BRICS nations for cr...",
+          "url": "https://uk.news.yahoo.com/india-push-brics-digital-currency-090543775.html",
+          "source": "Yahoo Entertainment",
+          "published": "2026-09-10T09:16:39Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/9819bee861228c376848e52cb8cd8850f6de23c0a53f5897f17fbb2e4d90aa69/lightyear_networkapi/resizefill_w800_h533%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F755f4bfa3e78e174b36347c8f8550e84.jpg"
         },
         {
-          "title": "L&T raises Rs 500 cr via tokenised bonds issuance",
-          "description": "Larsen & Toubro (L&T) has become the first private sector corporate in India to raise Rs 500 crore through tokenised bonds with a 3-year tenure, under the Securities and Exchange Board of India's (SEBI) newly introduced blockchain-based tokenisation framework.",
-          "url": "https://www.business-standard.com/markets/capital-market-news/l-t-raises-rs-500-cr-via-tokenised-bonds-issuance-126090900673_1.html",
-          "source": "Business Standard",
-          "published": "2026-09-09T08:34:30Z",
-          "image": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg"
-        },
-        {
-          "title": "Jack Dorsey's Block Applies for Bank Charter to Custody Bitcoin",
-          "description": "Builders Bank would consolidate custody work Block now runs under more than 50 state money transmitter licenses.",
-          "url": "https://decrypt.co/377746/jack-dorseys-block-applies-for-bank-charter-to-custody-bitcoin",
-          "source": "Decrypt",
-          "published": "2026-09-09T08:26:08Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/jack-dorsey-twitter-square-bitcoin-decrypt-style-gID_7.jpg"
-        },
-        {
-          "title": "Jack Dorsey’s Block seeks US trust bank charter for Bitcoin, stablecoin",
-          "description": "Block applied to establish Builders Bank & Trust, an OCC-regulated national trust bank offering Bitcoin and stablecoin custody services.",
-          "url": "https://cointelegraph.com/news/block-us-trust-bank-charter-bitcoin-stablecoin-custody",
-          "source": "Cointelegraph",
-          "published": "2026-09-09T07:36:21Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M22GDYQR3DVCE1PJVZEV5JJ4/hi-who-is-jack-dorsey-profile-and-biography.jpg"
-        },
-        {
-          "title": "FIU-India issues non-compliance notices to 15 Virtual Digital Asset Service Providers under PMLA",
-          "description": "India's Financial Intelligence Unit issued notices to fifteen Virtual Digital Assets Service Providers. These firms operated without complying with anti-money laundering regulations in India. The Director of FIU-India also ordered the takedown of illegal appl…",
-          "url": "https://economictimes.indiatimes.com/news/economy/policy/fiu-india-issues-non-compliance-notices-to-15-virtual-digital-asset-service-providers-under-pmla/articleshow/133956262.cms",
+          "title": "Nandan Nilekani unveils three tokenisation pilots at Global Fintech Fest 2026",
+          "description": "Regulators and central banks expressed concerns regarding cryptocurrencies and stablecoins.  Nandan Nilekani highlighted tokenization's potential within a regulated framework.  He discussed three live pilots implementing tokenization across different sectors.…",
+          "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/nandan-nilekani-launches-groundbreaking-tokenisation-pilots-at-global-fintech-fest-2026-to-regulate-cryptocurrency/articleshow/134000325.cms",
           "source": "The Times of India",
-          "published": "2026-09-09T06:26:47Z",
-          "image": "https://img.etimg.com/thumb/msid-133956396,width-1200,height-630,imgsize-72762,overlay-economictimes/articleshow.jpg"
+          "published": "2026-09-10T08:41:48Z",
+          "image": "https://img.etimg.com/thumb/msid-134000665,width-1200,height-630,imgsize-41696,overlay-economictimes/articleshow.jpg"
+        },
+        {
+          "title": "U.S. Bank Moves Real Money With USBDC Stablecoin in Live Stellar Cross-Border Pilot",
+          "description": "U.S. Bank constructed a live cross-border payment utilizing USBDC, a proprietary dollar-backed stablecoin, as part of their continuing exploration of blockchain technology. It would move...\nThe post U.S. Bank Moves Real Money With USBDC Stablecoin in Live Ste…",
+          "url": "https://bitcoinfoundation.org/news/companies/u-s-bank-moves-real-money-with-usbdc-stablecoin-in-live-stellar-cross-border-pilot/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-09-10T08:14:24Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/U.S.-Bank-Moves-Real-Money-With-USBDC-Stablecoin-in-Live-Stellar-Cross-Border-Pilot-2.webp"
+        },
+        {
+          "title": "Coinbase CEO Says CLARITY Act Vote Won’t Stop US Crypto Rules From Coming",
+          "description": "Coinbase CEO Brian Armstrong believes the Senate’s Sept. 15 vote on the CLARITY Act alone may not be enough to provide clearer federal regulation for...\nThe post Coinbase CEO Says CLARITY Act Vote Won’t Stop US Crypto Rules From Coming appeared first on Bitco…",
+          "url": "https://bitcoinfoundation.org/news/companies/coinbase-ceo-says-clarity-act-vote-wont-stop-us-crypto-rules-from-coming/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-09-10T07:58:12Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/Coinbase-CEO-Says-CLARITY-Act-Vote-Wont-Stop-US-Crypto-Rules-From-Coming-2.webp"
+        },
+        {
+          "title": "Zamanat Targets the GCC’s $250 Billion SME Financing Gap With a Tokenized Private Credit Fund of Up to $100 Million",
+          "description": "Zamanat has announced its sponsorship of Zamanat Fund CEIC Limited (the “Fund”) — a DIFC-domiciled tokenized private credit fund with a target size of up to USD 100 million. The Fund directly targets the GCC’s estimated $250 billion SME financing gap, where j…",
+          "url": "https://zycrypto.com/zamanat-targets-the-gccs-250-billion-sme-financing-gap-with-a-tokenized-private-credit-fund-of-up-to-100-million/",
+          "source": "ZyCrypto",
+          "published": "2026-09-10T07:48:14Z",
+          "image": "https://zycrypto.com/wp-content/uploads/2026/09/unnamed-2026-09-10T084727.664.jpg"
+        },
+        {
+          "title": "Zamanat Targets GCC’s $250 Billion SME Financing Gap With Up to $100 Million Tokenized Private Credit Fund",
+          "description": "Dubai, UAE, 10th September 2026, Chainwire\nThe post Zamanat Targets GCC’s $250 Billion SME Financing Gap With Up to $100 Million Tokenized Private Credit Fund appeared first on The Daily Hodl.",
+          "url": "https://dailyhodl.com/2026/09/10/zamanat-targets-gccs-250-billion-sme-financing-gap-with-up-to-100-million-tokenized-private-credit-fund/",
+          "source": "The Daily Hodl",
+          "published": "2026-09-10T07:31:34Z",
+          "image": "https://dailyhodl.com/wp-content/uploads/2026/09/15x9_Screen_1_1788963060N6oQdMkW4x.jpg?resize=1920,1152"
+        },
+        {
+          "title": "Coinbase CEO sees U.S. crypto regulation advancing regardless of Clarity Act vote",
+          "description": "Coinbase CEO Brian Armstrong says U.S. crypto regulation could move forward regardless of the outcome of the Clarity Act.",
+          "url": "https://www.cnbc.com/2026/09/10/coinbase-ceo-brian-armstrongto-us-regulatory-clarity-regardless-of-clarity-act-vote-crypto.html",
+          "source": "CNBC",
+          "published": "2026-09-10T05:24:52Z",
+          "image": "https://image.cnbcfm.com/api/v1/image/108360980-1789007313713-gettyimages-2290597034-AFP_C62U9KQ.jpeg?v=1789007347&w=1920&h=1080"
         }
       ]
     },
@@ -164,36 +164,36 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "'No fraud' enabled through card tokenisation on mobile devices: PhonePe founder Rahul Chari",
-          "description": "PhonePe's Rahul Chari dismissed card tokenization security concerns, stating no fraud is enabled.  The company launched three new payment solutions with Visa at the Global Fintech Festival.  PhonePe now offers Cross Border Scan to Pay for international transa…",
-          "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/no-fraud-claims-on-mobile-card-tokenisation-by-phonepes-rahul-chari-amid-new-payment-solutions-launch/articleshow/133961817.cms",
-          "source": "The Times of India",
-          "published": "2026-09-09T09:12:36Z",
-          "image": "https://img.etimg.com/thumb/msid-133961816,width-1200,height-630,imgsize-49398,overlay-economictimes/articleshow.jpg"
+          "title": "India’s Arya.ag to put grain ownership records on Avalanche",
+          "description": "Arya.ag is testing tokenized warehouse receipts on Avalanche for a business holding $2 billion in commodities and supporting $1.3 billion in annual loans.",
+          "url": "https://cointelegraph.com/news/arya-ag-tests-tokenized-grain-receipts-avalanche",
+          "source": "Cointelegraph",
+          "published": "2026-09-10T09:30:00Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M255E52AW9256839B574KAMH/india-tokenization-grain.png"
         },
         {
-          "title": "Maharashtra moves closer to becoming India’s first 'tokenised state': Fadnavis on asset tokenisation",
-          "description": "Maharashtra is progressing towards becoming India's first tokenised state. The proposed DELTA Act will create a legal framework for blockchain tokenisation. This initiative aims to simplify access and review of land records. Ordinary citizens will gain liquid…",
-          "url": "https://economictimes.indiatimes.com/news/india/maharashtra-moves-closer-to-becoming-indias-first-tokenised-state-fadnavis-on-asset-tokenisation-gff-2026/articleshow/133959461.cms",
-          "source": "The Times of India",
-          "published": "2026-09-09T08:40:10Z",
-          "image": "https://img.etimg.com/thumb/msid-133960375,width-1200,height-630,imgsize-104040,overlay-economictimes/articleshow.jpg"
+          "title": "Ledger Hires New Security Chief as Crypto Hacks Hit $1.4 Billion",
+          "description": "Ledger SAS, a maker of hardware devices used to store cryptocurrencies, is combining oversight of its internal technology systems and security under a single executive, as a rise in artificial intelligence-fueled crypto attacks pushes companies to rethink the…",
+          "url": "https://www.insurancejournal.com/news/international/2026/09/10/884591.htm",
+          "source": "Insurance Journal",
+          "published": "2026-09-10T06:59:31Z",
+          "image": "https://www.insurancejournal.com/app/uploads/2026/09/ledger-USB-wallet-at-headquarters-in-paris-bloomberg-scaled.jpg"
         },
         {
-          "title": "Visa Brings Onchain Lending into Everyday Payments",
-          "description": "Visa Brings Onchain Lending into Everyday Payments",
-          "url": "https://www.thehindubusinessline.com/brandhub/pr-release/visa-brings-onchain-lending-into-everyday-payments/article71445440.ece",
-          "source": "BusinessLine",
-          "published": "2026-09-09T02:00:51Z",
-          "image": "https://bl-i.thgim.com/public/incoming/2okxd6/article71445439.ece/alternates/LANDSCAPE_1200/visa-Logo.jpg"
+          "title": "NatGold Digital Activates European Marketing Campaign for NATG",
+          "description": "bull markets media GmbH engaged by 78X to lead first major activation under expanded global marketing program CORAL GABLES, Fla., Sept. 10, 2026 /PRNewswire/ -- NatGold Digital Ltd. (\"NatGold Digital\" or the \"Company\"), a pioneering digital gold mining compan…",
+          "url": "https://www.prnewswire.com/news-releases/natgold-digital-activates-european-marketing-campaign-for-natg-302874264.html",
+          "source": "PRNewswire",
+          "published": "2026-09-10T06:00:00Z",
+          "image": "https://i.ytimg.com/vi/AWXjw9DUJrM/hqdefault.jpg"
         },
         {
-          "title": "Visa Taps Onchain Lending to Finance Stablecoin Card Programs",
-          "description": "The payment processor giant is pairing payment settlement data with blockchain lending tools to help fintechs and stablecoin-linked card programs access working capital.",
-          "url": "https://decrypt.co/377696/visa-onchain-lending-finance-stablecoin-card",
-          "source": "Decrypt",
-          "published": "2026-09-08T18:16:04Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/visa-logo2-gID_7.jpg"
+          "title": "Broadridge Launches DLX, an Always-On Digital Asset Infrastructure Platform for Tokenized Markets",
+          "description": "DLX is the operating system for tokenized finance, combining multi-chain enablement, a programmable smart contract composer, 24/7 transaction capabilities, integrated distribution, and institutional-grade workflow orchestration across traditional and on-chain…",
+          "url": "https://www.prnewswire.com/news-releases/broadridge-launches-dlx-an-always-on-digital-asset-infrastructure-platform-for-tokenized-markets-302873107.html",
+          "source": "PRNewswire",
+          "published": "2026-09-09T06:00:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS242893/Broadridge-2023-Logo.jpg?id=OA2935903&p=facebook"
         },
         {
           "title": "⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
@@ -210,14 +210,6 @@
           "source": "Nature.com",
           "published": "2026-09-07T00:00:00Z",
           "image": null
-        },
-        {
-          "title": "Sebi's Demat 2.0 to debut next week with REC's tokenised bond pilot",
-          "description": "Sebi is set to launch Demat 2.0 next week, with REC expected to issue India's first tokenised bond using CBDC-based settlement",
-          "url": "https://www.business-standard.com/markets/capital-market-news/sebi-s-demat-2-0-to-debut-next-week-with-rec-s-tokenised-bond-pilot-126090301286_1.html",
-          "source": "Business Standard",
-          "published": "2026-09-03T16:52:22Z",
-          "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/20/thumb/fitandfill/1200X628/1787246491-4022.jpg"
         }
       ]
     },
@@ -231,36 +223,36 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Silvergate ex-CEO blames Biden pressure for bank’s 2023 wind-down",
-              "description": "Alan Lane disputed federal findings that cited concentrated crypto deposits, funding risks and weaknesses in Silvergate’s risk management and AML controls.",
-              "url": "https://cointelegraph.com/news/silvergate-ex-ceo-biden-pressure-bank-wind-down",
-              "source": "Cointelegraph",
-              "published": "2026-09-09T10:05:00Z",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M22R46XM5HB5F0NP53KDRX9H/bank-run-attack.png"
-            },
-            {
-              "title": "Bybit Unleashes 100x FX Perpetuals as Crypto Exchange Targets $9.6 Trillion Currency Market",
-              "description": "On 8 September, Bybit added three foreign-exchange perpetual contracts to its derivatives trading platform. The contracts offer EUR/USD, GBP/USD and USD/JPY forex trading to eligible...\nThe post Bybit Unleashes 100x FX Perpetuals as Crypto Exchange Targets $9…",
-              "url": "https://bitcoinfoundation.org/news/trading/bybit-unleashes-100x-fx-perpetuals-as-crypto-exchange-targets-9-6-trillion-currency-market/",
-              "source": "Bitcoinfoundation.org",
-              "published": "2026-09-09T08:46:55Z",
-              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/Bybit-Unleashes-100x-FX-Perpetuals-as-Crypto-Exchange-Targets-9.6-Trillion-Currency-Market-2.webp"
-            },
-            {
-              "title": "Bitcoin Core Lightning Docker bug leaves node operators exposed despite showing updated version",
-              "description": "Four tags served images that reported v26.06.7 without its fixes, prompting digest checks before planned source disclosure.\nThe post Bitcoin Core Lightning Docker bug leaves node operators exposed despite showing updated version appeared first on CryptoSlate.",
-              "url": "https://cryptoslate.com/bitcoin-core-lightning-docker-bug-leaves-node-operators-exposed-despite-showing-updated-version/",
+              "title": "Paolo Ardoino says 650 million people decentralized US debt, but Tether still controls the T-bills",
+              "description": "USDT spreads dollar claims and Treasury funding demand while Tether keeps reserve ownership, portfolio control and gains above face value.\nThe post Paolo Ardoino says 650 million people decentralized US debt, but Tether still controls the T-bills appeared fir…",
+              "url": "https://cryptoslate.com/paolo-ardoino-says-650-million-people-decentralized-us-debt-but-tether-still-controls-the-t-bills/",
               "source": "CryptoSlate",
-              "published": "2026-09-09T08:30:48Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/09/lightning-digest-check.jpg"
+              "published": "2026-09-10T09:45:27Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/09/tether-treasury-vault.jpg"
             },
             {
-              "title": "Iran eases currency rules to bypass US sanctions with crypto: Report",
-              "description": "Iran’s central bank has reportedly relaxed currency controls, giving businesses more scope to use USDT and Bitcoin for trade amid tightening US sanctions.",
-              "url": "https://cointelegraph.com/news/iran-central-bank-encourages-crypto-evade-sanctions",
-              "source": "Cointelegraph",
-              "published": "2026-09-09T07:36:39Z",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M22ESE8ZYFYS2R1YN4CJ0FMK/hi-iran-launching-a-currency.jpg"
+              "title": "The billionaire bankrolling San Francisco's surveillance push is getting pushback over Flock — from his Gen Z son",
+              "description": "Chris Larsen, the crypto billionaire who has helped fund tech used by San Francisco police, says his 19-year-old son has given him pushback.",
+              "url": "https://www.businessinsider.com/billionaire-chris-larsen-san-francisco-flock-pushback-gen-z-son-2026-9#article",
+              "source": "Business Insider",
+              "published": "2026-09-10T09:19:01Z",
+              "image": "https://i.insider.com/6aa1cae8cc23a829a3b8f9ab?width=1200&format=jpeg"
+            },
+            {
+              "title": "Treasury’s $6 billion bond intervention creates a stealth test for Bitcoin’s next move",
+              "description": "The September 10 operation triples the prior limit, but accepted purchases and funding conditions will matter more than capacity alone.\nThe post Treasury’s $6 billion bond intervention creates a stealth test for Bitcoin’s next move appeared first on CryptoSla…",
+              "url": "https://cryptoslate.com/treasurys-6-billion-bond-intervention-creates-a-stealth-test-for-bitcoins-next-move/",
+              "source": "CryptoSlate",
+              "published": "2026-09-10T05:30:29Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/09/treasury-bitcoin-market-pressure.jpg"
+            },
+            {
+              "title": "Quantum, Crypto and AI Are Repricing the Enterprise Cybersecurity Budget",
+              "description": "The bitterest pill to swallow for many mid-market CFOs is not that their cybersecurity budget is growing. It is that some of what they already spend has stopped making economic sense. Artificial intelligence, quantum computing and blockchain-based finance are…",
+              "url": "https://www.pymnts.com/cybersecurity/2026/quantum-crypto-and-ai-are-repricing-the-enterprise-cybersecurity-budget/",
+              "source": "pymnts.com",
+              "published": "2026-09-09T23:23:53Z",
+              "image": "https://www.pymnts.com/wp-content/uploads/2026/09/3-cybersecurity-1.jpg"
             }
           ]
         },
@@ -269,20 +261,28 @@
           "icon": "☁️",
           "articles": [
             {
+              "title": "Hunter Biden’s ‘$LAPTOP’ crypto coin crashes minutes after launch - The Washington Post",
+              "description": "Hunter Biden&rsquo;s &lsquo;$LAPTOP&rsquo; crypto coin crashes minutes after launchThe Washington Post See more headlines &amp; perspectives on Google News ...",
+              "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185571364",
+              "source": "Slashdot.org",
+              "published": "2026-09-09T23:52:35Z",
+              "image": null
+            },
+            {
+              "title": "Circle Buys Payments Firm Tazapay For $400 Million",
+              "description": "Stablecoin issuer Circle Internet Group (NYSE: $CRCL) has agreed to buy Singapore-based cross-border payments compa...",
+              "url": "https://www.cryptoprowl.com/releases/circle-buys-payments-firm-tazapay-for-400-million-7019",
+              "source": "Cryptoprowl.com",
+              "published": "2026-09-09T13:01:00Z",
+              "image": "https://s.yimg.com/lo/mysterio/api/be430b9464ec34dc909edccee4d0a22c430e7419a21f88ef3bf3227ca5ad4664/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F1a51d9936e082effa1af903d105d96b9.jpg"
+            },
+            {
               "title": "Chainlink surges 51% as bullish breakout points to $18",
               "description": "Key takeaways Chainlink has gained 51% over seven days amid improving regulatory sentiment and project-specific developments. Chainlink’s total value secured rose from $43 billion in June to nearly $57 billion by the end of August—an increase of approximately…",
               "url": "https://coinjournal.net/news/chainlink-surges-51-as-bullish-breakout-points-to-18/",
               "source": "Coinjournal.net",
               "published": "2026-09-09T08:15:48Z",
               "image": "https://coinjournal.net/wp-content/uploads/2026/09/ChatGPT-Image-Sep-9-2026-09_12_38-AM.png"
-            },
-            {
-              "title": "Malone Lam pleads guilty in $245M crypto theft conspiracy",
-              "description": "Singaporean national Malone Lam pleaded guilty to participating in a RICO conspiracy that stole and laundered more than $245 million in crypto.",
-              "url": "https://cointelegraph.com/news/malone-lam-pleads-guilty-245m-crypto-theft-conspiracy",
-              "source": "Cointelegraph",
-              "published": "2026-09-09T04:09:51Z",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M225DFFFFZQWQQC6PNGCEK5J/doj-hammer.png"
             },
             {
               "title": "Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution",
@@ -301,12 +301,12 @@
               "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/threat_spotlight-1.jpg"
             },
             {
-              "title": "Darrell Duffie Optimistic On Integration Of Tokenized Finance Into Mainstream Financial Markets",
-              "description": "Hoover Institution fellow Darrell Duffie talks about the integration of tokenized finance into mainstream financial markets and notes that key tokenized innovation lies in the ability to make payments around clock, a feature that traditional banking systems d…",
-              "url": "https://kathleenhays.substack.com/p/duffie-optimistic-on-integration",
-              "source": "Substack.com",
-              "published": "2026-09-08T00:00:00Z",
-              "image": "https://substackcdn.com/image/fetch/$s_!NQzz!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F213332066%2F28e42d05-f55b-44fe-b5f1-24c78ecd06f5%2Ftranscoded-1788039223.png"
+              "title": "Solana beats Bitcoin on one key metric, but a single software bug could still take down the network",
+              "description": "A live reading is already 18, showing why institutions need more than one decentralization metric.\nThe post Solana beats Bitcoin on one key metric, but a single software bug could still take down the network appeared first on CryptoSlate.",
+              "url": "https://cryptoslate.com/solana-beats-bitcoin-on-one-key-metric-but-a-single-software-bug-could-still-take-down-the-network/",
+              "source": "CryptoSlate",
+              "published": "2026-09-07T19:00:42Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/09/solana-threshold-fortress.jpg"
             },
             {
               "title": "Vitalik Buterin now confident AI won’t break crypto, betting 90% of his net worth",
@@ -315,22 +315,6 @@
               "source": "CryptoSlate",
               "published": "2026-09-07T17:30:40Z",
               "image": "https://cryptoslate.com/wp-content/uploads/2026/09/vitalik-ai-crypto-shield.jpg"
-            },
-            {
-              "title": "Bitcoin Starts the Week Flat, But Chainlink Is Flying—Here's Why",
-              "description": "LINK hit an eight-month high after Bottomline, a top-three SWIFT services provider moving $16 trillion a year, tapped Chainlink to connect 600-plus banks to blockchain settlement.",
-              "url": "https://decrypt.co/377566/bitcoin-starts-flat-chainlink-price-flying",
-              "source": "Decrypt",
-              "published": "2026-09-07T15:42:34Z",
-              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/chainlink-decrypt-style-01-gID_7.jpg"
-            },
-            {
-              "title": "Space and Time: where AI agents meet verifiable onchain data",
-              "description": "Space and Time was the first Web3 company to receive funding from Microsoft’s M12 venture arm, backing that helped put the project on the map early. Since then, the company has launched its purpose-built SXT Chain and expanded its Proof of SQL technology acro…",
-              "url": "https://thenextweb.com/news/space-and-time-ai-agents-onchain-data-proof-sql",
-              "source": "The Next Web",
-              "published": "2026-09-06T16:07:55Z",
-              "image": "https://media.thenextweb.com/2026/09/space-and-time-ai-agents-onchain-data-proof-sql.jpg"
             }
           ]
         }
