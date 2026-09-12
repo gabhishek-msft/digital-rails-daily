@@ -1,11 +1,19 @@
 {
-  "date": "September 11, 2026",
+  "date": "September 12, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "Monument Bank delays retail tokenized deposits due to UK regulatory issues",
+          "description": "Monument Bank's delay highlights the tension between innovative financial technologies and regulatory frameworks, impacting future fintech advancements.\nThe post Monument Bank delays retail tokenized deposits due to UK regulatory issues appeared first on Cryp…",
+          "url": "https://cryptobriefing.com/monument-bank-delays-tokenized-deposits-uk/",
+          "source": "Crypto Briefing",
+          "published": "2026-09-10T15:58:04Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/10115800/library-monument-bank-delays-retail-tokenized-deposits-due-to-uk-800x450.png"
+        },
         {
           "title": "Lattice Jolt introduces faster zkVM with post-quantum security",
           "description": "Lattice Jolt's advancements in zkVM technology enhance cryptographic resilience and efficiency, crucial for future-proofing against quantum threats.\nThe post Lattice Jolt introduces faster zkVM with post-quantum security appeared first on Crypto Briefing.",
@@ -21,14 +29,6 @@
           "source": "Bitcoinfoundation.org",
           "published": "2026-09-09T13:52:55Z",
           "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/ZEC1-1.webp"
-        },
-        {
-          "title": "Starknet shields 45 assets with new privacy framework",
-          "description": "Starknet's privacy framework could redefine DeFi privacy standards, balancing user confidentiality with regulatory transparency.\nThe post Starknet shields 45 assets with new privacy framework appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/starknet-shieldnet-privacy-framework/",
-          "source": "Crypto Briefing",
-          "published": "2026-09-08T09:28:41Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/08052837/library-starknet-shields-45-assets-with-new-privacy-framework-800x450.png"
         },
         {
           "title": "What Is Railgun Crypto? Why RAIL Is Back on the Crypto Radar in 2026",
@@ -93,68 +93,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "The Fed’s New Yardstick for Stablecoins",
-          "description": "For years, the debate surrounding stablecoins has been dominated by the mechanics of compliance and the looming threat of regulatory cliffs. However, a September 4, 2026, FEDS Note from Federal Reserve staff shifts the conversation from what issuers must do t…",
-          "url": "https://forkast.news/the-feds-new-yardstick-for-stablecoins/",
-          "source": "Forkast.news",
-          "published": "2026-09-10T09:27:20Z",
-          "image": "https://forkast.news/wp-content/uploads/2026/09/fed-feds-note-stablecoins-yardstick-1024x572.jpg"
+          "title": "Major scope for India-Russia CBDC trade settlements, says Russia’s Sberbank",
+          "description": "Russia’s largest bank, Sberbank on Friday said that it sees major ‌opportunities for India-Russia bilateral trade settlements through CBDCs. The bank also plans to open 10 branches in India.",
+          "url": "https://www.thehindubusinessline.com/money-and-banking/major-scope-for-india-russia-cbdc-trade-settlements-says-russias-sberbank/article71455520.ece",
+          "source": "BusinessLine",
+          "published": "2026-09-11T09:56:11Z",
+          "image": "https://bl-i.thgim.com/public/todays-paper/iuikcy/article70373993.ece/alternates/LANDSCAPE_1200/Sberbank%E2%80%99s-IndiGL5F9BOAI.4.jpg.jpg"
         },
         {
-          "title": "India to push BRICS digital currency link despite hurdles, sources say",
-          "description": "By Nikunj Ohri and Jaspreet Kalra NEW DELHI, Sept 10 (Reuters) - India is pushing to link central bank digital currencies (CBDCs) across BRICS nations for cr...",
-          "url": "https://uk.news.yahoo.com/india-push-brics-digital-currency-090543775.html",
-          "source": "Yahoo Entertainment",
-          "published": "2026-09-10T09:16:39Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/9819bee861228c376848e52cb8cd8850f6de23c0a53f5897f17fbb2e4d90aa69/lightyear_networkapi/resizefill_w800_h533%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F755f4bfa3e78e174b36347c8f8550e84.jpg"
+          "title": "CLARITY Act’s biggest Senate vote could happen before the bill is actually finished",
+          "description": "The Sept. 15 cloture vote would open negotiations while ethics, stablecoin rewards and Tribal demands remain unresolved.\nThe post CLARITY Act’s biggest Senate vote could happen before the bill is actually finished appeared first on CryptoSlate.",
+          "url": "https://cryptoslate.com/clarity-acts-biggest-senate-vote-could-happen-before-the-bill-is-actually-finished/",
+          "source": "CryptoSlate",
+          "published": "2026-09-11T09:20:53Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/09/clarity-senate-debate-door.jpg"
         },
         {
-          "title": "Nandan Nilekani unveils three tokenisation pilots at Global Fintech Fest 2026",
-          "description": "Regulators and central banks expressed concerns regarding cryptocurrencies and stablecoins.  Nandan Nilekani highlighted tokenization's potential within a regulated framework.  He discussed three live pilots implementing tokenization across different sectors.…",
-          "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/nandan-nilekani-launches-groundbreaking-tokenisation-pilots-at-global-fintech-fest-2026-to-regulate-cryptocurrency/articleshow/134000325.cms",
+          "title": "Canada Gives Banks Green Light on Tokenized Deposits as OSFI Clarifies Their Legal Status",
+          "description": "The banking regulator for Canada stated that a tokenized deposit should be treated the same as any other deposit accepted by federally regulated financial institutions․...\nThe post Canada Gives Banks Green Light on Tokenized Deposits as OSFI Clarifies Their L…",
+          "url": "https://bitcoinfoundation.org/news/regulation/canada-gives-banks-green-light-on-tokenized-deposits-as-osfi-clarifies-their-legal-status/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-09-11T08:51:47Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/Canada-Gives-Banks-Green-Light-on-Tokenized-Deposits-as-OSFI-Clarifies-Their-Legal-Status-2.webp"
+        },
+        {
+          "title": "Revised CLARITY Act targets ‘non-decentralized’ DeFi operators",
+          "description": "The bill’s ethics section remained largely unchanged despite being one of the main points of contention ahead of a pivotal Senate vote.",
+          "url": "https://cointelegraph.com/news/revised-clarity-act-targets-non-decentralized-defi-operators",
+          "source": "Cointelegraph",
+          "published": "2026-09-11T06:08:26Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27H8K27MPGK3B4159W99VR1/senate-usa-flag.png"
+        },
+        {
+          "title": "Alpha Ladder WealthX Among Asia's First to Bring xStocks US Tokenised Equities to Institutional and Accredited Investors",
+          "description": "Alpha Ladder WealthX Among Asia's First to Bring xStocks US Tokenised Equities to Institutional and Accredited Investors",
+          "url": "https://www.thehindubusinessline.com/brandhub/pr-release/alpha-ladder-wealthx-among-asias-first-to-bring-xstocks-us-tokenised-equities-to-institutional-and-accredited-investors/article71454909.ece",
+          "source": "BusinessLine",
+          "published": "2026-09-11T06:00:53Z",
+          "image": "https://bl-i.thgim.com/public/incoming/tv75wk/article71454907.ece/alternates/LANDSCAPE_1200/IMAGE_20260911_Press_Release-Alpha-Ladder_WealthX_xStocks_EN.jpg"
+        },
+        {
+          "title": "Singaporean Man Pleads Guilty To Crypto Theft, Faces 20 Years",
+          "description": "Twenty-two-year-old Singaporean national Malone Lam pleaded guilty Tuesday, Sept. 8, in federal court to racketeering conspiracy in connection with the theft of approximately $245 million in bitcoin. Lam admitted to organizing a scheme with co-conspirators to…",
+          "url": "https://www.naturalnews.com/2026-09-11-singaporean-pleads-guilty-crypto-theft-faces-jail.html",
+          "source": "Naturalnews.com",
+          "published": "2026-09-11T06:00:00Z",
+          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/cryptocurrency-theft-bitcoin-laundering-racketeering-conspiracy-4057-original.jpg"
+        },
+        {
+          "title": "Treasury Secretary Bessent Urges Senate to Pass Clarity Act",
+          "description": "U.S. Treasury Secretary Scott Bessent issued a public appeal on Wednesday, Sept. 9, urging the Senate to pass the Clarity Act – a stalled digital asset market structure bill – when lawmakers return from recess next week. In a post on the social media platform…",
+          "url": "https://www.naturalnews.com/2026-09-11-bessent-urges-senate-to-pass-clarity-act.html",
+          "source": "Naturalnews.com",
+          "published": "2026-09-11T06:00:00Z",
+          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/clarity-act-digital-assets-crypto-market-structure-4036-original.jpg"
+        },
+        {
+          "title": "India's BRICS play may have a payment plan with no hard cash",
+          "description": "India is unlikely to back a common BRICS currency at the September 12-13 summit, instead favouring links between national payment systems and CBDCs to make cross-border transactions faster and cheaper. The story traces India’s opposition to a new BRICS curren…",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/india-brics-summit-2026-new-delhi-common-currency-cbdc-digital-rupee-cross-border-payments-rbi-narendra-modi/articleshow/134043376.cms",
           "source": "The Times of India",
-          "published": "2026-09-10T08:41:48Z",
-          "image": "https://img.etimg.com/thumb/msid-134000665,width-1200,height-630,imgsize-41696,overlay-economictimes/articleshow.jpg"
-        },
-        {
-          "title": "U.S. Bank Moves Real Money With USBDC Stablecoin in Live Stellar Cross-Border Pilot",
-          "description": "U.S. Bank constructed a live cross-border payment utilizing USBDC, a proprietary dollar-backed stablecoin, as part of their continuing exploration of blockchain technology. It would move...\nThe post U.S. Bank Moves Real Money With USBDC Stablecoin in Live Ste…",
-          "url": "https://bitcoinfoundation.org/news/companies/u-s-bank-moves-real-money-with-usbdc-stablecoin-in-live-stellar-cross-border-pilot/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-09-10T08:14:24Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/U.S.-Bank-Moves-Real-Money-With-USBDC-Stablecoin-in-Live-Stellar-Cross-Border-Pilot-2.webp"
-        },
-        {
-          "title": "Coinbase CEO Says CLARITY Act Vote Won’t Stop US Crypto Rules From Coming",
-          "description": "Coinbase CEO Brian Armstrong believes the Senate’s Sept. 15 vote on the CLARITY Act alone may not be enough to provide clearer federal regulation for...\nThe post Coinbase CEO Says CLARITY Act Vote Won’t Stop US Crypto Rules From Coming appeared first on Bitco…",
-          "url": "https://bitcoinfoundation.org/news/companies/coinbase-ceo-says-clarity-act-vote-wont-stop-us-crypto-rules-from-coming/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-09-10T07:58:12Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/Coinbase-CEO-Says-CLARITY-Act-Vote-Wont-Stop-US-Crypto-Rules-From-Coming-2.webp"
-        },
-        {
-          "title": "Zamanat Targets the GCC’s $250 Billion SME Financing Gap With a Tokenized Private Credit Fund of Up to $100 Million",
-          "description": "Zamanat has announced its sponsorship of Zamanat Fund CEIC Limited (the “Fund”) — a DIFC-domiciled tokenized private credit fund with a target size of up to USD 100 million. The Fund directly targets the GCC’s estimated $250 billion SME financing gap, where j…",
-          "url": "https://zycrypto.com/zamanat-targets-the-gccs-250-billion-sme-financing-gap-with-a-tokenized-private-credit-fund-of-up-to-100-million/",
-          "source": "ZyCrypto",
-          "published": "2026-09-10T07:48:14Z",
-          "image": "https://zycrypto.com/wp-content/uploads/2026/09/unnamed-2026-09-10T084727.664.jpg"
-        },
-        {
-          "title": "Zamanat Targets GCC’s $250 Billion SME Financing Gap With Up to $100 Million Tokenized Private Credit Fund",
-          "description": "Dubai, UAE, 10th September 2026, Chainwire\nThe post Zamanat Targets GCC’s $250 Billion SME Financing Gap With Up to $100 Million Tokenized Private Credit Fund appeared first on The Daily Hodl.",
-          "url": "https://dailyhodl.com/2026/09/10/zamanat-targets-gccs-250-billion-sme-financing-gap-with-up-to-100-million-tokenized-private-credit-fund/",
-          "source": "The Daily Hodl",
-          "published": "2026-09-10T07:31:34Z",
-          "image": "https://dailyhodl.com/wp-content/uploads/2026/09/15x9_Screen_1_1788963060N6oQdMkW4x.jpg?resize=1920,1152"
-        },
-        {
-          "title": "Coinbase CEO sees U.S. crypto regulation advancing regardless of Clarity Act vote",
-          "description": "Coinbase CEO Brian Armstrong says U.S. crypto regulation could move forward regardless of the outcome of the Clarity Act.",
-          "url": "https://www.cnbc.com/2026/09/10/coinbase-ceo-brian-armstrongto-us-regulatory-clarity-regardless-of-clarity-act-vote-crypto.html",
-          "source": "CNBC",
-          "published": "2026-09-10T05:24:52Z",
-          "image": "https://image.cnbcfm.com/api/v1/image/108360980-1789007313713-gettyimages-2290597034-AFP_C62U9KQ.jpeg?v=1789007347&w=1920&h=1080"
+          "published": "2026-09-11T05:51:32Z",
+          "image": "https://img.etimg.com/thumb/msid-134046426,width-1200,height-630,imgsize-157290,overlay-economictimes/articleshow.jpg"
         }
       ]
     },
@@ -164,28 +164,36 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "India’s Arya.ag to put grain ownership records on Avalanche",
-          "description": "Arya.ag is testing tokenized warehouse receipts on Avalanche for a business holding $2 billion in commodities and supporting $1.3 billion in annual loans.",
-          "url": "https://cointelegraph.com/news/arya-ag-tests-tokenized-grain-receipts-avalanche",
+          "title": "Visa’s $2.5 billion crypto credit bet puts card settlement financing onchain",
+          "description": "Private Visa files size the loans, smart contracts collect repayment, and undisclosed terms determine who takes the first loss.\nThe post Visa’s $2.5 billion crypto credit bet puts card settlement financing onchain appeared first on CryptoSlate.",
+          "url": "https://cryptoslate.com/visas-2-5-billion-onchain-credit-bet-puts-card-settlement-financing-onchain/",
+          "source": "CryptoSlate",
+          "published": "2026-09-10T20:00:19Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/09/visa-settlement-card-bridge-.jpg"
+        },
+        {
+          "title": "EU finance groups push to remove tokenized securities cap",
+          "description": "European finance and tokenization groups say Brussels should remove limits on assets admitted to DLT infrastructure or set a 1.5 trillion euro baseline if a cap remains.",
+          "url": "https://cointelegraph.com/news/european-finance-groups-urge-eu-to-scrap-tokenized-securities-cap-propose-15t-fallback",
           "source": "Cointelegraph",
-          "published": "2026-09-10T09:30:00Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M255E52AW9256839B574KAMH/india-tokenization-grain.png"
+          "published": "2026-09-10T15:49:22Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25YE6DKF8ZSF4J32E1GZPK8/regulations-eu-europe-bitcoin.png"
         },
         {
-          "title": "Ledger Hires New Security Chief as Crypto Hacks Hit $1.4 Billion",
-          "description": "Ledger SAS, a maker of hardware devices used to store cryptocurrencies, is combining oversight of its internal technology systems and security under a single executive, as a rise in artificial intelligence-fueled crypto attacks pushes companies to rethink the…",
-          "url": "https://www.insurancejournal.com/news/international/2026/09/10/884591.htm",
-          "source": "Insurance Journal",
-          "published": "2026-09-10T06:59:31Z",
-          "image": "https://www.insurancejournal.com/app/uploads/2026/09/ledger-USB-wallet-at-headquarters-in-paris-bloomberg-scaled.jpg"
+          "title": "Nasdaq invests $100M in Kraken parent company Payward to advance tokenized equities",
+          "description": "Global financing company and stock exchange Nasdaq Inc. today announced it has invested $100 million in Payward Inc., the parent company of cryptocurrency exchange Kraken, expanding its relationship to advance work on a new token framework for equities. In Ma…",
+          "url": "https://siliconangle.com/2026/09/10/nasdaq-invests-100m-in-kraken-parent-company-payward-to-advance-tokenized-equities/",
+          "source": "SiliconANGLE News",
+          "published": "2026-09-10T15:30:58Z",
+          "image": "https://images.siliconangle.com/blogs.dir/1/files/2020/06/stock-market-2616931_1280.jpg"
         },
         {
-          "title": "NatGold Digital Activates European Marketing Campaign for NATG",
-          "description": "bull markets media GmbH engaged by 78X to lead first major activation under expanded global marketing program CORAL GABLES, Fla., Sept. 10, 2026 /PRNewswire/ -- NatGold Digital Ltd. (\"NatGold Digital\" or the \"Company\"), a pioneering digital gold mining compan…",
-          "url": "https://www.prnewswire.com/news-releases/natgold-digital-activates-european-marketing-campaign-for-natg-302874264.html",
-          "source": "PRNewswire",
-          "published": "2026-09-10T06:00:00Z",
-          "image": "https://i.ytimg.com/vi/AWXjw9DUJrM/hqdefault.jpg"
+          "title": "Coinbase, Moov to provide stablecoin infrastructure for US community banks",
+          "description": "Coinbase and Moov partnered to offer stablecoin infrastructure access to over 1,000 community banks and credit unions, as more financial institutions explore stablecoins.",
+          "url": "https://cointelegraph.com/news/coinbase-moov-stablecoin-infrastructure-banks",
+          "source": "Cointelegraph",
+          "published": "2026-09-10T13:35:23Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25QS3J7E4QKZ8FBTX1J64KM/hi-listing-frenzy-coinbase-has-added-nearly-100-assets-for-trading-in-2021-3.jpg"
         },
         {
           "title": "Broadridge Launches DLX, an Always-On Digital Asset Infrastructure Platform for Tokenized Markets",
@@ -223,28 +231,12 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Paolo Ardoino says 650 million people decentralized US debt, but Tether still controls the T-bills",
-              "description": "USDT spreads dollar claims and Treasury funding demand while Tether keeps reserve ownership, portfolio control and gains above face value.\nThe post Paolo Ardoino says 650 million people decentralized US debt, but Tether still controls the T-bills appeared fir…",
-              "url": "https://cryptoslate.com/paolo-ardoino-says-650-million-people-decentralized-us-debt-but-tether-still-controls-the-t-bills/",
+              "title": "Binance pre-IPO contract pushes Anthropic to a $2.1 trillion implied valuation",
+              "description": "Its leveraged contract uses a one-billion-share denominator that can change before IPO terms create an external anchor.\nThe post Binance pre-IPO contract pushes Anthropic to a $2.1 trillion implied valuation appeared first on CryptoSlate.",
+              "url": "https://cryptoslate.com/binance-pre-ipo-contract-pushes-anthropic-to-a-2-1-trillion-implied-valuation/",
               "source": "CryptoSlate",
-              "published": "2026-09-10T09:45:27Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/09/tether-treasury-vault.jpg"
-            },
-            {
-              "title": "The billionaire bankrolling San Francisco's surveillance push is getting pushback over Flock — from his Gen Z son",
-              "description": "Chris Larsen, the crypto billionaire who has helped fund tech used by San Francisco police, says his 19-year-old son has given him pushback.",
-              "url": "https://www.businessinsider.com/billionaire-chris-larsen-san-francisco-flock-pushback-gen-z-son-2026-9#article",
-              "source": "Business Insider",
-              "published": "2026-09-10T09:19:01Z",
-              "image": "https://i.insider.com/6aa1cae8cc23a829a3b8f9ab?width=1200&format=jpeg"
-            },
-            {
-              "title": "Treasury’s $6 billion bond intervention creates a stealth test for Bitcoin’s next move",
-              "description": "The September 10 operation triples the prior limit, but accepted purchases and funding conditions will matter more than capacity alone.\nThe post Treasury’s $6 billion bond intervention creates a stealth test for Bitcoin’s next move appeared first on CryptoSla…",
-              "url": "https://cryptoslate.com/treasurys-6-billion-bond-intervention-creates-a-stealth-test-for-bitcoins-next-move/",
-              "source": "CryptoSlate",
-              "published": "2026-09-10T05:30:29Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/09/treasury-bitcoin-market-pressure.jpg"
+              "published": "2026-09-11T05:10:17Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/09/anthropic-binance-valuation-signal.jpg"
             },
             {
               "title": "Quantum, Crypto and AI Are Repricing the Enterprise Cybersecurity Budget",
@@ -261,28 +253,52 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "Hunter Biden’s ‘$LAPTOP’ crypto coin crashes minutes after launch - The Washington Post",
-              "description": "Hunter Biden&rsquo;s &lsquo;$LAPTOP&rsquo; crypto coin crashes minutes after launchThe Washington Post See more headlines &amp; perspectives on Google News ...",
-              "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185571364",
-              "source": "Slashdot.org",
-              "published": "2026-09-09T23:52:35Z",
+              "title": "Show HN: Reversing a ClickFix malware with a blockchain-based C2",
+              "description": "Article URL: https://github.com/v-pun215/Tourmaline\nComments URL: https://news.ycombinator.com/item?id=49655228\nPoints: 1\n# Comments: 0",
+              "url": "https://github.com/v-pun215/Tourmaline",
+              "source": "Github.com",
+              "published": "2026-09-11T08:33:53Z",
+              "image": "https://opengraph.githubassets.com/a48f1878a9625ab982ccb711d9ee7363651b02efdd95f681892f0739085284be/v-pun215/Tourmaline"
+            },
+            {
+              "title": "22-year-old school dropout steals Rs 23,45,67,77,750 in crypto, buys 30 cars, custom Porsches, Lamborghinis and Ferraris, and a watch worth about Rs 20 crore",
+              "description": "A Singaporean man admitted his role in a cryptocurrency racketeering operation.  This enterprise allegedly stole and laundered over $245 million in digital assets.  Social engineering tactics were used to target cryptocurrency holders for theft.  The stolen f…",
+              "url": "https://economictimes.indiatimes.com/news/new-updates/22-year-old-school-dropout-steals-rs-23456777750-in-crypto-buys-30-cars-custom-porsches-lamborghinis-and-ferraris-and-a-watch-worth-about-rs-20-crore/articleshow/134045672.cms",
+              "source": "The Times of India",
+              "published": "2026-09-11T05:39:20Z",
+              "image": "https://img.etimg.com/thumb/msid-134048009,width-1200,height-630,imgsize-1074876,overlay-economictimes/articleshow.jpg"
+            },
+            {
+              "title": "AI Agents Just Slashed the Cost of a Quantum Attack on Bitcoin",
+              "description": "The ECDSA.Fail challenge cut a resource benchmark for one component of a potential quantum attack by 86%.",
+              "url": "https://decrypt.co/377925/ai-agents-slash-cost-quantum-attack-bitcoin",
+              "source": "Decrypt",
+              "published": "2026-09-10T20:34:50Z",
+              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Bitcoin-decrypt-style-19-gID_7.png"
+            },
+            {
+              "title": "SloppyRAT: A New Tool For Ransomware Attacks",
+              "description": "IntroductionIn June 2026, Zscaler ThreatLabz identified a new malware family, tracked as SloppyRAT, that is likely leveraged by a ransomware-related threat actor. ThreatLabz observed SloppyRAT being delivered through a multi-stage ClickFix infection chain. Th…",
+              "url": "https://www.zscaler.com/blogs/security-research/sloppyrat-new-tool-ransomware-attacks",
+              "source": "Zscaler.com",
+              "published": "2026-09-10T14:43:37Z",
+              "image": "https://cms.zscaler.com/sites/default/files/images/blogs/sloppyrat_blog_cover.jpg"
+            },
+            {
+              "title": "Blockaid Expands Onchain Monitoring as Infrastructure Failures Drive 74% of Crypto Losses",
+              "description": "New capabilities continuously discover onchain exposure, map third-party dependencies, and detect ecosystem-wide threats before they reach a team's assets NEW YORK, Sept. 10, 2026 /PRNewswire/ -- Blockaid announced an expansion of its Onchain Monitoring capab…",
+              "url": "https://www.prnewswire.com/news-releases/blockaid-expands-onchain-monitoring-as-infrastructure-failures-drive-74-of-crypto-losses-302874819.html",
+              "source": "PRNewswire",
+              "published": "2026-09-10T14:00:00Z",
               "image": null
             },
             {
-              "title": "Circle Buys Payments Firm Tazapay For $400 Million",
-              "description": "Stablecoin issuer Circle Internet Group (NYSE: $CRCL) has agreed to buy Singapore-based cross-border payments compa...",
-              "url": "https://www.cryptoprowl.com/releases/circle-buys-payments-firm-tazapay-for-400-million-7019",
-              "source": "Cryptoprowl.com",
-              "published": "2026-09-09T13:01:00Z",
-              "image": "https://s.yimg.com/lo/mysterio/api/be430b9464ec34dc909edccee4d0a22c430e7419a21f88ef3bf3227ca5ad4664/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F1a51d9936e082effa1af903d105d96b9.jpg"
-            },
-            {
-              "title": "Chainlink surges 51% as bullish breakout points to $18",
-              "description": "Key takeaways Chainlink has gained 51% over seven days amid improving regulatory sentiment and project-specific developments. Chainlink’s total value secured rose from $43 billion in June to nearly $57 billion by the end of August—an increase of approximately…",
-              "url": "https://coinjournal.net/news/chainlink-surges-51-as-bullish-breakout-points-to-18/",
-              "source": "Coinjournal.net",
-              "published": "2026-09-09T08:15:48Z",
-              "image": "https://coinjournal.net/wp-content/uploads/2026/09/ChatGPT-Image-Sep-9-2026-09_12_38-AM.png"
+              "title": "Stablecoin Summit 2026 by XREX Group Returns to Singapore as Stablecoins Mature Into a Financial Infrastructure",
+              "description": "Stablecoin Summit 2026 by XREX Group Returns to Singapore as Stablecoins Mature Into a Financial Infrastructure",
+              "url": "https://www.thehindubusinessline.com/brandhub/pr-release/stablecoin-summit-2026-by-xrex-group-returns-to-singapore-as-stablecoins-mature-into-a-financial-infrastructure/article71450140.ece",
+              "source": "BusinessLine",
+              "published": "2026-09-10T04:00:21Z",
+              "image": "https://bl-i.thgim.com/public/incoming/7dxpac/article71450139.ece/alternates/LANDSCAPE_1200/20260909220701EDT_image_1.jpg"
             },
             {
               "title": "Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution",
@@ -293,28 +309,12 @@
               "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim6TzHNI7Stg7pvo_Pu0vMltU2jmnIr922wxLWIYFfaRpN3G7rVZCy76FgWwyZUCT36dRygtzxVmZPFTPSm1FuRrmqXwuvTjJhxwJE7zl34ZHuwZUEDdlrnunlem-Xo7KS6Buy1xlHYYxf-0u-d3qWer-o64MrNvrsh5V1WC7dVtGVwubINEgB1AtfQBNC/s1700-nu-rw-lo-l85-e365/brazil-hackers.jpg"
             },
             {
-              "title": "ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager",
-              "description": "We assess with moderate confidence that the attacks are not targeted at a particular organization, but are a part of a cryptocurrency and credentials-stealing operation using the Amatera stealer as the primary payload.",
-              "url": "https://blog.talosintelligence.com/clearfake-webdav-infection-chain/",
-              "source": "Talosintelligence.com",
-              "published": "2026-09-08T10:01:07Z",
-              "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/threat_spotlight-1.jpg"
-            },
-            {
               "title": "Solana beats Bitcoin on one key metric, but a single software bug could still take down the network",
               "description": "A live reading is already 18, showing why institutions need more than one decentralization metric.\nThe post Solana beats Bitcoin on one key metric, but a single software bug could still take down the network appeared first on CryptoSlate.",
               "url": "https://cryptoslate.com/solana-beats-bitcoin-on-one-key-metric-but-a-single-software-bug-could-still-take-down-the-network/",
               "source": "CryptoSlate",
               "published": "2026-09-07T19:00:42Z",
               "image": "https://cryptoslate.com/wp-content/uploads/2026/09/solana-threshold-fortress.jpg"
-            },
-            {
-              "title": "Vitalik Buterin now confident AI won’t break crypto, betting 90% of his net worth",
-              "description": "Ethereum co-founder Vitalik Buterin has pushed back against predictions that artificial intelligence could trigger a 50% Bitcoin crash within two years. The debate began after Silicon Valley investor and AI-risk commentator Liron Shapiro said he sees a 50% pr…",
-              "url": "https://cryptoslate.com/vitalik-buterin-now-confident-ai-wont-break-crypto-betting-90-of-his-net-worth/",
-              "source": "CryptoSlate",
-              "published": "2026-09-07T17:30:40Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/09/vitalik-ai-crypto-shield.jpg"
             }
           ]
         }
