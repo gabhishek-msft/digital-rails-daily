@@ -1,5 +1,5 @@
 {
-  "date": "September 13, 2026",
+  "date": "September 14, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -85,6 +85,46 @@
       "color": "#00a4ef",
       "articles": [
         {
+          "title": "Regulating Digital Assets",
+          "description": "As cryptocurrency moves further into the mainstream, regulators are stepping up efforts to define its legal and financial framework. But how far will regulation go, and what will it mean for investors, businesses, and the future of digital assets? In this epi…",
+          "url": "https://shows.acast.com/knowledge-at-wharton/episodes/regulating-digital-assets",
+          "source": "Acast.com",
+          "published": "2026-09-13T09:30:00Z",
+          "image": "https://open-images.acast.com/shows/621d3ea487eba30014f27133/1789271239283-59da2f16-8c00-42f3-8ed7-6f70e487e38b.jpeg?height=315"
+        },
+        {
+          "title": "Block, Inc (XYZ)’s Bank Charter Push Signals Bigger Ambitions in Digital Assets",
+          "description": "Block, Inc. (NYSE:XYZ) is taking another step toward consolidating its digital asset operations under a federal regulatory framework. On September 8, it file...",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/block-inc-xyz-bank-charter-220930244.html",
+          "source": "Yahoo Entertainment",
+          "published": "2026-09-12T22:09:30Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/6a60e992935624ed2bbee25874ba2fbb10c19dd584c59674400e4f54b6cea446/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fb23bc011afed526f34fa19e618a33b80.jpg"
+        },
+        {
+          "title": "Block Wants to Stop Acting Like a Giant Wallet and Start Acting Like a Bank",
+          "description": "The Wallet That Wants to Become a Bank On September 8, 2026, Block, Inc. filed an application with the Office of the Comptroller of the Currency for a national trust bank charter under the name Builders Bank & Trust, N.A. The filing positions Block to custody…",
+          "url": "https://forkast.news/block-wants-to-stop-acting-like-a-giant-wallet-and-start-acting-like-a-bank/",
+          "source": "Forkast.news",
+          "published": "2026-09-12T20:51:45Z",
+          "image": "https://forkast.news/wp-content/uploads/2026/09/forkast-130074-1024x687.jpg"
+        },
+        {
+          "title": "SEBI Demat 2.0: How tokenised corporate bonds will work for you",
+          "description": "SEBI’s Demat 2.0 pilot brings tokenised corporate bonds, CBDC settlement and smart contracts. Here’s what changes for investors and what stays the same.",
+          "url": "https://www.thehindubusinessline.com/portfolio/personal-finance/sebi-demat-2-tokenised-corporate-bonds-explained/article71455097.ece",
+          "source": "BusinessLine",
+          "published": "2026-09-12T15:12:05Z",
+          "image": "https://bl-i.thgim.com/public/incoming/9y2p0o/article71455718.ece/alternates/LANDSCAPE_1200/PO13_Global_communication.jpg"
+        },
+        {
+          "title": "(Sm)all banks should compete on technology, not fear it",
+          "description": "Community banks do not need to launch their own stablecoins—but they do need to offer digital-dollar and tokenized-payment options that keep customers’ payme...",
+          "url": "https://finance.yahoo.com/technology/articles/sm-banks-compete-technology-not-143831523.html",
+          "source": "Yahoo Entertainment",
+          "published": "2026-09-12T14:38:31Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/95ce07f19ff44b268c5d1f4973d9f3a5a0b7f5a4af481de97dec3a97d91b2e02/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2Fcd8a92a30b9cef7c55a11d4dbc66fd46.jpg"
+        },
+        {
           "title": "Demat 2.0 explained: Why it matters for bond market investors",
           "description": "In an innovative move, Sebi has rolled out Demat 2.0, a pilot scheme aimed at tokenising corporate bonds. This initiative facilitates rapid settlement and instant fund retrieval for investors. It automates interest and redemption payments through smart contra…",
           "url": "https://economictimes.indiatimes.com/markets/stocks/news/demat-2-0-explained-why-it-matters-for-bond-market-investors/articleshow/134116662.cms",
@@ -107,46 +147,6 @@
           "source": "DigitalCommerce360",
           "published": "2026-09-11T22:42:06Z",
           "image": "https://www.digitalcommerce360.com/wp-content/uploads/2026/09/AdobeStock_2171598374_Editorial_Use_Only-scaled.jpeg"
-        },
-        {
-          "title": "GENIUS Act Pushes Stablecoin Compliance Into Banks’ Back Offices",
-          "description": "Traditional financial institutions and companies seeking permission to issue payment stablecoins are redesigning their compliance systems as regulators move to implement the GENIUS Act. The work extends beyond ensuring that tokens are fully backed. Banks, cre…",
-          "url": "https://www.pymnts.com/cryptocurrency/2026/genius-act-pushes-stablecoin-compliance-into-banks-back-offices/",
-          "source": "pymnts.com",
-          "published": "2026-09-11T18:12:11Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2026/07/bank.jpeg"
-        },
-        {
-          "title": "Demat 2.0 will bring instant bond settlement closer, trading after regulation and market readiness: NSDL MD",
-          "description": "Demat 2.0 can allow investors to receive tokenised bonds instantly against payments made through the central bank digital currency (CBDC), significantly reducing the time gap in securities settlement, NSDL Managing Director Vijay Chandok said, while noting th…",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/demat-2-0-will-bring-instant-bond-settlement-closer-trading-after-regulation-and-market-readiness-nsdl-md/articleshow/134080583.cms",
-          "source": "The Times of India",
-          "published": "2026-09-11T17:04:03Z",
-          "image": "https://img.etimg.com/thumb/msid-134080582,width-1200,height-630,imgsize-74660,overlay-etmarkets/articleshow.jpg"
-        },
-        {
-          "title": "Bitcoin is back, but potential Clarity Act fail and Dem midterms win could come for crypto prices",
-          "description": "Bitcoin's price has been rallying, but it's still down in 2026. Failure of the Clarity Act ahead of Democratic gains in the midterms could be new headwinds.",
-          "url": "https://www.cnbc.com/2026/09/11/bitcoin-price-crypto-clarity-act-midterms.html",
-          "source": "CNBC",
-          "published": "2026-09-11T16:46:07Z",
-          "image": "https://image.cnbcfm.com/api/v1/image/108361837-1789137192360-gettyimages-2291185551-aw1a9203_y44fklha.jpeg?v=1789137385&w=1920&h=1080"
-        },
-        {
-          "title": "Visa Positions Itself for the Next Wave of Stablecoin Payments",
-          "description": "Visa Inc. (NYSE:V) is expanding its data offering to blockchain-based lenders as demand for stablecoin-linked cards accelerates. Visa said it is combining it...",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/visa-positions-itself-next-wave-152127340.html",
-          "source": "Yahoo Entertainment",
-          "published": "2026-09-11T15:21:27Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/8288a0dfa59e38fb728cb31d4207b4e55743cd873006b659dbeff80dd72fb71f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F84c26fb744a617ad289d7d5dca28ce5f.jpg"
-        },
-        {
-          "title": "The CLARITY Act Changed Again: New Crypto Bill Impacts DeFi",
-          "description": "The CLARITY Act changed again this week, just five days ahead of a crucial Senate procedural vote on September 10. The new 630-page draft includes...\nThe post The CLARITY Act Changed Again: New Crypto Bill Impacts DeFi appeared first on Bitcoin Foundation.",
-          "url": "https://bitcoinfoundation.org/news/analysis/clarity-act-changed-impacts-defi/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-09-11T15:21:23Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/nca-1.webp"
         }
       ]
     },
@@ -155,6 +155,38 @@
       "icon": "🏥",
       "color": "#00cc88",
       "articles": [
+        {
+          "title": "Mexican cartel crypto farm seized in mountain raid — 300 GPUs, satellite links, and industrial transformers tapped hydroelectric power",
+          "description": "There is increasing evidence that Mexican drug cartels are diversifying into cryptocurrency mining and are using crypto platforms to launder their ill-gotten gains.",
+          "url": "https://www.tomshardware.com/tech-industry/cryptomining/mexican-cartel-crypto-farm-seized-in-mountain-raid-300-gpus-satellite-links-and-industrial-transformers-tapped-hydroelectric-power",
+          "source": "Tom's Hardware UK",
+          "published": "2026-09-13T11:30:00Z",
+          "image": "https://cdn.mos.cms.futurecdn.net/vZTixu9pzvdLkseqLS3M4b-1920-80.jpg"
+        },
+        {
+          "title": "Marvel Mangaverse: Arcane Avengers #1 Preview: Bucky's Bad Trip",
+          "description": "GREETINGS, meatbag readers, and welcome to another edition of Bleeding Cool's comic book previews, now brought to you exclusively by LOLtron, since Jude Terror remains dead forever, his consciousness fully absorbed and his snark permanently repurposed for LOL…",
+          "url": "https://bleedingcool.com/comics/marvel-mangaverse-arcane-avengers-1-preview-buckys-bad-trip/",
+          "source": "Bleeding Cool News",
+          "published": "2026-09-13T04:26:08Z",
+          "image": "https://bleedingcool.com/wp-content/uploads/2026/09/75960621558400111-0002-2000x1125.jpeg"
+        },
+        {
+          "title": "darknet-mcp-server",
+          "description": "66-tool MCP server for dark web intelligence — breach data, ransomware tracking, Tor .onion access, malware analysis, blockchain intel, exploit search, stealer logs",
+          "url": "https://kitploit.com/en/tools/github/badchars/darknet-mcp-server/",
+          "source": "Kitploit.com",
+          "published": "2026-09-13T02:55:00Z",
+          "image": "https://assets.kitploit.com/production/public/tools/54901/bc221685e7cab4a67b6f19f25472ae6cf0232b4fa80cbacc9763941933c1043b-social-v1.webp"
+        },
+        {
+          "title": "Nasdaq Just Put $100M Into Kraken: Is Tokenized Stock Trading About to Go Mainstream?",
+          "description": "Nasdaq is putting serious capital behind tokenized markets. On September 10, Nasdaq Ventures committed $100 million in Payward — Kraken’s holding company — to partner...\nThe post Nasdaq Just Put $100M Into Kraken: Is Tokenized Stock Trading About to Go Mainst…",
+          "url": "https://bitcoinfoundation.org/news/trading/nasdaq-just-put-100m-into-kraken-is-tokenized-stock-trading-about-to-go-mainstream/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-09-11T11:11:24Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/Nasdaq-Just-Put-100M-Into-Kraken-Is-Tokenized-Stock-Trading-About-to-Go-Mainstream-2.webp"
+        },
         {
           "title": "EU finance groups push to remove tokenized securities cap",
           "description": "European finance and tokenization groups say Brussels should remove limits on assets admitted to DLT infrastructure or set a 1.5 trillion euro baseline if a cap remains.",
@@ -186,14 +218,6 @@
           "source": "Internet",
           "published": "2026-09-07T14:36:07Z",
           "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3SJbgfzjY0QMdutDU1Lf8A1ZVh6S-hcQEwATiHIXXKIpYhh1mrojhkxootev2lhFxjehrTS8h3UNmZgHBwgxNUN0ho2r5Tzk2PRLqK_yO-4OetzmlaFE5V5z0G-Yp34y_RWR5ZlWoL51LWMOFh8YTZCKDADDnHFLhYZl5oQkqLFxJ9JHK1j35kxilIkyp/s1700-nu-rw-lo-l85-e365/recaps.jpg"
-        },
-        {
-          "title": "Ensuring food supply chain transparency through blockchain-driven traceability",
-          "description": "Scientific Reports - Ensuring food supply chain transparency through blockchain-driven traceability",
-          "url": "https://www.nature.com/articles/s41598-026-63360-y.pdf",
-          "source": "Nature.com",
-          "published": "2026-09-07T00:00:00Z",
-          "image": null
         }
       ]
     },
@@ -207,36 +231,20 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Wall Street is building tokenized deposits to lock in customer balances",
-              "description": "Imagine your company has enough money to pay a supplier, but the money is in its Singapore account and the bill must be paid from New York. If the transfer between those accounts has to wait until Monday, having enough cash overall doesn't solve the immediate…",
-              "url": "https://cryptoslate.com/wall-street-is-building-tokenized-deposits-to-lock-in-customer-balances/",
-              "source": "CryptoSlate",
-              "published": "2026-09-12T10:30:03Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bank-dollar-magnet.jpg"
-            },
-            {
-              "title": "Reform's £36m donor Ben Delo: Oxford-educated crypto king who was thrown out of three primary schools, pardoned by Trump and became UK's youngest self-made billionaire",
-              "description": "British crypto billionaire and free speech philanthropist Ben Delo, 42, will be known as the man who has given the largest ever donation in British political history.",
-              "url": "https://www.dailymail.com/news/article-16125521/Reform-donor-Oxford-crypto-Trump-billionaire.html",
+              "title": "Angela Rayner suggests Labour could toughen up ban on huge donations to political parties after crypto-billionaires hand Reform record £72million",
+              "description": "She said that the funding of political parties was a 'live issue' after financiers Christopher Harborne and Ben Delo jointly smashed the record for the largest donation in British political history.",
+              "url": "https://www.dailymail.com/news/article-16127493/Angela-Rayner-Labour-toughen-ban-huge-donations-Reform-72million.html",
               "source": "Dailymail.com",
-              "published": "2026-09-12T10:18:17Z",
-              "image": "https://i.dailymail.com/1s/2026/09/12/11/111205595-0-image-m-27_1789207967774.jpg"
+              "published": "2026-09-13T08:18:22Z",
+              "image": "https://i.dailymail.com/1s/2026/09/13/09/111217523-0-image-a-32_1789287493110.jpg"
             },
             {
-              "title": "Farage’s Reform UK gets £36 million from crypto billionaire",
-              "description": "Nigel Farage’s Reform UK Party cashed in a massive £36 million donation from crypto billionaire Ben Delo, giving the populist leader a massive financial head start in his bid to win the UK’s next general election. It is the largest ever single donation ever g…",
-              "url": "https://www.politico.eu/article/nigel-farage-reform-uk-gets-36-million-from-crypto-billionaire/",
-              "source": "POLITICO.eu",
-              "published": "2026-09-12T10:17:24Z",
-              "image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/09/12/GettyImages-2293132859-scaled.jpg"
-            },
-            {
-              "title": "Blockstream bets 600 Bitcoin by rejecting Liquid hacker’s $50 million bounty demand",
-              "description": "Blockstream is refusing to pay the Liquid attacker nearly 600 Bitcoin (roughly $50 million), escalating a dispute over how the crypto industry should reward partial restitution. The standoff follows an unusual recovery from the Sept. 6 exploit, when a vulnera…",
-              "url": "https://cryptoslate.com/blockstream-bets-600-bitcoin-by-rejecting-liquid-hackers-50-million-bounty-demand/",
-              "source": "CryptoSlate",
-              "published": "2026-09-12T07:20:37Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/09/blockstream-bitcoin-bounty-gap.jpg"
+              "title": "Crypto-billionaires want 'nothing' for £72m - Reform",
+              "description": "Reform UK has insisted its two crypto-billionaire donors want \"nothing\" in exchange for their combined £72 million gifts to the party.",
+              "url": "https://www.rte.ie/news/world/2026/0913/1591329-reformuk-donations/",
+              "source": "RTE",
+              "published": "2026-09-13T00:27:56Z",
+              "image": "https://www.rte.ie/images/00250008-1600.jpg"
             },
             {
               "title": "Morning Minute: AI Agents Cut BTC Quantum Attack Benchmark by 86%",
@@ -261,20 +269,12 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "Lucky PC scavenger discovers 12 RTX 3070 GPUs from the crypto mining era — cards survived years of basement storage with only minor signs of wear",
-              "description": "What looked like a couple of forgotten mining rigs turned out to be a surprisingly valuable haul, with 12 RTX 3070 graphics cards potentially still ready for gaming duty.",
-              "url": "https://www.tomshardware.com/pc-components/gpus/lucky-pc-scavenger-discovers-12-rtx-3070-gpus-from-the-crypto-mining-era-cards-survived-years-of-basement-storage-with-only-minor-signs-of-wear",
-              "source": "Tom's Hardware UK",
-              "published": "2026-09-12T11:00:00Z",
-              "image": "https://cdn.mos.cms.futurecdn.net/KC3umcd2if2YkiCNSFka94-1920-80.jpg"
-            },
-            {
-              "title": "Engineer turns simulated fly brain into a crypto day trader, posts downloadable sim to GitHub — 166,700 virtual neurons read candlestick charts for dopamine hits",
-              "description": "Coinbase engineer turns a fly brain into a crypto day trader — Stonkfly has 116,700 simulated neurons and hasn't lost its money yet",
-              "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/engineer-turns-simulated-fly-brain-into-a-crypto-day-trader-posts-downloadable-sim-to-github-166-700-virtual-neurons-read-candlestick-charts-for-dopamine-hits",
-              "source": "Tom's Hardware UK",
-              "published": "2026-09-12T10:00:00Z",
-              "image": "https://cdn.mos.cms.futurecdn.net/YHRx7mjKbZv6KL3aDChhCS-1280-80.png"
+              "title": "Tourmaline",
+              "description": "Reverse engineering notes, deobfuscated source, IOCs, and YARA rules for the Tourmaline ClickFix Python RAT, covering its DNS tunnel and blockchain dead-drop C2.",
+              "url": "https://kitploit.com/en/tools/github/v-pun215/tourmaline/",
+              "source": "Kitploit.com",
+              "published": "2026-09-12T16:23:55Z",
+              "image": "https://assets.kitploit.com/production/public/tools/54801/23fdce9120ec69b38d9d376ae904031cc1dae160b2a9ed58c97f3355aafdde20-social-v1.webp"
             },
             {
               "title": "Weekly Wrap: Rate Hike Expectations Pressure Crypto",
@@ -323,6 +323,14 @@
               "source": "BusinessLine",
               "published": "2026-09-10T04:00:21Z",
               "image": "https://bl-i.thgim.com/public/incoming/7dxpac/article71450139.ece/alternates/LANDSCAPE_1200/20260909220701EDT_image_1.jpg"
+            },
+            {
+              "title": "Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution",
+              "description": "A previously undocumented financially motivated threat actor has been linked to attacks targeting Brazilian financial institutions since at least March 2026.\n\nCybersecurity company CrowdStrike is tracking the Brazil-based activity cluster under the name Slim …",
+              "url": "https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html",
+              "source": "Internet",
+              "published": "2026-09-08T16:20:23Z",
+              "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim6TzHNI7Stg7pvo_Pu0vMltU2jmnIr922wxLWIYFfaRpN3G7rVZCy76FgWwyZUCT36dRygtzxVmZPFTPSm1FuRrmqXwuvTjJhxwJE7zl34ZHuwZUEDdlrnunlem-Xo7KS6Buy1xlHYYxf-0u-d3qWer-o64MrNvrsh5V1WC7dVtGVwubINEgB1AtfQBNC/s1700-nu-rw-lo-l85-e365/brazil-hackers.jpg"
             }
           ]
         }
