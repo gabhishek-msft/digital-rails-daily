@@ -1,11 +1,19 @@
 {
-  "date": "September 14, 2026",
+  "date": "September 15, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "Coinbase Just Abandoned Its Biggest Wallet Rebrand: What Went Wrong With the Base App?",
+          "description": "Coinbase has reversed one of its biggest consumer crypto rebrands. Just over a year after transforming Coinbase Wallet into the Base App, the company is...\nThe post Coinbase Just Abandoned Its Biggest Wallet Rebrand: What Went Wrong With the Base App? appeare…",
+          "url": "https://bitcoinfoundation.org/news/companies/coinbase-abandoned-wallet-rebrand-base-app/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-09-13T10:00:47Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/base-1.webp"
+        },
         {
           "title": "Monument Bank delays retail tokenized deposits due to UK regulatory issues",
           "description": "Monument Bank's delay highlights the tension between innovative financial technologies and regulatory frameworks, impacting future fintech advancements.\nThe post Monument Bank delays retail tokenized deposits due to UK regulatory issues appeared first on Cryp…",
@@ -29,14 +37,6 @@
           "source": "Bitcoinfoundation.org",
           "published": "2026-09-09T13:52:55Z",
           "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/ZEC1-1.webp"
-        },
-        {
-          "title": "What Is Railgun Crypto? Why RAIL Is Back on the Crypto Radar in 2026",
-          "description": "Railgun crypto is a rising area of interest in 2026, as privacy becomes a growing concern on Ethereum. Ethereum-based governance token RAIL is seeing a...\nThe post What Is Railgun Crypto? Why RAIL Is Back on the Crypto Radar in 2026 appeared first on Bitcoin …",
-          "url": "https://bitcoinfoundation.org/news/analysis/what-is-railgun-crypto/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-09-07T13:01:34Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/rail-1.webp"
         }
       ]
     },
@@ -85,68 +85,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Regulating Digital Assets",
-          "description": "As cryptocurrency moves further into the mainstream, regulators are stepping up efforts to define its legal and financial framework. But how far will regulation go, and what will it mean for investors, businesses, and the future of digital assets? In this epi…",
-          "url": "https://shows.acast.com/knowledge-at-wharton/episodes/regulating-digital-assets",
-          "source": "Acast.com",
-          "published": "2026-09-13T09:30:00Z",
-          "image": "https://open-images.acast.com/shows/621d3ea487eba30014f27133/1789271239283-59da2f16-8c00-42f3-8ed7-6f70e487e38b.jpeg?height=315"
+          "title": "Clarity Act faces make-or-break Senate vote on Tuesday as crypto industry pushes for bill",
+          "description": "A Senate vote on Tuesday is a put-up-or-shut-up moment for the Clarity Act crypto bill, scheduled by Majority Leader John Thune, R-S.D.",
+          "url": "https://www.cnbc.com/2026/09/14/clarity-act-senate-vote-crypto-regulation.html",
+          "source": "CNBC",
+          "published": "2026-09-14T10:30:01Z",
+          "image": "https://image.cnbcfm.com/api/v1/image/108140160-1746208763777-gettyimages-2201505903-lummis_BC_194_022625JPG.jpeg?v=1757112547&w=1920&h=1080"
         },
         {
-          "title": "Block, Inc (XYZ)’s Bank Charter Push Signals Bigger Ambitions in Digital Assets",
-          "description": "Block, Inc. (NYSE:XYZ) is taking another step toward consolidating its digital asset operations under a federal regulatory framework. On September 8, it file...",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/block-inc-xyz-bank-charter-220930244.html",
+          "title": "Canada Clears Tokenized Bank Deposits Without Creating a New Crypto Rulebook",
+          "description": "Canada’s OSFI says tokenized deposits remain traditional bank deposits, meaning blockchain does not create a new legal category. Federally regulated banks ca...",
+          "url": "https://www.ccn.com/news/crypto/canada-clears-tokenized-bank-deposits-under-existing-rules/",
+          "source": "Crypto Coins News",
+          "published": "2026-09-14T10:22:21Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/c561f90c715e50486175a40dfea222492bb3ce65460a4f5a5c91ae0e9e1ca33d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fccn_928%2Fd2402d34156254f014088fdd0edd9e32.png"
+        },
+        {
+          "title": "Broadridge Expands Next-gen Digital Assets Capabilities to U.S. Wealth Management Firms",
+          "description": "Unified platform enables advisor-led and self-directed access to cryptocurrencies and tokenized assets alongside traditional investments NEW YORK, Sept. 14, 2026 /PRNewswire/ -- Broadridge, (NYSE: BR) today announced the expansion of its next-generation digit…",
+          "url": "https://www.prnewswire.com/news-releases/broadridge-expands-next-gen-digital-assets-capabilities-to-us-wealth-management-firms-302877145.html",
+          "source": "PRNewswire",
+          "published": "2026-09-14T10:20:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS242893/Broadridge-2023-Logo.jpg?id=OA2945036&p=facebook"
+        },
+        {
+          "title": "Analysis-Bitcoin's late summer rally set to face off against the Fed, Congress",
+          "description": "By Hannah Lang, Gertrude Chavez-Dreyfuss and Medha Singh Sept 14 (Reuters) - Bitcoin bulls are back after months of gloom, but a Federal Reserve rate decisio...",
+          "url": "https://ca.finance.yahoo.com/news/analysis-bitcoins-summer-rally-set-100329922.html",
           "source": "Yahoo Entertainment",
-          "published": "2026-09-12T22:09:30Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/6a60e992935624ed2bbee25874ba2fbb10c19dd584c59674400e4f54b6cea446/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fb23bc011afed526f34fa19e618a33b80.jpg"
+          "published": "2026-09-14T10:05:05Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/1f5c34e283ade2c249ce526ccaf13ec15a901468ce1b672d6497355b9d42b2de/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F92af32fdb7ca5f6b923ce1d4d1079596.jpg"
         },
         {
-          "title": "Block Wants to Stop Acting Like a Giant Wallet and Start Acting Like a Bank",
-          "description": "The Wallet That Wants to Become a Bank On September 8, 2026, Block, Inc. filed an application with the Office of the Comptroller of the Currency for a national trust bank charter under the name Builders Bank & Trust, N.A. The filing positions Block to custody…",
-          "url": "https://forkast.news/block-wants-to-stop-acting-like-a-giant-wallet-and-start-acting-like-a-bank/",
-          "source": "Forkast.news",
-          "published": "2026-09-12T20:51:45Z",
-          "image": "https://forkast.news/wp-content/uploads/2026/09/forkast-130074-1024x687.jpg"
+          "title": "Bitcoin Suisse to Cut Up to Half Its Swiss Jobs in Overseas Shift",
+          "description": "The Crypto Valley pioneer is moving up to 60 Zug jobs to Bratislava or Vietnam as it pivots from a Swiss crypto specialist into a global wealth manager.",
+          "url": "https://decrypt.co/378119/bitcoin-suisse-cut-half-swiss-jobs",
+          "source": "Decrypt",
+          "published": "2026-09-14T09:01:03Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/Bitcoin-B1-decrypt-style-gID_7.png"
         },
         {
-          "title": "SEBI Demat 2.0: How tokenised corporate bonds will work for you",
-          "description": "SEBI’s Demat 2.0 pilot brings tokenised corporate bonds, CBDC settlement and smart contracts. Here’s what changes for investors and what stays the same.",
-          "url": "https://www.thehindubusinessline.com/portfolio/personal-finance/sebi-demat-2-tokenised-corporate-bonds-explained/article71455097.ece",
-          "source": "BusinessLine",
-          "published": "2026-09-12T15:12:05Z",
-          "image": "https://bl-i.thgim.com/public/incoming/9y2p0o/article71455718.ece/alternates/LANDSCAPE_1200/PO13_Global_communication.jpg"
+          "title": "UK FCA considers bespoke rules and fund exemptions for tokenized gold: FT",
+          "description": "The FCA is reportedly exploring whether tokenized gold products should receive a targeted exemption from UK fund rules as regulators look to expand tokenization in wholesale markets.",
+          "url": "https://cointelegraph.com/news/uk-fca-weighs-fund-rules-exemption-for-tokenized-gold-ft",
+          "source": "Cointelegraph",
+          "published": "2026-09-14T08:57:00Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2FH25D983BQTGVJMM116BR7/hi-fintech-in-the-united-kingdom-after-brexit-fca.jpg"
         },
         {
-          "title": "(Sm)all banks should compete on technology, not fear it",
-          "description": "Community banks do not need to launch their own stablecoins—but they do need to offer digital-dollar and tokenized-payment options that keep customers’ payme...",
-          "url": "https://finance.yahoo.com/technology/articles/sm-banks-compete-technology-not-143831523.html",
-          "source": "Yahoo Entertainment",
-          "published": "2026-09-12T14:38:31Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/95ce07f19ff44b268c5d1f4973d9f3a5a0b7f5a4af481de97dec3a97d91b2e02/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffortune_175%2Fcd8a92a30b9cef7c55a11d4dbc66fd46.jpg"
-        },
-        {
-          "title": "Demat 2.0 explained: Why it matters for bond market investors",
-          "description": "In an innovative move, Sebi has rolled out Demat 2.0, a pilot scheme aimed at tokenising corporate bonds. This initiative facilitates rapid settlement and instant fund retrieval for investors. It automates interest and redemption payments through smart contra…",
-          "url": "https://economictimes.indiatimes.com/markets/stocks/news/demat-2-0-explained-why-it-matters-for-bond-market-investors/articleshow/134116662.cms",
-          "source": "The Times of India",
-          "published": "2026-09-12T07:54:36Z",
-          "image": "https://img.etimg.com/thumb/msid-134116953,width-1200,height-630,imgsize-2242899,overlay-etmarkets/articleshow.jpg"
-        },
-        {
-          "title": "US Bank moves USBDC across borders on Stellar, but only inside its own walls",
-          "description": "The live payment linked the bank's North American and European entities while testing minting, redemption and issuer controls.\nThe post US Bank moves USBDC across borders on Stellar, but only inside its own walls appeared first on CryptoSlate.",
-          "url": "https://cryptoslate.com/us-bank-moves-usbdc-across-borders-on-stellar-but-only-inside-its-own-walls/",
+          "title": "Trump concession sends CLARITY Act odds above 32% before make-or-break Senate vote",
+          "description": "The CLARITY Act’s chances of becoming law climbed above 32% as Senate Republicans unveiled their final compromise before Tuesday’s cloture vote. Polymarket traders pushed the probability of the landmark crypto market-structure legislation being enacted in 202…",
+          "url": "https://cryptoslate.com/trump-concession-sends-clarity-act-odds-above-32-before-make-or-break-senate-vote/",
           "source": "CryptoSlate",
-          "published": "2026-09-11T23:30:04Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/09/usbdc-bank-control-console.jpg"
+          "published": "2026-09-14T08:34:58Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/09/blind-trust-cloture.webp"
         },
         {
-          "title": "Circle-Tazapay deal aims to accelerate USDC adoption in cross-border B2B payments",
-          "description": "Circle Internet Group has signed a definitive agreement to acquire Tazapay, a Singapore-based business-to-business (B2B) cross-border payments company, in a deal aimed at accelerating adoption of its USDC stablecoin for global commerce. Meanwhile, Tazapay bri…",
-          "url": "https://www.digitalcommerce360.com/2026/09/11/circle-tazapay-acquisition-usdc-stablecoin/",
-          "source": "DigitalCommerce360",
-          "published": "2026-09-11T22:42:06Z",
-          "image": "https://www.digitalcommerce360.com/wp-content/uploads/2026/09/AdobeStock_2171598374_Editorial_Use_Only-scaled.jpeg"
+          "title": "UK Eyes Tokenized Gold Rule Exemption as London Pushes Deeper Into Digital Markets",
+          "description": "UK regulators are also examining whether tokenized gold products can be exempted from existing fund regulations, as the authorities consider how blockchain-based bullion can be...\nThe post UK Eyes Tokenized Gold Rule Exemption as London Pushes Deeper Into Dig…",
+          "url": "https://bitcoinfoundation.org/news/regulation/uk-eyes-tokenized-gold-rule-exemption-as-london-pushes-deeper-into-digital-markets/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-09-14T08:24:40Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/UK-Eyes-Tokenized-Gold-Rule-Exemption-as-London-Pushes-Deeper-Into-Digital-Markets-2.webp"
         }
       ]
     },
@@ -155,6 +155,14 @@
       "icon": "🏥",
       "color": "#00cc88",
       "articles": [
+        {
+          "title": "Ripple Looks to $13 Trillion Corporate Treasury Space for Stablecoin Growth",
+          "description": "Ripple reportedly considers the corporate treasury space a $13 trillion opportunity for its stablecoin business. Jack McDonald, Ripple’s senior vice president of stablecoins, said in an interview with CoinDesk on Sunday (Sept. 13) that one of the biggest oppo…",
+          "url": "https://www.pymnts.com/cryptocurrency/2026/ripple-looks-to-13-trillion-corporate-treasury-space-for-stablecoin-growth/",
+          "source": "pymnts.com",
+          "published": "2026-09-13T22:35:22Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2025/11/Ripple-Labs.jpg"
+        },
         {
           "title": "Mexican cartel crypto farm seized in mountain raid — 300 GPUs, satellite links, and industrial transformers tapped hydroelectric power",
           "description": "There is increasing evidence that Mexican drug cartels are diversifying into cryptocurrency mining and are using crypto platforms to launder their ill-gotten gains.",
@@ -210,14 +218,6 @@
           "source": "PRNewswire",
           "published": "2026-09-09T06:00:00Z",
           "image": "https://mmx.prnewswire.com/media/MS242893/Broadridge-2023-Logo.jpg?id=OA2935903&p=facebook"
-        },
-        {
-          "title": "⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
-          "description": "Turning off email images should at least stop the pictures. This week, attackers had a workaround: a scannable QR code built out of text. It still appears, even with images blocked. A small detail, but an annoying one if that was a precaution you were countin…",
-          "url": "https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html",
-          "source": "Internet",
-          "published": "2026-09-07T14:36:07Z",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3SJbgfzjY0QMdutDU1Lf8A1ZVh6S-hcQEwATiHIXXKIpYhh1mrojhkxootev2lhFxjehrTS8h3UNmZgHBwgxNUN0ho2r5Tzk2PRLqK_yO-4OetzmlaFE5V5z0G-Yp34y_RWR5ZlWoL51LWMOFh8YTZCKDADDnHFLhYZl5oQkqLFxJ9JHK1j35kxilIkyp/s1700-nu-rw-lo-l85-e365/recaps.jpg"
         }
       ]
     },
@@ -231,20 +231,20 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Angela Rayner suggests Labour could toughen up ban on huge donations to political parties after crypto-billionaires hand Reform record £72million",
-              "description": "She said that the funding of political parties was a 'live issue' after financiers Christopher Harborne and Ben Delo jointly smashed the record for the largest donation in British political history.",
-              "url": "https://www.dailymail.com/news/article-16127493/Angela-Rayner-Labour-toughen-ban-huge-donations-Reform-72million.html",
-              "source": "Dailymail.com",
-              "published": "2026-09-13T08:18:22Z",
-              "image": "https://i.dailymail.com/1s/2026/09/13/09/111217523-0-image-a-32_1789287493110.jpg"
+              "title": "CLARITY Act vote meets Fed rate hike: Five things to know in Bitcoin this week",
+              "description": "Bitcoin traders brace for volatility as the CLARITY Act awaits a Senate vote to move forward and the Fed is due to announce its latest rate decision.",
+              "url": "https://cointelegraph.com/markets/clarity-act-vote-meets-fed-rate-hike-five-things-to-know-in-bitcoin-this-week",
+              "source": "Cointelegraph",
+              "published": "2026-09-14T10:00:17Z",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2FNBW97VVK5XYKANMB2SP3G/hi-us-senate-infrastructure-bill-doom-and-gloom-for-crypto-clarity-act-1.jpg"
             },
             {
-              "title": "Crypto-billionaires want 'nothing' for £72m - Reform",
-              "description": "Reform UK has insisted its two crypto-billionaire donors want \"nothing\" in exchange for their combined £72 million gifts to the party.",
-              "url": "https://www.rte.ie/news/world/2026/0913/1591329-reformuk-donations/",
-              "source": "RTE",
-              "published": "2026-09-13T00:27:56Z",
-              "image": "https://www.rte.ie/images/00250008-1600.jpg"
+              "title": "Buying Tokenized Gold in the UK Might Get Easier. Here's What the FCA Is Weighing",
+              "description": "The FCA is weighing a targeted exemption that would free tokenized gold from UK fund rules and unlock bullion collateral.",
+              "url": "https://beincrypto.com/fca-tokenized-gold-uk-fund-rules/",
+              "source": "BeInCrypto",
+              "published": "2026-09-14T09:20:20Z",
+              "image": "https://s.yimg.com/lo/mysterio/api/349ecd924b184ffd96c4b763485a133fa7173f180fc1999ff83747b2242ff934/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F98f19c932dbed288fd0be93f4048759a.png"
             },
             {
               "title": "Morning Minute: AI Agents Cut BTC Quantum Attack Benchmark by 86%",
@@ -269,6 +269,30 @@
           "icon": "☁️",
           "articles": [
             {
+              "title": "Modders halve FSR 4 render times on AMD’s PS5-derived BC-250 mining APU — portable FidelityFX DLL cuts 1440p upscaling time from 11.51 ms to 5.92 ms",
+              "description": "Modders have nearly halved FSR 4 processing time on AMD’s PS5-derived BC-250, using a portable FidelityFX DLL that cuts 1440p upscaling cost to 5.92 ms.",
+              "url": "https://www.tomshardware.com/pc-components/modders-halve-fsr-4-render-times-on-amds-ps5-derived-bc-250-mining-apu-portable-fidelityfx-dll-cuts-1440p-upscaling-time-from-11-51-ms-to-5-92-ms",
+              "source": "Tom's Hardware UK",
+              "published": "2026-09-14T10:30:00Z",
+              "image": "https://cdn.mos.cms.futurecdn.net/4nd24gYgXdAhsopXnQWWf-1999-80.jpg"
+            },
+            {
+              "title": "Audited DeFi protocols lost $885M to attacks that occurred completely outside their audit scopes",
+              "description": "The ack3-affiliated preprint found a 72.1% outside-scope share after excluding two H1 2026 outliers, while August incidents add operational context.\nThe post Audited DeFi protocols lost $885M to attacks that occurred completely outside their audit scopes appe…",
+              "url": "https://cryptoslate.com/audited-defi-protocols-lost-885m-to-attacks-that-occurred-completely-outside-their-audit-scopes/",
+              "source": "CryptoSlate",
+              "published": "2026-09-13T20:15:08Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/09/defi-audit-blindspot.jpg"
+            },
+            {
+              "title": "AI Agents Spending Money Online? New Research Says Not Really",
+              "description": "TRM examined roughly $52.7 million across 198.9 million settlements using the x402 protocol. Most of it isn’t coming from AI agents, it says.",
+              "url": "https://decrypt.co/378103/ai-agents-spending-money-research",
+              "source": "Decrypt",
+              "published": "2026-09-13T13:01:03Z",
+              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/robot-typing-gID_7.jpg"
+            },
+            {
               "title": "Tourmaline",
               "description": "Reverse engineering notes, deobfuscated source, IOCs, and YARA rules for the Tourmaline ClickFix Python RAT, covering its DNS tunnel and blockchain dead-drop C2.",
               "url": "https://kitploit.com/en/tools/github/v-pun215/tourmaline/",
@@ -285,6 +309,14 @@
               "image": "https://s.yimg.com/lo/mysterio/api/d93e50c4a9a5b9a1dd0d164440a63c379b02af32de4761fd2f8c39519c74bfc2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F80a3c6958634409ffc4b1d746efb7c7a.jpg"
             },
             {
+              "title": "GENIUS Act Pushes Stablecoin Compliance Into Banks’ Back Offices",
+              "description": "Traditional financial institutions and companies seeking permission to issue payment stablecoins are redesigning their compliance systems as regulators move to implement the GENIUS Act. The work extends beyond ensuring that tokens are fully backed. Banks, cre…",
+              "url": "https://www.pymnts.com/cryptocurrency/2026/genius-act-pushes-stablecoin-compliance-into-banks-back-offices/",
+              "source": "pymnts.com",
+              "published": "2026-09-11T18:12:11Z",
+              "image": "https://www.pymnts.com/wp-content/uploads/2026/07/bank.jpeg"
+            },
+            {
               "title": "Show HN: Reversing a ClickFix malware with a blockchain-based C2",
               "description": "Article URL: https://github.com/v-pun215/Tourmaline\nComments URL: https://news.ycombinator.com/item?id=49655228\nPoints: 1\n# Comments: 0",
               "url": "https://github.com/v-pun215/Tourmaline",
@@ -293,44 +325,12 @@
               "image": "https://opengraph.githubassets.com/a48f1878a9625ab982ccb711d9ee7363651b02efdd95f681892f0739085284be/v-pun215/Tourmaline"
             },
             {
-              "title": "SloppyRAT: A New Tool For Ransomware Attacks",
-              "description": "IntroductionIn June 2026, Zscaler ThreatLabz identified a new malware family, tracked as SloppyRAT, that is likely leveraged by a ransomware-related threat actor. ThreatLabz observed SloppyRAT being delivered through a multi-stage ClickFix infection chain. Th…",
-              "url": "https://www.zscaler.com/blogs/security-research/sloppyrat-new-tool-ransomware-attacks",
-              "source": "Zscaler.com",
-              "published": "2026-09-10T14:43:37Z",
-              "image": "https://cms.zscaler.com/sites/default/files/images/blogs/sloppyrat_blog_cover.jpg"
-            },
-            {
               "title": "Blockaid Expands Onchain Monitoring as Infrastructure Failures Drive 74% of Crypto Losses",
               "description": "New capabilities continuously discover onchain exposure, map third-party dependencies, and detect ecosystem-wide threats before they reach a team's assets NEW YORK, Sept. 10, 2026 /PRNewswire/ -- Blockaid announced an expansion of its Onchain Monitoring capab…",
               "url": "https://www.prnewswire.com/news-releases/blockaid-expands-onchain-monitoring-as-infrastructure-failures-drive-74-of-crypto-losses-302874819.html",
               "source": "PRNewswire",
               "published": "2026-09-10T14:00:00Z",
               "image": null
-            },
-            {
-              "title": "Memecoin degens are providing the spark for Wall Street to turn stock tokens into real capital",
-              "description": "Speculative trading may seed inventory for lending and vaults, but the full adoption flywheel remains unproven.\nThe post Memecoin degens are providing the spark for Wall Street to turn stock tokens into real capital appeared first on CryptoSlate.",
-              "url": "https://cryptoslate.com/memecoin-degens-are-providing-the-spark-for-wall-street-to-turn-stock-tokens-into-real-capital/",
-              "source": "CryptoSlate",
-              "published": "2026-09-10T11:50:27Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/09/token-rail-institutional-finance.jpg"
-            },
-            {
-              "title": "Stablecoin Summit 2026 by XREX Group Returns to Singapore as Stablecoins Mature Into a Financial Infrastructure",
-              "description": "Stablecoin Summit 2026 by XREX Group Returns to Singapore as Stablecoins Mature Into a Financial Infrastructure",
-              "url": "https://www.thehindubusinessline.com/brandhub/pr-release/stablecoin-summit-2026-by-xrex-group-returns-to-singapore-as-stablecoins-mature-into-a-financial-infrastructure/article71450140.ece",
-              "source": "BusinessLine",
-              "published": "2026-09-10T04:00:21Z",
-              "image": "https://bl-i.thgim.com/public/incoming/7dxpac/article71450139.ece/alternates/LANDSCAPE_1200/20260909220701EDT_image_1.jpg"
-            },
-            {
-              "title": "Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution",
-              "description": "A previously undocumented financially motivated threat actor has been linked to attacks targeting Brazilian financial institutions since at least March 2026.\n\nCybersecurity company CrowdStrike is tracking the Brazil-based activity cluster under the name Slim …",
-              "url": "https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html",
-              "source": "Internet",
-              "published": "2026-09-08T16:20:23Z",
-              "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim6TzHNI7Stg7pvo_Pu0vMltU2jmnIr922wxLWIYFfaRpN3G7rVZCy76FgWwyZUCT36dRygtzxVmZPFTPSm1FuRrmqXwuvTjJhxwJE7zl34ZHuwZUEDdlrnunlem-Xo7KS6Buy1xlHYYxf-0u-d3qWer-o64MrNvrsh5V1WC7dVtGVwubINEgB1AtfQBNC/s1700-nu-rw-lo-l85-e365/brazil-hackers.jpg"
             }
           ]
         }
