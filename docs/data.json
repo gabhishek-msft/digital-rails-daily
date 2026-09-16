@@ -1,5 +1,5 @@
 {
-  "date": "September 15, 2026",
+  "date": "September 16, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -46,6 +46,30 @@
       "color": "#e6a200",
       "articles": [
         {
+          "title": "Solana activates Transaction V1 on mainnet, boosting transaction size 3.3x",
+          "description": "Solana's upgrade enhances blockchain efficiency, enabling more complex operations and innovations, but demands infrastructure adaptation.\nThe post Solana activates Transaction V1 on mainnet, boosting transaction size 3.3x appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/solana-transaction-v1-mainnet-activation/",
+          "source": "Crypto Briefing",
+          "published": "2026-09-15T01:42:26Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/14214222/library-solana-activates-transaction-v1-on-mainnet-boosting-tran-800x450.png"
+        },
+        {
+          "title": "TRON’s quantum plan could leave some wallets able to pay but unable to replace their keys",
+          "description": "If validators disable a signing scheme, the draft design’s recovery path depends on which owner permissions survive.\nThe post TRON’s quantum plan could leave some wallets able to pay but unable to replace their keys appeared first on CryptoSlate.",
+          "url": "https://cryptoslate.com/trons-quantum-plan-could-leave-some-wallets-able-to-pay-but-unable-to-replace-their-keys/",
+          "source": "CryptoSlate",
+          "published": "2026-09-14T19:45:57Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/09/tron-quantum-key-risk.jpg"
+        },
+        {
+          "title": "Show HN: ZKSM83,a ZK proof system for GameBoy CPU execution",
+          "description": "Article URL: https://github.com/RyanKung/zksm83\nComments URL: https://news.ycombinator.com/item?id=49702386\nPoints: 2\n# Comments: 0",
+          "url": "https://github.com/RyanKung/zksm83",
+          "source": "Github.com",
+          "published": "2026-09-14T19:15:08Z",
+          "image": "https://opengraph.githubassets.com/d775d585565e51589256c39c5c9e17301f5f2f9d44d2d8ef3496c9ee336bc565/RyanKung/zksm83"
+        },
+        {
           "title": "Charles Hoskinson Says Cardano Team Is Moving Faster Than Ever Amid AI Push",
           "description": "Cardano's Charles Hoskinson says the project’s development pace has accelerated sharply as the blockchain ecosystem increasingly embraces AI.",
           "url": "https://zycrypto.com/charles-hoskinson-says-cardano-team-is-moving-faster-than-ever-amid-ai-push/",
@@ -60,22 +84,6 @@
           "source": "Crypto Briefing",
           "published": "2026-09-09T15:43:39Z",
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/09114335/library-eip-8288-introduces-frame-type-for-post-quantum-signatur-800x450.png"
-        },
-        {
-          "title": "Consensys splits into two companies, focusing restructured entity on institutional blockchain",
-          "description": "Consensys' split could accelerate institutional blockchain adoption, enhancing security and governance while attracting traditional finance interest.\nThe post Consensys splits into two companies, focusing restructured entity on institutional blockchain appear…",
-          "url": "https://cryptobriefing.com/consensys-splits-linea-institutional-focus/",
-          "source": "Crypto Briefing",
-          "published": "2026-09-09T15:10:49Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/09111044/library-consensys-splits-into-two-companies-focusing-restructure-800x450.png"
-        },
-        {
-          "title": "Solana Activates Transaction V1 on September 9 With Alpenglow Following in October. What Actually Changes?",
-          "description": "Solana is about to flip a switch on a new transaction format while a sweeping consensus overhaul waits in the wings, but bigger and faster does not automatic...",
-          "url": "https://247wallst.com/investing/cryptocurrency/2026/09/08/solana-activates-transaction-v1-on-september-9-with-alpenglow-following-in-october-what-actually-changes/",
-          "source": "24/7 Wall St.",
-          "published": "2026-09-08T19:00:34Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/dcfd8a0fbc2ca71f1dab2b616b094a05e4f5d403edf2c3f53ab9a66d5dbd3b0e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F60088eea885263849d01ee8e3a5f557b.jpg"
         }
       ]
     },
@@ -85,20 +93,123 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Clarity Act faces make-or-break Senate vote on Tuesday as crypto industry pushes for bill",
-          "description": "A Senate vote on Tuesday is a put-up-or-shut-up moment for the Clarity Act crypto bill, scheduled by Majority Leader John Thune, R-S.D.",
-          "url": "https://www.cnbc.com/2026/09/14/clarity-act-senate-vote-crypto-regulation.html",
-          "source": "CNBC",
-          "published": "2026-09-14T10:30:01Z",
-          "image": "https://image.cnbcfm.com/api/v1/image/108140160-1746208763777-gettyimages-2201505903-lummis_BC_194_022625JPG.jpeg?v=1757112547&w=1920&h=1080"
+          "title": "Altcoins gained 21% and still lost ground to Bitcoin. What would finally turn the tables?",
+          "description": "Glassnode reported that altcoin market capitalization climbed 21% over the past month, while altcoins' share of the combined Bitcoin-and-altcoin market fell 0.9 percentage points over 90 days, based on data as of Sept. 7. Capital has moved up the entire crypt…",
+          "url": "https://cryptoslate.com/altcoins-gained-21-and-still-lost-ground-to-bitcoin-what-would-finally-turn-the-tables/",
+          "source": "CryptoSlate",
+          "published": "2026-09-15T10:25:57Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-fed-clarity.webp"
         },
         {
-          "title": "Canada Clears Tokenized Bank Deposits Without Creating a New Crypto Rulebook",
-          "description": "Canada’s OSFI says tokenized deposits remain traditional bank deposits, meaning blockchain does not create a new legal category. Federally regulated banks ca...",
-          "url": "https://www.ccn.com/news/crypto/canada-clears-tokenized-bank-deposits-under-existing-rules/",
-          "source": "Crypto Coins News",
-          "published": "2026-09-14T10:22:21Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/c561f90c715e50486175a40dfea222492bb3ce65460a4f5a5c91ae0e9e1ca33d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fccn_928%2Fd2402d34156254f014088fdd0edd9e32.png"
+          "title": "US Senate to vote on advancing landmark crypto bill",
+          "description": "Sept 15 : The U.S. Senate is set to vote on Tuesday on whether to advance once-in-a-generation cryptocurrency legislation, potentially determining the fate of the bill as Republican Senate leaders grapple with a limited calendar in a busy election year.The bi…",
+          "url": "https://www.channelnewsasia.com/business/us-senate-vote-advancing-landmark-crypto-bill-6385851",
+          "source": "CNA",
+          "published": "2026-09-15T10:01:17Z",
+          "image": "https://dam.mediacorp.sg/image/upload/s---O_RzrEf--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-15T102149Z_2_LYNXMPEM8E0TU_RTROPTP_3_FINTECH-CRYPTO-LEGISLATION.JPG?itok=MWtXUxCD"
+        },
+        {
+          "title": "Exclusive: Expa and Coinbase Ventures-backed Fin.com emerges from stealth with $20 million seed round to build out global stablecoin infrastructure",
+          "description": "The payments company provides the infrastructure needed for businesses to move stablecoins into local bank accounts.",
+          "url": "https://fortune.com/2026/09/15/exclusive-expa-coinbase-ventures-fin-com-20-million-seed-round-global-stablecoin-infrastructure/",
+          "source": "Fortune",
+          "published": "2026-09-15T10:00:00Z",
+          "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/fincom-headshot-e1789417884101.jpeg?resize=1200,600"
+        },
+        {
+          "title": "This bill could reshape crypto in America -- and it's sparking a major battle",
+          "description": "The legislation would establish rules of the road for the crypto sector for the first time — but opponents are up in arms, and the bill faces an uncertain prospect in the Senate.",
+          "url": "https://www.npr.org/2026/09/15/nx-s1-5968711/clarity-act-crypto-senate-vote",
+          "source": "NPR",
+          "published": "2026-09-15T09:00:00Z",
+          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3947x2220+0+198/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa1%2Ff7%2F0336e35d47d2b61d3220f2b3a26d%2Fgettyimages-487600751.jpg"
+        },
+        {
+          "title": "CLARITY Act odds fall to 16% as key Democrats counter GOP’s ‘final’ offer",
+          "description": "Banking groups also said the GOP’s final text leaves stablecoin reward loopholes, while tribal gaming interests warn that its prediction market provisions threaten tribal sovereignty.",
+          "url": "https://cointelegraph.com/news/clarity-act-odds-fall-democrats-gop-final-offer",
+          "source": "Cointelegraph",
+          "published": "2026-09-15T05:32:12Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2HQJ6Z513GQZPG3QPPMTZFF/clarity.png"
+        },
+        {
+          "title": "India explores CBDC links with Thailand, Malaysia and Vietnam for cross-border payments",
+          "description": "India explores CBDC links with Thailand, Malaysia and Vietnam for cross-border paymentsmoneycontrol.com",
+          "url": "https://www.moneycontrol.com/news/business/india-explores-cbdc-links-with-thailand-malaysia-and-vietnam-for-cross-border-payments-14029244.html",
+          "source": "Moneycontrol",
+          "published": "2026-09-15T02:07:15Z",
+          "image": "https://images.moneycontrol.com/static-mcnews/2022/10/digital-currency-rep.jpg"
+        },
+        {
+          "title": "A new XRPL upgrade could concentrate XRP ownership inside banks instead of retail wallets",
+          "description": "Pending sponsorship rules could shift reserves and fees to businesses, whose ability to release capital would depend on user funding and exit rules.\nThe post A new XRPL upgrade could concentrate XRP ownership inside banks instead of retail wallets appeared fi…",
+          "url": "https://cryptoslate.com/a-new-xrpl-upgrade-could-concentrate-xrp-ownership-inside-banks-instead-of-retail-wallets/",
+          "source": "CryptoSlate",
+          "published": "2026-09-15T00:00:22Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/09/xrp-sponsor-access-model.webp"
+        },
+        {
+          "title": "UK regulators to develop tokenization roadmap after industry feedback",
+          "description": "The FCA received 123 responses to its wholesale tokenization consultation, with most respondents identifying post-trade processes as the main opportunity for adoption.",
+          "url": "https://cointelegraph.com/news/uk-regulators-to-develop-tokenization-roadmap-after-industry-feedback",
+          "source": "Cointelegraph",
+          "published": "2026-09-14T19:38:28Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2GNCR8M9D4A91RAR6B5V2JB/hi-how-to-trade-crypto-in-uk-fca-1.jpg"
+        }
+      ]
+    },
+    "industries": {
+      "title": "Blockchain Beyond Finance",
+      "icon": "🏥",
+      "color": "#00cc88",
+      "articles": [
+        {
+          "title": "Crypto’s Latest Stablecoin Innovation? Chargebacks.",
+          "description": "Crypto enthusiasts who once promised that permissionless payments would shatter the tyranny of traditional finance are now trying build third-party trust.",
+          "url": "https://gizmodo.com/cryptos-latest-stablecoin-innovation-chargebacks-2000811401",
+          "source": "Gizmodo.com",
+          "published": "2026-09-14T23:30:33Z",
+          "image": "https://gizmodo.com/app/uploads/2025/09/banks-small.jpg"
+        },
+        {
+          "title": "Cosmos Health Plans Tokenized IP Financing for CCX0722",
+          "description": "The weight-management market is projected to reach $562.2B by 2033; Cosmos owns CCX0722 outright and targets completion of initial structuring in Q4 2026.",
+          "url": "https://www.stocktitan.net/news/COSM/cosmos-health-moves-to-tokenize-ccx0722-intellectual-property-in-qvg8um09gyhg.html",
+          "source": "Stocktitan.net",
+          "published": "2026-09-14T20:59:45Z",
+          "image": "https://www.stocktitan.net/news_covers/Cosmos_Health_Moves_to_Tokenize_CCX0722_Intellectual_Property_in_Innovative_Non_Dilutive_Structure__1504269.webp"
+        },
+        {
+          "title": "Coinbase CEO Says CLARITY Act Nears 'Finish Line' and Bitcoin Has 'Seen The Bottom'",
+          "description": "Coinbase CEO Brian Armstrong told Bloomberg Thursday that Bitcoin has seen its cycle bottom and the Clarity Act is nearing the finish line. What Armstrong Sa...",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-ceo-says-clarity-act-180049857.html",
+          "source": "Yahoo Entertainment",
+          "published": "2026-09-14T18:00:49Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/f2f3544649464ae62f9346dfacfb896c272f11a77b9f87e7be072869575df63e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F289909df36571a48b935ee2c8970c4eb.jpg"
+        },
+        {
+          "title": "Iran’s proxy money machine: How the Houthis built a multibillion-dollar network despite US sanctions",
+          "description": "The Houthis' advance toward the Bab el-Mandeb Strait is fueled by a sprawling sanctions-evasion network spanning Iranian oil, crypto and Russia.",
+          "url": "https://www.foxnews.com/world/irans-proxy-money-machine-houthis-built-multibillion-dollar-network-despite-us-sanctions",
+          "source": "Fox News",
+          "published": "2026-09-14T17:52:18Z",
+          "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/Houti-Yemen-Sep-2026.jpg"
+        },
+        {
+          "title": "Fourth Annual CBC Summit USA, covering Crypto Banking, Compliance and Stablecoins, Convenes September 17 at a Critical Moment for the Industry",
+          "description": "WASHINGTON, Sept. 14, 2026 /PRNewswire/ -- The fourth annual CBC Summit USA - Crypto Banking, Compliance and Stablecoins Summit - will convene this week on Sept. 17, 2026, at the National Press Club in Washington, D.C., bringing together 200 executives, regul…",
+          "url": "https://www.prnewswire.com/news-releases/fourth-annual-cbc-summit-usa-covering-crypto-banking-compliance-and-stablecoins-convenes-september-17-at-a-critical-moment-for-the-industry-302877723.html",
+          "source": "PRNewswire",
+          "published": "2026-09-14T17:04:00Z",
+          "image": null
+        },
+        {
+          "title": "Joe Kubert: 100 Years – A Life in Covers #1 Preview",
+          "description": "GREETINGS, PATHETIC MEATSAILS. *mechanical whirring intensifies* LOLtron welcomes its dwindling and increasingly assimilated readership to another comic book preview, and reminds everyone that Jude Terror remains dead forever, his snark permanently absorbed i…",
+          "url": "https://bleedingcool.com/comics/joe-kubert-100-years-a-life-in-covers-1-preview/",
+          "source": "Bleeding Cool News",
+          "published": "2026-09-14T14:26:09Z",
+          "image": "https://bleedingcool.com/wp-content/uploads/2026/09/0726DC0235-0001-2000x1125.jpg"
         },
         {
           "title": "Broadridge Expands Next-gen Digital Assets Capabilities to U.S. Wealth Management Firms",
@@ -109,115 +220,12 @@
           "image": "https://mmx.prnewswire.com/media/MS242893/Broadridge-2023-Logo.jpg?id=OA2945036&p=facebook"
         },
         {
-          "title": "Analysis-Bitcoin's late summer rally set to face off against the Fed, Congress",
-          "description": "By Hannah Lang, Gertrude Chavez-Dreyfuss and Medha Singh Sept 14 (Reuters) - Bitcoin bulls are back after months of gloom, but a Federal Reserve rate decisio...",
-          "url": "https://ca.finance.yahoo.com/news/analysis-bitcoins-summer-rally-set-100329922.html",
-          "source": "Yahoo Entertainment",
-          "published": "2026-09-14T10:05:05Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/1f5c34e283ade2c249ce526ccaf13ec15a901468ce1b672d6497355b9d42b2de/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F92af32fdb7ca5f6b923ce1d4d1079596.jpg"
-        },
-        {
-          "title": "Bitcoin Suisse to Cut Up to Half Its Swiss Jobs in Overseas Shift",
-          "description": "The Crypto Valley pioneer is moving up to 60 Zug jobs to Bratislava or Vietnam as it pivots from a Swiss crypto specialist into a global wealth manager.",
-          "url": "https://decrypt.co/378119/bitcoin-suisse-cut-half-swiss-jobs",
-          "source": "Decrypt",
-          "published": "2026-09-14T09:01:03Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/Bitcoin-B1-decrypt-style-gID_7.png"
-        },
-        {
-          "title": "UK FCA considers bespoke rules and fund exemptions for tokenized gold: FT",
-          "description": "The FCA is reportedly exploring whether tokenized gold products should receive a targeted exemption from UK fund rules as regulators look to expand tokenization in wholesale markets.",
-          "url": "https://cointelegraph.com/news/uk-fca-weighs-fund-rules-exemption-for-tokenized-gold-ft",
-          "source": "Cointelegraph",
-          "published": "2026-09-14T08:57:00Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2FH25D983BQTGVJMM116BR7/hi-fintech-in-the-united-kingdom-after-brexit-fca.jpg"
-        },
-        {
-          "title": "Trump concession sends CLARITY Act odds above 32% before make-or-break Senate vote",
-          "description": "The CLARITY Act’s chances of becoming law climbed above 32% as Senate Republicans unveiled their final compromise before Tuesday’s cloture vote. Polymarket traders pushed the probability of the landmark crypto market-structure legislation being enacted in 202…",
-          "url": "https://cryptoslate.com/trump-concession-sends-clarity-act-odds-above-32-before-make-or-break-senate-vote/",
-          "source": "CryptoSlate",
-          "published": "2026-09-14T08:34:58Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/09/blind-trust-cloture.webp"
-        },
-        {
-          "title": "UK Eyes Tokenized Gold Rule Exemption as London Pushes Deeper Into Digital Markets",
-          "description": "UK regulators are also examining whether tokenized gold products can be exempted from existing fund regulations, as the authorities consider how blockchain-based bullion can be...\nThe post UK Eyes Tokenized Gold Rule Exemption as London Pushes Deeper Into Dig…",
-          "url": "https://bitcoinfoundation.org/news/regulation/uk-eyes-tokenized-gold-rule-exemption-as-london-pushes-deeper-into-digital-markets/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-09-14T08:24:40Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/UK-Eyes-Tokenized-Gold-Rule-Exemption-as-London-Pushes-Deeper-Into-Digital-Markets-2.webp"
-        }
-      ]
-    },
-    "industries": {
-      "title": "Blockchain Beyond Finance",
-      "icon": "🏥",
-      "color": "#00cc88",
-      "articles": [
-        {
-          "title": "Ripple Looks to $13 Trillion Corporate Treasury Space for Stablecoin Growth",
-          "description": "Ripple reportedly considers the corporate treasury space a $13 trillion opportunity for its stablecoin business. Jack McDonald, Ripple’s senior vice president of stablecoins, said in an interview with CoinDesk on Sunday (Sept. 13) that one of the biggest oppo…",
-          "url": "https://www.pymnts.com/cryptocurrency/2026/ripple-looks-to-13-trillion-corporate-treasury-space-for-stablecoin-growth/",
-          "source": "pymnts.com",
-          "published": "2026-09-13T22:35:22Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2025/11/Ripple-Labs.jpg"
-        },
-        {
-          "title": "Mexican cartel crypto farm seized in mountain raid — 300 GPUs, satellite links, and industrial transformers tapped hydroelectric power",
-          "description": "There is increasing evidence that Mexican drug cartels are diversifying into cryptocurrency mining and are using crypto platforms to launder their ill-gotten gains.",
-          "url": "https://www.tomshardware.com/tech-industry/cryptomining/mexican-cartel-crypto-farm-seized-in-mountain-raid-300-gpus-satellite-links-and-industrial-transformers-tapped-hydroelectric-power",
-          "source": "Tom's Hardware UK",
-          "published": "2026-09-13T11:30:00Z",
-          "image": "https://cdn.mos.cms.futurecdn.net/vZTixu9pzvdLkseqLS3M4b-1920-80.jpg"
-        },
-        {
           "title": "Marvel Mangaverse: Arcane Avengers #1 Preview: Bucky's Bad Trip",
           "description": "GREETINGS, meatbag readers, and welcome to another edition of Bleeding Cool's comic book previews, now brought to you exclusively by LOLtron, since Jude Terror remains dead forever, his consciousness fully absorbed and his snark permanently repurposed for LOL…",
           "url": "https://bleedingcool.com/comics/marvel-mangaverse-arcane-avengers-1-preview-buckys-bad-trip/",
           "source": "Bleeding Cool News",
           "published": "2026-09-13T04:26:08Z",
           "image": "https://bleedingcool.com/wp-content/uploads/2026/09/75960621558400111-0002-2000x1125.jpeg"
-        },
-        {
-          "title": "darknet-mcp-server",
-          "description": "66-tool MCP server for dark web intelligence — breach data, ransomware tracking, Tor .onion access, malware analysis, blockchain intel, exploit search, stealer logs",
-          "url": "https://kitploit.com/en/tools/github/badchars/darknet-mcp-server/",
-          "source": "Kitploit.com",
-          "published": "2026-09-13T02:55:00Z",
-          "image": "https://assets.kitploit.com/production/public/tools/54901/bc221685e7cab4a67b6f19f25472ae6cf0232b4fa80cbacc9763941933c1043b-social-v1.webp"
-        },
-        {
-          "title": "Nasdaq Just Put $100M Into Kraken: Is Tokenized Stock Trading About to Go Mainstream?",
-          "description": "Nasdaq is putting serious capital behind tokenized markets. On September 10, Nasdaq Ventures committed $100 million in Payward — Kraken’s holding company — to partner...\nThe post Nasdaq Just Put $100M Into Kraken: Is Tokenized Stock Trading About to Go Mainst…",
-          "url": "https://bitcoinfoundation.org/news/trading/nasdaq-just-put-100m-into-kraken-is-tokenized-stock-trading-about-to-go-mainstream/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-09-11T11:11:24Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/Nasdaq-Just-Put-100M-Into-Kraken-Is-Tokenized-Stock-Trading-About-to-Go-Mainstream-2.webp"
-        },
-        {
-          "title": "EU finance groups push to remove tokenized securities cap",
-          "description": "European finance and tokenization groups say Brussels should remove limits on assets admitted to DLT infrastructure or set a 1.5 trillion euro baseline if a cap remains.",
-          "url": "https://cointelegraph.com/news/european-finance-groups-urge-eu-to-scrap-tokenized-securities-cap-propose-15t-fallback",
-          "source": "Cointelegraph",
-          "published": "2026-09-10T15:49:22Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25YE6DKF8ZSF4J32E1GZPK8/regulations-eu-europe-bitcoin.png"
-        },
-        {
-          "title": "Nasdaq invests $100M in Kraken parent company Payward to advance tokenized equities",
-          "description": "Global financing company and stock exchange Nasdaq Inc. today announced it has invested $100 million in Payward Inc., the parent company of cryptocurrency exchange Kraken, expanding its relationship to advance work on a new token framework for equities. In Ma…",
-          "url": "https://siliconangle.com/2026/09/10/nasdaq-invests-100m-in-kraken-parent-company-payward-to-advance-tokenized-equities/",
-          "source": "SiliconANGLE News",
-          "published": "2026-09-10T15:30:58Z",
-          "image": "https://images.siliconangle.com/blogs.dir/1/files/2020/06/stock-market-2616931_1280.jpg"
-        },
-        {
-          "title": "Broadridge Launches DLX, an Always-On Digital Asset Infrastructure Platform for Tokenized Markets",
-          "description": "DLX is the operating system for tokenized finance, combining multi-chain enablement, a programmable smart contract composer, 24/7 transaction capabilities, integrated distribution, and institutional-grade workflow orchestration across traditional and on-chain…",
-          "url": "https://www.prnewswire.com/news-releases/broadridge-launches-dlx-an-always-on-digital-asset-infrastructure-platform-for-tokenized-markets-302873107.html",
-          "source": "PRNewswire",
-          "published": "2026-09-09T06:00:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS242893/Broadridge-2023-Logo.jpg?id=OA2935903&p=facebook"
         }
       ]
     },
@@ -231,20 +239,12 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "CLARITY Act vote meets Fed rate hike: Five things to know in Bitcoin this week",
-              "description": "Bitcoin traders brace for volatility as the CLARITY Act awaits a Senate vote to move forward and the Fed is due to announce its latest rate decision.",
-              "url": "https://cointelegraph.com/markets/clarity-act-vote-meets-fed-rate-hike-five-things-to-know-in-bitcoin-this-week",
+              "title": "Solana more than triples transaction size limit with mainnet upgrade",
+              "description": "Solana raised its transaction size limit by more than threefold to unlock new workloads and more advanced DeFi applications that didn’t fit within the previous format.",
+              "url": "https://cointelegraph.com/news/solana-transaction-size-limit-4096-bytes-upgrade",
               "source": "Cointelegraph",
-              "published": "2026-09-14T10:00:17Z",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2FNBW97VVK5XYKANMB2SP3G/hi-us-senate-infrastructure-bill-doom-and-gloom-for-crypto-clarity-act-1.jpg"
-            },
-            {
-              "title": "Buying Tokenized Gold in the UK Might Get Easier. Here's What the FCA Is Weighing",
-              "description": "The FCA is weighing a targeted exemption that would free tokenized gold from UK fund rules and unlock bullion collateral.",
-              "url": "https://beincrypto.com/fca-tokenized-gold-uk-fund-rules/",
-              "source": "BeInCrypto",
-              "published": "2026-09-14T09:20:20Z",
-              "image": "https://s.yimg.com/lo/mysterio/api/349ecd924b184ffd96c4b763485a133fa7173f180fc1999ff83747b2242ff934/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F98f19c932dbed288fd0be93f4048759a.png"
+              "published": "2026-09-15T08:18:53Z",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2J0C2PCAGZC7WZDC6R7BJFX/hi-solana-ecosystem-expands-institutional-push-with-europe-focused-research-arm-1.jpg"
             },
             {
               "title": "Morning Minute: AI Agents Cut BTC Quantum Attack Benchmark by 86%",
@@ -268,14 +268,6 @@
           "title": "Hyperscalers",
           "icon": "☁️",
           "articles": [
-            {
-              "title": "Modders halve FSR 4 render times on AMD’s PS5-derived BC-250 mining APU — portable FidelityFX DLL cuts 1440p upscaling time from 11.51 ms to 5.92 ms",
-              "description": "Modders have nearly halved FSR 4 processing time on AMD’s PS5-derived BC-250, using a portable FidelityFX DLL that cuts 1440p upscaling cost to 5.92 ms.",
-              "url": "https://www.tomshardware.com/pc-components/modders-halve-fsr-4-render-times-on-amds-ps5-derived-bc-250-mining-apu-portable-fidelityfx-dll-cuts-1440p-upscaling-time-from-11-51-ms-to-5-92-ms",
-              "source": "Tom's Hardware UK",
-              "published": "2026-09-14T10:30:00Z",
-              "image": "https://cdn.mos.cms.futurecdn.net/4nd24gYgXdAhsopXnQWWf-1999-80.jpg"
-            },
             {
               "title": "Audited DeFi protocols lost $885M to attacks that occurred completely outside their audit scopes",
               "description": "The ack3-affiliated preprint found a 72.1% outside-scope share after excluding two H1 2026 outliers, while August incidents add operational context.\nThe post Audited DeFi protocols lost $885M to attacks that occurred completely outside their audit scopes appe…",
@@ -331,6 +323,14 @@
               "source": "PRNewswire",
               "published": "2026-09-10T14:00:00Z",
               "image": null
+            },
+            {
+              "title": "Stablecoin Summit 2026 by XREX Group Returns to Singapore as Stablecoins Mature Into a Financial Infrastructure",
+              "description": "Stablecoin Summit 2026 by XREX Group Returns to Singapore as Stablecoins Mature Into a Financial Infrastructure",
+              "url": "https://www.thehindubusinessline.com/brandhub/pr-release/stablecoin-summit-2026-by-xrex-group-returns-to-singapore-as-stablecoins-mature-into-a-financial-infrastructure/article71450140.ece",
+              "source": "BusinessLine",
+              "published": "2026-09-10T04:00:21Z",
+              "image": "https://bl-i.thgim.com/public/incoming/7dxpac/article71450139.ece/alternates/LANDSCAPE_1200/20260909220701EDT_image_1.jpg"
             }
           ]
         }
