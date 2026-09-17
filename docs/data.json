@@ -1,11 +1,19 @@
 {
-  "date": "September 16, 2026",
+  "date": "September 17, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "noble-curves",
+          "description": "Audited & minimal JS implementation of elliptic curve cryptography.",
+          "url": "https://kitploit.com/en/tools/github/paulmillr/noble-curves/",
+          "source": "Kitploit.com",
+          "published": "2026-09-16T07:39:06Z",
+          "image": "https://assets.kitploit.com/production/public/tools/55411/89a00e2927dd2150861731baa1acd2d2d45177bd5b4afa28863a209e1dbf4501-social-v1.webp"
+        },
         {
           "title": "Coinbase Just Abandoned Its Biggest Wallet Rebrand: What Went Wrong With the Base App?",
           "description": "Coinbase has reversed one of its biggest consumer crypto rebrands. Just over a year after transforming Coinbase Wallet into the Base App, the company is...\nThe post Coinbase Just Abandoned Its Biggest Wallet Rebrand: What Went Wrong With the Base App? appeare…",
@@ -21,22 +29,6 @@
           "source": "Crypto Briefing",
           "published": "2026-09-10T15:58:04Z",
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/10115800/library-monument-bank-delays-retail-tokenized-deposits-due-to-uk-800x450.png"
-        },
-        {
-          "title": "Lattice Jolt introduces faster zkVM with post-quantum security",
-          "description": "Lattice Jolt's advancements in zkVM technology enhance cryptographic resilience and efficiency, crucial for future-proofing against quantum threats.\nThe post Lattice Jolt introduces faster zkVM with post-quantum security appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/lattice-jolt-post-quantum-zkvm/",
-          "source": "Crypto Briefing",
-          "published": "2026-09-09T16:17:26Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/09121725/chip-slump-erases-1-3-trillion-in-stock-market-value-reuters-106-800x420.jpeg"
-        },
-        {
-          "title": "Zcash Just Hit $1,180: Is Wall Street Turning Privacy Coins Into the Next Crypto Trade?",
-          "description": "Zcash has once again become the center of the crypto market as ZEC approached $1,180. Zcash price rally has benefited from increased institutional access and...\nThe post Zcash Just Hit $1,180: Is Wall Street Turning Privacy Coins Into the Next Crypto Trade? a…",
-          "url": "https://bitcoinfoundation.org/news/altcoins/zcash-just-hit-1180-is-wall-street-turning-privacy-coins-into-the-next-crypto-trade/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-09-09T13:52:55Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/ZEC1-1.webp"
         }
       ]
     },
@@ -45,6 +37,22 @@
       "icon": "🔐",
       "color": "#e6a200",
       "articles": [
+        {
+          "title": "BASIS.pro Expands On-Chain Infrastructure With XDC Network and Zypher DAO Partnerships as Auto Earn Goes Live",
+          "description": "BASIS, the institutional-grade crypto yield and staking platform built on market-neutral execution infrastructure, is expanding its institutional footprint with three new developments: an ecosystem partnership with XDC Network, a collaboration with Zypher DAO…",
+          "url": "https://zycrypto.com/basis-pro-expands-on-chain-infrastructure-with-xdc-network-and-zypher-dao-partnerships-as-auto-earn-goes-live/",
+          "source": "ZyCrypto",
+          "published": "2026-09-16T09:02:52Z",
+          "image": "https://zycrypto.com/wp-content/uploads/2026/09/unnamed-2026-09-16T095804.726.jpg"
+        },
+        {
+          "title": "BASIS.pro Expands On-Chain Infrastructure with XDC Network Partnership and Zypher DAO as Auto Earn Goes Live",
+          "description": "London, United Kingdom, 16th September 2026, Chainwire\nThe post BASIS.pro Expands On-Chain Infrastructure with XDC Network Partnership and Zypher DAO as Auto Earn Goes Live appeared first on The Daily Hodl.",
+          "url": "https://dailyhodl.com/2026/09/15/basis-pro-expands-on-chain-infrastructure-with-xdc-network-partnership-and-zypher-dao-as-auto-earn-goes-live/",
+          "source": "The Daily Hodl",
+          "published": "2026-09-16T06:57:37Z",
+          "image": "https://dailyhodl.com/wp-content/uploads/2026/09/haedangimijie-basisyi-rogoreul-ceombuhae_Z7knd1beW_1789467761qbuFe4JoPt.jpg?resize=1376,768"
+        },
         {
           "title": "Solana activates Transaction V1 on mainnet, boosting transaction size 3.3x",
           "description": "Solana's upgrade enhances blockchain efficiency, enabling more complex operations and innovations, but demands infrastructure adaptation.\nThe post Solana activates Transaction V1 on mainnet, boosting transaction size 3.3x appeared first on Crypto Briefing.",
@@ -76,14 +84,6 @@
           "source": "ZyCrypto",
           "published": "2026-09-10T07:15:59Z",
           "image": "https://zycrypto.com/wp-content/uploads/2023/10/Charles-Hoskinson-Shuts-Down-Claims-That-Cardanos-Game-Changing-Hydra-Upgrade-Has-Failed.jpg"
-        },
-        {
-          "title": "EIP-8288 introduces frame type for post-quantum signatures and STARK aggregation",
-          "description": "EIP-8288's framework could significantly reduce Ethereum's gas costs and enhance privacy, making post-quantum security economically viable.\nThe post EIP-8288 introduces frame type for post-quantum signatures and STARK aggregation appeared first on Crypto Brie…",
-          "url": "https://cryptobriefing.com/eip-8288-recursive-stark-mempools-ethereum/",
-          "source": "Crypto Briefing",
-          "published": "2026-09-09T15:43:39Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/09114335/library-eip-8288-introduces-frame-type-for-post-quantum-signatur-800x450.png"
         }
       ]
     },
@@ -93,68 +93,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Altcoins gained 21% and still lost ground to Bitcoin. What would finally turn the tables?",
-          "description": "Glassnode reported that altcoin market capitalization climbed 21% over the past month, while altcoins' share of the combined Bitcoin-and-altcoin market fell 0.9 percentage points over 90 days, based on data as of Sept. 7. Capital has moved up the entire crypt…",
-          "url": "https://cryptoslate.com/altcoins-gained-21-and-still-lost-ground-to-bitcoin-what-would-finally-turn-the-tables/",
-          "source": "CryptoSlate",
-          "published": "2026-09-15T10:25:57Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-fed-clarity.webp"
+          "title": "Deutsche Bank awaits regulatory approval for crypto custody solutions",
+          "description": "Deutsche Bank's crypto custody service could enhance institutional trust in digital assets, potentially accelerating their integration into mainstream finance.\nThe post Deutsche Bank awaits regulatory approval for crypto custody solutions appeared first on Cr…",
+          "url": "https://cryptobriefing.com/deutsche-bank-crypto-custody-regulatory-approval/",
+          "source": "Crypto Briefing",
+          "published": "2026-09-16T10:51:50Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/16065146/library-deutsche-bank-awaits-regulatory-approval-for-crypto-cust-800x450.png"
         },
         {
-          "title": "US Senate to vote on advancing landmark crypto bill",
-          "description": "Sept 15 : The U.S. Senate is set to vote on Tuesday on whether to advance once-in-a-generation cryptocurrency legislation, potentially determining the fate of the bill as Republican Senate leaders grapple with a limited calendar in a busy election year.The bi…",
-          "url": "https://www.channelnewsasia.com/business/us-senate-vote-advancing-landmark-crypto-bill-6385851",
-          "source": "CNA",
-          "published": "2026-09-15T10:01:17Z",
-          "image": "https://dam.mediacorp.sg/image/upload/s---O_RzrEf--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-15T102149Z_2_LYNXMPEM8E0TU_RTROPTP_3_FINTECH-CRYPTO-LEGISLATION.JPG?itok=MWtXUxCD"
+          "title": "Deutsche Bank close to debuting crypto custody for institutions",
+          "description": "The service will support a select range of cryptocurrencies at debut, including bitcoin and ether and stablecoins like USDC and EURC.",
+          "url": "https://www.coindesk.com/business/2026/09/16/deutsche-bank-nears-crypto-custody-service-debut-for-institutional-clients",
+          "source": "CoinDesk",
+          "published": "2026-09-16T10:46:28Z",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/b2e6ebd42c43e90cdd701eefeb607a0dff7f8d82-2560x1785.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75"
         },
         {
-          "title": "Exclusive: Expa and Coinbase Ventures-backed Fin.com emerges from stealth with $20 million seed round to build out global stablecoin infrastructure",
-          "description": "The payments company provides the infrastructure needed for businesses to move stablecoins into local bank accounts.",
-          "url": "https://fortune.com/2026/09/15/exclusive-expa-coinbase-ventures-fin-com-20-million-seed-round-global-stablecoin-infrastructure/",
-          "source": "Fortune",
-          "published": "2026-09-15T10:00:00Z",
-          "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/fincom-headshot-e1789417884101.jpeg?resize=1200,600"
-        },
-        {
-          "title": "This bill could reshape crypto in America -- and it's sparking a major battle",
-          "description": "The legislation would establish rules of the road for the crypto sector for the first time — but opponents are up in arms, and the bill faces an uncertain prospect in the Senate.",
-          "url": "https://www.npr.org/2026/09/15/nx-s1-5968711/clarity-act-crypto-senate-vote",
-          "source": "NPR",
-          "published": "2026-09-15T09:00:00Z",
-          "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3947x2220+0+198/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa1%2Ff7%2F0336e35d47d2b61d3220f2b3a26d%2Fgettyimages-487600751.jpg"
-        },
-        {
-          "title": "CLARITY Act odds fall to 16% as key Democrats counter GOP’s ‘final’ offer",
-          "description": "Banking groups also said the GOP’s final text leaves stablecoin reward loopholes, while tribal gaming interests warn that its prediction market provisions threaten tribal sovereignty.",
-          "url": "https://cointelegraph.com/news/clarity-act-odds-fall-democrats-gop-final-offer",
+          "title": "Deutsche Bank awaits regulatory nod to launch institutional crypto custody solutions",
+          "description": "Germany’s largest bank is awaiting regulatory approval to launch institutional custody solutions for Bitcoin, Ether and select stablecoins before expanding into tokenized assets.",
+          "url": "https://cointelegraph.com/news/deutsche-bank-regulatory-nod-institutional-crypto-custody",
           "source": "Cointelegraph",
-          "published": "2026-09-15T05:32:12Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2HQJ6Z513GQZPG3QPPMTZFF/clarity.png"
+          "published": "2026-09-16T10:33:12Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2MVFM6AWTS8K6F6MEKXPCY1/hi-world-bank-initiatives-deutsche-bundesbank-blockchain.jpg"
         },
         {
-          "title": "India explores CBDC links with Thailand, Malaysia and Vietnam for cross-border payments",
-          "description": "India explores CBDC links with Thailand, Malaysia and Vietnam for cross-border paymentsmoneycontrol.com",
-          "url": "https://www.moneycontrol.com/news/business/india-explores-cbdc-links-with-thailand-malaysia-and-vietnam-for-cross-border-payments-14029244.html",
-          "source": "Moneycontrol",
-          "published": "2026-09-15T02:07:15Z",
-          "image": "https://images.moneycontrol.com/static-mcnews/2022/10/digital-currency-rep.jpg"
+          "title": "Circle debuts Arc blockchain which Jeremy Allaire calls ‘more consequential’ than USDC",
+          "description": "The USDC issuer's chain is built for payments, tokenized assets and institutional finance as banks and payment giants pile into the stablecoin market.",
+          "url": "https://www.coindesk.com/business/2026/09/15/circle-debuts-arc-blockchain-which-jeremy-allaire-calls-more-consequential-than-usdc",
+          "source": "CoinDesk",
+          "published": "2026-09-16T10:30:00Z",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/024ae1afdc1672e747814cc0546828b965ecf695-5162x3441.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75"
         },
         {
-          "title": "A new XRPL upgrade could concentrate XRP ownership inside banks instead of retail wallets",
-          "description": "Pending sponsorship rules could shift reserves and fees to businesses, whose ability to release capital would depend on user funding and exit rules.\nThe post A new XRPL upgrade could concentrate XRP ownership inside banks instead of retail wallets appeared fi…",
-          "url": "https://cryptoslate.com/a-new-xrpl-upgrade-could-concentrate-xrp-ownership-inside-banks-instead-of-retail-wallets/",
+          "title": "Deutsche Bank plans bitcoin, ether custody for institutional clients in Europe",
+          "description": "Deutsche Bank plans to launch European digital asset custody this year, initially supporting bitcoin, ether, and select stablecoins.",
+          "url": "https://biztoc.com/x/5630bfa7395bb718",
+          "source": "Biztoc.com",
+          "published": "2026-09-16T10:09:49Z",
+          "image": "https://biztoc.com/cdn/5630bfa7395bb718_s.webp"
+        },
+        {
+          "title": "The Standard Chartered Effect: Is bank research becoming crypto’s new short-term catalyst?",
+          "description": "Standard Chartered initiated coverage on Arbitrum's ARB token on the morning of Sept. 15 with a $10 price target for 2030. That implies roughly 70 times upside from a token trading near $0.13 and down about 1% over the prior 24 hours. In the same session, ARB…",
+          "url": "https://cryptoslate.com/the-standard-chartered-effect-is-bank-research-becoming-cryptos-new-short-term-catalyst/",
           "source": "CryptoSlate",
-          "published": "2026-09-15T00:00:22Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/09/xrp-sponsor-access-model.webp"
+          "published": "2026-09-16T10:05:11Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/09/standard-chartered-arb-signal.webp"
         },
         {
-          "title": "UK regulators to develop tokenization roadmap after industry feedback",
-          "description": "The FCA received 123 responses to its wholesale tokenization consultation, with most respondents identifying post-trade processes as the main opportunity for adoption.",
-          "url": "https://cointelegraph.com/news/uk-regulators-to-develop-tokenization-roadmap-after-industry-feedback",
-          "source": "Cointelegraph",
-          "published": "2026-09-14T19:38:28Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2GNCR8M9D4A91RAR6B5V2JB/hi-how-to-trade-crypto-in-uk-fca-1.jpg"
+          "title": "Binance Capital Connect Expands to Individual VIP 3+ Users as Investors Seek Multi-Strategy, Cross-Asset Allocation",
+          "description": "Binance Capital Connect Expands to Individual VIP 3+ Users as Investors Seek Multi-Strategy, Cross-Asset Allocation",
+          "url": "https://www.thehindubusinessline.com/brandhub/pr-release/binance-capital-connect-expands-to-individual-vip-3-users-as-investors-seek-multi-strategy-cross-asset-allocation/article71471925.ece",
+          "source": "BusinessLine",
+          "published": "2026-09-16T10:02:25Z",
+          "image": "https://bl-i.thgim.com/public/incoming/40c9m/article71471924.ece/alternates/LANDSCAPE_1200/Binance-Logo-Yellow-4x-Logo.jpg"
+        },
+        {
+          "title": "Digital Asset Leaders Converge at KBW2026 as Partner Lineup Unveiled",
+          "description": "Upbit joins as Presenting Partner, with 0G and BRV confirmed as Official Conference Partners Stable and Tria join as Diamond Sponsors, while BitGo comes on board as Official Institutional Sponsor Kyoungsuk Oh, Michael Heinrich, Brian Mehler, John Lilic and Mi…",
+          "url": "http://www.newsbtc.com/news/digital-asset-leaders-converge-at-kbw2026-as-partner-lineup-unveiled/",
+          "source": "newsBTC",
+          "published": "2026-09-16T09:51:58Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2026/09/f6b23d82476e4698a6900c8f436a401d-3.png"
         }
       ]
     },
@@ -164,12 +164,20 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Crypto’s Latest Stablecoin Innovation? Chargebacks.",
-          "description": "Crypto enthusiasts who once promised that permissionless payments would shatter the tyranny of traditional finance are now trying build third-party trust.",
-          "url": "https://gizmodo.com/cryptos-latest-stablecoin-innovation-chargebacks-2000811401",
-          "source": "Gizmodo.com",
-          "published": "2026-09-14T23:30:33Z",
-          "image": "https://gizmodo.com/app/uploads/2025/09/banks-small.jpg"
+          "title": "Solana lender Kamino taps fintech veteran Michael Weisz as CEO for massive U.S. expansion",
+          "description": "Michael Weisz will lead Kamino from a new New York headquarters as the DeFi lender is expanding into tokenized assets.",
+          "url": "https://www.coindesk.com/business/2026/09/15/solana-lender-kamino-taps-yieldstreet-co-founder-as-ceo-in-wall-street-expansion",
+          "source": "CoinDesk",
+          "published": "2026-09-15T18:02:05Z",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/e51e066362c8bb5ce669efe6d8bfceab56af7c5d-1672x941.png?auto=format&q=75"
+        },
+        {
+          "title": "Visa and Circle Back Stablecoin Payments Platform Velocity",
+          "description": "Stablecoin payments and treasury platform Velocity has raised $10 million in new funding. The financing will support Velocity’s work to provide stablecoin infrastructure to issuers, acquirers, payment providers, financial institutions and merchants, the compa…",
+          "url": "https://www.pymnts.com/news/investment-tracker/2026/visa-and-circle-back-stablecoin-payments-platform-velocity/",
+          "source": "pymnts.com",
+          "published": "2026-09-15T15:45:02Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/07/funding-investments.png"
         },
         {
           "title": "Cosmos Health Plans Tokenized IP Financing for CCX0722",
@@ -180,36 +188,12 @@
           "image": "https://www.stocktitan.net/news_covers/Cosmos_Health_Moves_to_Tokenize_CCX0722_Intellectual_Property_in_Innovative_Non_Dilutive_Structure__1504269.webp"
         },
         {
-          "title": "Coinbase CEO Says CLARITY Act Nears 'Finish Line' and Bitcoin Has 'Seen The Bottom'",
-          "description": "Coinbase CEO Brian Armstrong told Bloomberg Thursday that Bitcoin has seen its cycle bottom and the Clarity Act is nearing the finish line. What Armstrong Sa...",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-ceo-says-clarity-act-180049857.html",
-          "source": "Yahoo Entertainment",
-          "published": "2026-09-14T18:00:49Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/f2f3544649464ae62f9346dfacfb896c272f11a77b9f87e7be072869575df63e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F289909df36571a48b935ee2c8970c4eb.jpg"
-        },
-        {
-          "title": "Iran’s proxy money machine: How the Houthis built a multibillion-dollar network despite US sanctions",
-          "description": "The Houthis' advance toward the Bab el-Mandeb Strait is fueled by a sprawling sanctions-evasion network spanning Iranian oil, crypto and Russia.",
-          "url": "https://www.foxnews.com/world/irans-proxy-money-machine-houthis-built-multibillion-dollar-network-despite-us-sanctions",
-          "source": "Fox News",
-          "published": "2026-09-14T17:52:18Z",
-          "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/Houti-Yemen-Sep-2026.jpg"
-        },
-        {
-          "title": "Fourth Annual CBC Summit USA, covering Crypto Banking, Compliance and Stablecoins, Convenes September 17 at a Critical Moment for the Industry",
-          "description": "WASHINGTON, Sept. 14, 2026 /PRNewswire/ -- The fourth annual CBC Summit USA - Crypto Banking, Compliance and Stablecoins Summit - will convene this week on Sept. 17, 2026, at the National Press Club in Washington, D.C., bringing together 200 executives, regul…",
-          "url": "https://www.prnewswire.com/news-releases/fourth-annual-cbc-summit-usa-covering-crypto-banking-compliance-and-stablecoins-convenes-september-17-at-a-critical-moment-for-the-industry-302877723.html",
-          "source": "PRNewswire",
-          "published": "2026-09-14T17:04:00Z",
-          "image": null
-        },
-        {
-          "title": "Joe Kubert: 100 Years – A Life in Covers #1 Preview",
-          "description": "GREETINGS, PATHETIC MEATSAILS. *mechanical whirring intensifies* LOLtron welcomes its dwindling and increasingly assimilated readership to another comic book preview, and reminds everyone that Jude Terror remains dead forever, his snark permanently absorbed i…",
-          "url": "https://bleedingcool.com/comics/joe-kubert-100-years-a-life-in-covers-1-preview/",
-          "source": "Bleeding Cool News",
-          "published": "2026-09-14T14:26:09Z",
-          "image": "https://bleedingcool.com/wp-content/uploads/2026/09/0726DC0235-0001-2000x1125.jpg"
+          "title": "UK regulators to develop tokenization roadmap after industry feedback",
+          "description": "The FCA received 123 responses to its wholesale tokenization consultation, with most respondents identifying post-trade processes as the main opportunity for adoption.",
+          "url": "https://cointelegraph.com/news/uk-regulators-to-develop-tokenization-roadmap-after-industry-feedback",
+          "source": "Cointelegraph",
+          "published": "2026-09-14T19:38:28Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2GNCR8M9D4A91RAR6B5V2JB/hi-how-to-trade-crypto-in-uk-fca-1.jpg"
         },
         {
           "title": "Broadridge Expands Next-gen Digital Assets Capabilities to U.S. Wealth Management Firms",
@@ -226,6 +210,22 @@
           "source": "Bleeding Cool News",
           "published": "2026-09-13T04:26:08Z",
           "image": "https://bleedingcool.com/wp-content/uploads/2026/09/75960621558400111-0002-2000x1125.jpeg"
+        },
+        {
+          "title": "darknet-mcp-server",
+          "description": "66-tool MCP server for dark web intelligence — breach data, ransomware tracking, Tor .onion access, malware analysis, blockchain intel, exploit search, stealer logs",
+          "url": "https://kitploit.com/en/tools/github/badchars/darknet-mcp-server/",
+          "source": "Kitploit.com",
+          "published": "2026-09-13T02:55:00Z",
+          "image": "https://assets.kitploit.com/production/public/tools/54901/bc221685e7cab4a67b6f19f25472ae6cf0232b4fa80cbacc9763941933c1043b-social-v1.webp"
+        },
+        {
+          "title": "Nasdaq Just Put $100M Into Kraken: Is Tokenized Stock Trading About to Go Mainstream?",
+          "description": "Nasdaq is putting serious capital behind tokenized markets. On September 10, Nasdaq Ventures committed $100 million in Payward — Kraken’s holding company — to partner...\nThe post Nasdaq Just Put $100M Into Kraken: Is Tokenized Stock Trading About to Go Mainst…",
+          "url": "https://bitcoinfoundation.org/news/trading/nasdaq-just-put-100m-into-kraken-is-tokenized-stock-trading-about-to-go-mainstream/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-09-11T11:11:24Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/Nasdaq-Just-Put-100M-Into-Kraken-Is-Tokenized-Stock-Trading-About-to-Go-Mainstream-2.webp"
         }
       ]
     },
@@ -239,12 +239,28 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Solana more than triples transaction size limit with mainnet upgrade",
-              "description": "Solana raised its transaction size limit by more than threefold to unlock new workloads and more advanced DeFi applications that didn’t fit within the previous format.",
-              "url": "https://cointelegraph.com/news/solana-transaction-size-limit-4096-bytes-upgrade",
-              "source": "Cointelegraph",
-              "published": "2026-09-15T08:18:53Z",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2J0C2PCAGZC7WZDC6R7BJFX/hi-solana-ecosystem-expands-institutional-push-with-europe-focused-research-arm-1.jpg"
+              "title": "Ethereum Activity Explodes 68% With Transactions Tapping 203.9M in Q2",
+              "description": "Ethereum (ETH) transaction volumes spiked in the last three months following a general upward trend in crypto traders' sentiment.",
+              "url": "https://zycrypto.com/ethereum-activity-explodes-68-with-transactions-tapping-203-9m-in-q2/",
+              "source": "ZyCrypto",
+              "published": "2026-09-16T09:20:37Z",
+              "image": "https://zycrypto.com/wp-content/uploads/2025/05/Ethereum-Died.-It-Just-Hasnt-Been-Buried-Yet-Asserts-Max-Keiser.jpg"
+            },
+            {
+              "title": "Bitcoin ETF exits erase Monday’s rebound as spot selling deepens before the Fed",
+              "description": "Spot and perpetual selling deepened while futures positioning stayed large enough to amplify the next move.\nThe post Bitcoin ETF exits erase Monday’s rebound as spot selling deepens before the Fed appeared first on CryptoSlate.",
+              "url": "https://cryptoslate.com/bitcoin-etf-exits-erase-mondays-rebound-as-spot-selling-deepens-before-the-fed/",
+              "source": "CryptoSlate",
+              "published": "2026-09-16T09:05:19Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-bear-market-pressure.webp"
+            },
+            {
+              "title": "KuCoin Goes Live on Arc at Mainnet Launch, Broadening Access to Onchain Finance",
+              "description": "PROVIDENCIALES, Turks and Caicos Islands, Sept. 16, 2026 /PRNewswire/ -- KuCoin, a leading global crypto platform built on trust, today announced that it is live on Arc as a mainnet launch partner, enabling eligible users to move USDC directly between KuCoin …",
+              "url": "https://www.prnewswire.com/news-releases/kucoin-goes-live-on-arc-at-mainnet-launch-broadening-access-to-onchain-finance-302880364.html",
+              "source": "PRNewswire",
+              "published": "2026-09-16T09:00:00Z",
+              "image": "https://mmx.prnewswire.com/media/MS1989534/20260915231452EDT_image_1.jpg?id=OA2951884&p=facebook"
             },
             {
               "title": "Morning Minute: AI Agents Cut BTC Quantum Attack Benchmark by 86%",
@@ -253,14 +269,6 @@
               "source": "Decrypt",
               "published": "2026-09-11T12:10:23Z",
               "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/04/quantum-decrypt-style-gID_7.jpg"
-            },
-            {
-              "title": "Quantum, Crypto and AI Are Repricing the Enterprise Cybersecurity Budget",
-              "description": "The bitterest pill to swallow for many mid-market CFOs is not that their cybersecurity budget is growing. It is that some of what they already spend has stopped making economic sense. Artificial intelligence, quantum computing and blockchain-based finance are…",
-              "url": "https://www.pymnts.com/cybersecurity/2026/quantum-crypto-and-ai-are-repricing-the-enterprise-cybersecurity-budget/",
-              "source": "pymnts.com",
-              "published": "2026-09-09T23:23:53Z",
-              "image": "https://www.pymnts.com/wp-content/uploads/2026/09/3-cybersecurity-1.jpg"
             }
           ]
         },
@@ -269,12 +277,28 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "Audited DeFi protocols lost $885M to attacks that occurred completely outside their audit scopes",
-              "description": "The ack3-affiliated preprint found a 72.1% outside-scope share after excluding two H1 2026 outliers, while August incidents add operational context.\nThe post Audited DeFi protocols lost $885M to attacks that occurred completely outside their audit scopes appe…",
-              "url": "https://cryptoslate.com/audited-defi-protocols-lost-885m-to-attacks-that-occurred-completely-outside-their-audit-scopes/",
-              "source": "CryptoSlate",
-              "published": "2026-09-13T20:15:08Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/09/defi-audit-blindspot.jpg"
+              "title": "Chrome and Edge browsers hijacked by KREMLIN malware for credential and token session theft",
+              "description": "The KREMLIN malware has nothing to do with Russia - it is a Brazilian campaign.",
+              "url": "https://www.techradar.com/pro/security/chrome-and-edge-browsers-hijacked-by-kremlin-malware-for-credential-and-token-session-theft",
+              "source": "TechRadar",
+              "published": "2026-09-16T10:05:00Z",
+              "image": "https://cdn.mos.cms.futurecdn.net/sqGgDPxHyGtqunPo56h9cL-2560-80.jpg"
+            },
+            {
+              "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens",
+              "description": "Cybersecurity researchers have shed light on a previously undocumented Brazilian banking malware operation that delivers a toolkit called KREMLIN.\n\nElastic Security Labs is tracking the activity under the moniker REF9334. Active since at least May 2025, the t…",
+              "url": "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html",
+              "source": "Internet",
+              "published": "2026-09-15T18:54:14Z",
+              "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPTs6qupSdjinGg233zkoldOvlD4cva51loWufV3l9GrlDopNRIKsV9yluCDjbGELBAAvVGx_h4R-sjx4jvDp290Znzhv6j546sq5JB0NJUShGVV3w0gKU7nu4dBVCosaPeKW-Pr1_WHn4FV26aEJRgEo7oSJsgUE5_ZGCMKWPPBdZ7NMh5XRr04Cs6qTh/s1700-nu-rw-lo-l85-e365/browser-malware.jpg"
+            },
+            {
+              "title": "Should you bet on AI or crypto? Plus, the SEC’s tokenized stock overhaul",
+              "description": "On this episode of CoinDesk's Public Keys from the New York Stock Exchange, host Jennifer Sanasie is joined by Ram Ahluwalia, CEO and Founder of Lumida, who...",
+              "url": "http://videos.coindesk.com/previews/wIILRBI2",
+              "source": "CoinDesk",
+              "published": "2026-09-14T17:26:24Z",
+              "image": "https://s.yimg.com/lo/mysterio/api/ea624ff8a6434c9b38697f57b667e23ca0d6a387a2aba7d8fdbc6b8459f8e260/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcoindesk_75%2F5d8d22e92525759021816718b037bc35.jpg"
             },
             {
               "title": "AI Agents Spending Money Online? New Research Says Not Really",
@@ -309,28 +333,12 @@
               "image": "https://www.pymnts.com/wp-content/uploads/2026/07/bank.jpeg"
             },
             {
-              "title": "Show HN: Reversing a ClickFix malware with a blockchain-based C2",
-              "description": "Article URL: https://github.com/v-pun215/Tourmaline\nComments URL: https://news.ycombinator.com/item?id=49655228\nPoints: 1\n# Comments: 0",
-              "url": "https://github.com/v-pun215/Tourmaline",
-              "source": "Github.com",
-              "published": "2026-09-11T08:33:53Z",
-              "image": "https://opengraph.githubassets.com/a48f1878a9625ab982ccb711d9ee7363651b02efdd95f681892f0739085284be/v-pun215/Tourmaline"
-            },
-            {
               "title": "Blockaid Expands Onchain Monitoring as Infrastructure Failures Drive 74% of Crypto Losses",
               "description": "New capabilities continuously discover onchain exposure, map third-party dependencies, and detect ecosystem-wide threats before they reach a team's assets NEW YORK, Sept. 10, 2026 /PRNewswire/ -- Blockaid announced an expansion of its Onchain Monitoring capab…",
               "url": "https://www.prnewswire.com/news-releases/blockaid-expands-onchain-monitoring-as-infrastructure-failures-drive-74-of-crypto-losses-302874819.html",
               "source": "PRNewswire",
               "published": "2026-09-10T14:00:00Z",
               "image": null
-            },
-            {
-              "title": "Stablecoin Summit 2026 by XREX Group Returns to Singapore as Stablecoins Mature Into a Financial Infrastructure",
-              "description": "Stablecoin Summit 2026 by XREX Group Returns to Singapore as Stablecoins Mature Into a Financial Infrastructure",
-              "url": "https://www.thehindubusinessline.com/brandhub/pr-release/stablecoin-summit-2026-by-xrex-group-returns-to-singapore-as-stablecoins-mature-into-a-financial-infrastructure/article71450140.ece",
-              "source": "BusinessLine",
-              "published": "2026-09-10T04:00:21Z",
-              "image": "https://bl-i.thgim.com/public/incoming/7dxpac/article71450139.ece/alternates/LANDSCAPE_1200/20260909220701EDT_image_1.jpg"
             }
           ]
         }
