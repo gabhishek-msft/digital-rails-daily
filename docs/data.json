@@ -1,11 +1,27 @@
 {
-  "date": "September 19, 2026",
+  "date": "September 20, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "Bitcoin Surges 6% Past $80,000 as Fed's Softer Rate Path Sparks a Broad Crypto Relief Rally Once Again",
+          "description": "Bitcoin rose 6.03% to US$80,947.85 after investors interpreted the Federal Reserve's latest projections as signalling a less aggressive path for future interest rate rises.",
+          "url": "https://www.ibtimes.com.au/bitcoin-surges-above-80000-softer-fed-outlook-1875695",
+          "source": "Ibtimes.com.au",
+          "published": "2026-09-18T16:30:46Z",
+          "image": "https://d.ibtimes.com.au/en/full/1867991/bitcoin.jpg"
+        },
+        {
+          "title": "Layer-2 and DeFi tokens lead broad crypto advance as post-Fed hike nerves fade",
+          "description": "Bitcoin rose above $78,000 during the European morning, adding 2.1% since midnight UTC.\nLayer-2 and DeFi tokens led the move, with starknet (STRK) up 18%, arbitrum (ARB) up 17% and uniswap (UNI) up 13%, while the DeFi Select Index gained 8.3%.\nA softer macro …",
+          "url": "https://biztoc.com/x/f42bcbd582b5fac7",
+          "source": "Biztoc.com",
+          "published": "2026-09-18T10:46:40Z",
+          "image": "https://biztoc.com/cdn/f42bcbd582b5fac7_s.webp"
+        },
         {
           "title": "Satellites Built Today Must Outlive the Encryption Protecting Them",
           "description": "VANCOUVER, BC, Sept. 17, 2026 /PRNewswire/ -- Equity Insider News Commentary – A satellite launched this year may still be flying in the 2040s. The cryptography protecting its command links, its downlinks and its ground segment was, in most cases, chosen year…",
@@ -92,30 +108,6 @@
           "source": "The Daily Hodl",
           "published": "2026-09-16T06:57:37Z",
           "image": "https://dailyhodl.com/wp-content/uploads/2026/09/haedangimijie-basisyi-rogoreul-ceombuhae_Z7knd1beW_1789467761qbuFe4JoPt.jpg?resize=1376,768"
-        },
-        {
-          "title": "Solana activates Transaction V1 on mainnet, boosting transaction size 3.3x",
-          "description": "Solana's upgrade enhances blockchain efficiency, enabling more complex operations and innovations, but demands infrastructure adaptation.\nThe post Solana activates Transaction V1 on mainnet, boosting transaction size 3.3x appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/solana-transaction-v1-mainnet-activation/",
-          "source": "Crypto Briefing",
-          "published": "2026-09-15T01:42:26Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/14214222/library-solana-activates-transaction-v1-on-mainnet-boosting-tran-800x450.png"
-        },
-        {
-          "title": "TRON’s quantum plan could leave some wallets able to pay but unable to replace their keys",
-          "description": "If validators disable a signing scheme, the draft design’s recovery path depends on which owner permissions survive.\nThe post TRON’s quantum plan could leave some wallets able to pay but unable to replace their keys appeared first on CryptoSlate.",
-          "url": "https://cryptoslate.com/trons-quantum-plan-could-leave-some-wallets-able-to-pay-but-unable-to-replace-their-keys/",
-          "source": "CryptoSlate",
-          "published": "2026-09-14T19:45:57Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/09/tron-quantum-key-risk.jpg"
-        },
-        {
-          "title": "Show HN: ZKSM83,a ZK proof system for GameBoy CPU execution",
-          "description": "Article URL: https://github.com/RyanKung/zksm83\nComments URL: https://news.ycombinator.com/item?id=49702386\nPoints: 2\n# Comments: 0",
-          "url": "https://github.com/RyanKung/zksm83",
-          "source": "Github.com",
-          "published": "2026-09-14T19:15:08Z",
-          "image": "https://opengraph.githubassets.com/d775d585565e51589256c39c5c9e17301f5f2f9d44d2d8ef3496c9ee336bc565/RyanKung/zksm83"
         }
       ]
     },
@@ -125,68 +117,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Coinbase Just Embedded Its Rails Inside 4,000-Plus Community Banks",
-          "description": "The stablecoin wars have shifted from the issuers—Circle, Ripple, and Ondo—to the infrastructure of global finance. Rather than fighting for dominance within crypto-native exchanges, the industry is now focused on the plumbing required to move assets into the…",
-          "url": "https://forkast.news/coinbase-just-embedded-its-rails-inside-4000-plus-community-banks/",
-          "source": "Forkast.news",
-          "published": "2026-09-18T09:47:02Z",
-          "image": "https://forkast.news/wp-content/uploads/2026/09/coinbase-stablecore-hero-1024x572.jpg"
-        },
-        {
-          "title": "World Money Just Baked a Biometric Passport Into the Stablecoin Payment Rail",
-          "description": "The stablecoin industry has spent years obsessing over the plumbing of institutional finance, but World Money is betting that the real revolution isn’t in the pipes—it is in the passport. Launched on September 17, 2026, by Tools for Humanity, this self-custod…",
-          "url": "https://forkast.news/world-money-just-baked-a-biometric-passport-into-the-stablecoin-payment-rail/",
-          "source": "Forkast.news",
-          "published": "2026-09-18T09:45:23Z",
-          "image": "https://forkast.news/wp-content/uploads/2026/09/world-money-hero-1024x572.jpg"
-        },
-        {
-          "title": "CLARITY Act needs 3 more senators and a race against the clock for a 2026 revival",
-          "description": "Seven Democratic senators said Sept. 16 that CLARITY's failed Senate vote was not the end. The crypto market-structure bill fell short 49-50 the previous day on a procedural motion that needed 60 votes to advance. Getting from that statement to a law now depe…",
-          "url": "https://cryptoslate.com/clarity-act-needs-3-more-senators-and-a-race-against-the-clock-for-a-2026-revival/",
-          "source": "CryptoSlate",
-          "published": "2026-09-18T09:20:55Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/09/clarity-act-partisan-gridlock.webp"
-        },
-        {
-          "title": "Best Arc Memecoins in 2026: Early Arc Chain Tokens to Watch Before They Take Off",
-          "description": "Arc mainnet only went public on September 16, but its memecoin economy was already forming before launch. Within hours of mainnet opening, several early tokens...\nThe post Best Arc Memecoins in 2026: Early Arc Chain Tokens to Watch Before They Take Off appear…",
-          "url": "https://bitcoinfoundation.org/news/altcoins/best-arc-memecoins-2026/",
+          "title": "Trump’s Bitcoin Reserve Moves Closer to Law as US-Russia Tensions Escalate",
+          "description": "The Trump Bitcoin Reserve is entering policymaking as tensions with Russia rise. A House proposal would strengthen the Strategic Bitcoin Reserve and impose a 20-year...\nThe post Trump’s Bitcoin Reserve Moves Closer to Law as US-Russia Tensions Escalate appear…",
+          "url": "https://bitcoinfoundation.org/news/bitcoin/trumps-bitcoin-reserve-moves-closer-to-law-as-us-russia-tensions-escalate/",
           "source": "Bitcoinfoundation.org",
-          "published": "2026-09-18T08:17:00Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/arcmem-1.webp"
+          "published": "2026-09-19T07:57:37Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/image-1789804714.webp"
         },
         {
-          "title": "CLARITY Act Stalls in Senate as Crypto-Related Stocks Decline",
-          "description": "Shares of major cryptocurrency-related companies fell sharply after the U.S. Senate failed to advance the CLARITY Act, a bill that would have established a regulatory framework for digital assets. The procedural vote, which took place during the current congr…",
-          "url": "https://www.naturalnews.com/2026-09-18-clarity-act-stalls-senate-crypto-related-stocks-decline.html",
-          "source": "Naturalnews.com",
-          "published": "2026-09-18T06:00:00Z",
-          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/clarity-act-crypto-stocks-senate-vote-4163-original.jpg"
-        },
-        {
-          "title": "World launches self-custodial ‘super app’ World Money",
-          "description": "World has launched World Money, a self-custodial financial app offering stablecoin payments, digital asset rewards and trading across more than 150 countries.",
-          "url": "https://cointelegraph.com/news/world-launches-self-custodial-super-app-world-money",
+          "title": "Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report",
+          "description": "Former banking official gets four years in prison over false letters of credit and accepting $470,000 in cryptocurrency bribes.",
+          "url": "https://cointelegraph.com/news/hong-kong-jails-former-banker-over-16b-false-credit-cryptocurrency-bribes-report",
           "source": "Cointelegraph",
-          "published": "2026-09-18T03:40:28Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2S9HGXJ2F33PMBZSJ22CVNG/world-app.jpg"
+          "published": "2026-09-19T07:50:58Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2WA562VCY2PY1P3DW1N862B/hi-time-to-switch-license-hong-kong.png"
         },
         {
-          "title": "Tokenized stock trading is about to take off after SEC issues five-year exemption from securities laws",
-          "description": "The cryptocurrency industry has gotten a major boost from the U.S. Securities and Exchange Commission, which today announced a five-year exemption that allows companies to facilitate the trading of blockchain-based tokenized stocks and securities. It’s a big …",
-          "url": "https://siliconangle.com/2026/09/17/tokenized-stock-trading-is-about-to-take-off-after-sec-issues-five-year-exemption-from-securities-laws/",
-          "source": "SiliconANGLE News",
-          "published": "2026-09-18T01:36:20Z",
-          "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-09-18-08-35-49.png"
+          "title": "US OCC grants conditional banking license approval to Bastion",
+          "description": "Bastion's federal charter approval signifies a regulatory shift, streamlining operations for digital asset firms and enhancing stablecoin infrastructure.\nThe post US OCC grants conditional banking license approval to Bastion appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/occ-bastion-national-trust-bank-charter/",
+          "source": "Crypto Briefing",
+          "published": "2026-09-19T03:32:52Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/18233248/library-us-occ-grants-conditional-banking-license-approval-to-ba-800x450.png"
         },
         {
-          "title": "From Kaiko to OpenZeppelin, S&P Global is quietly preparing for markets that never close",
-          "description": "S&P Global agreed to acquire smart contract security firm OpenZeppelin, expanding its digital asset business into the technology underpinning tokenized finance. On Sept. 17, the financial data and ratings company said that OpenZeppelin will continue operating…",
-          "url": "https://cryptoslate.com/from-kaiko-to-openzeppelin-sp-global-is-quietly-preparing-for-markets-that-never-close/",
-          "source": "CryptoSlate",
-          "published": "2026-09-18T01:30:37Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/09/sp-global-24-7-markets.webp"
+          "title": "The Code is the Credit: S&P Global’s Acquisition of OpenZeppelin",
+          "description": "In a move that signals the final maturation of digital asset infrastructure, S&P Global announced on September 17, 2026, its acquisition of OpenZeppelin. This is not merely a corporate consolidation; it is the formal emergence of a 'credit rating for code'—a …",
+          "url": "https://forkast.news/the-code-is-the-credit-sp-globals-acquisition-of-openzeppelin/",
+          "source": "Forkast.news",
+          "published": "2026-09-19T01:37:45Z",
+          "image": "https://forkast.news/wp-content/uploads/2026/09/spg-openzeppelin-acquisition-hero-1024x572.jpg"
+        },
+        {
+          "title": "What Is a Stablecoin Reward, and Why Did the CLARITY Act’s Failure Keep It Alive?",
+          "description": "Millions of people collect stablecoin rewards without knowing who actually funds them, and the Senate's failure to pass landmark crypto legislation left that...",
+          "url": "https://247wallst.com/investing/cryptocurrency/2026/09/18/what-is-a-stablecoin-reward-and-why-did-the-clarity-acts-failure-keep-it-alive/",
+          "source": "24/7 Wall St.",
+          "published": "2026-09-18T23:10:49Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/539067f38872153ee0dddcc99ea3701f6e77c01901aef9cfbac9bca8e116cc90/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F6a595bff327ad19b4313254527de8ed5.jpg"
+        },
+        {
+          "title": "Strategy (MSTR) Surges 16% on Growing Digital Asset Adoption — A New Catalyst Looms Next Week",
+          "description": "Strategy Inc. (NASDAQ:MSTR) saw its share price increase by 16.39 percent on Friday to close at $153.92 apiece, as investor sentiment was fueled by the rebou...",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/strategy-mstr-surges-16-growing-230649452.html",
+          "source": "Yahoo Entertainment",
+          "published": "2026-09-18T23:06:49Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/19b753ef329e6fb079a27f09f56b7e88fce2883086a4eedceba35056000f0294/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F2c1d21dd68b228b4a6d664ea10120ecc.jpg"
+        },
+        {
+          "title": "Bitcoin’s Production Cost Is $78,000. What Happens When Miners Lose Money?",
+          "description": "JPMorgan pegs Bitcoin's production cost above its current market price, and miners have already broken records to stay afloat. What built-in network forces d...",
+          "url": "https://247wallst.com/investing/cryptocurrency/2026/09/18/bitcoins-production-cost-is-78000-what-happens-when-miners-lose-money/",
+          "source": "24/7 Wall St.",
+          "published": "2026-09-18T22:59:46Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/2d82fe14b323e03dd12ba5be27db2f3550bf064234df3df1bf81323753ffecaa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F9e0d2e7ae3ddd3071fa5033b94fca0cb.jpg"
+        },
+        {
+          "title": "Weekly Wrap: Bitcoin Climbs Back Above $80,000",
+          "description": "The price of Bitcoin (CRYPTO: $BTC) and other cryptocurrencies strengthened heading into the weekend after a volati...",
+          "url": "https://www.cryptoprowl.com/releases/weekly-wrap-bitcoin-climbs-back-above-80000-7093",
+          "source": "Cryptoprowl.com",
+          "published": "2026-09-18T22:01:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/017550beec6a1b470b9ed693af590caa1b1dd86c4003e7b0f922e62c986856fa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2Fec3aee05617e34c3e1e37afda11cef9e.jpg"
         }
       ]
     },
@@ -196,36 +188,12 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "North Korea drives onchain malware surge, CoinEx shuts: Asia Express",
-          "description": "North Korean hackers have driven a 420% surge in onchain malware. Hong Kong policymakers urged to seize the opportunity provided by the failure of CLARITY in the US. Asia Express.",
-          "url": "https://cointelegraph.com/magazine/north-korea-drives-onchain-malware-surge-coinex-shuts-asia-express",
-          "source": "Cointelegraph",
-          "published": "2026-09-17T23:49:23Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2RR0R87D4ZNY7FB45GN96P2/magazineasia-expressriver.jpg"
-        },
-        {
-          "title": "S&P Global Acquires OpenZeppelin In Tokenized Finance Push",
-          "description": "Credit rating agency S&P Global (NYSE: $SPGI) is buying OpenZeppelin, a security firm whose open-source code is...",
-          "url": "https://www.cryptoprowl.com/releases/sp-global-acquires-openzeppelin-in-tokenized-finance-push-7085",
-          "source": "Cryptoprowl.com",
-          "published": "2026-09-17T18:16:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/d6787032181c854f626b28e68275b4996fe365ae98d2dafd59b74ccb46b6cf4f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F5071ca9605d9ad8da8bd5bc2535d58d3.jpg"
-        },
-        {
-          "title": "Crypto.com founder: Crypto’s battles will continue, but the war is over",
-          "description": "I spent years championing the Clarity Act framework, it is natural to view Tuesday's result as a significant setback, but the war has already been fought.",
-          "url": "https://fortune.com/2026/09/17/crypto-com-founder-war-is-over-we-won-clarity-act-defeat/",
-          "source": "Fortune",
-          "published": "2026-09-17T18:11:30Z",
-          "image": "https://fortune.com/img-assets/wp-content/uploads/2021/12/GettyImages-944599772-e1638954544207.jpg?resize=1200,600"
-        },
-        {
-          "title": "S&P Acquires OpenZeppelin to Bring Risk Assessment to On-Chain Finance",
-          "description": "S&P Global is acquiring blockchain security company OpenZeppelin as it looks to expand its risk assessment business to on-chain financial products, according to a Thursday (Sept. 17) news release. “The transaction complements S&P Global’s risk assessment and …",
-          "url": "https://www.pymnts.com/blockchain/2026/sp-acquires-openzeppelin-bring-risk-assessment-on-chain-finance/",
-          "source": "pymnts.com",
-          "published": "2026-09-17T16:39:56Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2025/05/SP-Global.jpg"
+          "title": "Hunter Biden’s LAPTOP Memecoin Crashes 99% Since Launch After Topping $50 Billion Market Cap — How It Compares With Official TRUMP Token in Debut Week",
+          "description": "It’s been a bloodbath for Hunter Biden’s Laptop (LAPTOP) memecoin since its launch a week ago, far worse than that of President Donald Trump’s memecoin in it...",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/hunter-biden-laptop-memecoin-crashes-033117420.html",
+          "source": "Yahoo Entertainment",
+          "published": "2026-09-19T03:31:17Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/985564895b54b484afb434090ca253a830de4a3a1be2b42923d07b2ac27d161e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F0736bfeee0a4a94c481166ad54938fae.jpg"
         },
         {
           "title": "Zhibao Technology Expands Healthcare Data Infrastructure Through Changzhou Insurance Platform Agreement",
@@ -271,12 +239,36 @@
           "icon": "💡",
           "articles": [
             {
+              "title": "Bitcoin survived the Fed and CLARITY, and now faces the next major test at $82,000 this weekend",
+              "description": "Bitcoin hit an intraday high of $81,400 on Friday, approaching the low-$82,000 zone that has capped every recovery attempt since late August. US spot Bitcoin ETF shares stop trading once American markets close for the weekend. Any further push through that ce…",
+              "url": "https://cryptoslate.com/bitcoin-survived-the-fed-and-clarity-and-now-faces-the-next-major-test-at-82000-this-weekend/",
+              "source": "CryptoSlate",
+              "published": "2026-09-19T09:06:06Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-82k-market-barrier.webp"
+            },
+            {
+              "title": "Ethereum co-founder Vitalik Buterin argues that local AI can protect your privacy without losing speed",
+              "description": "Faster private inference makes laptop orchestration practical, while spending authority remains behind hard limits, transaction checks and human approval.\nThe post Ethereum co-founder Vitalik Buterin argues that local AI can protect your privacy without losin…",
+              "url": "https://cryptoslate.com/ethereum-cofounder-vitalik-says-local-ai-is-nearly-ready-but-crypto-wallets-still-cannot-trust-it-alone/",
+              "source": "CryptoSlate",
+              "published": "2026-09-19T04:30:33Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/09/local-ai-wallet-authority-standard-image.jpg"
+            },
+            {
               "title": "Zcash Closes On $1,400 After Coinholders Vote to Keep Bitcoin-Style Halvings",
               "description": "The privacy coin rose double digits Thursday and 168% over the past month in the wake of the NU7 upgrade vote.",
               "url": "https://decrypt.co/378460/zcash-closes-on-1400-after-coinholders-vote-to-keep-bitcoin-style-halvings",
               "source": "Decrypt",
               "published": "2026-09-17T12:05:13Z",
               "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/10/zcash-shutterstock-gID_7.png"
+            },
+            {
+              "title": "Zcash gains 20% as Paradigm founder reveals firm made ZEC investment",
+              "description": "Zcash rose about 20% in 24 hours as Paradigm co-founder Matt Huang disclosed that the firm invested in ZEC amid a broader crypto market rally.",
+              "url": "https://cointelegraph.com/markets/zcash-zec-price-paradigm-investment-privacy-coins",
+              "source": "Cointelegraph",
+              "published": "2026-09-17T10:35:29Z",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2QD479E84FW5KWH0FVCRS42/hi-how-zcash-went-from-low-profile-token-to-the-most-searched-asset-in-november-2.jpg"
             }
           ]
         },
@@ -285,20 +277,28 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "Equitable (EQH) Just Put Bitcoin Inside a Retirement Annuity",
-              "description": "On September 2, Equitable Holdings (NYSE:EQH) added the industry’s first bitcoin-linked investment option to a registered index-linked annuity, a striking mo...",
-              "url": "https://finance.yahoo.com/markets/crypto/articles/equitable-eqh-just-put-bitcoin-054059845.html",
-              "source": "Yahoo Entertainment",
-              "published": "2026-09-18T05:40:59Z",
-              "image": "https://s.yimg.com/lo/mysterio/api/6bc1c0156eed2538a8222ab119044d7ce6cd9fff5de0c65a19d9655f803cb5c6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F5ed1e7acffca74d8446f9b9dfcb5001d.jpg"
+              "title": "20% off new TorBox Subscriptions: Yearly Essential Plan US$26.40 / A$37.02 (All Payment Methods) + 84 Days via Referral @ TorBox",
+              "description": "Temporary discount for 1 million signed up users, as well as TorBox's belated 3rd birthday, posted on their Discord. New accounts only. Works with all payment methods, not just crypto. Using a …",
+              "url": "https://www.ozbargain.com.au/node/975666",
+              "source": "Ozbargain.com.au",
+              "published": "2026-09-19T00:48:09Z",
+              "image": "https://files.ozbargain.com.au/n/66/975666x.jpg?h=c8d0ee84"
             },
             {
-              "title": "Open-source AI fuels 440% surge in hackers using blockchains in attacks",
-              "description": "A malware attack uses malicious software planted on a computer or network to steal information, passwords or funds",
-              "url": "https://www.business-standard.com/markets/news/open-source-ai-fuels-440-surge-in-hackers-using-blockchains-in-attacks-126091800137_1.html",
-              "source": "Business Standard",
-              "published": "2026-09-18T03:30:09Z",
-              "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/18/thumb/featurecrop/1200X628/1789702080-6811.jpg"
+              "title": "Mr. Robot’s Ecoin Comes to Life Via Wall Street’s New Blockchain",
+              "description": "Circle’s new Arc blockchain puts its USDC stablecoin at the center of a permissioned network secured by BlackRock, Visa, Mastercard, and other Wall Street fixtures.",
+              "url": "https://gizmodo.com/mr-robots-ecoin-comes-to-life-via-wall-streets-new-blockchain-2000813297",
+              "source": "Gizmodo.com",
+              "published": "2026-09-18T17:55:35Z",
+              "image": "https://gizmodo.com/app/uploads/2019/07/t8povnmzqczywlxcft8p.jpg"
+            },
+            {
+              "title": "Ripple Just Connected XRP to Stripe’s AI Agent Payments. Why the Sessions Run on XRP, Not RLUSD",
+              "description": "Ripple just wired XRP into Stripe's agent payment system, where software buys services from other software without a human touching a keyboard. But the reaso...",
+              "url": "https://247wallst.com/investing/cryptocurrency/2026/09/18/ripple-just-connected-xrp-to-stripes-ai-agent-payments-why-the-sessions-run-on-xrp-not-rlusd/",
+              "source": "24/7 Wall St.",
+              "published": "2026-09-18T15:32:54Z",
+              "image": "https://s.yimg.com/lo/mysterio/api/ba0bb83b406c0142ecaa783b424b122b1c7cfbbee4c60025df6899846fe8013b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F2a26c8c27947f2e7ada54bd1ebcc5803.jpg"
             },
             {
               "title": "Real stocks are finally coming on blockchain. Here’s how the SEC wants it to work",
@@ -339,14 +339,6 @@
               "source": "ZyCrypto",
               "published": "2026-09-17T07:10:49Z",
               "image": "https://zycrypto.com/wp-content/uploads/2026/03/Elon-Musk-Highlights-a-Surprising-Silver-Lining-of-Looming-Crypto-Quantum-Breakthrough.jpg"
-            },
-            {
-              "title": "Responsible-Alliance-Protocol",
-              "description": "Safety cannot be a prompt instruction. TBP provides an external execution-layer boundary for autonomous agents, enforcing hard F/I/W invariants via signed OPA policies, Merkle audit chains, and a strict multisig governance protocol for crisis overrides.",
-              "url": "https://kitploit.com/en/tools/github/philippeabraxas-jpg/responsible-alliance-protocol/",
-              "source": "Kitploit.com",
-              "published": "2026-09-16T18:24:36Z",
-              "image": "https://assets.kitploit.com/production/public/tools/55183/2d90921d9d3b266a778b23f092a60e621c6c5557fba184c009952a6b2dbc7de7-social-v1.webp"
             }
           ]
         }
