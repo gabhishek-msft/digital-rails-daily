@@ -1,11 +1,19 @@
 {
-  "date": "September 20, 2026",
+  "date": "September 21, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "ZkSNARKs NFT project accused of extracting $17M from investors with minimal utility",
+          "description": "The incident underscores the need for enhanced transparency and trust mechanisms in NFT projects to safeguard investor confidence and market integrity.\nThe post ZkSNARKs NFT project accused of extracting $17M from investors with minimal utility appeared first…",
+          "url": "https://cryptobriefing.com/zksnarks-nft-17m-extraction-allegations/",
+          "source": "Crypto Briefing",
+          "published": "2026-09-19T13:22:24Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/19092222/us-strikes-on-iran-wipe-80b-off-crypto-as-bitcoin-ethereum-s-44-800x420.jpeg"
+        },
         {
           "title": "Bitcoin Surges 6% Past $80,000 as Fed's Softer Rate Path Sparks a Broad Crypto Relief Rally Once Again",
           "description": "Bitcoin rose 6.03% to US$80,947.85 after investors interpreted the Federal Reserve's latest projections as signalling a less aggressive path for future interest rate rises.",
@@ -39,28 +47,12 @@
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/16210514/library-vitalik-buterin-argues-ai-can-enhance-software-security--800x450.png"
         },
         {
-          "title": "Zcash surges 12% to $1,300 ahead of Fed rate decision",
-          "description": "Zcash's surge highlights the growing institutional interest and regulatory acceptance of privacy coins, potentially reshaping crypto markets.\nThe post Zcash surges 12% to $1,300 ahead of Fed rate decision appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/zcash-surges-1300-fed-rate-decision/",
-          "source": "Crypto Briefing",
-          "published": "2026-09-16T19:09:47Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/16150944/library-zcash-surges-12-to-1-300-ahead-of-fed-rate-decision-800x450.png"
-        },
-        {
           "title": "noble-curves",
           "description": "Audited & minimal JS implementation of elliptic curve cryptography.",
           "url": "https://kitploit.com/en/tools/github/paulmillr/noble-curves/",
           "source": "Kitploit.com",
           "published": "2026-09-16T07:39:06Z",
           "image": "https://assets.kitploit.com/production/public/tools/55411/89a00e2927dd2150861731baa1acd2d2d45177bd5b4afa28863a209e1dbf4501-social-v1.webp"
-        },
-        {
-          "title": "Coinbase Just Abandoned Its Biggest Wallet Rebrand: What Went Wrong With the Base App?",
-          "description": "Coinbase has reversed one of its biggest consumer crypto rebrands. Just over a year after transforming Coinbase Wallet into the Base App, the company is...\nThe post Coinbase Just Abandoned Its Biggest Wallet Rebrand: What Went Wrong With the Base App? appeare…",
-          "url": "https://bitcoinfoundation.org/news/companies/coinbase-abandoned-wallet-rebrand-base-app/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-09-13T10:00:47Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/base-1.webp"
         }
       ]
     },
@@ -100,14 +92,6 @@
           "source": "ZyCrypto",
           "published": "2026-09-16T09:02:52Z",
           "image": "https://zycrypto.com/wp-content/uploads/2026/09/unnamed-2026-09-16T095804.726.jpg"
-        },
-        {
-          "title": "BASIS.pro Expands On-Chain Infrastructure with XDC Network Partnership and Zypher DAO as Auto Earn Goes Live",
-          "description": "London, United Kingdom, 16th September 2026, Chainwire\nThe post BASIS.pro Expands On-Chain Infrastructure with XDC Network Partnership and Zypher DAO as Auto Earn Goes Live appeared first on The Daily Hodl.",
-          "url": "https://dailyhodl.com/2026/09/15/basis-pro-expands-on-chain-infrastructure-with-xdc-network-partnership-and-zypher-dao-as-auto-earn-goes-live/",
-          "source": "The Daily Hodl",
-          "published": "2026-09-16T06:57:37Z",
-          "image": "https://dailyhodl.com/wp-content/uploads/2026/09/haedangimijie-basisyi-rogoreul-ceombuhae_Z7knd1beW_1789467761qbuFe4JoPt.jpg?resize=1376,768"
         }
       ]
     },
@@ -117,68 +101,68 @@
       "color": "#00a4ef",
       "articles": [
         {
+          "title": "Why Trump backed a crypto ethics rule that stopped at the family business",
+          "description": "Washington came surprisingly close this week to writing a dollar amount into one of its thorniest crypto ethics rule debates. Under the final Senate draft of the CLARITY Act, senior federal officials holding equity worth at least $15,000 in certain businesses…",
+          "url": "https://cryptoslate.com/trump-backed-a-crypto-ethics-rule-that-stopped-at-the-family-business/",
+          "source": "CryptoSlate",
+          "published": "2026-09-19T21:02:29Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/09/trump-crypto-ethics-rule.webp"
+        },
+        {
+          "title": "Coinbase And Stablecore Open Digital Asset Rails To 3,000+ Banks And Credit Unions",
+          "description": "Read the latest update on Coinbase And Stablecore Open Digital Asset Rails To 3,000+ Banks And Credit Unions.",
+          "url": "http://www.newsbtc.com/news/coinbase-and-stablecore-open-digital-asset-rails-to-3-000-banks-and-credit/",
+          "source": "newsBTC",
+          "published": "2026-09-19T19:00:00Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2026/09/IMG_3439-3.png?fit=1280%2C960"
+        },
+        {
+          "title": "Nasdaq (NDAQ) Just Made It Harder For Crypto Criminals To Hide",
+          "description": "On September 15, Nasdaq (NASDAQ:NDAQ) said its Verafin unit had partnered with Stablecore to fuse traditional banking data with digital asset activity inside...",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/nasdaq-ndaq-just-made-harder-185116666.html",
+          "source": "Yahoo Entertainment",
+          "published": "2026-09-19T18:51:16Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/6e1a7ff18d81e6f3a72873cbaebaa2a2f8624522a764ad5f4f40ee287ad1b8f2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F4e92d2c1e3022275942c147e27f5c322.jpg"
+        },
+        {
+          "title": "Treasury Sanctions BitBank Over Iranian Crypto Sanctions-Evasion Network",
+          "description": "Read the latest update on Treasury Sanctions BitBank Over Iranian Crypto Sanctions-Evasion Network.",
+          "url": "http://www.newsbtc.com/news/treasury-sanctions-bitbank-over-iranian-crypto-sanctions-evasion-network/",
+          "source": "newsBTC",
+          "published": "2026-09-19T18:15:00Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2026/09/unnamed_c34b09.png?fit=2048%2C2048"
+        },
+        {
+          "title": "Why Wall Street giants build tokenization money for institutions, not regular consumers",
+          "description": "Why Wall Street giants build tokenization money for institutions, not regular consumers\nJPMorgan and Citi move billions in tokenized deposits, but only among their branches. A U.K. challenger bank is about to do something neither has done.\n- JPMorgan and Citi…",
+          "url": "https://biztoc.com/x/647064d94bc8d0bd",
+          "source": "Biztoc.com",
+          "published": "2026-09-19T12:14:16Z",
+          "image": "https://biztoc.com/cdn/647064d94bc8d0bd_s.webp"
+        },
+        {
+          "title": "Monument Bank plans to tokenize £250M in retail deposits on Midnight blockchain",
+          "description": "Monument Bank's tokenization initiative could democratize blockchain benefits for retail banking, potentially reshaping consumer finance dynamics.\nThe post Monument Bank plans to tokenize £250M in retail deposits on Midnight blockchain appeared first on Crypt…",
+          "url": "https://cryptobriefing.com/monument-bank-tokenize-deposits-midnight/",
+          "source": "Crypto Briefing",
+          "published": "2026-09-19T12:05:28Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/19080521/library-monument-bank-plans-to-tokenize-250m-in-retail-deposits--800x450.png"
+        },
+        {
+          "title": "Brazil blocks stablecoins from key cross-border payment rail as $1.1 trillion market faces new limits",
+          "description": "Brazil's central bank will bar virtual assets, including stablecoins, from settling one specific type of international payment flow starting Oct. 1. Resolution 561 targets the settlement leg between regulated foreign-exchange providers and their overseas coun…",
+          "url": "https://cryptoslate.com/brazil-blocks-stablecoins-from-key-cross-border-payment-rail-as-1-1-trillion-market-faces-new-limits/",
+          "source": "CryptoSlate",
+          "published": "2026-09-19T10:40:55Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/09/brazil-usdt-regulatory-cut.webp"
+        },
+        {
           "title": "Trump’s Bitcoin Reserve Moves Closer to Law as US-Russia Tensions Escalate",
           "description": "The Trump Bitcoin Reserve is entering policymaking as tensions with Russia rise. A House proposal would strengthen the Strategic Bitcoin Reserve and impose a 20-year...\nThe post Trump’s Bitcoin Reserve Moves Closer to Law as US-Russia Tensions Escalate appear…",
           "url": "https://bitcoinfoundation.org/news/bitcoin/trumps-bitcoin-reserve-moves-closer-to-law-as-us-russia-tensions-escalate/",
           "source": "Bitcoinfoundation.org",
           "published": "2026-09-19T07:57:37Z",
           "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/image-1789804714.webp"
-        },
-        {
-          "title": "Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report",
-          "description": "Former banking official gets four years in prison over false letters of credit and accepting $470,000 in cryptocurrency bribes.",
-          "url": "https://cointelegraph.com/news/hong-kong-jails-former-banker-over-16b-false-credit-cryptocurrency-bribes-report",
-          "source": "Cointelegraph",
-          "published": "2026-09-19T07:50:58Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2WA562VCY2PY1P3DW1N862B/hi-time-to-switch-license-hong-kong.png"
-        },
-        {
-          "title": "US OCC grants conditional banking license approval to Bastion",
-          "description": "Bastion's federal charter approval signifies a regulatory shift, streamlining operations for digital asset firms and enhancing stablecoin infrastructure.\nThe post US OCC grants conditional banking license approval to Bastion appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/occ-bastion-national-trust-bank-charter/",
-          "source": "Crypto Briefing",
-          "published": "2026-09-19T03:32:52Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/18233248/library-us-occ-grants-conditional-banking-license-approval-to-ba-800x450.png"
-        },
-        {
-          "title": "The Code is the Credit: S&P Global’s Acquisition of OpenZeppelin",
-          "description": "In a move that signals the final maturation of digital asset infrastructure, S&P Global announced on September 17, 2026, its acquisition of OpenZeppelin. This is not merely a corporate consolidation; it is the formal emergence of a 'credit rating for code'—a …",
-          "url": "https://forkast.news/the-code-is-the-credit-sp-globals-acquisition-of-openzeppelin/",
-          "source": "Forkast.news",
-          "published": "2026-09-19T01:37:45Z",
-          "image": "https://forkast.news/wp-content/uploads/2026/09/spg-openzeppelin-acquisition-hero-1024x572.jpg"
-        },
-        {
-          "title": "What Is a Stablecoin Reward, and Why Did the CLARITY Act’s Failure Keep It Alive?",
-          "description": "Millions of people collect stablecoin rewards without knowing who actually funds them, and the Senate's failure to pass landmark crypto legislation left that...",
-          "url": "https://247wallst.com/investing/cryptocurrency/2026/09/18/what-is-a-stablecoin-reward-and-why-did-the-clarity-acts-failure-keep-it-alive/",
-          "source": "24/7 Wall St.",
-          "published": "2026-09-18T23:10:49Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/539067f38872153ee0dddcc99ea3701f6e77c01901aef9cfbac9bca8e116cc90/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F6a595bff327ad19b4313254527de8ed5.jpg"
-        },
-        {
-          "title": "Strategy (MSTR) Surges 16% on Growing Digital Asset Adoption — A New Catalyst Looms Next Week",
-          "description": "Strategy Inc. (NASDAQ:MSTR) saw its share price increase by 16.39 percent on Friday to close at $153.92 apiece, as investor sentiment was fueled by the rebou...",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/strategy-mstr-surges-16-growing-230649452.html",
-          "source": "Yahoo Entertainment",
-          "published": "2026-09-18T23:06:49Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/19b753ef329e6fb079a27f09f56b7e88fce2883086a4eedceba35056000f0294/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F2c1d21dd68b228b4a6d664ea10120ecc.jpg"
-        },
-        {
-          "title": "Bitcoin’s Production Cost Is $78,000. What Happens When Miners Lose Money?",
-          "description": "JPMorgan pegs Bitcoin's production cost above its current market price, and miners have already broken records to stay afloat. What built-in network forces d...",
-          "url": "https://247wallst.com/investing/cryptocurrency/2026/09/18/bitcoins-production-cost-is-78000-what-happens-when-miners-lose-money/",
-          "source": "24/7 Wall St.",
-          "published": "2026-09-18T22:59:46Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/2d82fe14b323e03dd12ba5be27db2f3550bf064234df3df1bf81323753ffecaa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F9e0d2e7ae3ddd3071fa5033b94fca0cb.jpg"
-        },
-        {
-          "title": "Weekly Wrap: Bitcoin Climbs Back Above $80,000",
-          "description": "The price of Bitcoin (CRYPTO: $BTC) and other cryptocurrencies strengthened heading into the weekend after a volati...",
-          "url": "https://www.cryptoprowl.com/releases/weekly-wrap-bitcoin-climbs-back-above-80000-7093",
-          "source": "Cryptoprowl.com",
-          "published": "2026-09-18T22:01:00Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/017550beec6a1b470b9ed693af590caa1b1dd86c4003e7b0f922e62c986856fa/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2Fec3aee05617e34c3e1e37afda11cef9e.jpg"
         }
       ]
     },
@@ -188,12 +172,36 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Hunter Biden’s LAPTOP Memecoin Crashes 99% Since Launch After Topping $50 Billion Market Cap — How It Compares With Official TRUMP Token in Debut Week",
-          "description": "It’s been a bloodbath for Hunter Biden’s Laptop (LAPTOP) memecoin since its launch a week ago, far worse than that of President Donald Trump’s memecoin in it...",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/hunter-biden-laptop-memecoin-crashes-033117420.html",
-          "source": "Yahoo Entertainment",
-          "published": "2026-09-19T03:31:17Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/985564895b54b484afb434090ca253a830de4a3a1be2b42923d07b2ac27d161e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2F0736bfeee0a4a94c481166ad54938fae.jpg"
+          "title": "The People—OK, the Men—Who Still Love Bitcoin",
+          "description": "The cryptocurrency has become a sort of emotional tether for a specific type of lost boy. I went to Las Vegas to learn why.",
+          "url": "https://slate.com/business/2026/09/bitcoin-cryptocurrency-masculinity-economy-emotional-tether.html",
+          "source": "Slate Magazine",
+          "published": "2026-09-20T09:40:00Z",
+          "image": "https://compote.slate.com/images/65782ebb-70c9-4c62-a9a8-1a8672268ef4.jpeg?crop=3000%2C2000%2Cx0%2Cy0&width=1560"
+        },
+        {
+          "title": "MarsCoin Trader Turns $2.4K Into $680K Without Selling a Single Token: Here’s How",
+          "description": "A trader known as SmokΞy bought $2,368 worth of MarsCoin at launch and saw the position briefly reach $680,500. Arkham says the trader bought more...",
+          "url": "https://www.ccn.com/news/crypto/trader-turns-2k-into-680k-marscoin-no-profit/",
+          "source": "Crypto Coins News",
+          "published": "2026-09-19T13:35:06Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/c994fd8298cde7479eaecf556546f39ca2b9217532a073c4e2995966aabcf90e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fccn_928%2F145070852584c8676ce5b58d06573373.png"
+        },
+        {
+          "title": "Strategy Stock’s 16% Jump Yesterday Traces Back to a House Committee Vote.",
+          "description": "Key TakeawaysBitcoin Confluence: Strategy stock jumped 16% to $154 on September 18. Street Split: TIKR tracks 16 analysts on Strategy stock, split between 13...",
+          "url": "https://www.tikr.com/blog/strategy-stocks-16-jump-yesterday-traces-back-to-a-house-committee-vote?ref=yahoofinance",
+          "source": "Tikr.com",
+          "published": "2026-09-19T08:59:03Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/c521e3138eba468e2c364369ae361e58e8c691edbb53bbf68c01525d7664019c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftikr_258%2F3249ec3a1555e277ff39c097ab9a6a34"
+        },
+        {
+          "title": "NASA Images: Satellite and Planet Collections with Real Space Projects",
+          "description": "What if NASA released verified digital editions of planets, missions, and telescope discoveries? A NASA Images NFT program could connect each picture to Blockchain records...\nThe post NASA Images: Satellite and Planet Collections with Real Space Projects appe…",
+          "url": "https://bitcoinfoundation.org/news/nft/nasa-images-satellite-and-planet-collections-with-real-space-projects/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-09-19T07:03:32Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-19-2026-10_07_37-AM-1-1789801773.webp"
         },
         {
           "title": "Zhibao Technology Expands Healthcare Data Infrastructure Through Changzhou Insurance Platform Agreement",
@@ -239,22 +247,6 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Bitcoin survived the Fed and CLARITY, and now faces the next major test at $82,000 this weekend",
-              "description": "Bitcoin hit an intraday high of $81,400 on Friday, approaching the low-$82,000 zone that has capped every recovery attempt since late August. US spot Bitcoin ETF shares stop trading once American markets close for the weekend. Any further push through that ce…",
-              "url": "https://cryptoslate.com/bitcoin-survived-the-fed-and-clarity-and-now-faces-the-next-major-test-at-82000-this-weekend/",
-              "source": "CryptoSlate",
-              "published": "2026-09-19T09:06:06Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-82k-market-barrier.webp"
-            },
-            {
-              "title": "Ethereum co-founder Vitalik Buterin argues that local AI can protect your privacy without losing speed",
-              "description": "Faster private inference makes laptop orchestration practical, while spending authority remains behind hard limits, transaction checks and human approval.\nThe post Ethereum co-founder Vitalik Buterin argues that local AI can protect your privacy without losin…",
-              "url": "https://cryptoslate.com/ethereum-cofounder-vitalik-says-local-ai-is-nearly-ready-but-crypto-wallets-still-cannot-trust-it-alone/",
-              "source": "CryptoSlate",
-              "published": "2026-09-19T04:30:33Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/09/local-ai-wallet-authority-standard-image.jpg"
-            },
-            {
               "title": "Zcash Closes On $1,400 After Coinholders Vote to Keep Bitcoin-Style Halvings",
               "description": "The privacy coin rose double digits Thursday and 168% over the past month in the wake of the NU7 upgrade vote.",
               "url": "https://decrypt.co/378460/zcash-closes-on-1400-after-coinholders-vote-to-keep-bitcoin-style-halvings",
@@ -277,12 +269,20 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "20% off new TorBox Subscriptions: Yearly Essential Plan US$26.40 / A$37.02 (All Payment Methods) + 84 Days via Referral @ TorBox",
-              "description": "Temporary discount for 1 million signed up users, as well as TorBox's belated 3rd birthday, posted on their Discord. New accounts only. Works with all payment methods, not just crypto. Using a …",
-              "url": "https://www.ozbargain.com.au/node/975666",
-              "source": "Ozbargain.com.au",
-              "published": "2026-09-19T00:48:09Z",
-              "image": "https://files.ozbargain.com.au/n/66/975666x.jpg?h=c8d0ee84"
+              "title": "Google's simulated fruit fly brain 'mines Bitcoin' in web browser proof of concept — FutureBit says real organic neuron miner could have '10x the efficiency of the best silicon 3nm ASICs'",
+              "description": "Playing Doom, day trading, flying drones, now cryptomining: is there anything the digitized fly brain is incapable of?",
+              "url": "https://www.tomshardware.com/tech-industry/cryptomining/googles-simulated-fruit-fly-brain-mines-bitcoin-in-web-browser-proof-of-concept-futurebit-says-real-organic-neuron-miner-could-have-10x-the-efficiency-of-the-best-silicon-3nm-asics",
+              "source": "Tom's Hardware UK",
+              "published": "2026-09-20T09:40:00Z",
+              "image": "https://cdn.mos.cms.futurecdn.net/XwsayHYKLqACQvH5KN4V5P-1920-80.jpg"
+            },
+            {
+              "title": "Banaras crafts get an AI, blockchain boost from IIT- Madras",
+              "description": "IIT Madras launches Artisan Empowerment Lab with HWA to boost Banaras GI crafts using AI, blockchain and QR codes for authenticity and direct buyer links.",
+              "url": "https://timesofindia.indiatimes.com/city/varanasi/banaras-crafts-get-an-ai-blockchain-boost-from-iit-madras/articleshow/134360125.cms",
+              "source": "The Times of India",
+              "published": "2026-09-19T19:42:35Z",
+              "image": "https://static.toiimg.com/thumb/msid-134360122,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
             },
             {
               "title": "Mr. Robot’s Ecoin Comes to Life Via Wall Street’s New Blockchain",
@@ -299,6 +299,14 @@
               "source": "24/7 Wall St.",
               "published": "2026-09-18T15:32:54Z",
               "image": "https://s.yimg.com/lo/mysterio/api/ba0bb83b406c0142ecaa783b424b122b1c7cfbbee4c60025df6899846fe8013b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F2a26c8c27947f2e7ada54bd1ebcc5803.jpg"
+            },
+            {
+              "title": "Hyperliquid opens native lending as HYPE hits new ATH above $90",
+              "description": "Hyperliquid has launched native manual borrowing, extending its trading infrastructure into credit as HYPE climbed to a fresh all-time high above $90. The Sept. 18 rollout lets users pledge HYPE or Bitcoin as collateral to borrow USDC or USDT directly through…",
+              "url": "https://cryptoslate.com/hyperliquid-opens-native-lending-as-hype-hits-new-ath-above-90/",
+              "source": "CryptoSlate",
+              "published": "2026-09-18T14:40:05Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/09/hyperliquid-collateral-unlock.webp"
             },
             {
               "title": "Real stocks are finally coming on blockchain. Here’s how the SEC wants it to work",
@@ -323,22 +331,6 @@
               "source": "BeInCrypto",
               "published": "2026-09-17T13:39:33Z",
               "image": "https://s.yimg.com/lo/mysterio/api/d83715a996a0e9f54446203430865032cc65a7886f9abab0970b1fb48b294ba7/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Ff99daacd431cc548589418d55e6d9123.jpg"
-            },
-            {
-              "title": "The Odyssey and trojans again: MovieReaper attacks users in multiple countries via compromised torrents",
-              "description": "Kaspersky experts have discovered a new MovieReaper campaign. The multi-stage Trojan spreads through movie torrents, such as \"The Odyssey,\" and uses the Solana blockchain to hide its C2 infrastructure.",
-              "url": "https://securelist.com/moviereaper-malware-torrent-odyssey-solana/121344/",
-              "source": "Securelist.com",
-              "published": "2026-09-17T13:00:53Z",
-              "image": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2026/09/17114657/Odyssey-and-trojans-again-scaled.jpg"
-            },
-            {
-              "title": "With Quantum Computers a Threat to Bitcoin After 2030, Developers Unveil a Quantum-Resistant Roadmap",
-              "description": "The threat of quantum computing is real, as it could put crypto asset users at risk sooner than anticipated. According to data shared today by major Bitcoin developer Christine Kim, quantum computers are advancing rapidly and therefore could make asymmetric c…",
-              "url": "https://zycrypto.com/with-quantum-computers-a-threat-to-bitcoin-after-2030-developers-unveil-a-quantum-resistant-roadmap/",
-              "source": "ZyCrypto",
-              "published": "2026-09-17T07:10:49Z",
-              "image": "https://zycrypto.com/wp-content/uploads/2026/03/Elon-Musk-Highlights-a-Surprising-Silver-Lining-of-Looming-Crypto-Quantum-Breakthrough.jpg"
             }
           ]
         }
