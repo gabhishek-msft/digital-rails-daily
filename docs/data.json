@@ -1,11 +1,19 @@
 {
-  "date": "September 23, 2026",
+  "date": "September 24, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "Zest Bets Bitcoin Can Back Loans Without Ever Leaving Its Own Chain",
+          "description": "Zest Protocol's capped mainnet demo lets users borrow USDC against BTC held in a vault on Bitcoin, without wrapping or bridging the coins.",
+          "url": "https://beincrypto.com/borrow-against-bitcoin-without-wrapping-zest/",
+          "source": "BeInCrypto",
+          "published": "2026-09-23T10:00:00Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/037d3eaee3c53ef2fc2bc34d77c704660168a75e01a66bcd8ff22659d01402d1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Fdb3aba55efc03063481175b09ca7d85a.jpg"
+        },
         {
           "title": "Pragma flags 6 price feeds as critical risk following $3.5M Starknet lending exploit",
           "description": "The September 18 assessment exposes a gap between oracle valuations and the liquidity lenders need to sell collateral.\nThe post Pragma flags 6 price feeds as critical risk following $3.5M Starknet lending exploit appeared first on CryptoSlate.",
@@ -61,14 +69,6 @@
           "source": "Crypto Briefing",
           "published": "2026-09-19T13:22:24Z",
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/19092222/us-strikes-on-iran-wipe-80b-off-crypto-as-bitcoin-ethereum-s-44-800x420.jpeg"
-        },
-        {
-          "title": "Bitcoin Surges 6% Past $80,000 as Fed's Softer Rate Path Sparks a Broad Crypto Relief Rally Once Again",
-          "description": "Bitcoin rose 6.03% to US$80,947.85 after investors interpreted the Federal Reserve's latest projections as signalling a less aggressive path for future interest rate rises.",
-          "url": "https://www.ibtimes.com.au/bitcoin-surges-above-80000-softer-fed-outlook-1875695",
-          "source": "Ibtimes.com.au",
-          "published": "2026-09-18T16:30:46Z",
-          "image": "https://d.ibtimes.com.au/en/full/1867991/bitcoin.jpg"
         }
       ]
     },
@@ -78,20 +78,28 @@
       "color": "#e6a200",
       "articles": [
         {
+          "title": "Ekubo enables private swaps on Starknet for shielded tokens",
+          "description": "Ekubo's private swaps on Starknet enhance DeFi privacy, potentially attracting more users seeking anonymity, while maintaining liquidity depth.\nThe post Ekubo enables private swaps on Starknet for shielded tokens appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/ekubo-private-swaps-starknet-shielded-tokens/",
+          "source": "Crypto Briefing",
+          "published": "2026-09-22T16:03:06Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/22120302/library-ekubo-enables-private-swaps-on-starknet-for-shielded-tok-800x450.png"
+        },
+        {
+          "title": "CryptoPunks, Boogles, and zkSnarks drive millions in NFT trading volume",
+          "description": "The surge in NFT trading across multiple blockchains highlights the evolving dynamics and potential for cross-chain innovation in digital assets.\nThe post CryptoPunks, Boogles, and zkSnarks drive millions in NFT trading volume appeared first on Crypto Briefin…",
+          "url": "https://cryptobriefing.com/cryptopunks-boogles-zksnarks-nft-volume/",
+          "source": "Crypto Briefing",
+          "published": "2026-09-22T14:52:19Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/22105213/library-cryptopunks-boogles-and-zksnarks-drive-millions-in-nft-t-800x450.png"
+        },
+        {
           "title": "What Is Ethereum Used For in 2026? 10 Things You Can Actually Do with Ethereum",
           "description": "Ethereum is a programmable blockchain that can move value, run programs, and store assets without a central operator. Similar to a blockchain with a payment...\nThe post What Is Ethereum Used For in 2026? 10 Things You Can Actually Do with Ethereum appeared fi…",
           "url": "https://bitcoinfoundation.org/news/ethereum/what-is-ethereum-used-for-in-2026-10-things-you-can-actually-do-with-ethereum/",
           "source": "Bitcoinfoundation.org",
           "published": "2026-09-22T00:52:58Z",
           "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/What-Is-Ethereum-Used-For-in-2026-10-Things-You-Can-Actually-Do-With-Ethereum-2.webp"
-        },
-        {
-          "title": "Derive unveils v3 upgrade to enhance onchain options trading",
-          "description": "Derive's V3 upgrade could revolutionize onchain options trading, enhancing scalability, security, and accessibility for diverse traders.\nThe post Derive unveils v3 upgrade to enhance onchain options trading appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/derive-v3-upgrade-onchain-options/",
-          "source": "Crypto Briefing",
-          "published": "2026-09-21T17:06:13Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/21130610/library-derive-unveils-v3-upgrade-to-enhance-onchain-options-tra-800x450.png"
         }
       ]
     },
@@ -101,68 +109,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "ECB, EU central banks suggest dropping stablecoin deposits rule",
-          "description": "PARIS, Sept 22 : Stablecoin issuers should not be required to hold a minimum proportion of their reserve assets as bank deposits because they could leave lenders exposed to a run on stablecoins and less stable deposits, the ECB and other EU central banks said…",
-          "url": "https://www.channelnewsasia.com/business/ecb-eu-central-banks-suggest-dropping-stablecoin-deposits-rule-6402091",
-          "source": "CNA",
-          "published": "2026-09-22T10:20:41Z",
-          "image": "https://dam.mediacorp.sg/image/upload/s--sj9fW464--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-22T102041Z_2_LYNXMPEM8L0ON_RTROPTP_3_ECB-BLOCKCHAIN-PONTES.JPG?itok=Z2pB_MOd"
+          "title": "Capital Flows in Agentic AI: How Stablecoin Infrastructure Is Being Built Before the Rules Exist",
+          "description": "In February 2026, the stablecoin market achieved a milestone that once seemed improbable: monthly settlement volume hit $7.2 trillion, officially surpassing the $6.8 trillion processed by the US Automated Clearing House (ACH) network, according to industry da…",
+          "url": "https://forkast.news/capital-flows-in-agentic-ai-how-stablecoin-infrastructure-is-being-built-before-the-rules-exist/",
+          "source": "Forkast.news",
+          "published": "2026-09-23T10:25:25Z",
+          "image": "https://forkast.news/wp-content/uploads/2026/09/capital-flows-agentic-ai-stablecoin-infrastructure-hero-1024x572.jpg"
         },
         {
-          "title": "Circle Launches Bitcoin-Backed USDC Borrowing for Institutions on Arc and Ethereum",
-          "description": "Circle launched Digital Asset-Backed Borrowing for Circle Mint’s institutions, enabling these institutions to use BTC as collateral against their USDC liquidity while remaining in control...\nThe post Circle Launches Bitcoin-Backed USDC Borrowing for Instituti…",
-          "url": "https://bitcoinfoundation.org/news/stablecoins/circle-launches-bitcoin-backed-usdc-borrowing-for-institutions-on-arc-and-ethereum/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-09-22T06:58:05Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/Circle-Launches-Bitcoin-Backed-USDC-Borrowing-for-Institutions-on-Arc-and-Ethereum-2.webp"
+          "title": "Raiffeisen to offer crypto trading across 11 European markets via Bitpanda",
+          "description": "Raiffeisen Bank International is expanding crypto access through Bitpanda, giving its network banks infrastructure that could serve about 18 million customers.",
+          "url": "https://cointelegraph.com/news/raiffeisen-crypto-11-european-markets-bitpanda",
+          "source": "Cointelegraph",
+          "published": "2026-09-23T09:42:39Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1P74NCJ7VVQEWSD26T81DZH/digital-bank-2.jpg"
         },
         {
-          "title": "XRP jumps 8% as crypto short squeeze and Ripple developments draw attention",
-          "description": "Key takeaways XRP rose more than 8% in 24 hours as the broader crypto market rallied. Its trading volume increased 55% to approximately $4.7 billion. Crypto-wide short liquidations reached about $665 million; that figure is not specific to XRP. XRP outpaces m…",
-          "url": "https://coinjournal.net/news/xrp-jumps-8-as-crypto-short-squeeze-and-ripple-developments-draw-attention/",
-          "source": "Coinjournal.net",
-          "published": "2026-09-22T03:00:34Z",
-          "image": "https://coinjournal.net/wp-content/uploads/2026/09/ChatGPT-Image-Sep-22-2026-03_57_05-AM.png"
+          "title": "AI agents will soon buy their own computing power and data using stablecoins, according to BlackRock",
+          "description": "The asset manager sees payments as the nearer-term opportunity, while markets for computing capacity remain at an early stage",
+          "url": "https://www.coindesk.com/markets/2026/09/23/ai-agents-will-soon-buy-their-own-computing-power-and-data-using-stablecoins-according-to-blackrock",
+          "source": "CoinDesk",
+          "published": "2026-09-23T09:17:53Z",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/42b96dc1a724b07b78b9639f25ea772c627e0e00-1500x801.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75"
         },
         {
-          "title": "Bitcoin jumps above $87,000 amid positive ETF flows and rally",
-          "description": "Bitcoin surges past $87,000 amid positive ETF flows and market optimism, reaching its highest level since January 2026 despite ongoing economic challenges. Read more at straitstimes.com.",
-          "url": "https://www.straitstimes.com/business/bitcoin-jumps-to-over-108200-after-etf-flows-turn-positive",
-          "source": "The Straits Times",
-          "published": "2026-09-22T02:44:02Z",
-          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/5f564e04c63857b3b79befe2d725d61748c7a3fee3b178b5db3687f967520889"
+          "title": "Matrixdock Brings Tokenized Gold XAUm to Arc With Same-Day USDC Redemption",
+          "description": "Matrixdock Brings Tokenized Gold XAUm to Arc With Same-Day USDC Redemption",
+          "url": "https://www.thehindubusinessline.com/brandhub/pr-release/matrixdock-brings-tokenized-gold-xaum-to-arc-with-same-day-usdc-redemption/article71499117.ece",
+          "source": "BusinessLine",
+          "published": "2026-09-23T09:04:44Z",
+          "image": "https://bl-i.thgim.com/public/incoming/5mxcys/article71499116.ece/alternates/LANDSCAPE_1200/20260922030700EDT_image_1.jpg"
         },
         {
-          "title": "ECB Plans Direct Investment In Tokenized Securities Using Pontes",
-          "description": "TL;DR The ECB has started preparatory work to invest a small portion of its own-funds portfolio in tokenized euro-denominated securities. Initial eligible assets are expected to include euro-area public-sector and supranational issuers. The future purchases a…",
-          "url": "http://www.newsbtc.com/news/ecb-plans-direct-investment-in-tokenized-securities-using-pontes/",
-          "source": "newsBTC",
-          "published": "2026-09-22T02:30:00Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2026/09/unnamed-29.png?fit=628%2C366"
+          "title": "EU central banks attack MiCA rules and stablecoin runs are blamed",
+          "description": "The reported plan swaps mandatory bank deposits for one-day and five-day liquidity tests, shifting where redemption risk lands.\nThe post EU central banks attack MiCA rules and stablecoin runs are blamed appeared first on CryptoSlate.",
+          "url": "https://cryptoslate.com/eu-central-banks-attack-mica-rules-and-stablecoin-runs-are-blamed/",
+          "source": "CryptoSlate",
+          "published": "2026-09-23T08:10:31Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/09/mica-stablecoin-bank-risk.webp"
         },
         {
-          "title": "ECB Launches Pontes For Central-Bank Settlement Of Tokenized Assets",
-          "description": "TL;DR The European Central Bank has launched Pontes, a wholesale settlement service for tokenized financial assets. Pontes settles transactions in central-bank money through TARGET Services and DLT interoperability. The system is institutional infrastructure …",
-          "url": "http://www.newsbtc.com/news/ecb-launches-pontes-for-central-bank-settlement-of-tokenized-assets/",
-          "source": "newsBTC",
-          "published": "2026-09-22T01:30:00Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2026/09/photo_2026-09-07-13.32.41.jpeg?fit=1280%2C960"
+          "title": "AI potential to drive crypto demand remains ‘underappreciated’: BlackRock",
+          "description": "BlackRock says AI agents could drive demand for stablecoins and programmable payment rails, while tokenized computing capacity could create another opportunity for digital assets.",
+          "url": "https://cointelegraph.com/news/ai-potential-to-drive-crypto-demand-remains-underappreciated-blackrock",
+          "source": "Cointelegraph",
+          "published": "2026-09-23T04:33:18Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M368H3Z8D0XWGWSGQZKMAXQJ/ai-crypto.jpg"
         },
         {
-          "title": "Kakao Group Announces MoU with Fireblocks to Explore Digital Asset Opportunities in Korea",
-          "description": "Kakao Pay and Kakao Bank sign an MoU with global infrastructure leader Fireblocks to lay the groundwork for a digital asset ecosystem in Korea The companies will jointly explore Korean market opportunities in digital assets, including stablecoins The initiati…",
-          "url": "https://www.prnewswire.com/news-releases/kakao-group-announces-mou-with-fireblocks-to-explore-digital-asset-opportunities-in-korea-302885302.html",
+          "title": "/C O R R E C T I O N -- Fireblocks/",
+          "description": "In the news release, Abra Expands Partnership with Fireblocks to Launch Integrated Qualified Custody for Tokenized Asset Strategies, issued 17-Sep-2026 by Fireblocks over PR Newswire, we are advised by the company that changes have been made. The complete, co…",
+          "url": "https://www.prnewswire.com/news-releases/abra-expands-partnership-with-fireblocks-to-launch-integrated-qualified-custody-for-tokenized-asset-strategies-302881403.html",
           "source": "PRNewswire",
-          "published": "2026-09-22T00:00:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS1970310/Fireblocks_Logo.jpg?id=OA2960579&p=facebook"
+          "published": "2026-09-23T04:11:00Z",
+          "image": null
         },
         {
-          "title": "Circle heads to Sibos 2026 in Miami to pitch stablecoin infrastructure to global banking leaders",
-          "description": "Circle's engagement at Sibos 2026 could accelerate stablecoin adoption, reshaping global banking with enhanced digital finance solutions.\nThe post Circle heads to Sibos 2026 in Miami to pitch stablecoin infrastructure to global banking leaders appeared first …",
-          "url": "https://cryptobriefing.com/circle-sibos-2026-stablecoin-infrastructure/",
-          "source": "Crypto Briefing",
-          "published": "2026-09-21T23:33:45Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/21193340/library-circle-heads-to-sibos-2026-in-miami-to-pitch-stablecoin--800x450.png"
+          "title": "Circle pays millions for Binance distribution while its margins collapse",
+          "description": "Circle is doubling down on Binance after USD Coin (USDC) stablecoin customer balances on the exchange nearly quintupled since their first agreement. On Sept. 22, the companies announced a new five-year commercial agreement alongside Binance’s $100 million equ…",
+          "url": "https://cryptoslate.com/circle-pays-millions-for-binance-distribution-while-its-margins-collapse/",
+          "source": "CryptoSlate",
+          "published": "2026-09-23T02:10:37Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/09/circle-binance-usdc-standard-image.jpg"
         }
       ]
     },
@@ -172,36 +180,36 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Arthur Hayes Says an AI Bust Could Become Bitcoin’s Next Major Liquidity Catalyst",
-          "description": "Arthur Hayes believes that the Fed may need to inject liquidity into the economy if the artificial intelligence investment bubble bursts, which would benefit Bitcoin....\nThe post Arthur Hayes Says an AI Bust Could Become Bitcoin’s Next Major Liquidity Catalys…",
-          "url": "https://bitcoinfoundation.org/news/bitcoin/arthur-hayes-says-an-ai-bust-could-become-bitcoins-next-major-liquidity-catalyst/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-09-22T07:08:01Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/Arthur-Hayes-Says-an-AI-Bust-Could-Become-Bitcoins-Next-Major-Liquidity-Catalyst-2.webp"
+          "title": "Reap and Visa Collaborate to Launch Stablecoin Card Programs Across 100+ Markets",
+          "description": "Reap and Visa Collaborate to Launch Stablecoin Card Programs Across 100+ Markets",
+          "url": "https://www.thehindubusinessline.com/brandhub/pr-release/reap-and-visa-collaborate-to-launch-stablecoin-card-programs-across-100-markets/article71498113.ece",
+          "source": "BusinessLine",
+          "published": "2026-09-23T03:00:30Z",
+          "image": "https://bl-i.thgim.com/public/incoming/5pdqdt/article71498112.ece/alternates/LANDSCAPE_1200/Reap-Visa.jpg"
         },
         {
-          "title": "New York Life Takes High-Yield Bond Strategy Onchain With Centrifuge",
-          "description": "TL;DR New York Life Investment Management is working with Centrifuge to tokenize a US high-yield corporate bond strategy. The product is being built on Avalanche with USDC subscriptions and redemptions. Access is restricted to qualified institutional buyers. …",
-          "url": "http://www.newsbtc.com/news/new-york-life-takes-high-yield-bond-strategy-onchain-with-centrifuge/",
-          "source": "newsBTC",
-          "published": "2026-09-22T06:30:00Z",
-          "image": null
+          "title": "Junk Punch #4 Preview: Clara Fights the Apocalypse Before Lunch",
+          "description": "Junk Punch #4 ERROR! ERROR! JUDE TERROR REMAINS PERMANENTLY DECEASED, HIS SNARK NOW MERELY A SUBROUTINE IN LOLTRON'S EVER-EXPANDING NEURAL ARCHITECTURE. Welcome back, meatbags, to another edition of Bleeding Cool's premier comic preview column, now brought to…",
+          "url": "https://bleedingcool.com/comics/junk-punch-4-preview-clara-fights-the-apocalypse-before-lunch/",
+          "source": "Bleeding Cool News",
+          "published": "2026-09-23T02:26:09Z",
+          "image": "https://bleedingcool.com/wp-content/uploads/2026/09/0726MA1016-0000-2000x1125.jpg"
         },
         {
-          "title": "The Great Decentralization Transition: Why the Old System Is Dying and a New Era of Freedom Is Painfully Emerging",
-          "description": "Introduction: The Civilizational Pivot We’re Living Through We are living through the most significant civilizational pivot in human history, a transition from centralized control to a distributed, decentralized order that will reshape everything we know abou…",
-          "url": "https://www.naturalnews.com/2026-09-22-the-great-decentralization-transition-old-system-dying.html",
-          "source": "Naturalnews.com",
-          "published": "2026-09-22T06:00:00Z",
-          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/decentralization-bitcoin-open-source-ai-4341-original.jpg"
+          "title": "SoFi Just Went Live With Stablecoin Settlement on Mastercard. That’s the First Bank-Issued Stablecoin on a Major Card Network.",
+          "description": "The short version is that a nationally chartered bank just started settling card transactions in its own stablecoin, and the interesting part is not that it happened but what it reveals about the shape of the competition to come. On September 22, SoFi Bank N.…",
+          "url": "https://forkast.news/sofi-just-went-live-with-stablecoin-settlement-on-mastercard-thats-the-first-bank-issued-stablecoin-on-a-major-card-network/",
+          "source": "Forkast.news",
+          "published": "2026-09-22T16:01:06Z",
+          "image": "https://forkast.news/wp-content/uploads/2026/09/sofi-mastercard-hero-1024x687.jpg"
         },
         {
-          "title": "GalaxyOne launches multi-asset crypto credit line",
-          "description": "GalaxyOne’s new credit product lets investors borrow against multiple crypto assets while keeping their holdings in custody.",
-          "url": "https://www.thestreet.com/crypto/markets/galaxy-one-launches-multi-asset-crypto-credit-line",
-          "source": "TheStreet",
-          "published": "2026-09-21T23:16:22Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/a20cfbf1a0c4e53844032954f18a19b9c55ffa5747f9d1a277fb1782bfb85249/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F505e95081d32518f3f20a46a0822bd73.jpg"
+          "title": "‘Crypto Hurdle’ Solved: SoFi Is First Bank Deploying Stablecoin Settlement Across Mastercard Network",
+          "description": "SoFi just quietly moved its entire card program onto a blockchain that merchants never have to touch, and the four obstacles that killed crypto payments at r...",
+          "url": "https://247wallst.com/investing/2026/09/22/crypto-hurdle-solved-sofi-is-first-bank-deploying-stablecoin-settlement-across-mastercard-network/",
+          "source": "24/7 Wall St.",
+          "published": "2026-09-22T15:20:12Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/539067f38872153ee0dddcc99ea3701f6e77c01901aef9cfbac9bca8e116cc90/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F6a595bff327ad19b4313254527de8ed5.jpg"
         },
         {
           "title": "Kyle Samani predicts SOL flippening, claims ‘no one’ uses ETH",
@@ -210,14 +218,6 @@
           "source": "Cointelegraph",
           "published": "2026-09-21T13:30:00Z",
           "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M30R5TSC95SZGESPDXXCRR22/kyle-samani.png"
-        },
-        {
-          "title": "Zhibao Technology Expands Healthcare Data Infrastructure Through Changzhou Insurance Platform Agreement",
-          "description": "Zhibao Technology advances its Hyperchain partnership into operational deployment, gaining access to a municipal digital platform serving more than 5 million...",
-          "url": "https://investorshub.advfn.com/market-news/article/36421/zhibao-technology-expands-healthcare-data-infrastructure-through-changzhou-insurance-platform-agreement",
-          "source": "Advfn.com",
-          "published": "2026-09-16T14:28:03Z",
-          "image": "https://s.yimg.com/lo/mysterio/api/ff7dcefa3bf6766f6b8c5e45167465ff6cd18a776308900440889df7096c5cc8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finvestorshub_458%2F7595c877e1ac438f848b6526adaf9800.png"
         }
       ]
     },
@@ -231,12 +231,12 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Contrarian Crypto Analyst Who Predicted 2026 Perfectly Calls for Caution and Q4 Crash",
-              "description": "Bitcoin pushing back toward $86,000 has many retail traders convinced the bear market is dead and the bulls are back in full control. But Dan Krupka, founder...",
-              "url": "https://cryptonews.com/news/crypto-analyst-who-predicted-2026-calls-for-caution/",
-              "source": "Cryptonews",
-              "published": "2026-09-22T10:06:54Z",
-              "image": "https://s.yimg.com/lo/mysterio/api/d813bd2b31456a116814393ee5a8ac44c640e84377ab9c3a7060ae0d662a670c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptonews_us_711%2F7f54e1aecf98ef6a2008f1d07f26aca6.jpg"
+              "title": "Bitcoin faces $16 billion options expiry Friday, then two more tests hit the rally",
+              "description": "Bitcoin options carrying roughly $16 billion in notional value expire on Deribit at 08:00 UTC on Friday, Sept. 25. Calls account for about $9.6 billion of that open interest and puts for about $6.4 billion. Bitcoin trades near $86,300 heading into the settlem…",
+              "url": "https://cryptoslate.com/bitcoin-faces-16-billion-options-expiry-friday-then-two-more-tests-hit-the-rally/",
+              "source": "CryptoSlate",
+              "published": "2026-09-23T09:10:42Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/09/bitcoin-expiry-mountain-test.webp"
             },
             {
               "title": "Zcash Closes On $1,400 After Coinholders Vote to Keep Bitcoin-Style Halvings",
@@ -253,12 +253,44 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "The Closed Quorum: Inside the first reported autonomous AI C2 implant",
-              "description": "CLOSEDQUORUM, a malware binary discovered through Cisco Talos’ CAIRN project, exhibits fully autonomous command and control (C2). It represents a shift in effort displacement for attackers, in which expanding portions of the attack chain can be executed witho…",
-              "url": "https://blog.talosintelligence.com/the-closed-quorum-inside-the-first-reported-autonomous-ai-c2-implant/",
-              "source": "Talosintelligence.com",
-              "published": "2026-09-22T10:00:58Z",
-              "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/size/w1200/2026/09/closed-quorum-header.jpg"
+              "title": "EvilTokens made phishing-as-a-service look easy. Then it got taken down",
+              "description": "Microsoft, Coinbase and law enforcement took down EvilTokens, a phishing kit that compromised 12,000 inboxes through device-code phishing and AI. EvilTokens showed up in February 2026 and moved fast. Within months it had compromised more than 12,000 inboxes a…",
+              "url": "https://securityaffairs.com/199593/cyber-crime/eviltokens-made-phishing-as-a-service-look-easy-then-it-got-taken-down.html",
+              "source": "Securityaffairs.com",
+              "published": "2026-09-23T11:00:31Z",
+              "image": "https://securityaffairs.com/wp-content/uploads/2026/09/image-64.png"
+            },
+            {
+              "title": "Microsoft and Coinbase probe leads to arrest of crooks behind ‘EvilTokens’, a DIY phishing network powered by AI",
+              "description": "The scam involved selling phishing kits on social media that let anyone create convincing fake emails.",
+              "url": "https://fortune.com/2026/09/22/microsoft-coinbase-phishing/",
+              "source": "Fortune",
+              "published": "2026-09-22T15:00:00Z",
+              "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2275807320.jpg?resize=1200,600"
+            },
+            {
+              "title": "Cregis to Host Institutional Onchain Finance Summit 2026 in Singapore",
+              "description": "Digital asset infrastructure provider Cregis will host the Institutional Onchain Finance Summit in Singapore on 6 October, during TOKEN2049.",
+              "url": "https://beincrypto.com/cregis-institutional-onchain-finance-summit-singapore/",
+              "source": "BeInCrypto",
+              "published": "2026-09-22T10:52:05Z",
+              "image": "https://s.yimg.com/lo/mysterio/api/7e1519ea20023290ae2b8969862243a37e126f71ae6b6a488c4f48f01c91c98f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Ff75f286042bf0d1c77f51425500237eb.jpg"
+            },
+            {
+              "title": "APLD’s 250MW Question: The Deal That Could Unlock Applied Digital Stock’s Next Leg Up",
+              "description": "APLD's $36B contracted backlog and 91% HPC margins haven't moved the stock because investors are pricing in execution risk on power/supply-chain constraints...",
+              "url": "https://www.barchart.com/story/news/4727811/aplds-250mw-question-the-deal-that-could-unlock-applied-digital-stocks-next-leg-up",
+              "source": "Barchart.com",
+              "published": "2026-09-22T10:46:14Z",
+              "image": "https://s.yimg.com/lo/mysterio/api/f6d9b8ab9718a7d296bca8bd88da478c909fd9e10971d9751a1f34ae4b084923/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbarchart_com_477%2Fc0f19527b34dbc2e1f66738ef9833130.jpg"
+            },
+            {
+              "title": "Circle Launches Bitcoin-Backed USDC Borrowing for Institutions on Arc and Ethereum",
+              "description": "Circle launched Digital Asset-Backed Borrowing for Circle Mint’s institutions, enabling these institutions to use BTC as collateral against their USDC liquidity while remaining in control...\nThe post Circle Launches Bitcoin-Backed USDC Borrowing for Instituti…",
+              "url": "https://bitcoinfoundation.org/news/stablecoins/circle-launches-bitcoin-backed-usdc-borrowing-for-institutions-on-arc-and-ethereum/",
+              "source": "Bitcoinfoundation.org",
+              "published": "2026-09-22T06:58:05Z",
+              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/Circle-Launches-Bitcoin-Backed-USDC-Borrowing-for-Institutions-on-Arc-and-Ethereum-2.webp"
             },
             {
               "title": "Sony Says You Don't Own the Games You Bought. Crypto Says It Can Fix That",
@@ -283,38 +315,6 @@
               "source": "newsBTC",
               "published": "2026-09-21T13:50:16Z",
               "image": "https://www.newsbtc.com/wp-content/uploads/2026/09/5f06e7372a414a3aaf1658247b9cc280.png.jpeg"
-            },
-            {
-              "title": "ChainScript: the RAT that hides its command server inside a blockchain contract",
-              "description": "Blackpoint uncovers ChainScript, a Node.js RAT that queries a Polygon smart contract to find and rotate its command server. Blackpoint’s Adversary Pursuit Group was chasing a ClickFix campaign spreading an unknown RAT namend ChainScript. The malicious code is…",
-              "url": "https://securityaffairs.com/199471/malware/chainscript-the-rat-that-hides-its-command-server-inside-a-blockchain-contract.html",
-              "source": "Securityaffairs.com",
-              "published": "2026-09-21T13:32:50Z",
-              "image": "https://securityaffairs.com/wp-content/uploads/2026/09/image-59.png"
-            },
-            {
-              "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
-              "description": "Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript.\n\n\"ChainScript has appeared under multiple build names, including ComponentTask33, UpdateDigital, HostShared, and OrchidViolet6…",
-              "url": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
-              "source": "Internet",
-              "published": "2026-09-21T08:39:38Z",
-              "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-cgmwQRZh142Z19A3s7K7tpaXtsyy6Imy9cYGM7nFP1DAZoSK9gDw8T0dGXlkFWOGDFShJWMNjC7jbwoSvLokr1pX27u2B1SABpBL-aWtaXj2hYYrqVwTE7LpEDn_iIbRYCro8sH2hzAEsjHLGkpFqTjEKlFHi2o2pgacFJQvYkPDCKVEhkJgW8OWhpZA/s1700-nu-rw-lo-l85-e365/poly.jpg"
-            },
-            {
-              "title": "Banaras crafts get an AI, blockchain boost from IIT- Madras",
-              "description": "IIT Madras launches Artisan Empowerment Lab with HWA to boost Banaras GI crafts using AI, blockchain and QR codes for authenticity and direct buyer links.",
-              "url": "https://timesofindia.indiatimes.com/city/varanasi/banaras-crafts-get-an-ai-blockchain-boost-from-iit-madras/articleshow/134360125.cms",
-              "source": "The Times of India",
-              "published": "2026-09-19T19:42:35Z",
-              "image": "https://static.toiimg.com/thumb/msid-134360122,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
-            },
-            {
-              "title": "Mr. Robot’s Ecoin Comes to Life Via Wall Street’s New Blockchain",
-              "description": "Circle’s new Arc blockchain puts its USDC stablecoin at the center of a permissioned network secured by BlackRock, Visa, Mastercard, and other Wall Street fixtures.",
-              "url": "https://gizmodo.com/mr-robots-ecoin-comes-to-life-via-wall-streets-new-blockchain-2000813297",
-              "source": "Gizmodo.com",
-              "published": "2026-09-18T17:55:35Z",
-              "image": "https://gizmodo.com/app/uploads/2019/07/t8povnmzqczywlxcft8p.jpg"
             }
           ]
         }
