@@ -1,11 +1,43 @@
 {
-  "date": "September 25, 2026",
+  "date": "September 26, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "Researchers Publish 'Zcash-Style' Design for Private Bitcoin Transfers",
+          "description": "The Shielded Bitcoin spec hides senders, receivers and amounts, but leaves how BTC enters and exits the system to a later paper.",
+          "url": "https://decrypt.co/379280/researchers-publish-zcash-style-design-for-private-bitcoin-transfers",
+          "source": "Decrypt",
+          "published": "2026-09-25T09:50:01Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg"
+        },
+        {
+          "title": "Bitcoin researchers target privacy coins with Zcash-style shielded transfers",
+          "description": "Bitcoin researchers have proposed a system for private transfers directly on the network without requiring a soft fork or changes to its consensus rules. The Sept. 24 paper from [[alloc] init] researchers Clara Shikhelman, Mikhail Komarov, and Aleksei Moskvin…",
+          "url": "https://cryptoslate.com/bitcoin-researchers-target-privacy-coins-with-zcash-style-shielded-transfers/",
+          "source": "CryptoSlate",
+          "published": "2026-09-25T02:10:32Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/09/shielded-bitcoin-standard-image-v3.jpg"
+        },
+        {
+          "title": "AmericanFortress paper shows how ZKPs can prove crypto wallet ownership",
+          "description": "The team at privacy infrastructure developer AmericanFortress have authored a new paper. It proposes a novel means of proving the origin of crypto wallets. Vincenzo Botta, Michal Pospieszalski, Emanuele Ragnoli and Justus Ranvier of AmericanFortress authored …",
+          "url": "https://thenextweb.com/news/americanfortress-zkp-crypto-wallet-ownership-provenance-proofs",
+          "source": "The Next Web",
+          "published": "2026-09-24T19:28:18Z",
+          "image": "https://media.thenextweb.com/2026/09/silver-coin-black-leather-wallet.jpg"
+        },
+        {
+          "title": "In Her Final Weeks, SEC's Peirce Calls for Ending the KYC 'Panopticon'",
+          "description": "In one of her final speeches as commissioner, Peirce argued that regulators' \"data haystacks\" endanger the people they aim to protect—as recent KYC leaks expose crypto holders to phishing and physical attacks.",
+          "url": "https://decrypt.co/379217/sec-peirce-end-kyc-panopticon-zero-knowledge-proofs",
+          "source": "Decrypt",
+          "published": "2026-09-24T17:31:03Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/09/hester-peirce-decrypt-style-gID_7.jpg"
+        },
         {
           "title": "Zest Bets Bitcoin Can Back Loans Without Ever Leaving Its Own Chain",
           "description": "Zest Protocol's capped mainnet demo lets users borrow USDC against BTC held in a vault on Bitcoin, without wrapping or bridging the coins.",
@@ -23,14 +55,6 @@
           "image": "https://cryptoslate.com/wp-content/uploads/2026/09/oracle-price-exit-liquidity-standard-image.jpg"
         },
         {
-          "title": "Apple and Google Go Hunting for Crypto Talent, Hint at Stablecoin Push",
-          "description": "The senior roles cover Apple’s consumer payment products and Google Cloud’s institutional blockchain business in Asia.",
-          "url": "https://decrypt.co/378811/apple-google-crypto-talent-stablecoin",
-          "source": "Decrypt",
-          "published": "2026-09-21T16:16:03Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/05/apple-logo-decrypy-style-01-gID_7.png"
-        },
-        {
           "title": "Starknet’s Cairo Toolchain Releases v2.19.5 Update",
           "description": "Read the latest update on Starknet's Cairo Toolchain Releases v2.19.5 Update.",
           "url": "https://bitcoinist.com/starknets-cairo-toolchain-releases-v2195-update/",
@@ -45,30 +69,6 @@
           "source": "24/7 Wall St.",
           "published": "2026-09-21T10:58:53Z",
           "image": "https://s.yimg.com/lo/mysterio/api/1baf673f8f4c90e3e8685157273344297242a81f1bec616381c1ec3411916941/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F9ba1fa41994408b573d416faebbd09ea.jpg"
-        },
-        {
-          "title": "Paradex options open interest crosses $250M after Paradigm’s RFQ integration supercharges volumes",
-          "description": "The integration highlights the potential for decentralized platforms to attract institutional liquidity, reshaping the DeFi derivatives landscape.\nThe post Paradex options open interest crosses $250M after Paradigm’s RFQ integration supercharges volumes appea…",
-          "url": "https://cryptobriefing.com/paradex-options-open-interest-250m/",
-          "source": "Crypto Briefing",
-          "published": "2026-09-21T10:41:12Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/21064109/library-paradex-options-open-interest-crosses-250m-after-paradig-800x450.png"
-        },
-        {
-          "title": "Who needs CLARITY anyway? ARB could see 70X increase: Hodler’s Digest",
-          "description": "Crypto missed out CLARITY, but tokenized stocks were legalized and the Bitcoin Reserve advanced. Meanwhile Standard Chartered says Arbitrum’s price could increase 70 times by 2030.",
-          "url": "https://cointelegraph.com/magazine/who-needs-clarity-anyway-arb-could-see-70x-increase-asia-express",
-          "source": "Cointelegraph",
-          "published": "2026-09-20T23:37:39Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M30EAE44F9E8Z0P8M1SEBDSD/magazine-cover-collage-sept-21.png"
-        },
-        {
-          "title": "ZkSNARKs NFT project accused of extracting $17M from investors with minimal utility",
-          "description": "The incident underscores the need for enhanced transparency and trust mechanisms in NFT projects to safeguard investor confidence and market integrity.\nThe post ZkSNARKs NFT project accused of extracting $17M from investors with minimal utility appeared first…",
-          "url": "https://cryptobriefing.com/zksnarks-nft-17m-extraction-allegations/",
-          "source": "Crypto Briefing",
-          "published": "2026-09-19T13:22:24Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/19092222/us-strikes-on-iran-wipe-80b-off-crypto-as-bitcoin-ethereum-s-44-800x420.jpeg"
         }
       ]
     },
@@ -77,6 +77,14 @@
       "icon": "🔐",
       "color": "#e6a200",
       "articles": [
+        {
+          "title": "SEC Commissioner Peirce advocates zero-knowledge proofs for KYC/AML compliance overhaul",
+          "description": "Peirce's advocacy for zero-knowledge proofs could revolutionize privacy and security in financial compliance, reducing data breach risks.\nThe post SEC Commissioner Peirce advocates zero-knowledge proofs for KYC/AML compliance overhaul appeared first on Crypto…",
+          "url": "https://cryptobriefing.com/sec-peirce-zero-knowledge-proofs-kyc-aml/",
+          "source": "Crypto Briefing",
+          "published": "2026-09-24T14:27:58Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/24102755/library-sec-commissioner-peirce-advocates-zero-knowledge-proofs--800x450.png"
+        },
         {
           "title": "Is Aleo Crypto Alive? ALEO Price Prediction After a 94% Surge: Is the Comeback Real",
           "description": "ALEO price seems to have been rebounding overnight, having gained about 94% in 24 hours to about $0.034, with a market cap of $49 million....\nThe post Is Aleo Crypto Alive? ALEO Price Prediction After a 94% Surge: Is the Comeback Real appeared first on Bitcoi…",
@@ -102,22 +110,6 @@
           "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-1234440266-e1790183079416.jpg?resize=1200,600"
         },
         {
-          "title": "Bitwise launches first Lighter ETP amid Hyperliquid rivalry",
-          "description": "The product gives European investors brokerage access to the LIT token as Bitwise expands its lineup of products tied to decentralized derivatives platforms.",
-          "url": "https://cointelegraph.com/news/bitwise-lighter-lit-etp-europe-xetra",
-          "source": "Cointelegraph",
-          "published": "2026-09-23T16:34:27Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M37DHCMTV7JXT1KJHVV2D4BM/hi-dexs-closing-down-or-re-launching2.jpg"
-        },
-        {
-          "title": "LayerZero Research completes formal verification of Jolt bytecode expansion",
-          "description": "LayerZero's formal verification of Jolt bytecode expansion enhances trust in zkVMs, potentially setting new standards for blockchain security.\nThe post LayerZero Research completes formal verification of Jolt bytecode expansion appeared first on Crypto Briefi…",
-          "url": "https://cryptobriefing.com/layerzero-jolt-bytecode-formal-verification-lean/",
-          "source": "Crypto Briefing",
-          "published": "2026-09-23T15:07:49Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/23110744/library-layerzero-research-completes-formal-verification-of-jolt-800x450.png"
-        },
-        {
           "title": "CryptoPunks, Boogles, and zkSnarks drive millions in NFT trading volume",
           "description": "The surge in NFT trading across multiple blockchains highlights the evolving dynamics and potential for cross-chain innovation in digital assets.\nThe post CryptoPunks, Boogles, and zkSnarks drive millions in NFT trading volume appeared first on Crypto Briefin…",
           "url": "https://cryptobriefing.com/cryptopunks-boogles-zksnarks-nft-volume/",
@@ -133,68 +125,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "TRON Surpasses $30T in Total Transaction Volume as it Secures its Place as Leading Chain for Stablecoins",
-          "description": "Geneva, Switzerland, September 24, 2026 — TRON DAO, the community-governed DAO dedicated to accelerating the decentralization of the internet through blockchain technology and decentralized applications (dApps), today announced that total transaction volume s…",
-          "url": "http://www.newsbtc.com/news/tron-surpasses-30t-in-total-transaction-volume-as-it-secures-its-place-as-leading-chain-for-stablecoins/",
+          "title": "MEXC Returns to TOKEN2049 Singapore as Platinum Sponsor with Interactive Experiences and Industry Conversations",
+          "description": "Mutsamudu, Comoros, September 25, 2026 – MEXC, a pioneer in 0-fee digital asset trading, will return to TOKEN2049 Singapore as a Platinum Sponsor, with a broader on-site presence spanning interactive booth experiences, product showcases and conversations on t…",
+          "url": "http://www.newsbtc.com/news/mexc-returns-to-token2049-singapore-as-platinum-sponsor-with-interactive-experiences-and-industry-conversations/",
           "source": "newsBTC",
-          "published": "2026-09-24T10:12:23Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2026/09/7aee050b97d04895a7eb5d920cfd5308.png.jpeg"
+          "published": "2026-09-25T10:31:45Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2026/09/NewsBTC_728x546.png"
         },
         {
-          "title": "Institutions held crypto through 50% drawdown, Bitwise finds",
-          "description": "Every institution interviewed that owned crypto held Bitcoin, usually as its largest asset; some set exit conditions for Ether and Solana.",
-          "url": "https://cointelegraph.com/markets/institutions-held-crypto-50-percent-drawdown-bitwise",
-          "source": "Cointelegraph",
-          "published": "2026-09-24T09:18:16Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3995AEZDZAHF7KGY7TNVJAH/bitwise-report.png"
+          "title": "Crypto Exchange Bitget Says Hackers Stole $352 Million",
+          "description": "Crypto exchange Bitget reported an estimated $351.6 million in unauthorized transfers from some of its wallets and temporarily suspended withdrawals. “User funds are safe,” Chief Executive Gracy Chen said in a post on X early Friday in Singapore. “The full …",
+          "url": "https://www.insurancejournal.com/news/international/2026/09/25/886838.htm",
+          "source": "Insurance Journal",
+          "published": "2026-09-25T10:07:26Z",
+          "image": "https://www.insurancejournal.com/app/uploads/2026/09/bitget-advertisement-at-coindesk-consensus-festival-bloomberg-scaled.jpg"
         },
         {
-          "title": "OKX Tightens European Institutional Trading Guidance Under MiCA",
-          "description": "TL;DR OKX has updated guidance for EEA institutional users around MiCA-aligned trading and stablecoin compliance. The changes relate to how eligible institutional accounts interact with supported fiat and stablecoin markets. The update is a compliance change,…",
-          "url": "http://www.newsbtc.com/technology/okx-tightens-european-institutional-trading-guidance-under-mica/",
-          "source": "newsBTC",
-          "published": "2026-09-24T08:30:00Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/newsbtc_02_mica_deadline_featured.png?fit=1200%2C675"
-        },
-        {
-          "title": "UNIC Opens Fall 2026 Enrolment for the World’s First University Blockchain MOOC, with 1,000 Hardware Wallets and €37,000 in Scholarships for Students",
-          "description": "The Fall 2026 edition starts on 28 September, featuring industry-led guest sessions from Ripple, Cardano, Trezor and Avalanche. The University of Nicosia (UNIC) has announced the Fall 2026 edition of its flagship Free MOOC on Blockchain and Digital Assets, th…",
-          "url": "https://dialogos.com.cy/unic-opens-fall-2026-enrolment-for-the-worlds-first-university-blockchain-mooc-with-1000-hardware-wallets-and-e37000-in-scholarships-for-students/",
-          "source": "Dialogos.com.cy",
-          "published": "2026-09-24T06:37:31Z",
-          "image": "https://dialogos.com.cy/wp-content/uploads/2026/09/MOOC-1200x628_v3.jpg"
-        },
-        {
-          "title": "US weighs overseas push for dollar-backed stablecoins: Bloomberg",
-          "description": "The reported initiative could involve private-sector companies and several US agencies as Washington looks to expand the international use of dollar-backed stablecoins.",
-          "url": "https://cointelegraph.com/news/us-overseas-dollar-stablecoins-trump-administration",
-          "source": "Cointelegraph",
-          "published": "2026-09-24T04:44:12Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M38V1DJT1AP7MTJB9PYYTZWN/usa.png"
-        },
-        {
-          "title": "Meta’s Agent-Commerce Layer Just Went Live. The Settlement Rails Were Built for This.",
-          "description": "We used to think of the internet as a place where humans clicked buttons to buy things. Now, it is becoming a place where software agents do the clicking for us, and the plumbing underneath is finally starting to look like it was built for the job. For the pa…",
-          "url": "https://forkast.news/metas-agent-commerce-layer-just-went-live-the-settlement-rails-were-built-for-this/",
+          "title": "The Clearing House Just Picked Its Vendor for Tokenized Deposits. That’s the Institutional Layer Stablecoins Haven’t Built.",
+          "description": "The stablecoin industry has spent years promising a revolution in institutional settlement, yet the heavy lifting of global finance remains stubbornly tethered to legacy rails. While crypto-native projects chase liquidity in the wild, the real action is happe…",
+          "url": "https://forkast.news/the-clearing-house-just-picked-its-vendor-for-tokenized-deposits-thats-the-institutional-layer-stablecoins-havent-built/",
           "source": "Forkast.news",
-          "published": "2026-09-24T00:24:29Z",
-          "image": "https://forkast.news/wp-content/uploads/2026/09/meta-agent-commerce-convergence-hero-1024x687.jpg"
+          "published": "2026-09-25T09:01:22Z",
+          "image": "https://forkast.news/wp-content/uploads/2026/09/clearing-house-quant-tokenized-deposits-convergence-hero-1024x687.jpg"
         },
         {
-          "title": "Ethereum vs. Chainlink: Which Will Benefit More From Tokenization?",
-          "description": "The post Ethereum vs. Chainlink: Which Will Benefit More From Tokenization? appeared first on 24/7 Wall St..\nEthereum (CRYPTO: ETH) and Chainlink (CRYPTO: LINK) both tap into the growing trend of tokenization—the shift of Treasuries, funds, and bank deposits …",
-          "url": "https://biztoc.com/x/56c885a228cadfdf",
+          "title": "US Market: Fed proposes new rules for stablecoin issuers under GENIUS Act",
+          "description": "The US Federal Reserve proposed rules for dollar-backed stablecoin issuers, advancing implementation of the GENIUS Act. The framework would require full reserve backing, capital and risk-management standards, and oversight for banks safeguarding reserves. It …",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-fed-proposes-new-rules-for-stablecoin-issuers-under-genius-act/articleshow/134476037.cms",
+          "source": "The Times of India",
+          "published": "2026-09-25T07:13:47Z",
+          "image": "https://img.etimg.com/thumb/msid-134478390,width-1200,height-630,imgsize-176788,overlay-etmarkets/articleshow.jpg"
+        },
+        {
+          "title": "Animoca’s Evan Auyang worked in finance and public transit before crypto—Why he thinks the blockchain should be more like a bus",
+          "description": "The ex-deputy chief of Kowloon Motor Bus—where he haggled with politicians and triads over bus routes—is now helping build a HKD stablecoin.",
+          "url": "https://fortune.com/2026/09/25/animoca-evan-auyang-stablecoin-hong-kong/",
+          "source": "Fortune",
+          "published": "2026-09-25T07:00:00Z",
+          "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/Evan-Auyang-Animoca.jpg?resize=1200,600"
+        },
+        {
+          "title": "Fed Proposes Stablecoin Reserve and Capital Rules Under GENIUS Act",
+          "description": "The Federal Reserve Board is requesting public comment on two proposals related to establishing a regulatory framework for the payment stablecoin issuers it supervises under the GENIUS Act, it said in a Thursday (Sept. 24) press release.\nThe agency released t…",
+          "url": "https://biztoc.com/x/141df2829044a477",
           "source": "Biztoc.com",
-          "published": "2026-09-23T22:37:02Z",
-          "image": "https://biztoc.com/cdn/56c885a228cadfdf_s.webp"
+          "published": "2026-09-25T02:08:11Z",
+          "image": "https://biztoc.com/cdn/996/og.png"
         },
         {
-          "title": "QNT Crypto Price Prediction: Quant Just Exploded 20% — What’s Driving the Rally?",
-          "description": "QNT crypto has suddenly come back to life. Quant has climbed from the low-$60s into the mid-$70s, gaining more than 26% over the past week...\nThe post QNT Crypto Price Prediction: Quant Just Exploded 20% — What’s Driving the Rally? appeared first on Bitcoin F…",
-          "url": "https://bitcoinfoundation.org/news/analysis/qnt-crypto-price-prediction/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-09-23T22:08:45Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/image-1790201376.webp"
+          "title": "UK Banks Execute First Transactions With Tokenized Deposits",
+          "description": "An initiative involving seven U.K. banks completed the first live customer transactions using tokenized sterling deposits, banking and finance industry organization UK Finance said in a Thursday (Sept. 24) press release. The transactions were delivered throug…",
+          "url": "https://www.pymnts.com/blockchain/2026/uk-banks-execute-first-transactions-with-tokenized-deposits/",
+          "source": "pymnts.com",
+          "published": "2026-09-24T23:48:57Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/09/UK-finance-logo-cropped.png?quality=82"
+        },
+        {
+          "title": "Asia dominates Crypto Adoption Index, Bitget’s $351M hack: Asia Express",
+          "description": "The APAC region accounts for half of the Global Crypto Adoption Index. Bitget suffers massive $351M loss and OpenAI forgets to mention its agents hacked the Australian Government.",
+          "url": "https://cointelegraph.com/magazine/asia-dominates-crypto-adoption-index-bitgets-356m-hack-asia-express",
+          "source": "Cointelegraph",
+          "published": "2026-09-24T23:27:17Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2RR0R87D4ZNY7FB45GN96P2/magazineasia-expressriver.jpg"
         }
       ]
     },
@@ -204,6 +196,22 @@
       "color": "#00cc88",
       "articles": [
         {
+          "title": "Federal Reserve Unveils Stablecoin Rules on Reserves and Capital",
+          "description": "The central bank opened two proposals for comment under the GENIUS Act, requiring issuers it supervises to back tokens fully with safe assets and creating an application process for banks seeking to issue stablecoins.",
+          "url": "https://decrypt.co/379274/federal-reserve-unveils-stablecoin-rules-on-reserves-and-capital",
+          "source": "Decrypt",
+          "published": "2026-09-24T21:56:03Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/federal-reserve-decrypt-style-02-gID_7.jpg"
+        },
+        {
+          "title": "Stablecoins Changed the Rails but Haven’t Captured the Economics",
+          "description": "Stablecoins spent years trying to prove they could move money better than banks, and they have succeeded. Announcements this week from banks, card networks, cryptocurrency exchanges and central banks show why that capability reveals more about stablecoins tha…",
+          "url": "https://www.pymnts.com/cryptocurrency/2026/stablecoins-changed-rails-have-not-captured-economics/",
+          "source": "pymnts.com",
+          "published": "2026-09-24T21:14:53Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2021/04/payment-rails.jpg"
+        },
+        {
           "title": "IBM Expands Its Digital Banking Infrastructure with Swift Integration and Digital Asset Haven On-Premises",
           "description": "IBM enables financial institutions to connect to Swift's blockchain-based shared ledger for tokenized deposit transactions with beta IBM Digital Asset Haven extends to on-premises beta deployment, giving institutions greater deployment control of their digita…",
           "url": "https://www.prnewswire.com/news-releases/ibm-expands-its-digital-banking-infrastructure-with-swift-integration-and-digital-asset-haven-on-premises-302888354.html",
@@ -212,52 +220,28 @@
           "image": "https://mmx.prnewswire.com/media/MS654328/IBM-LOGO-1.jpg?id=OA2968023&p=facebook"
         },
         {
-          "title": "UK banks make interbank deals with tokenised deposits",
-          "description": "Britain's biggest banks have completed the world's first transactions using tokenised deposits to move money between themselves, a boost for a blockchain-based version of commercial bank money that proponents say offers a safer alternative to stablecoins.",
-          "url": "https://www.rte.ie/news/business/2026/0924/1592754-uk-banks-make-interbank-deals-with-tokenised-deposits/",
-          "source": "RTE",
-          "published": "2026-09-24T07:00:18Z",
-          "image": "https://www.rte.ie/images/0016897f-1600.jpg"
-        },
-        {
-          "title": "UK banks make first interbank transactions using tokenised deposits",
-          "description": "BRITAIN-BANKS/TOKENISED:UK banks make first interbank transactions using tokenised deposits",
-          "url": "https://www.livemint.com/companies/uk-banks-make-first-interbank-transactions-using-tokenised-deposits-11790204575492.html",
-          "source": "Livemint",
-          "published": "2026-09-23T23:02:55Z",
-          "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/company_2_1733465085102_1733465089141.png"
-        },
-        {
-          "title": "Kevin O’Leary Questions Whether Ethereum Will Stay the Industry Standard, Names Solana and Avalanche as Top Alternatives",
-          "description": "Many financial experts recognize Ethereum as an industry standard for business adoption of blockchain technology.",
-          "url": "https://zycrypto.com/kevin-oleary-questions-whether-ethereum-will-stay-the-industry-standard-names-solana-and-avalanche-as-top-alternatives/",
-          "source": "ZyCrypto",
-          "published": "2026-09-23T22:19:43Z",
-          "image": "https://zycrypto.com/wp-content/uploads/2022/01/Ava-Labs-John-Wu-Asserts-Bitcoin-Will-Lose-To-Altcoins-In-2022-—-Ether-Solana-AVAX-Cardano-Looks-To-Take-Lead.jpg"
-        },
-        {
-          "title": "BlackRock sees a new $5 trillion AI trade emerging for stablecoins",
-          "description": "BlackRock says AI could create a new class of stablecoin customer: machines that spend continuously without human approval. The world’s largest asset manager sees increasingly autonomous AI systems purchasing data, accessing software, and acquiring computing …",
-          "url": "https://cryptoslate.com/blackrock-sees-a-new-5-trillion-ai-trade-emerging-for-stablecoins/",
-          "source": "CryptoSlate",
-          "published": "2026-09-23T20:50:43Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/09/machine-wallet-compute.webp"
-        },
-        {
-          "title": "SoFi Bets $25 Billion on Putting Stablecoins Behind the Card Swipe",
-          "description": "Consumers and merchants were supposed to be the silver bullet driving scalable digital asset adoption. The cryptocurrency industry is mature enough for that to have already happened by now, and it hasn’t. However, news from Mastercard and SoFi Technologies an…",
-          "url": "https://www.pymnts.com/cryptocurrency/2026/sofi-bets-25-billion-dollars-putting-stablecoins-behind-card-swipe/",
-          "source": "pymnts.com",
-          "published": "2026-09-23T20:47:41Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2025/04/SoFi-1.jpg"
-        },
-        {
-          "title": "Best Altcoins to Buy Now: Ethereum Leads as MemeToro Builds BNB Chain Memecoin Launchpad",
-          "description": "Ethereum is leading the latest altcoin push after breaking out of a bull flag pattern. ETH is trading near $2,745, and the next major level...\nThe post Best Altcoins to Buy Now: Ethereum Leads as MemeToro Builds BNB Chain Memecoin Launchpad appeared first on …",
-          "url": "https://bitcoinfoundation.org/news/ethereum/best-altcoins-to-buy-now-ethereum-leads-as-memetoro-builds-bnb-chain-memecoin-launchpad/",
+          "title": "QNT Crypto Price Prediction: Quant Just Exploded 20% — What’s Driving the Rally?",
+          "description": "QNT crypto has suddenly come back to life. Quant has climbed from the low-$60s into the mid-$70s, gaining more than 26% over the past week...\nThe post QNT Crypto Price Prediction: Quant Just Exploded 20% — What’s Driving the Rally? appeared first on Bitcoin F…",
+          "url": "https://bitcoinfoundation.org/news/analysis/qnt-crypto-price-prediction/",
           "source": "Bitcoinfoundation.org",
-          "published": "2026-09-23T16:00:00Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-21-2026-07_00_58-PM.webp"
+          "published": "2026-09-23T22:08:45Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/image-1790201376.webp"
+        },
+        {
+          "title": "Oracle Expands Digital Assets Data Nexus to Help Banks Operationalize Digital Money",
+          "description": "New capabilities help banks extend ISO 20022 payment operations into digital money, provide prebuilt Oracle Banking Payments integration for intelligent orchestration, integrate with Swift Ledger, and support AI-assisted risk analysis and transaction oversigh…",
+          "url": "https://www.prnewswire.com/news-releases/oracle-expands-digital-assets-data-nexus-to-help-banks-operationalize-digital-money-302888209.html",
+          "source": "PRNewswire",
+          "published": "2026-09-23T20:21:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS605173/Oracle-Logo-Logo.jpg?id=OA2967941&p=facebook"
+        },
+        {
+          "title": "Kyle Samani predicts SOL flippening, claims ‘no one’ uses ETH",
+          "description": "Multicoin Capital co-founder Kyle Samani argues that more crypto companies are migrating from Ethereum to Solana and he predicts a flippening will happen this cycle.",
+          "url": "https://cointelegraph.com/magazine/kyle-samani-predicts-sol-flippening-claims-no-one-uses-eth",
+          "source": "Cointelegraph",
+          "published": "2026-09-21T13:30:00Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M30R5TSC95SZGESPDXXCRR22/kyle-samani.png"
         }
       ]
     },
@@ -269,12 +253,37 @@
         "startups": {
           "title": "Startups",
           "icon": "💡",
-          "articles": []
+          "articles": [
+            {
+              "title": "Solana DEX volume spike hides circular trades, and automated bots are blamed",
+              "description": "Bitquery's indexed-pool screen finds repeated round trips, but the depth available to independent traders has not been measured.\nThe post Solana DEX volume spike hides circular trades, and automated bots are blamed appeared first on CryptoSlate.",
+              "url": "https://cryptoslate.com/solana-dex-volume-spike-hides-circular-trades-and-automated-bots-are-blamed/",
+              "source": "CryptoSlate",
+              "published": "2026-09-25T08:30:11Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/09/solana-liquidity-cliff.webp"
+            },
+            {
+              "title": "Researchers propose Zcash-style private Bitcoin transfers without a soft fork",
+              "description": "Shielded Bitcoin would use zero-knowledge proofs and encrypted notes to hide transaction details without changing Bitcoin consensus, but researchers have raised questions about anonymity and quantum resistance.",
+              "url": "https://cointelegraph.com/news/shielded-bitcoin-zcash-style-privacy-no-soft-fork",
+              "source": "Cointelegraph",
+              "published": "2026-09-25T04:41:06Z",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3BDDFF8HPKJW2SF5YG537KT/shielded-bitcoin.png"
+            }
+          ]
         },
         "hyperscalers": {
           "title": "Hyperscalers",
           "icon": "☁️",
           "articles": [
+            {
+              "title": "KuCoin Adds Apple, Robinhood, Strategy And SpaceX Tokenized Stocks",
+              "description": "TL;DR KuCoin has opened spot trading for tokenized representations of Apple, Robinhood, Strategy and SpaceX. The xStocks are issued on Solana and are designed to be collateralized 1:1 by the corresponding underlying assets held with a regulated custodian. Acc…",
+              "url": "https://bitcoinist.com/kucoin-adds-apple-robinhood-strategy-and-spacex-tokenized-stocks/",
+              "source": "Bitcoinist",
+              "published": "2026-09-25T09:30:00Z",
+              "image": "https://bitcoinist.com/wp-content/uploads/2026/06/bitcoinist_sec_tokenized_stocks_clean.jpg"
+            },
             {
               "title": "IBM connects Digital Asset Haven to Swift blockchain ledger for tokenized deposit transactions",
               "description": "IBM Digital Asset Haven clients can now connect to Swift's shared ledger and instruct tokenized deposit transactions.",
@@ -284,12 +293,20 @@
               "image": "https://biztoc.com/cdn/100ed13118f23eae_s.webp"
             },
             {
-              "title": "EU financial watchdogs warn quantum computing poses imminent threat to blockchain encryption",
-              "description": "Data indicates that nearly $586 billion in Bitcoin held across older pay-to-public-key and reused addresses could be vulnerable to reverse-engineered private key attacks.",
-              "url": "https://www.coindesk.com/tech/2026/09/24/eu-financial-watchdogs-warn-quantum-computing-poses-imminent-threat-to-blockchain-encryption",
-              "source": "CoinDesk",
-              "published": "2026-09-24T09:32:48Z",
-              "image": "https://cdn.sanity.io/images/s3y3vcno/production/0a7b286155b50450ecbce550b4b98e7f0e786e98-2766x1556.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75"
+              "title": "BlackRock sees a new $5 trillion AI trade emerging for stablecoins",
+              "description": "BlackRock says AI could create a new class of stablecoin customer: machines that spend continuously without human approval. The world’s largest asset manager sees increasingly autonomous AI systems purchasing data, accessing software, and acquiring computing …",
+              "url": "https://cryptoslate.com/blackrock-sees-a-new-5-trillion-ai-trade-emerging-for-stablecoins/",
+              "source": "CryptoSlate",
+              "published": "2026-09-23T20:50:43Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/09/machine-wallet-compute.webp"
+            },
+            {
+              "title": "MGCOne Unveils Blockchain-Powered Vision for the Future of Condo/HOA Community Management, Integrating Tokenization, Stablecoins, and AI",
+              "description": "HIGHTSTOWN, N.J., Sept. 23, 2026 /PRNewswire/ -- My Green Condo Inc. (MGCOne) has released a comprehensive industry brief detailing how blockchain, asset tokenization, and stablecoins are poised to permanently transform residential real estate and community a…",
+              "url": "https://www.prnewswire.com/news-releases/mgcone-unveils-blockchain-powered-vision-for-the-future-of-condohoa-community-management-integrating-tokenization-stablecoins-and-ai-302887496.html",
+              "source": "PRNewswire",
+              "published": "2026-09-23T17:30:00Z",
+              "image": "https://mmx.prnewswire.com/media/MS1764848/logo-transparent-Logo.jpg?id=OA2966350&p=facebook"
             },
             {
               "title": "BlackRock: AI Agents Could Drive Crypto's Next Demand Wave",
@@ -314,30 +331,6 @@
               "source": "Securityaffairs.com",
               "published": "2026-09-23T11:00:31Z",
               "image": "https://securityaffairs.com/wp-content/uploads/2026/09/image-64.png"
-            },
-            {
-              "title": "Microsoft and Coinbase probe leads to arrest of crooks behind ‘EvilTokens’, a DIY phishing network powered by AI",
-              "description": "The scam involved selling phishing kits on social media that let anyone create convincing fake emails.",
-              "url": "https://fortune.com/2026/09/22/microsoft-coinbase-phishing/",
-              "source": "Fortune",
-              "published": "2026-09-22T15:00:00Z",
-              "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2275807320.jpg?resize=1200,600"
-            },
-            {
-              "title": "Cregis to Host Institutional Onchain Finance Summit 2026 in Singapore",
-              "description": "Digital asset infrastructure provider Cregis will host the Institutional Onchain Finance Summit in Singapore on 6 October, during TOKEN2049.",
-              "url": "https://beincrypto.com/cregis-institutional-onchain-finance-summit-singapore/",
-              "source": "BeInCrypto",
-              "published": "2026-09-22T10:52:05Z",
-              "image": "https://s.yimg.com/lo/mysterio/api/7e1519ea20023290ae2b8969862243a37e126f71ae6b6a488c4f48f01c91c98f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Ff75f286042bf0d1c77f51425500237eb.jpg"
-            },
-            {
-              "title": "Sony Says You Don't Own the Games You Bought. Crypto Says It Can Fix That",
-              "description": "Crypto advocates argue that NFTs can deliver real digital ownership, but privacy gaps and integration hurdles have held the tech back.",
-              "url": "https://decrypt.co/378745/sony-dont-own-games-you-bought-crypto-fix-that",
-              "source": "Decrypt",
-              "published": "2026-09-21T16:46:03Z",
-              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/09/cd-compact-disc-blu-ray-decrypt-style-gID_7.jpg"
             }
           ]
         }
