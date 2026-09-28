@@ -1,5 +1,5 @@
 {
-  "date": "September 27, 2026",
+  "date": "September 28, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -102,14 +102,6 @@
           "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/Is-Aleo-Crypto-Alive-ALEO-Price-Prediction-After-a-94-Surge-Is-the-Comeback-Real-2.webp"
         },
         {
-          "title": "Liquid Network Security Incident Assessment",
-          "description": "Note to readers: The information contained in this report is current as of the date of publication and may be updated as the investigation continues. Technical claims are drawn from internal and external documentation, supporting source materials and on-chain…",
-          "url": "https://blog.blockstream.com/liquid-network-security-incident-assessment/",
-          "source": "Blockstream.com",
-          "published": "2026-09-24T01:18:33Z",
-          "image": "https://blog.blockstream.com/content/images/size/w1200/2026/09/Liquid-Network-Security-Incident_16_9.jpg"
-        },
-        {
           "title": "CryptoPunks, Boogles, and zkSnarks drive millions in NFT trading volume",
           "description": "The surge in NFT trading across multiple blockchains highlights the evolving dynamics and potential for cross-chain innovation in digital assets.\nThe post CryptoPunks, Boogles, and zkSnarks drive millions in NFT trading volume appeared first on Crypto Briefin…",
           "url": "https://cryptobriefing.com/cryptopunks-boogles-zksnarks-nft-volume/",
@@ -125,68 +117,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "EU faces September 30 clock to decide future of DeFi loans",
-          "description": "Its MiCA review response points to crypto firms’ access routes while any new lending duties remain a future legislative choice.\nThe post EU faces September 30 clock to decide future of DeFi loans appeared first on CryptoSlate.",
-          "url": "https://cryptoslate.com/eu-faces-september-30-clock-to-decide-future-of-defi-loans/",
+          "title": "Why the Coldcard and Liquid Network Hacks Were the Worst in Bitcoin’s History",
+          "description": "Recent security failures in highly trusted Bitcoin systems have forced a painful reckoning, showing that even users who mostly do everything right can lose money.",
+          "url": "https://gizmodo.com/why-the-coldcard-and-liquid-network-hacks-were-the-worst-in-bitcoins-history-2000810617",
+          "source": "Gizmodo.com",
+          "published": "2026-09-27T12:00:41Z",
+          "image": "https://gizmodo.com/app/uploads/2026/09/liquid-network-coldcard-hack-1200x675.jpg"
+        },
+        {
+          "title": "Hyperscaler cloud revenues projected to top $1 trillion by 2030 amid AI, digital asset convergence: Report",
+          "description": "Hyperscaler cloud revenues could exceed $1 trillion annually by 2030, driven by expanding demand for computing resources required to train and run artificial intelligence (AI) systems, according to a BlackRock report. It highlighted how compute capacity is tu…",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/hyperscaler-cloud-revenues-projected-to-top-usd-1-trillion-by-2030-amid-ai-digital-asset-convergence-report/articleshow/134519352.cms",
+          "source": "The Times of India",
+          "published": "2026-09-27T11:37:28Z",
+          "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-50546,resizemode-75,msid-134519352/tech/artificial-intelligence/hyperscaler-cloud-revenues-projected-to-top-usd-1-trillion-by-2030-amid-ai-digital-asset-convergence-report.jpg"
+        },
+        {
+          "title": "Trump Administration Weighs Overseas Push for Dollar-Backed Stablecoins",
+          "description": "The Trump administration is weighing an effort to promote dollar-backed stablecoins in overseas markets, according to a Bloomberg report described in a Cointelegraph summary. The reported initiative would focus on expanding the use of dollar-denominated digit…",
+          "url": "https://www.naturalnews.com/2026-09-27-trump-weighs-overseas-push-for-currency-backed-stablecoins.html",
+          "source": "Naturalnews.com",
+          "published": "2026-09-27T06:00:00Z",
+          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/stablecoins-dollar-backed-tokens-trump-administration-4448-original.jpg"
+        },
+        {
+          "title": "A Former BlackRock Executive Calls Bitcoin an “Exit Asset” and Ethereum “the New Rails.” Bitwise Says the Opposite",
+          "description": "The post A Former BlackRock Executive Calls Bitcoin an “Exit Asset” and Ethereum “the New Rails.” Bitwise Says the Opposite. appeared first on 24/7 Wall St..\nSharpLink CEO Joseph Chalom, a former BlackRock executive with two decades of experience, recently de…",
+          "url": "https://biztoc.com/x/fe432890495e2bc7",
+          "source": "Biztoc.com",
+          "published": "2026-09-26T17:50:53Z",
+          "image": "https://biztoc.com/cdn/fe432890495e2bc7_s.webp"
+        },
+        {
+          "title": "Washington has $114 billion reasons to want Tether around",
+          "description": "Not that long ago, Washington fined Tether for misleading people about the dollars behind its tokens. Today, the company's insatiable appetite for American debt is the main argument for sending those tokens further around the world. The distance between those…",
+          "url": "https://cryptoslate.com/washington-has-114-billion-reasons-to-want-tether-around/",
           "source": "CryptoSlate",
-          "published": "2026-09-26T05:10:00Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/09/eba-defi-access-review-standard-image.jpg"
+          "published": "2026-09-26T16:45:55Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/09/usdt-dollar-distribution.webp"
         },
         {
-          "title": "The Path to 2027: Mapping the Tokenized Deposit Regulatory Landscape Before the Sprint Begins",
-          "description": "The regulatory calendar for the remainder of 2026 is not merely a list of deadlines; it is a high-stakes architecture project. As we enter the final quarter, the industry is bracing for a sprint that will define the operational boundaries for digital money th…",
-          "url": "https://forkast.news/the-path-to-2027-mapping-the-tokenized-deposit-regulatory-landscape-before-the-sprint-begins/",
-          "source": "Forkast.news",
-          "published": "2026-09-26T02:38:56Z",
-          "image": "https://forkast.news/wp-content/uploads/2026/09/tokenized-deposit-regulatory-landscape-2027-hero-1024x687.jpg"
+          "title": "How Crypto Stopped Waiting for Congress and Learned to Love the Regulators",
+          "description": "After the Clarity Act failed in the Senate, the SEC, CFTC, and the Fed moved within days to write crypto's rules themselves. Will it be enough?",
+          "url": "https://decrypt.co/379383/how-crypto-stopped-waiting-congress-learned-love-regulators",
+          "source": "Decrypt",
+          "published": "2026-09-26T16:06:03Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/US-Capitol-decrypt-style-02-gID_7.png"
         },
         {
-          "title": "HIFI Raises $37M To Build Stablecoin And Tokenized Market Infrastructure",
-          "description": "HIFI has raised a $37 million Series A led by Left Lane Capital. The company says the funding will expand stablecoin payments, cards and infrastructure for tokenized capital markets. HIFI says its platform currently processes more than $7 billion in annualize…",
-          "url": "http://www.newsbtc.com/technology/hifi-raises-37m-to-build-stablecoin-and-tokenized-market-infrastructure/",
-          "source": "newsBTC",
-          "published": "2026-09-26T02:30:00Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/Untitled-design-81.jpg?fit=1792%2C1024"
+          "title": "Bitcoin Price Today: BTC rate jumps on Saturday, September 26, Cryptocurrency experts predict new high",
+          "description": "Bitcoin ( BTC ) Price Today Sept 26: Bitcoin exchange-traded funds, which have institutional as well as retail investors, have also shown signs of renewed demand, with inflows reaching nearly $2 ‌billion the week ⁠of August 17, after eight straight weeks of o…",
+          "url": "https://economictimes.indiatimes.com/news/international/us/bitcoin-price-today-predication-btc-sept-26-btc-rate-jumps-on-saturday-september-26-cryptocurrency-experts-predict-new-high/articleshow/134507089.cms",
+          "source": "The Times of India",
+          "published": "2026-09-26T15:44:13Z",
+          "image": "https://img.etimg.com/thumb/msid-134507138,width-1200,height-630,imgsize-111018,overlay-economictimes/articleshow.jpg"
         },
         {
-          "title": "IBM links 17 banks to the SWIFT ledger, but the cloud risk persists",
-          "description": "Digital Asset Haven’s ISO 20022 adapter supports tokenized-deposit instructions, while final settlement stays with existing systems.\nThe post IBM links 17 banks to the SWIFT ledger, but the cloud risk persists appeared first on CryptoSlate.",
-          "url": "https://cryptoslate.com/ibm-links-17-banks-to-the-swift-ledger-but-the-cloud-risk-persists/",
-          "source": "CryptoSlate",
-          "published": "2026-09-26T00:40:46Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/09/tokenized-deposit-harbor.webp"
-        },
-        {
-          "title": "The Clearing House Picks Quant For US Tokenized Deposit Network",
-          "description": "The Clearing House has selected Quant to provide the interoperability and transaction-management layer for its On-Chain Money Initiative. The planned network will let financial institutions clear and settle tokenized deposits while connecting to existing RTP …",
-          "url": "http://www.newsbtc.com/technology/the-clearing-house-picks-quant-for-us-tokenized-deposit-network/",
-          "source": "newsBTC",
-          "published": "2026-09-26T00:30:00Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/newsbtc_04_sec-proposes-reg-nms-rule-changes-that-could-affec_5dcdb2.png?fit=1200%2C675"
-        },
-        {
-          "title": "The UK Just Ran the World’s First Interbank Tokenized Deposit Transactions. The Same Platform Is Headed to 25 US Banks.",
-          "description": "For the past few years, the financial industry has been obsessed with the settlement layer. We watched as Visa settled $20B in stablecoins annually and eventually became a founding validator on Circle’s Arc L1. We saw SoFi launch the first bank-issued stablec…",
-          "url": "https://forkast.news/the-uk-just-ran-the-worlds-first-interbank-tokenized-deposit-transactions-the-same-platform-is-headed-to-25-us-banks/",
-          "source": "Forkast.news",
-          "published": "2026-09-25T20:27:58Z",
-          "image": "https://forkast.news/wp-content/uploads/2026/09/uk-banks-tokenized-deposits-convergence-hero-1024x687.jpg"
-        },
-        {
-          "title": "Stellar Gets A Place on CME’s Crypto Futures; What Does This Mean For XLM?",
-          "description": "Stellar network continues to garner greater investor trust in public-chain performance. This comes as CME Group today announced it is expanding its cryptocurrency futures to add Stellar and others to its futures suite, available in flexible contract sizes. Th…",
-          "url": "https://zycrypto.com/stellar-gets-a-place-on-cmes-crypto-futures-what-does-this-mean-for-xlm/",
-          "source": "ZyCrypto",
-          "published": "2026-09-25T17:30:45Z",
-          "image": "https://zycrypto.com/wp-content/uploads/2021/12/Ukraine-Commercial-Bank-Uses-Stellar-To-Launch-Digital-Currency-Pilot.jpg"
-        },
-        {
-          "title": "Forward Industries Raises $25M To Buy More Solana",
-          "description": "TL;DR Forward Industries has agreed to sell 3.125 million shares to one institutional investor at $8 each. The registered direct offering is expected to raise about $25 million before fees. The company says it intends to use the net proceeds to acquire additi…",
-          "url": "https://bitcoinist.com/forward-industries-raises-25m-to-buy-more-solana/",
+          "title": "UK Banks Complete First Live Tokenized Sterling Deposit Payments",
+          "description": "Major UK banks have completed the first live customer transactions using tokenized sterling deposits on shared infrastructure. Participants include Barclays, HSBC UK, Lloyds Banking Group, Monzo, Nationwide, NatWest and Santander. The project is using real co…",
+          "url": "https://bitcoinist.com/uk-banks-complete-first-live-tokenized-sterling-deposit-payments/",
           "source": "Bitcoinist",
-          "published": "2026-09-25T17:30:00Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/06/Solana-chart-from-Crypto-Patel.jpg"
+          "published": "2026-09-26T13:30:00Z",
+          "image": "https://bitcoinist.com/wp-content/uploads/2026/06/bitcoinist_sec_tokenized_stocks_clean.jpg"
         }
       ]
     },
@@ -220,20 +212,20 @@
           "image": "https://s.yimg.com/lo/mysterio/api/18160152d89a192cf0f536dcff68a6221d4b61e745be9fcd1f01061040325706/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F6546efcfee2dac680d8891c3ef542d09.jpg"
         },
         {
+          "title": "Why Is ONDO Price Surging? BlackRock Launch Sends Ondo Token Up 30%",
+          "description": "ONDO has emerged as one of the strongest performers in the real-world asset sector after a sharp price breakout. The ONDO price surged roughly 30%...\nThe post Why Is ONDO Price Surging? BlackRock Launch Sends Ondo Token Up 30% appeared first on Bitcoin Founda…",
+          "url": "https://bitcoinfoundation.org/news/altcoins/why-is-ondo-price-surging-blackrock-launch-sends-ondo-token-up-30/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-09-25T16:19:06Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/ONDO1.webp"
+        },
+        {
           "title": "Crypto Biz: Wall Street and crypto fight for the same turf",
           "description": "Binance invests $100 million in Circle as Canadian banks test tokenized deposits and NYSE works with Blockchain.com on tokenized U.S. stocks.",
           "url": "https://cointelegraph.com/news/crypto-biz-crypto-tradfi-stablecoins-tokenized-assets",
           "source": "Cointelegraph",
           "published": "2026-09-25T15:49:34Z",
           "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3CM3GXTXZWWRNTY7Y5MXRMC/hi-how-bitcoins-legal-victory-turned-it-into-wall-streets-favorite-crypto-1.jpg"
-        },
-        {
-          "title": "Tokenization is moving faster than Washington",
-          "description": "Regulatory clarity is not simply a legal or political issue, argues former New York Governor Andrew Cuomo. It is an economic one.",
-          "url": "https://www.coindesk.com/opinion/2026/09/25/tokenization-is-moving-faster-than-washington",
-          "source": "CoinDesk",
-          "published": "2026-09-25T14:37:32Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/795133dffb990742b929b07d85a82856f0623e6f-7000x4000.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75"
         },
         {
           "title": "The Clearing House Just Picked Its Vendor for Tokenized Deposits. That’s the Institutional Layer Stablecoins Haven’t Built.",
@@ -271,12 +263,20 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Sandroid_Dexray-Intercept",
-              "description": "A Android malware analysis tool that creates comprehensive runtime profiles by hooking into application behavior across cryptography, file systems, databases, network communications, and process operations.",
-              "url": "https://kitploit.com/en/tools/github/fkie-cad/sandroid_dexray-intercept/",
-              "source": "Kitploit.com",
-              "published": "2026-09-26T05:46:12Z",
-              "image": "https://assets.kitploit.com/production/public/tools/56194/fbcd03b6e0ed37c2f363b016ad02451d7b43e3c6e00528a4a047753e38124436-social-v1.webp"
+              "title": "Economy, Europe and election - the big issues for Burnham",
+              "description": "Andy Burnham's aim is to fix an image in the minds of the British voters that will clearly define Labour in relation to its main challenger - Nigel Farage's Reform UK.",
+              "url": "https://www.rte.ie/news/2026/0927/1593024-labour-party-conference/",
+              "source": "RTE",
+              "published": "2026-09-27T06:01:01Z",
+              "image": "https://www.rte.ie/images/0024bb02-1600.jpg"
+            },
+            {
+              "title": "Liquid Network Security Incident Assessment",
+              "description": "Note to readers: The information contained in this report is current as of the date of publication and may be updated as the investigation continues. Technical claims are drawn from internal and external documentation, supporting source materials and on-chain…",
+              "url": "https://blog.blockstream.com/liquid-network-security-incident-assessment/",
+              "source": "Blockstream.com",
+              "published": "2026-09-24T01:18:33Z",
+              "image": "https://blog.blockstream.com/content/images/size/w1200/2026/09/Liquid-Network-Security-Incident_16_9.jpg"
             }
           ]
         },
@@ -299,22 +299,6 @@
               "source": "Biztoc.com",
               "published": "2026-09-24T10:07:22Z",
               "image": "https://biztoc.com/cdn/100ed13118f23eae_s.webp"
-            },
-            {
-              "title": "MGCOne Unveils Blockchain-Powered Vision for the Future of Condo/HOA Community Management, Integrating Tokenization, Stablecoins, and AI",
-              "description": "HIGHTSTOWN, N.J., Sept. 23, 2026 /PRNewswire/ -- My Green Condo Inc. (MGCOne) has released a comprehensive industry brief detailing how blockchain, asset tokenization, and stablecoins are poised to permanently transform residential real estate and community a…",
-              "url": "https://www.prnewswire.com/news-releases/mgcone-unveils-blockchain-powered-vision-for-the-future-of-condohoa-community-management-integrating-tokenization-stablecoins-and-ai-302887496.html",
-              "source": "PRNewswire",
-              "published": "2026-09-23T17:30:00Z",
-              "image": "https://mmx.prnewswire.com/media/MS1764848/logo-transparent-Logo.jpg?id=OA2966350&p=facebook"
-            },
-            {
-              "title": "BlackRock: AI Agents Could Drive Crypto's Next Demand Wave",
-              "description": "The world's largest asset manager argues that autonomous AI agents buying data, paying for services, and renting computing power could quietly become one of the biggest forces pushing money into crypto.",
-              "url": "https://decrypt.co/379070/blackrock-ai-agents-crypto-next-demand-wave",
-              "source": "Decrypt",
-              "published": "2026-09-23T15:41:46Z",
-              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/BlackRock-Larry-Fink-decrypt-style-02-gID_7.png"
             },
             {
               "title": "Stripe Just Built the Full-Stack Agent Commerce Infrastructure in One Day",
