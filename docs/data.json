@@ -1,11 +1,19 @@
 {
-  "date": "September 28, 2026",
+  "date": "September 29, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "THORChain under fire over Bitget, ETH evolves beyond blockchain: Hodler’s Digest",
+          "description": "THORChain refuses to blacklist addresses linked to the Bitget hack. Vitalik Buterin says Ethereum is evolving from being a mere blockchain, into a world cryptographic computer.",
+          "url": "https://cointelegraph.com/magazine/thorchain-under-fire-over-bitget-hack-eth-is-beyond-blockchain-now",
+          "source": "Cointelegraph",
+          "published": "2026-09-27T23:43:18Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3JEK5KXMZ1A92DZ2YW9Y7A9/cover-collage-revised.png"
+        },
         {
           "title": "Morning Minute: BlackRock Leans Deeper Into Tokenization with Ondo",
           "description": "The biggest financial institutions in the world are bringing more products onchain, and the pace is accelerating.",
@@ -55,20 +63,12 @@
           "image": "https://s.yimg.com/lo/mysterio/api/037d3eaee3c53ef2fc2bc34d77c704660168a75e01a66bcd8ff22659d01402d1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2Fdb3aba55efc03063481175b09ca7d85a.jpg"
         },
         {
-          "title": "Pragma flags 6 price feeds as critical risk following $3.5M Starknet lending exploit",
-          "description": "The September 18 assessment exposes a gap between oracle valuations and the liquidity lenders need to sell collateral.\nThe post Pragma flags 6 price feeds as critical risk following $3.5M Starknet lending exploit appeared first on CryptoSlate.",
-          "url": "https://cryptoslate.com/pragma-flags-6-price-feeds-as-critical-risk-following-3-5m-starknet-lending-exploit/",
-          "source": "CryptoSlate",
-          "published": "2026-09-22T01:10:56Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/09/oracle-price-exit-liquidity-standard-image.jpg"
-        },
-        {
-          "title": "Starknet’s Cairo Toolchain Releases v2.19.5 Update",
-          "description": "Read the latest update on Starknet's Cairo Toolchain Releases v2.19.5 Update.",
-          "url": "https://bitcoinist.com/starknets-cairo-toolchain-releases-v2195-update/",
-          "source": "Bitcoinist",
-          "published": "2026-09-21T11:00:00Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/09/IMG_3439-2.png"
+          "title": "Ekubo enables private swaps on Starknet for shielded tokens",
+          "description": "Ekubo's private swaps on Starknet enhance DeFi privacy, potentially attracting more users seeking anonymity, while maintaining liquidity depth.\nThe post Ekubo enables private swaps on Starknet for shielded tokens appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/ekubo-private-swaps-starknet-shielded-tokens/",
+          "source": "Crypto Briefing",
+          "published": "2026-09-22T16:03:06Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/22120302/library-ekubo-enables-private-swaps-on-starknet-for-shielded-tok-800x450.png"
         }
       ]
     },
@@ -77,6 +77,22 @@
       "icon": "🔐",
       "color": "#e6a200",
       "articles": [
+        {
+          "title": "Ethereum’s next scaling leap may come from making everyone stop doing the same work",
+          "description": "Cheaper proofs could widen verification while builders and provers still need the data to keep blocks and rollups moving.\nThe post Ethereum’s next scaling leap may come from making everyone stop doing the same work appeared first on CryptoSlate.",
+          "url": "https://cryptoslate.com/ethereums-next-scaling-leap-may-come-from-making-everyone-stop-doing-the-same-work/",
+          "source": "CryptoSlate",
+          "published": "2026-09-28T11:30:01Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/09/ethereum-state-access.webp"
+        },
+        {
+          "title": "Ethereum evolves into a cryptographic world computer, says Buterin",
+          "description": "Ethereum's evolution into a cryptographic world computer could redefine decentralized computing, enhancing privacy, scalability, and resilience.\nThe post Ethereum evolves into a cryptographic world computer, says Buterin appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/ethereum-cryptographic-world-computer-buterin/",
+          "source": "Crypto Briefing",
+          "published": "2026-09-27T13:12:22Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/27091217/library-ethereum-evolves-into-a-cryptographic-world-computer-say-800x450.png"
+        },
         {
           "title": "In Her Final Weeks, SEC's Peirce Calls for Ending the KYC 'Panopticon'",
           "description": "In one of her final speeches as commissioner, Peirce argued that regulators' \"data haystacks\" endanger the people they aim to protect—as recent KYC leaks expose crypto holders to phishing and physical attacks.",
@@ -92,22 +108,6 @@
           "source": "Crypto Briefing",
           "published": "2026-09-24T14:27:58Z",
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/24102755/library-sec-commissioner-peirce-advocates-zero-knowledge-proofs--800x450.png"
-        },
-        {
-          "title": "Is Aleo Crypto Alive? ALEO Price Prediction After a 94% Surge: Is the Comeback Real",
-          "description": "ALEO price seems to have been rebounding overnight, having gained about 94% in 24 hours to about $0.034, with a market cap of $49 million....\nThe post Is Aleo Crypto Alive? ALEO Price Prediction After a 94% Surge: Is the Comeback Real appeared first on Bitcoi…",
-          "url": "https://bitcoinfoundation.org/news/altcoins/is-aleo-crypto-alive-aleo-price-prediction-after-a-94-surge-is-the-comeback-real/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-09-24T09:14:49Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/Is-Aleo-Crypto-Alive-ALEO-Price-Prediction-After-a-94-Surge-Is-the-Comeback-Real-2.webp"
-        },
-        {
-          "title": "CryptoPunks, Boogles, and zkSnarks drive millions in NFT trading volume",
-          "description": "The surge in NFT trading across multiple blockchains highlights the evolving dynamics and potential for cross-chain innovation in digital assets.\nThe post CryptoPunks, Boogles, and zkSnarks drive millions in NFT trading volume appeared first on Crypto Briefin…",
-          "url": "https://cryptobriefing.com/cryptopunks-boogles-zksnarks-nft-volume/",
-          "source": "Crypto Briefing",
-          "published": "2026-09-22T14:52:19Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/22105213/library-cryptopunks-boogles-and-zksnarks-drive-millions-in-nft-t-800x450.png"
         }
       ]
     },
@@ -116,6 +116,38 @@
       "icon": "🏦",
       "color": "#00a4ef",
       "articles": [
+        {
+          "title": "Bitcoin Whales Are Buying Again: 113,950 BTC Added in 10 Weeks — What Comes Next?",
+          "description": "Bitcoin whales are buying again as BTC recovers from its recent lows. Bitcoin wallets containing 100-1,000 coins have added 113,950 BTC in the last ten...\nThe post Bitcoin Whales Are Buying Again: 113,950 BTC Added in 10 Weeks — What Comes Next? appeared firs…",
+          "url": "https://bitcoinfoundation.org/news/bitcoin/bitcoin-whales-are-buying-again-113950-btc-added-in-10-weeks-what-comes-next/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-09-28T11:24:11Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/BTC1-1790592303.webp"
+        },
+        {
+          "title": "Crypto-friendly institution Franklin Templeton brings its tokenized collateral service to Bybit",
+          "description": "Franklin Templeton’s tokenized money market shares can be used as collateral for USDT or USDC trading credit lines on Bybit while earning yield on the underlying assets.",
+          "url": "https://www.coindesk.com/business/2026/09/28/crypto-friendly-institution-franklin-templeton-brings-its-tokenized-collateral-service-to-bybit",
+          "source": "CoinDesk",
+          "published": "2026-09-28T11:00:00Z",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/ad2bfefb79599f5b40634c14c22a9a628a33a13f-2048x1152.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75"
+        },
+        {
+          "title": "California Bans Public Officials From Launching Memecoins Under New Crypto Law",
+          "description": "California Governor Gavin Newsom signed AB 2409, a state law that prohibits some state and local government officials from creating memecoins and places other limitations on political...\nThe post California Bans Public Officials From Launching Memecoins Under…",
+          "url": "https://bitcoinfoundation.org/news/regulation/california-bans-public-officials-from-launching-memecoins-under-new-crypto-law/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-09-28T07:31:56Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/California-Bans-Public-Officials-From-Launching-Memecoins-Under-New-Crypto-Law-2.webp"
+        },
+        {
+          "title": "How Stablecoins Can Serve Dollar Dominance",
+          "description": "To extend the dollar’s reach, America needs to preserve the credibility that makes it the currency most worth holding.",
+          "url": "https://www.thefreedomfrequency.org/p/how-stablecoins-can-serve-dollar",
+          "source": "Thefreedomfrequency.org",
+          "published": "2026-09-28T00:00:00Z",
+          "image": "https://substack-post-media.s3.amazonaws.com/public/images/9caa331a-3dcb-4764-92c5-deed505799fa_1757x1303.jpeg"
+        },
         {
           "title": "Why the Coldcard and Liquid Network Hacks Were the Worst in Bitcoin’s History",
           "description": "Recent security failures in highly trusted Bitcoin systems have forced a painful reckoning, showing that even users who mostly do everything right can lose money.",
@@ -139,38 +171,6 @@
           "source": "Naturalnews.com",
           "published": "2026-09-27T06:00:00Z",
           "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/stablecoins-dollar-backed-tokens-trump-administration-4448-original.jpg"
-        },
-        {
-          "title": "A Former BlackRock Executive Calls Bitcoin an “Exit Asset” and Ethereum “the New Rails.” Bitwise Says the Opposite",
-          "description": "The post A Former BlackRock Executive Calls Bitcoin an “Exit Asset” and Ethereum “the New Rails.” Bitwise Says the Opposite. appeared first on 24/7 Wall St..\nSharpLink CEO Joseph Chalom, a former BlackRock executive with two decades of experience, recently de…",
-          "url": "https://biztoc.com/x/fe432890495e2bc7",
-          "source": "Biztoc.com",
-          "published": "2026-09-26T17:50:53Z",
-          "image": "https://biztoc.com/cdn/fe432890495e2bc7_s.webp"
-        },
-        {
-          "title": "Washington has $114 billion reasons to want Tether around",
-          "description": "Not that long ago, Washington fined Tether for misleading people about the dollars behind its tokens. Today, the company's insatiable appetite for American debt is the main argument for sending those tokens further around the world. The distance between those…",
-          "url": "https://cryptoslate.com/washington-has-114-billion-reasons-to-want-tether-around/",
-          "source": "CryptoSlate",
-          "published": "2026-09-26T16:45:55Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/09/usdt-dollar-distribution.webp"
-        },
-        {
-          "title": "How Crypto Stopped Waiting for Congress and Learned to Love the Regulators",
-          "description": "After the Clarity Act failed in the Senate, the SEC, CFTC, and the Fed moved within days to write crypto's rules themselves. Will it be enough?",
-          "url": "https://decrypt.co/379383/how-crypto-stopped-waiting-congress-learned-love-regulators",
-          "source": "Decrypt",
-          "published": "2026-09-26T16:06:03Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/US-Capitol-decrypt-style-02-gID_7.png"
-        },
-        {
-          "title": "Bitcoin Price Today: BTC rate jumps on Saturday, September 26, Cryptocurrency experts predict new high",
-          "description": "Bitcoin ( BTC ) Price Today Sept 26: Bitcoin exchange-traded funds, which have institutional as well as retail investors, have also shown signs of renewed demand, with inflows reaching nearly $2 ‌billion the week ⁠of August 17, after eight straight weeks of o…",
-          "url": "https://economictimes.indiatimes.com/news/international/us/bitcoin-price-today-predication-btc-sept-26-btc-rate-jumps-on-saturday-september-26-cryptocurrency-experts-predict-new-high/articleshow/134507089.cms",
-          "source": "The Times of India",
-          "published": "2026-09-26T15:44:13Z",
-          "image": "https://img.etimg.com/thumb/msid-134507138,width-1200,height-630,imgsize-111018,overlay-economictimes/articleshow.jpg"
         },
         {
           "title": "UK Banks Complete First Live Tokenized Sterling Deposit Payments",
@@ -212,22 +212,6 @@
           "image": "https://s.yimg.com/lo/mysterio/api/18160152d89a192cf0f536dcff68a6221d4b61e745be9fcd1f01061040325706/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbeincrypto_us_662%2F6546efcfee2dac680d8891c3ef542d09.jpg"
         },
         {
-          "title": "Why Is ONDO Price Surging? BlackRock Launch Sends Ondo Token Up 30%",
-          "description": "ONDO has emerged as one of the strongest performers in the real-world asset sector after a sharp price breakout. The ONDO price surged roughly 30%...\nThe post Why Is ONDO Price Surging? BlackRock Launch Sends Ondo Token Up 30% appeared first on Bitcoin Founda…",
-          "url": "https://bitcoinfoundation.org/news/altcoins/why-is-ondo-price-surging-blackrock-launch-sends-ondo-token-up-30/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-09-25T16:19:06Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/ONDO1.webp"
-        },
-        {
-          "title": "Crypto Biz: Wall Street and crypto fight for the same turf",
-          "description": "Binance invests $100 million in Circle as Canadian banks test tokenized deposits and NYSE works with Blockchain.com on tokenized U.S. stocks.",
-          "url": "https://cointelegraph.com/news/crypto-biz-crypto-tradfi-stablecoins-tokenized-assets",
-          "source": "Cointelegraph",
-          "published": "2026-09-25T15:49:34Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3CM3GXTXZWWRNTY7Y5MXRMC/hi-how-bitcoins-legal-victory-turned-it-into-wall-streets-favorite-crypto-1.jpg"
-        },
-        {
           "title": "The Clearing House Just Picked Its Vendor for Tokenized Deposits. That’s the Institutional Layer Stablecoins Haven’t Built.",
           "description": "The stablecoin industry has spent years promising a revolution in institutional settlement, yet the heavy lifting of global finance remains stubbornly tethered to legacy rails. While crypto-native projects chase liquidity in the wild, the real action is happe…",
           "url": "https://forkast.news/the-clearing-house-just-picked-its-vendor-for-tokenized-deposits-thats-the-institutional-layer-stablecoins-havent-built/",
@@ -250,6 +234,14 @@
           "source": "Bitcoinfoundation.org",
           "published": "2026-09-23T22:08:45Z",
           "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/image-1790201376.webp"
+        },
+        {
+          "title": "Oracle Expands Digital Assets Data Nexus to Help Banks Operationalize Digital Money",
+          "description": "New capabilities help banks extend ISO 20022 payment operations into digital money, provide prebuilt Oracle Banking Payments integration for intelligent orchestration, integrate with Swift Ledger, and support AI-assisted risk analysis and transaction oversigh…",
+          "url": "https://www.prnewswire.com/news-releases/oracle-expands-digital-assets-data-nexus-to-help-banks-operationalize-digital-money-302888209.html",
+          "source": "PRNewswire",
+          "published": "2026-09-23T20:21:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS605173/Oracle-Logo-Logo.jpg?id=OA2967941&p=facebook"
         }
       ]
     },
@@ -263,12 +255,28 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Economy, Europe and election - the big issues for Burnham",
-              "description": "Andy Burnham's aim is to fix an image in the minds of the British voters that will clearly define Labour in relation to its main challenger - Nigel Farage's Reform UK.",
-              "url": "https://www.rte.ie/news/2026/0927/1593024-labour-party-conference/",
-              "source": "RTE",
-              "published": "2026-09-27T06:01:01Z",
-              "image": "https://www.rte.ie/images/0024bb02-1600.jpg"
+              "title": "Evernorth’s XRP buying power could shrink if SPAC shareholders redeem this week",
+              "description": "Armada’s August trust balance and a conditional note show possible funding, but redemptions and spending choices will decide any new token purchases.\nThe post Evernorth’s XRP buying power could shrink if SPAC shareholders redeem this week appeared first on Cr…",
+              "url": "https://cryptoslate.com/evernorths-xrp-buying-power-could-shrink-if-spac-shareholders-redeem-this-week/",
+              "source": "CryptoSlate",
+              "published": "2026-09-28T10:30:17Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/09/evernorth-merger-cash.webp"
+            },
+            {
+              "title": "Scammers steal $2M in ETH as fake GIWA network fools DYORSWAP",
+              "description": "Scammers stole about $2 million in ETH through a fake GIWA network after DYORSWAP initially mistook the fraudulent blockchain for GIWA’s mainnet.",
+              "url": "https://cointelegraph.com/news/fake-giwa-blockchain-scam-drains-2m-eth",
+              "source": "Cointelegraph",
+              "published": "2026-09-28T09:19:50Z",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3KJTCBBBDP28G69E25NG96Q/fake-giwa.png"
+            },
+            {
+              "title": "Is Aleo Crypto Alive? ALEO Price Prediction After a 94% Surge: Is the Comeback Real",
+              "description": "ALEO price seems to have been rebounding overnight, having gained about 94% in 24 hours to about $0.034, with a market cap of $49 million....\nThe post Is Aleo Crypto Alive? ALEO Price Prediction After a 94% Surge: Is the Comeback Real appeared first on Bitcoi…",
+              "url": "https://bitcoinfoundation.org/news/altcoins/is-aleo-crypto-alive-aleo-price-prediction-after-a-94-surge-is-the-comeback-real/",
+              "source": "Bitcoinfoundation.org",
+              "published": "2026-09-24T09:14:49Z",
+              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/Is-Aleo-Crypto-Alive-ALEO-Price-Prediction-After-a-94-Surge-Is-the-Comeback-Real-2.webp"
             },
             {
               "title": "Liquid Network Security Incident Assessment",
@@ -285,6 +293,22 @@
           "icon": "☁️",
           "articles": [
             {
+              "title": "North Korea named as primary suspect in $387 million Bitget crypto hack",
+              "description": "Bitget says $387.5 million hack may be linked to North Korean state-backed actors, citing suspicious IP addresses tied to VPN infrastructure previously used by North Korean hacker groups.",
+              "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/north-korea-named-as-primary-suspect-in-usd387-million-bitget-crypto-hack-investigators-identify-ip-addresses-tied-to-vpn-infrastructure-previously-used-by-north-korean-hacker-groups-thieves-swapped-stablecoins-for-eth-in-minutes-to-dodge-freezes",
+              "source": "Tom's Hardware UK",
+              "published": "2026-09-28T12:00:00Z",
+              "image": "https://cdn.mos.cms.futurecdn.net/gNYoHeSzjeAtyMtP9zbet9-2560-80.jpg"
+            },
+            {
+              "title": "Bitcoin Quantum-Safe Transaction Cost Falls to $67, StarkWare Says",
+              "description": "The estimated computational cost to prepare a quantum-resistant Bitcoin transaction has fallen below $67, down from roughly $320 spent on the first such mainnet transaction in August, according to StarkWare. The company said the reduction followed a week of o…",
+              "url": "https://www.naturalnews.com/2026-09-28-bitcoin-quantum-safe-transaction-falls-starkware-says.html",
+              "source": "Naturalnews.com",
+              "published": "2026-09-28T06:00:00Z",
+              "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/quantum-safe-bitcoin-starkware-quantum-resistant-transaction-4517-original.jpg"
+            },
+            {
               "title": "IBM Connects Banks To Swift’s Blockchain Ledger For Tokenized Deposits",
               "description": "IBM Digital Asset Haven can now connect financial institutions to Swift’s blockchain-based shared ledger through a beta integration. Banks can instruct tokenized-deposit transactions using existing ISO 20022 payment messages. Swift’s ledger is already being t…",
               "url": "http://www.newsbtc.com/technology/ibm-connects-banks-to-swifts-blockchain-ledger-for-tokenized-deposits/",
@@ -293,12 +317,20 @@
               "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/newsbtc_04_sec-proposes-reg-nms-rule-changes-that-could-affec_5dcdb2.png?fit=1200%2C675"
             },
             {
-              "title": "IBM connects Digital Asset Haven to Swift blockchain ledger for tokenized deposit transactions",
-              "description": "IBM Digital Asset Haven clients can now connect to Swift's shared ledger and instruct tokenized deposit transactions.",
-              "url": "https://biztoc.com/x/100ed13118f23eae",
-              "source": "Biztoc.com",
-              "published": "2026-09-24T10:07:22Z",
-              "image": "https://biztoc.com/cdn/100ed13118f23eae_s.webp"
+              "title": "KuCoin Adds Apple, Robinhood, Strategy And SpaceX Tokenized Stocks",
+              "description": "TL;DR KuCoin has opened spot trading for tokenized representations of Apple, Robinhood, Strategy and SpaceX. The xStocks are issued on Solana and are designed to be collateralized 1:1 by the corresponding underlying assets held with a regulated custodian. Acc…",
+              "url": "https://bitcoinist.com/kucoin-adds-apple-robinhood-strategy-and-spacex-tokenized-stocks/",
+              "source": "Bitcoinist",
+              "published": "2026-09-25T09:30:00Z",
+              "image": "https://bitcoinist.com/wp-content/uploads/2026/06/bitcoinist_sec_tokenized_stocks_clean.jpg"
+            },
+            {
+              "title": "BlackRock: AI Agents Could Drive Crypto's Next Demand Wave",
+              "description": "The world's largest asset manager argues that autonomous AI agents buying data, paying for services, and renting computing power could quietly become one of the biggest forces pushing money into crypto.",
+              "url": "https://decrypt.co/379070/blackrock-ai-agents-crypto-next-demand-wave",
+              "source": "Decrypt",
+              "published": "2026-09-23T15:41:46Z",
+              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/BlackRock-Larry-Fink-decrypt-style-02-gID_7.png"
             },
             {
               "title": "Stripe Just Built the Full-Stack Agent Commerce Infrastructure in One Day",
