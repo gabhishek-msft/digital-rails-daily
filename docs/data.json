@@ -1,5 +1,5 @@
 {
-  "date": "October 02, 2026",
+  "date": "October 03, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -45,30 +45,6 @@
           "source": "Cointelegraph",
           "published": "2026-09-27T23:43:18Z",
           "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3JEK5KXMZ1A92DZ2YW9Y7A9/cover-collage-revised.png"
-        },
-        {
-          "title": "Morning Minute: BlackRock Leans Deeper Into Tokenization with Ondo",
-          "description": "The biggest financial institutions in the world are bringing more products onchain, and the pace is accelerating.",
-          "url": "https://decrypt.co/379292/morning-minute-blackrock-leans-deeper-into-tokenization-with-ondo",
-          "source": "Decrypt",
-          "published": "2026-09-25T13:04:06Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/10/larry-fink-blackrock-decrypt-style-03-gID_7.jpg"
-        },
-        {
-          "title": "Researchers Publish 'Zcash-Style' Design for Private Bitcoin Transfers",
-          "description": "The Shielded Bitcoin spec hides senders, receivers and amounts, but leaves how BTC enters and exits the system to a later paper.",
-          "url": "https://decrypt.co/379280/researchers-publish-zcash-style-design-for-private-bitcoin-transfers",
-          "source": "Decrypt",
-          "published": "2026-09-25T09:50:01Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg"
-        },
-        {
-          "title": "Bitcoin researchers target privacy coins with Zcash-style shielded transfers",
-          "description": "Bitcoin researchers have proposed a system for private transfers directly on the network without requiring a soft fork or changes to its consensus rules. The Sept. 24 paper from [[alloc] init] researchers Clara Shikhelman, Mikhail Komarov, and Aleksei Moskvin…",
-          "url": "https://cryptoslate.com/bitcoin-researchers-target-privacy-coins-with-zcash-style-shielded-transfers/",
-          "source": "CryptoSlate",
-          "published": "2026-09-25T02:10:32Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/09/shielded-bitcoin-standard-image-v3.jpg"
         }
       ]
     },
@@ -78,11 +54,19 @@
       "color": "#e6a200",
       "articles": [
         {
-          "title": "Lighter CEO points to fixed income as DeFi’s next big opportunity at Korea Blockchain Week 2026",
-          "description": "DeFi's expansion into fixed income could bridge traditional finance and blockchain, potentially reshaping global financial markets.\nThe post Lighter CEO points to fixed income as DeFi’s next big opportunity at Korea Blockchain Week 2026 appeared first on Cryp…",
-          "url": "https://cryptobriefing.com/lighter-ceo-fixed-income-defi-kbw2026/",
+          "title": "Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity",
+          "description": "Users deposit funds into an Ethereum vault and authorize spending with zero-knowledge proofs, so the API provider can't link requests to a payer.",
+          "url": "https://biztoc.com/x/47ffe1a1372683af",
+          "source": "Biztoc.com",
+          "published": "2026-10-02T00:34:17Z",
+          "image": "https://biztoc.com/cdn/47ffe1a1372683af_s.webp"
+        },
+        {
+          "title": "Ethereum Foundation and Open Anonymity launch zkAPI for private AI access",
+          "description": "zkAPI enhances privacy in AI interactions, potentially revolutionizing secure, anonymous access to digital services and protecting user identities.\nThe post Ethereum Foundation and Open Anonymity launch zkAPI for private AI access appeared first on Crypto Bri…",
+          "url": "https://cryptobriefing.com/ethereum-foundation-zkapi-private-ai-access/",
           "source": "Crypto Briefing",
-          "published": "2026-10-01T04:15:35Z",
+          "published": "2026-10-01T20:20:40Z",
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2020/12/02092245/link-bull-1024x538.jpg"
         },
         {
@@ -117,68 +101,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "DeFi Technologies Provides September Corporate Update: Valour Reports $640.2 Million in AUM, Up 61.2% from Q2 End",
-          "description": "AUM growth: Valour reported $640.2 million in assets under management as of September 25, 2026, up approximately $243 million, or 61.2%, from $397.2 million at June 30, 2026. Continued investor demand: Valour continues to see net inflows month over month. Hig…",
-          "url": "https://www.prnewswire.com/news-releases/defi-technologies-provides-september-corporate-update-valour-reports-640-2-million-in-aum-up-61-2-from-q2-end-302895454.html",
-          "source": "PRNewswire",
-          "published": "2026-10-01T11:30:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS1596609/DeFi-Technologies-Inc-DeFi-Technologies-Provides-September-Corp.jpg?id=OA2981988&p=facebook"
+          "title": "CONNECT recap: Arthur Hayes on money printing, Wall Street moves onchain",
+          "description": "At CONNECT Seoul, Arthur Hayes discussed money printing as speakers examined Wall Street’s onchain expansion, stablecoin yield and crypto treasury risks.",
+          "url": "https://cointelegraph.com/news/connect-recap-arthur-hayes-money-printing-wall-street-onchain",
+          "source": "Cointelegraph",
+          "published": "2026-10-02T10:29:35Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XMMJ91ZBREX0A7R5A5AHXT/connect-text-on-seoul-1.png"
         },
         {
-          "title": "Synthetic tokenized stocks are bad for American investors",
-          "description": "U.S. markets are the envy of the world because investors trust that whoever owns a share owns it fully, writes Aaron Kaplan, founder of Promethum. The synthetic models cheapens that trust, shortchanges U.S. investors, and undercuts the issuer-led capital mark…",
-          "url": "https://www.coindesk.com/opinion/2026/10/01/synthetic-tokenized-stocks-are-bad-for-american-investors",
-          "source": "CoinDesk",
-          "published": "2026-10-01T11:00:00Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/a4c0d4fa0c8a1705ed3379cd5ac19747d3eba29c-6000x4000.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75"
-        },
-        {
-          "title": "Ripple quietly made Brazil the center of its XRPL tokenization push",
-          "description": "A Sept. 29 fund-share record project adds another layer to Ripple's Brazilian footprint, while CSD BR keeps the official securities register.\nThe post Ripple quietly made Brazil the center of its XRPL tokenization push appeared first on CryptoSlate.",
-          "url": "https://cryptoslate.com/ripple-quietly-made-brazil-the-center-of-its-xrpl-tokenization-push/",
+          "title": "Bitcoin’s $113,000 case strengthens as US regulators push 9 crypto actions",
+          "description": "The US Securities and Exchange Commission (SEC) proposed a custody framework on Oct. 1 that would let investment advisers and regulated funds hold crypto under rules written for it. It is the latest of nine agency actions since Aug. 18 that span most of an as…",
+          "url": "https://cryptoslate.com/bitcoins-113000-case-strengthens-as-us-regulators-push-9-crypto-actions/",
           "source": "CryptoSlate",
-          "published": "2026-10-01T10:00:38Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/10/ripple-csd-financial-gateway.webp"
+          "published": "2026-10-02T08:50:28Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-sec-cftc-bridge.webp"
         },
         {
-          "title": "A SWIFT-Ripple Alliance? Why A Single Rumor Just Sent The XRP Community Into A Frenzy",
-          "description": "Speculation of a potential alliance between Ripple and SWIFT, the global interbank messaging network, has exploded across social media.",
-          "url": "https://zycrypto.com/a-swift-ripple-alliance-why-a-single-rumor-just-sent-the-xrp-community-into-a-frenzy/",
-          "source": "ZyCrypto",
-          "published": "2026-10-01T09:21:35Z",
-          "image": "https://zycrypto.com/wp-content/uploads/2026/03/Ripples-XRP-Whales-Eye-1.7-Trillion-Payments-Industry-as-New-SWIFT-Narrative-Gains-Momentum.jpg"
+          "title": "Fiserv Puts Solana Under A Live Bank Stablecoin As Roughrider Coin Goes Into Production",
+          "description": "TL;DR Fiserv’s digital-asset platform is live, with Bank of North Dakota’s Roughrider Coin as its first production use case. Roughrider Coin transactions are processed on Solana, while VersaBank serves as issuer and Fireblocks supplies tokenization and securi…",
+          "url": "https://bitcoinist.com/fiserv-roughrider-coin-solana-bank-settlement/",
+          "source": "Bitcoinist",
+          "published": "2026-10-02T08:42:01Z",
+          "image": "https://bitcoinist.com/wp-content/uploads/2026/09/photo_2026-09-24_12-45-40.jpg"
         },
         {
-          "title": "Chainlink Backs New OUSD Stablecoin as $1 Billion Liquidity Push Goes Live Across Four Blockchains",
-          "description": "Open Standard has introduced Open USD, a new stablecoin with over $1 billion in committed short-term reserves and Chainlink as an official oracle partner. Open USD is...\nThe post Chainlink Backs New OUSD Stablecoin as $1 Billion Liquidity Push Goes Live Acros…",
-          "url": "https://bitcoinfoundation.org/news/stablecoins/chainlink-backs-new-ousd-stablecoin/",
+          "title": "Polymath And CineCity Explore Regulated Tokenized Film Investment Platform",
+          "description": "TL;DR Polymath and Chicago-based CineCity Studios are exploring a platform for financing independent film through regulated digital securities. Polymath would provide issuance, investor onboarding, compliance and lifecycle infrastructure, while CineCity contr…",
+          "url": "http://www.newsbtc.com/business/polymath-cinecity-tokenized-film-investment/",
+          "source": "newsBTC",
+          "published": "2026-10-02T08:41:46Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2026/09/28775d04fcef46408d28542fb74a3c97.png?fit=1600%2C900"
+        },
+        {
+          "title": "Fiserv Puts Stablecoin Banking Platform Live With North Dakota Roughrider Coin",
+          "description": "TL;DR Fiserv says its digital-asset platform is now live with financial-institution clients. Bank of North Dakota’s dollar-backed Roughrider Coin is the first live use case, with VersaBank as issuer, Fireblocks providing digital-asset infrastructure and Solan…",
+          "url": "http://www.newsbtc.com/business/fiserv-roughrider-coin-stablecoin-bank-platform/",
+          "source": "newsBTC",
+          "published": "2026-10-02T08:41:39Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2026/09/prime1.jpg?fit=512%2C288"
+        },
+        {
+          "title": "Circle Pushes MiCA Overhaul as Just 3 of Top 30 Stablecoins Meet EU Rules",
+          "description": "Circle is urging European officials to amend several aspects of the Markets in Crypto-Assets Regulation for stablecoins. An Oct. 1 comment letter from Circle to the European...\nThe post Circle Pushes MiCA Overhaul as Just 3 of Top 30 Stablecoins Meet EU Rules…",
+          "url": "https://bitcoinfoundation.org/news/stablecoins/circle-pushes-mica-overhaul-as-just-3-of-top-30-stablecoins-meet-eu-rules/",
           "source": "Bitcoinfoundation.org",
-          "published": "2026-10-01T08:14:26Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/Chainlink-Backs-New-OUSD-Stablecoin-as-1-Billion-Liquidity-Push-Goes-Live-Across-Four-Blockchains-2.webp"
+          "published": "2026-10-02T07:44:44Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/Circle-Pushes-MiCA-Overhaul-as-Just-3-of-Top-30-Stablecoins-Meet-EU-Rules-2.webp"
         },
         {
-          "title": "Treasury’s First GENIUS Act Rule Draws a $10 Billion Line Through the Stablecoin Market",
-          "description": "The Treasury Department has finally broken the regulatory silence surrounding the GENIUS Act. On September 30, 2026, the agency published an interim final rule (Federal Register 2026-19966), marking the first instance of binding, effective-upon-publication re…",
-          "url": "https://forkast.news/treasurys-first-genius-act-rule-draws-a-10-billion-line-through-the-stablecoin-market/",
-          "source": "Forkast.news",
-          "published": "2026-10-01T07:38:33Z",
-          "image": "https://forkast.news/wp-content/uploads/2026/10/treasury-genius-act-first-rule-1024x572.jpg"
+          "title": "CLARITY Act Could Unlock 11 Crypto Activities for US Banks Under Senate Plan",
+          "description": "The Congressional Research Service reports on opportunities that would be created for US lenders under the CLARITY Act as reported by the Senate and passed...\nThe post CLARITY Act Could Unlock 11 Crypto Activities for US Banks Under Senate Plan appeared first…",
+          "url": "https://bitcoinfoundation.org/news/regulation/clarity-act-could-unlock-11-crypto-activities-for-us-banks-under-senate-plan/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-10-02T07:30:10Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/CLARITY-Act-Could-Unlock-11-Crypto-Activities-for-US-Banks-Under-Senate-Plan-2.webp"
         },
         {
-          "title": "ZeroDev Secures $6.7 Million Funding To Scale ERC-4337 Smart Accounts",
-          "description": "In a major development confirmed on SEPTEMBER 30, 2026, Confirmed announcement/filing for ZeroDev Secures $6.7 Million Funding To Scale ERC-4337 Smart Accounts. This operational move highlights expanding activity across the digital asset ecosystem and undersc…",
-          "url": "https://bitcoinist.com/zerodev-secures-6-7-million-funding-to-scale-erc-4337-smart-accounts/",
-          "source": "Bitcoinist",
-          "published": "2026-10-01T07:30:00Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/09/b424d8fa68ea4a5eb52d5f60ad108492.png.jpeg"
-        },
-        {
-          "title": "Euler Finance V2 Deploys Multi-Collateral Vault Engine On Ethereum Mainnet",
-          "description": "In a major development confirmed on SEPTEMBER 30, 2026, Confirmed announcement/filing for Euler Finance V2 Deploys Multi-Collateral Vault Engine On Ethereum Mainnet. This operational move highlights expanding activity across the digital asset ecosystem and un…",
-          "url": "https://bitcoinist.com/euler-finance-v2-deploys-multi-collateral-vault-engine-on-ethereum-mai/",
-          "source": "Bitcoinist",
-          "published": "2026-10-01T06:30:00Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/09/b424d8fa68ea4a5eb52d5f60ad108492.png.jpeg"
+          "title": "Solana enters US banking with 90 North Dakota banks leading it",
+          "description": "Roughrider enters production with VersaBank USA issuance and institutional access, while actual payment volume remains undisclosed.\nThe post Solana enters US banking with 90 North Dakota banks leading it appeared first on CryptoSlate.",
+          "url": "https://cryptoslate.com/solana-enters-us-banking-with-90-north-dakota-banks-lead-it/",
+          "source": "CryptoSlate",
+          "published": "2026-10-02T07:20:39Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/10/north-dakota-token-route-standard.jpg"
         }
       ]
     },
@@ -188,36 +172,28 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "How Mastercard, Stripe, Visa and Coinbase’s New Stablecoin Is Changing the Industry’s Economics",
-          "description": "The first stablecoin race was straightforward. Accumulate supply. Customers exchanged dollars for tokens, the issuer invested the corresponding reserves primarily in highly liquid assets, and the interest generated on those reserves became revenue. Scale the …",
-          "url": "https://www.pymnts.com/cryptocurrency/2026/how-mastercard-stripe-visa-and-coinbases-new-stablecoin-is-changing-the-industrys-economics/",
-          "source": "pymnts.com",
-          "published": "2026-09-30T20:23:54Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2025/10/stablecoins-dollars.jpg"
-        },
-        {
-          "title": "Brazil’s Petrobras uses Cardano to track sustainable aviation fuel, renewable diesel",
-          "description": "Petrobras developed two Cardano-based applications to track sustainability claims tied to aviation fuel and renewable diesel as part of an ongoing research collaboration.",
-          "url": "https://cointelegraph.com/news/brazils-petrobras-uses-cardano-to-track-sustainable-aviation-fuel-renewable-diesel",
+          "title": "Aave founder says V3 unaffected after third-party adapter exploit drains $305K",
+          "description": "Aave founder Stani Kulechov said Aave v3 was unaffected after an attacker exploited a third-party adapter to drain about $305,000 from two Safe multisig wallets.",
+          "url": "https://cointelegraph.com/news/aave-v3-third-party-adapter-exploit-305k",
           "source": "Cointelegraph",
-          "published": "2026-09-30T17:17:54Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3SH29GTGYTM0QGMBX47A000/oil-bitcoin-coin-ant-blockchain-sky-platform-production-gas.png"
+          "published": "2026-10-02T09:30:49Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3XYM1RT4V2Q0J03C0V6CV76/305k.png"
         },
         {
-          "title": "Cloudflare just announced a tool that lets businesses charge AI agents in stablecoins",
-          "description": "Using USDC, the feature works as a pay-as-you-go system for AI agents browsing the web.",
-          "url": "https://fortune.com/2026/09/30/cloudflare-tool-businesses-ai-agents-stablecoins/",
-          "source": "Fortune",
-          "published": "2026-09-30T17:06:32Z",
-          "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2247697590-e1790787482161.jpg?resize=1200,600"
+          "title": "OpenWorld Begins Nasdaq Trading As VerifyMe Deal Creates Public Tokenization Company",
+          "description": "TL;DR OpenWorld and VerifyMe have completed their business combination, with the combined company trading on Nasdaq under OPNW from October 1. Management says the company will focus on institutional-grade tokenization of real-world assets. OpenWorld also inte…",
+          "url": "http://www.newsbtc.com/business/openworld-verifyme-opnw-tokenization-nasdaq/",
+          "source": "newsBTC",
+          "published": "2026-10-02T08:41:31Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2026/09/728X546-News-BTC-14.png?fit=2184%2C1638"
         },
         {
-          "title": "What Is POLYX Crypto? How Polymesh Is Powering the RWA Tokenization Boom",
-          "description": "POLYX is the native utility token of Polymesh, a public permissioned Layer 1 blockchain designed for regulated and traditional assets. What Is POLYX Crypto? Unlike...\nThe post What Is POLYX Crypto? How Polymesh Is Powering the RWA Tokenization Boom appeared f…",
-          "url": "https://bitcoinfoundation.org/news/trading/what-is-polyx-crypto-how-polymesh-is-powering-the-rwa-tokenization-boom/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-09-30T13:28:05Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/What-Is-POLYX-Crypto-How-Polymesh-Is-Powering-the-RWA-Tokenization-Boom-2.webp"
+          "title": "21X Group Announces Collaboration with Circle as it joins Arc as a Day-1 Launch Partner",
+          "description": "Frankfurt, New York, 1st October 2026, Chainwire\nThe post 21X Group Announces Collaboration with Circle as it joins Arc as a Day-1 Launch Partner appeared first on The Daily Hodl.",
+          "url": "https://dailyhodl.com/2026/10/01/21x-group-announces-collaboration-with-circle-as-it-joins-arc-as-a-day-1-launch-partner/",
+          "source": "The Daily Hodl",
+          "published": "2026-10-01T15:11:21Z",
+          "image": "https://dailyhodl.com/wp-content/uploads/2026/10/Circle_Arc_PR_image_1790849880wERM9n8WKX_1790864741mbXmk6pktm.jpg?resize=1200,720"
         },
         {
           "title": "Bloomberg Launches Stablecoin Dashboard on the Terminal Powered by Data from Allium",
@@ -226,22 +202,6 @@
           "source": "PRNewswire",
           "published": "2026-09-30T12:30:00Z",
           "image": "https://mmx.prnewswire.com/media/MS339228/Bloomberg-Logo.jpg?id=OA2978044&p=facebook"
-        },
-        {
-          "title": "Global Clinical Trials Market to Reach USD 99.4 Bn. by 2034 at 6.13% CAGR as Personalized Medicine, Decentralized Trials, AI Integration, and Rising Biopharmaceutical R&D Accelerate Market Growth, Reports Maximize Market Research",
-          "description": "PUNE, India, Sept. 25, 2026 /PRNewswire/ -- The Global Clinical Trials Market was valued at USD 58.19 Billion in 2025 and is projected to grow at a 6.13% CAGR from 2026 to 2034, reaching USD 99.4 Billion by 2034, according to Maximize Market Research. Global …",
-          "url": "https://www.prnewswire.co.uk/news-releases/global-clinical-trials-market-to-reach-usd-99-4-bn-by-2034-at-6-13-cagr-as-personalized-medicine-decentralized-trials-ai-integration-and-rising-biopharmaceutical-rd-accelerate-market-growth-reports-maximize-market-research-302890215.html",
-          "source": "PR Newswire UK",
-          "published": "2026-09-25T21:45:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS1996458/Clinical-Trials-Market.jpg?id=OA2971111&p=facebook"
-        },
-        {
-          "title": "The Clearing House Just Picked Its Vendor for Tokenized Deposits. That’s the Institutional Layer Stablecoins Haven’t Built.",
-          "description": "The stablecoin industry has spent years promising a revolution in institutional settlement, yet the heavy lifting of global finance remains stubbornly tethered to legacy rails. While crypto-native projects chase liquidity in the wild, the real action is happe…",
-          "url": "https://forkast.news/the-clearing-house-just-picked-its-vendor-for-tokenized-deposits-thats-the-institutional-layer-stablecoins-havent-built/",
-          "source": "Forkast.news",
-          "published": "2026-09-25T09:01:22Z",
-          "image": "https://forkast.news/wp-content/uploads/2026/09/clearing-house-quant-tokenized-deposits-convergence-hero-1024x687.jpg"
         }
       ]
     },
@@ -254,6 +214,22 @@
           "title": "Startups",
           "icon": "💡",
           "articles": [
+            {
+              "title": "Optimism op-supernode v1.0.3 Adds Stricter Hardfork Configuration Checks",
+              "description": "TL;DR Optimism has released op-supernode v1.0.3 as an optional operator update. The release tightens validation around hardfork activation times and rejects invalid post-genesis fork ordering in custom rollup configs. Existing chains in the Superchain registr…",
+              "url": "https://bitcoinist.com/optimism-op-supernode-v1-0-3-hardfork-config/",
+              "source": "Bitcoinist",
+              "published": "2026-10-02T08:41:58Z",
+              "image": "https://bitcoinist.com/wp-content/uploads/2026/09/28775d04fcef46408d28542fb74a3c97.png"
+            },
+            {
+              "title": "Morning Minute: Robinhood Adds Perps, Weekend Stocks, and AI Traders",
+              "description": "Robinhood is leaning deeper into crypto as they look to unlock their “everything app” vision.",
+              "url": "https://decrypt.co/379645/morning-minute-robinhood-adds-perps-weekend-stocks-and-ai-traders",
+              "source": "Decrypt",
+              "published": "2026-09-30T11:54:22Z",
+              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/robinhood-decrypt-style-01-gID_7.png"
+            },
             {
               "title": "Ethereum Gets Another Privacy Boost as Aztec Brings Back zk.money",
               "description": "Aztec Labs relaunched its self-custodial zk.money wallet on Aztec Network, letting users make private stablecoin payments using readable tags.",
@@ -277,6 +253,22 @@
           "icon": "☁️",
           "articles": [
             {
+              "title": "Microsoft’s X account hacked in crypto pump-and-dump scheme",
+              "description": "On Thursday, unknown attackers hijacked the official Microsoft account on X, which has over 13 million followers, in what appeared to be a pump-and-dump scheme promoting a crypto token. [...]",
+              "url": "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/",
+              "source": "BleepingComputer",
+              "published": "2026-10-02T09:29:56Z",
+              "image": "https://www.bleepstatic.com/content/hl-images/2026/10/02/Microsoft-X.jpg"
+            },
+            {
+              "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories",
+              "description": "This week, the useful words are boring ones: inspect, cache, compile, store, trust. Each sounds harmless. Each can become an attack path when a system does a little more than people expect. A model check can run code. A cache can mix up requests. A public sec…",
+              "url": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
+              "source": "Internet",
+              "published": "2026-10-01T16:45:38Z",
+              "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOZPv0LS8-qPBgL_d1m8BLNikw8psPt9qtB_HiFNoYnVwBacYvwz4DdEixukdlHcy7IXmUB9dI9E_Hcx48HJIL7sQzmDeextP-Y_tHO9SX51i_SditMkVsRgWxyMekufW3yZFn2jI9nf29y3JEM2a_yFv8iTLDb6d3r1roNsea_Yk5TWCiMcvkmE5ZbP6B/s1700-nu-rw-lo-l85-e365/oct-threatsday.jpg"
+            },
+            {
               "title": "The Bitget Breach: When Security Layers Become Attack Surfaces",
               "description": "The $387.5 million theft from the Bitget cryptocurrency exchange on September 25, 2026, exposes a critical failure in modern cybersecurity: the transformation of defensive infrastructure into a primary vector for state-sponsored infiltration. Investigations b…",
               "url": "https://forkast.news/the-bitget-breach-when-security-layers-become-attack-surfaces/",
@@ -285,36 +277,12 @@
               "image": "https://forkast.news/wp-content/uploads/2026/10/bitget-387m-zero-day-theft-1024x572.jpg"
             },
             {
-              "title": "Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft",
-              "description": "Cryptocurrency exchange Bitget on Wednesday confirmed that attackers who stole $387.5 million last week exploited a zero-day flaw in third-party security products, citing ongoing investigation findings from SlowMist.\n\n\"Their investigation identified malicious…",
-              "url": "https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html",
-              "source": "Internet",
-              "published": "2026-10-01T05:21:10Z",
-              "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzu32AOghfPrV4ViB5puy-1o8shfq77FdmxU5eS9i4x8SCLNzm6xQYn56KGKivAGFoIwa3yYWat5vZMQsdOqPp0ZoEcVst6fs3llaB88jz1IcH6ctmEUEoXcCQOWJs599jVZDnNlHYYww22fnm6KnorG7q16rSGcx3P_Isku8NOODjdV4A5Dee4HiPnmu7/s1700-nu-rw-lo-l85-e365/crypto-theft.jpg"
-            },
-            {
-              "title": "Best Altcoins to Buy in October 2026 Before the Next Crypto Rally",
-              "description": "October could become an important month for crypto after Bitcoin’s strong third-quarter recovery. Investors are watching whether capital starts rotating into altcoins. Ethereum, Solana, XRP,...\nThe post Best Altcoins to Buy in October 2026 Before the Next Cry…",
-              "url": "https://bitcoinfoundation.org/news/analysis/best-altcoins-to-buy-in-october-2026-before-the-next-crypto-rally/",
+              "title": "Chainlink Backs New OUSD Stablecoin as $1 Billion Liquidity Push Goes Live Across Four Blockchains",
+              "description": "Open Standard has introduced Open USD, a new stablecoin with over $1 billion in committed short-term reserves and Chainlink as an official oracle partner. Open USD is...\nThe post Chainlink Backs New OUSD Stablecoin as $1 Billion Liquidity Push Goes Live Acros…",
+              "url": "https://bitcoinfoundation.org/news/stablecoins/chainlink-backs-new-ousd-stablecoin/",
               "source": "Bitcoinfoundation.org",
-              "published": "2026-09-30T17:42:14Z",
-              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/Alt1.webp"
-            },
-            {
-              "title": "Cosmos Builds Bank Connectivity Into Swift’s Blockchain Ledger",
-              "description": "Cosmos Labs has announced connectivity between its Tokenization Suite and Swift’s blockchain-based shared ledger. Banks can use Cosmos infrastructure to run tokenized-deposit ledgers and connect them with Swift and other networks. The system is designed to wo…",
-              "url": "https://bitcoinist.com/cosmos-builds-bank-connectivity-into-swift-s-blockchain-ledger/",
-              "source": "Bitcoinist",
-              "published": "2026-09-30T02:30:00Z",
-              "image": "https://bitcoinist.com/wp-content/uploads/2026/06/TOTAL_2026-06-03_10-49-52.png"
-            },
-            {
-              "title": "Oracle Connects Bank Payment Systems To Swift’s Blockchain Ledger",
-              "description": "Oracle is integrating its banking and blockchain infrastructure with Swift’s shared ledger for tokenized deposits. Banks can connect their own tokenized-deposit systems to cross-bank payment flows while retaining control of the underlying assets. Oracle Banki…",
-              "url": "http://www.newsbtc.com/technology/oracle-connects-bank-payment-systems-to-swift-s-blockchain-ledger/",
-              "source": "newsBTC",
-              "published": "2026-09-29T14:30:00Z",
-              "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/newsbtc_07_bitcoin-vaults-face-quantum-address-reuse-warning-in-coinbase-linked-report_featured.png?fit=1200%2C675"
+              "published": "2026-10-01T08:14:26Z",
+              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/Chainlink-Backs-New-OUSD-Stablecoin-as-1-Billion-Liquidity-Push-Goes-Live-Across-Four-Blockchains-2.webp"
             },
             {
               "title": "Chainlink surges 6% after CCIP 2.0 launch, but $15 resistance tests LINK rally",
