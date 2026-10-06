@@ -1,11 +1,19 @@
 {
-  "date": "October 05, 2026",
+  "date": "October 06, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest",
+          "description": "Jay Clayton prosecuted Roman Storm and XRP — now he’s President Trump’s new AI Czar. Peter Brandt says the Bitcoin bull market has “very good chance of reaching half a million.”",
+          "url": "https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest",
+          "source": "Cointelegraph",
+          "published": "2026-10-04T22:31:12Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M44CDHE2CKEJ0000STF6RMVM/october-2-collage-cover.png"
+        },
         {
           "title": "Hester Peirce argues financial privacy should be the default, not the exception",
           "description": "Peirce's departure may weaken financial privacy advocacy at the SEC, potentially impacting regulatory approaches to digital assets.\nThe post Hester Peirce argues financial privacy should be the default, not the exception appeared first on Crypto Briefing.",
@@ -84,14 +92,6 @@
           "source": "Decrypt",
           "published": "2026-09-30T21:46:03Z",
           "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/dogecoin-decrypt-style-02-gID_7.png"
-        },
-        {
-          "title": "Cardano Creator Charles Hoskinson Makes a Bold Midnight Prediction, Says It Will Be Bigger Than Zcash",
-          "description": "A major privacy blockchain shake-up could be brewing, and Input Output Global (IOG) founder Charles Hoskinson thinks Midnight could be at the center.",
-          "url": "https://zycrypto.com/cardano-creator-charles-hoskinson-makes-a-bold-midnight-prediction-says-it-will-be-bigger-than-zcash/",
-          "source": "ZyCrypto",
-          "published": "2026-09-28T20:22:59Z",
-          "image": "https://zycrypto.com/wp-content/uploads/2026/05/Whales-Take-the-Drivers-Seat-Controlling-67-of-Cardano-as-ADAs-Academic-Model-Gains-Praise.jpg"
         }
       ]
     },
@@ -101,68 +101,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "The Clarity Act stalled. Bankers aren’t hitting the brakes yet on crypto dealmaking",
-          "description": "Crypto M&A has hit record levels, but the Clarity Act’s Senate setback leaves dealmakers weighing how much regulatory uncertainty still matters.",
-          "url": "https://www.coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet",
-          "source": "CoinDesk",
-          "published": "2026-10-04T13:00:00Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/66abae4ea7817e1052c710afba1f9fa54651f319-5434x3622.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75"
+          "title": "Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 6.02 Million Tokens, and Total Crypto and Total Cash & Marketable Securities Holdings of $17.4 Billion",
+          "description": "Bitmine owns 4.9% of the total ETH coin supply of 122.1 million Bitmine is 99% of the way to the 'Alchemy of 5%' in just 15 months Tom Lee to deliver the keynote at Token2049 on October 7, 2026 in Singapore Bitmine was added to the Russell 1000 Large-cap inde…",
+          "url": "https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-6-02-million-tokens-and-total-crypto-and-total-cash--marketable-securities-holdings-of-17-4-billion-302897949.html",
+          "source": "PRNewswire",
+          "published": "2026-10-05T12:30:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS2002103/BMNR-Weekly-Update-English-15.jpg?id=OA2986222&p=facebook"
         },
         {
-          "title": "Binance will hold some Brazil crypto deposits until users explain where the money came from",
-          "description": "From Nov. 1, affected international deposits will remain pending until customers provide required transfer details.\nThe post Binance will hold some Brazil crypto deposits until users explain where the money came from appeared first on CryptoSlate.",
-          "url": "https://cryptoslate.com/binance-will-hold-some-brazil-crypto-deposits-until-users-explain-where-the-money-came-from/",
+          "title": "Circle can delay European USDC redemptions if reserves cannot cross borders",
+          "description": "Circle’s current terms allow temporary issuer redemption delays during failed reserve rebalancing as it defends cross-border co-issuance under MiCA.\nThe post Circle can delay European USDC redemptions if reserves cannot cross borders appeared first on CryptoS…",
+          "url": "https://cryptoslate.com/circle-can-delay-european-usdc-redemptions-if-reserves-cannot-cross-borders/",
           "source": "CryptoSlate",
-          "published": "2026-10-04T12:20:34Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/10/binance-brazil-compliance-vault.webp"
+          "published": "2026-10-05T12:10:14Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/10/usdc-broken-bridge.webp"
         },
         {
-          "title": "The Settlement Layer Is Going On-Chain",
-          "description": "The Depository Trust & Clearing Corporation (DTCC) custodies $114 trillion in securities and, in 2025 alone, processed $4.7 quadrillion in transactions. When an entity of this systemic weight pivots, the market follows. On May 4, 2026, the firm announced the …",
-          "url": "https://forkast.news/the-settlement-layer-is-going-on-chain/",
-          "source": "Forkast.news",
-          "published": "2026-10-04T05:59:36Z",
-          "image": "https://forkast.news/wp-content/uploads/2026/10/settlement-layer-on-chain-2026-1024x572.jpg"
+          "title": "Morning Minute: Uptober Off to a Green Start",
+          "description": "Crypto majors and alts are rallying to start October. What’s driving the early action and will it continue?",
+          "url": "https://decrypt.co/380050/morning-minute-uptober-off-to-a-green-start",
+          "source": "Decrypt",
+          "published": "2026-10-05T11:39:08Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/Bitcoin-decrypt-style-23-gID_7.jpg"
         },
         {
-          "title": "Bankers sue to overturn OCC trust-bank rule used by crypto firms",
-          "description": "The Independent Community Bankers of America sued the OCC in federal court in Washington on Oct. 2, two weeks after the agency approved Agora National Trust Bank, Catena Trust Bank and Bastion Platforms. American Banker reported that the complaint asked the c…",
-          "url": "https://cryptoslate.com/bankers-sue-to-overturn-occ-trust-bank-rule-used-by-crypto-firms/",
-          "source": "CryptoSlate",
-          "published": "2026-10-03T20:00:08Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/10/occ-trust-bank-gateway.webp"
-        },
-        {
-          "title": "Elliptic Sets the Engineering Bar for On-Chain Risk With \"Built for Compliance\" Paper as New Rules Take Hold and Banks Launch a Joint Stablecoin",
-          "description": "Elliptic Sets the Engineering Bar for On-Chain Risk With \"Built for Compliance\" Paper as New Rules Take Hold and Banks Launch a Joint Stablecoinmediabulletins.com",
-          "url": "https://mediabulletins.com/business/elliptic-sets-the-engineering-bar-for-on-chain-risk-with-built-for-compliance-paper-as-new-rules-take-hold-and-banks-launch-a-joint-stablecoin/",
-          "source": "Mediabulletins.com",
-          "published": "2026-10-03T14:02:59Z",
-          "image": "https://mediabulletins.com/wp-content/uploads/2026/06/media-bulletins.png"
-        },
-        {
-          "title": "Crypto's Sisyphean struggle",
-          "description": "Progress will effectively reset when the new Congress is sworn in, because key senators who quarterbacked the bill will not be on the ballot again, writes the Cato Institute's Ryan Chan-Wei.",
-          "url": "https://www.coindesk.com/opinion/2026/10/03/crypto-s-sisyphean-struggle",
-          "source": "CoinDesk",
-          "published": "2026-10-03T13:00:00Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/9c67f41829d4e98f8dbf16e4e85e83dc931e2d2b-4162x4724.jpg?auto=format&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.2407&w=1920&h=1080&q=75"
-        },
-        {
-          "title": "What Is The Crypto Keeper? A Full Guide to the Crypto Keeper Wallet",
-          "description": "Crypto Keeper wallet is a self-custodial wallet, formerly known as Tonkeeper. It has been adapted from the TON network to support additional blockchain networks, with...\nThe post What Is The Crypto Keeper? A Full Guide to the Crypto Keeper Wallet appeared fir…",
-          "url": "https://bitcoinfoundation.org/news/blockchain-news/what-is-the-crypto-keeper-a-full-guide-to-the-crypto-keeper-wallet/",
+          "title": "BitGo CEO Mike Belshe Warns US Crypto Is at Risk After CLARITY Act Failure",
+          "description": "Belshe warns that market structure risk looms over the US cryptocurrency market, as crypto companies offer exchanges, brokerage, and custody services in a single platform,...\nThe post BitGo CEO Mike Belshe Warns US Crypto Is at Risk After CLARITY Act Failure …",
+          "url": "https://bitcoinfoundation.org/news/analysis/bitgo-ceo-mike-belshe-warns-us-crypto-is-at-risk-after-clarity-act-failure/",
           "source": "Bitcoinfoundation.org",
-          "published": "2026-10-03T08:33:48Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/What-Is-The-Crypto-Keeper-A-Full-Guide-to-the-Crypto-Keeper-Wallet-2.webp"
+          "published": "2026-10-05T10:18:28Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/Act3.webp"
         },
         {
-          "title": "$4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report",
-          "description": "The reported cuts come as Anchorage expands its institutional footprint, including stablecoin issuance and a $100 million investment from Tether.",
-          "url": "https://cointelegraph.com/news/anchorage-digital-cuts-workforce-report",
+          "title": "Kraken operator Payward and Singapore Gulf Bank platform for 24/7 institutional crypto settlement",
+          "description": "The two firms will initially roll out the digital assets settlement service to select institutional clients in Asia and the Gulf region with around-the-clock U.S. dollar settlement.",
+          "url": "https://www.coindesk.com/business/2026/10/05/kraken-operator-payward-and-singapore-gulf-bank-platform-for-24-7-institutional-crypto-settlement",
+          "source": "CoinDesk",
+          "published": "2026-10-05T09:26:24Z",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/60eaa4392d735a85d254d5ac89ec08baf0b7a62e-2048x1152.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75"
+        },
+        {
+          "title": "Circle and Tether find common ground against MiCA’s bank reserve rules",
+          "description": "Its longer-term proposal would require Commission equivalence and EBA issuer recognition before distribution through a locally licensed institution.\nThe post Circle and Tether find common ground against MiCA’s bank reserve rules appeared first on CryptoSlate.",
+          "url": "https://cryptoslate.com/circle-and-tether-find-common-ground-against-micas-bank-reserve-rules/",
+          "source": "CryptoSlate",
+          "published": "2026-10-05T09:10:23Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/10/usdc-locked-reserve.webp"
+        },
+        {
+          "title": "Kraken parent adds 24/7 dollar settlement with Singapore Gulf Bank",
+          "description": "The partnership will enable select institutions in Asia and the Gulf region to instantly settle US dollar transactions through the bank’s SGB Net",
+          "url": "https://cointelegraph.com/news/payward-partners-singapore-gulf-bank-settlement",
           "source": "Cointelegraph",
-          "published": "2026-10-02T18:41:17Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3YXTXPJFKWR2XDKAZGD2DR2/layoffs-fired-human-resource-hr-leaving-quit-1.jpg"
+          "published": "2026-10-05T08:56:10Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M45KJV5VBE5TPQ68MSVPPNMG/hi-how-us-banks-are-quietly-preparing-for-an-onchain-future.jpg"
+        },
+        {
+          "title": "Trump Adviser Calls for Powell Exit as Bitcoin Watches Fed’s Next Move",
+          "description": "President Donald Trump’s top economic adviser, Kevin Hassett, is urging former Federal Reserve Chair Jerome Powell to resign from the Fed’s Board of Governors. This...\nThe post Trump Adviser Calls for Powell Exit as Bitcoin Watches Fed’s Next Move appeared fi…",
+          "url": "https://bitcoinfoundation.org/news/regulation/trump-adviser-calls-for-powell-exit-as-bitcoin-watches-feds-next-move/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-10-05T08:13:37Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/Trump-Adviser-Calls-for-Powell-Exit-as-Bitcoin-Watches-Feds-Next-Move-2.webp"
         }
       ]
     },
@@ -171,14 +171,6 @@
       "icon": "🏥",
       "color": "#00cc88",
       "articles": [
-        {
-          "title": "Illinois Proposes 0.2% Tax on Crypto Transactions Starting 2027",
-          "description": "Illinois is moving ahead with a new tax framework for digital assets that would impose a 0.2% levy on certain crypto-related transactions beginning in 2027.",
-          "url": "https://zycrypto.com/illinois-proposes-0-2-tax-on-crypto-transactions-starting-2027/",
-          "source": "ZyCrypto",
-          "published": "2026-10-03T19:01:58Z",
-          "image": "https://zycrypto.com/wp-content/uploads/2022/02/IRS-Reveals-Guidelines-On-How-Crypto-Investors-Can-Report-Their-Purchases-On-Tax-Forms.jpg"
-        },
         {
           "title": "21X Group Announces Collaboration with Circle as it joins Arc as a Day-1 Launch Partner",
           "description": "Frankfurt, New York, 1st October 2026, Chainwire\nThe post 21X Group Announces Collaboration with Circle as it joins Arc as a Day-1 Launch Partner appeared first on The Daily Hodl.",
@@ -207,30 +199,6 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "The same Fed rate hike can help stablecoins and hurt Bitcoin borrowers",
-              "description": "When you hold a dollar stablecoin, somebody else may be earning interest on the assets backing your balance, while a company borrowing to buy Bitcoin has to find the money to pay its lenders. Both businesses are crypto-native, but a higher interest rate can r…",
-              "url": "https://cryptoslate.com/the-same-fed-rate-hike-can-help-stablecoins-and-hurt-bitcoin-borrowers/",
-              "source": "CryptoSlate",
-              "published": "2026-10-04T13:20:06Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/10/stablecoin-slot-machine-1.webp"
-            },
-            {
-              "title": "Stablecoins may not drain banks of dollars but they can still make lending more expensive",
-              "description": "Here's a hypothetical scenario: you want to use $100 out of your bank account to buy newly issued stablecoins. The company issuing the stablecoins takes your dollars, puts them in its own bank account, and gives you a balance you can send around on a blockcha…",
-              "url": "https://cryptoslate.com/stablecoins-may-not-drain-banks-of-dollars-but-they-can-still-make-lending-more-expensive/",
-              "source": "CryptoSlate",
-              "published": "2026-10-04T07:30:08Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/10/stablecoin-deposit-funding-style-v3.jpg"
-            },
-            {
-              "title": "Morning Minute: Robinhood Adds Perps, Weekend Stocks, and AI Traders",
-              "description": "Robinhood is leaning deeper into crypto as they look to unlock their “everything app” vision.",
-              "url": "https://decrypt.co/379645/morning-minute-robinhood-adds-perps-weekend-stocks-and-ai-traders",
-              "source": "Decrypt",
-              "published": "2026-09-30T11:54:22Z",
-              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/robinhood-decrypt-style-01-gID_7.png"
-            },
-            {
               "title": "Ethereum Gets Another Privacy Boost as Aztec Brings Back zk.money",
               "description": "Aztec Labs relaunched its self-custodial zk.money wallet on Aztec Network, letting users make private stablecoin payments using readable tags.",
               "url": "https://decrypt.co/379621/ethereum-privacy-aztec-brings-back-zk-money",
@@ -252,6 +220,14 @@
           "title": "Hyperscalers",
           "icon": "☁️",
           "articles": [
+            {
+              "title": "Podcast: Future Cybersecurity: Hardware Memory Safety, Automated Governance and Post-Quantum Cryptography",
+              "description": "In this episode, Chris Swan, engineer at Atsign and security track host at QCon London, reflects on the ideas shared during QCon London 2026 and teases topics of the future edition. The discussion explores how security engineering is shifting from relying on …",
+              "url": "https://www.infoq.com/podcasts/future-cybersecurity-hardware-memory-safety/",
+              "source": "InfoQ.com",
+              "published": "2026-10-05T11:00:00Z",
+              "image": "https://res.infoq.com/podcasts/future-cybersecurity-hardware-memory-safety/en/card_header_image/chris-swan-twitter-card-1790672981256.jpg"
+            },
             {
               "title": "Microsoft’s X account hacked in crypto pump-and-dump scheme",
               "description": "On Thursday, unknown attackers hijacked the official Microsoft account on X, which has over 13 million followers, in what appeared to be a pump-and-dump scheme promoting a crypto token. [...]",
@@ -285,36 +261,12 @@
               "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/Chainlink-Backs-New-OUSD-Stablecoin-as-1-Billion-Liquidity-Push-Goes-Live-Across-Four-Blockchains-2.webp"
             },
             {
-              "title": "Best Altcoins to Buy in October 2026 Before the Next Crypto Rally",
-              "description": "October could become an important month for crypto after Bitcoin’s strong third-quarter recovery. Investors are watching whether capital starts rotating into altcoins. Ethereum, Solana, XRP,...\nThe post Best Altcoins to Buy in October 2026 Before the Next Cry…",
-              "url": "https://bitcoinfoundation.org/news/analysis/best-altcoins-to-buy-in-october-2026-before-the-next-crypto-rally/",
-              "source": "Bitcoinfoundation.org",
-              "published": "2026-09-30T17:42:14Z",
-              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/Alt1.webp"
-            },
-            {
               "title": "Chainlink surges 6% after CCIP 2.0 launch, but $15 resistance tests LINK rally",
               "description": "Key takeaways LINK rose about 6% while much of the crypto market retreated, extending its reported 30-day gain to 30.3%. Chainlink’s CCIP 2.0 launch gives institutions the option to add their own cross-chain transaction verifiers. LINK met resistance near $15…",
               "url": "https://coinjournal.net/news/chainlink-surges-6-after-ccip-2-0-launch-but-15-resistance-tests-link-rally/",
               "source": "Coinjournal.net",
               "published": "2026-09-29T05:04:03Z",
               "image": "https://coinjournal.net/wp-content/uploads/2026/09/ChatGPT-Image-Sep-29-2026-05_55_47-AM.png"
-            },
-            {
-              "title": "Storming the TradFi castle: Stablecoins, tokenized assets and AI are claiming their place in global finance",
-              "description": "A convergence of traditional financial institutions, blockchain innovators and a friendlier regulatory climate is carrying the world of decentralized finance into a new phase. Earlier this month, the Securities and Exchange Commission debuted a five-year exem…",
-              "url": "https://siliconangle.com/2026/09/28/storming-the-tradfi-castle-stablecoins-tokenized-assets-and-ai-are-claiming-their-place-in-global-finance/",
-              "source": "SiliconANGLE News",
-              "published": "2026-09-28T14:52:29Z",
-              "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Fintech-story.jpg"
-            },
-            {
-              "title": "⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats",
-              "description": "A domain used as harmless placeholder text showed up in roughly 1,700 repositories. Then somebody registered it and started serving malicious lures. That is the kind of week this was: forgotten assumptions turning into live attack surface.\n\nElsewhere, weak se…",
-              "url": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html",
-              "source": "Internet",
-              "published": "2026-09-28T14:00:53Z",
-              "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4-eWVCAN2nvZGZrKlwm-wminZE56MzJ_bVRK6CJfdBw9TXU4yQy6t9T0hDi0hSOskE9Xs6M-KCVEbVvBuL2DLDkew97W2iobOPZa9zqEBeGPWBnW8cftdD1FwzBLz7CIGVhJb1FwnS-35B62Jqc331zNQ67hZP-V2jKBT7yUxUV4rn8jMr27QCommYp-j/s1700-nu-rw-lo-l85-e365/c-recap.jpg"
             }
           ]
         }
