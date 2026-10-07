@@ -1,11 +1,27 @@
 {
-  "date": "October 06, 2026",
+  "date": "October 07, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "ZCash to $1,500? The Key Levels That Could Decide ZEC’s Next Move",
+          "description": "ZCash has returned to the spotlight as privacy-focused cryptocurrencies attract fresh market interest. The recent rally has pushed the ZCash price higher and revived ambitious...\nThe post ZCash to $1,500? The Key Levels That Could Decide ZEC’s Next Move appea…",
+          "url": "https://bitcoinfoundation.org/news/analysis/zcash-to-1500-the-key-levels-that-could-decide-zecs-next-move/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-10-06T11:16:13Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/ZEC1.webp"
+        },
+        {
+          "title": "What Is Midnight Crypto? Why the NIGHT Token Is Gaining Attention",
+          "description": "Midnight crypto is a privacy-focused blockchain, based on zero-knowledge technology and selective disclosure. The NIGHT token has drawn attention thanks to Cardano links, a broad...\nThe post What Is Midnight Crypto? Why the NIGHT Token Is Gaining Attention ap…",
+          "url": "https://bitcoinfoundation.org/news/altcoins/what-is-midnight-crypto-why-the-night-token-is-gaining-attention/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-10-05T13:53:04Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/NIGHT1.webp"
+        },
         {
           "title": "Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest",
           "description": "Jay Clayton prosecuted Roman Storm and XRP — now he’s President Trump’s new AI Czar. Peter Brandt says the Bitcoin bull market has “very good chance of reaching half a million.”",
@@ -29,22 +45,6 @@
           "source": "Crypto Briefing",
           "published": "2026-09-30T15:03:27Z",
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/30110320/library-devcon-8-to-take-place-in-mumbai-from-november-3-6-2026-800x450.png"
-        },
-        {
-          "title": "DeFi Technologies' Subsidiary Valour Launches Zcash (ZEC) ETP",
-          "description": "Zcash ETP: Valour launches an exchange traded product providing price exposure to Zcash (ZEC), expanding regulated access to one of the digital asset ecosystem's longest-standing privacy-focused networks. Traditional Market Access to ZEC: The ETP enables inve…",
-          "url": "https://www.prnewswire.com/news-releases/defi-technologies-subsidiary-valour-launches-zcash-zec-etp-302892662.html",
-          "source": "PRNewswire",
-          "published": "2026-09-29T11:30:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS1596609/DeFi-Technologies-Inc-DeFi-Technologies-Subsidiary-Valour-Laun.jpg?id=OA2976092&p=facebook"
-        },
-        {
-          "title": "Ethereum’s Next Upgrade Could Change the Network Forever: What Vitalik Is Planning for 2030",
-          "description": "Ethereum’s next upgrade is supposed to start changing how the network works at a much deeper level. Glamsterdam, targeted for Q4 2026, is the next...\nThe post Ethereum’s Next Upgrade Could Change the Network Forever: What Vitalik Is Planning for 2030 appeared…",
-          "url": "https://bitcoinfoundation.org/news/blockchain-news/ethereums-next-upgrade-could-change-the-network-forever/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-09-29T07:02:59Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/09/heg-1.webp"
         }
       ]
     },
@@ -101,68 +101,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 6.02 Million Tokens, and Total Crypto and Total Cash & Marketable Securities Holdings of $17.4 Billion",
-          "description": "Bitmine owns 4.9% of the total ETH coin supply of 122.1 million Bitmine is 99% of the way to the 'Alchemy of 5%' in just 15 months Tom Lee to deliver the keynote at Token2049 on October 7, 2026 in Singapore Bitmine was added to the Russell 1000 Large-cap inde…",
-          "url": "https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-6-02-million-tokens-and-total-crypto-and-total-cash--marketable-securities-holdings-of-17-4-billion-302897949.html",
-          "source": "PRNewswire",
-          "published": "2026-10-05T12:30:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS2002103/BMNR-Weekly-Update-English-15.jpg?id=OA2986222&p=facebook"
-        },
-        {
-          "title": "Circle can delay European USDC redemptions if reserves cannot cross borders",
-          "description": "Circle’s current terms allow temporary issuer redemption delays during failed reserve rebalancing as it defends cross-border co-issuance under MiCA.\nThe post Circle can delay European USDC redemptions if reserves cannot cross borders appeared first on CryptoS…",
-          "url": "https://cryptoslate.com/circle-can-delay-european-usdc-redemptions-if-reserves-cannot-cross-borders/",
-          "source": "CryptoSlate",
-          "published": "2026-10-05T12:10:14Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/10/usdc-broken-bridge.webp"
-        },
-        {
-          "title": "Morning Minute: Uptober Off to a Green Start",
-          "description": "Crypto majors and alts are rallying to start October. What’s driving the early action and will it continue?",
-          "url": "https://decrypt.co/380050/morning-minute-uptober-off-to-a-green-start",
+          "title": "Morning Minute: The CFTC Reveals Plan to Regulate Crypto Exchanges",
+          "description": "Clear rules of the road are here. So what does it all mean and what is the overall impact?",
+          "url": "https://decrypt.co/380146/morning-minute-the-cftc-reveals-plan-to-regulate-crypto-exchanges",
           "source": "Decrypt",
-          "published": "2026-10-05T11:39:08Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/Bitcoin-decrypt-style-23-gID_7.jpg"
+          "published": "2026-10-06T12:27:11Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/04/michael-selig-cftc-decrypt-style-gID_7.jpg"
         },
         {
-          "title": "BitGo CEO Mike Belshe Warns US Crypto Is at Risk After CLARITY Act Failure",
-          "description": "Belshe warns that market structure risk looms over the US cryptocurrency market, as crypto companies offer exchanges, brokerage, and custody services in a single platform,...\nThe post BitGo CEO Mike Belshe Warns US Crypto Is at Risk After CLARITY Act Failure …",
-          "url": "https://bitcoinfoundation.org/news/analysis/bitgo-ceo-mike-belshe-warns-us-crypto-is-at-risk-after-clarity-act-failure/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-10-05T10:18:28Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/Act3.webp"
+          "title": "MTCM Launches Talea DRN: One Private-Market-Note, Two Rails, for Arrangers and Investors, with Bank Frick as Digital-Asset-Partner and Paying-Agent",
+          "description": "Talea DRN lets arrangers issue one note reaching traditional and digital investors, fully fungible under one audit, with Bank Frick, Europe's blockchain-banking pioneer, as digital-asset partner. LUXEMBOURG and BALZERS, Liechtenstein, Oct. 6, 2026 /PRNewswire…",
+          "url": "https://www.prnewswire.com/news-releases/mtcm-launches-talea-drn-one-private-market-note-two-rails-for-arrangers-and-investors-with-bank-frick-as-digital-asset-partner-and-paying-agent-302896419.html",
+          "source": "PRNewswire",
+          "published": "2026-10-06T12:15:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS2000951/MTCM-Talea-Press-Release.jpg?id=OA2983106&p=facebook"
         },
         {
-          "title": "Kraken operator Payward and Singapore Gulf Bank platform for 24/7 institutional crypto settlement",
-          "description": "The two firms will initially roll out the digital assets settlement service to select institutional clients in Asia and the Gulf region with around-the-clock U.S. dollar settlement.",
-          "url": "https://www.coindesk.com/business/2026/10/05/kraken-operator-payward-and-singapore-gulf-bank-platform-for-24-7-institutional-crypto-settlement",
-          "source": "CoinDesk",
-          "published": "2026-10-05T09:26:24Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/60eaa4392d735a85d254d5ac89ec08baf0b7a62e-2048x1152.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75"
+          "title": "Bitcoin vs gold: Why Cathie Wood feels cryptocurrency's 'turn is in' against the precious metal",
+          "description": "Cathie Wood sees Bitcoin outperforming gold and predicts it could reach $1.5 million by 2030, driven by institutional adoption and AI. Bitcoin has recently outpaced gold, strengthening her bullish outlook. Her stance contrasts sharply with Warren Buffett’s lo…",
+          "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-vs-gold-why-cathie-wood-feels-cryptocurrencys-turn-is-in-against-the-precious-metal/articleshow/134738702.cms",
+          "source": "The Times of India",
+          "published": "2026-10-06T11:20:20Z",
+          "image": "https://img.etimg.com/thumb/msid-134738810,width-1200,height-900,imgsize-83882,overlay-etmarkets/articleshow.jpg"
         },
         {
-          "title": "Circle and Tether find common ground against MiCA’s bank reserve rules",
-          "description": "Its longer-term proposal would require Commission equivalence and EBA issuer recognition before distribution through a locally licensed institution.\nThe post Circle and Tether find common ground against MiCA’s bank reserve rules appeared first on CryptoSlate.",
-          "url": "https://cryptoslate.com/circle-and-tether-find-common-ground-against-micas-bank-reserve-rules/",
-          "source": "CryptoSlate",
-          "published": "2026-10-05T09:10:23Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/10/usdc-locked-reserve.webp"
+          "title": "NVIDIA, Tesla, SpaceX and Microsoft Among 60+ Stocks Set To Be Tokenized and Available 24/7 Under Proposal From OKX and Intercontinental Exchange",
+          "description": "NVIDIA, Tesla, SpaceX, Microsoft, Amazon and Alphabet are among more than 60 prominent US stocks that could soon be available for 24/7 tokenized trading. OKXICE, the joint venture between crypto exchange OKX and the Intercontinental Exchange (ICE), filed with…",
+          "url": "https://dailyhodl.com/2026/10/06/nvidia-tesla-spacex-and-microsoft-among-60-stocks-set-to-be-tokenized-and-available-24-7-under-proposal-from-okx-and-intercontinental-exchange/",
+          "source": "The Daily Hodl",
+          "published": "2026-10-06T10:47:46Z",
+          "image": "https://dailyhodl.com/wp-content/uploads/2026/10/tokenized-money-market.jpg?resize=266,156"
         },
         {
-          "title": "Kraken parent adds 24/7 dollar settlement with Singapore Gulf Bank",
-          "description": "The partnership will enable select institutions in Asia and the Gulf region to instantly settle US dollar transactions through the bank’s SGB Net",
-          "url": "https://cointelegraph.com/news/payward-partners-singapore-gulf-bank-settlement",
+          "title": "Hong Kong officials double down on end-2026 deadline for crypto licensing bill",
+          "description": "Hong Kong regulators plan to establish a licensing regime for four categories, including digital asset trading, custody, advisory and management services.",
+          "url": "https://cointelegraph.com/news/hong-kong-govt-end-2026-deadline-crypto-licensing-bill",
           "source": "Cointelegraph",
-          "published": "2026-10-05T08:56:10Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M45KJV5VBE5TPQ68MSVPPNMG/hi-how-us-banks-are-quietly-preparing-for-an-onchain-future.jpg"
+          "published": "2026-10-06T10:16:55Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M489R6N7E1AB2YW1Y7Q9J3JB/hi-how-hong-kong-is-turning-tokenized-bonds-into-real-market-infrastructure-1.jpg"
         },
         {
-          "title": "Trump Adviser Calls for Powell Exit as Bitcoin Watches Fed’s Next Move",
-          "description": "President Donald Trump’s top economic adviser, Kevin Hassett, is urging former Federal Reserve Chair Jerome Powell to resign from the Fed’s Board of Governors. This...\nThe post Trump Adviser Calls for Powell Exit as Bitcoin Watches Fed’s Next Move appeared fi…",
-          "url": "https://bitcoinfoundation.org/news/regulation/trump-adviser-calls-for-powell-exit-as-bitcoin-watches-feds-next-move/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-10-05T08:13:37Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/Trump-Adviser-Calls-for-Powell-Exit-as-Bitcoin-Watches-Feds-Next-Move-2.webp"
+          "title": "Cardano just added the kind of token controls Wall Street wants and DeFi may hate",
+          "description": "Under proposed CIP-113, separating bundled assets requires holder authorization and the restricted token’s permission hook.\nThe post Cardano just added the kind of token controls Wall Street wants and DeFi may hate appeared first on CryptoSlate.",
+          "url": "https://cryptoslate.com/cardano-just-added-the-kind-of-token-controls-wall-street-wants-and-defi-may-hate/",
+          "source": "CryptoSlate",
+          "published": "2026-10-06T10:00:57Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/10/cardano-cip113-token-freeze.webp"
+        },
+        {
+          "title": "The Enforcement Layer Just Vanished From the US Crypto Regulatory Stack",
+          "description": "FinCEN withdrew both of them on the same Sunday. On October 5, 2026, the Treasury Department’s enforcement arm for financial crime scrapped a proposed rule requiring financial institutions to report crypto transfers above $10,000 to or from self-custodied wal…",
+          "url": "https://forkast.news/the-enforcement-layer-just-vanished-from-the-us-crypto-regulatory-stack/",
+          "source": "Forkast.news",
+          "published": "2026-10-06T09:56:29Z",
+          "image": "https://forkast.news/wp-content/uploads/2026/10/fincen-enforcement-retreat-1024x687.jpg"
+        },
+        {
+          "title": "Bitcoin rally and the Token2049 conference in Singapore",
+          "description": "Bitcoin leaders gather in Singapore for Token2049 as the crypto rally sparks hope for a new bull market and growing institutional interest in digital assets. Read more at straitstimes.com.",
+          "url": "https://www.straitstimes.com/business/bitcoin-bulls-descend-on-singapore-in-search-of-the-next-big-bet",
+          "source": "The Straits Times",
+          "published": "2026-10-06T09:46:49Z",
+          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/06779ea250fbaca2a420bd67eb0445d7f64f1ffb03430a24dbe5ec8a70baefd9?w=1200"
         }
       ]
     },
@@ -171,6 +171,54 @@
       "icon": "🏥",
       "color": "#00cc88",
       "articles": [
+        {
+          "title": "China’s crypto ban Is failing to stop a $176 billion P2P economy",
+          "description": "The July 2025–June 2026 data show rapid stablecoin reuse, while the share funding purchases remains unmeasured.\nThe post China’s crypto ban Is failing to stop a $176 billion P2P economy appeared first on CryptoSlate.",
+          "url": "https://cryptoslate.com/chinas-crypto-ban-is-failing-to-stop-a-176-billion-p2p-economy/",
+          "source": "CryptoSlate",
+          "published": "2026-10-06T08:50:31Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/10/china-stablecoin-turnover-gate.webp"
+        },
+        {
+          "title": "Tokenization’s Faster Markets Could Come With a Liquidity Squeeze",
+          "description": "Watch more: TechReg Talks With Beatrice Fares of DG FISMA and Peter Kerstens of European Commission Tokenization promises to eliminate financial market friction, but it may take new friction to get there. The transition introduces a consequential trade-off. R…",
+          "url": "https://www.pymnts.com/digital-payments/2026/tokenizations-faster-markets-could-come-with-a-liquidity-squeeze/",
+          "source": "pymnts.com",
+          "published": "2026-10-06T08:01:13Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/10/SB3-liquidity-squeeze-with-overlay.jpg"
+        },
+        {
+          "title": "China’s Stablecoin Underground Hits $104 Billion Despite Beijing’s Crypto Ban",
+          "description": "Beijing has spent years attempting to excise cryptocurrency from its domestic economy, yet the latest Chainalysis 2026 Geography of Cryptocurrency Report reveals a persistent, high-velocity alternative. Domestic peer-to-peer (P2P) stablecoin transfers in Chin…",
+          "url": "https://forkast.news/chinas-stablecoin-underground-hits-104-billion-despite-beijings-crypto-ban/",
+          "source": "Forkast.news",
+          "published": "2026-10-06T07:47:15Z",
+          "image": null
+        },
+        {
+          "title": "The CFTC Builds Its First Crypto Market Structure — And Deliberately Leaves the Spot Market Outside",
+          "description": "Washington has finally achieved the regulatory equivalent of a synchronized swimming routine, though the water remains suspiciously shallow. On October 5, 2026, the Commodity Futures Trading Commission (CFTC) released its Advance Notice of Proposed Rulemaking…",
+          "url": "https://forkast.news/the-cftc-builds-its-first-crypto-market-structure-and-deliberately-leaves-the-spot-market-outside/",
+          "source": "Forkast.news",
+          "published": "2026-10-05T20:04:43Z",
+          "image": "https://forkast.news/wp-content/uploads/2026/10/cftc-ctx-cam-anprm-fence-1024x572.jpg"
+        },
+        {
+          "title": "The Public Blockchain Debate is Already Obsolete for Banks",
+          "description": "The crypto industry bet the farm on traditional finance ultimately migrating onto public blockchains rather than retreating behind permissioned networks. The cows are now coming home to roost for the sector, after its failure to get comprehensive crypto regul…",
+          "url": "https://www.pymnts.com/blockchain/2026/the-public-blockchain-debate-is-already-obsolete-for-banks/",
+          "source": "pymnts.com",
+          "published": "2026-10-05T19:39:12Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2018/12/blockchain-banking-real-time-payments.jpg"
+        },
+        {
+          "title": "S&P Global brings risk assessments to growing crypto lending vault sector",
+          "description": "S&P Global introduced a framework for evaluating risks in digital asset lending vaults as the sector expands into Bitcoin, DeFi and tokenized stocks.",
+          "url": "https://cointelegraph.com/news/sp-global-launches-risk-assessments-for-10b-crypto-lending-vault-market",
+          "source": "Cointelegraph",
+          "published": "2026-10-05T17:58:58Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M46DVHDP0PNNPK9656H84WRQ/hi-ai-based-credit-scoring-benefits-and-risks.png"
+        },
         {
           "title": "21X Group Announces Collaboration with Circle as it joins Arc as a Day-1 Launch Partner",
           "description": "Frankfurt, New York, 1st October 2026, Chainwire\nThe post 21X Group Announces Collaboration with Circle as it joins Arc as a Day-1 Launch Partner appeared first on The Daily Hodl.",
@@ -199,20 +247,28 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Ethereum Gets Another Privacy Boost as Aztec Brings Back zk.money",
-              "description": "Aztec Labs relaunched its self-custodial zk.money wallet on Aztec Network, letting users make private stablecoin payments using readable tags.",
-              "url": "https://decrypt.co/379621/ethereum-privacy-aztec-brings-back-zk-money",
-              "source": "Decrypt",
-              "published": "2026-09-29T21:46:03Z",
-              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Ethereum-decrypt-style-03-gID_7.png"
+              "title": "New Generation of Crypto Miners Released by ASICID",
+              "description": "Hong Kong, Hong Kong, October 6th, 2026, Chainwire\nThe post New Generation of Crypto Miners Released by ASICID appeared first on The Daily Hodl.",
+              "url": "https://dailyhodl.com/2026/10/06/new-generation-of-crypto-miners-released-by-asicid/",
+              "source": "The Daily Hodl",
+              "published": "2026-10-06T10:43:17Z",
+              "image": "https://dailyhodl.com/wp-content/uploads/2026/10/asicid-idminer-series-launch-oct6-2026.jpg?resize=266,177"
             },
             {
-              "title": "Privacy Crypto Wallet Is Bringing Anonymous Payments to Stablecoins. Will Regulators Allow It?",
-              "description": "Is this even legal?",
-              "url": "https://gizmodo.com/privacy-crypto-wallet-is-bringing-anonymous-payments-to-stablecoins-will-regulators-allow-it-2000818400",
-              "source": "Gizmodo.com",
-              "published": "2026-09-29T16:00:03Z",
-              "image": "https://gizmodo.com/app/uploads/2026/09/Crypto-Wallet-with-Anonymous-Stablecoins-e1790690117470-1200x675.jpg"
+              "title": "Best Polymarket Trading Bots in 2026: Top Bots for Copy Trading, AFK Trading and Telegram Automation",
+              "description": "Polymarket has become one of the largest prediction markets, but trading it manually can become difficult once you start following multiple markets and wallets. A...\nThe post Best Polymarket Trading Bots in 2026: Top Bots for Copy Trading, AFK Trading and Tel…",
+              "url": "https://bitcoinfoundation.org/news/trading/best-polymarket-trading-bots-in-2026-top-bots-for-copy-trading-afk-trading-and-telegram-automation/",
+              "source": "Bitcoinfoundation.org",
+              "published": "2026-10-06T10:40:20Z",
+              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/Polymarket-Trading-Bots-2026.webp"
+            },
+            {
+              "title": "Morning Minute: Robinhood Adds Perps, Weekend Stocks, and AI Traders",
+              "description": "Robinhood is leaning deeper into crypto as they look to unlock their “everything app” vision.",
+              "url": "https://decrypt.co/379645/morning-minute-robinhood-adds-perps-weekend-stocks-and-ai-traders",
+              "source": "Decrypt",
+              "published": "2026-09-30T11:54:22Z",
+              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/robinhood-decrypt-style-01-gID_7.png"
             }
           ]
         },
@@ -221,20 +277,20 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "Podcast: Future Cybersecurity: Hardware Memory Safety, Automated Governance and Post-Quantum Cryptography",
-              "description": "In this episode, Chris Swan, engineer at Atsign and security track host at QCon London, reflects on the ideas shared during QCon London 2026 and teases topics of the future edition. The discussion explores how security engineering is shifting from relying on …",
-              "url": "https://www.infoq.com/podcasts/future-cybersecurity-hardware-memory-safety/",
-              "source": "InfoQ.com",
-              "published": "2026-10-05T11:00:00Z",
-              "image": "https://res.infoq.com/podcasts/future-cybersecurity-hardware-memory-safety/en/card_header_image/chris-swan-twitter-card-1790672981256.jpg"
+              "title": "More than 60 U.S. stocks including Nvidia and Tesla are headed onchain. Here’s how it works",
+              "description": "The planned 24/7 venue will offer dozens of tokenized U.S. stocks, with trades conducted against stablecoins through blockchain-based liquidity pools rather than a traditional order book.",
+              "url": "https://www.coindesk.com/markets/2026/10/05/more-than-60-u-s-stocks-including-nvidia-and-tesla-are-headed-onchain-here-s-how-it-works",
+              "source": "CoinDesk",
+              "published": "2026-10-05T17:18:14Z",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/b6e96032161d6dcf99d95c60578a52fdca91b2f3-5594x3147.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75"
             },
             {
-              "title": "Microsoft’s X account hacked in crypto pump-and-dump scheme",
-              "description": "On Thursday, unknown attackers hijacked the official Microsoft account on X, which has over 13 million followers, in what appeared to be a pump-and-dump scheme promoting a crypto token. [...]",
-              "url": "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/",
-              "source": "BleepingComputer",
-              "published": "2026-10-02T09:29:56Z",
-              "image": "https://www.bleepstatic.com/content/hl-images/2026/10/02/Microsoft-X.jpg"
+              "title": "NYSE owner and OKX plan 24/7 tokenized stock trading using Uniswap",
+              "description": "Intercontinental Exchange and OKX are preparing an always-open market where tokenized US stocks could keep repricing after Wall Street closes. On Oct. 4, OKXICE, the companies' 50-50 joint venture, notified the Securities and Exchange Commission (SEC) that it…",
+              "url": "https://cryptoslate.com/nyse-owner-and-okx-plan-24-7-tokenized-stock-trading-using-uniswap/",
+              "source": "CryptoSlate",
+              "published": "2026-10-05T15:30:48Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/10/tokenized-market-clock.webp"
             },
             {
               "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories",
@@ -243,30 +299,6 @@
               "source": "Internet",
               "published": "2026-10-01T16:45:38Z",
               "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOZPv0LS8-qPBgL_d1m8BLNikw8psPt9qtB_HiFNoYnVwBacYvwz4DdEixukdlHcy7IXmUB9dI9E_Hcx48HJIL7sQzmDeextP-Y_tHO9SX51i_SditMkVsRgWxyMekufW3yZFn2jI9nf29y3JEM2a_yFv8iTLDb6d3r1roNsea_Yk5TWCiMcvkmE5ZbP6B/s1700-nu-rw-lo-l85-e365/oct-threatsday.jpg"
-            },
-            {
-              "title": "The Bitget Breach: When Security Layers Become Attack Surfaces",
-              "description": "The $387.5 million theft from the Bitget cryptocurrency exchange on September 25, 2026, exposes a critical failure in modern cybersecurity: the transformation of defensive infrastructure into a primary vector for state-sponsored infiltration. Investigations b…",
-              "url": "https://forkast.news/the-bitget-breach-when-security-layers-become-attack-surfaces/",
-              "source": "Forkast.news",
-              "published": "2026-10-01T11:13:16Z",
-              "image": "https://forkast.news/wp-content/uploads/2026/10/bitget-387m-zero-day-theft-1024x572.jpg"
-            },
-            {
-              "title": "Chainlink Backs New OUSD Stablecoin as $1 Billion Liquidity Push Goes Live Across Four Blockchains",
-              "description": "Open Standard has introduced Open USD, a new stablecoin with over $1 billion in committed short-term reserves and Chainlink as an official oracle partner. Open USD is...\nThe post Chainlink Backs New OUSD Stablecoin as $1 Billion Liquidity Push Goes Live Acros…",
-              "url": "https://bitcoinfoundation.org/news/stablecoins/chainlink-backs-new-ousd-stablecoin/",
-              "source": "Bitcoinfoundation.org",
-              "published": "2026-10-01T08:14:26Z",
-              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/Chainlink-Backs-New-OUSD-Stablecoin-as-1-Billion-Liquidity-Push-Goes-Live-Across-Four-Blockchains-2.webp"
-            },
-            {
-              "title": "Chainlink surges 6% after CCIP 2.0 launch, but $15 resistance tests LINK rally",
-              "description": "Key takeaways LINK rose about 6% while much of the crypto market retreated, extending its reported 30-day gain to 30.3%. Chainlink’s CCIP 2.0 launch gives institutions the option to add their own cross-chain transaction verifiers. LINK met resistance near $15…",
-              "url": "https://coinjournal.net/news/chainlink-surges-6-after-ccip-2-0-launch-but-15-resistance-tests-link-rally/",
-              "source": "Coinjournal.net",
-              "published": "2026-09-29T05:04:03Z",
-              "image": "https://coinjournal.net/wp-content/uploads/2026/09/ChatGPT-Image-Sep-29-2026-05_55_47-AM.png"
             }
           ]
         }
