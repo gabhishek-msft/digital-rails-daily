@@ -1,5 +1,5 @@
 {
-  "date": "October 07, 2026",
+  "date": "October 08, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -23,6 +23,14 @@
           "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/NIGHT1.webp"
         },
         {
+          "title": "StarkWare brings a Privacy Summit to Singapore during Token2049 week",
+          "description": "StarkWare's Privacy Summit could accelerate the integration of privacy tools in blockchain, influencing regulatory frameworks and industry standards.\nThe post StarkWare brings a Privacy Summit to Singapore during Token2049 week appeared first on Crypto Briefi…",
+          "url": "https://cryptobriefing.com/starkware-privacy-summit-singapore-october/",
+          "source": "Crypto Briefing",
+          "published": "2026-10-05T11:05:07Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/05070502/library-starkware-brings-a-privacy-summit-to-singapore-during-to-800x450.png"
+        },
+        {
           "title": "Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest",
           "description": "Jay Clayton prosecuted Roman Storm and XRP — now he’s President Trump’s new AI Czar. Peter Brandt says the Bitcoin bull market has “very good chance of reaching half a million.”",
           "url": "https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest",
@@ -37,14 +45,6 @@
           "source": "Crypto Briefing",
           "published": "2026-10-03T09:06:05Z",
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2020/12/02092245/link-bull-1024x538.jpg"
-        },
-        {
-          "title": "Devcon 8 to take place in Mumbai from November 3–6, 2026",
-          "description": "Devcon 8 in Mumbai highlights India's growing influence in the global tech ecosystem, fostering innovation and collaboration in blockchain.\nThe post Devcon 8 to take place in Mumbai from November 3–6, 2026 appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/devcon-8-mumbai-november-2026/",
-          "source": "Crypto Briefing",
-          "published": "2026-09-30T15:03:27Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/30110320/library-devcon-8-to-take-place-in-mumbai-from-november-3-6-2026-800x450.png"
         }
       ]
     },
@@ -53,6 +53,14 @@
       "icon": "🔐",
       "color": "#e6a200",
       "articles": [
+        {
+          "title": "Pudgy Penguins' Ethereum Layer-2 Abstract Is Shutting Down",
+          "description": "Abstract will shut down Dec. 15, saying a chain focused solely on consumer crypto proved unsustainable, and is urging users to bridge their assets off before then.",
+          "url": "https://decrypt.co/380225/pudgy-penguin-ethereum-layer-2-abstract-shutting-down",
+          "source": "Decrypt",
+          "published": "2026-10-06T20:28:53Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/01/abstract-launch-gID_7.png"
+        },
         {
           "title": "Ethereum Now Lets You Pay for AI Without Revealing Who You Are",
           "description": "Ethereum's zkAPI lets users prepay in USDC and query AI models through cryptographic proofs, so no single party sees both who they are and what they ask.",
@@ -84,14 +92,6 @@
           "source": "Crypto Briefing",
           "published": "2026-10-01T04:15:35Z",
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2020/12/02092245/link-bull-1024x538.jpg"
-        },
-        {
-          "title": "Dogecoin Is Getting Apps as DogeOS Opens Its Public Testnet",
-          "description": "The team behind the MyDoge wallet opened a public test of DogeOS, a layer that lets developers build lending platforms and games on top of the meme coin network.",
-          "url": "https://decrypt.co/379772/dogecoin-getting-apps-dogeos-public-testnet",
-          "source": "Decrypt",
-          "published": "2026-09-30T21:46:03Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/dogecoin-decrypt-style-02-gID_7.png"
         }
       ]
     },
@@ -101,68 +101,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Morning Minute: The CFTC Reveals Plan to Regulate Crypto Exchanges",
-          "description": "Clear rules of the road are here. So what does it all mean and what is the overall impact?",
-          "url": "https://decrypt.co/380146/morning-minute-the-cftc-reveals-plan-to-regulate-crypto-exchanges",
-          "source": "Decrypt",
-          "published": "2026-10-06T12:27:11Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/04/michael-selig-cftc-decrypt-style-gID_7.jpg"
-        },
-        {
-          "title": "MTCM Launches Talea DRN: One Private-Market-Note, Two Rails, for Arrangers and Investors, with Bank Frick as Digital-Asset-Partner and Paying-Agent",
-          "description": "Talea DRN lets arrangers issue one note reaching traditional and digital investors, fully fungible under one audit, with Bank Frick, Europe's blockchain-banking pioneer, as digital-asset partner. LUXEMBOURG and BALZERS, Liechtenstein, Oct. 6, 2026 /PRNewswire…",
-          "url": "https://www.prnewswire.com/news-releases/mtcm-launches-talea-drn-one-private-market-note-two-rails-for-arrangers-and-investors-with-bank-frick-as-digital-asset-partner-and-paying-agent-302896419.html",
+          "title": "EDX Markets and Raven Partner to Enhance Institutional Digital Asset Liquidity",
+          "description": "CHICAGO, Oct. 7, 2026 /PRNewswire/ -- EDX Markets, a leading digital asset technology firm that combines an institutional-only trading venue with a central clearinghouse, today announced a strategic partnership with Raven, a proprietary high-frequency trading…",
+          "url": "https://www.prnewswire.com/news-releases/edx-markets-and-raven-partner-to-enhance-institutional-digital-asset-liquidity-302901062.html",
           "source": "PRNewswire",
-          "published": "2026-10-06T12:15:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS2000951/MTCM-Talea-Press-Release.jpg?id=OA2983106&p=facebook"
+          "published": "2026-10-07T12:30:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS1128514/EDX-Markets-Logo.jpg?id=OA2991546&p=facebook"
         },
         {
-          "title": "Bitcoin vs gold: Why Cathie Wood feels cryptocurrency's 'turn is in' against the precious metal",
-          "description": "Cathie Wood sees Bitcoin outperforming gold and predicts it could reach $1.5 million by 2030, driven by institutional adoption and AI. Bitcoin has recently outpaced gold, strengthening her bullish outlook. Her stance contrasts sharply with Warren Buffett’s lo…",
-          "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-vs-gold-why-cathie-wood-feels-cryptocurrencys-turn-is-in-against-the-precious-metal/articleshow/134738702.cms",
-          "source": "The Times of India",
-          "published": "2026-10-06T11:20:20Z",
-          "image": "https://img.etimg.com/thumb/msid-134738810,width-1200,height-900,imgsize-83882,overlay-etmarkets/articleshow.jpg"
-        },
-        {
-          "title": "NVIDIA, Tesla, SpaceX and Microsoft Among 60+ Stocks Set To Be Tokenized and Available 24/7 Under Proposal From OKX and Intercontinental Exchange",
-          "description": "NVIDIA, Tesla, SpaceX, Microsoft, Amazon and Alphabet are among more than 60 prominent US stocks that could soon be available for 24/7 tokenized trading. OKXICE, the joint venture between crypto exchange OKX and the Intercontinental Exchange (ICE), filed with…",
-          "url": "https://dailyhodl.com/2026/10/06/nvidia-tesla-spacex-and-microsoft-among-60-stocks-set-to-be-tokenized-and-available-24-7-under-proposal-from-okx-and-intercontinental-exchange/",
-          "source": "The Daily Hodl",
-          "published": "2026-10-06T10:47:46Z",
-          "image": "https://dailyhodl.com/wp-content/uploads/2026/10/tokenized-money-market.jpg?resize=266,156"
-        },
-        {
-          "title": "Hong Kong officials double down on end-2026 deadline for crypto licensing bill",
-          "description": "Hong Kong regulators plan to establish a licensing regime for four categories, including digital asset trading, custody, advisory and management services.",
-          "url": "https://cointelegraph.com/news/hong-kong-govt-end-2026-deadline-crypto-licensing-bill",
+          "title": "Chasing 100x tokens is game of ‘irrational exuberance,’ says Polymarket CEO",
+          "description": "Polymarket’s traction shows that some traders are still looking for more predictable odds, rather than playing “hot potato” with the next 100x gem, according to the prediction market’s CEO.",
+          "url": "https://cointelegraph.com/news/chasing-100x-tokens-irrational-exuberance-polymarket-ceo",
           "source": "Cointelegraph",
-          "published": "2026-10-06T10:16:55Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M489R6N7E1AB2YW1Y7Q9J3JB/hi-how-hong-kong-is-turning-tokenized-bonds-into-real-market-infrastructure-1.jpg"
+          "published": "2026-10-07T12:29:39Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4B3MMABZE2GV838GSA8JBR1/hi-crypto-market-trading-trader-breaking-news-1.jpg"
         },
         {
-          "title": "Cardano just added the kind of token controls Wall Street wants and DeFi may hate",
-          "description": "Under proposed CIP-113, separating bundled assets requires holder authorization and the restricted token’s permission hook.\nThe post Cardano just added the kind of token controls Wall Street wants and DeFi may hate appeared first on CryptoSlate.",
-          "url": "https://cryptoslate.com/cardano-just-added-the-kind-of-token-controls-wall-street-wants-and-defi-may-hate/",
-          "source": "CryptoSlate",
-          "published": "2026-10-06T10:00:57Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/10/cardano-cip113-token-freeze.webp"
+          "title": "Crypto card access doesn’t match global demand, Tangem says",
+          "description": "Tangem is launching its first physical Visa cards as it says crypto card demand and availability diverge, with delivery restricted in about 20 countries.",
+          "url": "https://cointelegraph.com/news/crypto-card-access-doesnt-match-global-demand-tangem-says",
+          "source": "Cointelegraph",
+          "published": "2026-10-07T11:37:48Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4AZ46ZEWXYZR13FPY46ZHFW/hi-crypto-cards-how-are-the-sector-developing-and-what-are-the-biggest-challenges-bitcoin.jpg"
         },
         {
-          "title": "The Enforcement Layer Just Vanished From the US Crypto Regulatory Stack",
-          "description": "FinCEN withdrew both of them on the same Sunday. On October 5, 2026, the Treasury Department’s enforcement arm for financial crime scrapped a proposed rule requiring financial institutions to report crypto transfers above $10,000 to or from self-custodied wal…",
-          "url": "https://forkast.news/the-enforcement-layer-just-vanished-from-the-us-crypto-regulatory-stack/",
+          "title": "Ledger Launches Bitcoin Loans, Letting Holders Borrow Without Selling",
+          "description": "Unveiled at TOKEN2049 Singapore, the Morpho-powered Crypto Loan feature lets users borrow stablecoins against wrapped Bitcoin while keeping private keys and final approval on their hardware device.",
+          "url": "https://decrypt.co/380224/ledger-bitcoin-loans-holders-borrow-without-selling",
+          "source": "Decrypt",
+          "published": "2026-10-07T09:01:03Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/01/ledger-hardware-wallets-decrypt-style-gID_7.jpg"
+        },
+        {
+          "title": "Why India could become a global hub for responsible digital assets innovation",
+          "description": "India could emerge as a global hub for responsible digital asset innovation by combining its strong technology talent, blockchain expertise and digital infrastructure. The convergence of AI and onchain technologies could enable agentic commerce, stablecoin pa…",
+          "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-india-could-become-a-global-hub-for-responsible-digital-assets-innovation/articleshow/134759241.cms",
+          "source": "The Times of India",
+          "published": "2026-10-07T07:16:17Z",
+          "image": "https://img.etimg.com/thumb/msid-134759287,width-1200,height-900,imgsize-2701749,overlay-etmarkets/articleshow.jpg"
+        },
+        {
+          "title": "North Dakota’s State-Owned Bank Just Launched a Stablecoin Pilot Inside the GENIUS Act Implementation Window",
+          "description": "The Bank of North Dakota (BND), the only state-owned bank in the United States, has moved beyond theoretical discussions of tokenization. By launching the Roughrider Coin pilot, the institution is stress-testing a permissioned, bank-to-bank stablecoin archite…",
+          "url": "https://forkast.news/north-dakotas-state-owned-bank-just-launched-a-stablecoin-pilot-inside-the-genius-act-implementation-window/",
           "source": "Forkast.news",
-          "published": "2026-10-06T09:56:29Z",
-          "image": "https://forkast.news/wp-content/uploads/2026/10/fincen-enforcement-retreat-1024x687.jpg"
+          "published": "2026-10-07T06:23:51Z",
+          "image": "https://forkast.news/wp-content/uploads/2026/10/roughrider-coin-bnd-stablecoin-pilot-1024x687.jpg"
         },
         {
-          "title": "Bitcoin rally and the Token2049 conference in Singapore",
-          "description": "Bitcoin leaders gather in Singapore for Token2049 as the crypto rally sparks hope for a new bull market and growing institutional interest in digital assets. Read more at straitstimes.com.",
-          "url": "https://www.straitstimes.com/business/bitcoin-bulls-descend-on-singapore-in-search-of-the-next-big-bet",
-          "source": "The Straits Times",
-          "published": "2026-10-06T09:46:49Z",
-          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/06779ea250fbaca2a420bd67eb0445d7f64f1ffb03430a24dbe5ec8a70baefd9?w=1200"
+          "title": "Solana DvP settlement requires 100% upfront cash for every trade",
+          "description": "Its published DvP design exchanges fully funded token legs atomically, leaving financing and netting to institutions.\nThe post Solana DvP settlement requires 100% upfront cash for every trade appeared first on CryptoSlate.",
+          "url": "https://cryptoslate.com/solana-dvp-settlement-requires-100-upfront-cash-for-every-trade/",
+          "source": "CryptoSlate",
+          "published": "2026-10-07T04:30:56Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/10/solana-dvp-full-funding-standard.jpg"
+        },
+        {
+          "title": "Institutional Stablecoin Settlement Just Went From Zero to Four Production Rails in a Single Month",
+          "description": "$1.2 billion in stablecoin-linked card volume. Four production rails activated or expanded in the same 30-day window. The settlement plumbing is moving whether anyone notices or not.",
+          "url": "https://forkast.news/institutional-stablecoin-settlement-just-went-from-zero-to-four-production-rails-in-a-single-month/",
+          "source": "Forkast.news",
+          "published": "2026-10-07T04:12:20Z",
+          "image": "https://forkast.news/wp-content/uploads/2026/10/capital-flows-stablecoin-settlement-1024x572.jpg"
         }
       ]
     },
@@ -172,52 +172,44 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "China’s crypto ban Is failing to stop a $176 billion P2P economy",
-          "description": "The July 2025–June 2026 data show rapid stablecoin reuse, while the share funding purchases remains unmeasured.\nThe post China’s crypto ban Is failing to stop a $176 billion P2P economy appeared first on CryptoSlate.",
-          "url": "https://cryptoslate.com/chinas-crypto-ban-is-failing-to-stop-a-176-billion-p2p-economy/",
+          "title": "Crypto trading giant GSR's new vault business is a $100M bet on onchain credit",
+          "description": "The firm is putting its own capital into stablecoin and tokenized gold vaults as institutional finance moves further onchain.",
+          "url": "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit",
+          "source": "CoinDesk",
+          "published": "2026-10-07T12:34:13Z",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/2bb224bfa288e79f5e3ee5873991c29fe31f5ebd-1440x1080.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75"
+        },
+        {
+          "title": "S&P brings ratings-style scrutiny to $10 billion crypto vault market as $6 million Base incident exposes risks",
+          "description": "The vault framework compares impairment risk while leaving capital protection and future returns unpromised.\nThe post S&P brings ratings-style scrutiny to $10 billion crypto vault market as $6 million Base incident exposes risks appeared first on CryptoSlate.",
+          "url": "https://cryptoslate.com/sp-brings-ratings-style-scrutiny-to-10-billion-crypto-vault-market-as-6-million-base-incident-exposes-risks/",
           "source": "CryptoSlate",
-          "published": "2026-10-06T08:50:31Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/10/china-stablecoin-turnover-gate.webp"
+          "published": "2026-10-07T11:40:51Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/10/sp-digital-asset-ratings.webp"
         },
         {
-          "title": "Tokenization’s Faster Markets Could Come With a Liquidity Squeeze",
-          "description": "Watch more: TechReg Talks With Beatrice Fares of DG FISMA and Peter Kerstens of European Commission Tokenization promises to eliminate financial market friction, but it may take new friction to get there. The transition introduces a consequential trade-off. R…",
-          "url": "https://www.pymnts.com/digital-payments/2026/tokenizations-faster-markets-could-come-with-a-liquidity-squeeze/",
+          "title": "Why Did Crypto Just Drop? $12.5M Bitcoin Shorts, Iran Tensions and $500M in Liquidations Explain the Crash",
+          "description": "The latest crypto crash today included Bitcoin price falling below $84,000 and liquidated leveraged Bitcoin positions in derivative markets. Why Did Crypto Just Drop Today?...\nThe post Why Did Crypto Just Drop? $12.5M Bitcoin Shorts, Iran Tensions and $500M i…",
+          "url": "https://bitcoinfoundation.org/news/analysis/why-did-crypto-just-drop-12-5m-bitcoin-shorts-iran-tensions-and-500m-in-liquidations-explain-the-crash/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-10-07T10:02:33Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/Why-Did-Crypto-Just-Drop-12.5M-Bitcoin-Shorts-Iran-Tensions-and-500M-in-Liquidations-Explain-the-Crash-2.webp"
+        },
+        {
+          "title": "The Fed and PYMNTS Intelligence Agree: Stablecoins Have a Demand Problem",
+          "description": "Stablecoins have spent the past year and a half acquiring nearly everything an emerging payments technology is supposed to need to go mainstream. Clearer regulation, check; more institutional backing, check; better infrastructure and growing support from bank…",
+          "url": "https://www.pymnts.com/blockchain/2026/the-fed-and-pymnts-intelligence-agree-stablecoins-have-a-demand-problem/",
           "source": "pymnts.com",
-          "published": "2026-10-06T08:01:13Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2026/10/SB3-liquidity-squeeze-with-overlay.jpg"
+          "published": "2026-10-06T19:20:49Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/09/Federal-Reserve-Bank-Cleveland.jpeg"
         },
         {
-          "title": "China’s Stablecoin Underground Hits $104 Billion Despite Beijing’s Crypto Ban",
-          "description": "Beijing has spent years attempting to excise cryptocurrency from its domestic economy, yet the latest Chainalysis 2026 Geography of Cryptocurrency Report reveals a persistent, high-velocity alternative. Domestic peer-to-peer (P2P) stablecoin transfers in Chin…",
-          "url": "https://forkast.news/chinas-stablecoin-underground-hits-104-billion-despite-beijings-crypto-ban/",
-          "source": "Forkast.news",
-          "published": "2026-10-06T07:47:15Z",
-          "image": null
-        },
-        {
-          "title": "The CFTC Builds Its First Crypto Market Structure — And Deliberately Leaves the Spot Market Outside",
-          "description": "Washington has finally achieved the regulatory equivalent of a synchronized swimming routine, though the water remains suspiciously shallow. On October 5, 2026, the Commodity Futures Trading Commission (CFTC) released its Advance Notice of Proposed Rulemaking…",
-          "url": "https://forkast.news/the-cftc-builds-its-first-crypto-market-structure-and-deliberately-leaves-the-spot-market-outside/",
-          "source": "Forkast.news",
-          "published": "2026-10-05T20:04:43Z",
-          "image": "https://forkast.news/wp-content/uploads/2026/10/cftc-ctx-cam-anprm-fence-1024x572.jpg"
-        },
-        {
-          "title": "The Public Blockchain Debate is Already Obsolete for Banks",
-          "description": "The crypto industry bet the farm on traditional finance ultimately migrating onto public blockchains rather than retreating behind permissioned networks. The cows are now coming home to roost for the sector, after its failure to get comprehensive crypto regul…",
-          "url": "https://www.pymnts.com/blockchain/2026/the-public-blockchain-debate-is-already-obsolete-for-banks/",
-          "source": "pymnts.com",
-          "published": "2026-10-05T19:39:12Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2018/12/blockchain-banking-real-time-payments.jpg"
-        },
-        {
-          "title": "S&P Global brings risk assessments to growing crypto lending vault sector",
-          "description": "S&P Global introduced a framework for evaluating risks in digital asset lending vaults as the sector expands into Bitcoin, DeFi and tokenized stocks.",
-          "url": "https://cointelegraph.com/news/sp-global-launches-risk-assessments-for-10b-crypto-lending-vault-market",
+          "title": "UK names 6 banks to lead first digitally native government bond",
+          "description": "The DIGIT pilot will test distributed ledger technology and onchain settlement for UK sovereign debt, with issuance expected by the first quarter of 2027.",
+          "url": "https://cointelegraph.com/news/uk-taps-6-banks-to-lead-first-digitally-native-government-bond",
           "source": "Cointelegraph",
-          "published": "2026-10-05T17:58:58Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M46DVHDP0PNNPK9656H84WRQ/hi-ai-based-credit-scoring-benefits-and-risks.png"
+          "published": "2026-10-06T19:19:00Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4997XE3Q73505XVEHSA997G/hi-what-are-bonds-and-how-do-they-work-for-crypto-red.png"
         },
         {
           "title": "21X Group Announces Collaboration with Circle as it joins Arc as a Day-1 Launch Partner",
@@ -226,14 +218,6 @@
           "source": "The Daily Hodl",
           "published": "2026-10-01T15:11:21Z",
           "image": "https://dailyhodl.com/wp-content/uploads/2026/10/Circle_Arc_PR_image_1790849880wERM9n8WKX_1790864741mbXmk6pktm.jpg?resize=1200,720"
-        },
-        {
-          "title": "Bloomberg Launches Stablecoin Dashboard on the Terminal Powered by Data from Allium",
-          "description": "New dashboard delivers hourly updates on stablecoin supply, mints, burns, transfers and velocity, bringing stablecoin data into existing Bloomberg workflows NEW YORK, Sept. 30, 2026 /PRNewswire/ -- Bloomberg today launched a stablecoin dashboard on the Bloomb…",
-          "url": "https://www.prnewswire.com/news-releases/bloomberg-launches-stablecoin-dashboard-on-the-terminal-powered-by-data-from-allium-302894359.html",
-          "source": "PRNewswire",
-          "published": "2026-09-30T12:30:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS339228/Bloomberg-Logo.jpg?id=OA2978044&p=facebook"
         }
       ]
     },
@@ -247,28 +231,20 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "New Generation of Crypto Miners Released by ASICID",
-              "description": "Hong Kong, Hong Kong, October 6th, 2026, Chainwire\nThe post New Generation of Crypto Miners Released by ASICID appeared first on The Daily Hodl.",
-              "url": "https://dailyhodl.com/2026/10/06/new-generation-of-crypto-miners-released-by-asicid/",
-              "source": "The Daily Hodl",
-              "published": "2026-10-06T10:43:17Z",
-              "image": "https://dailyhodl.com/wp-content/uploads/2026/10/asicid-idminer-series-launch-oct6-2026.jpg?resize=266,177"
+              "title": "Why Abstract is killing its Ethereum L2 instead of launching a token to save it",
+              "description": "Abstract will shut down on Dec. 15 despite onboarding more than 400,000 users, hosting 144 apps, and landing brands including Disney and Red Bull Racing. The consumer-focused Ethereum layer-2 (L2) cited stagnant growth, thin liquidity, restricted DeFi activit…",
+              "url": "https://cryptoslate.com/why-abstract-is-killing-its-ethereum-l2-instead-of-launching-a-token-to-save-it/",
+              "source": "CryptoSlate",
+              "published": "2026-10-07T10:20:52Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/10/abstract-migration-path.webp"
             },
             {
-              "title": "Best Polymarket Trading Bots in 2026: Top Bots for Copy Trading, AFK Trading and Telegram Automation",
-              "description": "Polymarket has become one of the largest prediction markets, but trading it manually can become difficult once you start following multiple markets and wallets. A...\nThe post Best Polymarket Trading Bots in 2026: Top Bots for Copy Trading, AFK Trading and Tel…",
-              "url": "https://bitcoinfoundation.org/news/trading/best-polymarket-trading-bots-in-2026-top-bots-for-copy-trading-afk-trading-and-telegram-automation/",
-              "source": "Bitcoinfoundation.org",
-              "published": "2026-10-06T10:40:20Z",
-              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/Polymarket-Trading-Bots-2026.webp"
-            },
-            {
-              "title": "Morning Minute: Robinhood Adds Perps, Weekend Stocks, and AI Traders",
-              "description": "Robinhood is leaning deeper into crypto as they look to unlock their “everything app” vision.",
-              "url": "https://decrypt.co/379645/morning-minute-robinhood-adds-perps-weekend-stocks-and-ai-traders",
-              "source": "Decrypt",
-              "published": "2026-09-30T11:54:22Z",
-              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/robinhood-decrypt-style-01-gID_7.png"
+              "title": "Cardano’s price breakout could trigger the next ADA squeeze or trap leveraged bulls",
+              "description": "Cardano's value has climbed about 42% since Sept. 16, taking ADA from roughly $0.19 to $0.27, and the positioning behind the move has expanded faster than the dollar liquidity beneath it. Santiment counted 413 transactions of $100,000 or more on Oct. 5, the h…",
+              "url": "https://cryptoslate.com/cardanos-price-breakout-could-trigger-the-next-ada-squeeze-or-trap-leveraged-bulls/",
+              "source": "CryptoSlate",
+              "published": "2026-10-07T09:00:00Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/10/cardano-leverage-liquidity-gap.webp"
             }
           ]
         },
@@ -277,20 +253,60 @@
           "icon": "☁️",
           "articles": [
             {
+              "title": "Bitcoin Is Holding Above $80K, So Why Fear and Greed Index Is Bearish?",
+              "description": "Bitcoin is doing just fine above $80,000, so why is the Fear and Greed Index turning bearish? One important qualification: the index really isn’t bearish...\nThe post Bitcoin Is Holding Above $80K, So Why Fear and Greed Index Is Bearish? appeared first on Bitc…",
+              "url": "https://bitcoinfoundation.org/news/analysis/bitcoin-is-holding-above-80k-so-why-fear-and-greed-index-is-bearish/",
+              "source": "Bitcoinfoundation.org",
+              "published": "2026-10-07T10:53:15Z",
+              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/image-1791370429.webp"
+            },
+            {
+              "title": "Europol Warns Crypto Wallets Are 'Primary Risk' for Quantum Attacks",
+              "description": "The EU police agency expects blockchains to adapt to the threat, while a second report weighs the risk of data stolen now and cracked later.",
+              "url": "https://decrypt.co/380268/europol-warns-crypto-wallets-are-primary-risk-for-quantum-attacks",
+              "source": "Decrypt",
+              "published": "2026-10-07T10:49:16Z",
+              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/04/quantum-decrypt-style-gID_7.jpg"
+            },
+            {
+              "title": "Superform Activates Earn Strategies for Tokenized Stocks on Base, Powered by Aave",
+              "description": "New York, New York, 6th October 2026, Chainwire\nThe post Superform Activates Earn Strategies for Tokenized Stocks on Base, Powered by Aave appeared first on The Daily Hodl.",
+              "url": "https://dailyhodl.com/2026/10/06/superform-activates-earn-strategies-for-tokenized-stocks-on-base-powered-by-aave/",
+              "source": "The Daily Hodl",
+              "published": "2026-10-06T14:30:18Z",
+              "image": "https://dailyhodl.com/wp-content/uploads/2026/10/Frame_11702_1791253918Ef0ZX5l6iP.jpg?resize=1535,1152"
+            },
+            {
+              "title": "NVIDIA, Tesla, SpaceX and Microsoft Among 60+ Stocks Set To Be Tokenized and Available 24/7 Under Proposal From OKX and Intercontinental Exchange",
+              "description": "NVIDIA, Tesla, SpaceX, Microsoft, Amazon and Alphabet are among more than 60 prominent US stocks that could soon be available for 24/7 tokenized trading. OKXICE, the joint venture between crypto exchange OKX and the Intercontinental Exchange (ICE), filed with…",
+              "url": "https://dailyhodl.com/2026/10/06/nvidia-tesla-spacex-and-microsoft-among-60-stocks-set-to-be-tokenized-and-available-24-7-under-proposal-from-okx-and-intercontinental-exchange/",
+              "source": "The Daily Hodl",
+              "published": "2026-10-06T10:47:46Z",
+              "image": "https://dailyhodl.com/wp-content/uploads/2026/10/tokenized-money-market.jpg?resize=266,156"
+            },
+            {
+              "title": "NYSE’s Parent Just Filed to Tokenize 63 US Stocks on a Crypto-Native Exchange — And the SEC Already Gave It Permission",
+              "description": "The most conservative institution in US market infrastructure just filed to tokenize 63 of America’s most recognizable stocks on a crypto-native exchange. Intercontinental Exchange, the parent company of the New York Stock Exchange, and OKX announced OKXICE, …",
+              "url": "https://forkast.news/nyses-parent-just-filed-to-tokenize-63-us-stocks-on-a-crypto-native-exchange-and-the-sec-already-gave-it-permission/",
+              "source": "Forkast.news",
+              "published": "2026-10-06T02:52:59Z",
+              "image": "https://forkast.news/wp-content/uploads/2026/10/okxice-tokenized-us-stocks-venue-1024x572.jpg"
+            },
+            {
+              "title": "The Public Blockchain Debate is Already Obsolete for Banks",
+              "description": "The crypto industry bet the farm on traditional finance ultimately migrating onto public blockchains rather than retreating behind permissioned networks. The cows are now coming home to roost for the sector, after its failure to get comprehensive crypto regul…",
+              "url": "https://www.pymnts.com/blockchain/2026/the-public-blockchain-debate-is-already-obsolete-for-banks/",
+              "source": "pymnts.com",
+              "published": "2026-10-05T19:39:12Z",
+              "image": "https://www.pymnts.com/wp-content/uploads/2018/12/blockchain-banking-real-time-payments.jpg"
+            },
+            {
               "title": "More than 60 U.S. stocks including Nvidia and Tesla are headed onchain. Here’s how it works",
               "description": "The planned 24/7 venue will offer dozens of tokenized U.S. stocks, with trades conducted against stablecoins through blockchain-based liquidity pools rather than a traditional order book.",
               "url": "https://www.coindesk.com/markets/2026/10/05/more-than-60-u-s-stocks-including-nvidia-and-tesla-are-headed-onchain-here-s-how-it-works",
               "source": "CoinDesk",
               "published": "2026-10-05T17:18:14Z",
               "image": "https://cdn.sanity.io/images/s3y3vcno/production/b6e96032161d6dcf99d95c60578a52fdca91b2f3-5594x3147.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75"
-            },
-            {
-              "title": "NYSE owner and OKX plan 24/7 tokenized stock trading using Uniswap",
-              "description": "Intercontinental Exchange and OKX are preparing an always-open market where tokenized US stocks could keep repricing after Wall Street closes. On Oct. 4, OKXICE, the companies' 50-50 joint venture, notified the Securities and Exchange Commission (SEC) that it…",
-              "url": "https://cryptoslate.com/nyse-owner-and-okx-plan-24-7-tokenized-stock-trading-using-uniswap/",
-              "source": "CryptoSlate",
-              "published": "2026-10-05T15:30:48Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/10/tokenized-market-clock.webp"
             },
             {
               "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories",
