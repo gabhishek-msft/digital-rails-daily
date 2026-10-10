@@ -1,5 +1,5 @@
 {
-  "date": "October 09, 2026",
+  "date": "October 10, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -7,20 +7,20 @@
       "color": "#ffb900",
       "articles": [
         {
+          "title": "Monad shifts focus to quantum security and institutional privacy",
+          "description": "Monad's focus on quantum security and institutional privacy could redefine blockchain trust, enhancing compliance and safeguarding future data.\nThe post Monad shifts focus to quantum security and institutional privacy appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/monad-quantum-security-institutional-privacy/",
+          "source": "Crypto Briefing",
+          "published": "2026-10-08T16:54:46Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/08125439/library-monad-shifts-focus-to-quantum-security-and-institutional-800x450.png"
+        },
+        {
           "title": "Show HN: Squidly – Track CEX, DEX and wallet balances in one place",
           "description": "Track every crypto wallet and exchange account as one net worth figure. Read-only and non-custodial: no seed phrase, no private key, no withdrawal access.",
           "url": "https://squidly.finance/",
           "source": "Squidly.finance",
           "published": "2026-10-08T09:27:25Z",
           "image": "https://squidly.finance/og.png"
-        },
-        {
-          "title": "ZKsync opens Prividium core code under Apache 2.0 license",
-          "description": "Open-sourcing Prividium's core code could boost institutional blockchain adoption, enhancing transparency and reducing vendor dependency.\nThe post ZKsync opens Prividium core code under Apache 2.0 license appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/zksync-open-sources-prividium-core-apache/",
-          "source": "Crypto Briefing",
-          "published": "2026-10-07T17:12:24Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/07131220/library-zksync-opens-prividium-core-code-under-apache-2-0-licens-800x450.png"
         },
         {
           "title": "Cardano Turns Up the Heat as CIP-113 Targets Institutional Adoption",
@@ -47,14 +47,6 @@
           "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/NIGHT1.webp"
         },
         {
-          "title": "Former SEC boss made AI Czar, Bitcoin may hit $600K this cycle: Hodler’s Digest",
-          "description": "Jay Clayton prosecuted Roman Storm and XRP — now he’s President Trump’s new AI Czar. Peter Brandt says the Bitcoin bull market has “very good chance of reaching half a million.”",
-          "url": "https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest",
-          "source": "Cointelegraph",
-          "published": "2026-10-04T22:31:12Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M44CDHE2CKEJ0000STF6RMVM/october-2-collage-cover.png"
-        },
-        {
           "title": "Hester Peirce argues financial privacy should be the default, not the exception",
           "description": "Peirce's departure may weaken financial privacy advocacy at the SEC, potentially impacting regulatory approaches to digital assets.\nThe post Hester Peirce argues financial privacy should be the default, not the exception appeared first on Crypto Briefing.",
           "url": "https://cryptobriefing.com/hester-peirce-financial-privacy-default/",
@@ -70,6 +62,22 @@
       "color": "#e6a200",
       "articles": [
         {
+          "title": "Derive Price Prediction: DRV Crypto Surges 27% as V3 Goes Live",
+          "description": "Derive price rose by about 27% on October 9, 2026, due to increased transaction activity with DRV tokens and the release of version 3. Why...\nThe post Derive Price Prediction: DRV Crypto Surges 27% as V3 Goes Live appeared first on Bitcoin Foundation.",
+          "url": "https://bitcoinfoundation.org/news/analysis/derive-price-prediction-drv-crypto-surges-27-as-v3-goes-live/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-10-09T10:36:37Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/Derive-Price-Prediction-DRV-Crypto-Surges-27-as-V3-Goes-Live-2.webp"
+        },
+        {
+          "title": "Dogecoin prepares for upgrade with DogeOS testnet launch",
+          "description": "DogeOS's testnet launch could transform Dogecoin's role in DeFi, enhancing utility and demand for DOGE, but security and timing remain concerns.\nThe post Dogecoin prepares for upgrade with DogeOS testnet launch appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/dogecoin-dogeos-testnet-launch-upgrade/",
+          "source": "Crypto Briefing",
+          "published": "2026-10-09T10:36:03Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/09063559/library-dogecoin-prepares-for-upgrade-with-dogeos-testnet-launch-800x450.png"
+        },
+        {
           "title": "Charles Hoskinson pitches Night Mode as the next step beyond smart contracts at TOKEN2049",
           "description": "Hoskinson's Night Mode could redefine blockchain privacy, potentially expanding Cardano's reach but posing significant technical challenges.\nThe post Charles Hoskinson pitches Night Mode as the next step beyond smart contracts at TOKEN2049 appeared first on C…",
           "url": "https://cryptobriefing.com/hoskinson-night-frame-midnight-token2049/",
@@ -84,22 +92,6 @@
           "source": "Decrypt",
           "published": "2026-10-06T20:28:53Z",
           "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/01/abstract-launch-gID_7.png"
-        },
-        {
-          "title": "Ethereum Now Lets You Pay for AI Without Revealing Who You Are",
-          "description": "Ethereum's zkAPI lets users prepay in USDC and query AI models through cryptographic proofs, so no single party sees both who they are and what they ask.",
-          "url": "https://decrypt.co/379991/ethereum-now-pay-for-ai-without-revealing-identity",
-          "source": "Decrypt",
-          "published": "2026-10-02T20:16:04Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/ethereum-decrypt-style-07-gID_7.jpg"
-        },
-        {
-          "title": "Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity",
-          "description": "Users deposit funds into an Ethereum vault and authorize spending with zero-knowledge proofs, so the API provider can't link requests to a payer.",
-          "url": "https://biztoc.com/x/47ffe1a1372683af",
-          "source": "Biztoc.com",
-          "published": "2026-10-02T00:34:17Z",
-          "image": "https://biztoc.com/cdn/47ffe1a1372683af_s.webp"
         }
       ]
     },
@@ -109,28 +101,99 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Stablecoins Are Quietly Becoming Business Infrastructure, NOWPayments Data Shows",
-          "description": "Tallinn, Estonia, 8th October 2026, Chainwire\nThe post Stablecoins Are Quietly Becoming Business Infrastructure, NOWPayments Data Shows appeared first on The Daily Hodl.",
-          "url": "https://dailyhodl.com/2026/10/08/stablecoins-are-quietly-becoming-business-infrastructure-nowpayments-data-shows/",
-          "source": "The Daily Hodl",
-          "published": "2026-10-08T12:05:54Z",
-          "image": "https://dailyhodl.com/wp-content/uploads/2026/10/00_featured_stablecoin_payments_by_industry_1_1790702115SbAl9dXLbT.jpg?resize=1200,720"
+          "title": "BTQ Technologies Named Security Partner for MoonPay Korea's Stablecoin Infrastructure",
+          "description": "BTQ to bring post-quantum security to MoonPay Korea's full-stack on-chain infrastructure for Korean won stablecoins, from issuance to last-mile delivery, connected to MoonPay's global payments network Post-quantum security across the full stack: BTQ will serv…",
+          "url": "https://www.prnewswire.com/news-releases/btq-technologies-named-security-partner-for-moonpay-koreas-stablecoin-infrastructure-302903357.html",
+          "source": "PRNewswire",
+          "published": "2026-10-09T11:30:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS1803809/BTQ-Technologies-Corp-BTQ-Technologies-Named-Security-Partner-f.jpg?id=OA2996533&p=facebook"
         },
         {
-          "title": "Coinbase Looks to Cash in as Banks Embrace Crypto",
-          "description": "Coinbase is reportedly expanding its services for traditional financial firms amid growing institutional cryptocurrency adoption. Banks are increasingly launching their own digital asset services, and Coinbase is serving as their infrastructure provider while…",
-          "url": "https://biztoc.com/x/4a6ad0ae8a17ca68",
-          "source": "Biztoc.com",
-          "published": "2026-10-08T11:44:53Z",
-          "image": "https://biztoc.com/cdn/996/og.png"
+          "title": "The SEC Just Created a Five-Year Sandbox for Trading Tokenized Stocks on Public Blockchains",
+          "description": "On September 17, 2026, the SEC published Press Release 2026-90 (Release No. 34-106402) – an Innovation Exemption that creates a five-year regulatory sandbox for Tokenized Securities Venues. For the first time, registered broker-dealers and alternative trading…",
+          "url": "https://forkast.news/the-sec-just-created-a-five-year-sandbox-for-trading-tokenized-stocks-on-public-blockchains/",
+          "source": "Forkast.news",
+          "published": "2026-10-09T11:27:12Z",
+          "image": "https://forkast.news/wp-content/uploads/2026/10/forkast-131614-1024x572.jpg"
         },
         {
-          "title": "House Republican warns CBDC 'communist money' could lead US to 'dystopian' future",
-          "description": "Republican Rep. Warren Davidson of Ohio plans to introduce legislation that seeks to prevent the creation of a central bank digital currency.",
-          "url": "https://www.foxnews.com/politics/house-republican-warns-communist-money-lead-us-dystopian-future",
-          "source": "Fox News",
-          "published": "2026-10-08T11:11:37Z",
-          "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/748040e4-e8e3885d-warren-davidson-2-scaled.jpg"
+          "title": "ESMA seeks evidence tokenized collateral can be cashed out in crisis",
+          "description": "ESMA is seeking industry feedback on the legal, liquidity and operational risks of tokenized collateral before deciding whether additional EU regulatory measures are necessary.",
+          "url": "https://cointelegraph.com/news/esma-tokenized-collateral-eu-clearinghouses",
+          "source": "Cointelegraph",
+          "published": "2026-10-09T10:49:24Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4G06R9TT5S4ED9Y271GTGVR/hi-company-wants-to-launch-digital-currency-bank-stablecoin-eu-1.jpg"
+        },
+        {
+          "title": "Thailand opens door to locally listed bitcoin and ether ETFs",
+          "description": "Thailand’s new crypto rules taking effect Oct. 16. They allow Thai asset managers to launch crypto ETFs on the local stock exchange, with bitcoin and ether initially eligible.",
+          "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
+          "source": "CoinDesk",
+          "published": "2026-10-09T10:16:55Z",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/70284126e74d9b4b82638d4995ed0ba9820e80a9-4883x2747.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75"
+        },
+        {
+          "title": "France Moves to Tax Stablecoin Swaps as 10-Year Crypto Loss Relief Advances",
+          "description": "French lawmakers have passed a bill to require taxation on certain crypto trades involving stablecoins and to extend the capital loss carryback period for cryptocurrency...\nThe post France Moves to Tax Stablecoin Swaps as 10-Year Crypto Loss Relief Advances a…",
+          "url": "https://bitcoinfoundation.org/news/regulation/france-moves-to-tax-stablecoin-swaps-as-10-year-crypto-loss-relief-advances/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-10-09T08:42:13Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/France-Moves-to-Tax-Stablecoin-Swaps-as-10-Year-Crypto-Loss-Relief-Advances-2.webp"
+        },
+        {
+          "title": "EU regulators target non-compliant stablecoins with a 90-day deadline",
+          "description": "National regulators should require remediation within three months and may permit narrowly supervised exit services for existing holdings.\nThe post EU regulators target non-compliant stablecoins with a 90-day deadline appeared first on CryptoSlate.",
+          "url": "https://cryptoslate.com/eu-regulators-target-non-compliant-stablecoins-with-a-90-day-deadline/",
+          "source": "CryptoSlate",
+          "published": "2026-10-09T07:20:02Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/10/mica-stablecoin-wind-down-standard.jpg"
+        },
+        {
+          "title": "Sui And Alibaba Cloud Want AI Agents Paying Their Own Cloud Bills In Stablecoins",
+          "description": "Sui and Alibaba Cloud are working on an integration that would let AI agents pay for cloud services per request using stablecoins within budgets set by their owners. The collaboration was unveiled at Sui Basecamp and remains under development, with no public …",
+          "url": "https://bitcoinist.com/sui-and-alibaba-cloud-want-ai-agents-paying-their-own-cloud-bills-in/",
+          "source": "Bitcoinist",
+          "published": "2026-10-09T01:00:00Z",
+          "image": "https://bitcoinist.com/wp-content/uploads/2026/10/image2.png"
+        },
+        {
+          "title": "Moscow Exchange Plans To Open Crypto Trading On December 1",
+          "description": "Moscow Exchange plans to begin offering cryptocurrency trading from December 1 and says testing with professional market participants is already underway. Under Russia's new framework, unqualified investors are expected to face limits on which assets they can…",
+          "url": "https://bitcoinist.com/moscow-exchange-plans-to-open-crypto-trading-on-december-1/",
+          "source": "Bitcoinist",
+          "published": "2026-10-09T00:00:00Z",
+          "image": "https://bitcoinist.com/wp-content/uploads/2026/10/image3.png"
+        }
+      ]
+    },
+    "industries": {
+      "title": "Blockchain Beyond Finance",
+      "icon": "🏥",
+      "color": "#00cc88",
+      "articles": [
+        {
+          "title": "XRP Ledger Flips Ethereum to Become New King of Tokenized Commodities as XRP’s Utility Story Heats Up",
+          "description": "XRP Ledger, long pigeonholed as a settlement network for cross-border payments, dethroned Ethereum in tokenized commodity growth in 2026.",
+          "url": "https://zycrypto.com/xrp-ledger-flips-ethereum-to-become-new-king-of-tokenized-commodities-as-xrps-utility-story-heats-up/",
+          "source": "ZyCrypto",
+          "published": "2026-10-09T11:23:34Z",
+          "image": "https://zycrypto.com/wp-content/uploads/2026/03/Ripples-XRP-Millionaires-are-Back-in-Business-As-Market-Pundits-Cite-Expected-Price-Target.jpg"
+        },
+        {
+          "title": "Trump administration outlines quantum, AI initiatives in $6B science push",
+          "description": "The White House outlined a $215 million quantum computing competition and $2.4 billion in AI industry commitments as concerns grow over quantum threats to cryptocurrency security.",
+          "url": "https://cointelegraph.com/news/trump-administration-quantum-computing-ai-6-billion-science-push",
+          "source": "Cointelegraph",
+          "published": "2026-10-09T05:25:27Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FG6B1R6A2XBTWZ9CFPZ8SJ/ai-and-quantum.png"
+        },
+        {
+          "title": "The SEC Wrote Tokenized Securities Rules 47 Years in the Making. The Market Had Already Moved.",
+          "description": "The plumbing of the American financial system is essentially a collection of dusty ledgers that have been digitized but rarely reimagined. For decades, the transfer agent—the entity responsible for maintaining the master securityholder file—has operated under…",
+          "url": "https://forkast.news/the-sec-wrote-tokenized-securities-rules-47-years-in-the-making-the-market-had-already-moved/",
+          "source": "Forkast.news",
+          "published": "2026-10-08T17:37:22Z",
+          "image": "https://forkast.news/wp-content/uploads/2026/10/sec-transfer-agent-dlt-rule-regulatory-layer-1024x687.jpg"
         },
         {
           "title": "Broadridge's Distributed Ledger Repo Processes $7.5 Trillion in September",
@@ -141,91 +204,12 @@
           "image": "https://mmx.prnewswire.com/media/MS242893/Broadridge-2023-Logo.jpg?id=OA2992421&p=facebook"
         },
         {
-          "title": "Market Analyst Calls Cardano Data “Insane,” Insists ADA Is Far From Dead — Here’s Why",
-          "description": "Cardano may be down more than 90% from its all-time high, but one market analyst believes writing off ADA as “dead” could be a costly mistake.",
-          "url": "https://zycrypto.com/market-analyst-calls-cardano-data-insane-insists-ada-is-far-from-dead-heres-why/",
-          "source": "ZyCrypto",
-          "published": "2026-10-08T10:07:01Z",
-          "image": "https://zycrypto.com/wp-content/uploads/2025/05/The-3-Cardano-Prophecy-Why-Whales-Are-Accumulating-Millions-While-ADA-Battles-to-Reclaim-All-Time-High.jpg"
-        },
-        {
-          "title": "US Government Moves $770M in Bitcoin to Coinbase Prime: Is BTC Facing a Massive Sell-Off?",
-          "description": "The US government just moved roughly $770 million in Bitcoin to Coinbase Prime, causing some to believe that a large-scale BTC sell-off is coming. Per...\nThe post US Government Moves $770M in Bitcoin to Coinbase Prime: Is BTC Facing a Massive Sell-Off? appear…",
-          "url": "https://bitcoinfoundation.org/news/analysis/btc-sell-off-us-government-moves-770m/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-10-08T09:57:03Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/image-1791453479.webp"
-        },
-        {
-          "title": "Standard Chartered to expand institutional crypto and RWA custody to Singapore",
-          "description": "Standard Chartered to expand institutional crypto and RWA custody to Singapore\nThe bank would offer the service to institutions and accredited corporate investors, subject to regulatory requirements.\n- Standard Chartered plans to offer digital-asset custody i…",
-          "url": "https://biztoc.com/x/2eacf8d480d4278a",
-          "source": "Biztoc.com",
-          "published": "2026-10-08T09:43:36Z",
-          "image": "https://biztoc.com/cdn/2eacf8d480d4278a_s.webp"
-        },
-        {
-          "title": "How to Use SoFi Crypto: A Step-by-Step Guide to Buying Bitcoin",
-          "description": "Buying Bitcoin through SoFi Crypto is really easy. If you are already using the app to access banking or investing, there is no need to...\nThe post How to Use SoFi Crypto: A Step-by-Step Guide to Buying Bitcoin appeared first on Bitcoin Foundation.",
-          "url": "https://bitcoinfoundation.org/news/defi/how-to-use-sofi-crypto-a-step-by-step-guide-to-buying-bitcoin/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-10-08T09:22:03Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/image-1791451341.webp"
-        }
-      ]
-    },
-    "industries": {
-      "title": "Blockchain Beyond Finance",
-      "icon": "🏥",
-      "color": "#00cc88",
-      "articles": [
-        {
-          "title": "Hyperscale Data Announces Live Access to Decentralized Exchange on the Ault Blockchain through Ault Markets",
-          "description": "LAS VEGAS, Oct. 8, 2026 /PRNewswire/ -- Hyperscale Data, Inc. (NYSE American: GPUS), an artificial intelligence (\"AI\") data center company (\"Hyperscale Data\" or the \"Company\"), today announced that Ault Markets is now providing live, invite-only access to the…",
-          "url": "https://www.prnewswire.com/news-releases/hyperscale-data-announces-live-access-to-decentralized-exchange-on-the-ault-blockchain-through-ault-markets-302902050.html",
-          "source": "PRNewswire",
-          "published": "2026-10-08T10:30:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS1845972/Hyperscale-Data-Registered-Mark-Logo.jpg?id=OA2994285&p=facebook"
-        },
-        {
-          "title": "Bitcoin loans are paying for tuition and working capital, not just trades, lenders say",
-          "description": "Bitcoin-backed lending is evolving into a mainstream source of credit, with borrowers using BTC to access liquidity without selling.",
-          "url": "https://www.coindesk.com/markets/2026/10/08/bitcoin-loans-are-paying-for-tuition-and-working-capital-not-just-trades-lenders-say",
-          "source": "CoinDesk",
-          "published": "2026-10-08T05:40:41Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/bc36ed29f9a378600a32086ff9de3eb232b4408d-6000x4000.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75"
-        },
-        {
-          "title": "Hashi Mainnet to Launch With $500M in Capital Backing, Adds Anchorage Digital to Coalition",
-          "description": "Singapore, Singapore, 8th October 2026, Chainwire\nThe post Hashi Mainnet to Launch With $500M in Capital Backing, Adds Anchorage Digital to Coalition appeared first on The Daily Hodl.",
-          "url": "https://dailyhodl.com/2026/10/07/hashi-mainnet-to-launch-with-500m-in-capital-backing-adds-anchorage-digital-to-coalition/",
-          "source": "The Daily Hodl",
-          "published": "2026-10-08T01:00:13Z",
-          "image": "https://dailyhodl.com/wp-content/uploads/2026/10/PR_Header_0918_Hashi_Mainnet_Goes_Live_1791380531bQY0oi9QJV.jpg?resize=1200,720"
-        },
-        {
           "title": "PoSFed: stake-aware validator selection and update filtering for blockchain-coordinated healthcare federated learning",
           "description": "Scientific Reports - PoSFed: stake-aware validator selection and update filtering for blockchain-coordinated healthcare federated learning",
           "url": "https://www.nature.com/articles/s41598-026-70980-x.pdf",
           "source": "Nature.com",
           "published": "2026-10-08T00:00:00Z",
           "image": null
-        },
-        {
-          "title": "SoFi Co-Founder Mike Cagney Raises $19 Million For New On-Chain Finance Startup",
-          "description": "Navra, the latest company led by SoFi and Figure co-founder Mike Cagney, has raised $19 million in Series A funding. The startup is building an interface intended to make on-chain lending, yield products and securities markets easier for traditional investors…",
-          "url": "https://bitcoinist.com/sofi-co-founder-mike-cagney-raises-19-million-for-new-on-chain/",
-          "source": "Bitcoinist",
-          "published": "2026-10-08T00:00:00Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/10/5cbc74db64394915ab1c4b4435f65070.jpg"
-        },
-        {
-          "title": "Frax Makes Internet History with .frax, the First ICANN Top-Level Domain Application from a Crypto Company",
-          "description": ".frax would connect a globally recognized internet domain with onchain ownership, payments, and AI-native commerce LAS VEGAS, Oct. 7, 2026 /PRNewswire/ -- Frax today became the first crypto company to have its own top-level domain application revealed by ICAN…",
-          "url": "https://www.prnewswire.com/news-releases/frax-makes-internet-history-with-frax-the-first-icann-top-level-domain-application-from-a-crypto-company-302901658.html",
-          "source": "PRNewswire",
-          "published": "2026-10-07T20:49:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS2003854/frax-1.jpg?id=OA2991277&p=facebook"
         },
         {
           "title": "UK names 6 banks to lead first digitally native government bond",
@@ -247,12 +231,20 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Travala Launches Native AI Travel Agent with BNB Chain & Binance Pay",
-              "description": "Singapore, Singapore, 8th October 2026, Chainwire\nThe post Travala Launches Native AI Travel Agent with BNB Chain & Binance Pay appeared first on The Daily Hodl.",
-              "url": "https://dailyhodl.com/2026/10/08/travala-launches-native-ai-travel-agent-with-bnb-chain-binance-pay/",
-              "source": "The Daily Hodl",
-              "published": "2026-10-08T12:00:21Z",
-              "image": "https://dailyhodl.com/wp-content/uploads/2026/10/1200x720-no_text_1791274267sqLluy9F71.jpg?resize=1200,720"
+              "title": "Morning Minute: Uptober Turns Sour as Crypto Majors Slide",
+              "description": "Is this the beginning of a bigger selloff with the anniversary of 10/10 looming? Or just a leverage flush before the next leg up?",
+              "url": "https://decrypt.co/380569/morning-minute-uptober-turns-sour-as-crypto-majors-slide",
+              "source": "Decrypt",
+              "published": "2026-10-09T11:41:15Z",
+              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/bitcoin-down-decrypt-style-gID_7.png"
+            },
+            {
+              "title": "Sam Altman-backed bitcoin life insurer Meanwhile raises $37.5 million round led by Bain Capital Crypto",
+              "description": "Meanwhile raised $37.5M from existing investors, bringing the Sam Altman-backed bitcoin life insurer's total funding above $180 million.",
+              "url": "https://biztoc.com/x/67687d09b6583b63",
+              "source": "Biztoc.com",
+              "published": "2026-10-09T10:39:20Z",
+              "image": "https://biztoc.com/cdn/67687d09b6583b63_s.webp"
             },
             {
               "title": "Vitalik Buterin urges calm as AI raises new fears over Bitcoin and Ethereum cryptography security",
@@ -269,20 +261,52 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "Europol and US GAO Sound the Alarm Over Quantum Threats",
-              "description": "Europol and US Government Accountability Office urge faster transition to post-quantum cryptography",
-              "url": "https://www.infosecurity-magazine.com/news/europol-us-gao-alarm-quantum/",
-              "source": "Infosecurity Magazine",
-              "published": "2026-10-08T09:30:00Z",
-              "image": "https://assets.infosecurity-magazine.com/webpage/og/6db34e9c-6fbb-41ad-b7d3-0c1cb2907fab.jpeg"
+              "title": "AI agents can pay for your shopping. Who gets your money back?",
+              "description": "Amazon's Bedrock AgentCore Payments, built with Coinbase and Stripe, lets AI agents discover paid services, authenticate, and pay with stablecoins and x402 under preset spending limits. AI agents are getting wallets before merchants get a court, and shopping …",
+              "url": "https://cryptoslate.com/ai-agents-hijack-online-shopping-forcing-a-6b-merchant-crisis/",
+              "source": "CryptoSlate",
+              "published": "2026-10-09T10:40:44Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/10/autonomous-commerce-disputes.webp"
             },
             {
-              "title": "Crypto news site Cointelegraph seeks buyer after web traffic plunges",
-              "description": "Cointelegraph’s fortunes were heavily impacted by Google. The crypto news outlet suffered an 80% drop in organic traffic after Google issued a manual penalty in October 2025.\n- Cointelegraph was last acquired back in July 2022 by Luna Media Corporation to fun…",
-              "url": "https://biztoc.com/x/92b6fbcd025ddbf5",
-              "source": "Biztoc.com",
-              "published": "2026-10-08T00:42:17Z",
-              "image": "https://biztoc.com/cdn/92b6fbcd025ddbf5_s.webp"
+              "title": "Researchers uncover new DarkSword spyware variant affecting unpatched iPhones",
+              "description": "iVerify released a report today detailing P7 DarkSword, a new variant of the malware associated with the DarkSword iPhone exploit chain uncovered earlier this year. Here are the details.\n\n\n\n more…",
+              "url": "https://9to5mac.com/2026/10/08/researchers-uncover-new-darksword-spyware-variant-affecting-unpatched-iphones/",
+              "source": "9to5Mac",
+              "published": "2026-10-08T23:08:18Z",
+              "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&strip=all&resize=1200,628"
+            },
+            {
+              "title": "New Humble Bundle featuring comics published by Dstlry",
+              "description": "Starts at $5 for five comics. (Lots of top creators. I think this was the comic experiment (ongoing?) that tried to create digital collectibles using something like but different from (?) blockchain tech, but the Humble Bundle listing says the comics can be d…",
+              "url": "https://www.superpunch.net/2026/10/new-humble-bundle-featuring-comics.html",
+              "source": "Superpunch.net",
+              "published": "2026-10-08T20:39:33Z",
+              "image": null
+            },
+            {
+              "title": "Securitize Brings Nvidia, Apple and Amazon Onchain With Tokenized Stocks on Solana",
+              "description": "The new Securitize Stocks product launches with 12 names backed one-to-one by real shares—preserving dividends and voting rights—trading first on Solana, with NYSE and OKX-ICE venues planned.",
+              "url": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
+              "source": "Decrypt",
+              "published": "2026-10-08T15:10:49Z",
+              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/01/decrypt-style-wall-street-gID_7.png"
+            },
+            {
+              "title": "Securitize brings Apple, Nvidia and Tesla to Solana, with NYSE trading in the works",
+              "description": "Tokenized shares in the mega-caps will first trade on Securitize's Solana-based platform, with further plans to expand them to NYSE and OKXICE digital venues, the firm said.",
+              "url": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works",
+              "source": "CoinDesk",
+              "published": "2026-10-08T13:06:24Z",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/0df058fe321b648948d8a5b690588aaafbb157fe-2048x1152.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75"
+            },
+            {
+              "title": "Smart contracts: Ship the parachute in v1",
+              "description": "Your v1 smart contract is not done until it can survive you.",
+              "url": "https://medium.com/@giladha/ship-the-parachute-in-v1-why-upgradeability-and-disaster-recovery-are-not-v2-features-88191f35ba1c",
+              "source": "Medium",
+              "published": "2026-10-08T05:39:23Z",
+              "image": "https://miro.medium.com/v2/resize:fit:612/1*LDxFxAI49lySEhcqKGZrIw.jpeg"
             },
             {
               "title": "Europol Warns Crypto Wallets Are 'Primary Risk' for Quantum Attacks",
@@ -293,28 +317,12 @@
               "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/04/quantum-decrypt-style-gID_7.jpg"
             },
             {
-              "title": "NVIDIA, Tesla, SpaceX and Microsoft Among 60+ Stocks Set To Be Tokenized and Available 24/7 Under Proposal From OKX and Intercontinental Exchange",
-              "description": "NVIDIA, Tesla, SpaceX, Microsoft, Amazon and Alphabet are among more than 60 prominent US stocks that could soon be available for 24/7 tokenized trading. OKXICE, the joint venture between crypto exchange OKX and the Intercontinental Exchange (ICE), filed with…",
-              "url": "https://dailyhodl.com/2026/10/06/nvidia-tesla-spacex-and-microsoft-among-60-stocks-set-to-be-tokenized-and-available-24-7-under-proposal-from-okx-and-intercontinental-exchange/",
+              "title": "Superform Activates Earn Strategies for Tokenized Stocks on Base, Powered by Aave",
+              "description": "New York, New York, 6th October 2026, Chainwire\nThe post Superform Activates Earn Strategies for Tokenized Stocks on Base, Powered by Aave appeared first on The Daily Hodl.",
+              "url": "https://dailyhodl.com/2026/10/06/superform-activates-earn-strategies-for-tokenized-stocks-on-base-powered-by-aave/",
               "source": "The Daily Hodl",
-              "published": "2026-10-06T10:47:46Z",
-              "image": "https://dailyhodl.com/wp-content/uploads/2026/10/tokenized-money-market.jpg?resize=266,156"
-            },
-            {
-              "title": "NYSE’s Parent Just Filed to Tokenize 63 US Stocks on a Crypto-Native Exchange — And the SEC Already Gave It Permission",
-              "description": "The most conservative institution in US market infrastructure just filed to tokenize 63 of America’s most recognizable stocks on a crypto-native exchange. Intercontinental Exchange, the parent company of the New York Stock Exchange, and OKX announced OKXICE, …",
-              "url": "https://forkast.news/nyses-parent-just-filed-to-tokenize-63-us-stocks-on-a-crypto-native-exchange-and-the-sec-already-gave-it-permission/",
-              "source": "Forkast.news",
-              "published": "2026-10-06T02:52:59Z",
-              "image": "https://forkast.news/wp-content/uploads/2026/10/okxice-tokenized-us-stocks-venue-1024x572.jpg"
-            },
-            {
-              "title": "More than 60 U.S. stocks including Nvidia and Tesla are headed onchain. Here’s how it works",
-              "description": "The planned 24/7 venue will offer dozens of tokenized U.S. stocks, with trades conducted against stablecoins through blockchain-based liquidity pools rather than a traditional order book.",
-              "url": "https://www.coindesk.com/markets/2026/10/05/more-than-60-u-s-stocks-including-nvidia-and-tesla-are-headed-onchain-here-s-how-it-works",
-              "source": "CoinDesk",
-              "published": "2026-10-05T17:18:14Z",
-              "image": "https://cdn.sanity.io/images/s3y3vcno/production/b6e96032161d6dcf99d95c60578a52fdca91b2f3-5594x3147.jpg?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75"
+              "published": "2026-10-06T14:30:18Z",
+              "image": "https://dailyhodl.com/wp-content/uploads/2026/10/Frame_11702_1791253918Ef0ZX5l6iP.jpg?resize=1535,1152"
             }
           ]
         }
