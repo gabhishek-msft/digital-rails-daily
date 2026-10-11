@@ -1,11 +1,19 @@
 {
-  "date": "October 10, 2026",
+  "date": "October 11, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "Ethereum L2 Starknet Jumps 20% After Saying It Wants to Become an L1",
+          "description": "Starknet is \"actively considering\" becoming its own blockchain, a move it says would make it the first fully quantum-resistant network by 2027.",
+          "url": "https://decrypt.co/380585/ethereum-l2-starknet-jumps-20-after-saying-it-wants-to-become-an-l1",
+          "source": "Decrypt",
+          "published": "2026-10-09T16:36:03Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/ai-decrypt-style-13-gID_7.png"
+        },
         {
           "title": "Monad shifts focus to quantum security and institutional privacy",
           "description": "Monad's focus on quantum security and institutional privacy could redefine blockchain trust, enhancing compliance and safeguarding future data.\nThe post Monad shifts focus to quantum security and institutional privacy appeared first on Crypto Briefing.",
@@ -21,6 +29,14 @@
           "source": "Squidly.finance",
           "published": "2026-10-08T09:27:25Z",
           "image": "https://squidly.finance/og.png"
+        },
+        {
+          "title": "ZKsync opens Prividium core code under Apache 2.0 license",
+          "description": "Open-sourcing Prividium's core code could boost institutional blockchain adoption, enhancing transparency and reducing vendor dependency.\nThe post ZKsync opens Prividium core code under Apache 2.0 license appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/zksync-open-sources-prividium-core-apache/",
+          "source": "Crypto Briefing",
+          "published": "2026-10-07T17:12:24Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/07131220/library-zksync-opens-prividium-core-code-under-apache-2-0-licens-800x450.png"
         },
         {
           "title": "Cardano Turns Up the Heat as CIP-113 Targets Institutional Adoption",
@@ -45,14 +61,6 @@
           "source": "Bitcoinfoundation.org",
           "published": "2026-10-05T13:53:04Z",
           "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/NIGHT1.webp"
-        },
-        {
-          "title": "Hester Peirce argues financial privacy should be the default, not the exception",
-          "description": "Peirce's departure may weaken financial privacy advocacy at the SEC, potentially impacting regulatory approaches to digital assets.\nThe post Hester Peirce argues financial privacy should be the default, not the exception appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/hester-peirce-financial-privacy-default/",
-          "source": "Crypto Briefing",
-          "published": "2026-10-03T09:06:05Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2020/12/02092245/link-bull-1024x538.jpg"
         }
       ]
     },
@@ -61,6 +69,14 @@
       "icon": "🔐",
       "color": "#e6a200",
       "articles": [
+        {
+          "title": "Starknet’s Stwo prover cuts peak memory to 2.1 GiB, putting STARK proofs on phones",
+          "description": "Stwo's memory optimization enables broader access to decentralized applications, enhancing privacy and security by localizing proof generation.\nThe post Starknet’s Stwo prover cuts peak memory to 2.1 GiB, putting STARK proofs on phones appeared first on Crypt…",
+          "url": "https://cryptobriefing.com/starknet-stwo-prover-mobile-stark-proofs/",
+          "source": "Crypto Briefing",
+          "published": "2026-10-09T15:54:39Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2020/12/02092245/link-bull-1024x538.jpg"
+        },
         {
           "title": "Derive Price Prediction: DRV Crypto Surges 27% as V3 Goes Live",
           "description": "Derive price rose by about 27% on October 9, 2026, due to increased transaction activity with DRV tokens and the release of version 3. Why...\nThe post Derive Price Prediction: DRV Crypto Surges 27% as V3 Goes Live appeared first on Bitcoin Foundation.",
@@ -78,14 +94,6 @@
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/09063559/library-dogecoin-prepares-for-upgrade-with-dogeos-testnet-launch-800x450.png"
         },
         {
-          "title": "Charles Hoskinson pitches Night Mode as the next step beyond smart contracts at TOKEN2049",
-          "description": "Hoskinson's Night Mode could redefine blockchain privacy, potentially expanding Cardano's reach but posing significant technical challenges.\nThe post Charles Hoskinson pitches Night Mode as the next step beyond smart contracts at TOKEN2049 appeared first on C…",
-          "url": "https://cryptobriefing.com/hoskinson-night-frame-midnight-token2049/",
-          "source": "Crypto Briefing",
-          "published": "2026-10-08T02:29:01Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2020/12/02092245/link-bull-1024x538.jpg"
-        },
-        {
           "title": "Pudgy Penguins' Ethereum Layer-2 Abstract Is Shutting Down",
           "description": "Abstract will shut down Dec. 15, saying a chain focused solely on consumer crypto proved unsustainable, and is urging users to bridge their assets off before then.",
           "url": "https://decrypt.co/380225/pudgy-penguin-ethereum-layer-2-abstract-shutting-down",
@@ -101,68 +109,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "BTQ Technologies Named Security Partner for MoonPay Korea's Stablecoin Infrastructure",
-          "description": "BTQ to bring post-quantum security to MoonPay Korea's full-stack on-chain infrastructure for Korean won stablecoins, from issuance to last-mile delivery, connected to MoonPay's global payments network Post-quantum security across the full stack: BTQ will serv…",
-          "url": "https://www.prnewswire.com/news-releases/btq-technologies-named-security-partner-for-moonpay-koreas-stablecoin-infrastructure-302903357.html",
+          "title": "Tokenized Stocks: Best Proven Launch on Solana",
+          "description": "Tokenized stocks are gaining attention as Securitize launches on Solana, leading to a 10% rise in shares.",
+          "url": "https://blogdoandroid.com/tokenized-stocks/",
+          "source": "Blogdoandroid.com",
+          "published": "2026-10-10T06:50:10Z",
+          "image": "https://blogdoandroid.com/wp-content/uploads/2026/10/tokenized-stocks.jpg"
+        },
+        {
+          "title": "Evernorth Completes Business Combination with Armada Acquisition Corp. II",
+          "description": "Company enters the public markets holding approximately 473 million XRP and approximately $300 million in gross cash proceeds; shares to begin trading on Nasdaq on October 12, 2026 under the ticker XRPN SAN FRANCISCO, Oct. 9, 2026 /PRNewswire/ -- Evernorth Ho…",
+          "url": "https://www.prnewswire.com/news-releases/evernorth-completes-business-combination-with-armada-acquisition-corp-ii-302903875.html",
           "source": "PRNewswire",
-          "published": "2026-10-09T11:30:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS1803809/BTQ-Technologies-Corp-BTQ-Technologies-Named-Security-Partner-f.jpg?id=OA2996533&p=facebook"
+          "published": "2026-10-09T20:51:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS1977128/Evernorth-Logo.jpg?id=OA2998684&p=facebook"
         },
         {
-          "title": "The SEC Just Created a Five-Year Sandbox for Trading Tokenized Stocks on Public Blockchains",
-          "description": "On September 17, 2026, the SEC published Press Release 2026-90 (Release No. 34-106402) – an Innovation Exemption that creates a five-year regulatory sandbox for Tokenized Securities Venues. For the first time, registered broker-dealers and alternative trading…",
-          "url": "https://forkast.news/the-sec-just-created-a-five-year-sandbox-for-trading-tokenized-stocks-on-public-blockchains/",
-          "source": "Forkast.news",
-          "published": "2026-10-09T11:27:12Z",
-          "image": "https://forkast.news/wp-content/uploads/2026/10/forkast-131614-1024x572.jpg"
-        },
-        {
-          "title": "ESMA seeks evidence tokenized collateral can be cashed out in crisis",
-          "description": "ESMA is seeking industry feedback on the legal, liquidity and operational risks of tokenized collateral before deciding whether additional EU regulatory measures are necessary.",
-          "url": "https://cointelegraph.com/news/esma-tokenized-collateral-eu-clearinghouses",
-          "source": "Cointelegraph",
-          "published": "2026-10-09T10:49:24Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4G06R9TT5S4ED9Y271GTGVR/hi-company-wants-to-launch-digital-currency-bank-stablecoin-eu-1.jpg"
-        },
-        {
-          "title": "Thailand opens door to locally listed bitcoin and ether ETFs",
-          "description": "Thailand’s new crypto rules taking effect Oct. 16. They allow Thai asset managers to launch crypto ETFs on the local stock exchange, with bitcoin and ether initially eligible.",
-          "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
-          "source": "CoinDesk",
-          "published": "2026-10-09T10:16:55Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/70284126e74d9b4b82638d4995ed0ba9820e80a9-4883x2747.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75"
-        },
-        {
-          "title": "France Moves to Tax Stablecoin Swaps as 10-Year Crypto Loss Relief Advances",
-          "description": "French lawmakers have passed a bill to require taxation on certain crypto trades involving stablecoins and to extend the capital loss carryback period for cryptocurrency...\nThe post France Moves to Tax Stablecoin Swaps as 10-Year Crypto Loss Relief Advances a…",
-          "url": "https://bitcoinfoundation.org/news/regulation/france-moves-to-tax-stablecoin-swaps-as-10-year-crypto-loss-relief-advances/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-10-09T08:42:13Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/France-Moves-to-Tax-Stablecoin-Swaps-as-10-Year-Crypto-Loss-Relief-Advances-2.webp"
-        },
-        {
-          "title": "EU regulators target non-compliant stablecoins with a 90-day deadline",
-          "description": "National regulators should require remediation within three months and may permit narrowly supervised exit services for existing holdings.\nThe post EU regulators target non-compliant stablecoins with a 90-day deadline appeared first on CryptoSlate.",
-          "url": "https://cryptoslate.com/eu-regulators-target-non-compliant-stablecoins-with-a-90-day-deadline/",
+          "title": "XRP Ledger lets institutions share account duties without sharing their keys",
+          "description": "The XRP Ledger (XRPL) now lets institutions delegate account tasks while retaining control of their primary signing keys. The PermissionDelegationV1_1 amendment went live on Oct. 8 at ledger 107,524,865. It lets account owners assign specific transaction perm…",
+          "url": "https://cryptoslate.com/ripple-wants-to-turn-xrpls-4-5-billion-in-tokenized-assets-into-round-the-clock-collateral/",
           "source": "CryptoSlate",
-          "published": "2026-10-09T07:20:02Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/10/mica-stablecoin-wind-down-standard.jpg"
+          "published": "2026-10-09T20:00:29Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/10/xrpl-delegated-account-controls-no-key-sharing.webp"
         },
         {
-          "title": "Sui And Alibaba Cloud Want AI Agents Paying Their Own Cloud Bills In Stablecoins",
-          "description": "Sui and Alibaba Cloud are working on an integration that would let AI agents pay for cloud services per request using stablecoins within budgets set by their owners. The collaboration was unveiled at Sui Basecamp and remains under development, with no public …",
-          "url": "https://bitcoinist.com/sui-and-alibaba-cloud-want-ai-agents-paying-their-own-cloud-bills-in/",
-          "source": "Bitcoinist",
-          "published": "2026-10-09T01:00:00Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/10/image2.png"
+          "title": "NCUA Proposes 26 Stablecoin Account Codes, Extending GENIUS Act Reporting to Credit Unions",
+          "description": "The NCUA’s New Data Playbook for Stablecoins The National Credit Union Administration (NCUA) has proposed its first stablecoin-specific reporting infrastructure. On October 9, 2026, the agency published a notice in the Federal Register proposing a new Schedul…",
+          "url": "https://forkast.news/ncua-proposes-26-stablecoin-account-codes-extending-genius-act-reporting-to-credit-unions/",
+          "source": "Forkast.news",
+          "published": "2026-10-09T19:17:50Z",
+          "image": "https://forkast.news/wp-content/uploads/2026/10/ncua-stablecoin-schedule-j-1024x572.jpg"
         },
         {
-          "title": "Moscow Exchange Plans To Open Crypto Trading On December 1",
-          "description": "Moscow Exchange plans to begin offering cryptocurrency trading from December 1 and says testing with professional market participants is already underway. Under Russia's new framework, unqualified investors are expected to face limits on which assets they can…",
-          "url": "https://bitcoinist.com/moscow-exchange-plans-to-open-crypto-trading-on-december-1/",
-          "source": "Bitcoinist",
-          "published": "2026-10-09T00:00:00Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/10/image3.png"
+          "title": "USDF vs USDT: Why Traders Are Looking at Falcon Finance’s High-Yield Stablecoin",
+          "description": "USDT is the biggest stablecoin in crypto, with a market capitalization above $183 billion and tens of billions of dollars changing hands every day. Falcon...\nThe post USDF vs USDT: Why Traders Are Looking at Falcon Finance’s High-Yield Stablecoin appeared fir…",
+          "url": "https://bitcoinfoundation.org/news/stablecoins/usdf-vs-usdt/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-10-09T17:49:00Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/image-1791558200.webp"
+        },
+        {
+          "title": "Is Crypto Dead? Or More Influential Than Ever?",
+          "description": "Ben McKenzie is a celebrity who investigated crypto during the pandemic, rather than shilling for it. He describes the currency’s strange journey.",
+          "url": "https://www.theatlantic.com/podcasts/2026/10/crypto-influence-politics-ben-mckenzie/688946/?utm_source=feed",
+          "source": "The Atlantic",
+          "published": "2026-10-09T17:00:00Z",
+          "image": null
+        },
+        {
+          "title": "Mastercard CEO Says Stablecoins Solve Cross-Border Payment Delays",
+          "description": "Cross-border payments are proving to be the strongest use case for stablecoins, Mastercard CEO Michael Miebach said Friday (Oct. 9), Bloomberg reported. During an interview with Bloomberg TV, Miebach said stablecoins provide an alternative to traditional meth…",
+          "url": "https://www.pymnts.com/news/cross-border-payments/2026/mastercard-ceo-says-stablecoins-solve-cross-border-payment-delays/",
+          "source": "pymnts.com",
+          "published": "2026-10-09T16:47:10Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/07/Mastercard.jpeg"
+        },
+        {
+          "title": "/UPDATE -- BTQ Technologies Corp./",
+          "description": "In the news release, BTQ Technologies Named Security Partner for MoonPay Korea's Stablecoin Infrastructure, issued 09-Oct-2026 by BTQ Technologies Corp. over PR Newswire, we are advised by the company that this release has been updated to include new informat…",
+          "url": "https://www.prnewswire.com/news-releases/btq-technologies-named-security-partner-for-moonpay-koreas-stablecoin-infrastructure-302903690.html",
+          "source": "PRNewswire",
+          "published": "2026-10-09T16:26:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS1803809/BTQ-Technologies-Corp-BTQ-Technologies-Named-Security-Partner-f.jpg?id=OA2996533&p=facebook"
         }
       ]
     },
@@ -172,20 +180,20 @@
       "color": "#00cc88",
       "articles": [
         {
+          "title": "What to know about 'perps,' the popular crypto-powered trade expanding across markets",
+          "description": "Perpetual futures have exploded overseas, and more platforms are angling to offer the blockchain-powered contracts to US traders. Here's what to know.",
+          "url": "https://www.businessinsider.com/perpetual-futures-high-risk-crypto-trading-trump-cftc-bitcoin-perps-2026-10#article",
+          "source": "Business Insider",
+          "published": "2026-10-09T12:27:52Z",
+          "image": "https://i.insider.com/6ac8dd27301bb0551f494283?width=1200&format=jpeg"
+        },
+        {
           "title": "XRP Ledger Flips Ethereum to Become New King of Tokenized Commodities as XRP’s Utility Story Heats Up",
           "description": "XRP Ledger, long pigeonholed as a settlement network for cross-border payments, dethroned Ethereum in tokenized commodity growth in 2026.",
           "url": "https://zycrypto.com/xrp-ledger-flips-ethereum-to-become-new-king-of-tokenized-commodities-as-xrps-utility-story-heats-up/",
           "source": "ZyCrypto",
           "published": "2026-10-09T11:23:34Z",
           "image": "https://zycrypto.com/wp-content/uploads/2026/03/Ripples-XRP-Millionaires-are-Back-in-Business-As-Market-Pundits-Cite-Expected-Price-Target.jpg"
-        },
-        {
-          "title": "Trump administration outlines quantum, AI initiatives in $6B science push",
-          "description": "The White House outlined a $215 million quantum computing competition and $2.4 billion in AI industry commitments as concerns grow over quantum threats to cryptocurrency security.",
-          "url": "https://cointelegraph.com/news/trump-administration-quantum-computing-ai-6-billion-science-push",
-          "source": "Cointelegraph",
-          "published": "2026-10-09T05:25:27Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FG6B1R6A2XBTWZ9CFPZ8SJ/ai-and-quantum.png"
         },
         {
           "title": "The SEC Wrote Tokenized Securities Rules 47 Years in the Making. The Market Had Already Moved.",
@@ -231,20 +239,36 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Morning Minute: Uptober Turns Sour as Crypto Majors Slide",
-              "description": "Is this the beginning of a bigger selloff with the anniversary of 10/10 looming? Or just a leverage flush before the next leg up?",
-              "url": "https://decrypt.co/380569/morning-minute-uptober-turns-sour-as-crypto-majors-slide",
-              "source": "Decrypt",
-              "published": "2026-10-09T11:41:15Z",
-              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/bitcoin-down-decrypt-style-gID_7.png"
+              "title": "Bitcoin's $19 billion wake-up call: One-year later, has crypto learned anything?",
+              "description": "One year after a flash crash wiped out billions in leveraged crypto bets, traders have better tools to spot risks. But the forces behind the selloff remain.",
+              "url": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
+              "source": "CoinDesk",
+              "published": "2026-10-10T11:00:00Z",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/564d4c8495b94d94a0db2e6e7301c2e2029243ca-6000x4000.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75"
             },
             {
-              "title": "Sam Altman-backed bitcoin life insurer Meanwhile raises $37.5 million round led by Bain Capital Crypto",
-              "description": "Meanwhile raised $37.5M from existing investors, bringing the Sam Altman-backed bitcoin life insurer's total funding above $180 million.",
-              "url": "https://biztoc.com/x/67687d09b6583b63",
+              "title": "Does Strategy’s 12% Preferred Payout Reveal a Deeper Funding Tradeoff in MSTR’s Crypto Model?",
+              "description": "In late September 2026, Strategy Inc. announced it would keep the annual dividend rate on its Variable Rate Series A Perpetual Stretch Preferred Stock (STRC) at 12.00% and declared semi-monthly cash dividends of US$0.50 per share for the periods ending Octobe…",
+              "url": "https://biztoc.com/x/99725dd3dd5fcb99",
               "source": "Biztoc.com",
-              "published": "2026-10-09T10:39:20Z",
-              "image": "https://biztoc.com/cdn/67687d09b6583b63_s.webp"
+              "published": "2026-10-10T09:02:23Z",
+              "image": "https://biztoc.com/cdn/99725dd3dd5fcb99_s.webp"
+            },
+            {
+              "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
+              "description": "The round follows increased international demand for Meanwhile’s Bitcoin life insurance policies amid broader macro instability.",
+              "url": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds",
+              "source": "Cointelegraph",
+              "published": "2026-10-10T07:10:43Z",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4JA710W3MTHS923BYD1G7PT/hi-the-increasingly-acute-need-for-crypto-native-insurance.png"
+            },
+            {
+              "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
+              "description": "Researchers demonstrated how a payment could create spendable XRP without the sender funding it, prompting an emergency software release.",
+              "url": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
+              "source": "CoinDesk",
+              "published": "2026-10-10T04:20:07Z",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/0fd512cd2b3b63152562fab784b9d94b8b8b56ea-1500x994.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75"
             },
             {
               "title": "Vitalik Buterin urges calm as AI raises new fears over Bitcoin and Ethereum cryptography security",
@@ -261,20 +285,12 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "AI agents can pay for your shopping. Who gets your money back?",
-              "description": "Amazon's Bedrock AgentCore Payments, built with Coinbase and Stripe, lets AI agents discover paid services, authenticate, and pay with stablecoins and x402 under preset spending limits. AI agents are getting wallets before merchants get a court, and shopping …",
-              "url": "https://cryptoslate.com/ai-agents-hijack-online-shopping-forcing-a-6b-merchant-crisis/",
-              "source": "CryptoSlate",
-              "published": "2026-10-09T10:40:44Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/10/autonomous-commerce-disputes.webp"
-            },
-            {
-              "title": "Researchers uncover new DarkSword spyware variant affecting unpatched iPhones",
-              "description": "iVerify released a report today detailing P7 DarkSword, a new variant of the malware associated with the DarkSword iPhone exploit chain uncovered earlier this year. Here are the details.\n\n\n\n more…",
-              "url": "https://9to5mac.com/2026/10/08/researchers-uncover-new-darksword-spyware-variant-affecting-unpatched-iphones/",
-              "source": "9to5Mac",
-              "published": "2026-10-08T23:08:18Z",
-              "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&strip=all&resize=1200,628"
+              "title": "Crypto Exchange Marketing: How We Acquired 50 Traders | Scale With Arman",
+              "description": "How we acquired 50 crypto traders on a limited budget using transactional keywords, search-focused videos, useful tools, distribution, and Telegram Ads.",
+              "url": "https://scalewitharman.pro/blog/crypto-exchange-marketing-50-traders-low-budget/",
+              "source": "Scalewitharman.pro",
+              "published": "2026-10-09T19:47:39Z",
+              "image": "https://scalewitharman.pro/images/crypto-exchange-marketing-50-traders-low-budget.svg"
             },
             {
               "title": "New Humble Bundle featuring comics published by Dstlry",
@@ -323,6 +339,14 @@
               "source": "The Daily Hodl",
               "published": "2026-10-06T14:30:18Z",
               "image": "https://dailyhodl.com/wp-content/uploads/2026/10/Frame_11702_1791253918Ef0ZX5l6iP.jpg?resize=1535,1152"
+            },
+            {
+              "title": "NYSE’s Parent Just Filed to Tokenize 63 US Stocks on a Crypto-Native Exchange — And the SEC Already Gave It Permission",
+              "description": "The most conservative institution in US market infrastructure just filed to tokenize 63 of America’s most recognizable stocks on a crypto-native exchange. Intercontinental Exchange, the parent company of the New York Stock Exchange, and OKX announced OKXICE, …",
+              "url": "https://forkast.news/nyses-parent-just-filed-to-tokenize-63-us-stocks-on-a-crypto-native-exchange-and-the-sec-already-gave-it-permission/",
+              "source": "Forkast.news",
+              "published": "2026-10-06T02:52:59Z",
+              "image": "https://forkast.news/wp-content/uploads/2026/10/okxice-tokenized-us-stocks-venue-1024x572.jpg"
             }
           ]
         }
