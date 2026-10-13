@@ -1,11 +1,43 @@
 {
-  "date": "October 12, 2026",
+  "date": "October 13, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "3 Token Unlocks to Watch in the Third Week of October 2026",
+          "description": "The crypto market will welcome tokens worth $845.8 million in the third week of October 2026. Major projects, including Cronos (CRO), Arbitrum (ARB), and Starknet (STRK), will release significant new token supplies.\nThese unlocks could introduce market volati…",
+          "url": "https://biztoc.com/x/d03598dff83e9172",
+          "source": "Biztoc.com",
+          "published": "2026-10-12T09:14:10Z",
+          "image": "https://biztoc.com/cdn/d03598dff83e9172_s.webp"
+        },
+        {
+          "title": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
+          "description": "Your look at what's coming in the week starting Oct. 12.",
+          "url": "https://www.coindesk.com/markets/2026/10/12/u-s-inflation-ethereum-upgrade-talks-crypto-week-ahead",
+          "source": "CoinDesk",
+          "published": "2026-10-12T08:58:24Z",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75"
+        },
+        {
+          "title": "Starknet considers leaving Ethereum for a quantum-resistant Layer 1",
+          "description": "Starknet's STRK token more than doubled over seven days while developers considered leaving Ethereum to build an independent Layer 1 blockchain. A CoinGlass snapshot checked at 20:28 UTC on Oct. 11 showed STRK at $0.1190, up 17.7% over 24 hours and 116.7% ove…",
+          "url": "https://cryptoslate.com/starknet-doubles-in-a-week-as-ethereum-exit-plan-ignite-2-billion-trading-frenzy/",
+          "source": "CryptoSlate",
+          "published": "2026-10-11T23:00:46Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/10/starknet-ethereum-quantum-rally.webp"
+        },
+        {
+          "title": "Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest",
+          "description": "Tampered Ledger reported in Europe following last week’s attacks in Asia. Security firm uses AI to uncover “$94 billion” XRP bug, but receives just a $250K bounty. Hodler’s Digest",
+          "url": "https://cointelegraph.com/magazine/ledger-attack-spreads-to-eu-ai-finds-18-trillion-xrp-bug-hodlers-digest",
+          "source": "Cointelegraph",
+          "published": "2026-10-11T22:57:53Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4PCWNDZ4KC7D9SH89H62G5A/updated-cover-collage-oct-9.png"
+        },
         {
           "title": "Ethereum L2 Starknet Jumps 20% After Saying It Wants to Become an L1",
           "description": "Starknet is \"actively considering\" becoming its own blockchain, a move it says would make it the first fully quantum-resistant network by 2027.",
@@ -23,14 +55,6 @@
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/08125439/library-monad-shifts-focus-to-quantum-security-and-institutional-800x450.png"
         },
         {
-          "title": "Show HN: Squidly – Track CEX, DEX and wallet balances in one place",
-          "description": "Track every crypto wallet and exchange account as one net worth figure. Read-only and non-custodial: no seed phrase, no private key, no withdrawal access.",
-          "url": "https://squidly.finance/",
-          "source": "Squidly.finance",
-          "published": "2026-10-08T09:27:25Z",
-          "image": "https://squidly.finance/og.png"
-        },
-        {
           "title": "ZKsync opens Prividium core code under Apache 2.0 license",
           "description": "Open-sourcing Prividium's core code could boost institutional blockchain adoption, enhancing transparency and reducing vendor dependency.\nThe post ZKsync opens Prividium core code under Apache 2.0 license appeared first on Crypto Briefing.",
           "url": "https://cryptobriefing.com/zksync-open-sources-prividium-core-apache/",
@@ -45,22 +69,6 @@
           "source": "ZyCrypto",
           "published": "2026-10-07T14:53:47Z",
           "image": "https://zycrypto.com/wp-content/uploads/2022/06/ADA-Positioned-For-Huge-Upturn-Even-As-Hotly-Anticipated-Cardano-Vasil-Hard-Fork-Is-Deferred.jpg"
-        },
-        {
-          "title": "ZCash to $1,500? The Key Levels That Could Decide ZEC’s Next Move",
-          "description": "ZCash has returned to the spotlight as privacy-focused cryptocurrencies attract fresh market interest. The recent rally has pushed the ZCash price higher and revived ambitious...\nThe post ZCash to $1,500? The Key Levels That Could Decide ZEC’s Next Move appea…",
-          "url": "https://bitcoinfoundation.org/news/analysis/zcash-to-1500-the-key-levels-that-could-decide-zecs-next-move/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-10-06T11:16:13Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/ZEC1.webp"
-        },
-        {
-          "title": "What Is Midnight Crypto? Why the NIGHT Token Is Gaining Attention",
-          "description": "Midnight crypto is a privacy-focused blockchain, based on zero-knowledge technology and selective disclosure. The NIGHT token has drawn attention thanks to Cardano links, a broad...\nThe post What Is Midnight Crypto? Why the NIGHT Token Is Gaining Attention ap…",
-          "url": "https://bitcoinfoundation.org/news/altcoins/what-is-midnight-crypto-why-the-night-token-is-gaining-attention/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-10-05T13:53:04Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/NIGHT1.webp"
         }
       ]
     },
@@ -117,68 +125,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Exchanges reporting crypto gains to IRS becomes tax nightmare",
-          "description": "The IRS can now see your crypto gains, but has no idea about the cost-basis. That’s proving to be a big headache for some cryptocurrency investors. It’s that time of year again in the United States. The days start to draw in, the leaves start to fall, and the…",
-          "url": "https://activistpost.com/exchanges-reporting-crypto-gains-to-irs-becomes-tax-nightmare/",
-          "source": "Activistpost.com",
-          "published": "2026-10-11T13:00:00Z",
-          "image": "https://activistpost.com/wp-content/uploads/2026/10/magazine-crypto-taxes-1280x720-1.webp"
-        },
-        {
-          "title": "Justin Sun Shares AI and Quantum Vision at TOKEN2049 Singapore and Blockworks DAS Asia",
-          "description": "Geneva, Switzerland, October 10, 2026 — TRON DAO, the community-governed DAO dedicated to accelerating the decentralization of the internet through blockchain technology and decentralized applications (dApps), participated in TOKEN2049 Singapore as Title Spon…",
-          "url": "http://www.newsbtc.com/news/justin-sun-shares-ai-and-quantum-vision-at-token2049-singapore-and-blockworks-das-asia/",
-          "source": "newsBTC",
-          "published": "2026-10-10T18:04:27Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2026/10/0a58394cbfcd4b0ca2a3742e4298c4d1.jpg"
-        },
-        {
-          "title": "This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million",
-          "description": "The Bermuda-based insurer, which runs entirely on Bitcoin, drew the funding from existing backers led by Bain Capital Crypto after a record year driven by demand from wealthy families in Asia, Europe and the Middle East.",
-          "url": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
-          "source": "Decrypt",
-          "published": "2026-10-10T16:01:04Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Bitcoin-decrypt-style-09-gID_7.png"
-        },
-        {
-          "title": "French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget",
-          "description": "A National Assembly committee adopted amendments taxing stablecoin swaps and crypto exits by wealthy holders, then rejected the 2027 budget's revenue section.",
-          "url": "https://decrypt.co/380630/france-stablecoin-swap-crypto-exit-tax",
-          "source": "Decrypt",
-          "published": "2026-10-10T13:01:03Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/Paris-gID_7.jpg"
-        },
-        {
-          "title": "Tokenized Stocks: Best Proven Launch on Solana",
-          "description": "Tokenized stocks are gaining attention as Securitize launches on Solana, leading to a 10% rise in shares.",
-          "url": "https://blogdoandroid.com/tokenized-stocks/",
-          "source": "Blogdoandroid.com",
-          "published": "2026-10-10T06:50:10Z",
-          "image": "https://blogdoandroid.com/wp-content/uploads/2026/10/tokenized-stocks.jpg"
-        },
-        {
-          "title": "Evernorth Completes Business Combination with Armada Acquisition Corp. II",
-          "description": "Company enters the public markets holding approximately 473 million XRP and approximately $300 million in gross cash proceeds; shares to begin trading on Nasdaq on October 12, 2026 under the ticker XRPN SAN FRANCISCO, Oct. 9, 2026 /PRNewswire/ -- Evernorth Ho…",
-          "url": "https://www.prnewswire.com/news-releases/evernorth-completes-business-combination-with-armada-acquisition-corp-ii-302903875.html",
+          "title": "TROOPS, Inc. (NASDAQ: TROO) Announces Conditional Sales and Purchase Agreement with EFFORCE Group, Expanding into Multi-Vertical Digital Asset Infrastructure",
+          "description": "HONG KONG, Oct. 12, 2026 /PRNewswire/ -- TROOPS, Inc. (NASDAQ: TROO) (\"TROOPS\" or the \"Company\"), a diversified conglomerate spanning financial technology and insurance services, today announced that it has entered into a conditional sales and purchase agreem…",
+          "url": "https://www.prnewswire.com/news-releases/troops-inc-nasdaq-troo-announces-conditional-sales-and-purchase-agreement-with-efforce-group-expanding-into-multi-vertical-digital-asset-infrastructure-302905689.html",
           "source": "PRNewswire",
-          "published": "2026-10-09T20:51:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS1977128/Evernorth-Logo.jpg?id=OA2998684&p=facebook"
+          "published": "2026-10-12T13:15:00Z",
+          "image": null
         },
         {
-          "title": "XRP Ledger lets institutions share account duties without sharing their keys",
-          "description": "The XRP Ledger (XRPL) now lets institutions delegate account tasks while retaining control of their primary signing keys. The PermissionDelegationV1_1 amendment went live on Oct. 8 at ledger 107,524,865. It lets account owners assign specific transaction perm…",
-          "url": "https://cryptoslate.com/ripple-wants-to-turn-xrpls-4-5-billion-in-tokenized-assets-into-round-the-clock-collateral/",
+          "title": "Why Are Ethereum and XRP Prices Falling While ETF Investors Treat Them Differently?",
+          "description": "Ethereum and XRP are both moving lower in October 2026, but institutional investors are displaying different behaviors. The Ethereum price looks set to approach $2,500,...\nThe post Why Are Ethereum and XRP Prices Falling While ETF Investors Treat Them Differe…",
+          "url": "https://bitcoinfoundation.org/news/altcoins/why-are-ethereum-and-xrp-prices-falling-while-etf-investors-treat-them-differently/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-10-12T12:48:10Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/ETH1-1791798534.webp"
+        },
+        {
+          "title": "Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 6.03 Million Tokens, and Total Crypto and Total Cash & Marketable Securities Holdings of $16.2 Billion",
+          "description": "Bitmine owns 4.9% of the total ETH coin supply of 122.1 million Bitmine is 99% of the way to the 'Alchemy of 5%' in just 15 months Bitmine released Chairman's Message on October 7 titled \"Crypto Bull Underway — This Cycle Likely the Largest\" Bitmine was added…",
+          "url": "https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-6-03-million-tokens-and-total-crypto-and-total-cash--marketable-securities-holdings-of-16-2-billion-302905339.html",
+          "source": "PRNewswire",
+          "published": "2026-10-12T12:30:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS2010998/image9.jpg?id=OA3012129&p=facebook"
+        },
+        {
+          "title": "Standard Chartered offers RLUSD custody in Dubai and plans LMAX collateral link",
+          "description": "The move follows Standard Chartered’s recent expansion of digital asset custody services into Singapore, Hong Kong, and Luxembourg.",
+          "url": "https://www.coindesk.com/business/2026/10/12/standard-chartered-offers-rlusd-custody-in-dubai-and-plans-lmax-collateral-link",
+          "source": "CoinDesk",
+          "published": "2026-10-12T12:09:09Z",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/635098a63fd9f1666a72fdfb7fee8ca9adedf6a2-4032x2268.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75"
+        },
+        {
+          "title": "Thailand wants a piece of the $120 billion Bitcoin and Ethereum ETF market, but on its own terms",
+          "description": "The SEC says the framework takes effect Oct. 16, with Bitcoin and Ethereum initially eligible and product-risk education required before trading.\nThe post Thailand wants a piece of the $120 billion Bitcoin and Ethereum ETF market, but on its own terms appeare…",
+          "url": "https://cryptoslate.com/thailand-wants-a-piece-of-the-120-billion-bitcoin-and-ethereum-etf-market-but-on-its-own-terms/",
           "source": "CryptoSlate",
-          "published": "2026-10-09T20:00:29Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/10/xrpl-delegated-account-controls-no-key-sharing.webp"
+          "published": "2026-10-12T12:00:46Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/10/thailand-bitcoin-etf-rules.webp"
         },
         {
-          "title": "NCUA Proposes 26 Stablecoin Account Codes, Extending GENIUS Act Reporting to Credit Unions",
-          "description": "The NCUA’s New Data Playbook for Stablecoins The National Credit Union Administration (NCUA) has proposed its first stablecoin-specific reporting infrastructure. On October 9, 2026, the agency published a notice in the Federal Register proposing a new Schedul…",
-          "url": "https://forkast.news/ncua-proposes-26-stablecoin-account-codes-extending-genius-act-reporting-to-credit-unions/",
-          "source": "Forkast.news",
-          "published": "2026-10-09T19:17:50Z",
-          "image": "https://forkast.news/wp-content/uploads/2026/10/ncua-stablecoin-schedule-j-1024x572.jpg"
+          "title": "LBank at 11: Eric He on Building an Exchange for More Than One Market Cycle",
+          "description": "Eleven years in crypto is not simply an anniversary. It means navigating multiple boom-and-bust cycles, changing asset narratives, exchange failures, and the growing convergence between traditional finance and onchain markets. At its 11-year mark, LBank repor…",
+          "url": "https://bitcoinist.com/lbank-at-11-eric-he-on-building-an-exchange-for-more-than-one-market-cycle/",
+          "source": "Bitcoinist",
+          "published": "2026-10-12T11:00:40Z",
+          "image": "https://bitcoinist.com/wp-content/uploads/2026/10/Picture1.jpg"
+        },
+        {
+          "title": "$50 Billion Flooded Into Crypto This Year as Q4 Momentum Builds, JPMorgan Data Shows",
+          "description": "$50 billion flew into crypto assets this year. The data suggests increasing customer participation, indicating the broader market is on the brink of a breakout.",
+          "url": "https://zycrypto.com/50-billion-flooded-into-crypto-this-year-as-q4-momentum-builds-jpmorgan-data-shows/",
+          "source": "ZyCrypto",
+          "published": "2026-10-12T10:20:39Z",
+          "image": "https://zycrypto.com/wp-content/uploads/2026/10/50-Billion-Flooded-Into-Crypto-This-Year-as-Q4-Momentum-Builds-JPMorgan-Data-Shows.jpg"
+        },
+        {
+          "title": "France Targets Crypto Wallets Over €100K With Proposed €10,000 Fines for Non-Disclosure",
+          "description": "French legislators have backed a proposal that would mandate the disclosure of cryptocurrency wallets owned by individuals holding at least €100,000 in self-custodied cryptocurrency. Individuals...\nThe post France Targets Crypto Wallets Over €100K With Propos…",
+          "url": "https://bitcoinfoundation.org/news/regulation/france-targets-crypto-wallets-over-e100k-with-proposed-e10000-fines-for-non-disclosure/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-10-12T09:52:15Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/France-Targets-Crypto-Wallets-Over-E100K-With-Proposed-E10000-Fines-for-Non-Disclosure-2.webp"
         }
       ]
     },
@@ -188,12 +196,28 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "What to know about 'perps,' the popular crypto-powered trade expanding across markets",
-          "description": "Perpetual futures have exploded overseas, and more platforms are angling to offer the blockchain-powered contracts to US traders. Here's what to know.",
-          "url": "https://www.businessinsider.com/perpetual-futures-high-risk-crypto-trading-trump-cftc-bitcoin-perps-2026-10#article",
-          "source": "Business Insider",
-          "published": "2026-10-09T12:27:52Z",
-          "image": "https://i.insider.com/6ac8dd27301bb0551f494283?width=1200&format=jpeg"
+          "title": "DATA Network joins Sui and Walrus to scale the supply chain for AI training data",
+          "description": "Palo Alto, United States, 12th October 2026, Chainwire\nThe post DATA Network joins Sui and Walrus to scale the supply chain for AI training data appeared first on The Daily Hodl.",
+          "url": "https://dailyhodl.com/2026/10/11/data-network-joins-sui-and-walrus-to-scale-the-supply-chain-for-ai-training-data/",
+          "source": "The Daily Hodl",
+          "published": "2026-10-12T03:04:56Z",
+          "image": "https://dailyhodl.com/wp-content/uploads/2026/10/1000078699_1791713698NFsY01jujF.jpg?resize=1920,1152"
+        },
+        {
+          "title": "XRP Ledger defends emergency patch for unlimited XRP bug",
+          "description": "XRP Ledger developers defend bypassing the normal amendment process to deploy a critical fix that closed a bug capable of minting new XRP.",
+          "url": "https://cointelegraph.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug",
+          "source": "Cointelegraph",
+          "published": "2026-10-12T01:21:29Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4PTZZ4W2YTP18XY2SMEBFG3/xrpl.jpg"
+        },
+        {
+          "title": "XRP’s next Wall Street expansion comes with an unexpected complication from Ripple",
+          "description": "Management retains cost less impairment, so an unrealized XRP price rise alone will not lift earnings by revaluing the holdings.\nThe post XRP’s next Wall Street expansion comes with an unexpected complication from Ripple appeared first on CryptoSlate.",
+          "url": "https://cryptoslate.com/xrps-next-wall-street-expansion-comes-with-an-unexpected-complication-from-ripple/",
+          "source": "CryptoSlate",
+          "published": "2026-10-11T19:00:09Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/10/xrp-eclipse-skyline.webp"
         },
         {
           "title": "The SEC Wrote Tokenized Securities Rules 47 Years in the Making. The Market Had Already Moved.",
@@ -218,14 +242,6 @@
           "source": "Nature.com",
           "published": "2026-10-08T00:00:00Z",
           "image": null
-        },
-        {
-          "title": "UK names 6 banks to lead first digitally native government bond",
-          "description": "The DIGIT pilot will test distributed ledger technology and onchain settlement for UK sovereign debt, with issuance expected by the first quarter of 2027.",
-          "url": "https://cointelegraph.com/news/uk-taps-6-banks-to-lead-first-digitally-native-government-bond",
-          "source": "Cointelegraph",
-          "published": "2026-10-06T19:19:00Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4997XE3Q73505XVEHSA997G/hi-what-are-bonds-and-how-do-they-work-for-crypto-red.png"
         }
       ]
     },
@@ -239,20 +255,12 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "What happens when crypto trades stocks while Wall Street sleeps?",
-              "description": "Wall Street closes at 4 p.m., but apparently that's becoming more of a suggestion than a rule. You can now spend the evening watching Netflix and making leveraged bets on American semiconductor companies while the exchange where their shares trade is closed. …",
-              "url": "https://cryptoslate.com/who-prices-a-stock-index-when-its-shares-arent-trading/",
-              "source": "CryptoSlate",
-              "published": "2026-10-11T12:00:20Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/10/cracked-clock-market-cycles.webp"
-            },
-            {
-              "title": "Bitcoin companies are learning that holding forever takes cash",
-              "description": "Metaplanet sold 10,000 BTC and bought back 11,000 at a higher average price to show it was willing to sell its Bitcoin. The Japanese treasury company was pursuing a credit rating and better access to financing, and its Oct. 5 disclosure explained why turning …",
-              "url": "https://cryptoslate.com/bitcoin-companies-are-learning-that-holding-forever-takes-cash/",
-              "source": "CryptoSlate",
-              "published": "2026-10-11T07:00:24Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-shield-dome.webp"
+              "title": "SEC’s Token Offering Exemptions Enter Final Comment Days as Agencies Rebuild Crypto Market Structure",
+              "description": "With the Clarity Act stalled since Sept. 15, the SEC's Regulation Crypto Assets proposal and a parallel CFTC rulemaking are writing U.S. crypto market structure rule by rule, and the comment window closes Oct. 20.",
+              "url": "https://forkast.news/secs-token-offering-exemptions-enter-final-comment-days-as-agencies-rebuild-crypto-market-structure/",
+              "source": "Forkast.news",
+              "published": "2026-10-12T10:39:14Z",
+              "image": "https://forkast.news/wp-content/uploads/2026/10/sec-token-offering-exemptions-1024x687.jpg"
             }
           ]
         },
@@ -261,36 +269,28 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "On AI, Math and Cryptography",
-              "description": "Because I haven’t written in this blog in a little over two years, and because AI has been my primary vehicle for investing for the last two years, I have a lot of thoughts about AI that need to be prefaced before I get to anything else. Even though some of t…",
-              "url": "https://reminiscencesofastockblogger.com/2026/10/11/on-ai-math-and-cryptography/",
-              "source": "Reminiscencesofastockblogger.com",
-              "published": "2026-10-11T13:34:53Z",
-              "image": "https://reminiscencesofastockblogger.com/wp-content/uploads/2026/10/image-5.png"
+              "title": "Ledger confirms hidden chip in crypto wallet amid $92M theft claims",
+              "description": "Ledger confirms a hidden hardware implant in a customer's wallet as CryptoBilis halts sales amid an investigation into reported crypto thefts.",
+              "url": "https://crypto.news/ledger-confirms-hidden-chip-in-crypto-wallet-amid-92m/",
+              "source": "Crypto.news",
+              "published": "2026-10-12T10:09:37Z",
+              "image": "https://media.crypto.news/2023/10/crypto-news-Everscale-announced-theft-of-tokens01.webp"
             },
             {
-              "title": "New iPhone spyware can hunt for crypto wallets and extract their data every 15 seconds",
-              "description": "iVerify’s P7 DarkSword report describes remote commands to collect imToken-related data after an iPhone is compromised.\nThe post New iPhone spyware can hunt for crypto wallets and extract their data every 15 seconds appeared first on CryptoSlate.",
-              "url": "https://cryptoslate.com/new-iphone-spyware-can-hunt-for-crypto-wallets-and-extract-their-data-every-15-seconds/",
-              "source": "CryptoSlate",
-              "published": "2026-10-11T13:00:14Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/10/iphone-spyware-wallet-exposure.webp"
-            },
-            {
-              "title": "Cryptomining malware that locates its control server in a GitHub poem has hit more than 3,400 servers, researchers say",
-              "description": "Lumen's Black Lotus Labs says PoeLLM malware has hit more than 3,400 servers, most of them exposed AI tools like LiteLLM and Ollama.",
-              "url": "https://www.tomshardware.com/tech-industry/cyber-security/cryptomining-malware-used-poetry-to-infect-more-than-3-400-servers-researchers-say-four-words-in-the-poellm-verse-changed-11-times-point-the-botnet-to-new-servers",
+              "title": "Reddit user pays $35 for a crypto mining rig left in a garage and gets 54GB of VRAM at 65 cents per GB",
+              "description": "A Reddit user bought a nine-GPU Nvidia P106-100 mining rig with 54GB of VRAM for $35 and ran Qwen3.6-35B-A3B on it locally.",
+              "url": "https://www.tomshardware.com/pc-components/gpus/reddit-user-pays-usd35-for-a-crypto-mining-rig-left-in-a-garage-and-gets-54gb-of-vram-at-65-cents-per-gb-the-first-test-for-2017-era-gpus-a-35b-parameter-ai-model-running-locally-at-over-30-tokens-per-second",
               "source": "Tom's Hardware UK",
-              "published": "2026-10-11T11:45:00Z",
-              "image": "https://cdn.mos.cms.futurecdn.net/aqPrPS4qzkg5HW3n7K9Ypn-809-80.png"
+              "published": "2026-10-12T10:00:00Z",
+              "image": "https://cdn.mos.cms.futurecdn.net/QDZdfYqJbKd5P6QKeMwVEk-2560-80.jpg"
             },
             {
-              "title": "Here's what the new Netflix series about the FTX scandal got wrong, according to former staffers",
-              "description": "\"The Altruists\" is an eight-episode Netflix series dramatizing the rise and fall of the cryptocurrency exchange under former CEO Sam Bankman-Fried.",
-              "url": "https://www.businessinsider.com/altruists-netflix-ftx-sam-bankman-fried-crypto-reaction-2026-10#article",
-              "source": "Business Insider",
-              "published": "2026-10-10T16:38:17Z",
-              "image": "https://i.insider.com/6aca5818301bb0551f49493f?width=1200&format=jpeg"
+              "title": "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
+              "description": "An IMF analysis found that more than half of tokenized stock trading happens outside U.S. market hours, though the roughly $2.3 billion market remains more volatile and less liquid than traditional equities.",
+              "url": "https://decrypt.co/380653/tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid-imf-finds",
+              "source": "Decrypt",
+              "published": "2026-10-11T17:11:03Z",
+              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/Chart4_red-gID_7.png"
             },
             {
               "title": "New Humble Bundle featuring comics published by Dstlry",
@@ -299,6 +299,14 @@
               "source": "Superpunch.net",
               "published": "2026-10-08T20:39:33Z",
               "image": null
+            },
+            {
+              "title": "Securitize Brings Nvidia, Apple and Amazon Onchain With Tokenized Stocks on Solana",
+              "description": "The new Securitize Stocks product launches with 12 names backed one-to-one by real shares—preserving dividends and voting rights—trading first on Solana, with NYSE and OKX-ICE venues planned.",
+              "url": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
+              "source": "Decrypt",
+              "published": "2026-10-08T15:10:49Z",
+              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/01/decrypt-style-wall-street-gID_7.png"
             },
             {
               "title": "Securitize brings Apple, Nvidia and Tesla to Solana, with NYSE trading in the works",
@@ -317,12 +325,12 @@
               "image": "https://miro.medium.com/v2/resize:fit:612/1*LDxFxAI49lySEhcqKGZrIw.jpeg"
             },
             {
-              "title": "Superform Activates Earn Strategies for Tokenized Stocks on Base, Powered by Aave",
-              "description": "New York, New York, 6th October 2026, Chainwire\nThe post Superform Activates Earn Strategies for Tokenized Stocks on Base, Powered by Aave appeared first on The Daily Hodl.",
-              "url": "https://dailyhodl.com/2026/10/06/superform-activates-earn-strategies-for-tokenized-stocks-on-base-powered-by-aave/",
-              "source": "The Daily Hodl",
-              "published": "2026-10-06T14:30:18Z",
-              "image": "https://dailyhodl.com/wp-content/uploads/2026/10/Frame_11702_1791253918Ef0ZX5l6iP.jpg?resize=1535,1152"
+              "title": "NYSE’s Parent Just Filed to Tokenize 63 US Stocks on a Crypto-Native Exchange — And the SEC Already Gave It Permission",
+              "description": "The most conservative institution in US market infrastructure just filed to tokenize 63 of America’s most recognizable stocks on a crypto-native exchange. Intercontinental Exchange, the parent company of the New York Stock Exchange, and OKX announced OKXICE, …",
+              "url": "https://forkast.news/nyses-parent-just-filed-to-tokenize-63-us-stocks-on-a-crypto-native-exchange-and-the-sec-already-gave-it-permission/",
+              "source": "Forkast.news",
+              "published": "2026-10-06T02:52:59Z",
+              "image": "https://forkast.news/wp-content/uploads/2026/10/okxice-tokenized-us-stocks-venue-1024x572.jpg"
             }
           ]
         }
