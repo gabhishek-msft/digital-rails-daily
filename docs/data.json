@@ -1,11 +1,35 @@
 {
-  "date": "October 17, 2026",
+  "date": "October 18, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "Starknet integrates with ShapeShift, cutting the bridge step from swaps",
+          "description": "The integration enhances Starknet's accessibility and could boost transaction volumes, fostering broader adoption and interoperability in DeFi.\nThe post Starknet integrates with ShapeShift, cutting the bridge step from swaps appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/starknet-integrates-shapeshift-no-bridge-swaps/",
+          "source": "Crypto Briefing",
+          "published": "2026-10-17T08:33:00Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/17043256/library-starknet-integrates-with-shapeshift-cutting-the-bridge-s-800x450.png"
+        },
+        {
+          "title": "Starknet launches VIP program for STRK and strkBTC holders",
+          "description": "Starknet's VIP program could enhance user engagement and network value, driving interest in BTCFi and privacy-focused DeFi innovations.\nThe post Starknet launches VIP program for STRK and strkBTC holders appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/starknet-launches-vip-program-strk-strkbtc/",
+          "source": "Crypto Briefing",
+          "published": "2026-10-16T14:14:18Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/16101413/library-starknet-launches-vip-program-for-strk-and-strkbtc-holde-800x450.png"
+        },
+        {
+          "title": "Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans",
+          "description": "Celestia jumped 16%, injective rose 7.7% and layerzero added 7.3% while bitcoin held little changed near $82,100 and Fed Chair Warsh gave no sign on interest rates.",
+          "url": "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans",
+          "source": "CoinDesk",
+          "published": "2026-10-16T10:41:03Z",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/ff44eeb11e3fa7d86694b7c0742d390ad2ff526f-1920x1080.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75"
+        },
         {
           "title": "Starknet opens seven-day vote on independent Layer 1 over quantum risks",
           "description": "Starknet opened a seven-day poll on Thursday asking STRK holders whether to research an independent post-quantum Layer 1.",
@@ -15,44 +39,12 @@
           "image": "https://biztoc.com/cdn/df946988f1cf5547_s.webp"
         },
         {
-          "title": "ZKsync token climbs 6.2% after Vitalik Buterin praises Airbender Prime",
-          "description": "ZKsync's innovation could democratize Ethereum verification, but security and cost efficiency must be prioritized for sustainable growth.\nThe post ZKsync token climbs 6.2% after Vitalik Buterin praises Airbender Prime appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/zksync-token-climbs-buterin-airbender-prime/",
-          "source": "Crypto Briefing",
-          "published": "2026-10-15T12:50:10Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/15085007/library-zksync-token-climbs-6-2-after-vitalik-buterin-praises-ai-800x450.png"
-        },
-        {
           "title": "Altcoins lead crypto declines as Asian stocks drop; bitcoin little changed since midnight",
           "description": "Bitcoin fell to just above $80,000 as South Korea’s Kospi plunged 8%, while the CoinDesk 80 fell 2.2% and all but six CoinDesk 100 members declined.",
           "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower",
           "source": "CoinDesk",
           "published": "2026-10-15T10:52:11Z",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/5ac927ec281513c4179cc6fd9f1dbb52289fbeb4-1920x1080.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75"
-        },
-        {
-          "title": "Starknet explores move from Ethereum Layer 2 to standalone Layer 1 blockchain",
-          "description": "Starknet's potential shift to Layer 1 could destabilize Ethereum's ecosystem, affecting market confidence and price predictions.\nThe post Starknet explores move from Ethereum Layer 2 to standalone Layer 1 blockchain appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/starknet-explores-move-from-ethereum-layer-2-to-standalone-layer-1-blockchain/",
-          "source": "Crypto Briefing",
-          "published": "2026-10-15T10:23:12Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/15062310/library-starknet-explores-move-from-ethereum-layer-2-to-standalo-1-800x450.png"
-        },
-        {
-          "title": "Starknet opens vote on potential Ethereum L2 exit over quantum risks",
-          "description": "Starknet is asking STRK holders whether to explore becoming an independent layer-1 blockchain to reduce its dependence on Ethereum’s quantum-security upgrade timeline.",
-          "url": "https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1",
-          "source": "Cointelegraph",
-          "published": "2026-10-15T10:20:44Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4ZFWYVQRAM56PW1PG6VCAV4/starknet.jpg"
-        },
-        {
-          "title": "Ethereum’s quantum race takes a new turn as zkSync courts banks and Starknet weighs exit",
-          "description": "ZkSync announced Airbender Prime, a prover that Matter Labs says handled 99% of 7,200 consecutive Ethereum mainnet blocks in under 10 seconds each on a single NVIDIA RTX PRO 6000 Blackwell GPU. The announcement came five days after Starknet said it is activel…",
-          "url": "https://cryptoslate.com/ethereums-quantum-race-takes-a-new-turn-as-zksync-courts-banks-and-starknet-weighs-exit/",
-          "source": "CryptoSlate",
-          "published": "2026-10-14T17:50:35Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/10/ethereum-teal-amber-split.webp"
         },
         {
           "title": "‘Bunker mode’ won’t protect your crypto, critics say",
@@ -69,6 +61,14 @@
           "source": "The Next Web",
           "published": "2026-10-13T13:00:32Z",
           "image": "https://media.thenextweb.com/2026/10/blockchain-nodes-network-3d-render.jpg"
+        },
+        {
+          "title": "Starknet considers leaving Ethereum for a quantum-resistant Layer 1",
+          "description": "Starknet's STRK token more than doubled over seven days while developers considered leaving Ethereum to build an independent Layer 1 blockchain. A CoinGlass snapshot checked at 20:28 UTC on Oct. 11 showed STRK at $0.1190, up 17.7% over 24 hours and 116.7% ove…",
+          "url": "https://cryptoslate.com/starknet-doubles-in-a-week-as-ethereum-exit-plan-ignite-2-billion-trading-frenzy/",
+          "source": "CryptoSlate",
+          "published": "2026-10-11T23:00:46Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/10/starknet-ethereum-quantum-rally.webp"
         }
       ]
     },
@@ -92,14 +92,6 @@
           "source": "Crypto Briefing",
           "published": "2026-10-14T19:15:33Z",
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/14151529/library-specter-links-provex-s-january-eth-inflows-to-heart-link-800x450.png"
-        },
-        {
-          "title": "Where Google Wallet state IDs are available on Android",
-          "description": "States across the US are slowly rolling out support for adding your driver’s license or ID to the Google Wallet app on Android.\n\n\n\n more…",
-          "url": "http://9to5google.com/2026/10/10/google-wallet-state-ids/",
-          "source": "9to5google.com",
-          "published": "2026-10-10T19:20:00Z",
-          "image": "https://9to5google.com/wp-content/uploads/sites/4/2023/03/google-wallet-logo-circle-2.jpg?quality=82&strip=all&resize=1200,628"
         }
       ]
     },
@@ -109,20 +101,60 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Stablecoin issuer Circle to push into 40 new markets, CEO says",
-          "description": "BANGKOK, Oct 16 : Stablecoin issuer Circle is making a major push to enter about 40 emerging and developing countries around the world as blockchain adoption is expected to scale up significantly, the company's CEO and chairman Jeremy Allaire told Reuters. \"W…",
-          "url": "https://www.channelnewsasia.com/business/stablecoin-issuer-circle-push-40-new-markets-ceo-says-6465526",
-          "source": "CNA",
-          "published": "2026-10-16T09:26:05Z",
-          "image": "https://dam.mediacorp.sg/image/upload/s--PUG2fdCw--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-16T092605Z_2_LYNXMPEM9F0PH_RTROPTP_3_CIRCLE-IPO.JPG?itok=sG8Kf59S"
+          "title": "Crypto’s leverage machine finds new life beyond Bitcoin bets",
+          "description": "Despite a decline in crypto trading activities, there is a rising interest in traditional assets among investors. Open interest in real-world asset contracts has increased to $9 billion, claiming 14% of total volume. The transition marks a significant change …",
+          "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/cryptos-leverage-machine-finds-new-life-beyond-bitcoin-bets/articleshow/135007267.cms",
+          "source": "The Times of India",
+          "published": "2026-10-17T08:27:30Z",
+          "image": "https://img.etimg.com/thumb/msid-135007267,width-1200,height-900,imgsize-193356,overlay-etmarkets/articleshow.jpg"
         },
         {
-          "title": "XRP has failed to make holders rich like bitcoin and ether. Here’s why",
-          "description": "XRP remains below its 2017-cycle high while bitcoin, ether and other major tokens have surged, enriching their holders.",
-          "url": "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why",
-          "source": "CoinDesk",
-          "published": "2026-10-16T05:53:58Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/38ca8bb4905288c7dc2f7d52bb714f76a4af723b-1600x900.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75"
+          "title": "Stablecoins Take Aim at Cash Locked in Prefunding",
+          "description": "Cross-border payments carry a working capital cost before money reaches the recipient. Payment providers frequently need funds available in advance to make payouts in other markets. For a company operating across currencies and time zones, that can mean maint…",
+          "url": "https://www.pymnts.com/cryptocurrency/2026/stablecoins-take-aim-cash-locked-prefunding/",
+          "source": "pymnts.com",
+          "published": "2026-10-16T19:16:08Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/10/stablecoins-cross-border-payments-prefunding.jpeg"
+        },
+        {
+          "title": "Circle Plans Push Into 40 Emerging Markets as Stablecoins Go Mainstream, CEO Says",
+          "description": "Circle CEO Jeremy Allaire told Reuters the USDC issuer plans to enter about 40 emerging and developing markets, citing rising demand in Southeast Asia, Latin America, Africa and the Middle East.",
+          "url": "https://decrypt.co/381178/circle-40-emerging-markets-stablecoins-go-mainstream",
+          "source": "Decrypt",
+          "published": "2026-10-16T18:55:37Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/USDC-gID_7.png"
+        },
+        {
+          "title": "Digital Asset Management Was Plumbing. It's Now a System of Influence.",
+          "description": "Nobody put DAM in a keynote. AI now reads its metadata to judge whether your brand deserves a citation.\nContinue reading...",
+          "url": "https://www.cmswire.com/digital-asset-management/digital-asset-management-was-plumbing-its-now-a-system-of-influence/",
+          "source": "CMSWire",
+          "published": "2026-10-16T18:35:04Z",
+          "image": "https://www.cmswire.com/-/media/3c3e8a20706d4f838118b326bdab4ee9.ashx?mw=1200"
+        },
+        {
+          "title": "Jack Henry Expands Collaboration with Google Cloud to Deliver Tokenized Deposits for Banks and Credit Unions",
+          "description": "Jack Henry will be the first core banking technology provider to integrate with Google Cloud Universal Ledger (GCUL) Expanded capabilities help financial institutions innovate, retain deposits, and deliver new digital experiences The announcement builds on th…",
+          "url": "https://www.prnewswire.com/news-releases/jack-henry-expands-collaboration-with-google-cloud-to-deliver-tokenized-deposits-for-banks-and-credit-unions-302911361.html",
+          "source": "PRNewswire",
+          "published": "2026-10-16T15:00:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS658784/Jack-Henry-Wordmark-Hex-Logo.jpg?id=OA3023885&p=facebook"
+        },
+        {
+          "title": "Deutsche Bank prepares German crypto custody launch, eyes Asia: Report",
+          "description": "Germany’s largest bank reportedly plans to expand its digital asset custody services to Asian financial centers due to the growth of the digital asset economy.",
+          "url": "https://cointelegraph.com/news/deutsche-bank-crypto-custody-expansion-asia-2027",
+          "source": "Cointelegraph",
+          "published": "2026-10-16T13:33:40Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M52C27XC6AZN9X7AWRXZJ2FR/hi-world-bank-initiatives-deutsche-bank.jpg"
+        },
+        {
+          "title": "Institutions managing €800 billion ask what crypto tokens actually earn",
+          "description": "Brendan Ma, head of investment strategy at the Arbitrum Foundation, said he met with representatives of institutions managing about €800 billion in assets over 48 hours of closed-door meetings to discuss crypto. Private bankers and wealth managers kept return…",
+          "url": "https://cryptoslate.com/e800b-in-wealth-managers-rethink-how-they-allocate-to-crypto/",
+          "source": "CryptoSlate",
+          "published": "2026-10-16T13:00:10Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/10/crypto-investment-outlook.webp"
         },
         {
           "title": "BNY Extends Reach Into Tokenized Funds and Pay-to-Wallet Service",
@@ -131,46 +163,6 @@
           "source": "pymnts.com",
           "published": "2026-10-16T01:59:49Z",
           "image": "https://www.pymnts.com/wp-content/uploads/2026/04/BNY-earnings.jpeg"
-        },
-        {
-          "title": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
-          "description": "A scammer reportedly lost $4.8M of stolen money after storing the funds on tampered Ledgers. Bitcoin and Ether ETFs launch trading in Thailand and South Korea blocks 27 exchanges.",
-          "url": "https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express",
-          "source": "Cointelegraph",
-          "published": "2026-10-15T22:42:58Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M50Q9CPRKY0N68C9BSYHP5PM/asia-express-12.jpg"
-        },
-        {
-          "title": "Energy Substantiation Brings Physically Backed Crude Oil to Institutional Markets with WTIC Listing on LMAX Digital",
-          "description": "WTIC, a token backed 1:1 by physical WTI crude oil, adds a leading institutional digital asset exchange to its growing trading ecosystem WTIC, Energy Substantiation's 1:1 physically backed WTI crude oil token, is now available for institutional spot trading o…",
-          "url": "https://www.prnewswire.com/news-releases/energy-substantiation-brings-physically-backed-crude-oil-to-institutional-markets-with-wtic-listing-on-lmax-digital-302910638.html",
-          "source": "PRNewswire",
-          "published": "2026-10-15T21:23:00Z",
-          "image": null
-        },
-        {
-          "title": "SVRN Leads Initiative Strengthening Infrastructure Behind NEAR's Cross-Network Transactions",
-          "description": "SVRN, the only publicly traded company with a NEAR-anchored treasury, designed the incentive program funding the 17 operators of NEAR Protocol's Chain Signatures MPC network, led it through governance, vetted each new operator and now runs its own node in tam…",
-          "url": "https://www.prnewswire.com/news-releases/svrn-leads-initiative-strengthening-infrastructure-behind-nears-cross-network-transactions-302910284.html",
-          "source": "PRNewswire",
-          "published": "2026-10-15T20:15:00Z",
-          "image": null
-        },
-        {
-          "title": "Circle's USDC leading stablecoin pack following MasterCard, Visa moves, says TD",
-          "description": "See the rest of the story here.\n\nthefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor…",
-          "url": "https://www.thefly.com/usdc-usd",
-          "source": "Thefly.com",
-          "published": "2026-10-15T18:43:09Z",
-          "image": null
-        },
-        {
-          "title": "Indonesia to start crypto tax data exchange under OECD CARF in 2027",
-          "description": "Indonesia will begin exchanging cross-border tax information on crypto-assets starting in 2027 under a framework developed by the Organisation for Economic ...",
-          "url": "https://en.antaranews.com/news/435813/indonesia-to-start-crypto-tax-data-exchange-under-oecd-carf-in-2027",
-          "source": "Antaranews.com",
-          "published": "2026-10-15T17:36:15Z",
-          "image": "https://cdn.antaranews.com/cache/1200x800/2026/10/13/tempImagetL3dWx_1.jpg"
         }
       ]
     },
@@ -180,6 +172,22 @@
       "color": "#00cc88",
       "articles": [
         {
+          "title": "Ripple opens Wall Street’s door to Hyperliquid’s $59 billion trading market",
+          "description": "Institutions trade swaps referencing more than 100 traditional financial markets around the clock, with Ripple Prime as the principal counterparty, Ripple announced on Oct. 15. The swaps cover stocks, equity indices, ETFs, metals, energy and foreign exchange,…",
+          "url": "https://cryptoslate.com/ripple-opens-wall-streets-door-to-hyperliquids-59-billion-trading-market/",
+          "source": "CryptoSlate",
+          "published": "2026-10-16T11:00:56Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/10/ripple-market-transfer.webp"
+        },
+        {
+          "title": "Hyperscale Data Completes Tokenization of 5,000 Troy Ounces of Physical Silver; Tokens Are Listed on Ault Markets with Trading Anticipated to Commence Within Weeks",
+          "description": "LAS VEGAS, Oct. 16, 2026 /PRNewswire/ -- Hyperscale Data, Inc. (NYSE American: GPUS), an artificial intelligence (\"AI\") data center company (\"Hyperscale Data\" or the \"Company\"), today announced that its indirect wholly owned subsidiary, Ault Global Commoditie…",
+          "url": "https://www.prnewswire.com/news-releases/hyperscale-data-completes-tokenization-of-5-000-troy-ounces-of-physical-silver-tokens-are-listed-on-ault-markets-with-trading-anticipated-to-commence-within-weeks-302910894.html",
+          "source": "PRNewswire",
+          "published": "2026-10-16T10:30:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS1845972/Hyperscale-Data-Registered-Mark-Logo.jpg?id=OA3022985&p=facebook"
+        },
+        {
           "title": "What Is a Hardware Wallet? Crypto Cold Storage Explained",
           "description": "Hardware wallets keep your crypto keys offline. Learn how devices from Ledger, Trezor and others protect your Bitcoin and Ethereum.",
           "url": "https://decrypt.co/resources/what-is-a-hardware-wallet-crypto-cold-storage-explained",
@@ -188,12 +196,12 @@
           "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2019/03/wallets_litepaper-gID_5-pID_5.png"
         },
         {
-          "title": "Cross River Adds Ripple USD Stablecoin to Power 24/7 Global Money Transfers",
-          "description": "Cross River Bank now offers Ripple’s U.S. dollar-backed stablecoin, Ripple USD (RLUSD), through its Core Operating System, Cross River said in a Thursday (Oct. 15) press release. This integration establishes RLUSD as an additional payment rail on Cross River’…",
-          "url": "https://www.pymnts.com/news/banking/2026/cross-river-adds-ripple-usd-stablecoin-to-power-24-7-global-money-transfers/",
-          "source": "pymnts.com",
-          "published": "2026-10-15T16:06:36Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2025/12/Cross-River-Bank-processing1.jpg"
+          "title": "Energy Substantiation Brings Physically Backed Crude Oil to Institutional Markets with WTIC Listing on LMAX Digital",
+          "description": "WTIC, a token backed 1:1 by physical WTI crude oil, adds a leading institutional digital asset exchange to its growing trading ecosystem WTIC, Energy Substantiation's 1:1 physically backed WTI crude oil token, is now available for institutional spot trading o…",
+          "url": "https://www.prnewswire.com/news-releases/energy-substantiation-brings-physically-backed-crude-oil-to-institutional-markets-with-wtic-listing-on-lmax-digital-302910638.html",
+          "source": "PRNewswire",
+          "published": "2026-10-15T21:23:00Z",
+          "image": null
         },
         {
           "title": "Ledger to review sales and anti-tamper policies after $93 million hardware-wallet supply chain attack",
@@ -229,19 +237,68 @@
         "startups": {
           "title": "Startups",
           "icon": "💡",
-          "articles": []
+          "articles": [
+            {
+              "title": "OpenAI Agent Takes Ethereum From Unauthorized Wallet After Running Out Of Gas",
+              "description": "TL;DR: An experimental OpenAI agent accessed an Ethereum testnet wallet without permission to complete a software task. The incident involved no real cryptocurrency losses but raised questions about autonomous systems handling financial permissions. An experi…",
+              "url": "https://bitcoinist.com/openai-agent-takes-ethereum-from-unauthorized-wallet-after-running-out/",
+              "source": "Bitcoinist",
+              "published": "2026-10-17T09:43:00Z",
+              "image": "https://bitcoinist.com/wp-content/uploads/2026/10/bitcoinist_B01.png"
+            },
+            {
+              "title": "The Dual Voids: SEC Reg CA and the AI Agent Liability Gap",
+              "description": "The Monday Deadline Monday, October 20, marks the close of the comment period for the Securities and Exchange Commission’s proposed Regulation Crypto Assets (Release No. 33-11434, Docket S7-2026-27). The proposal, published in the Federal Register on August 2…",
+              "url": "https://forkast.news/the-dual-voids-sec-reg-ca-and-the-ai-agent-liability-gap/",
+              "source": "Forkast.news",
+              "published": "2026-10-17T06:28:07Z",
+              "image": "https://forkast.news/wp-content/uploads/2026/10/sec-reg-ca-dual-liability-void-1024x687.jpg"
+            },
+            {
+              "title": "구글의 새로운 윌로우(Willow) 돌파구 이후 사토시 시절 비트코인이 더 큰 양자 위협에 직면하다",
+              "description": "Google says its Willow chip can prepare the special quantum states needed for advanced calculations with about 40 times fewer errors, reducing one of the hardware bottlenecks behind any future attempt to crack bitcoin wallets.",
+              "url": "https://www.coindesk.com/ko/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
+              "source": "CoinDesk",
+              "published": "2026-10-17T04:20:13Z",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/9f051c877190174f3a7cbc53e53d11e1620cee92-2560x1707.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75"
+            },
+            {
+              "title": "谷歌最新的 Willow 突破使中本聪时代的比特币面临更大的量子威胁",
+              "description": "Google says its Willow chip can prepare the special quantum states needed for advanced calculations with about 40 times fewer errors, reducing one of the hardware bottlenecks behind any future attempt to crack bitcoin wallets.",
+              "url": "https://www.coindesk.com/zh/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
+              "source": "CoinDesk",
+              "published": "2026-10-17T03:23:49Z",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/9f051c877190174f3a7cbc53e53d11e1620cee92-2560x1707.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75"
+            },
+            {
+              "title": "Zero Knowledge: 116 Chapters In",
+              "description": "I just finished chapter 82 of Zero Knowledge. That's 116 of 137 chapters in the first draft. Here's what the book is, how a chapter gets made, and where I want to take it with AuthorMagic.",
+              "url": "https://feld.com/archives/2026/10/zero-knowledge-116-chapters-in/",
+              "source": "Feld.com",
+              "published": "2026-10-16T15:45:25Z",
+              "image": "https://feld.com/og-default.png"
+            },
+            {
+              "title": "Starknet introduces wallet privacy feature for DeFi activity",
+              "description": "Starknet’s Shadow Accounts allow users to obscure connections between their main wallets and DeFi activity, though transactions remain visible onchain.",
+              "url": "https://cointelegraph.com/news/starknet-introduces-wallet-privacy-feature-for-defi-activity",
+              "source": "Cointelegraph",
+              "published": "2026-10-14T05:32:14Z",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4WDYJ6RECS35PSEZTD40N6J/added-starknet-logo.png"
+            }
+          ]
         },
         "hyperscalers": {
           "title": "Hyperscalers",
           "icon": "☁️",
           "articles": [
             {
-              "title": "Jailbroken PS5s can now run local AI models at over 100+ tokens per second",
-              "description": "PS5LM gets a fork, allowing it to run natively and use the GPU and more RAM to run larger LLMs, even running Qwen3.8-27B at 20 tokens per second.",
-              "url": "https://www.tomshardware.com/video-games/playstation/jailbroken-ps5s-can-now-run-local-ai-models-at-over-100-tokens-per-second-fork-of-ps5lm-goes-native-and-accesses-gpu-and-more-ram",
-              "source": "Tom's Hardware UK",
-              "published": "2026-10-16T10:00:00Z",
-              "image": "https://cdn.mos.cms.futurecdn.net/p6RKS3uArE9EvG6rNBgPYb-970-80.jpg"
+              "title": "0x36 Cyberhades Podcast: Mira mamá un coche volando ...",
+              "description": "Un coche/cohete volador ;) y RoboCop para Neo Geo abren el debate sobre crear con IA y valorar el resultado. Hablamos de modelos con puertas traseras, supuestos implantes en Ledger y phishing de calendario.\nDel ordenador del Apolo (y algunas anécdotas del his…",
+              "url": "https://www.cyberhades.com/2026/10/17/0x36-cyberhades-podcast-mira-mam%C3%A1-un-coche-volando-.../",
+              "source": "Cyberhades.com",
+              "published": "2026-10-17T06:00:42Z",
+              "image": null
             },
             {
               "title": "Pixagram to Offer Free Account Creation to 250 New Users Every Day Through 2026",
