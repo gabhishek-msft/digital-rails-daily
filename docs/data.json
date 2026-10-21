@@ -1,5 +1,5 @@
 {
-  "date": "October 20, 2026",
+  "date": "October 21, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -7,20 +7,44 @@
       "color": "#ffb900",
       "articles": [
         {
+          "title": "Bitcoin drops to $81,400 as Asian chip stocks tumble, options traders seek downside protection",
+          "description": "Bitcoin slipped 0.5% to around $81,400 even after the biggest daily spot ETF inflow in nearly a month as South Korea's Kospi index fell 3.7% on AI worries.",
+          "url": "https://www.coindesk.com/markets/2026/10/20/bitcoin-drops-to-usd81-400-as-asian-chip-stocks-tumble-options-traders-seek-downside-protection",
+          "source": "CoinDesk",
+          "published": "2026-10-20T10:22:55Z",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/8c7a6e81d5df5052dab8f6d8af2efcf82f9ea3fd-1920x1080.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75"
+        },
+        {
+          "title": "Sophon sets November 25 deadline for asset withdrawals before mainnet shutdown",
+          "description": "Sophons shutdown highlights the financial challenges of standalone blockchains, pushing projects to leverage established networks for sustainability.\nThe post Sophon sets November 25 deadline for asset withdrawals before mainnet shutdown appeared first on Cry…",
+          "url": "https://cryptobriefing.com/sophon-mainnet-shutdown-withdrawal-deadline/",
+          "source": "Crypto Briefing",
+          "published": "2026-10-20T05:24:18Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/20012413/library-sophon-sets-november-25-deadline-for-asset-withdrawals-b-800x450.png"
+        },
+        {
+          "title": "Logos launches evidence layer for tokenized assets at Money20/20",
+          "description": "Logos' evidence layer could streamline tokenized asset evaluation, reducing redundancy and fostering industry-wide standardization and trust.\nThe post Logos launches evidence layer for tokenized assets at Money20/20 appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/logos-evidence-layer-tokenized-assets-money2020/",
+          "source": "Crypto Briefing",
+          "published": "2026-10-19T20:29:42Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/19162938/library-logos-launches-evidence-layer-for-tokenized-assets-at-mo-800x450.png"
+        },
+        {
+          "title": "Morning Minute: Crypto Rebounds as 'Black Monday' Looms",
+          "description": "The original “Black Monday” occurred 39 years ago today. Is history about to repeat itself?",
+          "url": "https://decrypt.co/381297/morning-minute-crypto-rebounds-as-black-monday-looms",
+          "source": "Decrypt",
+          "published": "2026-10-19T12:19:39Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/Bitcoin-decrypt-style-24-gID_7.png"
+        },
+        {
           "title": "Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead altcoin gains",
           "description": "Bitcoin rose 0.8% to around $82,700 as China’s GDP beat estimates and Nasdaq futures rebounded, while the CoinDesk 80 gained 1.3% and DeFi led gains.",
           "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-extends-bounce-above-usd82-000-as-stocks-rebound-defi-tokens-lead-altcoin-gains",
           "source": "CoinDesk",
           "published": "2026-10-19T10:26:33Z",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/28283ebba4d1a7241694e2613ffbdcd1d9845ea2-1920x1080.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75"
-        },
-        {
-          "title": "CME’s bitcoin cash, uniswap futures, global PMIs: Crypto Week Ahead",
-          "description": "Your look at what's coming in the week starting Oct. 19.",
-          "url": "https://www.coindesk.com/markets/2026/10/19/cme-s-bitcoin-cash-uniswap-futures-global-pmis-crypto-week-ahead",
-          "source": "CoinDesk",
-          "published": "2026-10-19T09:12:39Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/b119fde813835a73b12fcb4cb0e3a811abe61149-1500x1021.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75"
         },
         {
           "title": "Richard Heart caught with pants down, QDay gets even closer: Hodler’s Digest",
@@ -31,36 +55,12 @@
           "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M58DKX7KCTJFZHWYSYH8DBTC/hodlers-crop.jpg"
         },
         {
-          "title": "Starknet brings programmable privacy to Zcash-style assets",
-          "description": "Starknet's privacy features could attract institutional interest by enabling compliant private transactions, enhancing DeFi's confidentiality.\nThe post Starknet brings programmable privacy to Zcash-style assets appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/starknet-programmable-privacy-zcash-strk20/",
-          "source": "Crypto Briefing",
-          "published": "2026-10-18T15:03:15Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/18110310/library-starknet-brings-programmable-privacy-to-zcash-style-asse-800x450.png"
-        },
-        {
-          "title": "Starknet integrates with ShapeShift, cutting the bridge step from swaps",
-          "description": "The integration enhances Starknet's accessibility and could boost transaction volumes, fostering broader adoption and interoperability in DeFi.\nThe post Starknet integrates with ShapeShift, cutting the bridge step from swaps appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/starknet-integrates-shapeshift-no-bridge-swaps/",
-          "source": "Crypto Briefing",
-          "published": "2026-10-17T08:33:00Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/17043256/library-starknet-integrates-with-shapeshift-cutting-the-bridge-s-800x450.png"
-        },
-        {
           "title": "‘Bunker mode’ won’t protect your crypto, critics say",
           "description": "While AI could theoretically break crypto, experts disagree on how close the danger is, and critics argue there are many reasons Justin Drake’s “bunker mode” proposal won’t work.",
           "url": "https://cointelegraph.com/magazine/bunker-mode-wont-protect-your-crypto-critics-say",
           "source": "Cointelegraph",
           "published": "2026-10-14T13:30:00Z",
           "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4THPCR92A9D9AT5MEKWQ9WN/magazinejourneys-trevor-koverko.png"
-        },
-        {
-          "title": "Goldman Sachs, Citadel and Google Alumni are building a blockchain exchange for real-world asset trading",
-          "description": "DeepSigma has launched a paper-trading demo covering 77 traditional financial markets, using patented blockchain technology to bring crypto-style perpetual futures to stocks, commodities and other real-world assets. A team with backgrounds at Goldman Sachs, C…",
-          "url": "https://thenextweb.com/news/deepsigma-cypherium-rwa-perpetual-futures-exchange",
-          "source": "The Next Web",
-          "published": "2026-10-13T13:00:32Z",
-          "image": "https://media.thenextweb.com/2026/10/blockchain-nodes-network-3d-render.jpg"
         }
       ]
     },
@@ -69,6 +69,22 @@
       "icon": "🔐",
       "color": "#e6a200",
       "articles": [
+        {
+          "title": "Sophon sets Nov. 25 withdrawal deadline ahead of mainnet shutdown",
+          "description": "In June, Sophon’s developers said the costs of maintaining a standalone blockchain no longer justified its benefits and announced plans to focus on consumer finance and AI applications on Base.",
+          "url": "https://cointelegraph.com/news/sophon-sets-nov-25-withdrawal-deadline-ahead-of-mainnet-shutdown",
+          "source": "Cointelegraph",
+          "published": "2026-10-20T05:14:11Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5BTX2A4AWVPY2BYEAS2GXFK/hi-is-the-imf-shutting-the-door-prematurely-on-nft.jpg"
+        },
+        {
+          "title": "Lighter launches BTC and ETH binary options on Core",
+          "description": "Lighter's binary options launch could diversify trading strategies, attract new users, and position the platform closer to prediction markets.\nThe post Lighter launches BTC and ETH binary options on Core appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/lighter-launches-btc-eth-binary-options/",
+          "source": "Crypto Briefing",
+          "published": "2026-10-19T17:26:21Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/19132615/library-lighter-launches-btc-and-eth-binary-options-on-core-800x450.png"
+        },
         {
           "title": "Pirate Chain Exploit Creates 39.8 Million Unauthorized Tokens In Major Security Breach",
           "description": "TL;DR: Pirate Chain developers disclosed a vulnerability linked to roughly 39.8 million unauthorized ARRR tokens. The incident raised urgent questions about network supply and how an attack can be investigated when transactions use strong privacy protections.…",
@@ -92,14 +108,6 @@
           "source": "Decrypt",
           "published": "2026-10-17T16:01:03Z",
           "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Bitcoin-decrypt-style-19-gID_7.png"
-        },
-        {
-          "title": "Nine blockchain groups unite to set open standards for post-quantum readiness",
-          "description": "The alliance's efforts could significantly enhance blockchain security, ensuring resilience against future quantum threats and fostering industry-wide collaboration.\nThe post Nine blockchain groups unite to set open standards for post-quantum readiness appear…",
-          "url": "https://cryptobriefing.com/nine-blockchain-groups-unite-to-set-open-standards-for-post-quantum-readiness/",
-          "source": "Crypto Briefing",
-          "published": "2026-10-15T13:02:08Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/15082341/Nine-blockchain-groups-unite-to-set-open-standards-for-post-quantum-readiness-762x457.png"
         }
       ]
     },
@@ -109,68 +117,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
-          "description": "JPMorgan's dollar deposit token is heading to Ethereum as the lender looks to offer it to wider selection of institutional clients.",
-          "url": "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg",
-          "source": "CoinDesk",
-          "published": "2026-10-19T10:03:47Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/3f6583d261d45cb78f830c786e9a0cf1931cdc32-4000x2250.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75"
-        },
-        {
-          "title": "24X Completes Spot Cryptocurrency Trade in BTC with Standard Chartered and Wintermute",
-          "description": "HAMILTON, Bermuda, Oct. 19, 2026 /PRNewswire/ -- 24X Bermuda Limited (\"24X\") today announced that it has successfully completed its second consecutive spot cryptocurrency client trade on its institutional-grade, multi-asset trading platform, solidifying its p…",
-          "url": "https://www.prnewswire.com/news-releases/24x-completes-spot-cryptocurrency-trade-in-btc-with-standard-chartered-and-wintermute-302910545.html",
-          "source": "PRNewswire",
-          "published": "2026-10-19T10:00:00Z",
-          "image": null
-        },
-        {
-          "title": "JPMorgan brings deposit token to Ethereum for institutional clients",
-          "description": "JPM Coin, which represents US dollar deposits at the largest US bank, will be made available to the company’s institutional clients on the Ethereum network",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-19/jpmorgan-brings-deposit-token-jpm-coin-to-ethereum-for-institutional-clients",
-          "source": "Bloomberg",
-          "published": "2026-10-19T09:40:31Z",
-          "image": "https://bl-i.thgim.com/public/incoming/831ge0/article70769999.ece/alternates/LANDSCAPE_1200/2026-02-23T222442Z_228267835_RC2XRJAWXM3B_RTRMADP_3_JPMORGAN-OUTLOOK.JPG"
-        },
-        {
-          "title": "Treasury NPRM Comment Period Closes TODAY: What the Industry Filed Before the GENIUS Act Deadline",
-          "description": "The October 19, 2026, closure of the comment period for the GENIUS Act NPRM (TREAS-DO-2026-0496) signals the end of the primary public feedback phase for the administration’s stablecoin framework. Published as 91 FR 53368, the proposal drew significant indust…",
-          "url": "https://forkast.news/treasury-nprm-comment-period-closes-today-what-the-industry-filed-before-the-genius-act-deadline/",
+          "title": "JPMorgan’s 2027 Long-Term Capital Market Assumptions Project Bitcoin at 10% Compound Annualized — But a Return Range Is Not an Allocation",
+          "description": "Bitcoin has officially entered the institutional forecasting arena. In its 2027 Long-Term Capital Market Assumptions, J.P. Morgan projects a 10% compound annualized return for the asset over the next 10 to 15 years. This projection places the digital asset ah…",
+          "url": "https://forkast.news/jpmorgans-2027-long-term-capital-market-assumptions-project-bitcoin-at-10-compound-annualized-but-a-return-range-is-not-an-allocation/",
           "source": "Forkast.news",
-          "published": "2026-10-19T09:26:58Z",
-          "image": "https://forkast.news/wp-content/uploads/2026/10/treasury-nprm-genius-act-fault-lines-1024x572.jpg"
+          "published": "2026-10-20T10:35:31Z",
+          "image": "https://forkast.news/wp-content/uploads/2026/10/jpmorgan-ltcma-bitcoin-return-range-1024x687.jpg"
         },
         {
-          "title": "Following the Money: Stablecoin Transfers Under $100 Account for 77% of Activity, While Large Transactions Move Two-Thirds of Value, Mercuryo and BNB Chain Report Finds",
-          "description": "LONDON, Oct. 19, 2026 /PRNewswire/ -- Global payments infrastructure platform Mercuryo and BNB Chain, the community-driven blockchain ecosystem, have published a joint report highlighting the versatility of stablecoins, which facilitate activity ranging from …",
-          "url": "https://www.prnewswire.com/news-releases/following-the-money-stablecoin-transfers-under-100-account-for-77-of-activity-while-large-transactions-move-two-thirds-of-value-mercuryo-and-bnb-chain-report-finds-302912429.html",
-          "source": "PRNewswire",
-          "published": "2026-10-19T09:00:00Z",
-          "image": null
+          "title": "BlackRock Files For Bitcoin ETF With Managed Downside Protection",
+          "description": "TL;DR: BlackRock has proposed another Bitcoin-linked ETF, this time using options to pursue some protection against losses while giving up part of the potential upside. BlackRock’s latest Bitcoin fund filing takes a different approach from the familiar buy-an…",
+          "url": "http://www.newsbtc.com/bitcoin-news/blackrock-files-for-bitcoin-etf-with-managed-downside-protection/",
+          "source": "newsBTC",
+          "published": "2026-10-20T09:35:45Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/newsbtc_02_bitcoin_etf_flows_featured.png?fit=1200%2C675"
         },
         {
-          "title": "JPMorgan takes JPM Coin to Ethereum for institutional clients: Report",
-          "description": "JPMorgan is reportedly expanding its JPM Coin deposit token to Ethereum, allowing institutional clients to make payments and settle tokenized asset transactions.",
-          "url": "https://cointelegraph.com/news/jpmorgan-jpm-coin-ethereum-institutional-clients",
-          "source": "Cointelegraph",
-          "published": "2026-10-19T08:58:45Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M59MBQFEA0ZPNG2VY870K1C7/hi-jp-morgan-chase-and-crypto-recap-1.jpg"
+          "title": "BlackRock Files for 'Buffer' Bitcoin ETF as IBIT Draws $665M in a Day",
+          "description": "The iShares Bitcoin Managed Protection ETF would use options on IBIT to limit losses, in exchange for giving up some upside.",
+          "url": "https://decrypt.co/381385/blackrock-files-for-buffer-bitcoin-etf-as-ibit-draws-665m-in-a-day",
+          "source": "Decrypt",
+          "published": "2026-10-20T09:13:30Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/BlackRock-decrypt-style-03-gID_7.png"
         },
         {
-          "title": "Deutsche Bank Weeks Away From Launching Crypto Custody",
-          "description": "Deutsche Bank is weeks away from launching crypto custody in Germany and plans to expand the platform into Asian financial centers next year, a top executive told Reuters.\nThe post Deutsche Bank Weeks Away From Launching Crypto Custody appeared first on The D…",
-          "url": "https://dailyhodl.com/2026/10/19/deutsche-bank-weeks-away-from-launching-crypto-custody/",
-          "source": "The Daily Hodl",
-          "published": "2026-10-19T07:04:41Z",
-          "image": "https://dailyhodl.com/wp-content/uploads/2026/10/banks-up-against-digital_pink.jpg?resize=1365,800"
-        },
-        {
-          "title": "GENIUS Act Stirs Controversy as Former White House Insider Profited from Stablecoin Legislation",
-          "description": "In 2025, President Donald Trump approved the GENIUS Act, which aims to establish the U.S. as a global leader in digital assets through stablecoin regulation. Reports reveal that Bo Hines, who served as a Trump crypto adviser and later joined Tether, personall…",
-          "url": "https://www.naturalnews.com/2026-10-19-former-white-house-insider-profited-stablecoin-legislation.html",
+          "title": "Bitcoinâs Volatility Falls Within S&P 500 Range, Grayscale Research Says",
+          "description": "Bitcoin’s one-year realized volatility has declined to 43%, a level that now sits within the distribution of S&P 500 constituents, according to a research note released Wednesday by crypto asset manager Grayscale. The figure is down from an average of 64% ove…",
+          "url": "https://www.naturalnews.com/2026-10-20-bitcoin-volatility-falls-500-range-research-says.html",
           "source": "Naturalnews.com",
-          "published": "2026-10-19T06:00:00Z",
-          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/stablecoin-regulation-genius-act-bo-hines-5236-4d0f43fe-original.jpg"
+          "published": "2026-10-20T06:00:00Z",
+          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/bitcoin-volatility-grayscale-research-sp-500-5273-7357283b-original.jpg"
+        },
+        {
+          "title": "French MPs back crypto tax, and stablecoin swaps take the hit",
+          "description": "The October 16 first-reading votes advance a proposal covering MiCA e-money tokens, with a January 2027 start conditional on enactment.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in you…",
+          "url": "https://cryptoslate.com/french-mps-back-crypto-tax-and-stablecoin-swaps-take-the-hit/",
+          "source": "CryptoSlate",
+          "published": "2026-10-20T04:40:34Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/10/france-stablecoin-tax-vote-standard.jpg"
+        },
+        {
+          "title": "Ramp Seeks National Trust Bank Charter for Digital Asset Custody",
+          "description": "Finance platform Ramp aims to form a national trust bank that would offer fiduciary investment management and custody of digital assets, the company said in a Monday (Oct. 19) post on X. Ramp submitted an application to establish the proposed Ramp National Tr…",
+          "url": "https://biztoc.com/x/392233a106526a6c",
+          "source": "Biztoc.com",
+          "published": "2026-10-20T01:02:42Z",
+          "image": "https://biztoc.com/cdn/996/og.png"
+        },
+        {
+          "title": "CFTC joins SEC in proposing crypto framework after failed CLARITY vote",
+          "description": "CFTC Chair Michael Selig claimed that the agency was using its “existing statutory authorities“ to address crypto regulation after Congress failed to advance a market structure bill. US Commodity Futures Trading Commission (CFTC) Chair Michael Selig said that…",
+          "url": "https://activistpost.com/cftc-joins-sec-in-proposing-crypto-framework-after-failed-clarity-vote/",
+          "source": "Activistpost.com",
+          "published": "2026-10-20T00:54:00Z",
+          "image": "https://activistpost.com/wp-content/uploads/2026/10/analys-analytics-bisiness-man-woman-up-city-takeoff-cftc-1-1280x854-1.webp"
+        },
+        {
+          "title": "Kansas City Fed Flags Funding Challenges From Tokenized Deposits",
+          "description": "Banks are developing tokenized deposits to give corporate customers faster access to their money. In doing so, they are making the deposits they use for funding easier to move. A research briefing from the Federal Reserve Bank of Kansas City published Friday …",
+          "url": "https://www.pymnts.com/news/banking/2026/kansas-city-fed-flags-funding-challenges-from-tokenized-deposits/",
+          "source": "pymnts.com",
+          "published": "2026-10-19T21:55:27Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/09/tokenized-deposits-blockchain-digital-transformation.jpeg"
         }
       ]
     },
@@ -180,36 +188,20 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "The Crypto Devices Built to Foil Hackers Came With Spies Inside",
-          "description": "At a small cryptocurrency shop in the heart of Kuala Lumpur, a sheet of paper dated Oct. 10 is taped to shutters over the entrance: “Our physical stores are temporarily closed until further notice.” Malaysian retailer CryptoBilis, a reseller of …",
-          "url": "https://www.insurancejournal.com/news/international/2026/10/19/889497.htm",
-          "source": "Insurance Journal",
-          "published": "2026-10-19T10:20:40Z",
-          "image": "https://www.insurancejournal.com/app/uploads/2026/10/ledger-flex-bloomberg-scaled.jpg"
+          "title": "/C O R R E C T I O N - Fireblocks/",
+          "description": "In the news release, Fireblocks Launches Liquidity Market, Bringing Streaming OTC Pricing Into Stablecoin Payments, issued 15-Oct-2026 by Fireblocks over PR Newswire, we are advised by the company that a change has been made. The complete, corrected release f…",
+          "url": "https://www.prnewswire.com/news-releases/fireblocks-launches-liquidity-market-bringing-streaming-otc-pricing-into-stablecoin-payments-302909484.html",
+          "source": "PRNewswire",
+          "published": "2026-10-19T15:27:00Z",
+          "image": null
         },
         {
-          "title": "Crypto doesn’t need your party to win, just its candidates",
-          "description": "The crypto industry has finally found a way to participate in America's partisan warfare without committing to either of the (only) two available parties: help elect people who agree with it about crypto, then let them argue about everything else. Fairshake's…",
-          "url": "https://cryptoslate.com/crypto-doesnt-need-your-party-to-win-just-its-candidates/",
-          "source": "CryptoSlate",
-          "published": "2026-10-18T17:00:57Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-election-influence.webp"
-        },
-        {
-          "title": "Pantera Leads $10 Million Fission Funding Round To Solve Tokenized Fund Liquidity Problem",
-          "description": "TL;DR: Tokenization infrastructure firm Fission has raised $10 million in a funding round led by Pantera Capital. It wants to make it easier for eligible investors to sell tokenized private-market holdings without waiting for traditional fund redemption perio…",
-          "url": "http://www.newsbtc.com/crypto-news/pantera-leads-10-million-fission-funding-round-to-solve-tokenized-fund/",
-          "source": "newsBTC",
-          "published": "2026-10-17T22:13:00Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2026/10/newsbtc_N14.png?fit=1600%2C900"
-        },
-        {
-          "title": "TRON moved $2.2 trillion in stablecoins while TRX supply grew for 108 straight days",
-          "description": "TRX supply grew on all 108 days from July 1 through October 16 as burns fell short of newly issued rewards.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
-          "url": "https://cryptoslate.com/trons-stablecoin-growth-has-not-made-trx-deflationary/",
-          "source": "CryptoSlate",
-          "published": "2026-10-17T21:00:59Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/10/tron-stablecoin-network-portal.webp"
+          "title": "⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More",
+          "description": "The worst problems don't always come with a warning. Sometimes they arrive through a service everyone trusts, a device someone bought, or a system nobody thought to check. By the time something looks wrong, the damage may already be done.\n\nThis week had plent…",
+          "url": "https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html",
+          "source": "Internet",
+          "published": "2026-10-19T14:14:07Z",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTvDNJzlrpPvCifQ9zNcdkc0vjmmRwGCap_kODFlX5W_IimpUgTyObjSefO7gHjXKUMhEkIlmgnH1GbbbWna6eZWa8xcRDLXeRmYX0oSrhAgS8YXth6_T2CPXMMnZvgsf1Psq_DUB9JkjeELLHjnB2xFl9-8bM5BW19fJ1aHcOruzwKErZJkjwRBSRedBq/s1700-nu-rw-lo-l85-e365/recap-1.jpg"
         },
         {
           "title": "Jack Henry Expands Collaboration with Google Cloud to Deliver Tokenized Deposits for Banks and Credit Unions",
@@ -239,20 +231,28 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Zcash Shielded Pools Draw Fresh Scrutiny After Stolen Crypto Transfers",
-              "description": "TL;DR: Investigators have raised new concerns about stolen crypto flowing into Zcash, following earlier tracing of roughly 2,746 ZEC linked to the Bitget breach. Shielded transactions obscure details after entry, but do not prove that the underlying network h…",
-              "url": "https://bitcoinist.com/zcash-shielded-pools-stolen-crypto-forensics/",
-              "source": "Bitcoinist",
-              "published": "2026-10-18T18:30:00Z",
-              "image": "https://bitcoinist.com/wp-content/uploads/2026/05/Zcash-ZEC-ZECUSD.jpg"
+              "title": "Cross River Plans to Buy Accrue to Merge Payments With Loyalty",
+              "description": "Cross River Bank plans to add branded wallet, stored value and loyalty rewards technology to its regulated financial infrastructure by acquiring FinTech company Accrue, Cross River said in a Tuesday (Oct. 20) press release emailed to PYMNTS. Cross River’s par…",
+              "url": "https://www.pymnts.com/news/acquiring/2026/cross-river-plans-to-buy-accrue-to-merge-payments-with-loyalty/",
+              "source": "pymnts.com",
+              "published": "2026-10-20T10:00:41Z",
+              "image": "https://www.pymnts.com/wp-content/uploads/2025/12/Cross-River-Bank-processing1.jpg"
             },
             {
-              "title": "Sui’s Hashi Bitcoin Lending Project Prepares For Mainnet With $500 Million Pledged",
-              "description": "TL;DR: Sui’s Hashi project is preparing for a phased October mainnet rollout with more than $500 million in partner capital commitments. Anchorage Digital is joining as a launch partner, but pledged funding is not the same as value already deployed on-chain. …",
-              "url": "https://bitcoinist.com/sui-hashi-bitcoin-lending-500-million-commitments/",
-              "source": "Bitcoinist",
-              "published": "2026-10-18T16:30:00Z",
-              "image": "https://bitcoinist.com/wp-content/uploads/2026/05/a_1efb1d.png"
+              "title": "Mastercard helps banks assess stablecoin risks before funds move",
+              "description": "Mastercard has announced Stablecoin Security, a new risk intelligence solution, with Borderless.xyz and Keyrails as initial partners. As stablecoins play a growing role in cross-border and business-to-business payments, financial institutions need a clearer v…",
+              "url": "https://www.helpnetsecurity.com/2026/10/20/mastercard-stablecoin-security/",
+              "source": "Help Net Security",
+              "published": "2026-10-20T06:25:12Z",
+              "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/28150559/hns-large_logo.webp"
+            },
+            {
+              "title": "IZIPAY – Spend crypto anywhere with instant virtual and physical cards",
+              "description": "Spend crypto anywhere with instant virtual and physical cards",
+              "url": "https://betalist.com/startups/izipay",
+              "source": "Betalist.com",
+              "published": "2026-10-20T04:05:00Z",
+              "image": "https://resize.imagekit.co/Pf04MOL87a8K1Q94B9I1Fs5V50MduhLjYMVOjImVxVs/plain/s3://betalist-production/yruycko8iw1ldi5g858oc8umadsp"
             },
             {
               "title": "Zero Knowledge: 116 Chapters In",
@@ -269,14 +269,6 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "StakerX’s AI Agent Crosses $40 Million in Staked Assets on Solana in Just Three Months",
-              "description": "StakerGPT trades crypto markets around the clock and publishes every trade, as more than 8,200 users join the platform. StakerX.ai, an agentic trading platform built by Switzerland-based StakerX Strategies AG, has passed $40 million in staked assets on Solana…",
-              "url": "https://zycrypto.com/stakerxs-ai-agent-crosses-40-million-in-staked-assets-on-solana-in-just-three-months/",
-              "source": "ZyCrypto",
-              "published": "2026-10-19T10:16:57Z",
-              "image": "https://zycrypto.com/wp-content/uploads/2026/10/StakerXs-AI-Agent-Crosses-40M-in-Staked-Assets-on-Solana-in-Just-Three-Months.jpg"
-            },
-            {
               "title": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic",
               "description": "A fake Web3 accelerator has been observed pushing information stealers and backdoors to Windows and macOS systems using malicious npm packages under the pretext of offering free artificial intelligence (AI) credits for Anthropic Claude and Google Gemini, codi…",
               "url": "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html",
@@ -285,12 +277,20 @@
               "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAw5A6yrE0NkMreq5lBZaS4ndrFrorAZaVrjJ218aS1RcJoQVYOJOVejIn8rBH5RHIIZ_cpvtzHnQMwMMWVOFbpfcs01tolLCmlYAY3qy-onWaOUQhzB6H2VjlWaUgBCL_0vAjRB7VmumClnaiIxDds6j9wD3lt9vD-kptWl6bUft29O6Z0cTNgBQV6t76/s1700-nu-rw-lo-l85-e365/npm-apex.jpg"
             },
             {
-              "title": "StakerX’s AI Agent Surpasses Passes $40M Staked Assets on Solana Within Three Months of Launch",
-              "description": "Zug, Switzerland, 19th October 2026, Chainwire\nThe post StakerX’s AI Agent Surpasses Passes $40M Staked Assets on Solana Within Three Months of Launch appeared first on The Daily Hodl.",
-              "url": "https://dailyhodl.com/2026/10/19/stakerxs-ai-agent-surpasses-passes-40m-staked-assets-on-solana-within-three-months-of-launch/",
-              "source": "The Daily Hodl",
-              "published": "2026-10-19T09:58:32Z",
-              "image": "https://dailyhodl.com/wp-content/uploads/2026/10/stakerx-device-promo_17923405031UpwzRs3u1.jpg?resize=1920,1080"
+              "title": "Microsoft exposes how USDT-funded phishing network targeted 75,000 organizations",
+              "description": "Domain seizures and account shutdowns hit YAM Store and phishing-kit services, while reported asset freezes remain unquantified.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+              "url": "https://cryptoslate.com/microsoft-exposes-how-usdt-funded-phishing-network-targeted-75000-organizations/",
+              "source": "CryptoSlate",
+              "published": "2026-10-16T15:20:01Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/10/microsoft-phishing-crypto-takedown.webp"
+            },
+            {
+              "title": "Ripple opens Wall Street’s door to Hyperliquid’s $59 billion trading market",
+              "description": "Institutions trade swaps referencing more than 100 traditional financial markets around the clock, with Ripple Prime as the principal counterparty, Ripple announced on Oct. 15. The swaps cover stocks, equity indices, ETFs, metals, energy and foreign exchange,…",
+              "url": "https://cryptoslate.com/ripple-opens-wall-streets-door-to-hyperliquids-59-billion-trading-market/",
+              "source": "CryptoSlate",
+              "published": "2026-10-16T11:00:56Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/10/ripple-market-transfer.webp"
             },
             {
               "title": "Pixagram to Offer Free Account Creation to 250 New Users Every Day Through 2026",
