@@ -1,11 +1,19 @@
 {
-  "date": "October 21, 2026",
+  "date": "October 22, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "Starknet Foundation launches Bramble, a self-custody wallet built around privacy",
+          "description": "Bramble's launch could enhance user autonomy and privacy in crypto transactions, potentially influencing broader adoption of self-custody solutions.\nThe post Starknet Foundation launches Bramble, a self-custody wallet built around privacy appeared first on Cr…",
+          "url": "https://cryptobriefing.com/starknet-foundation-launches-bramble-wallet/",
+          "source": "Crypto Briefing",
+          "published": "2026-10-20T15:38:54Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/20113849/library-starknet-foundation-launches-bramble-a-self-custody-wall-800x450.png"
+        },
         {
           "title": "Bitcoin drops to $81,400 as Asian chip stocks tumble, options traders seek downside protection",
           "description": "Bitcoin slipped 0.5% to around $81,400 even after the biggest daily spot ETF inflow in nearly a month as South Korea's Kospi index fell 3.7% on AI worries.",
@@ -23,14 +31,6 @@
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/20012413/library-sophon-sets-november-25-deadline-for-asset-withdrawals-b-800x450.png"
         },
         {
-          "title": "Logos launches evidence layer for tokenized assets at Money20/20",
-          "description": "Logos' evidence layer could streamline tokenized asset evaluation, reducing redundancy and fostering industry-wide standardization and trust.\nThe post Logos launches evidence layer for tokenized assets at Money20/20 appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/logos-evidence-layer-tokenized-assets-money2020/",
-          "source": "Crypto Briefing",
-          "published": "2026-10-19T20:29:42Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/19162938/library-logos-launches-evidence-layer-for-tokenized-assets-at-mo-800x450.png"
-        },
-        {
           "title": "Morning Minute: Crypto Rebounds as 'Black Monday' Looms",
           "description": "The original “Black Monday” occurred 39 years ago today. Is history about to repeat itself?",
           "url": "https://decrypt.co/381297/morning-minute-crypto-rebounds-as-black-monday-looms",
@@ -45,22 +45,6 @@
           "source": "CoinDesk",
           "published": "2026-10-19T10:26:33Z",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/28283ebba4d1a7241694e2613ffbdcd1d9845ea2-1920x1080.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75"
-        },
-        {
-          "title": "Richard Heart caught with pants down, QDay gets even closer: Hodler’s Digest",
-          "description": "HEX founder Richard Heart detained in early morning raid in Istanbul, Starknet plunges almost 50% as it votes to become an L1, and Bitwise says all signs point to Crypto Spring.",
-          "url": "https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest",
-          "source": "Cointelegraph",
-          "published": "2026-10-18T22:58:17Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M58DKX7KCTJFZHWYSYH8DBTC/hodlers-crop.jpg"
-        },
-        {
-          "title": "‘Bunker mode’ won’t protect your crypto, critics say",
-          "description": "While AI could theoretically break crypto, experts disagree on how close the danger is, and critics argue there are many reasons Justin Drake’s “bunker mode” proposal won’t work.",
-          "url": "https://cointelegraph.com/magazine/bunker-mode-wont-protect-your-crypto-critics-say",
-          "source": "Cointelegraph",
-          "published": "2026-10-14T13:30:00Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4THPCR92A9D9AT5MEKWQ9WN/magazinejourneys-trevor-koverko.png"
         }
       ]
     },
@@ -69,6 +53,22 @@
       "icon": "🔐",
       "color": "#e6a200",
       "articles": [
+        {
+          "title": "GRVT Burns 1.1 Million Tokens as GRVT 2.0 Draws Closer",
+          "description": "Grvt, a self-custodial trading platform built on its own zero-knowledge (ZK) chain, announced that the Foundation’s token issuer completed its first GRVT token buyback—purchasing and burning 1.1 million GRVT tokens on the open market. The transaction permanen…",
+          "url": "https://zycrypto.com/grvt-burns-1-1-million-tokens-as-grvt-2-0-draws-closer/",
+          "source": "ZyCrypto",
+          "published": "2026-10-20T16:21:26Z",
+          "image": "https://zycrypto.com/wp-content/uploads/2026/10/unnamed-2026-10-20T171533.986.jpg"
+        },
+        {
+          "title": "GRVT Burns 1.1 Million Tokens as Countdown to Grvt 2.0 Begins",
+          "description": "Singapore, Singapore, 20th October 2026, Chainwire\nThe post GRVT Burns 1.1 Million Tokens as Countdown to Grvt 2.0 Begins appeared first on The Daily Hodl.",
+          "url": "https://dailyhodl.com/2026/10/20/grvt-burns-1-1-million-tokens-as-countdown-to-grvt-2-0-begins/",
+          "source": "The Daily Hodl",
+          "published": "2026-10-20T13:05:01Z",
+          "image": "https://dailyhodl.com/wp-content/uploads/2026/10/PR_Hero_1_1792464576K6SNMaVyOq.jpg?resize=1200,720"
+        },
         {
           "title": "Sophon sets Nov. 25 withdrawal deadline ahead of mainnet shutdown",
           "description": "In June, Sophon’s developers said the costs of maintaining a standalone blockchain no longer justified its benefits and announced plans to focus on consumer finance and AI applications on Base.",
@@ -117,68 +117,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "JPMorgan’s 2027 Long-Term Capital Market Assumptions Project Bitcoin at 10% Compound Annualized — But a Return Range Is Not an Allocation",
-          "description": "Bitcoin has officially entered the institutional forecasting arena. In its 2027 Long-Term Capital Market Assumptions, J.P. Morgan projects a 10% compound annualized return for the asset over the next 10 to 15 years. This projection places the digital asset ah…",
-          "url": "https://forkast.news/jpmorgans-2027-long-term-capital-market-assumptions-project-bitcoin-at-10-compound-annualized-but-a-return-range-is-not-an-allocation/",
+          "title": "OCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban",
+          "description": "The U.S. Office of the Comptroller of the Currency is the first of several federal agencies to finish writing regulations under the act.",
+          "url": "https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban",
+          "source": "CoinDesk",
+          "published": "2026-10-21T11:00:00Z",
+          "image": "https://cdn.sanity.io/images/s3y3vcno/production/4c09fd387e07e818d3495ad2fd02c4cd3d460094-6000x3376.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75"
+        },
+        {
+          "title": "JPMorgan’s Bitcoin Forecast Explained: 10% Returns and 55% Volatility",
+          "description": "JPMorgan’s first BTC price prediction projects 10% annual returns over 10 to 15 years, but 55% volatility keeps Bitcoin outside core portfolio models.\nThe post JPMorgan’s Bitcoin Forecast Explained: 10% Returns and 55% Volatility appeared first on Bitcoin Fou…",
+          "url": "https://bitcoinfoundation.org/news/analysis/jpmorgans-bitcoin-forecast-explained-10-returns-and-55-volatility/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-10-21T07:57:09Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/jpmorgans-bitcoin-forecast-explained-10-returns-and-55-volatility.webp"
+        },
+        {
+          "title": "JPMorgan Asset Management Predicts Bitcoin (BTC) Surging 10% a Year in Next 10 Years – But There’s a Catch",
+          "description": "J.P. Morgan Asset Management is including Bitcoin in its 2027 Long-Term Capital Market Assumptions report for the first time with a forecasted return range positioning it as potentially the top performer over the next decade.\nThe post JPMorgan Asset Managemen…",
+          "url": "https://dailyhodl.com/2026/10/21/jpmorgan-asset-management/",
+          "source": "The Daily Hodl",
+          "published": "2026-10-21T07:04:10Z",
+          "image": "https://dailyhodl.com/wp-content/uploads/2026/09/bitcoin-expect-fireworks_pink.jpg?resize=1365,800"
+        },
+        {
+          "title": "Malaysia central bank launches DLT platform for tokenized bonds",
+          "description": "The platform tracks tokenized securities ownership and transfers, linking to Malaysia’s RENTAS+ system to settle corresponding payments in central bank money.",
+          "url": "https://cointelegraph.com/news/malaysia-central-bank-tokenized-bonds-sukuk-dlt-platform",
+          "source": "Cointelegraph",
+          "published": "2026-10-21T05:56:29Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5EFRAEF78CJAMAFGA606YZ5/hi-us-banks-have-deeper-interest-in-digital-than-previously-thought-1.png"
+        },
+        {
+          "title": "Arnold & Porter Discusses Implementing the GENIUS Act",
+          "description": "On September 24, 2026, the Board of Governors of the Federal Reserve System (Board) issued two companion notices of proposed rulemaking to implement its responsibilities under the Guiding and Establishing National Innovation for U.S. Stablecoins Act (GENIUS A…",
+          "url": "https://clsbluesky.law.columbia.edu/2026/10/21/arnold-porter-discusses-implementing-the-genius-act/",
+          "source": "Columbia.edu",
+          "published": "2026-10-21T04:01:41Z",
+          "image": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
+          "title": "EBA Designates Circle’s USDC as Europe’s First ‘Significant’ MiCA EMT, Bringing Dual Supervision From Nov. 12",
+          "description": "The classification of USDC as a significant e-money token (EMT) by the European Banking Authority (EBA) is a shift in supervisory architecture rather than a change in the product itself. On 14 October 2026, the EBA classified USDC as a significant EMT, markin…",
+          "url": "https://forkast.news/eba-designates-circles-usdc-as-europes-first-significant-mica-emt-bringing-dual-supervision-from-nov-12/",
           "source": "Forkast.news",
-          "published": "2026-10-20T10:35:31Z",
-          "image": "https://forkast.news/wp-content/uploads/2026/10/jpmorgan-ltcma-bitcoin-return-range-1024x687.jpg"
+          "published": "2026-10-21T02:34:24Z",
+          "image": "https://forkast.news/wp-content/uploads/2026/10/eba-usdc-significant-mica-emt-hero-1024x687.jpg"
         },
         {
-          "title": "BlackRock Files For Bitcoin ETF With Managed Downside Protection",
-          "description": "TL;DR: BlackRock has proposed another Bitcoin-linked ETF, this time using options to pursue some protection against losses while giving up part of the potential upside. BlackRock’s latest Bitcoin fund filing takes a different approach from the familiar buy-an…",
-          "url": "http://www.newsbtc.com/bitcoin-news/blackrock-files-for-bitcoin-etf-with-managed-downside-protection/",
-          "source": "newsBTC",
-          "published": "2026-10-20T09:35:45Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/newsbtc_02_bitcoin_etf_flows_featured.png?fit=1200%2C675"
+          "title": "Lead Bank Rolls Out Stablecoin On-Ramps, Off-Ramps and 44-Country FX Payouts",
+          "description": "For decades, the banking sector operated on the assumption that they were the destination for money. You deposited your funds, and they held them. Today, we are witnessing a fascinating pivot where banks are realizing that if they cannot be the destination, t…",
+          "url": "https://forkast.news/lead-bank-rolls-out-stablecoin-on-ramps-off-ramps-and-44-country-fx-payouts-3/",
+          "source": "Forkast.news",
+          "published": "2026-10-21T02:23:11Z",
+          "image": "https://forkast.news/wp-content/uploads/2026/10/lead-bank-rails-abstract-2-1024x572.jpg"
         },
         {
-          "title": "BlackRock Files for 'Buffer' Bitcoin ETF as IBIT Draws $665M in a Day",
-          "description": "The iShares Bitcoin Managed Protection ETF would use options on IBIT to limit losses, in exchange for giving up some upside.",
-          "url": "https://decrypt.co/381385/blackrock-files-for-buffer-bitcoin-etf-as-ibit-draws-665m-in-a-day",
-          "source": "Decrypt",
-          "published": "2026-10-20T09:13:30Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/BlackRock-decrypt-style-03-gID_7.png"
-        },
-        {
-          "title": "Bitcoinâs Volatility Falls Within S&P 500 Range, Grayscale Research Says",
-          "description": "Bitcoin’s one-year realized volatility has declined to 43%, a level that now sits within the distribution of S&P 500 constituents, according to a research note released Wednesday by crypto asset manager Grayscale. The figure is down from an average of 64% ove…",
-          "url": "https://www.naturalnews.com/2026-10-20-bitcoin-volatility-falls-500-range-research-says.html",
-          "source": "Naturalnews.com",
-          "published": "2026-10-20T06:00:00Z",
-          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/bitcoin-volatility-grayscale-research-sp-500-5273-7357283b-original.jpg"
-        },
-        {
-          "title": "French MPs back crypto tax, and stablecoin swaps take the hit",
-          "description": "The October 16 first-reading votes advance a proposal covering MiCA e-money tokens, with a January 2027 start conditional on enactment.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in you…",
-          "url": "https://cryptoslate.com/french-mps-back-crypto-tax-and-stablecoin-swaps-take-the-hit/",
-          "source": "CryptoSlate",
-          "published": "2026-10-20T04:40:34Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/10/france-stablecoin-tax-vote-standard.jpg"
-        },
-        {
-          "title": "Ramp Seeks National Trust Bank Charter for Digital Asset Custody",
-          "description": "Finance platform Ramp aims to form a national trust bank that would offer fiduciary investment management and custody of digital assets, the company said in a Monday (Oct. 19) post on X. Ramp submitted an application to establish the proposed Ramp National Tr…",
-          "url": "https://biztoc.com/x/392233a106526a6c",
-          "source": "Biztoc.com",
-          "published": "2026-10-20T01:02:42Z",
-          "image": "https://biztoc.com/cdn/996/og.png"
-        },
-        {
-          "title": "CFTC joins SEC in proposing crypto framework after failed CLARITY vote",
-          "description": "CFTC Chair Michael Selig claimed that the agency was using its “existing statutory authorities“ to address crypto regulation after Congress failed to advance a market structure bill. US Commodity Futures Trading Commission (CFTC) Chair Michael Selig said that…",
-          "url": "https://activistpost.com/cftc-joins-sec-in-proposing-crypto-framework-after-failed-clarity-vote/",
-          "source": "Activistpost.com",
-          "published": "2026-10-20T00:54:00Z",
-          "image": "https://activistpost.com/wp-content/uploads/2026/10/analys-analytics-bisiness-man-woman-up-city-takeoff-cftc-1-1280x854-1.webp"
-        },
-        {
-          "title": "Kansas City Fed Flags Funding Challenges From Tokenized Deposits",
-          "description": "Banks are developing tokenized deposits to give corporate customers faster access to their money. In doing so, they are making the deposits they use for funding easier to move. A research briefing from the Federal Reserve Bank of Kansas City published Friday …",
-          "url": "https://www.pymnts.com/news/banking/2026/kansas-city-fed-flags-funding-challenges-from-tokenized-deposits/",
-          "source": "pymnts.com",
-          "published": "2026-10-19T21:55:27Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2026/09/tokenized-deposits-blockchain-digital-transformation.jpeg"
+          "title": "JPMorgan Asset Management sees Bitcoin beating stocks, but with a big catch",
+          "description": "JPMorgan Asset Management has introduced Bitcoin into its long-term capital market assumptions for the first time. The firm forecasts annualized returns of 10% over the next decade, alongside significant volatility of 55%. This volatility may undermine Bitcoi…",
+          "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/jpmorgan-asset-management-sees-bitcoin-beating-stocks-but-with-a-big-catch/articleshow/135078990.cms",
+          "source": "The Times of India",
+          "published": "2026-10-21T00:41:46Z",
+          "image": "https://img.etimg.com/thumb/msid-135079006,width-1200,height-900,imgsize-24582,overlay-etmarkets/articleshow.jpg"
         }
       ]
     },
@@ -188,12 +188,28 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "/C O R R E C T I O N - Fireblocks/",
-          "description": "In the news release, Fireblocks Launches Liquidity Market, Bringing Streaming OTC Pricing Into Stablecoin Payments, issued 15-Oct-2026 by Fireblocks over PR Newswire, we are advised by the company that a change has been made. The complete, corrected release f…",
-          "url": "https://www.prnewswire.com/news-releases/fireblocks-launches-liquidity-market-bringing-streaming-otc-pricing-into-stablecoin-payments-302909484.html",
-          "source": "PRNewswire",
-          "published": "2026-10-19T15:27:00Z",
-          "image": null
+          "title": "Stablecoins Need to Get Behind Cards, Not Replace Them",
+          "description": "Watch more: Paymentology Says AI Agents Must Earn the Right to Move Money The stablecoin industry has spent possibly too much time trying to reinvent checkout. Consumers already have a nearly universal interface for turning balances into purchases. Their card…",
+          "url": "https://www.pymnts.com/cryptocurrency/2026/stablecoins-must-get-behind-cards-not-replace-them/",
+          "source": "pymnts.com",
+          "published": "2026-10-21T08:03:49Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/10/SB1-Need-to-Know-Tim-Joslyn-Paymentology-1.png?quality=82"
+        },
+        {
+          "title": "EXCLUSIVE: Crypto Billionaire’s Solar PAC Rewrites Attack Ad After Trump-Backed Republican Threatens Lawsuit",
+          "description": "A crypto billionaire’s solar super PAC rewrote its attack ad on an upstate New York Republican after the candidate’s lawyers threatened to sue.",
+          "url": "https://dailycaller.com/2026/10/20/solar-pac-rewrites-ad-anthony-constantino-clare-locke-chris-larsen-invest-in-tomorrow-coalition-chris-coffey",
+          "source": "The Daily Caller",
+          "published": "2026-10-20T21:38:22Z",
+          "image": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2026/10/anthony-constantino-donald-trump-garden-city-new-york-getty.jpg"
+        },
+        {
+          "title": "Crypto’s 2026 shutdown wave claims 82 projects. What went wrong?",
+          "description": "Crypto projects are struggling to survive as falling revenues, depleted funding and security breaches force closures across DeFi, blockchain infrastructure and gaming.",
+          "url": "https://cointelegraph.com/news/crypto-project-shutdowns-2026-what-went-wrong",
+          "source": "Cointelegraph",
+          "published": "2026-10-20T19:59:39Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1H2YME5WK16MEE643RQSSVQ/layoffs-fired-human-resource-hr-leaving-quit-closing-breaking-news-3.jpg"
         },
         {
           "title": "⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More",
@@ -210,14 +226,6 @@
           "source": "PRNewswire",
           "published": "2026-10-16T15:00:00Z",
           "image": "https://mmx.prnewswire.com/media/MS658784/Jack-Henry-Wordmark-Hex-Logo.jpg?id=OA3023885&p=facebook"
-        },
-        {
-          "title": "Ledger to review sales and anti-tamper policies after $93 million hardware-wallet supply chain attack",
-          "description": "Ledger is reviewing chain-of-custody practices and anti-tamper protections after modified hardware wallets sold through a third party were allegedly fitted with LTE implants that captured recovery phrases and enabled $93 million in crypto theft.",
-          "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/ledger-to-review-sales-and-anti-tamper-policies-after-usd93-million-hardware-wallet-supply-chain-attack-rogue-lte-implants-reportedly-stole-users-recovery-phrases",
-          "source": "Tom's Hardware UK",
-          "published": "2026-10-14T10:50:00Z",
-          "image": "https://cdn.mos.cms.futurecdn.net/NS2wkDQAUwMHTW5V3sMuEH-986-80.jpg"
         }
       ]
     },
@@ -231,28 +239,12 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Cross River Plans to Buy Accrue to Merge Payments With Loyalty",
-              "description": "Cross River Bank plans to add branded wallet, stored value and loyalty rewards technology to its regulated financial infrastructure by acquiring FinTech company Accrue, Cross River said in a Tuesday (Oct. 20) press release emailed to PYMNTS. Cross River’s par…",
-              "url": "https://www.pymnts.com/news/acquiring/2026/cross-river-plans-to-buy-accrue-to-merge-payments-with-loyalty/",
-              "source": "pymnts.com",
-              "published": "2026-10-20T10:00:41Z",
-              "image": "https://www.pymnts.com/wp-content/uploads/2025/12/Cross-River-Bank-processing1.jpg"
-            },
-            {
-              "title": "Mastercard helps banks assess stablecoin risks before funds move",
-              "description": "Mastercard has announced Stablecoin Security, a new risk intelligence solution, with Borderless.xyz and Keyrails as initial partners. As stablecoins play a growing role in cross-border and business-to-business payments, financial institutions need a clearer v…",
-              "url": "https://www.helpnetsecurity.com/2026/10/20/mastercard-stablecoin-security/",
-              "source": "Help Net Security",
-              "published": "2026-10-20T06:25:12Z",
-              "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/28150559/hns-large_logo.webp"
-            },
-            {
-              "title": "IZIPAY – Spend crypto anywhere with instant virtual and physical cards",
-              "description": "Spend crypto anywhere with instant virtual and physical cards",
-              "url": "https://betalist.com/startups/izipay",
-              "source": "Betalist.com",
-              "published": "2026-10-20T04:05:00Z",
-              "image": "https://resize.imagekit.co/Pf04MOL87a8K1Q94B9I1Fs5V50MduhLjYMVOjImVxVs/plain/s3://betalist-production/yruycko8iw1ldi5g858oc8umadsp"
+              "title": "Crypto rises with Asian tech stocks, zcash extends gain after setting upgrade date",
+              "description": "Bitcoin rose 0.6% to around $83,500, a one-week high, as Asian tech stocks rebounded and SpaceX and Tesla formed committees to weigh a merger.",
+              "url": "https://www.coindesk.com/markets/2026/10/21/crypto-rises-with-asian-tech-stocks-zcash-extends-gain-after-setting-upgrade-date",
+              "source": "CoinDesk",
+              "published": "2026-10-21T10:34:37Z",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/50c5129f9df255a963a939554d416081ea226056-1920x1080.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75"
             },
             {
               "title": "Zero Knowledge: 116 Chapters In",
@@ -268,6 +260,14 @@
           "title": "Hyperscalers",
           "icon": "☁️",
           "articles": [
+            {
+              "title": "Microsoft, Alphabet, Goldman Sachs Join Growing List of Companies Objecting to Tokenized Stocks",
+              "description": "Sixteen companies have now objected to having their shares traded on the planned OKX-ICE tokenized stock venue, up from nine just four days earlier, according to an updated public notice.",
+              "url": "https://decrypt.co/381448/microsoft-alphabet-goldman-sachs-growing-list-objecting-tokenized-stocks",
+              "source": "Decrypt",
+              "published": "2026-10-20T20:16:04Z",
+              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/02/stocks-gID_7.jpg"
+            },
             {
               "title": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic",
               "description": "A fake Web3 accelerator has been observed pushing information stealers and backdoors to Windows and macOS systems using malicious npm packages under the pretext of offering free artificial intelligence (AI) credits for Anthropic Claude and Google Gemini, codi…",
@@ -307,30 +307,6 @@
               "source": "The Daily Hodl",
               "published": "2026-10-15T20:45:28Z",
               "image": "https://dailyhodl.com/wp-content/uploads/2026/10/cover_1792076662XmYPg3NATw.jpg?resize=1603,1152"
-            },
-            {
-              "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
-              "description": "Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that’s an actual feature. And somehow, it fits right in with this week's security stories.\n\nThe rest gets interesting in different ways. A small permission can lead to a…",
-              "url": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
-              "source": "Internet",
-              "published": "2026-10-15T18:49:33Z",
-              "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8jHVMYXIjddaTrqHbBuPm3mQ6G_g8qlALwitmiIRM9OplZpPxLPDFet7ySOV0OVxPj6cW1oz0K6rydDvGYQGalR1jSt10bz8kti4dWnM0d3NnUBjuymD77_cReujy6AXmFgJgQQvl2qeICur3VHf5vYyOrxz8OFM-bEunzmK9PGDzCzzTVFVEdQyswYho/s1700-nu-rw-lo-l85-e365/threatsday-oct.jpg"
-            },
-            {
-              "title": "Who Is Planting Backdoors in Ledger Crypto Wallets?",
-              "description": "The theft last week of an estimated $100 million in crypto using a hardware backdoor planted in Ledger wallets points to a sophisticated and systematic attack aimed at subverting crypto wallets sold by legitimate resellers in Asia and Europe",
-              "url": "https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/",
-              "source": "Zetter-zeroday.com",
-              "published": "2026-10-14T09:37:24Z",
-              "image": "https://storage.ghost.io/c/77/50/77508a24-24ec-49e5-99f8-d3dadb30a5ac/content/images/size/w1200/2026/10/Screenshot-2026-10-12-at-6.01.49---PM.png"
-            },
-            {
-              "title": "Announcing Blockchain Snapshots on AWS for node bootstrapping",
-              "description": "For blockchain node operators running Ethereum or Solana, AWS is announcing Blockchain Snapshots on AWS, an initiative that publishes pre-synced public blockchain node chain data in Amazon Simple Storage Service (Amazon S3) so you can bootstrap a node from a …",
-              "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/blockchain-snapshots-node-bootstrapping/",
-              "source": "Amazon.com",
-              "published": "2026-10-14T08:00:00Z",
-              "image": null
             }
           ]
         }
