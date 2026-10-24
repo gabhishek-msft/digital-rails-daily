@@ -1,11 +1,19 @@
 {
-  "date": "October 23, 2026",
+  "date": "October 24, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "Show HN: UEP – open testnet reference for settlement without a common currency",
+          "description": "An open, reproducible protocol for verifiable digital economic transactions and decentralized marketplaces. Built around real utility, cryptographic verification and interoperable economic resource...",
+          "url": "https://github.com/UEPceo/UEP-Universal-Economic-Protocol",
+          "source": "Github.com",
+          "published": "2026-10-22T13:38:03Z",
+          "image": "https://opengraph.githubassets.com/6f9d1747e347683f239e85ef9da1b9fac6e2603cca5377dec5e0fbdd1929c263/UEPceo/UEP-Universal-Economic-Protocol"
+        },
         {
           "title": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines",
           "description": "Bitcoin as much as 2.9% to around $81,600 as Nasdaq futures dropped, while the CoinDesk 80 lost 3.5% and DeFi index slid 6%.",
@@ -45,14 +53,6 @@
           "source": "Crypto Briefing",
           "published": "2026-10-21T19:07:52Z",
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/21150748/library-matter-labs-ceo-says-bank-blockchain-problems-are-about--800x450.png"
-        },
-        {
-          "title": "Bitcoin drops to $81,400 as Asian chip stocks tumble, options traders seek downside protection",
-          "description": "Bitcoin slipped 0.5% to around $81,400 even after the biggest daily spot ETF inflow in nearly a month as South Korea's Kospi index fell 3.7% on AI worries.",
-          "url": "https://www.coindesk.com/markets/2026/10/20/bitcoin-drops-to-usd81-400-as-asian-chip-stocks-tumble-options-traders-seek-downside-protection",
-          "source": "CoinDesk",
-          "published": "2026-10-20T10:22:55Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/8c7a6e81d5df5052dab8f6d8af2efcf82f9ea3fd-1920x1080.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75"
         }
       ]
     },
@@ -61,6 +61,14 @@
       "icon": "🔐",
       "color": "#e6a200",
       "articles": [
+        {
+          "title": "Show HN: Fuse – Anonymous daily rate limits for logins and APIs with ZK proofs",
+          "description": "Fair play online, no names needed: anonymous daily budgets for protected web endpoints, enforced with zero-knowledge proofs. Early prototype. - veiovi/fuse",
+          "url": "https://github.com/veiovi/fuse",
+          "source": "Github.com",
+          "published": "2026-10-22T13:54:19Z",
+          "image": "https://opengraph.githubassets.com/f9c0df0f2e9826cdfbeb1c93650f0284711f056d700d6080dffdf15d9a38228c/veiovi/fuse"
+        },
         {
           "title": "GRVT Burns 1.1 Million Tokens as Countdown to Grvt 2.0 Begins",
           "description": "The discretionary buyback represents close to 1% of circulating supply and precedes four planned product milestones culminating in Grvt 2.0. Road Town, British Virgin Islands, October 22, 2026 – Grvt, a self-custodial trading platform built on its own zero-kn…",
@@ -92,14 +100,6 @@
           "source": "Crypto Briefing",
           "published": "2026-10-19T17:26:21Z",
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/19132615/library-lighter-launches-btc-and-eth-binary-options-on-core-800x450.png"
-        },
-        {
-          "title": "Pirate Chain Exploit Creates 39.8 Million Unauthorized Tokens In Major Security Breach",
-          "description": "TL;DR: Pirate Chain developers disclosed a vulnerability linked to roughly 39.8 million unauthorized ARRR tokens. The incident raised urgent questions about network supply and how an attack can be investigated when transactions use strong privacy protections.…",
-          "url": "https://bitcoinist.com/pirate-chain-exploit-creates-39-8-million-unauthorized-tokens-in-major/",
-          "source": "Bitcoinist",
-          "published": "2026-10-17T18:43:00Z",
-          "image": "https://bitcoinist.com/wp-content/uploads/2026/10/bitcoinist_B10.png"
         }
       ]
     },
@@ -109,68 +109,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "CMCC Global Partners with Tether and Bitfinex Securities to Launch the First Tokenised Fund-of-Funds Under El Salvador's Digital Asset Framework",
-          "description": "CMCC Global is tokenising units of its Crest and Liberty Bitcoin Accumulation Funds, the first tokenised fund-of-funds offerings to be issued under El Salvador's Digital Asset Framework The tokens are issued on Tether's Hadron tokenisation platform and will b…",
-          "url": "https://www.prnewswire.com/news-releases/cmcc-global-partners-with-tether-and-bitfinex-securities-to-launch-the-first-tokenised-fund-of-funds-under-el-salvadors-digital-asset-framework-302916813.html",
-          "source": "PRNewswire",
-          "published": "2026-10-22T10:33:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS2018790/CMCC-Global-CMCC-Global-Partners-with-Tether-and-Bitfinex-Securi.jpg?id=OA3034290&p=facebook"
+          "title": "HSBC launches Hong Kong dollar stablecoin for retail payments",
+          "description": "HSBC launches its Hong Kong dollar stablecoin, RedCoin, for payments through PayMe, with plans to expand into tokenized investments and institutional use.",
+          "url": "https://cointelegraph.com/news/hsbc-launches-redcoin-hong-kong-dollar-stablecoin-payme",
+          "source": "Cointelegraph",
+          "published": "2026-10-23T08:47:34Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KWVDV4958J4HW5KZ8FCECW/hsbc-redcoin-stablecoin.png"
         },
         {
-          "title": "ViaBTC to Join Crypto Summit 2026 as a Strategic Partner, Bringing a Decade of Mining Experience",
-          "description": "MOSCOW, Oct. 22, 2026 /PRNewswire/ -- IX Crypto Summit 2026 will take place on October 28–29 at MTS Live Hall in Moscow. ViaBTC, which operates one of the world's top four Bitcoin (BTC) mining pools and the largest Zcash (ZEC) mining pool by hashrate, will jo…",
-          "url": "https://www.prnewswire.co.uk/news-releases/viabtc-to-join-crypto-summit-2026-as-a-strategic-partner-bringing-a-decade-of-mining-experience-302915332.html",
-          "source": "PR Newswire UK",
-          "published": "2026-10-22T10:18:00Z",
+          "title": "Bitcoin Edges Back Above $81,000 After AI Stock Rout and $635 Million ETF Outflow Rattle Crypto Investors",
+          "description": "Bitcoin rose 0.47% to $81,690.50 after Thursday's 3.3% drop, as technology stocks, higher oil prices and $635.6 million in spot ETF outflows pressured cryptocurrencies.",
+          "url": "https://www.ibtimes.com.au/bitcoin-steadies-above-81000-after-sell-off-1877269",
+          "source": "Ibtimes.com.au",
+          "published": "2026-10-23T07:26:54Z",
+          "image": "https://d.ibtimes.com.au/en/full/202734/bitcoin.jpg"
+        },
+        {
+          "title": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express",
+          "description": "A Singapore is firm behind Switzerland’s new Bitcoin ETF, Crypto Valley partners with Vietnam on crypto tech. The US cracks down on DeepSeek and bans some overseas AI investments.",
+          "url": "https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express",
+          "source": "Cointelegraph",
+          "published": "2026-10-22T22:50:22Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5JV90GX9YTTQQZEH3XNN8PG/asia-express-1.jpg"
+        },
+        {
+          "title": "Birdeye Launches Peak Terminal For Institutional Crypto Research",
+          "description": "Birdeye has launched Peak, a subscription terminal combining digital-asset market data, fundamentals and portfolio analytics. Its pitch centers on consistent data across venues, rather than another isolated trading dashboard.",
+          "url": "https://www.newsbtc.com/technology/birdeye-peak-institutional-crypto-terminal-launch/",
+          "source": "newsBTC",
+          "published": "2026-10-22T21:50:00Z",
           "image": null
         },
         {
-          "title": "South Korea Crypto Bill Nears Completion With Exchange and Stablecoin Rules",
-          "description": "The South Korea crypto bill nears completion with exchange licensing and stablecoin issuance rules, while its separate crypto tax debate intensifies.\nThe post South Korea Crypto Bill Nears Completion With Exchange and Stablecoin Rules appeared first on Bitcoi…",
-          "url": "https://bitcoinfoundation.org/news/regulation/south-korea-crypto-bill-nears-completion-with-exchange-and-stablecoin-rules/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-10-22T09:49:55Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/south-korea-crypto-bill-nears-completion-with-exchange-and-stablecoin-rules.webp"
-        },
-        {
-          "title": "South Korea’s crypto bill nears completion while tax debate intensifies: reports",
-          "description": "The bill seeks to establish a framework for digital assets, including licensing regimes for exchanges and rules for stablecoin issuance.",
-          "url": "https://biztoc.com/x/9318bc813559c9ab",
-          "source": "Biztoc.com",
-          "published": "2026-10-22T09:21:05Z",
-          "image": "https://biztoc.com/cdn/9318bc813559c9ab_s.webp"
-        },
-        {
-          "title": "FIS Says Digital Money Puts Bank Infrastructure to the Test",
-          "description": "Digital money is pushing banks toward making decisions about infrastructure well beyond whether to issue a token. Among the decisions that need to be made: Which forms of digital money belong inside their own relationships, which need broader distribution, ho…",
-          "url": "https://www.pymnts.com/blockchain/2026/fis-says-digital-money-puts-bank-infrastructure-to-the-test/",
-          "source": "pymnts.com",
-          "published": "2026-10-22T08:02:29Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2026/10/SB2-FIS-digital-money-infrastructure.jpg"
-        },
-        {
-          "title": "BIT Asset Management Receives FINMA Approval for Switzerland's First and Europe's Only Spot Bitcoin ETF",
-          "description": "The first exchange-traded fund under Swiss law to invest directly in bitcoin, approved for retail investors in Switzerland ZURICH, Oct. 22, 2026 /PRNewswire/ -- BIT Asset Management AG (\"BIT AM\"), the wholly owned Swiss asset management subsidiary of BIT (www…",
-          "url": "https://www.prnewswire.com/news-releases/bit-asset-management-receives-finma-approval-for-switzerlands-first-and-europes-only-spot-bitcoin-etf-302916611.html",
-          "source": "PRNewswire",
-          "published": "2026-10-22T06:50:00Z",
+          "title": "Antalpha Increases Investment in Aurelion with US$2 Million Share Subscription",
+          "description": "SINGAPORE, Oct. 22, 2026 (GLOBE NEWSWIRE) — Antalpha Platform Holding Company (NASDAQ: ANTA) (“Antalpha”), a leading institutional digital asset financing platform, today announced that its wholly owned subsidiary, Antalpha Capital (HK) Limited, has entered i…",
+          "url": "https://financialpost.com/globe-newswire/antalpha-increases-investment-in-aurelion-with-us2-million-share-subscription",
+          "source": "Financial Post",
+          "published": "2026-10-22T20:32:08Z",
           "image": null
         },
         {
-          "title": "Ramp applies to OCC for trust bank charter as ICBA fights crypto trust licenses",
-          "description": "Ramp has applied to the OCC for a national trust bank charter for digital asset custody, weeks after community bankers sued the regulator over the same trust charter category.\nThe post Ramp applies to OCC for trust bank charter as ICBA fights crypto trust lic…",
-          "url": "https://www.valuewalk.com/ramp-occ-trust-charter-application/",
-          "source": "ValueWalk",
-          "published": "2026-10-22T06:06:15Z",
-          "image": "https://www.valuewalk.com/wp-content/uploads/2026/10/B0Lcx_eoXcSI7IWMlG31w_45W3Lj0d-150x150.jpg"
+          "title": "Tech giant LG CNS taps Chainlink to scale Korea’s tokenized finance and stablecoin markets",
+          "description": "The partnership could accelerate Korea's digital finance evolution, enhancing global competitiveness and fostering secure, interoperable systems.\nThe post Tech giant LG CNS taps Chainlink to scale Korea’s tokenized finance and stablecoin markets appeared firs…",
+          "url": "https://cryptobriefing.com/tech-giant-lg-cns-taps-chainlink-to-scale-koreas-tokenized-finance-and-stablecoin-markets/",
+          "source": "Crypto Briefing",
+          "published": "2026-10-22T20:00:19Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/22142842/LG-CNS-taps-Chainlink-to-scale-Koreas-tokenized-finance-and-stablecoin-markets-800x419.jpg"
         },
         {
-          "title": "JPMorgan says Bitcoin may outperform stocks, bonds and gold â but still warns of “speculative” risk",
-          "description": "JPMorgan Chase’s asset management division, in a notable departure from CEO Jamie Dimon’s long-held skepticism, has acknowledged in its 2027 “Long-Term Capital Market Assumptions” report that Bitcoin could outperform most major asset classes like equities, bo…",
-          "url": "https://www.naturalnews.com/2026-10-22-jpmorgan-says-bitcoin-may-outperform-stocks-bonds-gold.html",
-          "source": "Naturalnews.com",
-          "published": "2026-10-22T06:00:00Z",
-          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/bitcoin-jpmorgan-asset-performance-5457-0cc6b7ab-original.jpg"
+          "title": "Chainlink Partners With LG CNS To Power Korea's Digital Asset Market",
+          "description": "Chainlink is partnering with LG CNS, which is leading the Bank of Korea's Project Hangang digital currency platform, to build regulated digital asset solutions with LG CNS while advancing technical standards in Korea. SAN FRANCISCO, Oct. 22, 2026 /PRNewswire/…",
+          "url": "https://www.prnewswire.com/news-releases/chainlink-partners-with-lg-cns-to-power-koreas-digital-asset-market-302917379.html",
+          "source": "PRNewswire",
+          "published": "2026-10-22T20:00:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS2019080/LG-CNS-Announcement-Banner-Custom-1920x1080-1.jpg?id=OA3035099&p=facebook"
+        },
+        {
+          "title": "Standard Chartered moves to bring crypto custody in-house as Wall Street’s digital asset infrastructure race accelerates",
+          "description": "Custody integration would follow completion, while the software separation already outlined in May remains part of the transaction plan.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in yo…",
+          "url": "https://cryptoslate.com/standard-chartered-moves-to-bring-crypto-custody-in-house-as-wall-streets-digital-asset-infrastructure-race-accelerates/",
+          "source": "CryptoSlate",
+          "published": "2026-10-22T19:20:56Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/10/zodia-custody-transaction-split.webp"
         }
       ]
     },
@@ -180,20 +180,28 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Solana completes Alpenglow upgrade. Here’s what it means for users",
-          "description": "The new voting system targets settlement in about 150 milliseconds, potentially shortening waits for payments and deposits. Users can keep their existing wallets.",
-          "url": "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users",
-          "source": "CoinDesk",
-          "published": "2026-10-22T05:24:58Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/54c0f3b41e62df4cdf774aab4c7d68c64e5e976c-1920x1080.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75"
+          "title": "Hyperscale Data Reaffirms 2027 Guidance of $300 Million to $350 Million in Revenue and $60 Million to $80 Million in Adjusted EBITDA",
+          "description": "Initial Michigan AI compute capacity expected to be energized and begin revenue-generating activities in December 2026; operating momentum and expanding blockchain and digital asset initiatives support outlook LAS VEGAS, Oct. 23, 2026 /PRNewswire/ -- Hypersca…",
+          "url": "https://www.prnewswire.com/news-releases/hyperscale-data-reaffirms-2027-guidance-of-300-million-to-350-million-in-revenue-and-60-million-to-80-million-in-adjusted-ebitda-302917679.html",
+          "source": "PRNewswire",
+          "published": "2026-10-23T10:00:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS1845972/Hyperscale-Data-Registered-Mark-Logo.jpg?id=OA3035904&p=facebook"
         },
         {
-          "title": "Tether backs Bolivian fintech bringing USDT payments to food delivery and banking",
-          "description": "The investment will support Peso’s expansion across four Latin American markets, where it connects stablecoin payments to merchant services and local banking networks.",
-          "url": "https://cointelegraph.com/news/tether-backs-bolivian-fintech-bringing-usdt-payments-to-food-delivery-and-banking",
-          "source": "Cointelegraph",
-          "published": "2026-10-21T20:26:07Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5FY16RXJTWFR0B5DJ896X4P/hi-from-ban-to-adoption-the-evolution-of-crypto-policy-in-bolivia-2.png"
+          "title": "What Is NODF Crypto? $220M Token, Price and Oil-Backing Risks",
+          "description": "NODF crypto reached a $220 million market cap after a sharp rise on Solana, but its oil reserve backing and dividend claims remain unverified.\nThe post What Is NODF Crypto? $220M Token, Price and Oil-Backing Risks appeared first on Bitcoin Foundation.",
+          "url": "https://bitcoinfoundation.org/news/altcoins/what-is-nodf-crypto-220m-token-price-and-oil-backing-risks/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-10-22T17:28:10Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/what-is-nodf-crypto-220m-token-price-and-oil-backing-risks.webp"
+        },
+        {
+          "title": "Datavault AI Signs Non-Binding Letter of Intent to Acquire a 19.9% Equity Stake in DataMEDS AI in Consideration of an Expanded Technology License",
+          "description": "Expanded healthcare platform would bring together patient-controlled data tokenization, biometric medication verification, and automated delivery technologies PHILADELPHIA — Datavault AI Inc. (“Datavault AI” or the “Company”) (Nasdaq: DVLT), an Artificial Int…",
+          "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/datavault-ai-signs-non-binding-letter-of-intent-to-acquire-a-19-9-equity-stake-in-datameds-ai-in-consideration-of-an-expanded-technology-license",
+          "source": "Financial Post",
+          "published": "2026-10-22T12:32:03Z",
+          "image": null
         },
         {
           "title": "Malaysia Launches DLT Platform For Tokenised Bonds And Sukuk",
@@ -202,30 +210,6 @@
           "source": "newsBTC",
           "published": "2026-10-21T20:15:00Z",
           "image": "https://www.newsbtc.com/wp-content/uploads/2026/09/728X546-News-BTC-14.png?fit=2184%2C1638"
-        },
-        {
-          "title": "Solana Alpenglow Explained: Mainnet Launch, 150ms Target and Risks",
-          "description": "Solana Alpenglow launches on mainnet with Votor and a 150ms finality target, while the dashboard shows 6.6 seconds and rollout risks remain in focus.\nThe post Solana Alpenglow Explained: Mainnet Launch, 150ms Target and Risks appeared first on Bitcoin Foundat…",
-          "url": "https://bitcoinfoundation.org/news/altcoins/solana-alpenglow-explained-mainnet-launch-150ms-target-and-risks/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-10-21T18:29:08Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/solana-alpenglow-explained-mainnet-launch-150ms-target-and-risks.webp"
-        },
-        {
-          "title": "What Is a Bitcoin-Backed Loan? Borrowing Against BTC Explained",
-          "description": "Bitcoin-backed loans let holders borrow cash or stablecoins without selling BTC. Here's how collateral, LTV and liquidations work.",
-          "url": "https://decrypt.co/resources/what-is-a-bitcoin-backed-loan-borrowing-against-btc-explained",
-          "source": "Decrypt",
-          "published": "2026-10-21T15:43:32Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2019/11/bitcoin-investment_2-gID_5-pID_4.png"
-        },
-        {
-          "title": "Smart Contracts Connect B2B Workflows to Real-Time Payments",
-          "description": "In the commercial payments realm, invoices need validation, discrepancies warrant resolution and someone (or an authorized system) ultimately approve the release of funds. Smart contracts are being used to carry approved payment instructions from business wor…",
-          "url": "https://www.pymnts.com/news/b2b-payments/2026/smart-contracts-connect-b2b-workflows-to-real-time-payments/",
-          "source": "pymnts.com",
-          "published": "2026-10-21T15:01:24Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2023/06/accounts-payable-automation.jpg"
         },
         {
           "title": "Arnold & Porter Discusses Implementing the GENIUS Act",
@@ -242,6 +226,14 @@
           "source": "Thefreedomfrequency.org",
           "published": "2026-10-21T00:00:00Z",
           "image": "https://substack-post-media.s3.amazonaws.com/public/images/833a2472-3139-4a4f-b5cc-5fb5ad5a7ac8_1757x1303.jpeg"
+        },
+        {
+          "title": "⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More",
+          "description": "The worst problems don't always come with a warning. Sometimes they arrive through a service everyone trusts, a device someone bought, or a system nobody thought to check. By the time something looks wrong, the damage may already be done.\n\nThis week had plent…",
+          "url": "https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html",
+          "source": "Internet",
+          "published": "2026-10-19T14:14:07Z",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTvDNJzlrpPvCifQ9zNcdkc0vjmmRwGCap_kODFlX5W_IimpUgTyObjSefO7gHjXKUMhEkIlmgnH1GbbbWna6eZWa8xcRDLXeRmYX0oSrhAgS8YXth6_T2CPXMMnZvgsf1Psq_DUB9JkjeELLHjnB2xFl9-8bM5BW19fJ1aHcOruzwKErZJkjwRBSRedBq/s1700-nu-rw-lo-l85-e365/recap-1.jpg"
         }
       ]
     },
@@ -255,20 +247,28 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "US quietly eases stablecoin reserve rules as banks warn billions could shift away from lending",
-              "description": "Treasury Secretary Scott Bessent compared the GENIUS Act to the National Currency Act of 1863 on Oct. 21, the day the Office of the Comptroller of the Currency (OCC) released its 721-page stablecoin final rule. He called the law a cornerstone of America's pos…",
-              "url": "https://cryptoslate.com/treasury-hails-americas-new-stablecoin-system-as-occ-removes-safeguards-banks-wanted-against-deposit-flight/",
-              "source": "CryptoSlate",
-              "published": "2026-10-22T10:00:16Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/10/stablecoin-bank-conveyor.webp"
+              "title": "CoinDCX Denies New $16M Hack, Says It Absorbed Transfer Losses",
+              "description": "CoinDCX hack claims center on $16 million in suspicious transfers as the exchange denies a new breach and says it covered losses from failed transfers.\nThe post CoinDCX Denies New $16M Hack, Says It Absorbed Transfer Losses appeared first on Bitcoin Foundatio…",
+              "url": "https://bitcoinfoundation.org/news/crypto-exchanges/coindcx-denies-new-16m-hack-says-it-absorbed-transfer-losses/",
+              "source": "Bitcoinfoundation.org",
+              "published": "2026-10-23T10:09:19Z",
+              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/coindcx-denies-new-16m-hack-says-it-absorbed-transfer-losses.webp"
             },
             {
-              "title": "Richard Heart caught with pants down, QDay gets even closer: Hodler’s Digest",
-              "description": "HEX founder Richard Heart detained in early morning raid in Istanbul, Starknet plunges almost 50% as it votes to become an L1, and Bitwise says all signs point to Crypto Spring.",
-              "url": "https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest",
-              "source": "Cointelegraph",
-              "published": "2026-10-18T22:58:17Z",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M58DKX7KCTJFZHWYSYH8DBTC/hodlers-crop.jpg"
+              "title": "Bitcoin’s usual lifeline is failing as a bond market warning puts $80,000 at risk",
+              "description": "Bitcoin briefly lost the $81,000 footing on Oct. 22, while the Nasdaq lost more than 2%, spot gold dropped about 2.7% to $4,025, and silver sank about 5.8% to near $54.63. The 10-year Treasury yield fell from 5.146% to below 5%, marking its biggest one-day dr…",
+              "url": "https://cryptoslate.com/bitcoins-usual-lifeline-is-failing-as-a-bond-market-warning-puts-80000-at-risk/",
+              "source": "CryptoSlate",
+              "published": "2026-10-23T09:30:45Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/10/investor-market-pressure.webp"
+            },
+            {
+              "title": "Old wallet addresses trap CoinDCX users, triggering potential losses",
+              "description": "The exchange says a failed deposit-sweeping process caused losses it absorbed, while ZachXBT's $15.8 million allegation remains unreconciled.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst …",
+              "url": "https://cryptoslate.com/old-wallet-addresses-trap-coindcx-users-triggering-massive-losses/",
+              "source": "CryptoSlate",
+              "published": "2026-10-23T06:30:31Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/10/coindcx-loss-accounting-dispute.webp"
             }
           ]
         },
@@ -276,6 +276,22 @@
           "title": "Hyperscalers",
           "icon": "☁️",
           "articles": [
+            {
+              "title": "Researchers Trace Alleged DeadTag iPhone Spyware to 6,600 Websites",
+              "description": "Researchers linked alleged iPhone crypto theft via websites to DeadTag, finding spyware code on 6,600 legitimate sites that could expose older devices.\nThe post Researchers Trace Alleged DeadTag iPhone Spyware to 6,600 Websites appeared first on Bitcoin Found…",
+              "url": "https://bitcoinfoundation.org/news/security/researchers-trace-alleged-deadtag-iphone-spyware-to-6-600-websites/",
+              "source": "Bitcoinfoundation.org",
+              "published": "2026-10-23T08:23:43Z",
+              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/researchers-trace-alleged-deadtag-iphone-spyware-to-6-600-websites.webp"
+            },
+            {
+              "title": "Is the Internet Safe Again After the PHP Nightmare? What You Need to Know",
+              "description": "PHP shipped its fix, attackers launched millions of attempts, and governments say no one has broken in yet. Here's what that means for your passwords, your crypto, and your browsing.",
+              "url": "https://decrypt.co/381662/internet-safe-again-after-php-nightmare-what-you-need-know",
+              "source": "Decrypt",
+              "published": "2026-10-22T22:21:46Z",
+              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/10/panic-decrypt-style-gID_7.jpg"
+            },
             {
               "title": "Microsoft and Alphabet object to blockchain versions of their shares—but their veto only goes so far",
               "description": "A growing number of companies are pushing back against tokenized trading of their shares. Microsoft and Alphabet are the latest to complain about the practice, joining 14 other public companies that have formally objected to a plan by OKXICE, a new platform c…",
@@ -291,38 +307,6 @@
               "source": "Coinjournal.net",
               "published": "2026-10-21T14:36:34Z",
               "image": "https://coinjournal.net/wp-content/uploads/2026/10/Neon-DeFi-Ecosystem-Network.png"
-            },
-            {
-              "title": "Tokenized stock trading takes off overseas as Goldman, other U.S. companies object",
-              "description": "Tokenized stocks are gaining momentum in international markets, even as major U.S. companies are pushing back against efforts to introduce them domestically.",
-              "url": "https://www.cnbc.com/2026/10/21/tokenized-stocks-us-companies-object.html",
-              "source": "CNBC",
-              "published": "2026-10-21T12:33:34Z",
-              "image": "https://image.cnbcfm.com/api/v1/image/108374187-1791390346956-gettyimages-2285488658-US_STOCKS.jpeg?v=1791390389&w=1920&h=1080"
-            },
-            {
-              "title": "Microsoft, Alphabet, Goldman Sachs Join Growing List of Companies Objecting to Tokenized Stocks",
-              "description": "Sixteen companies have now objected to having their shares traded on the planned OKX-ICE tokenized stock venue, up from nine just four days earlier, according to an updated public notice.",
-              "url": "https://decrypt.co/381448/microsoft-alphabet-goldman-sachs-growing-list-objecting-tokenized-stocks",
-              "source": "Decrypt",
-              "published": "2026-10-20T20:16:04Z",
-              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/02/stocks-gID_7.jpg"
-            },
-            {
-              "title": "Microsoft exposes how USDT-funded phishing network targeted 75,000 organizations",
-              "description": "Domain seizures and account shutdowns hit YAM Store and phishing-kit services, while reported asset freezes remain unquantified.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
-              "url": "https://cryptoslate.com/microsoft-exposes-how-usdt-funded-phishing-network-targeted-75000-organizations/",
-              "source": "CryptoSlate",
-              "published": "2026-10-16T15:20:01Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/10/microsoft-phishing-crypto-takedown.webp"
-            },
-            {
-              "title": "Ripple opens Wall Street’s door to Hyperliquid’s $59 billion trading market",
-              "description": "Institutions trade swaps referencing more than 100 traditional financial markets around the clock, with Ripple Prime as the principal counterparty, Ripple announced on Oct. 15. The swaps cover stocks, equity indices, ETFs, metals, energy and foreign exchange,…",
-              "url": "https://cryptoslate.com/ripple-opens-wall-streets-door-to-hyperliquids-59-billion-trading-market/",
-              "source": "CryptoSlate",
-              "published": "2026-10-16T11:00:56Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/10/ripple-market-transfer.webp"
             }
           ]
         }
