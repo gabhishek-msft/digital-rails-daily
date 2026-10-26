@@ -1,11 +1,19 @@
 {
-  "date": "October 25, 2026",
+  "date": "October 26, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "Blockchain-assisted revocable capability credential authentication for cross-domain UAVs",
+          "description": "Scientific Reports - Blockchain-assisted revocable capability credential authentication for cross-domain UAVs",
+          "url": "https://www.nature.com/articles/s41598-026-66290-x.pdf",
+          "source": "Nature.com",
+          "published": "2026-10-25T00:00:00Z",
+          "image": null
+        },
         {
           "title": "Starknet Vote Backs Research Into A Post-Quantum Layer-1 Future",
           "description": "A non-binding Starknet governance poll ended with 93.52% supporting research into an independent post-quantum L1; no chain migration has been approved.",
@@ -117,28 +125,36 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Bloomberg Adds Basel Crypto Exposure Classification For Banks And Asset Managers",
-          "description": "Bloomberg has expanded its crypto analytics to classify bank exposure under Basel standards, including indirect holdings hidden inside funds, derivatives and corporate securities.",
-          "url": "https://www.newsbtc.com/crypto-regulation/bloomberg-basel-crypto-exposure-classification-analytics/",
+          "title": "BCG Study Puts Custody At The Center Of Banks’ Digital Asset Plans",
+          "description": "A Ripple-commissioned BCG study examines institutional crypto custody, bank technology choices and the limits of modeled earnings opportunities.",
+          "url": "https://www.newsbtc.com/business/bcg-ripple-custody-bank-digital-asset-study/",
           "source": "newsBTC",
-          "published": "2026-10-24T10:30:00Z",
+          "published": "2026-10-24T22:00:00Z",
           "image": null
         },
         {
-          "title": "Prediction markets are already pricing the GENIUS Act effect on Bitcoin",
-          "description": "The OCC's final rule implementing the GENIUS Act takes effect in January 2027, and prediction markets are already trading Bitcoin price contracts around that deadline.\nThe post Prediction markets are already pricing the GENIUS Act effect on Bitcoin appeared f…",
-          "url": "https://www.valuewalk.com/prediction-markets-are-already-pricing-the-genius-act-effect-on-bitcoin/",
-          "source": "ValueWalk",
-          "published": "2026-10-24T03:30:22Z",
-          "image": "https://www.valuewalk.com/wp-content/uploads/2026/10/genius-act-prediction-markets-150x150.jpg"
+          "title": "Evernorth CEO Explains Why He Chose XRP Over Bitcoin",
+          "description": "In the interview, Evernorth's CEO explained why his company chose XRP over Bitcoin, saying that XRP investments have greater capabilities on-chain.",
+          "url": "https://zycrypto.com/evernorth-ceo-explains-why-he-chose-xrp-over-bitcoin/",
+          "source": "ZyCrypto",
+          "published": "2026-10-24T21:48:30Z",
+          "image": "https://zycrypto.com/wp-content/uploads/2022/12/MicroStrategys-Saylor-Says-XRP-Is-A-Security-Touts-Bitcoin-As-The-Only-Crypto-Commodity.jpg"
         },
         {
-          "title": "Government of Canada unveils proposed stablecoin regulations",
-          "description": "Proposed regulations make up a framework for Canada’s Stablecoin Act and are subject to a 60-day consultation period.",
-          "url": "https://betakit.com/government-of-canada-unveils-proposed-stablecoin-regulations/",
-          "source": "BetaKit",
-          "published": "2026-10-23T22:08:06Z",
-          "image": "https://cdn.betakit.com/wp-content/uploads/2026/06/Bank-of-Canada.jpg"
+          "title": "Kraken Parent Payward Wins In-Principle Approval For Kazakhstan Expansion",
+          "description": "Payward’s Kazakhstan plan moves forward with preliminary approval for trading and custody, while full licensing remains a separate step.",
+          "url": "https://www.newsbtc.com/business/kraken-payward-kazakhstan-in-principle-approval/",
+          "source": "newsBTC",
+          "published": "2026-10-24T21:00:00Z",
+          "image": null
+        },
+        {
+          "title": "Flashback: The Birth of CBDCs",
+          "description": "A man from Virginia, who facilitated millions of drug transactions worth roughly $430 million, agreed to give up $100 million worth of BTC. His partner forfeited nearly 1,600 BTC. A co-creator of dark web drug enterprise Empire Market agreed to forfeit 1,230 …",
+          "url": "https://activistpost.com/flashback-the-birth-of-cbdcs/",
+          "source": "Activistpost.com",
+          "published": "2026-10-24T16:05:00Z",
+          "image": "https://activistpost.com/wp-content/uploads/2026/10/AdobeStock-digital-currency-dollar-sign-scaled-1.jpeg"
         },
         {
           "title": "Hyperliquid Strategies Inc Announces Increase of Stock Repurchase Program to $100 Million",
@@ -149,36 +165,28 @@
           "image": "https://mmx.prnewswire.com/media/MS1790773/Hyperliquid-Strategies-Inc-Logo.jpg?id=OA3036877&p=facebook"
         },
         {
-          "title": "Ripple’s XRP Risks Losing Spot Among Top 10 Cryptos by 2030 Unless This Crucial Shift Happens, Pundit Warns",
-          "description": "Ripple-linked XRP may be one of the biggest names in the cryptoverse today, but its place among the market’s elite could be in serious jeopardy.",
-          "url": "https://zycrypto.com/ripples-xrp-risks-losing-spot-among-top-10-cryptos-by-2030-unless-this-crucial-shift-happens-pundit-warns/",
-          "source": "ZyCrypto",
-          "published": "2026-10-23T19:53:54Z",
-          "image": "https://zycrypto.com/wp-content/uploads/2024/05/Max-Keiser-Takes-Big-Dig-At-XRP-Says-Ripple-Created-It-To-‘Steal-Billions-From-Fools.jpg"
+          "title": "Tech giant LG CNS taps Chainlink to scale Korea’s tokenized finance and stablecoin markets",
+          "description": "The partnership could accelerate Korea's digital finance evolution, enhancing global competitiveness and fostering secure, interoperable systems.\nThe post Tech giant LG CNS taps Chainlink to scale Korea’s tokenized finance and stablecoin markets appeared firs…",
+          "url": "https://cryptobriefing.com/tech-giant-lg-cns-taps-chainlink-to-scale-koreas-tokenized-finance-and-stablecoin-markets/",
+          "source": "Crypto Briefing",
+          "published": "2026-10-22T20:00:19Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/22142842/LG-CNS-taps-Chainlink-to-scale-Koreas-tokenized-finance-and-stablecoin-markets-800x419.jpg"
         },
         {
-          "title": "What Is the Tether Inquiry? Reported $6.3M Nxum Deal and Policy Risks",
-          "description": "The Tether inquiry seeks records on a reported $6.3 million Nxum arrangement tied to Bo Hines, raising questions about stablecoin policy lobbying.\nThe post What Is the Tether Inquiry? Reported $6.3M Nxum Deal and Policy Risks appeared first on Bitcoin Foundat…",
-          "url": "https://bitcoinfoundation.org/news/regulation/what-is-the-tether-inquiry-reported-6-3m-nxum-deal-and-policy-risks/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-10-23T19:35:47Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/what-is-the-tether-inquiry-reported-6-3m-nxum-deal-and-policy-risks.webp"
+          "title": "Chainlink Partners With LG CNS To Power Korea's Digital Asset Market",
+          "description": "Chainlink is partnering with LG CNS, which is leading the Bank of Korea's Project Hangang digital currency platform, to build regulated digital asset solutions with LG CNS while advancing technical standards in Korea. SAN FRANCISCO, Oct. 22, 2026 /PRNewswire/…",
+          "url": "https://www.prnewswire.com/news-releases/chainlink-partners-with-lg-cns-to-power-koreas-digital-asset-market-302917379.html",
+          "source": "PRNewswire",
+          "published": "2026-10-22T20:00:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS2019080/LG-CNS-Announcement-Banner-Custom-1920x1080-1.jpg?id=OA3035099&p=facebook"
         },
         {
-          "title": "CMCC Global Plans Tokenized Bitcoin Funds With Tether And Bitfinex Securities",
-          "description": "CMCC Global is bringing two existing fund strategies into tokenized securities issued through Tether’s Hadron infrastructure and Bitfinex Securities under El Salvador’s rules.",
-          "url": "https://www.newsbtc.com/crypto-news/cmcc-global-tether-bitfinex-tokenized-bitcoin-funds-el-salvador/",
-          "source": "newsBTC",
-          "published": "2026-10-23T19:00:00Z",
-          "image": null
-        },
-        {
-          "title": "US senator probes Tether after reported deal with ex-Trump crypto adviser",
-          "description": "The Democratic ranking member of the Senate Permanent Subcommittee on Investigations asked Paolo Ardoino for records related to a reported deal between Tether and Nxum.",
-          "url": "https://cointelegraph.com/news/us-senator-probe-bo-hines-trump-crypto-adviser-tether-deal",
-          "source": "Cointelegraph",
-          "published": "2026-10-23T17:42:12Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5MWKYVWPGFNQZJ4EMBSGH91/hi-probe-crypto-senator.jpg"
+          "title": "Standard Chartered moves to bring crypto custody in-house as Wall Street’s digital asset infrastructure race accelerates",
+          "description": "Custody integration would follow completion, while the software separation already outlined in May remains part of the transaction plan.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in yo…",
+          "url": "https://cryptoslate.com/standard-chartered-moves-to-bring-crypto-custody-in-house-as-wall-streets-digital-asset-infrastructure-race-accelerates/",
+          "source": "CryptoSlate",
+          "published": "2026-10-22T19:20:56Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/10/zodia-custody-transaction-split.webp"
         }
       ]
     },
@@ -187,6 +195,22 @@
       "icon": "🏥",
       "color": "#00cc88",
       "articles": [
+        {
+          "title": "Netanyahu floats use of blockchain as solution to potential financial sanctions",
+          "description": "Ahead of elections, Prime Minister Benjamin Netanyahu said Israel could turn to blockchain and crypto to skirt potential international sanctions, to the dismay of opponents and the country’s central banker.",
+          "url": "https://cointelegraph.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions",
+          "source": "Cointelegraph",
+          "published": "2026-10-25T11:42:00Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5SCA4VS7NKA06DYBPJVW2FM/benjamin-netanyahu.png"
+        },
+        {
+          "title": "Wall Street’s $359 billion-a-day repo market has found a use for blockchain",
+          "description": "Wall Street has found a use for blockchain that involves neither memecoins nor replacing the banking system. It's now helping institutions borrow billions between breakfast and lunch, usually because they have government bonds but not enough cash when a payme…",
+          "url": "https://cryptoslate.com/wall-streets-359-billion-a-day-repo-market-has-found-a-use-for-blockchain/",
+          "source": "CryptoSlate",
+          "published": "2026-10-24T12:00:47Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/10/wall-street-repo-settlement.webp"
+        },
         {
           "title": "Irys (IRYS) Gains 188% as Short Liquidations Reach $21M",
           "description": "IRYS crypto rose 188% in 24 hours after a rally marked by $21.4 million in short liquidations, drawing attention to its datachain and token risks.\nThe post Irys (IRYS) Gains 188% as Short Liquidations Reach $21M appeared first on Bitcoin Foundation.",
@@ -202,22 +226,6 @@
           "source": "Decrypt",
           "published": "2026-10-23T21:16:03Z",
           "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/Israel-Flag-DecryptStyle-gID_7.jpg"
-        },
-        {
-          "title": "Cardano Foundation Pushes Back on New MiCA Rules for DeFi and Staking",
-          "description": "The Cardano Foundation has urged the European Commission not to broaden the Markets in Crypto-Assets Regulation (MiCA) by creating new standalone rules for decentralized finance, staking, and other protocol-level activities. In a recent response, the foundati…",
-          "url": "https://zycrypto.com/cardano-foundation-pushes-back-on-new-mica-rules-for-defi-and-staking/",
-          "source": "ZyCrypto",
-          "published": "2026-10-23T15:02:02Z",
-          "image": "https://zycrypto.com/wp-content/uploads/2025/05/The-3-Cardano-Prophecy-Why-Whales-Are-Accumulating-Millions-While-ADA-Battles-to-Reclaim-All-Time-High.jpg"
-        },
-        {
-          "title": "Hyperscale Data Reaffirms 2027 Guidance of $300 Million to $350 Million in Revenue and $60 Million to $80 Million in Adjusted EBITDA",
-          "description": "Initial Michigan AI compute capacity expected to be energized and begin revenue-generating activities in December 2026; operating momentum and expanding blockchain and digital asset initiatives support outlook LAS VEGAS, Oct. 23, 2026 /PRNewswire/ -- Hypersca…",
-          "url": "https://www.prnewswire.com/news-releases/hyperscale-data-reaffirms-2027-guidance-of-300-million-to-350-million-in-revenue-and-60-million-to-80-million-in-adjusted-ebitda-302917679.html",
-          "source": "PRNewswire",
-          "published": "2026-10-23T10:00:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS1845972/Hyperscale-Data-Registered-Mark-Logo.jpg?id=OA3035904&p=facebook"
         },
         {
           "title": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express",
@@ -263,12 +271,12 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Pepe (PEPE): 9% Slide Puts Lower Support Zone in Focus",
-              "description": "PEPE price prediction shifts after a 9% decline below $0.0000045, with lower support in focus and a 25% climb needed to reach breakout resistance.\nThe post Pepe (PEPE): 9% Slide Puts Lower Support Zone in Focus appeared first on Bitcoin Foundation.",
-              "url": "https://bitcoinfoundation.org/news/altcoins/pepe-pepe-9-slide-puts-lower-support-zone-in-focus/",
-              "source": "Bitcoinfoundation.org",
-              "published": "2026-10-24T09:03:14Z",
-              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/pepe-pepe-9-slide-puts-lower-support-zone-in-focus.webp"
+              "title": "Kraken wants to be your bank, but who will protect your money?",
+              "description": "Kraken's parent company wants a place in your finances long before you buy Bitcoin and long after you sell it. On Oct. 14, Payward agreed to acquire Saldo Finance Oy, the Finnish owner of Lithuania's Saldo Bank, in a deal expected to close in 2027 if regulato…",
+              "url": "https://cryptoslate.com/kraken-wants-to-be-your-bank-but-who-would-protect-your-money/",
+              "source": "CryptoSlate",
+              "published": "2026-10-25T08:00:04Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/10/kraken-saldo-bank-deposit-protection.webp"
             }
           ]
         },
@@ -277,20 +285,12 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "regextokens",
-              "description": "list of regex patterns for oauth / api tokens with provided source",
-              "url": "https://kitploit.com/en/tools/github/odomojuli/regextokens",
-              "source": "Kitploit.com",
-              "published": "2026-10-23T20:35:54Z",
-              "image": "https://assets.kitploit.com/production/public/tools/58106/b11812240792e38c5e262ccad939c95bb38907810223501ffa0c0b8475ce0256-social-v1.webp"
-            },
-            {
-              "title": "Wiley Blockchain for Business: How It Works & Creates Value eBook: Free",
-              "description": "This Wiley blockchain eBook is free, down from a regular price of $193. It is an edited collection, with chapters written by different contributors, and the book was first published in January 2021. This deal ends November 3. Shop Now at TradePub\r\n Features\r\n…",
-              "url": "https://www.dealnews.com/Wiley-Blockchain-for-Business-How-It-Works-Creates-Value-eBook-Free/22308226.html",
-              "source": "Dealnews.com",
-              "published": "2026-10-23T18:48:24Z",
-              "image": "https://d.dlnws.com/64599/1792781298-w_wile934c8.jpg?h=1024&w=790"
+              "title": "Is Bitcoin Dead? CZ Says Those Calls Have Marked the Best Times to Buy",
+              "description": "The post Is Bitcoin Dead? CZ Says Those Calls Have Marked the Best Times to Buy appeared first on 24/7 Wall St..\nCrypto traders and Wall Street are once again searching Google for “Is Bitcoin dead?” This renewed concern comes despite Bitcoin’s (CRYPTO: BTC) i…",
+              "url": "https://biztoc.com/x/3d568d1abf466eaa",
+              "source": "Biztoc.com",
+              "published": "2026-10-24T16:14:42Z",
+              "image": "https://biztoc.com/cdn/3d568d1abf466eaa_s.webp"
             },
             {
               "title": "Wells Fargo, Intuit latest companies to object to their shares being tokenized, document shows",
@@ -318,11 +318,11 @@
             },
             {
               "title": "Microsoft and Alphabet object to blockchain versions of their shares—but their veto only goes so far",
-              "description": "A growing number of companies are pushing back against tokenized trading of their shares. Microsoft and Alphabet are the latest to complain about the practice, joining 14 other public companies that have formally objected to a plan by OKXICE, a new platform c…",
-              "url": "https://biztoc.com/x/bea4cfb4520bd70e",
-              "source": "Biztoc.com",
-              "published": "2026-10-21T18:04:19Z",
-              "image": "https://biztoc.com/cdn/bea4cfb4520bd70e_s.webp"
+              "description": "Sixteen companies have opposed plans to trade tokenized versions of their shares on Cuomo-backed platform OKXICE.",
+              "url": "https://fortune.com/2026/10/21/microsoft-alphabet-object-blockchain-versions-shares-veto/",
+              "source": "Fortune",
+              "published": "2026-10-21T17:08:21Z",
+              "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2298479544-e1792602316105.jpg?resize=1200,600"
             },
             {
               "title": "DefiLlama report: nearly 90% of FXRP supply is locked in DeFi",
