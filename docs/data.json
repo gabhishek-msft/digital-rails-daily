@@ -1,11 +1,35 @@
 {
-  "date": "October 29, 2026",
+  "date": "October 30, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "Starknet challenge drives quantum-safe signature checks down to about $0.023",
+          "description": "The reduced cost of quantum-safe verifications on Starknet could accelerate the adoption of post-quantum cryptography in blockchain systems.\nThe post Starknet challenge drives quantum-safe signature checks down to about $0.023 appeared first on Crypto Briefin…",
+          "url": "https://cryptobriefing.com/starknet-falcon-512-quantum-safe-cost/",
+          "source": "Crypto Briefing",
+          "published": "2026-10-29T11:26:59Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/29072655/library-starknet-challenge-drives-quantum-safe-signature-checks--800x450.png"
+        },
+        {
+          "title": "How Blockchain Technology Is Reshaping Openness in Digital Gaming Platforms",
+          "description": "The adoption of ufc betting has brought about a new era of accountability and trust for players globally. Blockchain technology’s immutable ledger system tackles persistent issues about fair play, protection, and clarity that have traditionally affected the o…",
+          "url": "https://aunclicdelastic.com/how-blockchain-technology-is-reshaping-openness-in-digital-gaming-platforms/",
+          "source": "Aunclicdelastic.com",
+          "published": "2026-10-28T14:33:09Z",
+          "image": null
+        },
+        {
+          "title": "Confidential ZEC trading goes live on Shield",
+          "description": "Traders can now buy, sell, and provide liquidity for ZEC while keeping their identity, portfolio, and trading strategies confidential. Shield has launched the first confidential onchain trading pair for ZEC, allowing users to manage their Zcash alongside othe…",
+          "url": "https://www.newsbtc.com/news/confidential-zec-trading-goes-live-on-shield/",
+          "source": "newsBTC",
+          "published": "2026-10-28T13:24:08Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2026/10/a25e36202a874e18908adb35a8172903.jpg"
+        },
         {
           "title": "Bitget, Reality and Keyring Brings the First Fully Defi Equity Basis to The Market",
           "description": "VICTORIA, Seychelles, Oct. 28, 2026 (GLOBE NEWSWIRE) — Bitget, the world’s largest Universal Exchange (UEX), has released a joint research report with Reality and Keyring exploring how tokenised equities can support trading strategies beyond traditional stock…",
@@ -45,30 +69,6 @@
           "source": "CryptoSlate",
           "published": "2026-10-27T08:50:22Z",
           "image": "https://cryptoslate.com/wp-content/uploads/2026/10/zcash-wallet-disclosure-debate.webp"
-        },
-        {
-          "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
-          "description": "Similar to the Hugging Face hack, Ethereum researchers have set up an AI Agent message board to help rescue the Glamsterdam fork. New site says ‘Steal My Bitcoin’... if you can.",
-          "url": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest",
-          "source": "Cointelegraph",
-          "published": "2026-10-25T22:48:40Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5TEA8K047VPRWAXPGMZR148/final-collage-oct-23-png.png"
-        },
-        {
-          "title": "Blockchain-assisted revocable capability credential authentication for cross-domain UAVs",
-          "description": "Scientific Reports - Blockchain-assisted revocable capability credential authentication for cross-domain UAVs",
-          "url": "https://www.nature.com/articles/s41598-026-66290-x.pdf",
-          "source": "Nature.com",
-          "published": "2026-10-25T00:00:00Z",
-          "image": null
-        },
-        {
-          "title": "Starknet Vote Backs Research Into A Post-Quantum Layer-1 Future",
-          "description": "A non-binding Starknet governance poll ended with 93.52% supporting research into an independent post-quantum L1; no chain migration has been approved.",
-          "url": "https://www.newsbtc.com/altcoin-news/starknet-vote-post-quantum-layer-one-research/",
-          "source": "newsBTC",
-          "published": "2026-10-23T16:45:00Z",
-          "image": null
         }
       ]
     },
@@ -78,28 +78,28 @@
       "color": "#e6a200",
       "articles": [
         {
+          "title": "Zcash turns 10 as privacy coin rides upgrades and ETF interest",
+          "description": "Zcash's decade-long evolution highlights the growing importance of privacy in crypto, with institutional interest signaling mainstream acceptance.\nThe post Zcash turns 10 as privacy coin rides upgrades and ETF interest appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/zcash-10th-anniversary-privacy-upgrades-etf/",
+          "source": "Crypto Briefing",
+          "published": "2026-10-28T16:16:32Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/28121627/library-zcash-turns-10-as-privacy-coin-rides-upgrades-and-etf-in-800x450.png"
+        },
+        {
+          "title": "Avail launches ShieldTX privacy tool for Hyperliquid traders",
+          "description": "ShieldTX could reshape trading dynamics by enhancing privacy, potentially reducing copy-trading impacts, but its success hinges on adoption.\nThe post Avail launches ShieldTX privacy tool for Hyperliquid traders appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/avail-shieldtx-privacy-hyperliquid-traders/",
+          "source": "Crypto Briefing",
+          "published": "2026-10-28T15:10:37Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/28111028/library-avail-launches-shieldtx-privacy-tool-for-hyperliquid-tra-800x450.png"
+        },
+        {
           "title": "WPEC2026",
           "description": "WPEC 2026 (October 26–28) is a virtual workshop, organized by the Privacy-Enhancing Cryptography (PEC) program. Featured topics: Fully-Homomorphic Encryption ( FHE); Private-Set Intersection ( PSI); Zero-Knowledge Proofs ( ZKP), Anonymous credentials",
           "url": "https://www.nist.gov/news-events/events/2026/10/wpec2026",
           "source": "Nist.gov",
           "published": "2026-10-26T04:00:00Z",
           "image": "https://www.nist.gov/themes/custom/nist_www/img/homepage/nist_mark.png"
-        },
-        {
-          "title": "Show HN: Fuse – Anonymous daily rate limits for logins and APIs with ZK proofs",
-          "description": "Fair play online, no names needed: anonymous daily budgets for protected web endpoints, enforced with zero-knowledge proofs. Early prototype. - veiovi/fuse",
-          "url": "https://github.com/veiovi/fuse",
-          "source": "Github.com",
-          "published": "2026-10-22T13:54:19Z",
-          "image": "https://opengraph.githubassets.com/f9c0df0f2e9826cdfbeb1c93650f0284711f056d700d6080dffdf15d9a38228c/veiovi/fuse"
-        },
-        {
-          "title": "GRVT Burns 1.1 Million Tokens as Countdown to Grvt 2.0 Begins",
-          "description": "The discretionary buyback represents close to 1% of circulating supply and precedes four planned product milestones culminating in Grvt 2.0. Road Town, British Virgin Islands, October 22, 2026 – Grvt, a self-custodial trading platform built on its own zero-kn…",
-          "url": "https://www.newsbtc.com/news/grvt-burns-1-1-million-tokens-as-countdown-to-grvt-2-0-begins/",
-          "source": "newsBTC",
-          "published": "2026-10-22T08:00:54Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2026/10/unknown.png"
         }
       ]
     },
@@ -109,68 +109,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Wall Street Veteran Sees Bigger Returns in Crypto Than AI Stocks",
-          "description": "Former Morgan Stanley executive Jordi Visser projects a stronger rally in Bitcoin (BTC) and other digital assets than in artificial intelligence stocks.",
-          "url": "https://zycrypto.com/wall-street-veteran-sees-bigger-returns-in-crypto-than-ai-stocks/",
-          "source": "ZyCrypto",
-          "published": "2026-10-28T12:03:01Z",
-          "image": "https://zycrypto.com/wp-content/uploads/2025/10/Bitcoin-Kicks-Off-‘Uptober-With-Fresh-Trip-Above-118000-As-Crypto-Market-Cap-Crosses-4.1-Trillion.jpg"
+          "title": "PhotonPay Raises $40M Series C to Scale Its Stablecoin-Centric Financial OS",
+          "description": "Led by Blockchain Capital, the funding will accelerate the expansion of PhotonPay's stablecoin-centric Financial OS, connecting stablecoin liquidity with global fiat networks to unlock digital assets for everyday corporate operations and cross-border settleme…",
+          "url": "https://www.prnewswire.co.uk/news-releases/photonpay-raises-40m-series-c-to-scale-its-stablecoin-centric-financial-os-302923612.html",
+          "source": "PR Newswire UK",
+          "published": "2026-10-29T12:00:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS2023541/20261029060730EDT_image_1.jpg?id=OA3047349&p=facebook"
         },
         {
-          "title": "BNY Adds XRP and RLUSD Custody Support as Ripple Partnership Expands",
-          "description": "BNY and Ripple are extending an established reserve-custody relationship into wider digital-asset servicing and possible tokenized trade-finance applications.",
-          "url": "https://www.newsbtc.com/news/bny-adds-xrp-and-rlusd-custody-support-as-ripple-partnership-expands/",
-          "source": "newsBTC",
-          "published": "2026-10-28T12:00:00Z",
+          "title": "Unocoin Launches India's First Bitcoin Lending Service with Multisig Wallet Security",
+          "description": "New Delhi [India], October 29: Unocoin, which has been serving Indian Bitcoin users since 2013 and has over 2.5 million registered users, today announced UnocoinXPledg, India's first Bitcoin lending service with multisig wallet security. Powered by Unocoin an…",
+          "url": "https://www.business-standard.com/content/press-releases-ani/unocoin-launches-india-s-first-bitcoin-lending-service-with-multisig-wallet-security-126102901265_1.html",
+          "source": "Business Standard",
+          "published": "2026-10-29T11:40:09Z",
+          "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/29/full/20261029153921.jpg"
+        },
+        {
+          "title": "Bitcoin could reach $1.6 million by 2036, but 82% of the forecast rests on one bet",
+          "description": "About 82% of its modeled valuation comes from gold-and-Bitcoin demand, exposing a sharp divide with JPMorgan’s return assumptions.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inb…",
+          "url": "https://cryptoslate.com/bitcoin-could-reach-1-6-million-by-2036-but-82-of-the-forecast-rests-on-one-bet/",
+          "source": "CryptoSlate",
+          "published": "2026-10-29T09:50:24Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-forecast-split.webp"
+        },
+        {
+          "title": "SettleMint Integrates Its Digital Asset Lifecycle Platform with IBM Digital Asset Haven",
+          "description": "Financial institutions and regulated entities can manage tokenized assets based on their regulatory environments and operational needs. The integration brings together digital asset custody, transaction controls and lifecycle management. LEUVEN, Belgium, Oct.…",
+          "url": "https://www.prnewswire.co.uk/news-releases/settlemint-integrates-its-digital-asset-lifecycle-platform-with-ibm-digital-asset-haven-302922335.html",
+          "source": "PR Newswire UK",
+          "published": "2026-10-29T08:00:00Z",
           "image": null
         },
         {
-          "title": "Ripple and Robinhood Expand RLUSD Across Trading and Treasury Services",
-          "description": "Ripple and Robinhood have announced a strategic partnership covering RLUSD, treasury management and institutional financing, rather than a single-token listing.",
-          "url": "https://www.newsbtc.com/?p=915943",
+          "title": "Google Previews Multi-Party Compute, a Key-Splitting Crypto Custody System for Banks",
+          "description": "Google previewed Multi-Party Compute, a key-splitting crypto custody system for banks, at its New York digital assets symposium; a commercial launch is planned for early 2027.\nThe post Google Previews Multi-Party Compute, a Key-Splitting Crypto Custody System…",
+          "url": "https://techreport.com/news/business/google-previews-multi-party-compute-a-key-splitting-crypto-custody-system-for-banks/",
+          "source": "Techreport.com",
+          "published": "2026-10-29T03:40:23Z",
+          "image": "https://techreport.com/wp-content/uploads/2026/10/X5mw7yXWMGI_1BIKHZagc_Nd0CemWj.jpg"
+        },
+        {
+          "title": "Janus Henderson Launches Tokenized Nasdaq-100 Fund JQQQ on Stellar",
+          "description": "Janus Henderson and Centrifuge have launched JQQQ, an issuer-sponsored blockchain-native fund seeking exposure to the Nasdaq-100 Index through the Stellar network.",
+          "url": "https://www.newsbtc.com/news/janus-henderson-launches-tokenized-nasdaq-100-fund-jqqq-on-stellar/",
           "source": "newsBTC",
-          "published": "2026-10-28T11:00:00Z",
+          "published": "2026-10-29T03:00:00Z",
           "image": null
         },
         {
-          "title": "Google to preview crypto custody security system as AI threats grow",
-          "description": "Google Multi-Party Compute is in private preview, with several major financial institutions testing the technology and parent company Alphabet using it to secure its own digital assets on Ethereum and Solana.",
-          "url": "https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow",
-          "source": "CoinDesk",
-          "published": "2026-10-28T11:00:00Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/1b60f0ad8fb01131abb6c4eae334bffffef79cc4-5760x3840.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75"
-        },
-        {
-          "title": "Brazil’s largest lender becomes first bank to formalize crypto brokerage under new rules",
-          "description": "Itau Unibanco notified Brazil’s central bank of its crypto trading and custody operations on Tuesday, ahead of a month-end deadline under Resolution 520.",
-          "url": "https://www.coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules",
-          "source": "CoinDesk",
-          "published": "2026-10-28T10:07:54Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/6d46ba6649c1aae115103732eff1cb5d1d02aaf6-960x720.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75"
-        },
-        {
-          "title": "Robinhood shares fall as crypto markets chill drives profit miss",
-          "description": "Oct 28 : Robinhood's shares fell 8 per cent in premarket trading on Wednesday after a prolonged chill in crypto markets dragged the trading platform's third-quarter profit below Wall Street expectations.Crypto markets have been under pressure this year due to…",
-          "url": "https://www.channelnewsasia.com/business/robinhood-shares-fall-crypto-markets-chill-drives-profit-miss-6499396",
-          "source": "CNA",
-          "published": "2026-10-28T09:07:00Z",
-          "image": "https://dam.mediacorp.sg/image/upload/s--yeSqRBjT--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-28T090700Z_2_LYNXNPEM9R0RV_RTROPTP_3_ROBINHOOD-RESULTS.JPG?itok=F-sGLGxI"
-        },
-        {
-          "title": "Securitize CEO Carlos Domingo says AI agents will need tokenized assets to put money to work",
-          "description": "AI-driven finance could revolutionize trading efficiency, but regulatory adaptation and market acceptance are crucial for widespread adoption.\nThe post Securitize CEO Carlos Domingo says AI agents will need tokenized assets to put money to work appeared first…",
-          "url": "https://cryptobriefing.com/securitize-ceo-ai-agents-tokenization/",
-          "source": "Crypto Briefing",
-          "published": "2026-10-27T16:54:34Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/27125427/library-securitize-ceo-carlos-domingo-says-ai-agents-will-need-t-800x450.png"
-        },
-        {
-          "title": "Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar",
-          "description": "Janus Henderson’s JQQQ fund uses Centrifuge infrastructure to bring Nasdaq-100 exposure onchain, adding to Stellar’s growing institutional tokenization market.",
-          "url": "https://cointelegraph.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar",
+          "title": "Bitcoin faces fresh pressure after Fed’s hawkish rate hold: Analysts",
+          "description": "Traders are pricing in a 78% chance of a December rate hike, while analysts say Treasury yields, the US dollar and upcoming inflation data could determine Bitcoin’s next move.",
+          "url": "https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts",
           "source": "Cointelegraph",
-          "published": "2026-10-27T16:37:15Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5Z1HSZ4K8KMEHK6XPMYYZ30/hi-crypto-goes-for-nasdaq-solana.png"
+          "published": "2026-10-29T01:12:01Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M62K842329DANXYCBBC56CQQ/hi-5-tips-for-investing-during-a-global-recession.jpg"
+        },
+        {
+          "title": "Charter in Hand: What Ripple Built in the Week Everyone Else Waited on OMB",
+          "description": "Ripple shipped a federal charter on Monday, paired with BNY and Robinhood on Tuesday, and landed Coinbase alongside a $900 million run rate on Wednesday — release after release timed to open Swell in New York. The interesting part is not the volume. It is the…",
+          "url": "https://forkast.news/charter-in-hand-what-ripple-built-in-the-week-everyone-else-waited-on-omb/",
+          "source": "Forkast.news",
+          "published": "2026-10-29T00:13:04Z",
+          "image": "https://forkast.news/wp-content/uploads/2026/10/ripple-approval-stack-charter-in-hand-hero-1024x687.jpg"
         }
       ]
     },
@@ -180,12 +180,36 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "SoFi Crypto Revenue: $161.6M Gross, Just $1.6M Net in Q3 2026",
-          "description": "SoFi crypto revenue reached $161.6 million in Q3 2026, but $160 million in associated costs left $1.6 million net, framing growth and conversion.\nThe post SoFi Crypto Revenue: $161.6M Gross, Just $1.6M Net in Q3 2026 appeared first on Bitcoin Foundation.",
-          "url": "https://bitcoinfoundation.org/news/companies/sofi-crypto-revenue-161-6m-gross-just-1-6m-net-in-q3-2026/",
+          "title": "TRX Options Launch on Blockchain.com, Expanding Global Access to the TRON Ecosystem",
+          "description": "TRON DAO, the community-governed DAO dedicated to accelerating the decentralization of the internet through blockchain technology and decentralized applications (dApps), welcomes the launch of TRX options on Blockchain.com, a global leader in crypto services …",
+          "url": "https://www.newsbtc.com/news/trx-options-launch-on-blockchain-com-expanding-global-access-to-the-tron-ecosystem/",
+          "source": "newsBTC",
+          "published": "2026-10-29T09:33:18Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2026/10/96d19bf55d7d48109b305784f18eea3b.jpg"
+        },
+        {
+          "title": "Janus Henderson Brings Tokenized Nasdaq-100 Fund JQQQ to Stellar",
+          "description": "Janus Henderson launches the JQQQ tokenized Nasdaq-100 fund on Stellar, bringing licensed index exposure to professional investors outside the US.\nThe post Janus Henderson Brings Tokenized Nasdaq-100 Fund JQQQ to Stellar appeared first on Bitcoin Foundation.",
+          "url": "https://bitcoinfoundation.org/news/blockchain-news/janus-henderson-brings-tokenized-nasdaq-100-fund-jqqq-to-stellar/",
           "source": "Bitcoinfoundation.org",
-          "published": "2026-10-27T21:02:58Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/sofi-crypto-revenue-161-6m-gross-just-1-6m-net-in-q3-2026.webp"
+          "published": "2026-10-29T06:51:29Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/janus-henderson-brings-tokenized-nasdaq-100-fund-jqqq-to-stellar.webp"
+        },
+        {
+          "title": "Ripple’s RLUSD stablecoin gains Coinbase access as Moody’s awards investment-grade rating",
+          "description": "Ripple's RLUSD stablecoin has launched on Coinbase and its Base blockchain after Moody's assigned the token an investment-grade credit rating. The agreement announced Wednesday makes RLUSD available on Coinbase's retail and institutional trading platforms, ex…",
+          "url": "https://cryptoslate.com/ripples-rlusd-stablecoin-gains-coinbase-access-as-moodys-awards-investment-grade-rating/",
+          "source": "CryptoSlate",
+          "published": "2026-10-29T05:30:07Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/10/rlusd-coinbase-base-launch-standard.jpg"
+        },
+        {
+          "title": "Equilend's 1Source DLT Adds Goldman Sachs",
+          "description": "Goldman Sachs joins BNY and National Bank of Canada on securities finance distributed ledger technology platform NEW YORK, Oct. 28, 2026 /PRNewswire/ -- Equilend, the global financial technology, data and analytics company for the securities finance industry,…",
+          "url": "https://www.prnewswire.co.uk/news-releases/equilends-1source-dlt-adds-goldman-sachs-302922238.html",
+          "source": "PR Newswire UK",
+          "published": "2026-10-28T13:43:00Z",
+          "image": "https://mmx.prnewswire.com/media/MS1987718/Equilend-Logo.jpg?id=OA3044560&p=facebook"
         },
         {
           "title": "Crypto blitzes midterms with $176 million to support allies as it prepares for post-Trump era",
@@ -202,22 +226,6 @@
           "source": "Internet",
           "published": "2026-10-26T14:06:13Z",
           "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjztmxBbaYZEAd_HSv1heMQm8UuLym1h7XcN8NrgWjJmaoghOIR2O1rHwQzunUd9jlQn4R_8ft4Y0K9xLQOhs2xM8vVh1eHoEsZIFonHd7K6TA1cd0aIJ6jK-K2RNVBCwMfQwq7WWpuFtB8inWvubRjIEw_9fetsRFllw-fsAAnjCnpMCqFIL28ovMhJwbd/s1700-nu-rw-lo-l85-e365/recap2monday.jpg"
-        },
-        {
-          "title": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express",
-          "description": "A Singapore is firm behind Switzerland’s new Bitcoin ETF, Crypto Valley partners with Vietnam on crypto tech. The US cracks down on DeepSeek and bans some overseas AI investments.",
-          "url": "https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express",
-          "source": "Cointelegraph",
-          "published": "2026-10-22T22:50:22Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5JV90GX9YTTQQZEH3XNN8PG/asia-express-1.jpg"
-        },
-        {
-          "title": "Datavault AI Signs Non-Binding Letter of Intent to Acquire a 19.9% Equity Stake in DataMEDS AI in Consideration of an Expanded Technology License",
-          "description": "Expanded healthcare platform would bring together patient-controlled data tokenization, biometric medication verification, and automated delivery technologies PHILADELPHIA — Datavault AI Inc. (“Datavault AI” or the “Company”) (Nasdaq: DVLT), an Artificial Int…",
-          "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/datavault-ai-signs-non-binding-letter-of-intent-to-acquire-a-19-9-equity-stake-in-datameds-ai-in-consideration-of-an-expanded-technology-license",
-          "source": "Financial Post",
-          "published": "2026-10-22T12:32:03Z",
-          "image": null
         }
       ]
     },
@@ -229,53 +237,20 @@
         "startups": {
           "title": "Startups",
           "icon": "💡",
-          "articles": [
-            {
-              "title": "The Download: dead startups fueling AI and interspecies communication",
-              "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startu…",
-              "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
-              "source": "MIT Technology Review",
-              "published": "2026-10-28T12:10:00Z",
-              "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/AI-Death_Redamonti_MIT-thumb.jpg?resize=1200,600"
-            },
-            {
-              "title": "Morning Minute: Robinhood Misses, But Crypto Beats and Robinhood Chain Soars",
-              "description": "Vlad Tenev delivered the messaging that Robinhood Chain enthusiasts wanted to hear—and the market responded.",
-              "url": "https://decrypt.co/382029/morning-minute-robinhood-misses-but-crypto-beats-and-robinhood-chain-soars",
-              "source": "Decrypt",
-              "published": "2026-10-28T12:04:56Z",
-              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/robinhood-decrypt-style-01-gID_7.png"
-            },
-            {
-              "title": "Cancore raises $7.2M round to connect Canton with public-chain liquidity",
-              "description": "Cancore raises $7.2 million to expand tokenized asset trading infrastructure. Platform reports $53.2 million in volume across more than 84,000 trades. Funding supports AI trading agents, cross-chain settlement and expanded liquidity access. Cancore, a platfor…",
-              "url": "https://coinjournal.net/news/cancore-raises-7-2m-round-to-connect-canton-with-public-chain-liquidity/",
-              "source": "Coinjournal.net",
-              "published": "2026-10-28T11:56:51Z",
-              "image": "https://coinjournal.net/wp-content/uploads/2026/02/trader-checks-crypto-price-chart-on-mobile.png"
-            },
-            {
-              "title": "SUN.io Completes 52nd Buyback and Burn: Total SUN Burned Surpasses 685M as SunSwap Accelerates Ecosystem Integrations",
-              "description": "SUN.io, the core DeFi liquidity infrastructure on the TRON network, has successfully executed its 52nd SUN token buyback and burn on October 27, removing more than 7.23 million SUN from circulation. This round marks the platform's 52nd consecutive burn, bring…",
-              "url": "https://cryptoslate.com/sun-io-completes-52nd-buyback-and-burn-total-sun-burned-surpasses-685m-as-sunswap-accelerates-ecosystem-integrations/",
-              "source": "CryptoSlate",
-              "published": "2026-10-28T11:50:08Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/10/sun-52nd-buyback-burn-685-million-tokens.jpg"
-            },
-            {
-              "title": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
-              "description": "Bitcoin (BTC) rose above $81,400 as Asian chip stocks rallied, with frog-themed memecoin pepe adding 9%.",
-              "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
-              "source": "CoinDesk",
-              "published": "2026-10-28T11:32:31Z",
-              "image": "https://cdn.sanity.io/images/s3y3vcno/production/0b2f635d2d8183e6118bfd2090c1ac62b999524b-1920x1080.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75"
-            }
-          ]
+          "articles": []
         },
         "hyperscalers": {
           "title": "Hyperscalers",
           "icon": "☁️",
           "articles": [
+            {
+              "title": "JPMorgan, Coca-Cola Among 7 More Companies Objecting to OKX-ICE Tokenized Stocks",
+              "description": "Seven more companies, including JPMorgan Chase, Coca-Cola and Dell, have objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 33.",
+              "url": "https://decrypt.co/382043/jpmorgan-coca-cola-7-more-companies-objecting-okx-ice-tokenized-stocks",
+              "source": "Decrypt",
+              "published": "2026-10-28T15:05:03Z",
+              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/11/jp-morgan-decrypt-style-gID_7.jpg"
+            },
             {
               "title": "Growing List of Firms Object to OKX-ICE Tokenized Stock Plans",
               "description": "Intel, Oracle, IBM and IonQ have joined a growing list of companies objecting to having tokenized versions of their shares traded through OKX and Intercontinental Exchange's blockchain venture, bringing the total number of objections to 26. About 37% of the c…",
@@ -301,6 +276,14 @@
               "image": "https://biztoc.com/cdn/4c9c7cebbae6df66_s.webp"
             },
             {
+              "title": "Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund",
+              "description": "The $500 billion asset manager is launching an issuer-sponsored fund on Stellar, taking a different approach from third-party stock tokens.",
+              "url": "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund",
+              "source": "CoinDesk",
+              "published": "2026-10-27T14:21:10Z",
+              "image": "https://cdn.sanity.io/images/s3y3vcno/production/60d78c8a6f29390ee0f01e24c3716375d109cf64-4428x2990.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75"
+            },
+            {
               "title": "Post-Quantum Cryptography Market worth $3.80 billion by 2031 - Report by MarketsandMarkets™",
               "description": "DELRAY BEACH, Fla., Oct. 27, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Post-Quantum Cryptography Market is projected to grow from USD 0.60 billion in 2026 to USD 3.80 billion by 2031, registering a CAGR of 44.5% during the forecast period. Bro…",
               "url": "https://www.prnewswire.co.uk/news-releases/post-quantum-cryptography-market-worth-3-80-billion-by-2031--report-by-marketsandmarkets-302920602.html",
@@ -317,28 +300,12 @@
               "image": "https://assets.newatlas.com/dims4/default/3cece6b/2147483647/strip/true/crop/1200x630+0+85/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F5c%2F61%2Fa9a4ebcd40c1898f12dd7f75d64e%2Fthis-heating-element-for-your-water-tank-is-hiding-an-entire-bitcoin-mining-system-inside.jpg&na.image_optimisation=0"
             },
             {
-              "title": "Microsoft, McDonald's, Verizon, and Others Tell Crypto Platform Not to Tokenize Their Stocks",
-              "description": "Both crypto startups and more traditional financial institutions have spent the past year promoting tokenized stocks as the next major use case of blockchain technology. But many publicly traded companies aren’t interested in the sales pitch. Microsoft, Alpha…",
-              "url": "https://biztoc.com/x/365e3c1d68dcfc19",
-              "source": "Biztoc.com",
-              "published": "2026-10-25T19:18:25Z",
-              "image": "https://biztoc.com/cdn/365e3c1d68dcfc19_s.webp"
-            },
-            {
-              "title": "Microsoft, McDonald’s, Verizon, and Others Tell Crypto Platform Not to Tokenize Their Stocks",
-              "description": "Crypto companies using “permissionless” tech still need permission when interacting with the real world.",
-              "url": "https://gizmodo.com/microsoft-mcdonalds-verizon-and-others-tell-crypto-platform-not-to-tokenize-their-stocks-2000830368",
-              "source": "Gizmodo.com",
-              "published": "2026-10-25T14:56:24Z",
-              "image": "https://gizmodo.com/app/uploads/2026/10/mcdonalds-sign-monopoly-1200x675.jpg"
-            },
-            {
-              "title": "Is the Internet Safe Again After the PHP Nightmare? What You Need to Know",
-              "description": "PHP shipped its fix, attackers launched millions of attempts, and governments say no one has broken in yet. Here's what that means for your passwords, your crypto, and your browsing.",
-              "url": "https://decrypt.co/381662/internet-safe-again-after-php-nightmare-what-you-need-know",
-              "source": "Decrypt",
-              "published": "2026-10-22T22:21:46Z",
-              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/10/panic-decrypt-style-gID_7.jpg"
+              "title": "Injective launches onchain futures market tracking Nvidia GPU rental costs",
+              "description": "The new index tracks rental prices for five Nvidia GPUs, offering leveraged trading and potential hedging against fluctuations in AI computing costs.",
+              "url": "https://cointelegraph.com/news/injective-launches-onchain-futures-market-tracking-nvidia-gpu-rental-costs",
+              "source": "Cointelegraph",
+              "published": "2026-10-26T21:23:32Z",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WWZSHJKJSXHRGBMZY1WZXE/hi-how-to-train-an-ai-bot-to-day-trade-crypto2.png"
             }
           ]
         }
