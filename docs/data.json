@@ -1,11 +1,19 @@
 {
-  "date": "October 30, 2026",
+  "date": "October 31, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "Binance outflows to Tornado-funded wallets flagged on X, but no public data confirms them",
+          "description": "The unverified claims highlight ongoing tensions between privacy tools and regulatory scrutiny, impacting trust in crypto exchanges.\nThe post Binance outflows to Tornado-funded wallets flagged on X, but no public data confirms them appeared first on Crypto Br…",
+          "url": "https://cryptobriefing.com/binance-outflows-tornado-cash-funded-wallets/",
+          "source": "Crypto Briefing",
+          "published": "2026-10-29T20:51:46Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/29165141/library-binance-outflows-to-tornado-funded-wallets-flagged-on-x--800x450.png"
+        },
         {
           "title": "Starknet challenge drives quantum-safe signature checks down to about $0.023",
           "description": "The reduced cost of quantum-safe verifications on Starknet could accelerate the adoption of post-quantum cryptography in blockchain systems.\nThe post Starknet challenge drives quantum-safe signature checks down to about $0.023 appeared first on Crypto Briefin…",
@@ -61,14 +69,6 @@
           "source": "CoinDesk",
           "published": "2026-10-27T11:32:45Z",
           "image": "https://cdn.sanity.io/images/s3y3vcno/production/3d9786ace14e73654f21a94a72d9d19a3f66730e-1920x1080.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75"
-        },
-        {
-          "title": "Public wallet logs expose founder histories, and Zcash group demands fix",
-          "description": "A Zcash policy group wants the SEC’s proposed fundraising regime to protect unrelated wallet activity without concealing material holdings or conflicts.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get Th…",
-          "url": "https://cryptoslate.com/atkinss-zcash-crypto-privacy-vision-faces-a-test-what-must-founders-reveal/",
-          "source": "CryptoSlate",
-          "published": "2026-10-27T08:50:22Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/10/zcash-wallet-disclosure-debate.webp"
         }
       ]
     },
@@ -109,44 +109,52 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "PhotonPay Raises $40M Series C to Scale Its Stablecoin-Centric Financial OS",
-          "description": "Led by Blockchain Capital, the funding will accelerate the expansion of PhotonPay's stablecoin-centric Financial OS, connecting stablecoin liquidity with global fiat networks to unlock digital assets for everyday corporate operations and cross-border settleme…",
-          "url": "https://www.prnewswire.co.uk/news-releases/photonpay-raises-40m-series-c-to-scale-its-stablecoin-centric-financial-os-302923612.html",
-          "source": "PR Newswire UK",
-          "published": "2026-10-29T12:00:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS2023541/20261029060730EDT_image_1.jpg?id=OA3047349&p=facebook"
-        },
-        {
-          "title": "Unocoin Launches India's First Bitcoin Lending Service with Multisig Wallet Security",
-          "description": "New Delhi [India], October 29: Unocoin, which has been serving Indian Bitcoin users since 2013 and has over 2.5 million registered users, today announced UnocoinXPledg, India's first Bitcoin lending service with multisig wallet security. Powered by Unocoin an…",
-          "url": "https://www.business-standard.com/content/press-releases-ani/unocoin-launches-india-s-first-bitcoin-lending-service-with-multisig-wallet-security-126102901265_1.html",
-          "source": "Business Standard",
-          "published": "2026-10-29T11:40:09Z",
-          "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/29/full/20261029153921.jpg"
-        },
-        {
-          "title": "Bitcoin could reach $1.6 million by 2036, but 82% of the forecast rests on one bet",
-          "description": "About 82% of its modeled valuation comes from gold-and-Bitcoin demand, exposing a sharp divide with JPMorgan’s return assumptions.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inb…",
-          "url": "https://cryptoslate.com/bitcoin-could-reach-1-6-million-by-2036-but-82-of-the-forecast-rests-on-one-bet/",
+          "title": "Walmart, Microsoft and JPMorgan block NYSE-backed venture from tokenizing their shares",
+          "description": "Trading fees reward the venue, while issuers weigh pricing risks and a 30-day window to block a third-party proposal.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+          "url": "https://cryptoslate.com/walmart-microsoft-and-jpmorgan-block-nyse-backed-venture-from-tokenizing-their-shares/",
           "source": "CryptoSlate",
-          "published": "2026-10-29T09:50:24Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-forecast-split.webp"
+          "published": "2026-10-30T09:10:06Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/10/stock-token-checkpoint.webp"
         },
         {
-          "title": "SettleMint Integrates Its Digital Asset Lifecycle Platform with IBM Digital Asset Haven",
-          "description": "Financial institutions and regulated entities can manage tokenized assets based on their regulatory environments and operational needs. The integration brings together digital asset custody, transaction controls and lifecycle management. LEUVEN, Belgium, Oct.…",
-          "url": "https://www.prnewswire.co.uk/news-releases/settlemint-integrates-its-digital-asset-lifecycle-platform-with-ibm-digital-asset-haven-302922335.html",
-          "source": "PR Newswire UK",
-          "published": "2026-10-29T08:00:00Z",
-          "image": null
+          "title": "Ripple Moves Deeper Into Banking With Stablecoin Deals",
+          "description": "Stablecoins continue to seek mainstream usage and acceptance, and this week, Ripple was at the forefront. The company spent the week securing more places for its dollar stablecoin to be held, traded and used. Agreements with Coinbase, Robinhood and BNY, along…",
+          "url": "https://www.pymnts.com/cryptocurrency/2026/ripple-moves-deeper-into-banking-with-stablecoin-deals/",
+          "source": "pymnts.com",
+          "published": "2026-10-30T08:00:35Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2021/01/ripple-1.jpg"
         },
         {
-          "title": "Google Previews Multi-Party Compute, a Key-Splitting Crypto Custody System for Banks",
-          "description": "Google previewed Multi-Party Compute, a key-splitting crypto custody system for banks, at its New York digital assets symposium; a commercial launch is planned for early 2027.\nThe post Google Previews Multi-Party Compute, a Key-Splitting Crypto Custody System…",
-          "url": "https://techreport.com/news/business/google-previews-multi-party-compute-a-key-splitting-crypto-custody-system-for-banks/",
-          "source": "Techreport.com",
-          "published": "2026-10-29T03:40:23Z",
-          "image": "https://techreport.com/wp-content/uploads/2026/10/X5mw7yXWMGI_1BIKHZagc_Nd0CemWj.jpg"
+          "title": "Cryptocurrency exchange Binance freezes assets after $6.3bn heist",
+          "description": "The hack is believed to be the biggest in cryptocurrency history, according to analysts",
+          "url": "https://www.irishtimes.com/business/financial-services/2026/10/30/cryptocurrency-exchange-binance-freezes-assets-after-63bn-heist/",
+          "source": "The Irish Times",
+          "published": "2026-10-30T07:49:11Z",
+          "image": "https://www.irishtimes.com/resizer/v2/ENZOOUV7RHCXBPFDHKPNS2PFIM.jpg?smart=true&auth=7a07ee111db0c9b5dda9741917e540077a7e881c06c77b9de2491d48226ed32d&width=1200&height=630"
+        },
+        {
+          "title": "Cryptocurrency exchange Binance freezes assets after $6.3 billion heist",
+          "description": "The hack is believed to be the biggest in cryptocurrency history, according to analysts",
+          "url": "https://www.irishtimes.com/wires/reuters/business/2026/10/30/cryptocurrency-exchange-binance-freezes-assets-after-63-billion-heist/",
+          "source": "The Irish Times",
+          "published": "2026-10-30T07:09:11Z",
+          "image": "https://www.irishtimes.com/resizer/v2/ENZOOUV7RHCXBPFDHKPNS2PFIM.jpg?smart=true&auth=7a07ee111db0c9b5dda9741917e540077a7e881c06c77b9de2491d48226ed32d&width=1200&height=630"
+        },
+        {
+          "title": "The $6.3 Billion Binance Hack: Why Gold and Silver Are the Only Safe Haven",
+          "description": "Introduction: The $6.3 Billion Binance Hack The world’s largest cryptocurrency exchange just suffered what may be the single largest heist in financial history. Early reports point to a staggering $6.3 billion in losses, and the fallout is still being tallied…",
+          "url": "https://www.naturalnews.com/2026-10-30-why-gold-silver-are-only-safe-haven.html",
+          "source": "Naturalnews.com",
+          "published": "2026-10-30T06:00:00Z",
+          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/binance-hack-crypto-exchange-vulnerability-self-custody-5899-1793344310323-9c8f1227-original.jpg"
+        },
+        {
+          "title": "DTCC launches tokenization service with 20 banks including Citi and JPMorgan",
+          "description": "DTCC subsidiary DTC launched a tokenization service letting eligible clients mint securities held in its $114 trillion custody base into wallet-ready tokens, with Citi, JPMorgan and 18 other participants signed on.\nThe post DTCC launches tokenization service …",
+          "url": "https://www.valuewalk.com/dtcc-tokenization-service-live-20-banks/",
+          "source": "ValueWalk",
+          "published": "2026-10-29T22:29:37Z",
+          "image": "https://www.valuewalk.com/wp-content/uploads/2026/10/senseserp-1793312956-150x150.jpg"
         },
         {
           "title": "Janus Henderson Launches Tokenized Nasdaq-100 Fund JQQQ on Stellar",
@@ -163,14 +171,6 @@
           "source": "Cointelegraph",
           "published": "2026-10-29T01:12:01Z",
           "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M62K842329DANXYCBBC56CQQ/hi-5-tips-for-investing-during-a-global-recession.jpg"
-        },
-        {
-          "title": "Charter in Hand: What Ripple Built in the Week Everyone Else Waited on OMB",
-          "description": "Ripple shipped a federal charter on Monday, paired with BNY and Robinhood on Tuesday, and landed Coinbase alongside a $900 million run rate on Wednesday — release after release timed to open Swell in New York. The interesting part is not the volume. It is the…",
-          "url": "https://forkast.news/charter-in-hand-what-ripple-built-in-the-week-everyone-else-waited-on-omb/",
-          "source": "Forkast.news",
-          "published": "2026-10-29T00:13:04Z",
-          "image": "https://forkast.news/wp-content/uploads/2026/10/ripple-approval-stack-charter-in-hand-hero-1024x687.jpg"
         }
       ]
     },
@@ -180,28 +180,44 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "TRX Options Launch on Blockchain.com, Expanding Global Access to the TRON Ecosystem",
-          "description": "TRON DAO, the community-governed DAO dedicated to accelerating the decentralization of the internet through blockchain technology and decentralized applications (dApps), welcomes the launch of TRX options on Blockchain.com, a global leader in crypto services …",
-          "url": "https://www.newsbtc.com/news/trx-options-launch-on-blockchain-com-expanding-global-access-to-the-tron-ecosystem/",
+          "title": "Binance Estimates $6.3 Billion Hacked in Crypto’s Biggest-Ever Heist",
+          "description": "Binance, the world’s largest cryptocurrency exchange, has suffered the industry’s biggest-ever hack in a fresh blow to efforts to push digital assets into the mainstream.Binance Holdings on Friday said $6.3 billion worth of funds were affected, with $3 billio…",
+          "url": "https://www.insurancejournal.com/news/international/2026/10/30/890894.htm",
+          "source": "Insurance Journal",
+          "published": "2026-10-30T07:41:43Z",
+          "image": "https://www.insurancejournal.com/app/uploads/2026/10/binance-logo-bloomberg-scaled.jpg"
+        },
+        {
+          "title": "Mirae Asset Issues Tokenized Dollar Notes on Solana for Professional Investors",
+          "description": "Mirae Asset Securities’ Hong Kong unit announced the completion of a tokenized funding-note issuance on Solana for eligible institutional investors. For.",
+          "url": "https://www.newsbtc.com/news/mirae-asset-issues-tokenized-dollar-notes-on-solana-for-professional-investors/",
           "source": "newsBTC",
-          "published": "2026-10-29T09:33:18Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2026/10/96d19bf55d7d48109b305784f18eea3b.jpg"
+          "published": "2026-10-30T05:00:00Z",
+          "image": null
         },
         {
-          "title": "Janus Henderson Brings Tokenized Nasdaq-100 Fund JQQQ to Stellar",
-          "description": "Janus Henderson launches the JQQQ tokenized Nasdaq-100 fund on Stellar, bringing licensed index exposure to professional investors outside the US.\nThe post Janus Henderson Brings Tokenized Nasdaq-100 Fund JQQQ to Stellar appeared first on Bitcoin Foundation.",
-          "url": "https://bitcoinfoundation.org/news/blockchain-news/janus-henderson-brings-tokenized-nasdaq-100-fund-jqqq-to-stellar/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-10-29T06:51:29Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/janus-henderson-brings-tokenized-nasdaq-100-fund-jqqq-to-stellar.webp"
+          "title": "Designing a blockchain-enabled certification framework for food loss and waste reduction: a proof-of-concept in the fresh food supply chain",
+          "description": "Scientific Reports - Designing a blockchain-enabled certification framework for food loss and waste reduction: a proof-of-concept in the fresh food supply chain",
+          "url": "https://www.nature.com/articles/s41598-026-77245-7.pdf",
+          "source": "Nature.com",
+          "published": "2026-10-30T00:00:00Z",
+          "image": null
         },
         {
-          "title": "Ripple’s RLUSD stablecoin gains Coinbase access as Moody’s awards investment-grade rating",
-          "description": "Ripple's RLUSD stablecoin has launched on Coinbase and its Base blockchain after Moody's assigned the token an investment-grade credit rating. The agreement announced Wednesday makes RLUSD available on Coinbase's retail and institutional trading platforms, ex…",
-          "url": "https://cryptoslate.com/ripples-rlusd-stablecoin-gains-coinbase-access-as-moodys-awards-investment-grade-rating/",
-          "source": "CryptoSlate",
-          "published": "2026-10-29T05:30:07Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/10/rlusd-coinbase-base-launch-standard.jpg"
+          "title": "A new cybercrime campaign uses fake AI apps with real-sounding names to infect people curious to try the newest tools",
+          "description": "Experts warn ChatGPT and Claude are once again being spoofed to trick victims into installing a cryptocurrency miner.",
+          "url": "https://www.techradar.com/pro/security/a-new-cybercrime-campaign-uses-fake-ai-apps-with-real-sounding-names-to-infect-people-curious-to-try-the-newest-tools",
+          "source": "TechRadar",
+          "published": "2026-10-29T18:05:00Z",
+          "image": "https://cdn.mos.cms.futurecdn.net/f3ndAhPtpLWkUorZzcc499-2560-80.jpg"
+        },
+        {
+          "title": "Piero Cipollone: Next-day securities settlement, tokenisation and the transformation of Europe’s financial infrastructure",
+          "description": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261029~e9b57c3495.en.html",
+          "source": "Europa.eu",
+          "published": "2026-10-29T15:50:00Z",
+          "image": "https://www.ecb.europa.eu/press/key/shared/img/socialmedia/social-default.jpg?0dbb2de262f4f1fcaeae410be132177a"
         },
         {
           "title": "Equilend's 1Source DLT Adds Goldman Sachs",
@@ -237,12 +253,85 @@
         "startups": {
           "title": "Startups",
           "icon": "💡",
-          "articles": []
+          "articles": [
+            {
+              "title": "Today's Cryptogram",
+              "description": "Hiya kids! Hiya, Hiya!Good Morning Crypto-FReepers.I see some of the same old faces out there.But that's OK - I like you anyway.May . . . Ha Ha Ha!I'll be good - I will, (like heck) I will, I will. Ha ha ha.This is today's quote: TIE ZGB ZKQN EGX ...CGA NQNAE…",
+              "url": "https://freerepublic.com/focus/f-chat/4401119/posts",
+              "source": "Freerepublic.com",
+              "published": "2026-10-30T09:32:05Z",
+              "image": null
+            },
+            {
+              "title": "Bitcoin hits 6-week low, drops below $78,000 as Binance’s $6 billion hack rattles crypto markets. What should investors do?",
+              "description": "Bitcoin fell more than 4% to a six-week low below $78,000, while Ether and BNB also slumped after a reported $6.3 billion security breach at Binance rattled crypto markets. Analysts flagged key support levels and advised investors against panic selling or agg…",
+              "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-hits-6-week-low-drops-below-78000-as-binances-6-billion-hack-rattles-crypto-markets-what-should-investors-do/articleshow/135349699.cms",
+              "source": "The Times of India",
+              "published": "2026-10-30T07:29:59Z",
+              "image": "https://img.etimg.com/thumb/msid-135349791,width-1200,height-900,imgsize-258708,overlay-etmarkets/articleshow.jpg"
+            },
+            {
+              "title": "Best AI trading platform 2026 – 7 tools compared for stocks, crypto, forex, and Beginners",
+              "description": "Choosing an ai trading platform starts with the job, not the brand. Trade Ideas suits active stock scanning, while TrendSpider covers broader technical research. Capitalise.ai...\nThe post Best AI trading platform 2026 – 7 tools compared for stocks, crypto, fo…",
+              "url": "https://bitcoinfoundation.org/news/ai/best-ai-trading-platform/",
+              "source": "Bitcoinfoundation.org",
+              "published": "2026-10-30T07:23:04Z",
+              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/best-ai-trading-platform-01.webp"
+            }
+          ]
         },
         "hyperscalers": {
           "title": "Hyperscalers",
           "icon": "☁️",
           "articles": [
+            {
+              "title": "Binance finds 'additional points of breach' in $6.3 billion crypto heist",
+              "description": "Binance, the world's largest crypto exchange, said it had identified more \"points of breach\" in a \"complex\" $6.3 billion hack.",
+              "url": "https://www.businessinsider.com/binance-hack-crypto-heist-latest-bitcoin-breach-funds-withdrawals-2026-10#article",
+              "source": "Business Insider",
+              "published": "2026-10-30T11:15:58Z",
+              "image": "https://i.insider.com/6ae4708f120d8ce03d246712?width=1200&format=jpeg"
+            },
+            {
+              "title": "Multicoin wants to turn AI chips into collateral for crypto’s next lending boom",
+              "description": "USD.AI’s published terms put recovery with lenders and agents, while sUSDai withdrawals depend on cash across monthly epochs.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+              "url": "https://cryptoslate.com/multicoin-wants-to-turn-ai-chips-into-collateral-for-cryptos-next-lending-boom/",
+              "source": "CryptoSlate",
+              "published": "2026-10-29T17:40:06Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/10/susdai-vault-access-limits.webp"
+            },
+            {
+              "title": "Walmart Blocks Its Stock From OKX-ICE Tokenized Trading Venue",
+              "description": "Walmart, Eli Lilly, Cigna, Carniva,l and Arcos Dorados objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 38.",
+              "url": "https://decrypt.co/382145/walmart-blocks-stock-okx-ice-tokenized-trading-venue",
+              "source": "Decrypt",
+              "published": "2026-10-29T15:07:15Z",
+              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/03/shutterstock_11416303911-gID_4.jpg"
+            },
+            {
+              "title": "Why Oracle, Intel, and IBM are saying no to blockchain-based stock trading",
+              "description": "As tokenized stock trading continues to gain traction, so too does the list of companies that object to it. In the video above, Scott Melker outlines key details of the objections from Oracle (ORCL), IBM (IBM), Intel (INTC), and others.",
+              "url": "https://biztoc.com/x/30e2a1554d9eaec2",
+              "source": "Biztoc.com",
+              "published": "2026-10-29T12:40:15Z",
+              "image": "https://biztoc.com/cdn/30e2a1554d9eaec2_s.webp"
+            },
+            {
+              "title": "SettleMint Integrates Its Digital Asset Lifecycle Platform with IBM Digital Asset Haven",
+              "description": "Financial institutions and regulated entities can manage tokenized assets based on their regulatory environments and operational needs. The integration brings together digital asset custody, transaction controls and lifecycle management. LEUVEN, Belgium, Oct.…",
+              "url": "https://www.prnewswire.co.uk/news-releases/settlemint-integrates-its-digital-asset-lifecycle-platform-with-ibm-digital-asset-haven-302922335.html",
+              "source": "PR Newswire UK",
+              "published": "2026-10-29T08:00:00Z",
+              "image": null
+            },
+            {
+              "title": "Janus Henderson Brings Tokenized Nasdaq-100 Fund JQQQ to Stellar",
+              "description": "Janus Henderson launches the JQQQ tokenized Nasdaq-100 fund on Stellar, bringing licensed index exposure to professional investors outside the US.\nThe post Janus Henderson Brings Tokenized Nasdaq-100 Fund JQQQ to Stellar appeared first on Bitcoin Foundation.",
+              "url": "https://bitcoinfoundation.org/news/blockchain-news/janus-henderson-brings-tokenized-nasdaq-100-fund-jqqq-to-stellar/",
+              "source": "Bitcoinfoundation.org",
+              "published": "2026-10-29T06:51:29Z",
+              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/janus-henderson-brings-tokenized-nasdaq-100-fund-jqqq-to-stellar.webp"
+            },
             {
               "title": "JPMorgan, Coca-Cola Among 7 More Companies Objecting to OKX-ICE Tokenized Stocks",
               "description": "Seven more companies, including JPMorgan Chase, Coca-Cola and Dell, have objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 33.",
@@ -252,60 +341,12 @@
               "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/11/jp-morgan-decrypt-style-gID_7.jpg"
             },
             {
-              "title": "Growing List of Firms Object to OKX-ICE Tokenized Stock Plans",
-              "description": "Intel, Oracle, IBM and IonQ have joined a growing list of companies objecting to having tokenized versions of their shares traded through OKX and Intercontinental Exchange's blockchain venture, bringing the total number of objections to 26. About 37% of the c…",
-              "url": "https://news.slashdot.org/story/26/10/27/2130245/growing-list-of-firms-object-to-okx-ice-tokenized-stock-plans",
-              "source": "Slashdot.org",
-              "published": "2026-10-27T22:00:00Z",
-              "image": "https://a.fsdn.com/sd/topics/bitcoin_64.png"
-            },
-            {
-              "title": "Intel, Oracle, IBM Join Objections to OKX-ICE Tokenized Stock Venue, Bringing Total to 26",
-              "description": "Intel, Oracle, IBM, and IonQ became the latest companies to object to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 26.",
-              "url": "https://decrypt.co/381998/intel-oracle-ibm-join-objections-okx-ice-tokenized-stock-total-26",
-              "source": "Decrypt",
-              "published": "2026-10-27T18:46:02Z",
-              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/05/intel-logo-decrypt-style-01-gID_7.png"
-            },
-            {
-              "title": "Intel, Oracle, IBM join growing list of firms objecting to OKX–ICE tokenized stock plans",
-              "description": "Intel, Oracle, IBM join growing list of firms objecting to OKX–ICE tokenized stock plans\nThe latest notice added four objections, bringing the total to 26 as the joint venture prepares to test the SEC’s new framework for blockchain-based stock trading.\n- IBM,…",
-              "url": "https://biztoc.com/x/4c9c7cebbae6df66",
-              "source": "Biztoc.com",
-              "published": "2026-10-27T18:28:53Z",
-              "image": "https://biztoc.com/cdn/4c9c7cebbae6df66_s.webp"
-            },
-            {
-              "title": "Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund",
-              "description": "The $500 billion asset manager is launching an issuer-sponsored fund on Stellar, taking a different approach from third-party stock tokens.",
-              "url": "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund",
-              "source": "CoinDesk",
-              "published": "2026-10-27T14:21:10Z",
-              "image": "https://cdn.sanity.io/images/s3y3vcno/production/60d78c8a6f29390ee0f01e24c3716375d109cf64-4428x2990.jpg?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75"
-            },
-            {
               "title": "Post-Quantum Cryptography Market worth $3.80 billion by 2031 - Report by MarketsandMarkets™",
               "description": "DELRAY BEACH, Fla., Oct. 27, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Post-Quantum Cryptography Market is projected to grow from USD 0.60 billion in 2026 to USD 3.80 billion by 2031, registering a CAGR of 44.5% during the forecast period. Bro…",
               "url": "https://www.prnewswire.co.uk/news-releases/post-quantum-cryptography-market-worth-3-80-billion-by-2031--report-by-marketsandmarkets-302920602.html",
               "source": "PR Newswire UK",
               "published": "2026-10-27T14:01:00Z",
               "image": "https://mmx.prnewswire.com/media/MS1173081/MarketsandMarkets-Logo.jpg?id=OA3041484&p=facebook"
-            },
-            {
-              "title": "Bitcoin-mining smart rod makes you money while heating your home water",
-              "description": "Heatbit makes a couple of clever home appliances that combine essential heating functions with Bitcoin mining – potentially earning you some money while you use them. Its latest product is designed to ensure you have hot showers on demand, and hopefully earn …",
-              "url": "https://newatlas.com/around-the-home/heatbit-bitwater-water-heater-bitcoin-miner/",
-              "source": "New Atlas",
-              "published": "2026-10-27T06:33:00Z",
-              "image": "https://assets.newatlas.com/dims4/default/3cece6b/2147483647/strip/true/crop/1200x630+0+85/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F5c%2F61%2Fa9a4ebcd40c1898f12dd7f75d64e%2Fthis-heating-element-for-your-water-tank-is-hiding-an-entire-bitcoin-mining-system-inside.jpg&na.image_optimisation=0"
-            },
-            {
-              "title": "Injective launches onchain futures market tracking Nvidia GPU rental costs",
-              "description": "The new index tracks rental prices for five Nvidia GPUs, offering leveraged trading and potential hedging against fluctuations in AI computing costs.",
-              "url": "https://cointelegraph.com/news/injective-launches-onchain-futures-market-tracking-nvidia-gpu-rental-costs",
-              "source": "Cointelegraph",
-              "published": "2026-10-26T21:23:32Z",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WWZSHJKJSXHRGBMZY1WZXE/hi-how-to-train-an-ai-bot-to-day-trade-crypto2.png"
             }
           ]
         }
