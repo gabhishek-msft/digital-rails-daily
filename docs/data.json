@@ -1,5 +1,5 @@
 {
-  "date": "October 31, 2026",
+  "date": "November 01, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -78,6 +78,14 @@
       "color": "#e6a200",
       "articles": [
         {
+          "title": "Life Imitates Art: The $6.3 Billion Binance Hack",
+          "description": "Someone stole $6.3 billion from Binance ten days after I published the last chapter of Zero Knowledge. Some of the coverage reads like chapters I already wrote.",
+          "url": "https://feld.com/archives/2026/10/life-imitates-art-binance-hack/",
+          "source": "Feld.com",
+          "published": "2026-10-31T04:03:55Z",
+          "image": "https://feld.com/og-default.png"
+        },
+        {
           "title": "Zcash turns 10 as privacy coin rides upgrades and ETF interest",
           "description": "Zcash's decade-long evolution highlights the growing importance of privacy in crypto, with institutional interest signaling mainstream acceptance.\nThe post Zcash turns 10 as privacy coin rides upgrades and ETF interest appeared first on Crypto Briefing.",
           "url": "https://cryptobriefing.com/zcash-10th-anniversary-privacy-upgrades-etf/",
@@ -109,12 +117,60 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Walmart, Microsoft and JPMorgan block NYSE-backed venture from tokenizing their shares",
-          "description": "Trading fees reward the venue, while issuers weigh pricing risks and a 30-day window to block a third-party proposal.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
-          "url": "https://cryptoslate.com/walmart-microsoft-and-jpmorgan-block-nyse-backed-venture-from-tokenizing-their-shares/",
+          "title": "Why Ripple’s $16 trillion payment volume isn’t boosting XRP",
+          "description": "Buying XRP doesn’t give you shares in Ripple, although the company’s growing list of new ventures and financial partners makes it easy to assume their fortunes should move together. Ripple can earn a lot of money from those relationships without passing a dol…",
+          "url": "https://cryptoslate.com/ripple-is-winning-everywhere-so-why-isnt-xrp/",
           "source": "CryptoSlate",
-          "published": "2026-10-30T09:10:06Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/10/stock-token-checkpoint.webp"
+          "published": "2026-10-31T11:20:56Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/10/xrp-institutional-demand-gap.webp"
+        },
+        {
+          "title": "Binance $6.3B record hack sparks pre-election political chatter",
+          "description": "Some political and administration figures tried to make hay of the biggest-ever crypto heist.",
+          "url": "https://cointelegraph.com/news/binance-63b-record-hack-sparks-pre-election-political-chatter",
+          "source": "Cointelegraph",
+          "published": "2026-10-31T09:58:50Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M50GBDK9V1K1J9DSAGNBWX7S/us-binance.jpg"
+        },
+        {
+          "title": "How thematic investing is changing the way Indians approach crypto",
+          "description": "In India, investors are increasingly embracing thematic investing as they explore cryptocurrency and other sectors. This innovative investment style allows individuals to focus on specific trends and ideas rather than sticking to conventional categories. To s…",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/how-thematic-investing-is-changing-the-way-indians-approach-crypto/articleshow/135392205.cms",
+          "source": "The Times of India",
+          "published": "2026-10-31T07:14:24Z",
+          "image": "https://img.etimg.com/thumb/msid-135392584,width-1200,height-900,imgsize-121340,overlay-economictimes/articleshow.jpg"
+        },
+        {
+          "title": "CFTC Chair Ties the Binance Breach to His Exchange-Oversight Proposal — It Would Offer a Federal Option, Not Compel One",
+          "description": "CFTC Chairman Michael Selig did not treat the Binance breach as just another offshore security failure. On CNBC’s Squawk on the Street Friday, he read the approximately $6.3 billion hot-wallet drain as evidence for a framework the agency proposed weeks earlie…",
+          "url": "https://forkast.news/cftc-chair-ties-the-binance-breach-to-his-exchange-oversight-proposal-it-would-offer-a-federal-option-not-compel-one/",
+          "source": "Forkast.news",
+          "published": "2026-10-30T20:22:03Z",
+          "image": "https://forkast.news/wp-content/uploads/2026/10/d-fri-e-cftc-binance-federal-option-1024x687.jpg"
+        },
+        {
+          "title": "Binance Hack: Why Bitcoin Didn't Crash Like It Did in 2018",
+          "description": "Binance lost about $6.4 billion, the largest crypto hack on record, yet Bitcoin fell about 3%, against nearly 11% in 2018 when the exchange was last attacked.",
+          "url": "https://decrypt.co/382257/binance-hack-why-bitcoin-didnt-crash",
+          "source": "Decrypt",
+          "published": "2026-10-30T18:45:03Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Bitcoin-decrypt-style-14-gID_7.png"
+        },
+        {
+          "title": "Galaxy Digital Seeks Bank Charter to Expand Financial Services Reach",
+          "description": "Digital assets and data infrastructure company Galaxy Digital aims to create a national trust bank that would provide fiduciary investment advisory services along with Galaxy’s custody, trading and staking services, the company said in a Thursday (Oct. 29) pr…",
+          "url": "https://www.pymnts.com/news/banking/2026/galaxy-digital-seeks-bank-charter-to-expand-financial-services-reach/",
+          "source": "pymnts.com",
+          "published": "2026-10-30T18:42:13Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2024/07/OCC-1.jpg"
+        },
+        {
+          "title": "Why bitcoin held up better after the record Binance hack",
+          "description": "Bitcoin was trading down about 4% on Friday afternoon, less than a day after the biggest crypto hack in history.",
+          "url": "https://www.cnbc.com/2026/10/30/binance-hack-bitcoin-price.html",
+          "source": "CNBC",
+          "published": "2026-10-30T18:07:00Z",
+          "image": "https://image.cnbcfm.com/api/v1/image/108484198-1793330361900-gettyimages-2206279872-AA_25032025_2144027.jpeg?v=1793379056&w=1920&h=1080"
         },
         {
           "title": "Ripple Moves Deeper Into Banking With Stablecoin Deals",
@@ -123,54 +179,6 @@
           "source": "pymnts.com",
           "published": "2026-10-30T08:00:35Z",
           "image": "https://www.pymnts.com/wp-content/uploads/2021/01/ripple-1.jpg"
-        },
-        {
-          "title": "Cryptocurrency exchange Binance freezes assets after $6.3bn heist",
-          "description": "The hack is believed to be the biggest in cryptocurrency history, according to analysts",
-          "url": "https://www.irishtimes.com/business/financial-services/2026/10/30/cryptocurrency-exchange-binance-freezes-assets-after-63bn-heist/",
-          "source": "The Irish Times",
-          "published": "2026-10-30T07:49:11Z",
-          "image": "https://www.irishtimes.com/resizer/v2/ENZOOUV7RHCXBPFDHKPNS2PFIM.jpg?smart=true&auth=7a07ee111db0c9b5dda9741917e540077a7e881c06c77b9de2491d48226ed32d&width=1200&height=630"
-        },
-        {
-          "title": "Cryptocurrency exchange Binance freezes assets after $6.3 billion heist",
-          "description": "The hack is believed to be the biggest in cryptocurrency history, according to analysts",
-          "url": "https://www.irishtimes.com/wires/reuters/business/2026/10/30/cryptocurrency-exchange-binance-freezes-assets-after-63-billion-heist/",
-          "source": "The Irish Times",
-          "published": "2026-10-30T07:09:11Z",
-          "image": "https://www.irishtimes.com/resizer/v2/ENZOOUV7RHCXBPFDHKPNS2PFIM.jpg?smart=true&auth=7a07ee111db0c9b5dda9741917e540077a7e881c06c77b9de2491d48226ed32d&width=1200&height=630"
-        },
-        {
-          "title": "The $6.3 Billion Binance Hack: Why Gold and Silver Are the Only Safe Haven",
-          "description": "Introduction: The $6.3 Billion Binance Hack The world’s largest cryptocurrency exchange just suffered what may be the single largest heist in financial history. Early reports point to a staggering $6.3 billion in losses, and the fallout is still being tallied…",
-          "url": "https://www.naturalnews.com/2026-10-30-why-gold-silver-are-only-safe-haven.html",
-          "source": "Naturalnews.com",
-          "published": "2026-10-30T06:00:00Z",
-          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/binance-hack-crypto-exchange-vulnerability-self-custody-5899-1793344310323-9c8f1227-original.jpg"
-        },
-        {
-          "title": "DTCC launches tokenization service with 20 banks including Citi and JPMorgan",
-          "description": "DTCC subsidiary DTC launched a tokenization service letting eligible clients mint securities held in its $114 trillion custody base into wallet-ready tokens, with Citi, JPMorgan and 18 other participants signed on.\nThe post DTCC launches tokenization service …",
-          "url": "https://www.valuewalk.com/dtcc-tokenization-service-live-20-banks/",
-          "source": "ValueWalk",
-          "published": "2026-10-29T22:29:37Z",
-          "image": "https://www.valuewalk.com/wp-content/uploads/2026/10/senseserp-1793312956-150x150.jpg"
-        },
-        {
-          "title": "Janus Henderson Launches Tokenized Nasdaq-100 Fund JQQQ on Stellar",
-          "description": "Janus Henderson and Centrifuge have launched JQQQ, an issuer-sponsored blockchain-native fund seeking exposure to the Nasdaq-100 Index through the Stellar network.",
-          "url": "https://www.newsbtc.com/news/janus-henderson-launches-tokenized-nasdaq-100-fund-jqqq-on-stellar/",
-          "source": "newsBTC",
-          "published": "2026-10-29T03:00:00Z",
-          "image": null
-        },
-        {
-          "title": "Bitcoin faces fresh pressure after Fed’s hawkish rate hold: Analysts",
-          "description": "Traders are pricing in a 78% chance of a December rate hike, while analysts say Treasury yields, the US dollar and upcoming inflation data could determine Bitcoin’s next move.",
-          "url": "https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts",
-          "source": "Cointelegraph",
-          "published": "2026-10-29T01:12:01Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M62K842329DANXYCBBC56CQQ/hi-5-tips-for-investing-during-a-global-recession.jpg"
         }
       ]
     },
@@ -180,20 +188,44 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Binance Estimates $6.3 Billion Hacked in Crypto’s Biggest-Ever Heist",
-          "description": "Binance, the world’s largest cryptocurrency exchange, has suffered the industry’s biggest-ever hack in a fresh blow to efforts to push digital assets into the mainstream.Binance Holdings on Friday said $6.3 billion worth of funds were affected, with $3 billio…",
-          "url": "https://www.insurancejournal.com/news/international/2026/10/30/890894.htm",
-          "source": "Insurance Journal",
-          "published": "2026-10-30T07:41:43Z",
-          "image": "https://www.insurancejournal.com/app/uploads/2026/10/binance-logo-bloomberg-scaled.jpg"
+          "title": "The $6.3bn Binance hack explained — 5 things you need to know",
+          "description": "How can $6.36 billion in currency be stolen in less than 20 minutes? Will any money be returned? We've got the answers.",
+          "url": "https://www.techradar.com/computing/blockchain-crypto/the-biggest-hack-in-history-5-things-you-need-to-know-about-the-usd6-3bn-binance-heist-even-if-you-dont-own-crypto",
+          "source": "TechRadar",
+          "published": "2026-10-31T09:00:00Z",
+          "image": "https://cdn.mos.cms.futurecdn.net/VnoVVXTmAmxSBYBe4LUwVW-1919-80.jpg"
         },
         {
-          "title": "Mirae Asset Issues Tokenized Dollar Notes on Solana for Professional Investors",
-          "description": "Mirae Asset Securities’ Hong Kong unit announced the completion of a tokenized funding-note issuance on Solana for eligible institutional investors. For.",
-          "url": "https://www.newsbtc.com/news/mirae-asset-issues-tokenized-dollar-notes-on-solana-for-professional-investors/",
-          "source": "newsBTC",
-          "published": "2026-10-30T05:00:00Z",
-          "image": null
+          "title": "Uber joins HSBC, Franklin Templeton in blockchain investing test",
+          "description": "Uber pilots blockchain-powered treasury with HSBC, Franklin Templeton tokenized funds, aiming for higher yields and liquidity amid corporate cash shifts",
+          "url": "https://www.thehindubusinessline.com/money-and-banking/uber-joins-hsbc-franklin-templeton-in-blockchain-investing-test/article71648182.ece",
+          "source": "BusinessLine",
+          "published": "2026-10-31T04:38:51Z",
+          "image": "https://bl-i.thgim.com/public/incoming/49z5j3/article71648260.ece/alternates/LANDSCAPE_1200/IMG_bl01_Block_chain_2_1_I99LJT0P.jpg"
+        },
+        {
+          "title": "FBI, Secret Service join probe as $6 bn Binance hack rattles crypto markets",
+          "description": "The US agencies are coordinating with private-sector partners to assess the breach and recover stolen funds, while Binance pledged to cover all losses",
+          "url": "https://www.business-standard.com/markets/cryptocurrency/fbi-secret-service-join-probe-as-6-bn-binance-hack-rattles-crypto-markets-126103100226_1.html",
+          "source": "Business Standard",
+          "published": "2026-10-31T03:57:03Z",
+          "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/31/thumb/fitandfill/1200X628/1793418061-239.jpg"
+        },
+        {
+          "title": "The World’s Biggest Crypto Heist",
+          "description": "Suspected North Korean hackers stole $6.36 billion in digital coins from Binance.",
+          "url": "http://foreignpolicy.com/2026/10/30/binance-cryptocurrency-hack-north-korea/",
+          "source": "Foreign Policy",
+          "published": "2026-10-30T20:44:08Z",
+          "image": "https://foreignpolicy.com/wp-content/uploads/2026/10/BinanceHack-GettyImages-2302659527.jpg"
+        },
+        {
+          "title": "Will gold’s ‘infinite mint bug’ make Bitcoin more valuable?",
+          "description": "A US fusion startup says it has turned mercury into gold. Could a potential increase in the gold supply strengthen Bitcoin’s claim to be a better form of digital gold?",
+          "url": "https://cointelegraph.com/magazine/will-golds-infinite-mint-bug-make-bitcoin-more-valuable",
+          "source": "Cointelegraph",
+          "published": "2026-10-30T13:30:00Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M63WZ15V7ZF12NWAD2K229V7/hi-magazine-unexpected-crypto-millionaires.png"
         },
         {
           "title": "Designing a blockchain-enabled certification framework for food loss and waste reduction: a proof-of-concept in the fresh food supply chain",
@@ -202,14 +234,6 @@
           "source": "Nature.com",
           "published": "2026-10-30T00:00:00Z",
           "image": null
-        },
-        {
-          "title": "A new cybercrime campaign uses fake AI apps with real-sounding names to infect people curious to try the newest tools",
-          "description": "Experts warn ChatGPT and Claude are once again being spoofed to trick victims into installing a cryptocurrency miner.",
-          "url": "https://www.techradar.com/pro/security/a-new-cybercrime-campaign-uses-fake-ai-apps-with-real-sounding-names-to-infect-people-curious-to-try-the-newest-tools",
-          "source": "TechRadar",
-          "published": "2026-10-29T18:05:00Z",
-          "image": "https://cdn.mos.cms.futurecdn.net/f3ndAhPtpLWkUorZzcc499-2560-80.jpg"
         },
         {
           "title": "Piero Cipollone: Next-day securities settlement, tokenisation and the transformation of Europe’s financial infrastructure",
@@ -226,22 +250,6 @@
           "source": "PR Newswire UK",
           "published": "2026-10-28T13:43:00Z",
           "image": "https://mmx.prnewswire.com/media/MS1987718/Equilend-Logo.jpg?id=OA3044560&p=facebook"
-        },
-        {
-          "title": "Crypto blitzes midterms with $176 million to support allies as it prepares for post-Trump era",
-          "description": "NEW YORK, Oct 27 : The crypto industry has spent roughly $176 million across more than 100 midterm races this election cycle, as part of a years-long plan to build a bipartisan coalition of allies in Congress that can advance its interests long after US Presi…",
-          "url": "https://www.channelnewsasia.com/business/crypto-blitzes-midterms-176-million-support-allies-it-prepares-post-trump-era-6496136",
-          "source": "CNA",
-          "published": "2026-10-27T10:03:07Z",
-          "image": "https://dam.mediacorp.sg/image/upload/s--e0FoiyfL--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-10-27T100307Z_1_LYNXNPEM9Q0TP_RTROPTP_3_USA-ELECTION-CRYPTO-STRATEGY.JPG?itok=wVhJcOxA"
-        },
-        {
-          "title": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
-          "description": "This2Shell, That2Shell, Everything2Shell. That's pretty much how the last week went. Critical bugs that let attackers run code remotely are showing up everywhere. Hackers are scanning for targets, some flaws are already being used in attacks, and security tea…",
-          "url": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
-          "source": "Internet",
-          "published": "2026-10-26T14:06:13Z",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjztmxBbaYZEAd_HSv1heMQm8UuLym1h7XcN8NrgWjJmaoghOIR2O1rHwQzunUd9jlQn4R_8ft4Y0K9xLQOhs2xM8vVh1eHoEsZIFonHd7K6TA1cd0aIJ6jK-K2RNVBCwMfQwq7WWpuFtB8inWvubRjIEw_9fetsRFllw-fsAAnjCnpMCqFIL28ovMhJwbd/s1700-nu-rw-lo-l85-e365/recap2monday.jpg"
         }
       ]
     },
@@ -253,44 +261,35 @@
         "startups": {
           "title": "Startups",
           "icon": "💡",
-          "articles": [
-            {
-              "title": "Today's Cryptogram",
-              "description": "Hiya kids! Hiya, Hiya!Good Morning Crypto-FReepers.I see some of the same old faces out there.But that's OK - I like you anyway.May . . . Ha Ha Ha!I'll be good - I will, (like heck) I will, I will. Ha ha ha.This is today's quote: TIE ZGB ZKQN EGX ...CGA NQNAE…",
-              "url": "https://freerepublic.com/focus/f-chat/4401119/posts",
-              "source": "Freerepublic.com",
-              "published": "2026-10-30T09:32:05Z",
-              "image": null
-            },
-            {
-              "title": "Bitcoin hits 6-week low, drops below $78,000 as Binance’s $6 billion hack rattles crypto markets. What should investors do?",
-              "description": "Bitcoin fell more than 4% to a six-week low below $78,000, while Ether and BNB also slumped after a reported $6.3 billion security breach at Binance rattled crypto markets. Analysts flagged key support levels and advised investors against panic selling or agg…",
-              "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-hits-6-week-low-drops-below-78000-as-binances-6-billion-hack-rattles-crypto-markets-what-should-investors-do/articleshow/135349699.cms",
-              "source": "The Times of India",
-              "published": "2026-10-30T07:29:59Z",
-              "image": "https://img.etimg.com/thumb/msid-135349791,width-1200,height-900,imgsize-258708,overlay-etmarkets/articleshow.jpg"
-            },
-            {
-              "title": "Best AI trading platform 2026 – 7 tools compared for stocks, crypto, forex, and Beginners",
-              "description": "Choosing an ai trading platform starts with the job, not the brand. Trade Ideas suits active stock scanning, while TrendSpider covers broader technical research. Capitalise.ai...\nThe post Best AI trading platform 2026 – 7 tools compared for stocks, crypto, fo…",
-              "url": "https://bitcoinfoundation.org/news/ai/best-ai-trading-platform/",
-              "source": "Bitcoinfoundation.org",
-              "published": "2026-10-30T07:23:04Z",
-              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/best-ai-trading-platform-01.webp"
-            }
-          ]
+          "articles": []
         },
         "hyperscalers": {
           "title": "Hyperscalers",
           "icon": "☁️",
           "articles": [
             {
-              "title": "Binance finds 'additional points of breach' in $6.3 billion crypto heist",
-              "description": "Binance, the world's largest crypto exchange, said it had identified more \"points of breach\" in a \"complex\" $6.3 billion hack.",
-              "url": "https://www.businessinsider.com/binance-hack-crypto-heist-latest-bitcoin-breach-funds-withdrawals-2026-10#article",
-              "source": "Business Insider",
-              "published": "2026-10-30T11:15:58Z",
-              "image": "https://i.insider.com/6ae4708f120d8ce03d246712?width=1200&format=jpeg"
+              "title": "How North Korea’s ruthless state sponsored hackers, main suspects in the $6.3B Binance heist, operate",
+              "description": "“They attack people, not code,” an expert told The Post.",
+              "url": "https://nypost.com/2026/10/30/tech/how-north-koreas-ruthless-state-sponsored-hackers-main-suspects-in-the-6-3b-binance-heist-operate/",
+              "source": "New York Post",
+              "published": "2026-10-30T22:51:35Z",
+              "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-0bh39k8e3-1793400132905.jpg?quality=75&strip=all&1793385747&w=1200"
+            },
+            {
+              "title": "Hackers Just Committed Largest Crypto Heist In History As Cybersecurity Fears Reach Fever Pitch",
+              "description": "Hackers stole approximately $6.3 billion from Binance in a record-breaking cryptocurrency heist linked to North Korea, while a separate Polymarket breach raised fresh concerns about digital asset security.",
+              "url": "https://dailycaller.com/2026/10/30/hackers-steal-63-billion-from-binance-in-record-breaking-heist-linked-to-north-korea",
+              "source": "The Daily Caller",
+              "published": "2026-10-30T15:57:40Z",
+              "image": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2021/04/crypto-1.jpg"
+            },
+            {
+              "title": "Walmart, Microsoft and JPMorgan block NYSE-backed venture from tokenizing their shares",
+              "description": "Trading fees reward the venue, while issuers weigh pricing risks and a 30-day window to block a third-party proposal.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+              "url": "https://cryptoslate.com/walmart-microsoft-and-jpmorgan-block-nyse-backed-venture-from-tokenizing-their-shares/",
+              "source": "CryptoSlate",
+              "published": "2026-10-30T09:10:06Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/10/stock-token-checkpoint.webp"
             },
             {
               "title": "Multicoin wants to turn AI chips into collateral for crypto’s next lending boom",
@@ -301,52 +300,12 @@
               "image": "https://cryptoslate.com/wp-content/uploads/2026/10/susdai-vault-access-limits.webp"
             },
             {
-              "title": "Walmart Blocks Its Stock From OKX-ICE Tokenized Trading Venue",
-              "description": "Walmart, Eli Lilly, Cigna, Carniva,l and Arcos Dorados objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 38.",
-              "url": "https://decrypt.co/382145/walmart-blocks-stock-okx-ice-tokenized-trading-venue",
-              "source": "Decrypt",
-              "published": "2026-10-29T15:07:15Z",
-              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/03/shutterstock_11416303911-gID_4.jpg"
-            },
-            {
               "title": "Why Oracle, Intel, and IBM are saying no to blockchain-based stock trading",
               "description": "As tokenized stock trading continues to gain traction, so too does the list of companies that object to it. In the video above, Scott Melker outlines key details of the objections from Oracle (ORCL), IBM (IBM), Intel (INTC), and others.",
               "url": "https://biztoc.com/x/30e2a1554d9eaec2",
               "source": "Biztoc.com",
               "published": "2026-10-29T12:40:15Z",
               "image": "https://biztoc.com/cdn/30e2a1554d9eaec2_s.webp"
-            },
-            {
-              "title": "SettleMint Integrates Its Digital Asset Lifecycle Platform with IBM Digital Asset Haven",
-              "description": "Financial institutions and regulated entities can manage tokenized assets based on their regulatory environments and operational needs. The integration brings together digital asset custody, transaction controls and lifecycle management. LEUVEN, Belgium, Oct.…",
-              "url": "https://www.prnewswire.co.uk/news-releases/settlemint-integrates-its-digital-asset-lifecycle-platform-with-ibm-digital-asset-haven-302922335.html",
-              "source": "PR Newswire UK",
-              "published": "2026-10-29T08:00:00Z",
-              "image": null
-            },
-            {
-              "title": "Janus Henderson Brings Tokenized Nasdaq-100 Fund JQQQ to Stellar",
-              "description": "Janus Henderson launches the JQQQ tokenized Nasdaq-100 fund on Stellar, bringing licensed index exposure to professional investors outside the US.\nThe post Janus Henderson Brings Tokenized Nasdaq-100 Fund JQQQ to Stellar appeared first on Bitcoin Foundation.",
-              "url": "https://bitcoinfoundation.org/news/blockchain-news/janus-henderson-brings-tokenized-nasdaq-100-fund-jqqq-to-stellar/",
-              "source": "Bitcoinfoundation.org",
-              "published": "2026-10-29T06:51:29Z",
-              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/10/janus-henderson-brings-tokenized-nasdaq-100-fund-jqqq-to-stellar.webp"
-            },
-            {
-              "title": "JPMorgan, Coca-Cola Among 7 More Companies Objecting to OKX-ICE Tokenized Stocks",
-              "description": "Seven more companies, including JPMorgan Chase, Coca-Cola and Dell, have objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 33.",
-              "url": "https://decrypt.co/382043/jpmorgan-coca-cola-7-more-companies-objecting-okx-ice-tokenized-stocks",
-              "source": "Decrypt",
-              "published": "2026-10-28T15:05:03Z",
-              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/11/jp-morgan-decrypt-style-gID_7.jpg"
-            },
-            {
-              "title": "Post-Quantum Cryptography Market worth $3.80 billion by 2031 - Report by MarketsandMarkets™",
-              "description": "DELRAY BEACH, Fla., Oct. 27, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Post-Quantum Cryptography Market is projected to grow from USD 0.60 billion in 2026 to USD 3.80 billion by 2031, registering a CAGR of 44.5% during the forecast period. Bro…",
-              "url": "https://www.prnewswire.co.uk/news-releases/post-quantum-cryptography-market-worth-3-80-billion-by-2031--report-by-marketsandmarkets-302920602.html",
-              "source": "PR Newswire UK",
-              "published": "2026-10-27T14:01:00Z",
-              "image": "https://mmx.prnewswire.com/media/MS1173081/MarketsandMarkets-Logo.jpg?id=OA3041484&p=facebook"
             }
           ]
         }
