@@ -1,5 +1,5 @@
 {
-  "date": "November 01, 2026",
+  "date": "November 02, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -78,6 +78,14 @@
       "color": "#e6a200",
       "articles": [
         {
+          "title": "Binance Withdrawals Set to Resume Nov. 1 After 95% Asset Recovery",
+          "description": "Binance plans to restart withdrawals in stages on Nov. 1 after replacing about 95% of assets stolen in a $6.3 billion breach, subject to security checks.\nThe post Binance Withdrawals Set to Resume Nov. 1 After 95% Asset Recovery appeared first on Bitcoin Foun…",
+          "url": "https://bitcoinfoundation.org/news/companies/binance-withdrawals-set-to-resume-nov-1-after-95-asset-recovery/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-11-01T08:13:15Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/binance-withdrawals-set-to-resume-nov-1-after-95-asset-recovery.webp"
+        },
+        {
           "title": "Life Imitates Art: The $6.3 Billion Binance Hack",
           "description": "Someone stole $6.3 billion from Binance ten days after I published the last chapter of Zero Knowledge. Some of the coverage reads like chapters I already wrote.",
           "url": "https://feld.com/archives/2026/10/life-imitates-art-binance-hack/",
@@ -117,28 +125,52 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Why Ripple’s $16 trillion payment volume isn’t boosting XRP",
-          "description": "Buying XRP doesn’t give you shares in Ripple, although the company’s growing list of new ventures and financial partners makes it easy to assume their fortunes should move together. Ripple can earn a lot of money from those relationships without passing a dol…",
-          "url": "https://cryptoslate.com/ripple-is-winning-everywhere-so-why-isnt-xrp/",
-          "source": "CryptoSlate",
-          "published": "2026-10-31T11:20:56Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/10/xrp-institutional-demand-gap.webp"
+          "title": "Germany’s Largest Bank Prepares Crypto Custody Launch, With Asia Expansion to Follow",
+          "description": "In a matter of weeks, Deutsche Bank, Germany’s largest bank, will roll out its first digital asset custody service. Data shared earlier today revealed that the bank aims to tap growth in the digital economy by launching a crypto custody platform in the coming…",
+          "url": "https://zycrypto.com/germanys-largest-bank-prepares-crypto-custody-launch-with-asia-expansion-to-follow/",
+          "source": "ZyCrypto",
+          "published": "2026-11-01T14:14:48Z",
+          "image": null
         },
         {
-          "title": "Binance $6.3B record hack sparks pre-election political chatter",
-          "description": "Some political and administration figures tried to make hay of the biggest-ever crypto heist.",
-          "url": "https://cointelegraph.com/news/binance-63b-record-hack-sparks-pre-election-political-chatter",
+          "title": "Ripple Releases 1 Billion XRP in November Escrow Unlock",
+          "description": "Ripple released 1 billion XRP in the November XRP escrow unlock, worth about $1.25 billion, but the net supply increase remains unclear for holders.\nThe post Ripple Releases 1 Billion XRP in November Escrow Unlock appeared first on Bitcoin Foundation.",
+          "url": "https://bitcoinfoundation.org/news/altcoins/ripple-releases-1-billion-xrp-in-november-escrow-unlock/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-11-01T11:18:48Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/ripple-releases-1-billion-xrp-in-november-escrow-unlock.webp"
+        },
+        {
+          "title": "Chainalysis Finds $443B MENA Crypto Economy as UAE Growth Outpaces Region",
+          "description": "The United Arab Emirates was reported to have grown 32% to about $104.8 billion, while Türkiye remained larger at around $144.5 billion. The",
+          "url": "https://www.newsbtc.com/news/chainalysis-finds-443b-mena-crypto-economy-as-uae-growth-outpaces-region/",
+          "source": "newsBTC",
+          "published": "2026-11-01T02:00:00Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2026/09/Newsbtc-Image.jpg"
+        },
+        {
+          "title": "FBI says North Korea was behind $6 billion crypto theft from Binance",
+          "description": "Investing.com -- The FBI has accused North Korea of orchestrating the $6.3 billion cryptocurrency hack targeting Binance, identifying a state-linked hacking group responsible for previous major crypto thefts as the perpetrators.Still guessing which stocks wil…",
+          "url": "https://www.yahoo.com/news/us/articles/fbi-links-record-6-3-010848750.html",
+          "source": "Yahoo Entertainment",
+          "published": "2026-11-01T01:08:48Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/906d28ba0213896f40fdb12337e853169a241bf8f0aac9e8c9df0e73191d3815/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fs.yimg.com%2Fcv%2Fapiv2%2Fsocial%2Fimages%2Fyahoo_default_logo-1200x1200.png"
+        },
+        {
+          "title": "Hanwha Chooses Chainlink Data and CCIP for Global Tokenization Platform",
+          "description": "The proposal covers more than representing an asset with an on-chain token. A strategic partnership does not establish that the platform is fully",
+          "url": "https://www.newsbtc.com/news/hanwha-chooses-chainlink-data-and-ccip-for-global-tokenization-platform/",
+          "source": "newsBTC",
+          "published": "2026-10-31T20:00:00Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2026/06/Untitled-design-51.jpg"
+        },
+        {
+          "title": "Bitcoin turns 18: Has the original rebel grown up?",
+          "description": "In typical Bitcoin style, the number one cryptocurrency turns 18 today, amid AI-driven security threats, quantum fears and the biggest exchange hack in crypto history.",
+          "url": "https://cointelegraph.com/magazine/bitcoin-turns-18-has-the-original-rebel-grown-up",
           "source": "Cointelegraph",
-          "published": "2026-10-31T09:58:50Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M50GBDK9V1K1J9DSAGNBWX7S/us-binance.jpg"
-        },
-        {
-          "title": "How thematic investing is changing the way Indians approach crypto",
-          "description": "In India, investors are increasingly embracing thematic investing as they explore cryptocurrency and other sectors. This innovative investment style allows individuals to focus on specific trends and ideas rather than sticking to conventional categories. To s…",
-          "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/how-thematic-investing-is-changing-the-way-indians-approach-crypto/articleshow/135392205.cms",
-          "source": "The Times of India",
-          "published": "2026-10-31T07:14:24Z",
-          "image": "https://img.etimg.com/thumb/msid-135392584,width-1200,height-900,imgsize-121340,overlay-economictimes/articleshow.jpg"
+          "published": "2026-10-31T14:27:52Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66D6NEJQ63776RRBN8K6ZNJ/magazine-crypto-idealism.png"
         },
         {
           "title": "CFTC Chair Ties the Binance Breach to His Exchange-Oversight Proposal — It Would Offer a Federal Option, Not Compel One",
@@ -155,30 +187,6 @@
           "source": "Decrypt",
           "published": "2026-10-30T18:45:03Z",
           "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Bitcoin-decrypt-style-14-gID_7.png"
-        },
-        {
-          "title": "Galaxy Digital Seeks Bank Charter to Expand Financial Services Reach",
-          "description": "Digital assets and data infrastructure company Galaxy Digital aims to create a national trust bank that would provide fiduciary investment advisory services along with Galaxy’s custody, trading and staking services, the company said in a Thursday (Oct. 29) pr…",
-          "url": "https://www.pymnts.com/news/banking/2026/galaxy-digital-seeks-bank-charter-to-expand-financial-services-reach/",
-          "source": "pymnts.com",
-          "published": "2026-10-30T18:42:13Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2024/07/OCC-1.jpg"
-        },
-        {
-          "title": "Why bitcoin held up better after the record Binance hack",
-          "description": "Bitcoin was trading down about 4% on Friday afternoon, less than a day after the biggest crypto hack in history.",
-          "url": "https://www.cnbc.com/2026/10/30/binance-hack-bitcoin-price.html",
-          "source": "CNBC",
-          "published": "2026-10-30T18:07:00Z",
-          "image": "https://image.cnbcfm.com/api/v1/image/108484198-1793330361900-gettyimages-2206279872-AA_25032025_2144027.jpeg?v=1793379056&w=1920&h=1080"
-        },
-        {
-          "title": "Ripple Moves Deeper Into Banking With Stablecoin Deals",
-          "description": "Stablecoins continue to seek mainstream usage and acceptance, and this week, Ripple was at the forefront. The company spent the week securing more places for its dollar stablecoin to be held, traded and used. Agreements with Coinbase, Robinhood and BNY, along…",
-          "url": "https://www.pymnts.com/cryptocurrency/2026/ripple-moves-deeper-into-banking-with-stablecoin-deals/",
-          "source": "pymnts.com",
-          "published": "2026-10-30T08:00:35Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2021/01/ripple-1.jpg"
         }
       ]
     },
@@ -188,6 +196,30 @@
       "color": "#00cc88",
       "articles": [
         {
+          "title": "Binance Restarts Withdrawals as Questions Linger on Record Hack",
+          "description": "Binance began restoring customer withdrawals Sunday after hackers attempted to drain over $6 billion in the biggest cyber theft ever recorded, as the crypto industry awaits answers on the breach blamed on North Korea and steps to strengthen the exchange’s …",
+          "url": "https://www.insurancejournal.com/news/international/2026/11/01/891003.htm",
+          "source": "Insurance Journal",
+          "published": "2026-11-01T12:40:24Z",
+          "image": "https://www.insurancejournal.com/app/uploads/2026/11/binance-logo-on-smartphone-bloomberg-scaled.jpg"
+        },
+        {
+          "title": "Crypto industry suffers largest bank heist in human history as billions stolen in Binance hack",
+          "description": "According to TRM Labs, which tracks the industry, digital assets worth more than $6.3bn (£4.7bn) have been taken from Binance by North Korean hackers. This would be the largest cryptocurrency hack to date - and one of the biggest in financial history. Cryptoc…",
+          "url": "https://freerepublic.com/focus/f-news/4401343/posts",
+          "source": "Freerepublic.com",
+          "published": "2026-11-01T02:16:03Z",
+          "image": null
+        },
+        {
+          "title": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
+          "description": "Attackers tied to North Korea drained roughly $6.4 billion from the world’s largest crypto exchange. Here’s what we know about how it happened, who’s behind it, and what comes next.",
+          "url": "https://decrypt.co/382306/binance-hack-everything-you-need-to-know",
+          "source": "Decrypt",
+          "published": "2026-10-31T15:01:02Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/binance-decrypt-syle-01-gID_7.png"
+        },
+        {
           "title": "The $6.3bn Binance hack explained — 5 things you need to know",
           "description": "How can $6.36 billion in currency be stolen in less than 20 minutes? Will any money be returned? We've got the answers.",
           "url": "https://www.techradar.com/computing/blockchain-crypto/the-biggest-hack-in-history-5-things-you-need-to-know-about-the-usd6-3bn-binance-heist-even-if-you-dont-own-crypto",
@@ -196,28 +228,20 @@
           "image": "https://cdn.mos.cms.futurecdn.net/VnoVVXTmAmxSBYBe4LUwVW-1919-80.jpg"
         },
         {
+          "title": "How thematic investing is changing the way Indians approach crypto",
+          "description": "In India, investors are increasingly embracing thematic investing as they explore cryptocurrency and other sectors. This innovative investment style allows individuals to focus on specific trends and ideas rather than sticking to conventional categories. To s…",
+          "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/how-thematic-investing-is-changing-the-way-indians-approach-crypto/articleshow/135392205.cms",
+          "source": "The Times of India",
+          "published": "2026-10-31T07:14:24Z",
+          "image": "https://img.etimg.com/thumb/msid-135392584,width-1200,height-900,imgsize-121340,overlay-economictimes/articleshow.jpg"
+        },
+        {
           "title": "Uber joins HSBC, Franklin Templeton in blockchain investing test",
           "description": "Uber pilots blockchain-powered treasury with HSBC, Franklin Templeton tokenized funds, aiming for higher yields and liquidity amid corporate cash shifts",
           "url": "https://www.thehindubusinessline.com/money-and-banking/uber-joins-hsbc-franklin-templeton-in-blockchain-investing-test/article71648182.ece",
           "source": "BusinessLine",
           "published": "2026-10-31T04:38:51Z",
           "image": "https://bl-i.thgim.com/public/incoming/49z5j3/article71648260.ece/alternates/LANDSCAPE_1200/IMG_bl01_Block_chain_2_1_I99LJT0P.jpg"
-        },
-        {
-          "title": "FBI, Secret Service join probe as $6 bn Binance hack rattles crypto markets",
-          "description": "The US agencies are coordinating with private-sector partners to assess the breach and recover stolen funds, while Binance pledged to cover all losses",
-          "url": "https://www.business-standard.com/markets/cryptocurrency/fbi-secret-service-join-probe-as-6-bn-binance-hack-rattles-crypto-markets-126103100226_1.html",
-          "source": "Business Standard",
-          "published": "2026-10-31T03:57:03Z",
-          "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/31/thumb/fitandfill/1200X628/1793418061-239.jpg"
-        },
-        {
-          "title": "The World’s Biggest Crypto Heist",
-          "description": "Suspected North Korean hackers stole $6.36 billion in digital coins from Binance.",
-          "url": "http://foreignpolicy.com/2026/10/30/binance-cryptocurrency-hack-north-korea/",
-          "source": "Foreign Policy",
-          "published": "2026-10-30T20:44:08Z",
-          "image": "https://foreignpolicy.com/wp-content/uploads/2026/10/BinanceHack-GettyImages-2302659527.jpg"
         },
         {
           "title": "Will gold’s ‘infinite mint bug’ make Bitcoin more valuable?",
@@ -234,22 +258,6 @@
           "source": "Nature.com",
           "published": "2026-10-30T00:00:00Z",
           "image": null
-        },
-        {
-          "title": "Piero Cipollone: Next-day securities settlement, tokenisation and the transformation of Europe’s financial infrastructure",
-          "description": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
-          "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261029~e9b57c3495.en.html",
-          "source": "Europa.eu",
-          "published": "2026-10-29T15:50:00Z",
-          "image": "https://www.ecb.europa.eu/press/key/shared/img/socialmedia/social-default.jpg?0dbb2de262f4f1fcaeae410be132177a"
-        },
-        {
-          "title": "Equilend's 1Source DLT Adds Goldman Sachs",
-          "description": "Goldman Sachs joins BNY and National Bank of Canada on securities finance distributed ledger technology platform NEW YORK, Oct. 28, 2026 /PRNewswire/ -- Equilend, the global financial technology, data and analytics company for the securities finance industry,…",
-          "url": "https://www.prnewswire.co.uk/news-releases/equilends-1source-dlt-adds-goldman-sachs-302922238.html",
-          "source": "PR Newswire UK",
-          "published": "2026-10-28T13:43:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS1987718/Equilend-Logo.jpg?id=OA3044560&p=facebook"
         }
       ]
     },
@@ -261,12 +269,53 @@
         "startups": {
           "title": "Startups",
           "icon": "💡",
-          "articles": []
+          "articles": [
+            {
+              "title": "AI wants Bitcoin miners’ power, but the contracts reveal who really gets paid",
+              "description": "Bitcoin miners spent years securing cheap electricity, building substations, and negotiating the grid connections needed to power their operations. Now AI companies want those connections so badly they're willing to make aging mines valuable real estate. The …",
+              "url": "https://cryptoslate.com/ai-wants-bitcoin-miners-power-but-the-contracts-reveal-who-really-gets-paid/",
+              "source": "CryptoSlate",
+              "published": "2026-11-01T11:20:22Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/10/bitcoin-mining-gpu-conversion.webp"
+            },
+            {
+              "title": "Week in review: Binance hit by $6.3 billion theft, impact of Brotli vulnerability",
+              "description": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: r/opensource bans AI projects, and solo devs go down with them Moderators of r/opensource, Reddit’s catch-all forum for open source software, have barred any pro…",
+              "url": "https://www.helpnetsecurity.com/2026/11/01/week-in-review-binance-hit-by-6-3-billion-theft-impact-of-brotli-vulnerability/",
+              "source": "Help Net Security",
+              "published": "2026-11-01T09:00:00Z",
+              "image": "https://img.helpnetsecurity.com/wp-content/uploads/2023/12/01112502/cybersecurity_week_in_review1.jpg"
+            }
+          ]
         },
         "hyperscalers": {
           "title": "Hyperscalers",
           "icon": "☁️",
           "articles": [
+            {
+              "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
+              "description": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG, Slow Pisces, and …",
+              "url": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
+              "source": "Internet",
+              "published": "2026-11-01T06:44:27Z",
+              "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmb1j0HC3RkKxZ4bBQPaOa5GaLqC2EBtxXHOMnebPlgHGDJG7ryIuSBIR-9YBQuUm6HwD15-OJQgBvIkhbLIApM8XoU0DptSEF6DNhEpinxPA-06wQZhLhRiKmFGO5cVjONcaouGC3lqybhkeEsZj-xebX6u6hSR19mS7sVqOrpR02qNOlpHZJEUjf1HtB/s1700-nu-rw-lo-l85-e365/binance-hack.png"
+            },
+            {
+              "title": "Hacktober – Cyberattack Wave Hits PHP, Node.js, Binance, LiteLLM, Pentagon, and a Few More",
+              "description": "October brought a heavy run of cybersecurity disclosures involving cryptocurrency exchanges, web servers, AI tools, software packages, government records, and grocery chains. Binance investigated billions of dollars in unauthorized transactions, PHP issued em…",
+              "url": "https://cybersecuritynews.com/hacktober-cyberattack-wave/",
+              "source": "Cybersecuritynews.com",
+              "published": "2026-10-31T16:00:00Z",
+              "image": "http://cybersecuritynews.com/wp-content/uploads/2026/11/Hacktober-Cyberattack-Wave.webp"
+            },
+            {
+              "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
+              "description": "Blockchain analytics firm Chainalysis disclosed a data breach after attackers used \"offensive agentic techniques\" to access internal systems and tools, exposing customer names, email addresses, user IDs, and organizational roles. [...]",
+              "url": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
+              "source": "BleepingComputer",
+              "published": "2026-10-31T12:50:09Z",
+              "image": "https://www.bleepstatic.com/content/hl-images/2025/03/18/Blockchain-2.jpg"
+            },
             {
               "title": "How North Korea’s ruthless state sponsored hackers, main suspects in the $6.3B Binance heist, operate",
               "description": "“They attack people, not code,” an expert told The Post.",
@@ -284,28 +333,12 @@
               "image": "https://images.dailycaller.com/image/width=1280,height=549,fit=cover,format=webp,f=auto/https://cdn01.dailycaller.com/wp-content/uploads/2021/04/crypto-1.jpg"
             },
             {
-              "title": "Walmart, Microsoft and JPMorgan block NYSE-backed venture from tokenizing their shares",
-              "description": "Trading fees reward the venue, while issuers weigh pricing risks and a 30-day window to block a third-party proposal.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
-              "url": "https://cryptoslate.com/walmart-microsoft-and-jpmorgan-block-nyse-backed-venture-from-tokenizing-their-shares/",
-              "source": "CryptoSlate",
-              "published": "2026-10-30T09:10:06Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/10/stock-token-checkpoint.webp"
-            },
-            {
               "title": "Multicoin wants to turn AI chips into collateral for crypto’s next lending boom",
               "description": "USD.AI’s published terms put recovery with lenders and agents, while sUSDai withdrawals depend on cash across monthly epochs.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
               "url": "https://cryptoslate.com/multicoin-wants-to-turn-ai-chips-into-collateral-for-cryptos-next-lending-boom/",
               "source": "CryptoSlate",
               "published": "2026-10-29T17:40:06Z",
               "image": "https://cryptoslate.com/wp-content/uploads/2026/10/susdai-vault-access-limits.webp"
-            },
-            {
-              "title": "Why Oracle, Intel, and IBM are saying no to blockchain-based stock trading",
-              "description": "As tokenized stock trading continues to gain traction, so too does the list of companies that object to it. In the video above, Scott Melker outlines key details of the objections from Oracle (ORCL), IBM (IBM), Intel (INTC), and others.",
-              "url": "https://biztoc.com/x/30e2a1554d9eaec2",
-              "source": "Biztoc.com",
-              "published": "2026-10-29T12:40:15Z",
-              "image": "https://biztoc.com/cdn/30e2a1554d9eaec2_s.webp"
             }
           ]
         }
