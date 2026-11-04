@@ -1,5 +1,5 @@
 {
-  "date": "November 03, 2026",
+  "date": "November 04, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -7,20 +7,20 @@
       "color": "#ffb900",
       "articles": [
         {
+          "title": "GenLayer’s Internet Court targeting mainnet launch in Q4 2026",
+          "description": "GenLayer's Internet Court could revolutionize digital dispute resolution, enhancing trust and efficiency in AI-driven agentic economies.\nThe post GenLayer’s Internet Court targeting mainnet launch in Q4 2026 appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/genlayer-internet-court-mainnet-launch/",
+          "source": "Crypto Briefing",
+          "published": "2026-11-02T15:05:43Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/02100539/library-genlayer-s-internet-court-targeting-mainnet-launch-in-q4-800x450.png"
+        },
+        {
           "title": "Binance outflows to Tornado-funded wallets flagged on X, but no public data confirms them",
           "description": "The unverified claims highlight ongoing tensions between privacy tools and regulatory scrutiny, impacting trust in crypto exchanges.\nThe post Binance outflows to Tornado-funded wallets flagged on X, but no public data confirms them appeared first on Crypto Br…",
           "url": "https://cryptobriefing.com/binance-outflows-tornado-cash-funded-wallets/",
           "source": "Crypto Briefing",
           "published": "2026-10-29T20:51:46Z",
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/29165141/library-binance-outflows-to-tornado-funded-wallets-flagged-on-x--800x450.png"
-        },
-        {
-          "title": "Starknet challenge drives quantum-safe signature checks down to about $0.023",
-          "description": "The reduced cost of quantum-safe verifications on Starknet could accelerate the adoption of post-quantum cryptography in blockchain systems.\nThe post Starknet challenge drives quantum-safe signature checks down to about $0.023 appeared first on Crypto Briefin…",
-          "url": "https://cryptobriefing.com/starknet-falcon-512-quantum-safe-cost/",
-          "source": "Crypto Briefing",
-          "published": "2026-10-29T11:26:59Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/10/29072655/library-starknet-challenge-drives-quantum-safe-signature-checks--800x450.png"
         },
         {
           "title": "How Blockchain Technology Is Reshaping Openness in Digital Gaming Platforms",
@@ -45,30 +45,6 @@
           "source": "Financial Post",
           "published": "2026-10-28T10:04:25Z",
           "image": null
-        },
-        {
-          "title": "Mirae Asset Securities Teams Up With Grvt to Issue Tokenized Funding Notes",
-          "description": "Mirae Asset Securities (HK) Limited, the Hong Kong subsidiary of Korea’s leading securities firm, has arranged an issuance of tokenized funding notes under its affiliate’s structured notes program — to which Grvt has subscribed. Grvt intends to use the result…",
-          "url": "https://zycrypto.com/mirae-asset-securities-teams-up-with-grvt-to-issue-tokenized-funding-notes/",
-          "source": "ZyCrypto",
-          "published": "2026-10-27T14:59:01Z",
-          "image": "https://zycrypto.com/wp-content/uploads/2026/10/unnamed-2026-10-27T145823.328.jpg"
-        },
-        {
-          "title": "Mirae Asset Securities and Grvt Collaborate on Tokenised Funding Note Issuance",
-          "description": "Singapore, Singapore, 27th October 2026, Chainwire\nThe post Mirae Asset Securities and Grvt Collaborate on Tokenised Funding Note Issuance appeared first on The Daily Hodl.",
-          "url": "https://dailyhodl.com/2026/10/27/mirae-asset-securities-and-grvt-collaborate-on-tokenised-funding-note-issuance/",
-          "source": "The Daily Hodl",
-          "published": "2026-10-27T13:05:59Z",
-          "image": "https://dailyhodl.com/wp-content/uploads/2026/10/BLOG_AND_PR_2_1793073382miTgvnZDDU.jpg?resize=1200,720"
-        },
-        {
-          "title": "Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins",
-          "description": "Bitcoin fell 0.4% to around $79,700 since midnight UTC while Asian tech stocks rallied. The DeFi index dropped 1.8%, and the Fed is set to begin a two-day meeting.",
-          "url": "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins",
-          "source": "CoinDesk",
-          "published": "2026-10-27T11:32:45Z",
-          "image": "https://cdn.sanity.io/images/s3y3vcno/production/3d9786ace14e73654f21a94a72d9d19a3f66730e-1920x1080.png?auto=format&fit=crop&crop=focalpoint&w=1200&h=675&q=75"
         }
       ]
     },
@@ -77,6 +53,22 @@
       "icon": "🔐",
       "color": "#e6a200",
       "articles": [
+        {
+          "title": "The cryptography behind electronic voting (and why paper ballots are still essential)",
+          "description": "As millions of Americans vote in today’s U.S. midterms, most will use paper ballots, which are protected by strict chain-of-custody protocols and, in some cases, statistical audits. You may wonder why we still use paper for our elections and voting systems wh…",
+          "url": "https://blog.trailofbits.com/2026/11/03/the-cryptography-behind-electronic-voting-and-why-paper-ballots-are-still-essential/",
+          "source": "Trailofbits.com",
+          "published": "2026-11-03T12:00:00Z",
+          "image": "https://blog.trailofbits.com/2026/11/03/the-cryptography-behind-electronic-voting-and-why-paper-ballots-are-still-essential/electronicvoting_socialbanner.png"
+        },
+        {
+          "title": "BNB’s $99 million ETF inflows came almost entirely before Binance’s hack",
+          "description": "BNB exchange-traded funds (ETFs) led October inflows among US-listed spot crypto ETFs tracked by SoSoValue, with the largest allocation arriving weeks before Binance suffered a record $6.3 billion cryptocurrency hack. The US-listed VanEck BNB ETF attracted $9…",
+          "url": "https://cryptoslate.com/bnbs-99-million-etf-inflows-came-almost-entirely-before-binances-hack/",
+          "source": "CryptoSlate",
+          "published": "2026-11-02T18:40:47Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/11/bnb-receding-capital-tide.webp"
+        },
         {
           "title": "Binance Update: Waiting on a Zero-Knowledge Proof",
           "description": "Binance reopened withdrawals and says it has covered 95% of the $6.3 billion hack. The proof that the money is there is a zero-knowledge proof, and it's running a day late.",
@@ -125,68 +117,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 6.06 Million Tokens, and Total Crypto and Total Cash & Marketable Securities Holdings of $14.5 Billion",
-          "description": "Bitmine owns 4.9% of the total ETH coin supply of 122.2 million Bitmine sees 6 reasons this recent Binance theft is a sign of crypto industry strength Bitmine is 99% of the way to the 'Alchemy of 5%' in just 15 months Bitmine released Chairman's Message on Oc…",
-          "url": "https://www.prnewswire.co.uk/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-6-06-million-tokens-and-total-crypto-and-total-cash--marketable-securities-holdings-of-14-5-billion-302926349.html",
-          "source": "PR Newswire UK",
-          "published": "2026-11-02T13:30:00Z",
-          "image": "https://mmx.prnewswire.com/media/MS2025137/Bitmine-Immersion-Technologies-Inc-Image.jpg?id=OA3052210&p=facebook"
+          "title": "Tether freezes $1.5 billion in 30 minutes after Binance hack, but $729 million escapes",
+          "description": "Tether describes immobilized USDT, while US precedents show separate decisions governing custody, ownership and return.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+          "url": "https://cryptoslate.com/tether-freezes-1-5-billion-in-30-minutes-after-binance-hack-but-729-million-escapes/",
+          "source": "CryptoSlate",
+          "published": "2026-11-03T12:00:53Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/11/tether-frozen-release-hatch.webp"
         },
         {
-          "title": "FATF targets crypto hubs in review of money laundering controls",
-          "description": "FATF will review how jurisdictions with significant crypto activity apply anti-money laundering standards, with initial findings due in June 2027.",
-          "url": "https://cointelegraph.com/news/fatf-targeted-crypto-compliance-jurisdiction-reviews",
-          "source": "Cointelegraph",
-          "published": "2026-11-02T12:56:07Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6E1Z69CTQ1SFH9R33DZWPA6/fatf-rules.jpg"
-        },
-        {
-          "title": "Defense, healthcare, crypto and AI: How the midterm election could affect stocks",
-          "description": "Democratic gains in Congress could bring tougher oversight of major companies and shift billions of dollars in federal spending and regulatory policy.",
-          "url": "https://www.cnbc.com/2026/11/02/midterm-election-stocks-defense-healthcare-crypto-ai.html",
-          "source": "CNBC",
-          "published": "2026-11-02T11:00:01Z",
-          "image": "https://image.cnbcfm.com/api/v1/image/106949322-1632916362498-gettyimages-1235565564-848033_NA-POL-0928-CAPITOL-HILL_KKN_29317JPG.jpg?v=1793390260&w=1920&h=1080"
-        },
-        {
-          "title": "One Paper, Infinite Markets: MEXC Marks 18 Years of the Bitcoin Whitepaper by Looking Beyond Bitcoin",
-          "description": "Mutsamudu, Comoros, November 2, 2026 – MEXC, a pioneer in 0-fee digital asset trading, launched its Bitcoin Whitepaper Day 2026 campaign under the theme “One Paper. Infinite Markets.” to mark the 18th anniversary of the Bitcoin whitepaper. Since its publicati…",
-          "url": "https://www.newsbtc.com/news/one-paper-infinite-markets-mexc-marks-18-years-of-the-bitcoin-whitepaper-by-looking-beyond-bitcoin/",
+          "title": "ZeroBeta and Lynq Connect Tokenized Treasury Collateral to Lending and Margin",
+          "description": "ZeroBeta’s integration with Lynq lets institutions pledge tokenized assets while interest continues to accrue, putting collateral control at the centre of the workflow.",
+          "url": "https://www.newsbtc.com/news/zerobeta-and-lynq-connect-tokenized-treasury-collateral-to-lending-and-margin/",
           "source": "newsBTC",
-          "published": "2026-11-02T10:33:06Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/photo_2026-11-02_10-56-27.jpg"
+          "published": "2026-11-03T09:00:00Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2018/06/Circle-Bank-Vault.jpg"
         },
         {
-          "title": "Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials",
-          "description": "The HKMA plans to bring regulated stablecoins into tokenized government debt trials, while HSBC says its RedCoin stablecoin has reached 50,000 users.",
-          "url": "https://cointelegraph.com/news/hong-kong-24-7-tokenized-settlements-stablecoin-trials",
+          "title": "Spiko Reports $2.38B in SAFO as Tokenized Cash Funds Reach Business Treasuries",
+          "description": "Spiko’s October update puts SAFO at $2.38 billion. The more useful question is how tokenized shares fit companies’ everyday cash needs.",
+          "url": "https://www.newsbtc.com/news/spiko-reports-2-38b-in-safo-as-tokenized-cash-funds-reach-business-treasuries/",
+          "source": "newsBTC",
+          "published": "2026-11-03T03:00:00Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2024/05/cropped-favicon-2.png"
+        },
+        {
+          "title": "HashKey Adopts Tokenised Deposit for Cross-Market Treasury and Liquidity Management on Standard Chartered's Blockchain Platform",
+          "description": "Hong Kong, November 2, 2026 — HashKey Group (3887.HK), a leading Asian digital asset company, today announced that, its is among the first institutional clients to adopt Standard Chartered’s newly launched institutional tokenised deposit solution. HashKey is …",
+          "url": "https://biztoc.com/x/6beba4481a5ef0fb",
+          "source": "Biztoc.com",
+          "published": "2026-11-03T02:31:12Z",
+          "image": "https://biztoc.com/cdn/6beba4481a5ef0fb_s.webp"
+        },
+        {
+          "title": "Asset managers, banks consider stablecoin services",
+          "description": "Nigerian banks, asset managers, and fintechs are considering offering stablecoin services as cryptocurrency adoption expands, says Quidax CEO Buchi Okoro.\n\nRead More: https://punchng.com/asset-managers-banks-consider-stablecoin-services/",
+          "url": "https://punchng.com/asset-managers-banks-consider-stablecoin-services/",
+          "source": "The Punch",
+          "published": "2026-11-03T00:24:27Z",
+          "image": "https://cdn.punchng.com/wp-content/uploads/2026/11/03012028/images-6_1793665228.webp"
+        },
+        {
+          "title": "Deutsche Bank To Debut Bitcoin Custody Within Weeks: Report",
+          "description": "The German lender is moving fast with its crypto custody service. German multinational Deutsche Bank is just weeks away from its crypto custody service, according to reports.  The lender — which is Germany’s biggest — also plans to expand the custody platform…",
+          "url": "https://activistpost.com/deutsche-bank-to-debut-bitcoin-custody-within-weeks-report/",
+          "source": "Activistpost.com",
+          "published": "2026-11-02T23:00:00Z",
+          "image": "https://activistpost.com/wp-content/uploads/2026/10/image7_1920x1080-1024x576-1.webp"
+        },
+        {
+          "title": "tZERO Moves to Take Tokenization Company Public",
+          "description": "Tokenization FinTech tZERO says it is moving to become a publicly traded firm. The company announced Monday (Nov. 2) plans to combine with FG Imperii Acquisition Corp., a special purpose acquisition company (SPAC) in a deal valuing tZERO at $350 million. Upon…",
+          "url": "https://www.pymnts.com/blockchain/2026/tzero-moves-to-take-tokenization-company-public/",
+          "source": "pymnts.com",
+          "published": "2026-11-02T19:25:37Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2025/07/Wall-Street-tokenization-stocks.png?quality=82"
+        },
+        {
+          "title": "Animoca Brands clears final hurdle for Abu Dhabi fund management",
+          "description": "The Web3 investment firm secured permission to manage collective investment funds as it develops institutional offerings spanning tokenization, stablecoins and treasury management.",
+          "url": "https://cointelegraph.com/news/animoca-brands-expands-asset-management-business-with-abu-dhabi-approval",
           "source": "Cointelegraph",
-          "published": "2026-11-02T10:14:55Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6DQFSHD8AXWKTB5J9SVZW4V/hong-kong-fund.jpg"
-        },
-        {
-          "title": "Masks Off: Crypto Industry Responds to Binance Hack by Acting Like Banks",
-          "description": "Crypto is only \"decentralized\" until something goes wrong.",
-          "url": "https://gizmodo.com/masks-off-crypto-industry-responds-to-binance-hack-by-acting-like-banks-2000833496",
-          "source": "Gizmodo.com",
-          "published": "2026-11-01T16:20:54Z",
-          "image": "https://gizmodo.com/app/uploads/2023/02/eb45d843fe2d3efc91f6485dc57ddf62.jpg"
-        },
-        {
-          "title": "Germany’s Largest Bank Prepares Crypto Custody Launch, With Asia Expansion to Follow",
-          "description": "In a matter of weeks, Deutsche Bank, Germany’s largest bank, will roll out its first digital asset custody service. Data shared earlier today revealed that the bank aims to tap growth in the digital economy by launching a crypto custody platform in the coming…",
-          "url": "https://zycrypto.com/germanys-largest-bank-prepares-crypto-custody-launch-with-asia-expansion-to-follow/",
-          "source": "ZyCrypto",
-          "published": "2026-11-01T14:14:48Z",
-          "image": null
-        },
-        {
-          "title": "Ripple Releases 1 Billion XRP in November Escrow Unlock",
-          "description": "Ripple released 1 billion XRP in the November XRP escrow unlock, worth about $1.25 billion, but the net supply increase remains unclear for holders.\nThe post Ripple Releases 1 Billion XRP in November Escrow Unlock appeared first on Bitcoin Foundation.",
-          "url": "https://bitcoinfoundation.org/news/altcoins/ripple-releases-1-billion-xrp-in-november-escrow-unlock/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-11-01T11:18:48Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/ripple-releases-1-billion-xrp-in-november-escrow-unlock.webp"
+          "published": "2026-11-02T18:00:16Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6EKKJWC0SAK1Q9MXWA0N87Y/ai-abu-dhabi-businessmen-2.png"
         }
       ]
     },
@@ -196,36 +188,28 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "This crypto billionaire is spending tens of millions in the midterms to take on AI companies and the GOP",
-          "description": "Even though he says there is far too much money in politics, Larsen has spent tens of millions in the midterm elections.",
-          "url": "https://www.businessinsider.com/chris-larsen-is-spending-tens-of-millions-in-the-midterms-2026-11#article",
-          "source": "Business Insider",
-          "published": "2026-11-02T10:00:01Z",
-          "image": "https://i.insider.com/6ae4eefdd8cc18cf7950fab9?width=1200&format=jpeg"
+          "title": "Arthur Hayes Sees Bitcoin Weakness Until Fed or Banks Expand Balance Sheets",
+          "description": "BTC price prediction turns cautious as Arthur Hayes says Bitcoin weakness may persist until the Fed or banks expand their balance sheets.\nThe post Arthur Hayes Sees Bitcoin Weakness Until Fed or Banks Expand Balance Sheets appeared first on Bitcoin Foundation.",
+          "url": "https://bitcoinfoundation.org/news/analysis/arthur-hayes-sees-bitcoin-weakness-until-fed-or-banks-expand-balance-sheets/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-11-03T08:17:21Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/arthur-hayes-sees-bitcoin-weakness-until-fed-or-banks-expand-balance-sheets.webp"
         },
         {
-          "title": "Binance sees spike in customers pulling funds out after $6.3 billion hack",
-          "description": "Binance said it had now covered 95% of the stolen assets. It said after an initial spike, withdrawals were stabilizing",
-          "url": "https://www.business-standard.com/world-news/binance-sees-spike-in-customers-pulling-funds-out-after-6-3-billion-hack-126110200056_1.html",
-          "source": "Business Standard",
-          "published": "2026-11-02T02:28:55Z",
-          "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-05/02/thumb/fitandfill/1200X628/1746183247-2404.JPG"
+          "title": "Nvidia and Nike Lead Biggest Wave Yet of Tokenized Stock Objections",
+          "description": "Nvidia, Costco, Nike and nine other companies objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 50.",
+          "url": "https://decrypt.co/382348/nvidia-nike-biggest-wave-yet-tokenized-stock-objections",
+          "source": "Decrypt",
+          "published": "2026-11-02T17:36:03Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png"
         },
         {
-          "title": "Mercado Bitcoin Plans Sui Asset Access in Brazil With Lending and Tokenization Links",
-          "description": "Mercado Bitcoin and Sui have outlined access to SUI and stablecoins, with USDsui collateral and tokenized assets in scope. A potential Hashi integration remains exploratory.",
-          "url": "https://www.newsbtc.com/news/mercado-bitcoin-plans-sui-asset-access-in-brazil-with-lending-and-tokenization-links/",
-          "source": "newsBTC",
-          "published": "2026-11-02T02:00:00Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2026/09/Newsbtc-Image.jpg"
-        },
-        {
-          "title": "Binance sees spike in withdrawals as exchange returns online after $6.3B heist",
-          "description": "Binance said withdrawals were stabilizing after an initial spike and deposit volumes had remained \"substantial.\"",
-          "url": "https://nypost.com/2026/11/01/business/binance-withdrawals-spike-as-it-returns-online-after-6-3b-heist/",
-          "source": "New York Post",
-          "published": "2026-11-01T22:02:05Z",
-          "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/147230086_b9a2a3.jpg?quality=75&strip=all&w=1200"
+          "title": "How T7X Is Building the Infrastructure for a New Era of Capital Markets",
+          "description": "T7X records ownership directly on-chain instead of wrapping assets held elsewhere, keeping token and asset under one legal framework.",
+          "url": "https://decrypt.co/382147/how-t7x-is-building-the-infrastructure-for-a-new-era-of-capital-markets",
+          "source": "Decrypt",
+          "published": "2026-11-02T15:01:03Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png"
         },
         {
           "title": "Will gold’s ‘infinite mint bug’ make Bitcoin more valuable?",
@@ -271,20 +255,36 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Binance will survive the $6.3 billion hack—but this is the start of a terrifying new era",
-              "description": "The scale and sophistication of the Binance hack is alarming—and all of this will soon be turbocharged by AI.",
-              "url": "https://fortune.com/2026/11/02/binance-hack-ai-north-korean-cybercrime-black-october/",
-              "source": "Fortune",
-              "published": "2026-11-02T12:39:39Z",
-              "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2291692453.jpg?resize=1200,600"
+              "title": "Bitcoin’s year-end liquidity hopes face a projected $150 billion Treasury cash rebuild",
+              "description": "Any year-end reserve relief depends on actual cash flows and funding costs, with a larger first-quarter Treasury cash rebuild already assumed.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst…",
+              "url": "https://cryptoslate.com/bitcoins-year-end-liquidity-hopes-face-a-projected-150-billion-treasury-cash-rebuild/",
+              "source": "CryptoSlate",
+              "published": "2026-11-03T13:00:37Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/11/treasury-bitcoin-temporary-liquidity-sluice.webp"
             },
             {
-              "title": "North Korea’s Hackers Supercharge Crypto Heists With AI Skills",
-              "description": "The North Korean group accused of the world’s largest-ever crypto heist is a state-sponsored collective of elite hackers, groomed from an early age to hunt for “big game.” Artificial intelligence has now provided them with a powerful new tool to …",
-              "url": "https://www.insurancejournal.com/news/international/2026/11/02/891092.htm",
-              "source": "Insurance Journal",
-              "published": "2026-11-02T11:08:00Z",
-              "image": "https://www.insurancejournal.com/app/uploads/2026/11/crypto-logos-473312772-bloomberg.jpg"
+              "title": "Vitalik Buterin Warns AI Could Uncover New Attacks on Crypto Cryptography",
+              "description": "Vitalik Buterin warned at Devcon 8 that AI could accelerate mathematical discoveries and expose new attacks on cryptography used by Bitcoin and Ethereum.\nThe post Vitalik Buterin Warns AI Could Uncover New Attacks on Crypto Cryptography appeared first on Bitc…",
+              "url": "https://bitcoinfoundation.org/news/ethereum/vitalik-buterin-warns-ai-could-uncover-new-attacks-on-crypto-cryptography/",
+              "source": "Bitcoinfoundation.org",
+              "published": "2026-11-03T12:08:48Z",
+              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/vitalik-buterin-warns-ai-could-uncover-new-attacks-on-crypto-cryptography.webp"
+            },
+            {
+              "title": "FBI Blames North Korea for Record $6.3 Billion Binance Crypto Heist",
+              "description": "U.S. agencies warn that stolen digital assets are e a major source of funding for the country's weapons and military programs.\nThe post FBI Blames North Korea for Record $6.3 Billion Binance Crypto Heist first appeared on Le·gal In·sur·rec·tion.",
+              "url": "https://legalinsurrection.com/2026/11/fbi-blames-north-korea-for-record-6-3-billion-binance-crypto-heist/",
+              "source": "Legalinsurrection.com",
+              "published": "2026-11-03T12:00:54Z",
+              "image": "https://legalinsurrection.com/wp-content/uploads/2024/10/LI-035-Chinese-Hackers.png"
+            },
+            {
+              "title": "Project Cortex XTX Shows a $6.06B Market Cap After a 15.8M% Jump",
+              "description": "XTX crypto’s new Solana pair showed a $6.06B market cap and a 15.8M% 24-hour jump, but its seven-hour history and unverified identity warrant caution.\nThe post Project Cortex XTX Shows a $6.06B Market Cap After a 15.8M% Jump appeared first on Bitcoin Foundati…",
+              "url": "https://bitcoinfoundation.org/news/altcoins/project-cortex-xtx-shows-a-6-06b-market-cap-after-a-15-8m-jump/",
+              "source": "Bitcoinfoundation.org",
+              "published": "2026-11-03T08:57:52Z",
+              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/project-cortex-xtx-shows-a-6-06b-market-cap-after-a-15-8m-jump.webp"
             }
           ]
         },
@@ -293,12 +293,12 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "Binance’s record-shattering $6.3 billion hack is a gut check for crypto",
-              "description": "Binance says it will make customers whole after its record hack, but early withdrawals show confidence remains fragile.",
-              "url": "https://www.businessinsider.com/binance-record-shattering-hack-crypto-security-test-explained-for-investors-2026-11#article",
-              "source": "Business Insider",
-              "published": "2026-11-02T10:50:01Z",
-              "image": "https://i.insider.com/6ae7b82ef3bee449b3d2a0d1?width=1200&format=jpeg"
+              "title": "Instanodes Introduces Post-Quantum Accounts for Ethereum and Solana",
+              "description": "New cryptographic engineering and quantum-readiness services help blockchain businesses assess emerging security risks and prepare account infrastructure for future cryptographic requirements. MOHALI, India, Nov. 3, 2026 /PRNewswire/ -- Instanodes, a blockcha…",
+              "url": "https://www.prnewswire.co.uk/news-releases/instanodes-introduces-post-quantum-accounts-for-ethereum-and-solana-302927778.html",
+              "source": "PR Newswire UK",
+              "published": "2026-11-03T11:49:00Z",
+              "image": "https://mmx.prnewswire.com/media/MS2026257/Top-Banner-Updated.jpg?id=OA3054857&p=facebook"
             },
             {
               "title": "Chainlink Launches 24/7 Pricing for Tokenized Assets, With Aave as Launch Partner",
@@ -333,6 +333,14 @@
               "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmb1j0HC3RkKxZ4bBQPaOa5GaLqC2EBtxXHOMnebPlgHGDJG7ryIuSBIR-9YBQuUm6HwD15-OJQgBvIkhbLIApM8XoU0DptSEF6DNhEpinxPA-06wQZhLhRiKmFGO5cVjONcaouGC3lqybhkeEsZj-xebX6u6hSR19mS7sVqOrpR02qNOlpHZJEUjf1HtB/s1700-nu-rw-lo-l85-e365/binance-hack.png"
             },
             {
+              "title": "Chainlink Unveils 24/7 Pricing for Tokenized Assets as Aave Adopts Feeds",
+              "description": "The service extends a prior 24/5 equity-data product into weekends and holidays. An oracle feed is not a guarantee of a redeemable cash-market price,",
+              "url": "https://www.newsbtc.com/news/chainlink-unveils-24-7-pricing-for-tokenized-assets-as-aave-adopts-feeds/",
+              "source": "newsBTC",
+              "published": "2026-10-31T19:00:00Z",
+              "image": "https://www.newsbtc.com/wp-content/uploads/2026/05/Chainlink-from-Pngtree.jpg"
+            },
+            {
               "title": "Hacktober – Cyberattack Wave Hits PHP, Node.js, Binance, LiteLLM, Pentagon, and a Few More",
               "description": "October brought a heavy run of cybersecurity disclosures involving cryptocurrency exchanges, web servers, AI tools, software packages, government records, and grocery chains. Binance investigated billions of dollars in unauthorized transactions, PHP issued em…",
               "url": "https://cybersecuritynews.com/hacktober-cyberattack-wave/",
@@ -347,14 +355,6 @@
               "source": "BleepingComputer",
               "published": "2026-10-31T12:50:09Z",
               "image": "https://www.bleepstatic.com/content/hl-images/2025/03/18/Blockchain-2.jpg"
-            },
-            {
-              "title": "How North Korea’s ruthless state sponsored hackers, main suspects in the $6.3B Binance heist, operate",
-              "description": "“They attack people, not code,” an expert told The Post.",
-              "url": "https://nypost.com/2026/10/30/tech/how-north-koreas-ruthless-state-sponsored-hackers-main-suspects-in-the-6-3b-binance-heist-operate/",
-              "source": "New York Post",
-              "published": "2026-10-30T22:51:35Z",
-              "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-0bh39k8e3-1793400132905.jpg?quality=75&strip=all&1793385747&w=1200"
             }
           ]
         }
