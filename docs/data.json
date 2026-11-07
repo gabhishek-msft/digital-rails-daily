@@ -1,11 +1,19 @@
 {
-  "date": "November 06, 2026",
+  "date": "November 07, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "Gate introduces Proof of Security standard for crypto exchanges",
+          "description": "Gate's PoSEC framework could push crypto exchanges towards stronger security standards, emphasizing resilience against major breaches.\nThe post Gate introduces Proof of Security standard for crypto exchanges appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/gate-proof-of-security-standard-exchanges/",
+          "source": "Crypto Briefing",
+          "published": "2026-11-05T14:47:53Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/05094741/library-gate-introduces-proof-of-security-standard-for-crypto-ex-800x450.png"
+        },
         {
           "title": "Progress on provable inference for large language models",
           "description": "Roy Rinberg (Anthropic), Alex Allain (Anthropic); Alessandro Chiesa (EPFL, StarkWare), Miranda Christ (MIT, RESI), Rahul Dalal (Anthropic STEM Fellows Program, Succinct), Giacomo Fenzi (EPFL), Ben Mayer (Anthropic Fellows Program, MIT), Guy Weissenberg (EPFL)…",
@@ -29,6 +37,14 @@
       "icon": "🔐",
       "color": "#e6a200",
       "articles": [
+        {
+          "title": "Stargate plugs Anubis Chain into LayerZero’s 100-plus chain network",
+          "description": "The integration enhances cross-chain liquidity and privacy, potentially boosting Anubis's appeal and LayerZero's network effect.\nThe post Stargate plugs Anubis Chain into LayerZero’s 100-plus chain network appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/stargate-integrates-anubis-chain-layerzero/",
+          "source": "Crypto Briefing",
+          "published": "2026-11-05T17:40:49Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/05124038/library-stargate-plugs-anubis-chain-into-layerzero-s-100-plus-ch-800x450.png"
+        },
         {
           "title": "Crypto Hack Wake-Up: Why Is Vitalik Pushing Exchange Bunker Mode?",
           "description": "Vitalik Buterin says crypto exchanges must survive—not just compete—after a major Binance breach. We unpack what bunker mode means for Bitcoin holders.",
@@ -62,14 +78,6 @@
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/04115148/library-l2beat-rebrands-as-ethbeat-expands-coverage-to-privacy-i-800x450.png"
         },
         {
-          "title": "Ethereum’s leanVM clears formal verification in its push toward quantum resistance",
-          "description": "Ethereum's formal verification of leanVM marks a significant step toward quantum resistance, impacting future blockchain security and innovation.\nThe post Ethereum’s leanVM clears formal verification in its push toward quantum resistance appeared first on Cry…",
-          "url": "https://cryptobriefing.com/ethereum-leanvm-formal-verification-quantum-resistance/",
-          "source": "Crypto Briefing",
-          "published": "2026-11-03T21:31:11Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/03163106/library-ethereum-s-leanvm-clears-formal-verification-in-its-push-800x450.png"
-        },
-        {
           "title": "Binance says thinly traded tokens are delaying full replacement of stolen assets",
           "description": "Binance attributes its last reported 5% replenishment gap to less-liquid assets, while its November 3 withdrawal plan reopens routes progressively.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Cat…",
           "url": "https://cryptoslate.com/binance-says-thinly-traded-tokens-are-delaying-full-replacement-of-stolen-assets/",
@@ -101,68 +109,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Paraguay USDT Offers Show 13% Premium After Ueno Bank Resolution",
-          "description": "Paraguay USDT premium reached 13% on Bybit after the central bank put Ueno Bank into resolution, as officials prepare deposit-guarantee payments for savers.\nThe post Paraguay USDT Offers Show 13% Premium After Ueno Bank Resolution appeared first on Bitcoin Fo…",
-          "url": "https://bitcoinfoundation.org/news/regulation/paraguay-usdt-offers-show-13-premium-after-ueno-bank-resolution/",
+          "title": "DSA’s Adrian Wall and Former CFTC Chair Chris Giancarlo Discuss Future of U.S. Crypto Regulation at Strobe Summit",
+          "description": "Washington, D.C., November 6, 2026 — The Digital Sovereignty Alliance (DSA), a nonprofit organization dedicated to advancing clear and ethical public policy, research, and education related to emerging technologies, participated in the Strobe Summit, where DS…",
+          "url": "https://www.newsbtc.com/news/dsas-adrian-wall-and-former-cftc-chair-chris-giancarlo-discuss-future-of-u-s-crypto-regulation-at-strobe-summit/",
+          "source": "newsBTC",
+          "published": "2026-11-06T11:46:28Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/unnamed.jpg"
+        },
+        {
+          "title": "Waters’ Investor-Rights Plan Could Put SEC at Center of New Crypto Market Structure Bill",
+          "description": "Democrats are weighing a crypto market structure bill based on Maxine Waters’ plan, adding tougher custody rules and a larger SEC role to the debate.\nThe post Waters’ Investor-Rights Plan Could Put SEC at Center of New Crypto Market Structure Bill appeared fi…",
+          "url": "https://bitcoinfoundation.org/news/regulation/waters-investor-rights-plan-could-put-sec-at-center-of-new-crypto-market-structure-bill/",
           "source": "Bitcoinfoundation.org",
-          "published": "2026-11-05T13:11:06Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/paraguay-usdt-offers-show-13-premium-after-ueno-bank-resolution.webp"
+          "published": "2026-11-06T11:07:55Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/waters-investor-rights-plan-could-put-sec-at-center-of-new-crypto-market-structu.webp"
         },
         {
-          "title": "Stablecoins Go Mainstream as Samsung Wallet Adds USDC on Solana",
-          "description": "Eligible U.S. Galaxy users can now buy, hold, send and receive USDC on Solana directly in Samsung Wallet, without a separate crypto app or private keys to manage.",
-          "url": "https://decrypt.co/382586/stablecoins-samsung-wallet-adds-usdc-solana",
-          "source": "Decrypt",
-          "published": "2026-11-05T13:01:02Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/02/decrypt-style-samsung-galaxy-s26-gID_7.jpg"
+          "title": "Binance $6.3 Billion Heist to Prompt Closer Scrutiny by Insurers",
+          "description": "Last week’s $6.3 billion Binance heist is prompting insurers to scrutinize crypto companies’ security more closely, with underwriters expected to probe if clients are vulnerable to a similar attack when they seek new coverage or renew existing policies, indus…",
+          "url": "https://www.insurancejournal.com/news/international/2026/11/06/891790.htm",
+          "source": "Insurance Journal",
+          "published": "2026-11-06T10:37:34Z",
+          "image": "https://www.insurancejournal.com/app/uploads/2026/11/binance-logo-on-smart-phone-220316942-Depositphotos-scaled.jpg"
         },
         {
-          "title": "Show HN: A 69-byte on-chain PNG that turns OLED pixels off (0 nits)",
-          "description": "2005: 1,000,000 pixels for $1,000,000. 2026: A single 1×1 Black Pixel (#000000, Token #1) on Ethereum Mainnet · Listed at 413.00 ETH (Open to WETH Bids).",
-          "url": "https://black-pixel-1x1.vercel.app/dossier.html",
-          "source": "Vercel.app",
-          "published": "2026-11-05T11:52:15Z",
-          "image": "https://black-pixel-1x1.vercel.app/frame_cover.png"
-        },
-        {
-          "title": "Democrats reportedly seek greater SEC control over crypto after CLARITY Act collapse",
-          "description": "House Democrats are reportedly discussing a broader crypto market structure bill built partly on Rep. Maxine Waters' earlier investor-rights proposals. According to a Nov. 4 post by journalist Eleanor Terrett, the proposals include a larger SEC role, a smalle…",
-          "url": "https://cryptoslate.com/democrats-reportedly-seek-greater-sec-control-over-crypto-after-clarity-act-collapse/",
-          "source": "CryptoSlate",
-          "published": "2026-11-05T11:10:49Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/11/democrats-clarity-sec.webp"
-        },
-        {
-          "title": "Swiss Financial Regulator Gives Green Light to Country’s First Bitcoin ETF",
-          "description": "Bitcoin exchange-traded funds were only available to institutional investors — until now. Swiss financial regulator FINMA has approved the country’s first bitcoin exchange-traded fund for retail investors.  The watchdog said Tuesday that the approval comes as…",
-          "url": "https://activistpost.com/swiss-financial-regulator-gives-green-light-to-countrys-first-bitcoin-etf/",
-          "source": "Activistpost.com",
-          "published": "2026-11-05T10:52:00Z",
-          "image": "https://activistpost.com/wp-content/uploads/2026/11/Pics-19-1024x576-1.jpg"
-        },
-        {
-          "title": "Democrats Plan Subpoenas on World Liberty Financial and CZ Pardon",
-          "description": "World Liberty Financial investigations could begin after Democrats take Congress, with subpoenas targeting Trump family crypto ties, UAE ownership and CZ’s pardon.\nThe post Democrats Plan Subpoenas on World Liberty Financial and CZ Pardon appeared first on Bi…",
-          "url": "https://bitcoinfoundation.org/news/companies/democrats-plan-subpoenas-on-world-liberty-financial-and-cz-pardon/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-11-05T07:00:10Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/democrats-plan-subpoenas-on-world-liberty-financial-and-cz-pardon.webp"
-        },
-        {
-          "title": "Aptos stitches stablecoins, tokenized funds and payments into one onchain stack",
-          "description": "Aptos' integration of financial services on a single blockchain could redefine digital finance, but liquidity challenges may hinder its growth.\nThe post Aptos stitches stablecoins, tokenized funds and payments into one onchain stack appeared first on Crypto B…",
-          "url": "https://cryptobriefing.com/aptos-stablecoins-tokenized-funds-onchain-finance/",
-          "source": "Crypto Briefing",
-          "published": "2026-11-05T02:04:43Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/04210433/library-aptos-stitches-stablecoins-tokenized-funds-and-payments--800x450.png"
-        },
-        {
-          "title": "Bitget Wallet expands payment options with stablecoin-powered virtual card",
-          "description": "Bitget Wallet has launched a virtual card in Nigeria, allowing users to spend stablecoin balances at Visa merchants worldwide via its self-custodial app.\n\nRead More: https://punchng.com/bitget-wallet-expands-payment-options-with-stablecoin-powered-virtual-car…",
-          "url": "https://punchng.com/bitget-wallet-expands-payment-options-with-stablecoin-powered-virtual-card/",
+          "title": "CBN sets N15bn capital requirement for dollar stablecoin issuers",
+          "description": "The Central Bank of Nigeria has introduced a minimum paid-up capital requirement of N15bn for companies issuing foreign currency-backed stablecoins, including those pegged to the United States dollar.\n\nRead More: https://punchng.com/cbn-sets-n15bn-capital-req…",
+          "url": "https://punchng.com/cbn-sets-n15bn-capital-requirement-for-dollar-stablecoin-issuers/",
           "source": "The Punch",
-          "published": "2026-11-04T23:20:02Z",
-          "image": "https://cdn.punchng.com/2026/08/1_1787210311-1024x630.webp"
+          "published": "2026-11-06T09:23:18Z",
+          "image": "https://punchng.com/wp-content/uploads/2026/06/CBN-headquarters.webp"
+        },
+        {
+          "title": "Crypto Market Structure Under Warren: What Does It Mean for Bitcoin?",
+          "description": "Elizabeth Warren is expected to chair the Senate Banking Committee, putting crypto market structure and Bitcoin regulation back at the center of Washington.",
+          "url": "https://www.dcforecasts.com/regulation/crypto-market-structure-warren-senate-banking-bitcoin/",
+          "source": "Dcforecasts.com",
+          "published": "2026-11-06T07:27:49Z",
+          "image": "https://www.dcforecasts.com/wp-content/uploads/2026/11/crypto-market-structure-warren-senate-banking-bitcoin.webp"
+        },
+        {
+          "title": "Binance Reveals $6.34 Billion Hack, Blames North Korea-Linked Hackers After Fake Job Interview Scheme",
+          "description": "Binance said hackers stole $6.34 billion from its wallets on October 29 in about 20 minutes, an attack the company described as the result of a fake job interview and a malicious software download rather than a single isolated breach. In a security update iss…",
+          "url": "https://www.naturalnews.com/2026-11-06-binance-reveals-hack-blames-north-korea-hackers.html",
+          "source": "Naturalnews.com",
+          "published": "2026-11-06T06:00:00Z",
+          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/11/cryptocurrency-hack-binance-tradertraitor-6176-2b3e3c9a-original.jpg"
+        },
+        {
+          "title": "Trump-Linked Tokens Fall After Democrats Sweep Midterms",
+          "description": "Two cryptocurrency tokens tied to U.S. President Donald Trump tanked after Democratic candidates won in various races in the 2026 midterm elections [1]. The Official Trump (TRUMP) token fell 17% over 24 hours to $1.33, while the World Liberty Financial (WLFI)…",
+          "url": "https://www.naturalnews.com/2026-11-06-trump-linked-tokens-fall-democrats-sweep-midterms.html",
+          "source": "Naturalnews.com",
+          "published": "2026-11-06T06:00:00Z",
+          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/11/trump-linked-tokens-trump-token-wlfi-token-6247-035f466e-original.jpg"
+        },
+        {
+          "title": "Asian crypto exchanges batten down the hatches as hacks surge: Asia Express",
+          "description": "Asian crypto exchanges are scrambling to tighten security on fears of a wave of potentially AI-assisted hacks, even as regional governments embrace tokenization and stablecoins.",
+          "url": "https://cointelegraph.com/magazine/asian-crypto-exchanges-bunker-down-as-hacks-surge-asia-express",
+          "source": "Cointelegraph",
+          "published": "2026-11-05T22:18:42Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2RR0R87D4ZNY7FB45GN96P2/magazineasia-expressriver.jpg"
         }
       ]
     },
@@ -172,36 +180,36 @@
       "color": "#00cc88",
       "articles": [
         {
+          "title": "Zcash holds near $1,300 as NU7 upgrade fuels bullish momentum",
+          "description": "Key takeaways Zcash (ZEC) trades around $1,300 on Friday, outperforming the broader cryptocurrency market. Grayscale’s ZEC-focused ETF (ZCSH) recorded $10.99 million in net outflows on Thursday, bringing weekly withdrawals to $14.77 million. ZEC faces immedia…",
+          "url": "https://coinjournal.net/news/zcash-holds-near-1300-as-nu7-upgrade-fuels-bullish-momentum/",
+          "source": "Coinjournal.net",
+          "published": "2026-11-06T12:04:19Z",
+          "image": "https://coinjournal.net/wp-content/uploads/2025/11/hedera-price-bulls-bear-outlook.png"
+        },
+        {
+          "title": "Former FBI Agent Pleads Guilty to Stealing $2.5M in Crypto From 35 Investigations",
+          "description": "Patrick Yaroch drained wallets using credentials the FBI had collected, then asked ChatGPT for advice on starting a new life in Europe.",
+          "url": "https://decrypt.co/382695/former-fbi-agent-pleads-guilty-to-stealing-2-5m-in-crypto-from-35-investigations",
+          "source": "Decrypt",
+          "published": "2026-11-06T10:57:06Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/crypto-crime-decrypt-style-1-gID_7.png"
+        },
+        {
+          "title": "Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum",
+          "description": "Amundi brings European equity exposure onchain through a new Ethereum-based share class as the tokenized stock market reaches $4.24 billion.",
+          "url": "https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum",
+          "source": "Cointelegraph",
+          "published": "2026-11-05T18:09:38Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6P8H9870ZQY6MMMYHJSDGZ5/hi-how-binance-plans-to-bring-tokenized-us-stocks-4.png"
+        },
+        {
           "title": "Blockchain is ‘perfect solution’ for AI agent trust, VeChain CEO says",
           "description": "VeChain co-founder Sunny Lu sees AI agents creating demand for blockchain identity, reputation and payment systems as he promotes agent platform VeWorld.ai.",
           "url": "https://cointelegraph.com/news/blockchain-is-perfect-solution-for-ai-agent-trust-vechain-ceo-says",
           "source": "Cointelegraph",
           "published": "2026-11-05T13:34:57Z",
           "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NVZ81DDBWF6QP902GQ9K32/crypto-assets-management.jpg"
-        },
-        {
-          "title": "Can decentralized phone networks power the AI revolution?",
-          "description": "Decentralized AI networks want to turn smartphones into computing infrastructure. But can hundreds of thousands of networked phones really deliver reliable, affordable AI at scale?",
-          "url": "https://cointelegraph.com/magazine/can-decentralized-phone-networks-power-the-ai-revolution",
-          "source": "Cointelegraph",
-          "published": "2026-11-05T13:30:00Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6K289G5D1S84SBS2M2C0HF1/magazine-ai-agents-on-base.png"
-        },
-        {
-          "title": "Hackers siphon millions from French bank into crypto",
-          "description": "Credit Mutuel Arkea has confirmed a major cyberattack involving fraudulent transfers and cryptocurrency conversions as French prosecutors launch an investigation",
-          "url": "https://rt-english.com/news/648455-french-bank-100-million-cyber-heist/",
-          "source": "Rt-english.com",
-          "published": "2026-11-05T10:09:04Z",
-          "image": "https://mf.b37mrtl.ru/files/2026.11/article/6aec5403203027604705858d.jpg"
-        },
-        {
-          "title": "Crypto Giants Scrap Crime-Fighting Alliance as Hackers Circle",
-          "description": "An initiative set up by some of crypto’s largest companies to curb illicit activity has quietly been dissolved, at a time when crime involving digital assets continues to surge. The organization behind the Tron blockchain partnered with stablecoin issuer Teth…",
-          "url": "https://www.insurancejournal.com/news/national/2026/11/05/891499.htm",
-          "source": "Insurance Journal",
-          "published": "2026-11-05T06:00:08Z",
-          "image": "https://www.insurancejournal.com/app/uploads/2026/11/crypto-logos-473312772-bloomberg.jpg"
         },
         {
           "title": "AI and blockchain are coming to African farms: 4 things must happen for farmers to benefit",
@@ -212,28 +220,12 @@
           "image": "https://images.theconversation.com/files/769038/original/file-20261029-92-hc5zhk.jpg?ixlib=rb-4.1.1&rect=0%2C176%2C2121%2C1060&q=45&auto=format&w=1356&h=668&fit=crop"
         },
         {
-          "title": "Bitcoin rebounds after Democratic sweep despite three days of ETF outflows",
-          "description": "Ryan Kirkley sees a year-end rebound even under Democratic control, while fund withdrawals and overhead supply keep the outlook conditional.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst i…",
-          "url": "https://cryptoslate.com/bitcoin-rebounds-after-democratic-sweep-despite-three-days-of-etf-outflows/",
-          "source": "CryptoSlate",
-          "published": "2026-11-04T12:30:18Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-recovery-demand.webp"
-        },
-        {
           "title": "How T7X Is Building the Infrastructure for a New Era of Capital Markets",
           "description": "T7X records ownership directly on-chain instead of wrapping assets held elsewhere, keeping token and asset under one legal framework.",
           "url": "https://decrypt.co/382147/how-t7x-is-building-the-infrastructure-for-a-new-era-of-capital-markets",
           "source": "Decrypt",
           "published": "2026-11-02T15:01:03Z",
           "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png"
-        },
-        {
-          "title": "Designing a blockchain-enabled certification framework for food loss and waste reduction: a proof-of-concept in the fresh food supply chain",
-          "description": "Scientific Reports - Designing a blockchain-enabled certification framework for food loss and waste reduction: a proof-of-concept in the fresh food supply chain",
-          "url": "https://www.nature.com/articles/s41598-026-77245-7.pdf",
-          "source": "Nature.com",
-          "published": "2026-10-30T00:00:00Z",
-          "image": null
         }
       ]
     },
@@ -247,12 +239,20 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Kevin Warsh Says AI Investment Is Not Immune to 4% Rates",
-              "description": "Kevin Warsh AI stock market comments link AI investment to borrowing costs after the Fed held rates at 3.75% to 4%, challenging rate-proof claims.\nThe post Kevin Warsh Says AI Investment Is Not Immune to 4% Rates appeared first on Bitcoin Foundation.",
-              "url": "https://bitcoinfoundation.org/news/ai/kevin-warsh-says-ai-investment-is-not-immune-to-4-rates/",
-              "source": "Bitcoinfoundation.org",
-              "published": "2026-11-05T09:27:53Z",
-              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/kevin-warsh-says-ai-investment-is-not-immune-to-4-rates.webp"
+              "title": "Todays Cryptogram",
+              "description": "Hiya kids! Hiya, Hiya!Good Morning Crypto-FReepers.I see some of the same old faces out there.But that's OK - I like you anyway. Did she really say that>.Ha Ha Ha!I'll be good - I will, (like heck) I will. Ha ha ha.This is today's quote: QSQLNFXYAR NZJ DQQ Y …",
+              "url": "https://freerepublic.com/focus/f-chat/4402021/posts",
+              "source": "Freerepublic.com",
+              "published": "2026-11-06T10:47:29Z",
+              "image": null
+            },
+            {
+              "title": "Today's Cryptogram",
+              "description": "Hiya kids! Hiya, Hiya!Good Morning Crypto-FReepers.I see some of the same old faces out there.But that's OK - I like you anyway.Kinda surprising today!Ha Ha Ha!I'll be good - I will, (like heck) I will, I will. Ha ha ha.This is today's quote: QSQLNFXYAR NZJ D…",
+              "url": "https://freerepublic.com/focus/f-chat/4402019/posts",
+              "source": "Freerepublic.com",
+              "published": "2026-11-06T10:23:38Z",
+              "image": null
             },
             {
               "title": "Building a Community of Imposters: What It Means To Be a Literary Translator Today",
@@ -285,6 +285,14 @@
               "source": "Bitcoinfoundation.org",
               "published": "2026-11-03T12:08:48Z",
               "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/vitalik-buterin-warns-ai-could-uncover-new-attacks-on-crypto-cryptography.webp"
+            },
+            {
+              "title": "Binance Withdrawals Set to Resume Nov. 1 After 95% Asset Recovery",
+              "description": "Binance plans to restart withdrawals in stages on Nov. 1 after replacing about 95% of assets stolen in a $6.3 billion breach, subject to security checks.\nThe post Binance Withdrawals Set to Resume Nov. 1 After 95% Asset Recovery appeared first on Bitcoin Foun…",
+              "url": "https://bitcoinfoundation.org/news/companies/binance-withdrawals-set-to-resume-nov-1-after-95-asset-recovery/",
+              "source": "Bitcoinfoundation.org",
+              "published": "2026-11-01T08:13:15Z",
+              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/binance-withdrawals-set-to-resume-nov-1-after-95-asset-recovery.webp"
             }
           ]
         },
@@ -293,28 +301,36 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "North Korean Ad Fraudsters Pwn Binance; Don’t Bother Predicting Your Ad Revenue",
-              "description": "How a hacker cost Binance $6 billion; The NYT sees a slowdown in its (sizable) ad revenue growth; and opting out of smart TV tracking doesn't always work.\nThe post North Korean Ad Fraudsters Pwn Binance; Don’t Bother Predicting Your Ad Revenue appeared first …",
-              "url": "http://www.adexchanger.com/daily-news-roundup/thursday-05112026/",
-              "source": "AdExchanger",
-              "published": "2026-11-05T05:03:01Z",
-              "image": "https://www.adexchanger.com/wp-content/uploads/2026/04/10-ten-plagues-programmatic-comic-feature.jpg"
+              "title": "MetaMask says recent attack didn't affect wallet infrastructure",
+              "description": "Cryptocurrency wallet provider MetaMask said a recent security incident has not affected MetaMask wallets or its wallet infrastructure. [...]",
+              "url": "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/",
+              "source": "BleepingComputer",
+              "published": "2026-11-06T09:22:28Z",
+              "image": "https://www.bleepstatic.com/content/hl-images/2026/11/06/Metamask.jpg"
             },
             {
-              "title": "Chainlink Launches 24/7 Pricing for Tokenized Assets, With Aave as Launch Partner",
-              "description": "Chainlink launched 24/7 pricing for tokenized stocks and commodities through weekends and holidays, with Aave adopting the feeds for Horizon lending.\nThe post Chainlink Launches 24/7 Pricing for Tokenized Assets, With Aave as Launch Partner appeared first on …",
-              "url": "https://techreport.com/news/business/chainlink-24-7-tokenized-assets-aave-launch/",
-              "source": "Techreport.com",
-              "published": "2026-11-02T01:00:12Z",
-              "image": "https://techreport.com/wp-content/uploads/2026/11/chainlink-24-7-cover.jpg"
+              "title": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
+              "description": "Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernames, password hashes and live tokens for all users.\n\n\"While we investigated, we removed access to Re…",
+              "url": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
+              "source": "Internet",
+              "published": "2026-11-06T08:04:49Z",
+              "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoSpb8lu1ytakNne4rJ58nWfLFrYtdR7MCyZ2prSaLKiAb2Bt_upvfAHl-slDTt_3h7zxFdhbPcLwzAkcHDjnvu2TNcVp6JsgJU6GI5GMvZrrmzZTUZDyeOhS0GnFV-YtazzzcgMFnUvkqKmpSr9FBrCXQhlyPZM9E8c7LPSxACwPhfJ4nFzIANqdaVXUd/s1700-nu-rw-lo-l85-e365/chain-breach.jpg"
             },
             {
-              "title": "Chainlink Goes Live on Stellar, Unlocking DeFi Applications Across the $4B RWA Ecosystem",
-              "description": "In a groundbreaking move to accelerate the transition to the onchain financial ecosystem, Stellar Network today announced the integration of Chainlink into its protocol.",
-              "url": "https://zycrypto.com/chainlink-goes-live-on-stellar-unlocking-defi-applications-across-the-4b-rwa-ecosystem/",
-              "source": "ZyCrypto",
-              "published": "2026-11-01T15:03:24Z",
-              "image": "https://zycrypto.com/wp-content/uploads/2026/01/CME-Group-To-Launch-Cardano-Chainlink-And-Stellar-Futures-Contracts-Next-Month-As-Institutional-Demand-Accelerates.jpg"
+              "title": "Can Companies Stop Their Shares From Being Tokenized? Many Big Names Say Yes",
+              "description": "The post Can Companies Stop Their Shares From Being Tokenized? Many Big Names Say Yes appeared first on 24/7 Wall St..\nApple (NASDAQ:AAPL), Amazon (NASDAQ:AMZN) and Tesla (NASDAQ:TSLA) have all said no to tokenized trading of their shares on a planned blockch…",
+              "url": "https://biztoc.com/x/8df96b45a647b907",
+              "source": "Biztoc.com",
+              "published": "2026-11-06T00:49:29Z",
+              "image": "https://biztoc.com/cdn/8df96b45a647b907_s.webp"
+            },
+            {
+              "title": "Apple and Home Depot join list of objectors to tokenized stock plan pushed by NYSE owner",
+              "description": "Boeing also joined the list of dozens of companies refusing to participate in the venture cochaired by former New York Gov. Andrew Cuomo.",
+              "url": "https://fortune.com/2026/11/05/apple-home-depot-list-objectors-tokenized-stock-plan-nyse-owner/",
+              "source": "Fortune",
+              "published": "2026-11-05T18:34:16Z",
+              "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2302418320-e1793903586953.jpg?resize=1200,600"
             }
           ]
         }
