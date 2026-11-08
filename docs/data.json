@@ -1,5 +1,5 @@
 {
-  "date": "November 07, 2026",
+  "date": "November 08, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -38,6 +38,30 @@
       "color": "#e6a200",
       "articles": [
         {
+          "title": "Nym brings its mixnet to wallets and dapps with new SDK at Devcon 8",
+          "description": "Nym's SDK could significantly enhance privacy in crypto transactions, potentially reshaping user trust and adoption in decentralized finance.\nThe post Nym brings its mixnet to wallets and dapps with new SDK at Devcon 8 appeared first on Crypto Briefing.",
+          "url": "https://cryptobriefing.com/nym-mixnet-sdk-wallets-devcon-8/",
+          "source": "Crypto Briefing",
+          "published": "2026-11-06T22:55:05Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/06175456/library-nym-brings-its-mixnet-to-wallets-and-dapps-with-new-sdk--800x450.png"
+        },
+        {
+          "title": "$3.1B in Stolen Binance Crypto Has Yet to Be Laundered: Elliptic",
+          "description": "The attackers have used more than 20,000 wallets on 16 blockchains so far, but the bulk of the stolen ETH and Bitcoin hasn't moved.",
+          "url": "https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic",
+          "source": "Decrypt",
+          "published": "2026-11-06T14:04:18Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/11/north-korea-lazarus-group-dprk-hacker-decrypt-style-02-gID_7.jpg"
+        },
+        {
+          "title": "The post-quantum future of web privacy",
+          "description": "Cryptographic protocols like Privacy Pass help keep web sites safe from abuse while keeping their users private. This post looks at the quantum threat to these protocols, and some new post-quantum cryptography that may help close the gap.",
+          "url": "https://blog.cloudflare.com/vole-mole/",
+          "source": "Cloudflare.com",
+          "published": "2026-11-06T14:00:00Z",
+          "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M6PDQYFDGF7T52H2AD675QSY.png"
+        },
+        {
           "title": "Stargate plugs Anubis Chain into LayerZero’s 100-plus chain network",
           "description": "The integration enhances cross-chain liquidity and privacy, potentially boosting Anubis's appeal and LayerZero's network effect.\nThe post Stargate plugs Anubis Chain into LayerZero’s 100-plus chain network appeared first on Crypto Briefing.",
           "url": "https://cryptobriefing.com/stargate-integrates-anubis-chain-layerzero/",
@@ -70,36 +94,12 @@
           "image": "https://www.dcforecasts.com/wp-content/uploads/2026/11/privacy-cash-pauses-deposits-what-does-it-mean-for-bitcoin.webp"
         },
         {
-          "title": "L2BEAT rebrands as ETHBEAT, expands coverage to privacy, interoperability, and staking",
-          "description": "ETHBEAT's expanded focus on privacy, interoperability, and staking enhances Ethereum's ecosystem transparency, potentially boosting user trust.\nThe post L2BEAT rebrands as ETHBEAT, expands coverage to privacy, interoperability, and staking appeared first on C…",
-          "url": "https://cryptobriefing.com/l2beat-rebrands-ethbeat-privacy-staking/",
-          "source": "Crypto Briefing",
-          "published": "2026-11-04T16:52:02Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/04115148/library-l2beat-rebrands-as-ethbeat-expands-coverage-to-privacy-i-800x450.png"
-        },
-        {
           "title": "Binance says thinly traded tokens are delaying full replacement of stolen assets",
           "description": "Binance attributes its last reported 5% replenishment gap to less-liquid assets, while its November 3 withdrawal plan reopens routes progressively.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Cat…",
           "url": "https://cryptoslate.com/binance-says-thinly-traded-tokens-are-delaying-full-replacement-of-stolen-assets/",
           "source": "CryptoSlate",
           "published": "2026-11-03T19:10:35Z",
           "image": "https://cryptoslate.com/wp-content/uploads/2026/11/binance-token-recovery-bottleneck.webp"
-        },
-        {
-          "title": "The cryptography behind electronic voting (and why paper ballots are still essential)",
-          "description": "As millions of Americans vote in today’s U.S. midterms, most will use paper ballots, which are protected by strict chain-of-custody protocols and, in some cases, statistical audits. You may wonder why we still use paper for our elections and voting systems wh…",
-          "url": "https://blog.trailofbits.com/2026/11/03/the-cryptography-behind-electronic-voting-and-why-paper-ballots-are-still-essential/",
-          "source": "Trailofbits.com",
-          "published": "2026-11-03T12:00:00Z",
-          "image": "https://blog.trailofbits.com/2026/11/03/the-cryptography-behind-electronic-voting-and-why-paper-ballots-are-still-essential/electronicvoting_socialbanner.png"
-        },
-        {
-          "title": "Binance Update: Waiting on a Zero-Knowledge Proof",
-          "description": "Binance reopened withdrawals and says it has covered 95% of the $6.3 billion hack. The proof that the money is there is a zero-knowledge proof, and it's running a day late.",
-          "url": "https://feld.com/archives/2026/11/binance-hack-update/",
-          "source": "Feld.com",
-          "published": "2026-11-01T22:58:36Z",
-          "image": "https://feld.com/archives/2026/11/binance-hack-update/hero.webp"
         }
       ]
     },
@@ -109,60 +109,60 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "DSA’s Adrian Wall and Former CFTC Chair Chris Giancarlo Discuss Future of U.S. Crypto Regulation at Strobe Summit",
-          "description": "Washington, D.C., November 6, 2026 — The Digital Sovereignty Alliance (DSA), a nonprofit organization dedicated to advancing clear and ethical public policy, research, and education related to emerging technologies, participated in the Strobe Summit, where DS…",
-          "url": "https://www.newsbtc.com/news/dsas-adrian-wall-and-former-cftc-chair-chris-giancarlo-discuss-future-of-u-s-crypto-regulation-at-strobe-summit/",
+          "title": "Bitcoin ETFs Lose $411.9M on Friday as BlackRock Drives the Selling",
+          "description": "US spot Bitcoin ETFs recorded a net $411.9 million outflow on November 6, according to Farside Investors. BlackRock's IBIT accounted for $403 million in…",
+          "url": "https://www.newsbtc.com/news/bitcoin/bitcoin-etfs-lose-411-9m-on-friday-as-blackrock-drives-the-selling/",
           "source": "newsBTC",
-          "published": "2026-11-06T11:46:28Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/unnamed.jpg"
+          "published": "2026-11-07T12:00:00Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/newsbtc-n07-01-bitcoin-etf-flows-commons.jpg"
         },
         {
-          "title": "Waters’ Investor-Rights Plan Could Put SEC at Center of New Crypto Market Structure Bill",
-          "description": "Democrats are weighing a crypto market structure bill based on Maxine Waters’ plan, adding tougher custody rules and a larger SEC role to the debate.\nThe post Waters’ Investor-Rights Plan Could Put SEC at Center of New Crypto Market Structure Bill appeared fi…",
-          "url": "https://bitcoinfoundation.org/news/regulation/waters-investor-rights-plan-could-put-sec-at-center-of-new-crypto-market-structure-bill/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-11-06T11:07:55Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/waters-investor-rights-plan-could-put-sec-at-center-of-new-crypto-market-structu.webp"
+          "title": "Bitcoin steadies after record hack fallout, US midterms turbulence",
+          "description": "Bitcoin settled near recent lows after a bruising selloff on Nov 5 swept through risky assets.  Read more at straitstimes.com.",
+          "url": "https://www.straitstimes.com/business/companies-markets/bitcoin-steadies-after-record-hack-fallout-us-midterms-turbulence",
+          "source": "The Straits Times",
+          "published": "2026-11-07T03:47:30Z",
+          "image": "https://cassette.sphdigital.com.sg/image/straitstimes/c6a16fed9a51766384e6b97f8051372c77dd386acd4044a1663a1ed5b65b51be?w=1200"
         },
         {
-          "title": "Binance $6.3 Billion Heist to Prompt Closer Scrutiny by Insurers",
-          "description": "Last week’s $6.3 billion Binance heist is prompting insurers to scrutinize crypto companies’ security more closely, with underwriters expected to probe if clients are vulnerable to a similar attack when they seek new coverage or renew existing policies, indus…",
-          "url": "https://www.insurancejournal.com/news/international/2026/11/06/891790.htm",
-          "source": "Insurance Journal",
-          "published": "2026-11-06T10:37:34Z",
-          "image": "https://www.insurancejournal.com/app/uploads/2026/11/binance-logo-on-smart-phone-220316942-Depositphotos-scaled.jpg"
-        },
-        {
-          "title": "CBN sets N15bn capital requirement for dollar stablecoin issuers",
-          "description": "The Central Bank of Nigeria has introduced a minimum paid-up capital requirement of N15bn for companies issuing foreign currency-backed stablecoins, including those pegged to the United States dollar.\n\nRead More: https://punchng.com/cbn-sets-n15bn-capital-req…",
-          "url": "https://punchng.com/cbn-sets-n15bn-capital-requirement-for-dollar-stablecoin-issuers/",
+          "title": "CBN sets N15bn capital requirement for dollar stablecoins",
+          "description": "The Central Bank of Nigeria has introduced a minimum paid-up capital requirement of N15bn for companies issuing foreign currency-backed stablecoins, including those pegged to the United States…\n\nRead More: https://punchng.com/cbn-sets-n15bn-capital-requiremen…",
+          "url": "https://punchng.com/cbn-sets-n15bn-capital-requirement-for-dollar-stablecoins/",
           "source": "The Punch",
-          "published": "2026-11-06T09:23:18Z",
+          "published": "2026-11-06T23:36:18Z",
           "image": "https://punchng.com/wp-content/uploads/2026/06/CBN-headquarters.webp"
         },
         {
-          "title": "Crypto Market Structure Under Warren: What Does It Mean for Bitcoin?",
-          "description": "Elizabeth Warren is expected to chair the Senate Banking Committee, putting crypto market structure and Bitcoin regulation back at the center of Washington.",
-          "url": "https://www.dcforecasts.com/regulation/crypto-market-structure-warren-senate-banking-bitcoin/",
-          "source": "Dcforecasts.com",
-          "published": "2026-11-06T07:27:49Z",
-          "image": "https://www.dcforecasts.com/wp-content/uploads/2026/11/crypto-market-structure-warren-senate-banking-bitcoin.webp"
+          "title": "Bitcoin and USDT attract modest premiums in Paraguay as millions face banking crisis",
+          "description": "Bitcoin and USDT have traded at premiums in Paraguay's peer-to-peer markets as a banking collapse unsettles the country's financial system. The turmoil has coincided with a 10% surge in the dollar against the Paraguayan guaraní, growing public interest in Bit…",
+          "url": "https://cryptoslate.com/bitcoin-and-usdt-attract-modest-premiums-in-paraguay-as-millions-face-banking-crisis/",
+          "source": "CryptoSlate",
+          "published": "2026-11-06T23:20:28Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/11/paraguay-crypto-search-interest.webp"
         },
         {
-          "title": "Binance Reveals $6.34 Billion Hack, Blames North Korea-Linked Hackers After Fake Job Interview Scheme",
-          "description": "Binance said hackers stole $6.34 billion from its wallets on October 29 in about 20 minutes, an attack the company described as the result of a fake job interview and a malicious software download rather than a single isolated breach. In a security update iss…",
-          "url": "https://www.naturalnews.com/2026-11-06-binance-reveals-hack-blames-north-korea-hackers.html",
-          "source": "Naturalnews.com",
-          "published": "2026-11-06T06:00:00Z",
-          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/11/cryptocurrency-hack-binance-tradertraitor-6176-2b3e3c9a-original.jpg"
+          "title": "Samsung’s 82-Million-Device Bet Shows Stablecoin Wars Moving Beyond Crypto",
+          "description": "Stablecoins are becoming a distribution business before they have conclusively become a profitable payments business. And if stablecoins are a distribution business, then a new player might be trying to corner the market. Samsung last month gave stablecoins s…",
+          "url": "https://www.pymnts.com/blockchain/2026/samsungs-82-million-device-bet-shows-stablecoin-wars-moving-beyond-crypto/",
+          "source": "pymnts.com",
+          "published": "2026-11-06T21:38:03Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2024/02/Samsung.jpg"
         },
         {
-          "title": "Trump-Linked Tokens Fall After Democrats Sweep Midterms",
-          "description": "Two cryptocurrency tokens tied to U.S. President Donald Trump tanked after Democratic candidates won in various races in the 2026 midterm elections [1]. The Official Trump (TRUMP) token fell 17% over 24 hours to $1.33, while the World Liberty Financial (WLFI)…",
-          "url": "https://www.naturalnews.com/2026-11-06-trump-linked-tokens-fall-democrats-sweep-midterms.html",
-          "source": "Naturalnews.com",
-          "published": "2026-11-06T06:00:00Z",
-          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/11/trump-linked-tokens-trump-token-wlfi-token-6247-035f466e-original.jpg"
+          "title": "Digital Payments Beyond Crypto Trading: How Online Entertainment Platforms Handle Transactions",
+          "description": "Gaming and betting sites move funds in seconds; here’s how their payment systems work, plus where crypto fits. Whenever crypto trading takes the headlines, more...\nThe post Digital Payments Beyond Crypto Trading: How Online Entertainment Platforms Handle Tran…",
+          "url": "https://bitcoinfoundation.org/news/crypto-casino/digital-payments-online-entertainment-platforms/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-11-06T16:41:54Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/digital-payments-online-entertainment-platforms-cover.webp"
+        },
+        {
+          "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
+          "description": "Nigeria has banned algorithmic stablecoins and introduced reserve requirements for issuers as it expands central bank oversight of crypto payment services.",
+          "url": "https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing",
+          "source": "Cointelegraph",
+          "published": "2026-11-06T13:57:14Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6RFZC8EDJXT26642DWHC0EV/hi-the-crypto-act-explained-nigeria-1.jpg"
         },
         {
           "title": "Asian crypto exchanges batten down the hatches as hacks surge: Asia Express",
@@ -180,20 +180,44 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Zcash holds near $1,300 as NU7 upgrade fuels bullish momentum",
-          "description": "Key takeaways Zcash (ZEC) trades around $1,300 on Friday, outperforming the broader cryptocurrency market. Grayscale’s ZEC-focused ETF (ZCSH) recorded $10.99 million in net outflows on Thursday, bringing weekly withdrawals to $14.77 million. ZEC faces immedia…",
-          "url": "https://coinjournal.net/news/zcash-holds-near-1300-as-nu7-upgrade-fuels-bullish-momentum/",
-          "source": "Coinjournal.net",
-          "published": "2026-11-06T12:04:19Z",
-          "image": "https://coinjournal.net/wp-content/uploads/2025/11/hedera-price-bulls-bear-outlook.png"
+          "title": "Crypto’s 2026 shutdown wave claims 82 projects. What went wrong?",
+          "description": "Crypto projects are struggling to survive as falling revenues, depleted funding and security breaches force closures across DeFi, blockchain infrastructure and gaming. Crypto researcher Stacy Muur has identified 82 digital asset projects and protocols that ha…",
+          "url": "https://activistpost.com/cryptos-2026-shutdown-wave-claims-82-projects-what-went-wrong/",
+          "source": "Activistpost.com",
+          "published": "2026-11-06T23:00:00Z",
+          "image": "https://activistpost.com/wp-content/uploads/2026/11/layoffs-fired-human-resource-hr-leaving-quit-closing-breaking-news-3-1280x853-1.webp"
         },
         {
-          "title": "Former FBI Agent Pleads Guilty to Stealing $2.5M in Crypto From 35 Investigations",
-          "description": "Patrick Yaroch drained wallets using credentials the FBI had collected, then asked ChatGPT for advice on starting a new life in Europe.",
-          "url": "https://decrypt.co/382695/former-fbi-agent-pleads-guilty-to-stealing-2-5m-in-crypto-from-35-investigations",
-          "source": "Decrypt",
-          "published": "2026-11-06T10:57:06Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/crypto-crime-decrypt-style-1-gID_7.png"
+          "title": "ADA Advancing Regulated Asset Tokenization as Brazil’s Petrobras Brings Sustainable Aviation Fuel Certificates to Cardano",
+          "description": "ADA continues to gain popularity in tokenized real-world assets and institutional blockchain adoption. Petrobras’ move to bring sustainable aviation fuel certificates to Cardano demonstrates this. Brazil’s state-controlled energy company Petrobras has taken a…",
+          "url": "https://zycrypto.com/ada-advancing-regulated-asset-tokenization-as-brazils-petrobras-brings-sustainable-aviation-fuel-certificates-to-cardano/",
+          "source": "ZyCrypto",
+          "published": "2026-11-06T19:54:57Z",
+          "image": "https://zycrypto.com/wp-content/uploads/2024/04/Cardano-Founder-Goes-Headfirst-Against-FUD-Amid-Incoming-Chang-Upgrade.jpeg"
+        },
+        {
+          "title": "FBI Agent Admits Stealing $2.47 Million in Crypto From Crime Victims and Nation-State Targets",
+          "description": "The agent acknowledged using the crypto to pay off personal debts and planning his retirement in Portugal with help from ChatGPT.",
+          "url": "https://gizmodo.com/fbi-agent-admits-stealing-2-47-million-in-crypto-from-crime-victims-and-nation-state-targets-2000836315",
+          "source": "Gizmodo.com",
+          "published": "2026-11-06T18:15:02Z",
+          "image": "https://gizmodo.com/app/uploads/2026/10/fbi-jacket-letters-1200x675.jpg"
+        },
+        {
+          "title": "XRP Ledger Leads 2026 Tokenized Commodities With $2.2B in Inflows",
+          "description": "Tokenized commodities lead XRP Ledger with $2.2 billion in 2026 inflows, ahead of Ethereum, but a $2.23 billion Justoken fund drives most of its lead.\nThe post XRP Ledger Leads 2026 Tokenized Commodities With $2.2B in Inflows appeared first on Bitcoin Foundat…",
+          "url": "https://bitcoinfoundation.org/news/altcoins/xrp-ledger-leads-2026-tokenized-commodities-with-2-2b-in-inflows/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-11-06T16:41:27Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/xrp-ledger-leads-2026-tokenized-commodities-with-2-2b-in-inflows.webp"
+        },
+        {
+          "title": "This Week in Security: More Linux Bugs, Biggest Crypto Theft Ever, Prusa Printers, Residential Proxies",
+          "description": "Linux kernel bugs which can be triggered remotely, without any login, are rare. Most kernel vulnerabilities need an attacker to already be running code on the machine. CVE-2026-98432 is one of those: …read more",
+          "url": "https://hackaday.com/2026/11/06/this-week-in-security-more-linux-bugs-biggest-crypto-theft-ever-prusa-printers-residential-proxies/",
+          "source": "Hackaday",
+          "published": "2026-11-06T16:21:04Z",
+          "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaGFja2FkYXkuY29tXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDIwXC8wN1wvaGFja2FkYXktbG9nby13aXRoLXRleHQtb3BlbmdyYXBoLWRlZmF1bHQtaW1hZ2UuanBnIiwidHh0IjoiSGFja2FkYXkiLCJ0ZW1wbGF0ZSI6ImhpZ2h3YXkiLCJmb250IjoiIiwiYmxvZ19pZCI6MTU2NjcwMTc3fQ.kVPxWrsIQyGdD1cPoxYvzP1mD56qtpkNpW1nAFiZiIgMQ"
         },
         {
           "title": "Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum",
@@ -218,14 +242,6 @@
           "source": "The Conversation Africa",
           "published": "2026-11-04T13:49:10Z",
           "image": "https://images.theconversation.com/files/769038/original/file-20261029-92-hc5zhk.jpg?ixlib=rb-4.1.1&rect=0%2C176%2C2121%2C1060&q=45&auto=format&w=1356&h=668&fit=crop"
-        },
-        {
-          "title": "How T7X Is Building the Infrastructure for a New Era of Capital Markets",
-          "description": "T7X records ownership directly on-chain instead of wrapping assets held elsewhere, keeping token and asset under one legal framework.",
-          "url": "https://decrypt.co/382147/how-t7x-is-building-the-infrastructure-for-a-new-era-of-capital-markets",
-          "source": "Decrypt",
-          "published": "2026-11-02T15:01:03Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png"
         }
       ]
     },
@@ -239,20 +255,20 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Todays Cryptogram",
-              "description": "Hiya kids! Hiya, Hiya!Good Morning Crypto-FReepers.I see some of the same old faces out there.But that's OK - I like you anyway. Did she really say that>.Ha Ha Ha!I'll be good - I will, (like heck) I will. Ha ha ha.This is today's quote: QSQLNFXYAR NZJ DQQ Y …",
-              "url": "https://freerepublic.com/focus/f-chat/4402021/posts",
-              "source": "Freerepublic.com",
-              "published": "2026-11-06T10:47:29Z",
-              "image": null
+              "title": "Stablecoin contraction forces Bitcoin drop despite Fed reserve gains",
+              "description": "The dated comparison pairs a reserve rebound with shrinking dollar-token circulation, leaving the link to Bitcoin buying unestablished.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in you…",
+              "url": "https://cryptoslate.com/stablecoin-contraction-forces-bitcoin-drop-despite-fed-reserve-gains/",
+              "source": "CryptoSlate",
+              "published": "2026-11-07T12:40:07Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/11/02-fed-facade.jpg"
             },
             {
-              "title": "Today's Cryptogram",
-              "description": "Hiya kids! Hiya, Hiya!Good Morning Crypto-FReepers.I see some of the same old faces out there.But that's OK - I like you anyway.Kinda surprising today!Ha Ha Ha!I'll be good - I will, (like heck) I will, I will. Ha ha ha.This is today's quote: QSQLNFXYAR NZJ D…",
-              "url": "https://freerepublic.com/focus/f-chat/4402019/posts",
-              "source": "Freerepublic.com",
-              "published": "2026-11-06T10:23:38Z",
-              "image": null
+              "title": "AiTraderView – Free all-in-one solution for crypto traders",
+              "description": "Free all-in-one solution for crypto traders",
+              "url": "https://betalist.com/startups/aitraderview",
+              "source": "Betalist.com",
+              "published": "2026-11-07T10:05:00Z",
+              "image": "https://resize.imagekit.co/AIfs3RAq5dRWpMjcG_eE4gmYDXvEyD6-0O1cHV8xOhk/plain/s3://betalist-production/q3f22zj7srydhe2q3w8zpj7hvnzw"
             },
             {
               "title": "Building a Community of Imposters: What It Means To Be a Literary Translator Today",
@@ -261,14 +277,6 @@
               "source": "Lithub.com",
               "published": "2026-11-04T09:20:10Z",
               "image": "https://s26162.pcdn.co/wp-content/uploads/2026/10/translation-books.png"
-            },
-            {
-              "title": "Ethereum dev targets 2028 for quantum resistance, a year early",
-              "description": "Ethereum researcher Justin Drake said it is their “hope” that Ethereum will achieve its post-quantum and post-AI transition by December 2028.",
-              "url": "https://cointelegraph.com/news/ethereum-post-quantum-transition-2028-target",
-              "source": "Cointelegraph",
-              "published": "2026-11-04T05:46:33Z",
-              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6JH4H7TR2ZYP94F0GBTNFV0/ethereum-post-quantum.png"
             },
             {
               "title": "Ethereum Privacy Network Aztec Rolls Out Major Security and Speed Upgrade",
@@ -301,12 +309,12 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "MetaMask says recent attack didn't affect wallet infrastructure",
-              "description": "Cryptocurrency wallet provider MetaMask said a recent security incident has not affected MetaMask wallets or its wallet infrastructure. [...]",
-              "url": "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/",
+              "title": "Chainalysis says breach exposed credentials for all customers",
+              "description": "Blockchain intelligence firm Chainalysis says a recent attack on its systems and internal tools has exposed credentials and live tokens for all customers. [...]",
+              "url": "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/",
               "source": "BleepingComputer",
-              "published": "2026-11-06T09:22:28Z",
-              "image": "https://www.bleepstatic.com/content/hl-images/2026/11/06/Metamask.jpg"
+              "published": "2026-11-06T14:17:07Z",
+              "image": "https://www.bleepstatic.com/content/hl-images/2026/11/06/0_Chainalysis.jpg"
             },
             {
               "title": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
@@ -325,12 +333,12 @@
               "image": "https://biztoc.com/cdn/8df96b45a647b907_s.webp"
             },
             {
-              "title": "Apple and Home Depot join list of objectors to tokenized stock plan pushed by NYSE owner",
-              "description": "Boeing also joined the list of dozens of companies refusing to participate in the venture cochaired by former New York Gov. Andrew Cuomo.",
-              "url": "https://fortune.com/2026/11/05/apple-home-depot-list-objectors-tokenized-stock-plan-nyse-owner/",
-              "source": "Fortune",
-              "published": "2026-11-05T18:34:16Z",
-              "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2302418320-e1793903586953.jpg?resize=1200,600"
+              "title": "Solana Labs’ Leap Launches Mobile App for Trading Tokenized Stocks and Crypto",
+              "description": "Leap, built by the team behind Dialect, launched a beta iPhone app for trading tokenized stocks, ETFs, metals, currencies and crypto on Solana, pitching itself to traders looking beyond meme coins.",
+              "url": "https://decrypt.co/382609/solana-labs-leap-launches-mobile-app-tokenized-stocks-crypto",
+              "source": "Decrypt",
+              "published": "2026-11-05T17:01:03Z",
+              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/solana-decrypt-style-04-gID_7.png"
             }
           ]
         }
