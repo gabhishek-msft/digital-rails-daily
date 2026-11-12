@@ -1,11 +1,43 @@
 {
-  "date": "November 11, 2026",
+  "date": "November 12, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "Alta Raises $80 Million to Build the Infrastructure for Onchain Global Banking",
+          "description": "Alta, a financial infrastructure company building the foundation for the next generation of global finance, has announced $80 million in total funding — including a $47.5 million Series A round and $32.5 million in previous seed financing. The Series A was le…",
+          "url": "https://zycrypto.com/alta-raises-80-million-to-build-the-infrastructure-for-onchain-global-banking/",
+          "source": "ZyCrypto",
+          "published": "2026-11-10T16:37:05Z",
+          "image": "https://zycrypto.com/wp-content/uploads/2026/11/unnamed-2026-11-10T163621.898.jpg"
+        },
+        {
+          "title": "Helius launches Solana Privacy Rings on mainnet for encrypted transfers",
+          "description": "The launch of Solana Privacy Rings could enhance privacy in DeFi, enabling confidential transactions while posing regulatory and security challenges.\nThe post Helius launches Solana Privacy Rings on mainnet for encrypted transfers appeared first on Crypto Bri…",
+          "url": "https://cryptobriefing.com/helius-solana-privacy-rings-mainnet/",
+          "source": "Crypto Briefing",
+          "published": "2026-11-10T15:08:32Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/10100808/library-helius-launches-solana-privacy-rings-on-mainnet-for-encr-800x450.png"
+        },
+        {
+          "title": "Decrypt Money Account Gets Confidential Transfers With Solana Privacy Firm Helius",
+          "description": "Helius' Solana Privacy Rings will let Decrypt users send funds without broadcasting amounts, as it grows out The Information Exchange.",
+          "url": "https://decrypt.co/382806/decrypt-money-account-gets-confidential-transfers-with-solana-privacy-firm-helius",
+          "source": "Decrypt",
+          "published": "2026-11-10T14:32:48Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/11/decrypt-the-information-exchange-helius-gID_7.png"
+        },
+        {
+          "title": "Backed by $80 Million, Alta is Building the Infrastructure to Bring Global Banking Onchain",
+          "description": "San Francisco, CA, USA, 10th November 2026, Chainwire\nThe post Backed by $80 Million, Alta is Building the Infrastructure to Bring Global Banking Onchain appeared first on The Daily Hodl.",
+          "url": "https://dailyhodl.com/2026/11/10/backed-by-80-million-alta-is-building-the-infrastructure-to-bring-global-banking-onchain/",
+          "source": "The Daily Hodl",
+          "published": "2026-11-10T14:12:12Z",
+          "image": "https://dailyhodl.com/wp-content/uploads/2026/11/photo_2026-11-10_07-47-59_17942872672Glqr3lA0q.jpg?resize=1200,720"
+        },
         {
           "title": "Gate introduces Proof of Security standard for crypto exchanges",
           "description": "Gate's PoSEC framework could push crypto exchanges towards stronger security standards, emphasizing resilience against major breaches.\nThe post Gate introduces Proof of Security standard for crypto exchanges appeared first on Crypto Briefing.",
@@ -22,20 +54,20 @@
       "color": "#e6a200",
       "articles": [
         {
-          "title": "Space and Time launches platform for AI verification of private data",
-          "description": "The platform's launch could revolutionize data privacy in AI, enabling secure computations without direct data access, potentially broadening AI adoption.\nThe post Space and Time launches platform for AI verification of private data appeared first on Crypto B…",
-          "url": "https://cryptobriefing.com/space-and-time-enterprise-ai-private-data/",
+          "title": "Linea switches on Phylax’s Credible Layer to block exploits before they settle",
+          "description": "Linea's proactive security integration could redefine DeFi safety standards, but its effectiveness hinges on widespread adoption and robust rule-setting.\nThe post Linea switches on Phylax’s Credible Layer to block exploits before they settle appeared first on…",
+          "url": "https://cryptobriefing.com/linea-phylax-credible-layer-onchain-security/",
           "source": "Crypto Briefing",
-          "published": "2026-11-09T13:06:10Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/09080556/library-space-and-time-launches-platform-for-ai-verification-of--800x450.png"
+          "published": "2026-11-10T15:11:35Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/10101114/library-linea-switches-on-phylax-s-credible-layer-to-block-explo-800x450.png"
         },
         {
-          "title": "Nym brings its mixnet to wallets and dapps with new SDK at Devcon 8",
-          "description": "Nym's SDK could significantly enhance privacy in crypto transactions, potentially reshaping user trust and adoption in decentralized finance.\nThe post Nym brings its mixnet to wallets and dapps with new SDK at Devcon 8 appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/nym-mixnet-sdk-wallets-devcon-8/",
+          "title": "Alta raises $47.5 million Series A led by Index Ventures for compliance-first blockchain",
+          "description": "Alta's funding highlights growing institutional demand for compliant blockchain solutions, but reliance on a single partner poses risks.\nThe post Alta raises $47.5 million Series A led by Index Ventures for compliance-first blockchain appeared first on Crypto…",
+          "url": "https://cryptobriefing.com/alta-raises-series-a-index-ventures/",
           "source": "Crypto Briefing",
-          "published": "2026-11-06T22:55:05Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/06175456/library-nym-brings-its-mixnet-to-wallets-and-dapps-with-new-sdk--800x450.png"
+          "published": "2026-11-10T14:52:34Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/10095221/library-alta-raises-47-5-million-series-a-led-by-index-ventures--800x450.png"
         },
         {
           "title": "$3.1B in Stolen Binance Crypto Has Yet to Be Laundered: Elliptic",
@@ -54,28 +86,12 @@
           "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M6PDQYFDGF7T52H2AD675QSY.png"
         },
         {
-          "title": "Crypto Hack Wake-Up: Why Is Vitalik Pushing Exchange Bunker Mode?",
-          "description": "Vitalik Buterin says crypto exchanges must survive—not just compete—after a major Binance breach. We unpack what bunker mode means for Bitcoin holders.",
-          "url": "https://www.dcforecasts.com/binance-news/crypto-hack-vitalik-binance-exchange-bunker-mode/",
-          "source": "Dcforecasts.com",
-          "published": "2026-11-05T12:44:22Z",
-          "image": "https://www.dcforecasts.com/wp-content/uploads/2026/11/crypto-hack-vitalik-binance-exchange-bunker-mode.webp"
-        },
-        {
           "title": "Are you getting the AI you paid for? Anthropic’s new AI verification tool has a costly catch",
           "description": "FlashProve could help verify model computation, but its benchmark takes roughly 70 to 95 times the GPU work of ordinary inference.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inb…",
           "url": "https://cryptoslate.com/are-you-getting-the-ai-you-paid-for-anthropics-new-proof-has-a-costly-catch/",
           "source": "CryptoSlate",
           "published": "2026-11-05T12:10:19Z",
           "image": "https://cryptoslate.com/wp-content/uploads/2026/11/anthropic-proof-compute.webp"
-        },
-        {
-          "title": "Privacy Cash Pauses Deposits: What Does It Mean for Bitcoin?",
-          "description": "Privacy Cash temporarily paused deposits after investigators traced about $1.2 million in Binance-linked funds into its pools, while withdrawals stay open.",
-          "url": "https://www.dcforecasts.com/binance-news/privacy-cash-pauses-deposits-what-does-it-mean-for-bitcoin/",
-          "source": "Dcforecasts.com",
-          "published": "2026-11-04T18:21:28Z",
-          "image": "https://www.dcforecasts.com/wp-content/uploads/2026/11/privacy-cash-pauses-deposits-what-does-it-mean-for-bitcoin.webp"
         }
       ]
     },
@@ -85,68 +101,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Coinbase Wins Final Federal Approval To Run Crypto Custody Business Under National Trust Charter",
-          "description": "The largest US crypto company has won final federal approval to run its custody business under a national trust charter. The Office of the Comptroller of the Currency has just approved the charter for Coinbase National Trust Company, Coinbase says. The approv…",
-          "url": "https://dailyhodl.com/2026/11/10/coinbase-wins-final-federal-approval-to-run-crypto-custody-business-under-national-trust-charter/",
-          "source": "The Daily Hodl",
-          "published": "2026-11-10T12:45:13Z",
-          "image": "https://dailyhodl.com/wp-content/uploads/2026/11/bank-vault-banking_pink.jpg?resize=1365,800"
+          "title": "Deutsche Bank launches crypto custody for companies and institutions",
+          "description": "Deutsche Bank launched crypto custody for institutional and corporate clients, with initial support for Bitcoin, Ether, USDC, EURC and EURAU.",
+          "url": "https://cointelegraph.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu",
+          "source": "Cointelegraph",
+          "published": "2026-11-11T14:02:18Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75D0RVNVRMGT5GMDFRH6PZQ/hi-us-banks-have-deeper-interest-in-digital-than-previously-thought.jpg"
         },
         {
-          "title": "BitGo Q3 Revenue Falls 51% to $2.9B as Net Income Nearly Doubles",
-          "description": "BitGo Q3 earnings show revenue dropped 51% to $2.9 billion as trading slowed, while a $71.5 million crypto gain helped nearly double net income.\nThe post BitGo Q3 Revenue Falls 51% to $2.9B as Net Income Nearly Doubles appeared first on Bitcoin Foundation.",
-          "url": "https://bitcoinfoundation.org/news/companies/bitgo-q3-revenue-falls-51-to-2-9b-as-net-income-nearly-doubles/",
+          "title": "Global watchdog urges Turkey to strengthen crypto rules",
+          "description": "LONDON, Nov 11 : Turkey needs to further strengthen its regulatory framework for crypto assets and stablecoins to address potential financial stability risks linked to the fast-growing sector, the G20's Financial Stability Board said on Wednesday.In a review …",
+          "url": "https://www.channelnewsasia.com/business/global-watchdog-urges-turkey-strengthen-crypto-rules-6543241",
+          "source": "CNA",
+          "published": "2026-11-11T13:49:13Z",
+          "image": "https://dam.mediacorp.sg/image/upload/s--9NMBEbQU--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-11T134913Z_2_LYNXNPEMAA1A9_RTROPTP_3_FINTECH-CRYPTO-BINANCE-FALLOUT.JPG?itok=g5LAL7Vz"
+        },
+        {
+          "title": "ECB Warns EU Law Delays Could Push Digital Euro Beyond 2029",
+          "description": "The ECB warns digital euro issuance could slip beyond 2029 if EU legislation stalls, putting pressure on lawmakers to reach a deal by the end of 2026.\nThe post ECB Warns EU Law Delays Could Push Digital Euro Beyond 2029 appeared first on Bitcoin Foundation.",
+          "url": "https://bitcoinfoundation.org/news/regulation/ecb-warns-eu-law-delays-could-push-digital-euro-beyond-2029/",
           "source": "Bitcoinfoundation.org",
-          "published": "2026-11-10T12:17:59Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/bitgo-q3-revenue-falls-51-to-2-9b-as-net-income-nearly-doubles.webp"
+          "published": "2026-11-11T13:19:45Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/ecb-warns-eu-law-delays-could-push-digital-euro-beyond-2029.webp"
         },
         {
-          "title": "PNC shares up 2.3% as bank opens stablecoin payments to corporate clients",
-          "description": "PNC opened incoming USDC payments to corporate and institutional clients, auto-converted 1-to-1 to dollars, and investors pushed the stock up 2.3%.\nThe post PNC shares up 2.3% as bank opens stablecoin payments to corporate clients appeared first on ValueWalk.",
-          "url": "https://www.valuewalk.com/pnc-shares-up-stablecoin-payments-usdc-coinbase/",
-          "source": "ValueWalk",
-          "published": "2026-11-10T12:01:57Z",
-          "image": "https://www.valuewalk.com/wp-content/uploads/2026/11/senseserp-1794312095.jpg"
-        },
-        {
-          "title": "Re Protocol Tops $400M in Deposits as Onchain Reinsurance Yield Attracts Capital",
-          "description": "Re Protocol says deposits across its reUSD and reUSDe products have exceeded $400 million, putting a relatively unfamiliar type of real-world asset exposure into the spotlight: insurance and reinsurance. Its November 4 announcement says the latest…",
-          "url": "https://www.newsbtc.com/news/re-protocol-tops-400m-in-deposits-as-onchain-reinsurance-yield-attracts-capital/",
+          "title": "ARK Invest Trims Block and Bullish Positions as Bitcoin ETF Outflows Continue",
+          "description": "Disclosed ARK Invest trading activity points to sales of shares in crypto-linked companies Block and Bullish alongside changes elsewhere in its…",
+          "url": "https://www.newsbtc.com/market-news/ark-invest-block-bullish-share-sales-crypto-etf-flows/",
           "source": "newsBTC",
-          "published": "2026-11-10T11:00:00Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/21_re-protocol-tops-400m-in-deposits-as-onchain-reinsurance-yield-attracts-capital.png"
+          "published": "2026-11-11T13:00:00Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/N10-20_ark-invest-block-bullish-share-sales-crypto-etf-flows.png"
         },
         {
-          "title": "Exodus Now Moves as Much Money Through Cards as Through Crypto Swaps: $1.1 Billion Each",
-          "description": "Exodus processed $1.1B of card payments in Q3 2026, matching its swap volume, as payments reached a third of revenue after the Monavate and Baanx deals.",
-          "url": "https://www.dcforecasts.com/blockchain-news/exodus-stock-q3-2026-cards-payments-swaps/",
-          "source": "Dcforecasts.com",
-          "published": "2026-11-10T10:42:58Z",
-          "image": "https://www.dcforecasts.com/wp-content/uploads/2026/11/exodus-stock-q3-2026-cards-payments-swaps.webp"
+          "title": "Global Banks Goldman Sachs, Citigroup and More Commit $270,000,000 to Joint Stablecoin Venture",
+          "description": "A consortium of major financial institutions is backing a joint dollar-denominated stablecoin with roughly $270 million in funding to cover five years of operations at a new US-based issuer.\nThe post Global Banks Goldman Sachs, Citigroup and More Commit $270,…",
+          "url": "https://dailyhodl.com/2026/11/11/global-banks-goldman-sachs-citigroup-and-more-commit-270000000-to-joint-stablecoin-venture/",
+          "source": "The Daily Hodl",
+          "published": "2026-11-11T12:45:43Z",
+          "image": "https://dailyhodl.com/wp-content/uploads/2022/02/whales-run-stablecoins-projects.jpg?resize=1365,800"
         },
         {
-          "title": "Canton Coin Gets SEC Staff No-Action Relief for Programmatic Minting",
-          "description": "The Canton Coin SEC no-action letter gives specified network participants narrow relief for programmatic minting, but stops short of blanket approval.\nThe post Canton Coin Gets SEC Staff No-Action Relief for Programmatic Minting appeared first on Bitcoin Foun…",
-          "url": "https://bitcoinfoundation.org/news/blockchain-news/canton-coin-gets-sec-staff-no-action-relief-for-programmatic-minting/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-11-10T07:28:33Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/canton-coin-gets-sec-staff-no-action-relief-for-programmatic-minting.webp"
+          "title": "FSB urgest Turkey to tighten crypto oversight, set stablecoin rules",
+          "description": "The Financial Stability Board urged Turkey to adopt stablecoin rules, tighten crypto supervision and improve monitoring of financial stability risks.",
+          "url": "https://cointelegraph.com/news/fsb-turkey-crypto-oversight-stablecoin-regulation",
+          "source": "Cointelegraph",
+          "published": "2026-11-11T12:44:10Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7578X1R0G4ARNS1V00H1SJF/regulation-office-document-paper-turkey.jpg"
         },
         {
-          "title": "Canada opens bank stablecoin access, but strips deposit guarantees",
-          "description": "Budget 2026 proposes bringing bank subsidiaries and foreign financial institutions outside Canadian prudential supervision under the Stablecoin Act.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Ca…",
-          "url": "https://cryptoslate.com/canada-opens-bank-stablecoin-access-but-strips-deposit-guarantees/",
-          "source": "CryptoSlate",
-          "published": "2026-11-10T00:40:28Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/11/canada-stablecoin-deposit-separation.webp"
+          "title": "Offshore crypto contract tied to Jio Platforms exposes India's regulatory gaps",
+          "description": "An offshore perpetual futures contract linked to Jio Platforms highlights how crypto exchanges can create parallel markets for Indian assets, beyond the effective oversight of domestic regulators. This raises concerns over price discovery, market integrity an…",
+          "url": "https://www.livemint.com/opinion/online-views/offshore-crypto-contract-tied-to-jio-platforms-exposes-indias-regulatory-gaps-11794384291017.html",
+          "source": "Livemint",
+          "published": "2026-11-11T12:12:51Z",
+          "image": "https://www.livemint.com/lm-img/img/2026/11/11/1600x900/logo/Jio_1792434199780_djM7_1792434200023_zK8X_d602ff13_1794399136983_Ubmd_1794399137253_upJ8_b2e45086-acdd-4e8c-b6d0-55ece1f0a598_Turz.JPG"
         },
         {
-          "title": "Securitize Moves Into Asset Backed Finance With River One After a Record $5B Quarter",
-          "description": "Securitize agreed to acquire River One to lend against tokenized assets, as Q3 revenue rose 13% to $18.6 million and a $50 million buyback was approved.",
-          "url": "https://www.dcforecasts.com/altcoin-news/securitize-river-one-asset-backed-finance/",
-          "source": "Dcforecasts.com",
-          "published": "2026-11-10T00:09:57Z",
-          "image": "https://www.dcforecasts.com/wp-content/uploads/2026/11/securitize-river-one-asset-backed-finance.webp"
+          "title": "Deutsche Bank goes live with digital asset custody service, signs asset management deal",
+          "description": "Deutsche Bank launched its digital asset custody service and signed an agreement covering tokenized funds, crypto ETCs, and stablecoins.",
+          "url": "https://biztoc.com/x/0756c1c1b10edfc1",
+          "source": "Biztoc.com",
+          "published": "2026-11-11T11:59:10Z",
+          "image": "https://biztoc.com/cdn/0756c1c1b10edfc1_s.webp"
         }
       ]
     },
@@ -156,28 +172,20 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Binance Investigates ShinyHunters Breach Claims",
-          "description": "Cryptocurrency exchange Binance says ShinyHunters’ breach claims appear to be a scam",
-          "url": "https://www.infosecurity-magazine.com/news/binance-investigates-shinyhunters/",
-          "source": "Infosecurity Magazine",
-          "published": "2026-11-10T09:30:00Z",
-          "image": "https://assets.infosecurity-magazine.com/webpage/og/36892a40-71ce-49b6-9aac-75c6d1363e1a.jpg"
-        },
-        {
-          "title": "Trump Media Adds 1,510 BTC as Noteholders Near $1B Repayment Option",
-          "description": "Trump Media Bitcoin holdings hit 15,649 BTC, including 11,385 in its yield program, as a November 30 debt option could trigger up to $1B in repayment.\nThe post Trump Media Adds 1,510 BTC as Noteholders Near $1B Repayment Option appeared first on Bitcoin Found…",
-          "url": "https://bitcoinfoundation.org/news/bitcoin/trump-media-adds-1-510-btc-as-noteholders-near-1b-repayment-option/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-11-10T08:56:27Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/trump-media-adds-1-510-btc-as-noteholders-near-1b-repayment-option.webp"
-        },
-        {
-          "title": "Schroders Emerging-Market Bond Strategy Moves Onto Solana Through Centrifuge",
-          "description": "Schroders is bringing an emerging-market bond strategy into the tokenized fund market through Centrifuge on Solana. The November 4 announcement concerns the Schroder International Selection Fund Emerging Market Bond strategy, with Centrifuge…",
-          "url": "https://www.newsbtc.com/news/schroders-emerging-market-bond-strategy-moves-onto-solana-through-centrifuge/",
+          "title": "HTX Releases October Performance Report: Spot Liquidity Significantly Enhanced, APY Boosts Help Users Through a Warm Winter",
+          "description": "Since the start of Q4, the crypto market has continued to weaken amid volatility. Major asset prices have pulled back from their highs, and market participants have become more cautious. As the market cools, HTX has focused its efforts on solidifying its trad…",
+          "url": "https://www.newsbtc.com/news/htx-releases-october-performance-report-spot-liquidity-significantly-enhanced-apy-boosts-help-users-through-a-warm-winter/",
           "source": "newsBTC",
-          "published": "2026-11-10T01:00:00Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/11_schroders-emerging-market-bond-strategy-moves-onto-solana-through-centrifuge.png"
+          "published": "2026-11-11T09:30:56Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/unnamed-31.png"
+        },
+        {
+          "title": "Moody’s and Chainlink complete testnet pilot for multi-chain credit ratings",
+          "description": "Moody's Ratings used Chainlink's CCIP in a testnet pilot to distribute credit ratings across multiple blockchains at once via its Token Integration Engine.\nThe post Moody’s and Chainlink complete testnet pilot for multi-chain credit ratings appeared first on …",
+          "url": "https://techreport.com/news/business/moodys-and-chainlink-complete-testnet-pilot-for-multi-chain-credit-ratings/",
+          "source": "Techreport.com",
+          "published": "2026-11-11T00:30:54Z",
+          "image": "https://techreport.com/wp-content/uploads/2026/11/cover-3597577-1794357045323.jpg"
         },
         {
           "title": "Explainable AI-based disease diagnostics using real-time plasmonic biosensor data and blockchain technology",
@@ -196,6 +204,14 @@
           "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/08_broadridge-says-blockchain-repo-platform-processed-7-6t-in-october.png"
         },
         {
+          "title": "Europe Wants One Rulebook for Tokenized Assets, and It Is Asking the Industry to Write It",
+          "description": "The ECB, European Commission and ESMA want industry members for a new standards group to stop tokenised markets from splintering. Nominations close November 27.",
+          "url": "https://www.dcforecasts.com/regulation/tokenized-assets-eu-tokenisation-standards-group-ecb-esma/",
+          "source": "Dcforecasts.com",
+          "published": "2026-11-09T14:06:18Z",
+          "image": "https://www.dcforecasts.com/wp-content/uploads/2026/11/tokenized-assets-eu-tokenisation-standards-group-ecb-esma.webp"
+        },
+        {
           "title": "Veracore Compliance Group, a Block Reign Subsidiary, Brings Fractional Compliance and AI-Assisted Oversight to Regulated Digital Asset Firms Worldwide",
           "description": "AstraBit among the growing roster of clients working with Veracore to keep innovation and regulation moving in step OREM, Utah, Nov. 9, 2026 /PRNewswire/ -- Veracore Compliance Group, a subsidiary of Block Reign, Inc., helps blockchain, Web3, and digital asse…",
           "url": "https://www.prnewswire.co.uk/news-releases/veracore-compliance-group-a-block-reign-subsidiary-brings-fractional-compliance-and-ai-assisted-oversight-to-regulated-digital-asset-firms-worldwide-302932591.html",
@@ -204,20 +220,20 @@
           "image": "https://mmx.prnewswire.com/media/MS2020717/Block-Reign-Logo-12.jpg?id=OA3064874&p=facebook"
         },
         {
+          "title": "EU taps industry to set standards for tokenized securities",
+          "description": "EU institutions opened applications for a group that will draft standards to help tokenized securities platforms work with existing financial systems.",
+          "url": "https://cointelegraph.com/news/eu-nominations-tokenization-standards-group",
+          "source": "Cointelegraph",
+          "published": "2026-11-09T12:27:06Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M702QB3WBZE6GCA3TM7M3NJ9/hi-markets-in-crypto-assets-regulation-mica-explained.jpg"
+        },
+        {
           "title": "ADA Advancing Regulated Asset Tokenization as Brazil’s Petrobras Brings Sustainable Aviation Fuel Certificates to Cardano",
           "description": "ADA continues to gain popularity in tokenized real-world assets and institutional blockchain adoption. Petrobras’ move to bring sustainable aviation fuel certificates to Cardano demonstrates this. Brazil’s state-controlled energy company Petrobras has taken a…",
           "url": "https://zycrypto.com/ada-advancing-regulated-asset-tokenization-as-brazils-petrobras-brings-sustainable-aviation-fuel-certificates-to-cardano/",
           "source": "ZyCrypto",
           "published": "2026-11-06T19:54:57Z",
           "image": "https://zycrypto.com/wp-content/uploads/2024/04/Cardano-Founder-Goes-Headfirst-Against-FUD-Amid-Incoming-Chang-Upgrade.jpeg"
-        },
-        {
-          "title": "This Week in Security: More Linux Bugs, Biggest Crypto Theft Ever, Prusa Printers, Residential Proxies",
-          "description": "Linux kernel bugs which can be triggered remotely, without any login, are rare. Most kernel vulnerabilities need an attacker to already be running code on the machine. CVE-2026-98432 is one of those: …read more",
-          "url": "https://hackaday.com/2026/11/06/this-week-in-security-more-linux-bugs-biggest-crypto-theft-ever-prusa-printers-residential-proxies/",
-          "source": "Hackaday",
-          "published": "2026-11-06T16:21:04Z",
-          "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaGFja2FkYXkuY29tXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDIwXC8wN1wvaGFja2FkYXktbG9nby13aXRoLXRleHQtb3BlbmdyYXBoLWRlZmF1bHQtaW1hZ2UuanBnIiwidHh0IjoiSGFja2FkYXkiLCJ0ZW1wbGF0ZSI6ImhpZ2h3YXkiLCJmb250IjoiIiwiYmxvZ19pZCI6MTU2NjcwMTc3fQ.kVPxWrsIQyGdD1cPoxYvzP1mD56qtpkNpW1nAFiZiIgMQ"
         }
       ]
     },
@@ -231,12 +247,12 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Building a Community of Imposters: What It Means To Be a Literary Translator Today",
-              "description": "Dear Miranda, Gracias for your recent note. It came, as you say, “out of the blue,” an expression that, in and of itself, defies translation. In my native Spanish, one would say “de la nada,” not out of nowhere, since",
-              "url": "https://lithub.com/building-a-community-of-imposters-what-it-means-to-be-a-literary-translator-today/",
-              "source": "Lithub.com",
-              "published": "2026-11-04T09:20:10Z",
-              "image": "https://s26162.pcdn.co/wp-content/uploads/2026/10/translation-books.png"
+              "title": "MSCI Decides Strategy’s Index Fate Today, but Any Forced Selling Would Hit MSTR Shares, Not Bitcoin",
+              "description": "MSCI publishes its November index review today. A Strategy deletion would force funds to sell about 13 million MSTR shares by Nov 30, not any bitcoin.",
+              "url": "https://www.dcforecasts.com/bitcoin-news/msci-index-strategy-decision-mstr-november-review/",
+              "source": "Dcforecasts.com",
+              "published": "2026-11-11T12:06:36Z",
+              "image": "https://www.dcforecasts.com/wp-content/uploads/2026/11/msci-index-strategy-decision-mstr-november-review.webp"
             }
           ]
         },
@@ -245,20 +261,12 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "Binance Warns of Apple iOS Flaw That Could Expose iPhone Users' Private Keys",
-              "description": "Apple has not publicly confirmed the \"worse_query\" bug, which a researcher published days before its latest iOS security update.",
-              "url": "https://decrypt.co/382928/binance-warns-of-apple-ios-flaw-that-could-expose-iphone-users-private-keys",
+              "title": "Morning Minute: What Anthropic’s $1.4 Trillion IPO Means for Crypto",
+              "description": "Hint: if it plays out similarly to the SpaceX IPO, it means the Bitcoin bottom is very close.",
+              "url": "https://decrypt.co/383001/morning-minute-what-anthropics-1-4-trillion-ipo-means-for-crypto",
               "source": "Decrypt",
-              "published": "2026-11-10T12:45:34Z",
-              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/05/decrypt-style-apple-iphone-gID_7.png"
-            },
-            {
-              "title": "NYSE-backed crypto venture faces 90% stock rejection as $92 liquidity problem threatens tokenization dream",
-              "description": "Its November 4 notice says the operator and affiliates will abstain from providing liquidity, leaving eligible outside participants to supply the planned pools.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next…",
-              "url": "https://cryptoslate.com/nyse-backed-crypto-venture-faces-90-stock-rejection-as-92-liquidity-problem-threatens-tokenization-dream/",
-              "source": "CryptoSlate",
-              "published": "2026-11-06T12:30:58Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/11/okxice-liquidity-reservoir.webp"
+              "published": "2026-11-11T12:55:18Z",
+              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/03/decrypt-style-anthropic-dario-amodei-gID_7.png"
             }
           ]
         }
