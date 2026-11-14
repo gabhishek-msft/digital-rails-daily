@@ -1,5 +1,5 @@
 {
-  "date": "November 13, 2026",
+  "date": "November 14, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -70,6 +70,14 @@
       "color": "#e6a200",
       "articles": [
         {
+          "title": "Helius encrypts Solana transfers without removing operator trust",
+          "description": "The default Privacy Rings prover protects secret inputs inside an AWS enclave, while wallets approve the code and policies behind that protection.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Cata…",
+          "url": "https://cryptoslate.com/helius-encrypts-solana-transfers-without-removing-operator-trust/",
+          "source": "CryptoSlate",
+          "published": "2026-11-12T20:10:03Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/11/solana-private-proof-development.webp"
+        },
+        {
           "title": "Linea switches on Phylax’s Credible Layer to block exploits before they settle",
           "description": "Linea's proactive security integration could redefine DeFi safety standards, but its effectiveness hinges on widespread adoption and robust rule-setting.\nThe post Linea switches on Phylax’s Credible Layer to block exploits before they settle appeared first on…",
           "url": "https://cryptobriefing.com/linea-phylax-credible-layer-onchain-security/",
@@ -84,22 +92,6 @@
           "source": "Crypto Briefing",
           "published": "2026-11-10T14:52:34Z",
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/10095221/library-alta-raises-47-5-million-series-a-led-by-index-ventures--800x450.png"
-        },
-        {
-          "title": "$3.1B in Stolen Binance Crypto Has Yet to Be Laundered: Elliptic",
-          "description": "The attackers have used more than 20,000 wallets on 16 blockchains so far, but the bulk of the stolen ETH and Bitcoin hasn't moved.",
-          "url": "https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic",
-          "source": "Decrypt",
-          "published": "2026-11-06T14:04:18Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/11/north-korea-lazarus-group-dprk-hacker-decrypt-style-02-gID_7.jpg"
-        },
-        {
-          "title": "The post-quantum future of web privacy",
-          "description": "Cryptographic protocols like Privacy Pass help keep web sites safe from abuse while keeping their users private. This post looks at the quantum threat to these protocols, and some new post-quantum cryptography that may help close the gap.",
-          "url": "https://blog.cloudflare.com/vole-mole/",
-          "source": "Cloudflare.com",
-          "published": "2026-11-06T14:00:00Z",
-          "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M6PDQYFDGF7T52H2AD675QSY.png"
         }
       ]
     },
@@ -109,68 +101,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Crypto hack losses equal 57 cents per $1 earned onchain: Ark’s Valente",
-          "description": "Crypto hackers stole $8.7 billion so far in 2026, surpassing the projected annual onchain revenue generated across the industry, according to ARK’s research director.",
-          "url": "https://cointelegraph.com/news/crypto-hackers-stole-57-cents-every-1-earned-ark",
-          "source": "Cointelegraph",
-          "published": "2026-11-12T13:31:59Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1P1ZHH851JBMYW8FC0YFCV0/hi-top-crypto-hacks-and-scams-to-beware-of-in-october-2024.jpg"
+          "title": "The infrastructure shift: Why tokenised bonds matter now",
+          "description": "Demat 2.0 is an innovative pilot program initiated by India's Reserve Bank and SEBI, focusing on blockchain technology for corporate bonds. This venture strives to improve the settlement process and broaden investor access to various financial instruments. Ke…",
+          "url": "https://economictimes.indiatimes.com/wealth/invest/the-infrastructure-shift-why-tokenised-bonds-matter-now/articleshow/135798716.cms",
+          "source": "The Times of India",
+          "published": "2026-11-13T10:40:07Z",
+          "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1661887,resizemode-75,msid-135798716/wealth/invest/the-infrastructure-shift-why-tokenised-bonds-matter-now.jpg"
         },
         {
-          "title": "BNY taps Figment to support staking on its digital asset custody platform",
-          "description": "Figment will provide validator infrastructure for institutional staking through BNY's existing Digital Asset Custody service.",
-          "url": "https://biztoc.com/x/d857a109a3b86818",
-          "source": "Biztoc.com",
-          "published": "2026-11-12T13:25:49Z",
-          "image": "https://biztoc.com/cdn/d857a109a3b86818_s.webp"
+          "title": "PNC Bank Partners With Coinbase To Enable USDC Stablecoin Payments for Institutional and Corporate Customers",
+          "description": "PNC Bank is letting eligible corporate clients receive USDC payments through Coinbase, with automatic 1-to-1 conversion to US dollars.\nThe post PNC Bank Partners With Coinbase To Enable USDC Stablecoin Payments for Institutional and Corporate Customers appear…",
+          "url": "https://dailyhodl.com/2026/11/13/pnc-bank-partners-with-coinbase-to-enable-usdc-stablecoin-payments-for-institutional-and-corporate-customers/",
+          "source": "The Daily Hodl",
+          "published": "2026-11-13T10:15:02Z",
+          "image": "https://dailyhodl.com/wp-content/uploads/2026/11/binance-to-boost-usdc_pink.jpg?resize=1365,800"
         },
         {
-          "title": "Morning Minute: Tokenized Stock Venues Are Launching Without Big Tech’s Approval",
-          "description": "Plus, a second Jensen Huang affair is rocking markets while MSCI’s MSTR removal decision sends crypto lower.",
-          "url": "https://decrypt.co/383129/morning-minute-tokenized-stock-venues-are-launching-without-big-techs-approval",
-          "source": "Decrypt",
-          "published": "2026-11-12T13:06:24Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/03/okx-decrypt-style-gID_7.jpg"
-        },
-        {
-          "title": "EU DeFi proposals could push users to riskier platforms, says Coinbase exec",
-          "description": "A Coinbase executive warns that proposed EU DeFi rules could discourage regulated crypto platforms from offering services, leaving users with fewer protections.",
-          "url": "https://cointelegraph.com/news/eu-defi-riskier-platforms-coinbase-exec",
-          "source": "Cointelegraph",
-          "published": "2026-11-12T12:21:43Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75BK9Y513FMAWX2Y3DCZ3SX/hi-coinbase-hosts-active-stablecoin-traders.jpg"
-        },
-        {
-          "title": "NYSE Parent Picks Avalanche for Securities Platform After AVAX’s 28% Slide",
-          "description": "Avalanche crypto price edged up 2% after a 28% four-week slide, as NYSE parent ICE picked its technology for a planned tokenized securities platform.\nThe post NYSE Parent Picks Avalanche for Securities Platform After AVAX’s 28% Slide appeared first on Bitcoin…",
-          "url": "https://bitcoinfoundation.org/news/altcoins/nyse-parent-picks-avalanche-for-securities-platform-after-avaxs-28-slide/",
+          "title": "Trump Names Hester Peirce’s Successor in Four SEC and CFTC Picks",
+          "description": "Trump sent four SEC and CFTC nominations to the Senate, including Hester Peirce's successor, as both agencies face vacancies and a tight confirmation window.\nThe post Trump Names Hester Peirce’s Successor in Four SEC and CFTC Picks appeared first on Bitcoin F…",
+          "url": "https://bitcoinfoundation.org/news/regulation/trump-names-hester-peirces-successor-in-four-sec-and-cftc-picks/",
           "source": "Bitcoinfoundation.org",
-          "published": "2026-11-12T08:17:14Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/nyse-parent-picks-avalanche-for-securities-platform-after-avaxs-28-slide.webp"
+          "published": "2026-11-13T09:26:16Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/trump-names-hester-peirces-successor-in-four-sec-and-cftc-picks.webp"
         },
         {
-          "title": "Kevin O’Leary Says Crypto Sell-Off Reflects Institutional Hesitation, Not Just Bitcoin Weakness: ‘We Need the…",
-          "description": "Veteran investor Kevin O’Leary said on Wednesday that regulatory clarity, including passage of the CLARITY Act, are needed before more companies commit to digital-asset infrastructure.",
-          "url": "https://biztoc.com/x/1ac5151dfb047984",
-          "source": "Biztoc.com",
-          "published": "2026-11-12T08:05:25Z",
-          "image": "https://biztoc.com/cdn/1ac5151dfb047984_s.webp"
-        },
-        {
-          "title": "FSB pressures Turkey regulators to lock down foreign stablecoins",
-          "description": "The FSB recommends stronger reserve checks and clearer redemption rights, but its review creates no new legal obligations.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
-          "url": "https://cryptoslate.com/fsb-pressures-turkey-regulators-to-lock-down-foreign-stablecoins/",
+          "title": "Czech central bank tests DLT bonds, boxing out stablecoins",
+          "description": "The CNB governor wants central-bank money at settlement’s core, but the small pilot leaves its exact cash instrument undisclosed.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+          "url": "https://cryptoslate.com/czech-central-bank-tests-dlt-bonds-boxing-out-stablecoins/",
           "source": "CryptoSlate",
-          "published": "2026-11-12T05:10:20Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/11/redemption-window.jpg"
+          "published": "2026-11-13T08:30:07Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/11/05-bond-settlement-foundation.jpg"
         },
         {
-          "title": "OCC Charter Backlog Could Leave Late FinTech Applicants Behind",
-          "description": "A surge of FinTechs, stablecoin issuers and digital asset companies seeking federal banking charters has created a potential bottleneck at the Office of the Comptroller of the Currency (OCC). And for companies still waiting for approval, the biggest risk may …",
-          "url": "https://www.pymnts.com/legal/bank-regulation/2026/occ-charter-backlog-could-leave-late-fintech-applicants-behind/",
-          "source": "pymnts.com",
-          "published": "2026-11-11T22:59:10Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2026/11/SB6-bank-charters-1.jpg"
+          "title": "Apex Joins Hedera Council as Fund Servicing Moves Deeper Into Tokenization",
+          "description": "Apex Group joins Hedera Council as the network courts institutional tokenization, with governance duties and deployment plans carrying different meanings.",
+          "url": "https://www.newsbtc.com/altcoin/apex-joins-hedera-council-fund-servicing-tokenization/",
+          "source": "newsBTC",
+          "published": "2026-11-13T04:00:00Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/N12-14_apex-joins-hedera-council-fund-servicing-tokenization.png"
+        },
+        {
+          "title": "Circle hands USDC reserves to EU regulators risking higher fees",
+          "description": "November 12 is the disclosed handover date for financial safeguards, while France’s ACPR retains governance responsibilities.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+          "url": "https://cryptoslate.com/circle-hands-usdc-reserves-to-eu-regulators-risking-higher-fees/",
+          "source": "CryptoSlate",
+          "published": "2026-11-13T03:30:19Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/11/03-dual-supervision.jpg"
+        },
+        {
+          "title": "PNC’s Coinbase Pilot Turns Incoming USDC Into Business Bank Deposits",
+          "description": "PNC’s limited pilot lets eligible corporate clients receive Ethereum-based USDC payments that automatically convert into dollars in their bank accounts.",
+          "url": "https://www.newsbtc.com/business/pnc-coinbase-usdc-payments-pilot-business-bank-deposits/",
+          "source": "newsBTC",
+          "published": "2026-11-13T01:00:00Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/N12-11_pnc-coinbase-usdc-payments-pilot-business-bank-deposits.png"
+        },
+        {
+          "title": "NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express",
+          "description": "North Korean hackers have launched memecoins on NEAR to launder stolen funds — but no one is buying them.  Thailand plans to cap stablecoin transfers at $148,000 per day.",
+          "url": "https://cointelegraph.com/magazine/nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities-asia-express",
+          "source": "Cointelegraph",
+          "published": "2026-11-12T22:29:58Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M26Q2WGDD8GDA5QMCWQF3GB3/magazineasia-expresssnow.jpg"
         }
       ]
     },
@@ -180,28 +172,36 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain",
-          "description": "Bitcoin miners expanding into AI could gain an advantage as US communities restrict new data centers, though local rules remain challenges.",
-          "url": "https://cointelegraph.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai",
-          "source": "Cointelegraph",
-          "published": "2026-11-11T20:43:19Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M73MEN38K2N8NDYPGWJFZGPZ/hi-bitcoin-nodes-vs-miners-protection.jpg"
-        },
-        {
-          "title": "PNC lets businesses accept USDC without keeping the crypto",
-          "description": "Eligible corporate clients can receive dollar deposits through automatic USDC conversion, while broader bank funding effects remain unmeasured.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalys…",
-          "url": "https://cryptoslate.com/pnc-lets-businesses-accept-usdc-without-keeping-the-crypto/",
-          "source": "CryptoSlate",
-          "published": "2026-11-11T19:30:07Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/11/pnc-usdc-deposit-slot.webp"
-        },
-        {
-          "title": "Square Makes Bitcoin Payments Free. Will Merchants Pay When the Promotion Ends?",
-          "description": "Bitcoin has spent much of its existence trying to become a payment method. The launch this week by Square of always-on Bitcoin payment capabilities for its cohort of eligible merchants in the United States is about to test whether the infrastructure was ever …",
-          "url": "https://www.pymnts.com/blockchain/bitcoin/2026/square-makes-bitcoin-payments-free-will-merchants-pay-when-promotion-ends/",
+          "title": "Velera Says Credit Unions Can Learn Digital Money Together",
+          "description": "Credit unions and industry partners can work together to understand where digital assets could be useful, Velera SVP, Emerging Services Scott P. Young writes in a new PYMNTS eBook, “Payments Leaders Rethink What Works in 2026.”   At the start of 2026, the dig…",
+          "url": "https://www.pymnts.com/opinion/2026/velera-says-credit-unions-can-learn-digital-money-together/",
           "source": "pymnts.com",
-          "published": "2026-11-11T17:06:54Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2023/10/Square.jpg"
+          "published": "2026-11-13T09:00:33Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/10/2026-Q3-eBook-Velera.jpg"
+        },
+        {
+          "title": "Two Dormant Bitcoin Addresses Activate With $6.9M After 16 Years",
+          "description": "Two dormant Bitcoin addresses holding 100 BTC worth about $6.9 million activated minutes apart after 16 years, drawing attention to early Bitcoin holdings.\nThe post Two Dormant Bitcoin Addresses Activate With $6.9M After 16 Years appeared first on Bitcoin Fou…",
+          "url": "https://bitcoinfoundation.org/news/bitcoin/two-dormant-bitcoin-addresses-activate-with-6-9m-after-16-years/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-11-13T08:01:36Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/two-dormant-bitcoin-addresses-activate-with-6-9m-after-16-years.webp"
+        },
+        {
+          "title": "Chainlink and Moody’s Complete Testnet Pilot for Cross-Chain Credit Ratings",
+          "description": "Chainlink and Moody's tested distribution of credit-rating information across blockchains using representative data, with production deployment still separate.",
+          "url": "https://www.newsbtc.com/news/chainlink/chainlink-moodys-testnet-pilot-cross-chain-credit-ratings/",
+          "source": "newsBTC",
+          "published": "2026-11-13T08:00:00Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/N12-18_chainlink-moodys-testnet-pilot-cross-chain-credit-ratings.png"
+        },
+        {
+          "title": "Griffin Eyes Stablecoin Expansion After Raising $20 Million",
+          "description": "Griffin, a bank for FinTechs and platforms in the United Kingdom, raised $20 million in a Series B funding round that values the startup at $100 million, according to a Wednesday (Nov. 11) company blog post. The funding will help Griffin expand into card issu…",
+          "url": "https://www.pymnts.com/cryptocurrency/2026/griffin-eyes-stablecoin-expansion-after-raising-20-million-dollars/",
+          "source": "pymnts.com",
+          "published": "2026-11-12T15:37:20Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/11/Griffin-startups-funding-stablecoins.jpg"
         },
         {
           "title": "Cosmos Health Provides U.S. E-Commerce Update for October 2026: Monthly Subscription Value Reaches $1.83 Million, Approximately $22 Million Annualized",
@@ -228,14 +228,6 @@
           "image": null
         },
         {
-          "title": "Broadridge Says Blockchain Repo Platform Processed $7.6T in October",
-          "description": "Broadridge says its Distributed Ledger Repo service processed $7.6 trillion in repurchase agreement transactions during October, averaging $345 billion a day. The November 6 disclosure is a striking reminder that some of blockchain's largest…",
-          "url": "https://www.newsbtc.com/news/broadridge-says-blockchain-repo-platform-processed-7-6t-in-october/",
-          "source": "newsBTC",
-          "published": "2026-11-09T22:00:00Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/08_broadridge-says-blockchain-repo-platform-processed-7-6t-in-october.png"
-        },
-        {
           "title": "Europe Wants One Rulebook for Tokenized Assets, and It Is Asking the Industry to Write It",
           "description": "The ECB, European Commission and ESMA want industry members for a new standards group to stop tokenised markets from splintering. Nominations close November 27.",
           "url": "https://www.dcforecasts.com/regulation/tokenized-assets-eu-tokenisation-standards-group-ecb-esma/",
@@ -255,12 +247,12 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Strategy spent more than twice as much on preferred-share buybacks as Bitcoin. Now comes its MSCI exit",
-              "description": "The November 30 close creates a financing test after MSTR proceeds funded larger preferred repurchases than Bitcoin purchases during November 2–8.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Cata…",
-              "url": "https://cryptoslate.com/strategy-spent-more-than-twice-as-much-on-preferred-share-buybacks-as-bitcoin-now-comes-its-msci-exit/",
+              "title": "Bitcoin could face a cash squeeze without another Fed rate hike",
+              "description": "The November 12 update uses Q2 2026 data, pointing to a potential financing channel that could matter before another Fed hike.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+              "url": "https://cryptoslate.com/bitcoin-could-face-a-cash-squeeze-without-another-fed-rate-hike/",
               "source": "CryptoSlate",
-              "published": "2026-11-12T12:45:58Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/11/strategy-bitcoin-buyback-tension.webp"
+              "published": "2026-11-13T09:30:12Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/11/bank-liquidity-stress-test.webp"
             }
           ]
         },
@@ -269,12 +261,12 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "MiniPay users in Europe and the US can now buy stablecoins on Celo using Link by Stripe",
-              "description": "Users in Europe and the US can now buy stablecoins in seconds with a card, Apple Pay, or Google Pay through the Link by Stripe checkout trusted by more than 300 million people. Oslo, Norway – November 12, 2026 – MiniPay, the self-custodial stablecoin wallet w…",
-              "url": "https://press.opera.com/2026/11/12/minipay-link-by-stripe/",
-              "source": "Opera.com",
-              "published": "2026-11-12T13:00:00Z",
-              "image": "https://www-static-sites.operacdn.com/wp-content/uploads/sites/5/2026/11/Slide-16_9-1-8.png"
+              "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+              "description": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
+              "url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o",
+              "source": "BBC News",
+              "published": "2026-11-13T02:48:29Z",
+              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c16a/live/65ee22f0-df02-11f1-b6e1-5b169363fed4.jpg"
             },
             {
               "title": "67 Companies Have Blocked Their Tokenized Stocks on OKXICE, but Robinhood and Coinbase Are Not Among Them",
