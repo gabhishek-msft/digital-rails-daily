@@ -1,11 +1,19 @@
 {
-  "date": "November 15, 2026",
+  "date": "November 16, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "Europe’s Digital Wallets May Be More Traceable Than Intended",
+          "description": "Millions of European Union citizens should soon have access to digital wallets, as member states roll out their implementations of the European Digital Identity Regulation ahead of an end of the year deadline. But the digital identity wallets, which are inten…",
+          "url": "https://spectrum.ieee.org/europe-digital-id-security-cryptography",
+          "source": "Ieee.org",
+          "published": "2026-11-14T14:00:02Z",
+          "image": "https://spectrum.ieee.org/media-library/conceptual-illustration-of-a-bank-vault-covered-in-binary-code-and-circuit-board-lines.jpg?id=68680479&width=1200&height=600&coordinates=0%2C665%2C0%2C665"
+        },
         {
           "title": "Are Alt-L1s over? Security, costs drive smaller chains to Ethereum",
           "description": "Alt-L1s like Zilliqa, Gnosis and Ronin are joining Ethereum, as the difficulties with running standalone chains mount. But it’s too early to call the L1 versus L2 debate just yet.",
@@ -53,14 +61,6 @@
           "source": "Decrypt",
           "published": "2026-11-10T14:32:48Z",
           "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/11/decrypt-the-information-exchange-helius-gID_7.png"
-        },
-        {
-          "title": "Backed by $80 Million, Alta is Building the Infrastructure to Bring Global Banking Onchain",
-          "description": "San Francisco, CA, USA, 10th November 2026, Chainwire\nThe post Backed by $80 Million, Alta is Building the Infrastructure to Bring Global Banking Onchain appeared first on The Daily Hodl.",
-          "url": "https://dailyhodl.com/2026/11/10/backed-by-80-million-alta-is-building-the-infrastructure-to-bring-global-banking-onchain/",
-          "source": "The Daily Hodl",
-          "published": "2026-11-10T14:12:12Z",
-          "image": "https://dailyhodl.com/wp-content/uploads/2026/11/photo_2026-11-10_07-47-59_17942872672Glqr3lA0q.jpg?resize=1200,720"
         }
       ]
     },
@@ -69,6 +69,14 @@
       "icon": "🔐",
       "color": "#e6a200",
       "articles": [
+        {
+          "title": "Enterprise blockchain is going to come back from the dead",
+          "description": "Enterprise blockchain projects failed because privacy, scalability and economics weren’t ready. Paul Brody argues the conditions are finally in place for a comeback.",
+          "url": "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead",
+          "source": "Cointelegraph",
+          "published": "2026-11-15T14:30:00Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZMF6J25WASD4RQJDF0BRKT/hi-if-blockchain-is-the-door-to-the-future-of-finance-liquidity-is-the-key.jpg"
+        },
         {
           "title": "Helius encrypts Solana transfers without removing operator trust",
           "description": "The default Privacy Rings prover protects secret inputs inside an AWS enclave, while wallets approve the code and policies behind that protection.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Cata…",
@@ -92,6 +100,14 @@
           "source": "Crypto Briefing",
           "published": "2026-11-10T14:52:34Z",
           "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/10095221/library-alta-raises-47-5-million-series-a-led-by-index-ventures--800x450.png"
+        },
+        {
+          "title": "Backed by $80 Million, Alta is Building the Infrastructure to Bring Global Banking Onchain",
+          "description": "San Francisco, CA, USA, 10th November 2026, Chainwire\nThe post Backed by $80 Million, Alta is Building the Infrastructure to Bring Global Banking Onchain appeared first on The Daily Hodl.",
+          "url": "https://dailyhodl.com/2026/11/10/backed-by-80-million-alta-is-building-the-infrastructure-to-bring-global-banking-onchain/",
+          "source": "The Daily Hodl",
+          "published": "2026-11-10T14:12:12Z",
+          "image": "https://dailyhodl.com/wp-content/uploads/2026/11/photo_2026-11-10_07-47-59_17942872672Glqr3lA0q.jpg?resize=1200,720"
         }
       ]
     },
@@ -101,12 +117,60 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Coinbase Custody Moves to a Federal Trust Bank That Must Keep $60 Million in Capital",
-          "description": "The OCC's final approval lets Coinbase National Trust Company provide crypto custody as a fiduciary, with $60 million in capital and a gradual client migration.",
-          "url": "https://www.dcforecasts.com/cryptocurrency-exchange-news/coinbase-custody-national-trust-company-occ-approval/",
+          "title": "Kenya Opens VASP License Applications on Easier Terms Than Its Draft",
+          "description": "Kenya's central bank and Capital Markets Authority say crypto firms must now apply for a VASP licence, under final rules that lowered capital in nine of ten categories.",
+          "url": "https://www.dcforecasts.com/regulation/vasp-license-kenya-applications-open-lower-capital/",
           "source": "Dcforecasts.com",
-          "published": "2026-11-14T11:44:13Z",
-          "image": "https://www.dcforecasts.com/wp-content/uploads/2026/11/coinbase-custody-national-trust-company-occ-approval.webp"
+          "published": "2026-11-15T14:05:16Z",
+          "image": "https://www.dcforecasts.com/wp-content/uploads/2026/11/vasp-license-kenya-applications-open-lower-capital.webp"
+        },
+        {
+          "title": "Crypto’s slow-motion selloff leaves traders weary and hopeless",
+          "description": "Bitcoin's prolonged selloff is testing investor confidence as ETF outflows, rising Treasury yields, a stronger dollar and crypto-specific setbacks weigh on demand. Competition from AI investments and Anthropic's upcoming IPO is adding to pressure, leaving the…",
+          "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/cryptos-slow-motion-selloff-leaves-traders-weary-and-hopeless/articleshow/135852690.cms",
+          "source": "The Times of India",
+          "published": "2026-11-15T10:03:53Z",
+          "image": "https://img.etimg.com/thumb/msid-135852759,width-1200,height-900,imgsize-179006,overlay-etmarkets/articleshow.jpg"
+        },
+        {
+          "title": "XRP’s November Recovery to $1.30 Requires a 37% Gain",
+          "description": "XRP price prediction centers on a November recovery to $1.30, requiring a 37% gain as ETF outflows and weak Kalshi odds weigh on confidence.\nThe post XRP’s November Recovery to $1.30 Requires a 37% Gain appeared first on Bitcoin Foundation.",
+          "url": "https://bitcoinfoundation.org/news/altcoins/xrps-november-recovery-to-1-30-requires-a-37-gain/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-11-15T09:14:25Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/xrps-november-recovery-to-1-30-requires-a-37-gain.webp"
+        },
+        {
+          "title": "Bitcoin tumbles to four-month low as liquidations accelerate",
+          "description": "The largest digital asset sank 5.7% in the US on Saturday and dropped further in Asia on Sunday to as low as $62,022, down another 3.7% to its weakest since July 14",
+          "url": "https://www.thehindubusinessline.com/money-and-banking/cryptocurrency/bitcoin-tumbles-to-four-month-low-as-liquidations-accelerate/article71704128.ece",
+          "source": "BusinessLine",
+          "published": "2026-11-15T07:17:52Z",
+          "image": "https://bl-i.thgim.com/public/incoming/24g1sp/article71704315.ece/alternates/LANDSCAPE_1200/iStock-924986096.jpg"
+        },
+        {
+          "title": "EU Regulators Recruit Industry to Write Asset Tokenization Rules, With a Nov. 27 Deadline",
+          "description": "Asset tokenization in Europe gets an industry standards group backed by the ECB, Commission and ESMA. Nominations close Nov. 27; work starts January 2027.",
+          "url": "https://www.dcforecasts.com/blockchain-news/asset-tokenization-eu-standards-group-etsg-nominations/",
+          "source": "Dcforecasts.com",
+          "published": "2026-11-15T04:25:28Z",
+          "image": "https://www.dcforecasts.com/wp-content/uploads/2026/11/asset-tokenization-eu-standards-group-etsg-nominations.webp"
+        },
+        {
+          "title": "Crypto’s $168 million election: 78 winners, 13 newcomers and one costly defeat",
+          "description": "Crypto super PACs backed 78 candidates who have won seats in Congress. Just 13 of them will enter Congress for the first time. Most of the winning roster already has a record in Washington. It includes the author of the House's crypto market-regulation bill, …",
+          "url": "https://cryptoslate.com/cryptos-168-million-election-78-winners-13-newcomers-and-one-costly-defeat/",
+          "source": "CryptoSlate",
+          "published": "2026-11-14T21:40:06Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/11/crypto-ohio-spending-defeat.webp"
+        },
+        {
+          "title": "What Is Canton Network? The Privacy Blockchain Built for Wall Street",
+          "description": "Canton Network is a privacy-enabled blockchain built for banks and tokenized assets. Here's how it works and what Canton Coin (CC) does.",
+          "url": "https://decrypt.co/resources/what-is-canton-network-the-privacy-blockchain-built-for-wall-street",
+          "source": "Decrypt",
+          "published": "2026-11-14T16:01:02Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/11/canton-network-privacy-learn-gID_4-pID_6.png"
         },
         {
           "title": "Elizabeth Warren could reopen crypto’s banking fight without changing a single law",
@@ -115,54 +179,6 @@
           "source": "CryptoSlate",
           "published": "2026-11-14T08:10:11Z",
           "image": "https://cryptoslate.com/wp-content/uploads/2026/11/crypto-custody-records-labyrinth.webp"
-        },
-        {
-          "title": "Bitcoin is either the best or worst asset class every year. ZebPay CEO Rahul Pagidipati explains why",
-          "description": "I wouldn’t say the trader community has increased, but the investor community certainly has. We now see high-net-worth individuals, family offices and fund houses asking detailed questions about how they can hedge and participate in crypto—not just in their t…",
-          "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-is-either-the-best-or-worst-asset-class-every-year-zebpay-ceo-rahul-pagidipati-explains-why/articleshow/135822463.cms",
-          "source": "The Times of India",
-          "published": "2026-11-14T04:13:52Z",
-          "image": "https://img.etimg.com/thumb/msid-135822497,width-1200,height-900,imgsize-146184,overlay-etmarkets/articleshow.jpg"
-        },
-        {
-          "title": "DTCC Tokenization Service to Connect With Solana in 2027, Extending Wall Street’s Post-Trade Plumbing to a Public Blockchain",
-          "description": "DTCC says its Tokenization Service will connect with Solana, enabling tokenization of eligible DTC-custodied assets from the second half of 2027.\nThe post DTCC Tokenization Service to Connect With Solana in 2027, Extending Wall Street’s Post-Trade Plumbing to…",
-          "url": "https://techreport.com/news/business/dtcc-tokenization-service-solana/",
-          "source": "Techreport.com",
-          "published": "2026-11-14T02:10:17Z",
-          "image": "https://techreport.com/wp-content/uploads/2026/11/dtcc-tokenization-solana-scaled.jpg"
-        },
-        {
-          "title": "xStocks Broadens Suite of Tokenized Assets, Bringing Hundreds of UK and EU-Listed Equities Onchain",
-          "description": "-xStocks, the tokenized equities framework developed by Payward, has deployed its first batch of tokenized equities representing UK and European publicly ...",
-          "url": "https://en.antaranews.com/news/442531/xstocks-broadens-suite-of-tokenized-assets-bringing-hundreds-of-uk-and-eu-listed-equities-onchain",
-          "source": "Antaranews.com",
-          "published": "2026-11-14T01:10:47Z",
-          "image": "https://cdn.antaranews.com/cache/1200x800/2020/03/23/Logo-BusinessWire-800x600.jpg"
-        },
-        {
-          "title": "RBI said to allow e-rupee wallets within banking apps to boost adoption",
-          "description": "RBI has allowed banks to integrate digital rupee wallets into their main mobile banking apps, aiming to simplify access and boost adoption. While experts say integration could better discovery and convenience, they caution users may not switch from UPI unless…",
-          "url": "https://www.livemint.com/industry/banking/rbi-said-to-allow-e-rupee-wallets-within-banking-apps-to-boost-adoption-11794563082395.html",
-          "source": "Livemint",
-          "published": "2026-11-14T00:10:32Z",
-          "image": "https://www.livemint.com/lm-img/img/2026/11/13/1600x900/logo/INDIA-RBI-MARKET_1794576677265_vTc7_1794576677436_QtSQ_8840eb95-1355-42d8-a983-a1ae083e11de_WlRR.JPG"
-        },
-        {
-          "title": "Crypto Is Getting Better at Absorbing Hacks Than Preventing Them",
-          "description": "When a financial institution loses billions of dollars to hackers, replacing the money is supposed to be the beginning of the recovery, not the end of the story. Cryptocurrency is finding that out the hard way. Binance said Thursday (Nov. 12) that it replaced…",
-          "url": "https://www.pymnts.com/cryptocurrency/2026/crypto-is-getting-better-absorbing-hacks-than-preventing-them/",
-          "source": "pymnts.com",
-          "published": "2026-11-13T22:50:22Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2026/11/cryptocurrency-bitcoin-blockchain-digital-assets_18be22.jpeg"
-        },
-        {
-          "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
-          "description": "Blockstream’s new custody system, developed with Thales, uses dedicated hardware for transaction signing as Adam Back advocates for offline security to reduce cyber risks.",
-          "url": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system",
-          "source": "Cointelegraph",
-          "published": "2026-11-13T21:49:27Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7BCCR5CYZHHWDA4BH24H4DA/portraitadam-back.png"
         }
       ]
     },
@@ -171,6 +187,22 @@
       "icon": "🏥",
       "color": "#00cc88",
       "articles": [
+        {
+          "title": "Your wallet may show a dollar balance for fake USDT that you cannot sell",
+          "description": "Keeper wallets maintained the quotations through restricted pools, where Forta's simulated outside sales failed for all 32 identified tokens.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst …",
+          "url": "https://cryptoslate.com/your-wallet-may-show-a-dollar-balance-for-fake-usdt-that-you-cannot-sell/",
+          "source": "CryptoSlate",
+          "published": "2026-11-14T19:40:06Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/11/fake-usdt-locked-exit.webp"
+        },
+        {
+          "title": "XRP Whales Keep Loading Up Despite Heightened Retail Fear of a Drop Below $1",
+          "description": "Interestingly, XRP’s declining price is not stopping large investors from accumulating. While retail sentiment wanes and the top altcoin slips below the psychological $1 mark, on-chain data shows more large holders positioning themselves for a potential recov…",
+          "url": "https://zycrypto.com/xrp-whales-keep-loading-up-despite-heightened-retail-fear-of-a-drop-below-1/",
+          "source": "ZyCrypto",
+          "published": "2026-11-14T19:13:49Z",
+          "image": "https://zycrypto.com/wp-content/uploads/2026/03/Whales-Snap-Up-200-Million-XRP-in-2-Weeks-Signaling-Renewed-Market-Confidence.jpg"
+        },
         {
           "title": "Meet ‘Captain Keel,’ the 37-year-old steering a Bitcoin miner into the AI data center gold rush",
           "description": "Ben Gagnon is turning Bitfarms into Keel Infrastructure, swapping crypto for the one thing AI giants can’t get enough of: power.",
@@ -204,14 +236,6 @@
           "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1661887,resizemode-75,msid-135798716/wealth/invest/the-infrastructure-shift-why-tokenised-bonds-matter-now.jpg"
         },
         {
-          "title": "Velera Says Credit Unions Can Learn Digital Money Together",
-          "description": "Credit unions and industry partners can work together to understand where digital assets could be useful, Velera SVP, Emerging Services Scott P. Young writes in a new PYMNTS eBook, “Payments Leaders Rethink What Works in 2026.”   At the start of 2026, the dig…",
-          "url": "https://www.pymnts.com/opinion/2026/velera-says-credit-unions-can-learn-digital-money-together/",
-          "source": "pymnts.com",
-          "published": "2026-11-13T09:00:33Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2026/10/2026-Q3-eBook-Velera.jpg"
-        },
-        {
           "title": "Cosmos Health Provides U.S. E-Commerce Update for October 2026: Monthly Subscription Value Reaches $1.83 Million, Approximately $22 Million Annualized",
           "description": "Cosmos Health Provides U.S. E-Commerce Update for October 2026: Monthly Subscription Value Reaches $1.83 Million, Approximately $22 Million Annualizedyahoo.com",
           "url": "https://finance.yahoo.com/healthcare/articles/cosmos-health-provides-u-e-143000936.html",
@@ -226,14 +250,6 @@
           "source": "newsBTC",
           "published": "2026-11-11T09:30:56Z",
           "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/unnamed-31.png"
-        },
-        {
-          "title": "Explainable AI-based disease diagnostics using real-time plasmonic biosensor data and blockchain technology",
-          "description": "Scientific Reports - Explainable AI-based disease diagnostics using real-time plasmonic biosensor data and blockchain technology",
-          "url": "https://www.nature.com/articles/s41598-026-64224-1.pdf",
-          "source": "Nature.com",
-          "published": "2026-11-10T00:00:00Z",
-          "image": null
         }
       ]
     },
@@ -245,52 +261,43 @@
         "startups": {
           "title": "Startups",
           "icon": "💡",
-          "articles": [
-            {
-              "title": "US courts target $1.2B in stolen Binance funds, yet victims face a new hurdle",
-              "description": "DOJ's Nov. 12 release reports seizure or restraint authority within more than $2.7 billion frozen, without a return timetable.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
-              "url": "https://cryptoslate.com/binance-funds-theft-us-court-orders-cover-over-1-2-billion-with-return-unresolved/",
-              "source": "CryptoSlate",
-              "published": "2026-11-13T23:40:49Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/11/binance-frozen-inventory.jpg"
-            },
-            {
-              "title": "MEGA Cuts 20% of Staff Three Days After $30M AI Product Pledge",
-              "description": "MEGA layoffs cut 20% of staff three days after a $30 million product pledge, as the former MegaETH Foundation shifts toward an AI inference marketplace.\nThe post MEGA Cuts 20% of Staff Three Days After $30M AI Product Pledge appeared first on Bitcoin Foundati…",
-              "url": "https://bitcoinfoundation.org/news/ai/mega-cuts-20-of-staff-three-days-after-30m-ai-product-pledge/",
-              "source": "Bitcoinfoundation.org",
-              "published": "2026-11-13T21:26:09Z",
-              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/mega-cuts-20-of-staff-three-days-after-30m-ai-product-pledge.webp"
-            }
-          ]
+          "articles": []
         },
         "hyperscalers": {
           "title": "Hyperscalers",
           "icon": "☁️",
           "articles": [
             {
-              "title": "50,000 people installed this Bitcoin browser extension. Now control of it is up for sale",
-              "description": "The current offer is separate from documented malware cases, but it shows how buyers can acquire an audience and future update control.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in you…",
-              "url": "https://cryptoslate.com/50000-people-installed-this-bitcoin-browser-extension-now-control-of-it-is-up-for-sale/",
-              "source": "CryptoSlate",
-              "published": "2026-11-14T11:34:23Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-extension-sale-key.webp"
+              "title": "North Korea’s Deepfake Calls Fueled Over $400M in Crypto Theft, DOJ Says",
+              "description": "North Korea deepfake crypto theft topped $400 million in 18 months, the DOJ says, as authorities seized infrastructure used for fake video calls.\nThe post North Korea’s Deepfake Calls Fueled Over $400M in Crypto Theft, DOJ Says appeared first on Bitcoin Found…",
+              "url": "https://bitcoinfoundation.org/news/security/north-koreas-deepfake-calls-fueled-over-400m-in-crypto-theft-doj-says/",
+              "source": "Bitcoinfoundation.org",
+              "published": "2026-11-15T08:25:56Z",
+              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/north-koreas-deepfake-calls-fueled-over-400m-in-crypto-theft-doj-says.webp"
             },
             {
-              "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
-              "description": "The U.S. Federal Bureau of Investigation (FBI) has established that threat actors tied to the Democratic People's Republic of Korea (DPRK aka North Korea) have stolen more than $400 million worth of cryptocurrency as part of a social engineering scheme codena…",
-              "url": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
-              "source": "Internet",
-              "published": "2026-11-13T14:28:58Z",
-              "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDmjJA-t4vvigohRIfUR6JExYEPR0Dohh29eooVagQOvRyRDgdisxAy3wSWni5iFHjf2Dk8X2BavSeGO8hJ-wCTbDuffsdtamOuqj1PVTb75EWNF5vNe3tCsS6pyS_pSzNhEELOVU0DxHdmGx4Kt8KNqwz8YheAM9kEoVmpnHeVV1qsofLCBYDEt0E2IqX/s1700-nu-rw-lo-l85-e365/flash.jpg"
+              "title": "XRP, Dogecoin, and Solana Doomed? Billionaire Tim Draper Predicts Altcoins Will Be Absorbed By Bitcoin — Here’s Why",
+              "description": "Could Ripple’s XRP, Dogecoin, and Solana eventually lose their place in the crypto market as Bitcoin strengthens its dominance? Billionaire investor Tim Draper believes the future of cryptocurrencies could look very different, predicting that altcoins will ev…",
+              "url": "https://zycrypto.com/xrp-dogecoin-and-solana-doomed-billionaire-tim-draper-predicts-altcoins-will-be-absorbed-by-bitcoin-heres-why/",
+              "source": "ZyCrypto",
+              "published": "2026-11-14T18:48:21Z",
+              "image": "https://zycrypto.com/wp-content/uploads/2026/11/XRP-Dogecoin-and-Solana-Doomed_-Billionaire-Tim-Draper-Predicts-Altcoins-Will-Be-Absorbed-By-Bitcoin-—-Heres-Why.jpg"
             },
             {
-              "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
-              "description": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
-              "url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o",
-              "source": "BBC News",
-              "published": "2026-11-13T02:48:29Z",
-              "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c16a/live/65ee22f0-df02-11f1-b6e1-5b169363fed4.jpg"
+              "title": "US disrupts North Korean campaign behind $400 million crypto theft",
+              "description": "The U.S. government has disrupted a North Korean social engineering campaign called 'FaceStealer', responsible for stealing more than $400 million in cryptocurrency. [...]",
+              "url": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
+              "source": "BleepingComputer",
+              "published": "2026-11-14T15:15:49Z",
+              "image": "https://www.bleepstatic.com/content/hl-images/2026/10/21/DPRK.jpg"
+            },
+            {
+              "title": "Bitcoin is either the best or worst asset class every year. ZebPay CEO Rahul Pagidipati explains why",
+              "description": "I wouldn’t say the trader community has increased, but the investor community certainly has. We now see high-net-worth individuals, family offices and fund houses asking detailed questions about how they can hedge and participate in crypto—not just in their t…",
+              "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-is-either-the-best-or-worst-asset-class-every-year-zebpay-ceo-rahul-pagidipati-explains-why/articleshow/135822463.cms",
+              "source": "The Times of India",
+              "published": "2026-11-14T04:13:52Z",
+              "image": "https://img.etimg.com/thumb/msid-135822497,width-1200,height-900,imgsize-146184,overlay-etmarkets/articleshow.jpg"
             }
           ]
         }
