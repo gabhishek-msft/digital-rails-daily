@@ -1,11 +1,27 @@
 {
-  "date": "November 17, 2026",
+  "date": "November 18, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "Helius CEO Mert Mumtaz says institutions need privacy before they come onchain",
+          "description": "The integration of privacy features in blockchain could accelerate institutional adoption, reshaping financial markets with enhanced security.\nThe post Helius CEO Mert Mumtaz says institutions need privacy before they come onchain appeared first on Crypto Bri…",
+          "url": "https://cryptobriefing.com/helius-mert-mumtaz-solana-privacy-institutions/",
+          "source": "Crypto Briefing",
+          "published": "2026-11-16T17:26:53Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/16122639/library-helius-ceo-mert-mumtaz-says-institutions-need-privacy-be-800x450.png"
+        },
+        {
+          "title": "'Tokenization Is Not the Finish Line': Jupiter to Let Users Borrow Against Bullish Shares",
+          "description": "The Solana trading platform unveiled a permissioned lending market, identity passport and issuer liquidity services at Breakpoint.",
+          "url": "https://decrypt.co/383333/tokenization-is-not-the-finish-line-jupiter-to-let-users-borrow-against-bullish-shares",
+          "source": "Decrypt",
+          "published": "2026-11-16T17:09:28Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/11/kash-dhanda-jupiter-gID_7.jpg"
+        },
         {
           "title": "Singapore and Germany central banks test cross-border CBDC settlement",
           "description": "The successful test of cross-border CBDC settlement could enhance global financial integration, improving efficiency and trust in international transactions.\nThe post Singapore and Germany central banks test cross-border CBDC settlement appeared first on Cryp…",
@@ -37,30 +53,6 @@
           "source": "Decrypt",
           "published": "2026-11-11T17:09:18Z",
           "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/11/solana-security-padlocks-gID_5-pID_1.png"
-        },
-        {
-          "title": "Starknet private transactions nearly double to 4,600 in October",
-          "description": "Starknet's rising private transactions highlight growing interest in privacy-focused DeFi, potentially influencing future regulatory frameworks.\nThe post Starknet private transactions nearly double to 4,600 in October appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/starknet-private-transactions-double-october/",
-          "source": "Crypto Briefing",
-          "published": "2026-11-11T14:37:36Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/11093723/library-starknet-private-transactions-nearly-double-to-4-600-in--800x450.png"
-        },
-        {
-          "title": "Alta Raises $80 Million to Build the Infrastructure for Onchain Global Banking",
-          "description": "Alta, a financial infrastructure company building the foundation for the next generation of global finance, has announced $80 million in total funding — including a $47.5 million Series A round and $32.5 million in previous seed financing. The Series A was le…",
-          "url": "https://zycrypto.com/alta-raises-80-million-to-build-the-infrastructure-for-onchain-global-banking/",
-          "source": "ZyCrypto",
-          "published": "2026-11-10T16:37:05Z",
-          "image": "https://zycrypto.com/wp-content/uploads/2026/11/unnamed-2026-11-10T163621.898.jpg"
-        },
-        {
-          "title": "Decrypt Money Account Gets Confidential Transfers With Solana Privacy Firm Helius",
-          "description": "Helius' Solana Privacy Rings will let Decrypt users send funds without broadcasting amounts, as it grows out The Information Exchange.",
-          "url": "https://decrypt.co/382806/decrypt-money-account-gets-confidential-transfers-with-solana-privacy-firm-helius",
-          "source": "Decrypt",
-          "published": "2026-11-10T14:32:48Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/11/decrypt-the-information-exchange-helius-gID_7.png"
         }
       ]
     },
@@ -69,6 +61,14 @@
       "icon": "🔐",
       "color": "#e6a200",
       "articles": [
+        {
+          "title": "Lighter returns about $5M USDC to affected trader after security incident",
+          "description": "The incident highlights vulnerabilities in cryptographic practices, emphasizing the need for robust security measures to protect digital assets.\nThe post Lighter returns about $5M USDC to affected trader after security incident appeared first on Crypto Briefi…",
+          "url": "https://cryptobriefing.com/lighter-returns-5m-usdc-security-incident/",
+          "source": "Crypto Briefing",
+          "published": "2026-11-16T19:33:33Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/16143321/library-lighter-returns-about-5m-usdc-to-affected-trader-after-s-800x450.png"
+        },
         {
           "title": "DOJ Wins Approval to Seize or Restrain Over $1.2B in Binance Hack",
           "description": "The Binance hack prompted DOJ court approval to seize or restrain over $1.2 billion, part of $2.7 billion frozen as investigators pursue stolen funds.\nThe post DOJ Wins Approval to Seize or Restrain Over $1.2B in Binance Hack appeared first on Bitcoin Foundat…",
@@ -108,22 +108,6 @@
           "source": "CryptoSlate",
           "published": "2026-11-12T20:10:03Z",
           "image": "https://cryptoslate.com/wp-content/uploads/2026/11/solana-private-proof-development.webp"
-        },
-        {
-          "title": "Alta raises $47.5 million Series A led by Index Ventures for compliance-first blockchain",
-          "description": "Alta's funding highlights growing institutional demand for compliant blockchain solutions, but reliance on a single partner poses risks.\nThe post Alta raises $47.5 million Series A led by Index Ventures for compliance-first blockchain appeared first on Crypto…",
-          "url": "https://cryptobriefing.com/alta-raises-series-a-index-ventures/",
-          "source": "Crypto Briefing",
-          "published": "2026-11-10T14:52:34Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/10095221/library-alta-raises-47-5-million-series-a-led-by-index-ventures--800x450.png"
-        },
-        {
-          "title": "Backed by $80 Million, Alta is Building the Infrastructure to Bring Global Banking Onchain",
-          "description": "San Francisco, CA, USA, 10th November 2026, Chainwire\nThe post Backed by $80 Million, Alta is Building the Infrastructure to Bring Global Banking Onchain appeared first on The Daily Hodl.",
-          "url": "https://dailyhodl.com/2026/11/10/backed-by-80-million-alta-is-building-the-infrastructure-to-bring-global-banking-onchain/",
-          "source": "The Daily Hodl",
-          "published": "2026-11-10T14:12:12Z",
-          "image": "https://dailyhodl.com/wp-content/uploads/2026/11/photo_2026-11-10_07-47-59_17942872672Glqr3lA0q.jpg?resize=1200,720"
         }
       ]
     },
@@ -133,68 +117,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "'Nobody Knows Who's in Charge': Boris Johnson Stands by Bitcoin Skepticism at Breakpoint",
-          "description": "The former UK prime minister told a Solana conference he backs blockchain but still doubts Bitcoin, months after calling it a Ponzi.",
-          "url": "https://decrypt.co/383307/nobody-knows-whos-in-charge-boris-johnson-stands-by-bitcoin-skepticism-at-breakpoint",
-          "source": "Decrypt",
-          "published": "2026-11-16T15:04:56Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/11/boris-johnson-decrypt-style-gID_7.jpg"
+          "title": "Waller, Considerations at the Intersection of Payments and Tokenized Markets",
+          "description": "Thank you for inviting me to return and speak today.  1     I am delighted to be here during a transformational time in payments. Two years ago, I spoke at The",
+          "url": "https://www.federalreserve.gov/newsevents/speech/waller20261117a.htm",
+          "source": "Federalreserve.gov",
+          "published": "2026-11-17T14:10:00Z",
+          "image": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg"
         },
         {
-          "title": "Singapore, Germany test cross-border FX settlement with CBDCs",
-          "description": "Singapore and Germany’s central banks advanced the testing phase of their cross-border settlement pilot using wholesale central bank digital currencies for faster cross-border transfers.",
-          "url": "https://cointelegraph.com/news/singapore-german-central-banks-settlement-cbdcs",
-          "source": "Cointelegraph",
-          "published": "2026-11-16T10:49:12Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7HWN6S3QM8JYZVAE091TE12/hi-love-it-or-hate-it-cryptos-vibe-shift-is-now-imminent2.jpg"
+          "title": "JPMorgan and DBS offer 24/7 dollar transfers… without stablecoins",
+          "description": "Ant International is the first client of the Singapore-US link, whose fees and working-capital savings remain undisclosed.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+          "url": "https://cryptoslate.com/jpmorgan-and-dbs-offer-24-7-dollar-transfers-without-stablecoins/",
+          "source": "CryptoSlate",
+          "published": "2026-11-17T14:00:06Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/11/institutional-dollar-switchboard-960x720.webp"
         },
         {
-          "title": "Thailand Proposes Daily Stablecoin Transfer Cap for Regulated Platforms",
-          "description": "Thailand's Securities and Exchange Commission is seeking feedback on restrictions that could significantly change how customers move stablecoins through regulated digital-asset operators. The proposed rules would generally limit eligible transfers into and ou…",
-          "url": "https://www.newsbtc.com/regulation/thailand-sec-stablecoin-transfer-cap-5-million-baht/",
-          "source": "newsBTC",
-          "published": "2026-11-16T10:00:00Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/newsbtc-2026-11-15-N15-18_cover.jpg"
-        },
-        {
-          "title": "DBS, JPMorgan’s Kinexys launch 24/7 transfers of tokenized deposits",
-          "description": "DBS and JPMorgan’s Kinexys launched a service that lets clients transfer tokenized US dollar deposits between Singapore and the US around the clock.",
-          "url": "https://cointelegraph.com/news/dbs-jpmorgans-kinexys-launch-tokenized-transfers",
-          "source": "Cointelegraph",
-          "published": "2026-11-16T08:50:50Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7HQDZG97Z39GHB9PREQ9EAS/hi-open-finance-vs-decentralized-finance-dbs-bank.jpg"
-        },
-        {
-          "title": "Grok AI XRP Price Prediction Lacks a Cited Forecast as XRP Holds Below $1",
-          "description": "Grok AI XRP price prediction searches lack an attributable forecast as XRP trades below $1, ETF withdrawals weigh and AI-agent payments expand.\nThe post Grok AI XRP Price Prediction Lacks a Cited Forecast as XRP Holds Below $1 appeared first on Bitcoin Founda…",
-          "url": "https://bitcoinfoundation.org/news/altcoins/grok-ai-xrp-price-prediction-lacks-a-cited-forecast-as-xrp-holds-below-1/",
+          "title": "TRUMP Gala Draws $8.6M in Holder Balances, Down 94% From First Dinner",
+          "description": "TRUMP crypto gala qualifiers hold $8.6 million, down 94% from the first dinner, as wallet balance rules tie seats and VIP access to holding tokens.\nThe post TRUMP Gala Draws $8.6M in Holder Balances, Down 94% From First Dinner appeared first on Bitcoin Founda…",
+          "url": "https://bitcoinfoundation.org/news/altcoins/trump-gala-draws-8-6m-in-holder-balances-down-94-from-first-dinner/",
           "source": "Bitcoinfoundation.org",
-          "published": "2026-11-16T07:58:08Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/grok-ai-xrp-price-prediction-lacks-a-cited-forecast-as-xrp-holds-below-1.webp"
+          "published": "2026-11-17T13:10:38Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/trump-gala-draws-8-6m-in-holder-balances-down-94-from-first-dinner.webp"
         },
         {
-          "title": "Senate Hearing Could Shape the SEC’s Next Chapter for Crypto Oversight",
-          "description": "The US Senate Banking Committee is preparing to examine nominees for positions at the Securities and Exchange Commission, a development that could eventually influence the tone and priorities of crypto oversight. A hearing scheduled for Thursday, November 19,…",
-          "url": "https://www.newsbtc.com/regulation/us-senate-sec-nominees-november-19-hearing-crypto/",
-          "source": "newsBTC",
-          "published": "2026-11-16T04:00:00Z",
-          "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/newsbtc-2026-11-15-N15-12_cover.jpg"
-        },
-        {
-          "title": "Thailand Proposes $148K Daily Cap on Stablecoin Transfers",
-          "description": "Thailand's SEC has proposed capping daily stablecoin deposits and withdrawals at 5 million baht per customer per operator, with a third-party wallet ban and Travel Rule duties. Comments close November 26.\nThe post Thailand Proposes $148K Daily Cap on Stableco…",
-          "url": "https://techreport.com/news/business/thailand-proposes-148k-daily-stablecoin-cap/",
-          "source": "Techreport.com",
-          "published": "2026-11-16T02:45:22Z",
-          "image": "https://techreport.com/wp-content/uploads/2026/11/thailand-stablecoin-cap-blueprint.jpg"
-        },
-        {
-          "title": "DTCC, Custodian of $114 Trillion, Adds Solana to Its Tokenization Service for 2027",
-          "description": "DTCC says its tokenization service, live since Oct. 28 with 20 Wall Street participants signed, will connect to Solana in the second half of 2027.",
-          "url": "https://www.dcforecasts.com/blockchain-news/dtcc-tokenization-service-solana-2027/",
+          "title": "Why Is Bitcoin Down? Grayscale Blames Stablecoin Exits, Not Strategy",
+          "description": "Grayscale's research head traces November's slide to stablecoin off-ramping, AI-stock de-risking and technical selling, and sees an entry point for long-term holders.",
+          "url": "https://www.dcforecasts.com/bitcoin-news/why-is-bitcoin-down-grayscale-stablecoin-outflows-entry-point/",
           "source": "Dcforecasts.com",
-          "published": "2026-11-16T00:34:50Z",
-          "image": "https://www.dcforecasts.com/wp-content/uploads/2026/11/dtcc-tokenization-service-solana-2027.webp"
+          "published": "2026-11-17T10:50:18Z",
+          "image": "https://www.dcforecasts.com/wp-content/uploads/2026/11/why-is-bitcoin-down-grayscale-stablecoin-outflows-entry-poin.webp"
+        },
+        {
+          "title": "Goldman Sachs reports $1.22B in Ether ETFs as ETHA share count jumps",
+          "description": "Goldman Sachs raised its ETHA shares 352% in Q3 and boosted Fidelity Bitcoin ETF holdings more than 50-fold, while Wells Fargo increased its IBIT stake 103%.",
+          "url": "https://cointelegraph.com/news/goldman-sachs-reports-122b-ether-etfs-etha-shares-jumps",
+          "source": "Cointelegraph",
+          "published": "2026-11-17T09:08:32Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7M3NS6S1T6ZRE6SXTFKRZMG/hi-goldman-sachs-and-crypto-recap-1-1280x853.webp"
+        },
+        {
+          "title": "Supreme Court Declines Custodia Bank’s Fed Master Account Appeal",
+          "description": "Custodia Bank's Supreme Court appeal was declined, leaving a 2–1 ruling intact and preserving the Fed's power to deny direct payment system access.\nThe post Supreme Court Declines Custodia Bank’s Fed Master Account Appeal appeared first on Bitcoin Foundation.",
+          "url": "https://bitcoinfoundation.org/news/companies/supreme-court-declines-custodia-banks-fed-master-account-appeal/",
+          "source": "Bitcoinfoundation.org",
+          "published": "2026-11-17T08:02:23Z",
+          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/supreme-court-declines-custodia-banks-fed-master-account-appeal.webp"
+        },
+        {
+          "title": "SBI and Cambodia Plan a Yen Stablecoin Trial Behind Everyday Remittances",
+          "description": "SBI and Cambodia’s central bank plan a JPYSC remittance trial, using a yen stablecoin between institutions. No commercial launch is announced.",
+          "url": "https://www.newsbtc.com/crypto-news/sbi-cambodia-jpysc-yen-stablecoin-remittance-trial/",
+          "source": "newsBTC",
+          "published": "2026-11-17T07:00:00Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/newsbtc-2026-11-16-N16-08_cover.jpg"
+        },
+        {
+          "title": "Figment to Support Staking Through BNY’s Digital Asset Custody Platform",
+          "description": "Figment will support BNY's staking offering through its validator infrastructure, giving eligible institutions a route from custody into protocol participation.",
+          "url": "https://www.newsbtc.com/business/figment-bny-digital-asset-custody-institutional-staking/",
+          "source": "newsBTC",
+          "published": "2026-11-17T05:00:00Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/newsbtc-2026-11-16-N16-20_cover.jpg"
         }
       ]
     },
@@ -204,20 +188,28 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Bitcoin mining industry rocked by AI-linked breach as hackers divert 13 EH/s of computing power",
-          "description": "The address received 0.08088977 BTC in an OCEAN-attributed block, while @GalaxyMind's 64,000-miner estimate remains unverified.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
-          "url": "https://cryptoslate.com/bitcoin-mining-industry-rocked-by-ai-linked-breach-as-hackers-divert-13-eh-s-of-computing-power/",
-          "source": "CryptoSlate",
-          "published": "2026-11-16T08:30:35Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-mining-reward-route.webp"
+          "title": "Xsolla ZK Introduces a Gas Token Designed to Let Digital Items Move Between Games and Players",
+          "description": "Los Angeles, United States, 17th November 2026, Chainwire\nThe post Xsolla ZK Introduces a Gas Token Designed to Let Digital Items Move Between Games and Players appeared first on The Daily Hodl.",
+          "url": "https://dailyhodl.com/2026/11/17/xsolla-zk-introduces-a-gas-token-designed-to-let-digital-items-move-between-games-and-players/",
+          "source": "The Daily Hodl",
+          "published": "2026-11-17T13:56:42Z",
+          "image": "https://dailyhodl.com/wp-content/uploads/2026/11/Xsolla_Gas_header_3x2_1794858418I4STFxlrsv.jpg?resize=1728,1152"
         },
         {
-          "title": "Nvidia shares steady after report on Jensen Huang comeback talks",
-          "description": "It was little changed on Robinhood, after a perpetual futures contract on Hyperliquid blockchain referencing Nvidia’s share price rose more than 3% earlier Sunday.",
-          "url": "https://www.thehindubusinessline.com/info-tech/nvidia-shares-steady-after-report-on-jensen-huang-comeback-talks/article71706771.ece",
-          "source": "BusinessLine",
-          "published": "2026-11-16T04:49:53Z",
-          "image": "https://bl-i.thgim.com/public/incoming/epnb2o/article71706797.ece/alternates/LANDSCAPE_1200/2026-11-13T150310Z_1538105528_RC23NOA9HCR2_RTRMADP_3_NVIDIA-CEO.JPG"
+          "title": "Show HN: CofreAdmin Wallet – Self-Custodial Web3 Personal Finance",
+          "description": "Article URL: https://github.com/cofreadminwallet/app\nComments URL: https://news.ycombinator.com/item?id=50530414\nPoints: 1\n# Comments: 0",
+          "url": "https://github.com/cofreadminwallet/app",
+          "source": "Github.com",
+          "published": "2026-11-17T12:18:08Z",
+          "image": "https://opengraph.githubassets.com/99e45dcd5e47d90b2d7544e77bcdae7430aa9efb32a8c0fd23eda768ffbfbc4e/cofreadminwallet/app"
+        },
+        {
+          "title": "Crypto Traders Cash Out Stablecoins as Bitcoin Hits 4-Month Low",
+          "description": "The stablecoin sector’s market capitalization has shrunk by about $12 billion over the past 30 days, largely driven by cryptocurrency traders converting the dollar-pegged tokens into dollars and other traditional currencies and cashing out, Bloomberg reported…",
+          "url": "https://www.pymnts.com/cryptocurrency/2026/crypto-traders-cash-out-stablecoins-as-bitcoin-hits-4-month-low/",
+          "source": "pymnts.com",
+          "published": "2026-11-17T01:14:09Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/11/cryptocurrency-bitcoin-down.jpeg"
         },
         {
           "title": "Three Central Banks Test a Bridge Between Traditional FX and Tokenized Settlement",
@@ -226,6 +218,14 @@
           "source": "newsBTC",
           "published": "2026-11-16T01:00:00Z",
           "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/newsbtc-2026-11-15-N15-09_cover.jpg"
+        },
+        {
+          "title": "DTCC, Custodian of $114 Trillion, Adds Solana to Its Tokenization Service for 2027",
+          "description": "DTCC says its tokenization service, live since Oct. 28 with 20 Wall Street participants signed, will connect to Solana in the second half of 2027.",
+          "url": "https://www.dcforecasts.com/blockchain-news/dtcc-tokenization-service-solana-2027/",
+          "source": "Dcforecasts.com",
+          "published": "2026-11-16T00:34:50Z",
+          "image": "https://www.dcforecasts.com/wp-content/uploads/2026/11/dtcc-tokenization-service-solana-2027.webp"
         },
         {
           "title": "The infrastructure shift: Why tokenised bonds matter now",
@@ -250,14 +250,6 @@
           "source": "newsBTC",
           "published": "2026-11-11T09:30:56Z",
           "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/unnamed-31.png"
-        },
-        {
-          "title": "Explainable AI-based disease diagnostics using real-time plasmonic biosensor data and blockchain technology",
-          "description": "Scientific Reports - Explainable AI-based disease diagnostics using real-time plasmonic biosensor data and blockchain technology",
-          "url": "https://www.nature.com/articles/s41598-026-64224-1.pdf",
-          "source": "Nature.com",
-          "published": "2026-11-10T00:00:00Z",
-          "image": null
         }
       ]
     },
@@ -271,28 +263,60 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Record hedge-fund leverage could soon spill over into Bitcoin",
-              "description": "The November report’s leverage record concerns Q1 2026, while broader strategy exposure leaves a conditional cross-market risk for Bitcoin.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in…",
-              "url": "https://cryptoslate.com/record-hedge-fund-leverage-could-soon-spill-over-into-bitcoin/",
-              "source": "CryptoSlate",
-              "published": "2026-11-16T14:30:20Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/11/fed-hedge-fund-leverage-bitcoin-hidden-iceberg.webp"
-            },
-            {
-              "title": "At Cantor’s crypto summit, a window into Tether’s ambitions and a warning on cyberattacks",
-              "description": "The Wall Street giant's latest Cantor Converge event underscores a dramatic evolution on its view of crypto.",
-              "url": "https://fortune.com/2026/11/16/cantor-converge-crypto-tether-ambitions-cyberattacks/",
+              "title": "Pantera-backed Codex raises $30 million to link Asia to global markets with stablecoins",
+              "description": "Valued at $130 million, the startup sees an opening in the costly plumbing behind international payments.",
+              "url": "https://fortune.com/2026/11/17/pantera-backed-codex-30-million-asia-global-markets-stablecoins/",
               "source": "Fortune",
-              "published": "2026-11-16T13:46:45Z",
-              "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2294715033.jpg?resize=1200,600"
+              "published": "2026-11-17T15:00:00Z",
+              "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/Codex-Team-Photo.jpeg"
             },
             {
-              "title": "Japan’s economy stalls, giving Bitcoin no automatic relief from yen funding costs",
-              "description": "With the BOJ rate at 1.25%, weak consumption strengthens the case for caution while inflation risks keep further tightening in view.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your i…",
-              "url": "https://cryptoslate.com/japans-economy-stalls-giving-bitcoin-no-automatic-relief-from-yen-funding-costs/",
+              "title": "PrimeXBT Launches Anthropic Pre-IPO Crypto Futures, Bringing New Trading Opportunities in AI",
+              "description": "Castries, Saint Lucia, 17th November 2026, Chainwire\nThe post PrimeXBT Launches Anthropic Pre-IPO Crypto Futures, Bringing New Trading Opportunities in AI appeared first on The Daily Hodl.",
+              "url": "https://dailyhodl.com/2026/11/17/primexbt-launches-anthropic-pre-ipo-crypto-futures-bringing-new-trading-opportunities-in-ai/",
+              "source": "The Daily Hodl",
+              "published": "2026-11-17T14:49:19Z",
+              "image": "https://dailyhodl.com/wp-content/uploads/2026/11/PR_00_1200x720_Anthropic_Pre-IPO_1794922526yjrN0wxiEr.jpg?resize=1200,720"
+            },
+            {
+              "title": "CFTC Clears Backpack’s Blockchain Exchange for US Perpetual Futures, and BP Jumps 46%",
+              "description": "CFTC Chairman Michael Selig called the approval of a blockchain-based exchange and clearinghouse 'an important milestone.' Backpack says the licenses are its own and plans 24/7 US perpetual futures.",
+              "url": "https://www.dcforecasts.com/regulation/perpetual-futures-cftc-backpack-blockchain-exchange-approval/",
+              "source": "Dcforecasts.com",
+              "published": "2026-11-17T14:45:36Z",
+              "image": "https://www.dcforecasts.com/wp-content/uploads/2026/11/perpetual-futures-cftc-backpack-blockchain-exchange-approval.webp"
+            },
+            {
+              "title": "Bitcoin to $1M by 2030? ‘Almost certainly not,’ says Dragonfly’s Qureshi",
+              "description": "Dragonfly’s Haseeb Qureshi says Bitcoin could reach $400,000 by 2030 but believes the global rout in AI stocks will prevent Bitcoin from reclaiming six figures by the end of 2026.",
+              "url": "https://cointelegraph.com/magazine/bitcoin-to-1m-by-2030-almost-certainly-not-says-dragonflys-qureshi",
+              "source": "Cointelegraph",
+              "published": "2026-11-17T13:30:00Z",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7J814ZJF0ZT28MQSMZXMK36/haseeb-qureshi-trade-secrets-1280x853.webp"
+            },
+            {
+              "title": "Lighter’s exploit raises uncomfortable questions for Hyperliquid’s $5.7 billion market",
+              "description": "After @Lighter_xyz described a key-driven pool drain, Hyperliquid's permissions point to account losses while a matching extraction remains unproven.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The C…",
+              "url": "https://cryptoslate.com/lighters-exploit-raises-uncomfortable-questions-for-hyperliquids-5-7-billion-market/",
               "source": "CryptoSlate",
-              "published": "2026-11-16T13:30:20Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/11/japan-gdp-bitcoin-yen-funding-burden.webp"
+              "published": "2026-11-17T12:00:11Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/11/hyperliquid-authority-threads-960x720.webp"
+            },
+            {
+              "title": "Congratulations to WIRED’s Class of 2026",
+              "description": "This past year was, frankly, crazy. For our inaugural WIRED Yearbook, we celebrate the people, inventions, and viral moments that made it a little more bearable—and are already defining the future.",
+              "url": "https://www.wired.com/story/wired-yearbook-2026/",
+              "source": "Wired",
+              "published": "2026-11-17T11:00:00Z",
+              "image": "https://media.wired.com/photos/6afb9b29276fa364fc4708a8/16:9/w_1920,h_1080,c_limit/SOCIAL_WIRED_FRAMES_TITLE_MOTION.png"
+            },
+            {
+              "title": "Binance says stolen crypto has been replaced but some customers have to wait",
+              "description": "The 198-token reserve snapshot expands Binance's disclosed scope, while proof availability, phased withdrawals and SAFU restoration remain separate tests.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get …",
+              "url": "https://cryptoslate.com/binance-says-stolen-crypto-has-been-replaced-but-some-customers-have-to-wait/",
+              "source": "CryptoSlate",
+              "published": "2026-11-14T17:20:40Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/11/binance-vault-withdrawal-gates.webp"
             }
           ]
         },
@@ -300,6 +324,22 @@
           "title": "Hyperscalers",
           "icon": "☁️",
           "articles": [
+            {
+              "title": "How to Analyse a Company's Financial Statements Before Investing in Its Stocks",
+              "description": "Assessing a company's financial stability plays a vital role in guiding investors toward smart investment choices. By closely examining income statements, balance sheets, and cash flow statements, investors can uncover significant metrics such as revenues, as…",
+              "url": "https://m.economictimes.com/wealth/invest/how-to-analyse-a-companys-financial-statements-before-investing-in-its-stocks/articleshow/135919972.cms",
+              "source": "Economictimes.com",
+              "published": "2026-11-17T09:58:27Z",
+              "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-170976,resizemode-75,msid-135919972/wealth/invest/how-to-analyse-a-companys-financial-statements-before-investing-in-its-stocks.jpg"
+            },
+            {
+              "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
+              "description": "US District Judge Jessica Clarke has acquitted two brothers accused of stealing $25 million in cryptocurrency in about 12 seconds through a scheme that exploited a bug in the Ethereum blockchain. [...]",
+              "url": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
+              "source": "BleepingComputer",
+              "published": "2026-11-17T09:44:22Z",
+              "image": "https://www.bleepstatic.com/content/hl-images/2026/11/17/Ethereum-coin.jpg"
+            },
             {
               "title": "FBI tracks $400 million ‘FaceStealer’ crypto theft to N Korea — Here's what you should do if affected; how to avoid scam",
               "description": "The FBI said it is investigating the massive $400 million ‘FaceStealer’ cryptocurrency theft scheme and has traced it to North Korean hackers. Here's what to do if you're affected and how to avoid the scam.",
@@ -323,22 +363,6 @@
               "source": "ZyCrypto",
               "published": "2026-11-14T18:48:21Z",
               "image": "https://zycrypto.com/wp-content/uploads/2026/11/XRP-Dogecoin-and-Solana-Doomed_-Billionaire-Tim-Draper-Predicts-Altcoins-Will-Be-Absorbed-By-Bitcoin-—-Heres-Why.jpg"
-            },
-            {
-              "title": "US disrupts North Korean campaign behind $400 million crypto theft",
-              "description": "The U.S. government has disrupted a North Korean social engineering campaign called 'FaceStealer', responsible for stealing more than $400 million in cryptocurrency. [...]",
-              "url": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
-              "source": "BleepingComputer",
-              "published": "2026-11-14T15:15:49Z",
-              "image": "https://www.bleepstatic.com/content/hl-images/2026/10/21/DPRK.jpg"
-            },
-            {
-              "title": "Meet ‘Captain Keel,’ the 37-year-old steering a Bitcoin miner into the AI data center gold rush",
-              "description": "Ben Gagnon is turning Bitfarms into Keel Infrastructure, swapping crypto for the one thing AI giants can’t get enough of: power.",
-              "url": "https://fortune.com/2026/11/14/ben-gagnon-keel-infrastructure-ai-data-center-gold-rush/",
-              "source": "Fortune",
-              "published": "2026-11-14T10:00:00Z",
-              "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/7D0A7613-horizontal-crop.jpg?resize=1200,600"
             },
             {
               "title": "Bitcoin is either the best or worst asset class every year. ZebPay CEO Rahul Pagidipati explains why",
