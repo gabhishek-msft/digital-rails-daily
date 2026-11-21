@@ -1,11 +1,19 @@
 {
-  "date": "November 20, 2026",
+  "date": "November 21, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
       "icon": "🛡️",
       "color": "#ffb900",
       "articles": [
+        {
+          "title": "Bitwise challenges Grayscale’s $489 million Zcash ETF as CIO predicts Bitcoin-to-ZEC rotation",
+          "description": "Bitwise’s proposal would let eligible firms take delivery of ZEC, while Grayscale’s quarterly filing says its ETF requires cash redemptions.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst i…",
+          "url": "https://cryptoslate.com/bitwise-challenges-grayscales-489-million-zcash-etf-as-cio-predicts-bitcoin-to-zec-rotation/",
+          "source": "CryptoSlate",
+          "published": "2026-11-19T16:40:20Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/11/zcash-redemption-optical-split-960x720.webp"
+        },
         {
           "title": "Aptos Confidential Assets standard brings encrypted balances onchain",
           "description": "Aptos' Confidential Assets standard enhances privacy for businesses on blockchain, balancing confidentiality with regulatory compliance needs.\nThe post Aptos Confidential Assets standard brings encrypted balances onchain appeared first on Crypto Briefing.",
@@ -101,12 +109,52 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Comparing Crypto Payment Processors for International Merchants",
-          "description": "Compare crypto payment processors for international merchants, including fees, settlement currencies, exchange rates, security and integration with online stores.",
-          "url": "https://hackread.com/crypto-payment-processors-international-merchants/",
-          "source": "HackRead",
-          "published": "2026-11-19T14:42:46Z",
-          "image": "https://hackread.com/wp-content/uploads/2026/11/comparing-crypto-payment-processors-for-international-merchants.jpg"
+          "title": "Lagarde warns Europe could miss chance to unify tokenized markets",
+          "description": "ECB President Lagarde warned that Europe has a limited window to seize the benefits of tokenization and establish rules before market fragmentation occurs.",
+          "url": "https://cointelegraph.com/news/lagarde-europe-limited-window-tokenization-rules",
+          "source": "Cointelegraph",
+          "published": "2026-11-20T13:21:39Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7WGQEQ57ZB4C6X8Y2M5KYTQ/christine-lagarde-imf-1280x853.webp"
+        },
+        {
+          "title": "CryptoUK Urges FCA Not to Treat DeFi Devs as Regulated by Default",
+          "description": "The UK crypto trade group broadly backed the regulator's proposed perimeter guidance, but warned that parts of it go further than the law.",
+          "url": "https://decrypt.co/383679/cryptouk-urges-fca-not-to-treat-defi-devs-as-regulated-by-default",
+          "source": "Decrypt",
+          "published": "2026-11-20T10:07:46Z",
+          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/uk-fca-financial-conduct-authority-decrypt-style-gID_7.jpg"
+        },
+        {
+          "title": "Forward Industries Pledges Its Solana for a $50M Loan From Erebor Bank",
+          "description": "Forward Industries' Nov. 19 filing names Erebor Bank as the lender behind a $50 million loan secured by staked SOL, with margin calls at 75% and 80% LTV.",
+          "url": "https://www.dcforecasts.com/altcoin-news/forward-industries-solana-loan-erebor-bank/",
+          "source": "Dcforecasts.com",
+          "published": "2026-11-20T08:31:01Z",
+          "image": "https://www.dcforecasts.com/wp-content/uploads/2026/11/forward-industries-solana-loan-erebor-bank.webp"
+        },
+        {
+          "title": "A Bitcoin trade that doesn’t need prices to rise could beat Treasury bills in 2027",
+          "description": "The bank expects renewed demand for leverage to lift Bitcoin carry after 67 consecutive days of negative funding in 2026.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+          "url": "https://cryptoslate.com/a-bitcoin-trade-that-doesnt-need-prices-to-rise-could-beat-treasury-bills-in-2027/",
+          "source": "CryptoSlate",
+          "published": "2026-11-19T23:10:33Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-carry-clearance-1-960x720.webp"
+        },
+        {
+          "title": "MoonPay Joins Wave of Crypto Firms Seeking Banking Licenses",
+          "description": "Cryptocurrency payments firm MoonPay has become the latest digital asset company aiming to become a licensed U.S. bank. The company filed for a banking charter Tuesday (Nov. 17) with the Office of the Comptroller of the Currency (OCC), saying the proposed Moo…",
+          "url": "https://www.pymnts.com/cryptocurrency/2026/moonpay-joins-wave-of-crypto-firms-seeking-banking-licenses/",
+          "source": "pymnts.com",
+          "published": "2026-11-19T21:03:23Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/11/MoonPay-bank-1.jpg"
+        },
+        {
+          "title": "Bullish recruits Wall Street heavyweights to solve tokenized stocks’ biggest trading problem",
+          "description": "Equiniti runs the shareholder register, and Galaxy’s route through two transfer agents shows what it takes for an issuer to connect another system.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Cat…",
+          "url": "https://cryptoslate.com/bullish-recruits-wall-street-heavyweights-to-solve-tokenized-stocks-biggest-trading-problem/",
+          "source": "CryptoSlate",
+          "published": "2026-11-19T20:30:58Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/11/bullish-solana-capsule-transfer-960x720.webp"
         },
         {
           "title": "Singapore’s Tokenized MAS Bills Hit S$100 Million, 100 Times the First Issue",
@@ -123,46 +171,6 @@
           "source": "Cointelegraph",
           "published": "2026-11-19T08:54:58Z",
           "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7SBSNHRTPW4ZMZ1E8HFB32H/news-crypto-studio-breaking-news-2-1280x853.webp"
-        },
-        {
-          "title": "Singapore’s MAS issues $77 million in tokenized bills settled via CBDC",
-          "description": "The central bank said the bills were issued natively on its Singapore Dollar Test Network and settled in wholesale CBDC.",
-          "url": "https://biztoc.com/x/ac21a112bc155780",
-          "source": "Biztoc.com",
-          "published": "2026-11-19T08:27:50Z",
-          "image": "https://cdn.biztoc.com/ac21a112bc155780_s.webp"
-        },
-        {
-          "title": "Anthropic vs. Nvidia: $1.5T IPO Valuation and AI Exposure",
-          "description": "Anthropic IPO and Nvidia competition puts an $83 offer price and $1.5T valuation alongside Nvidia's chip business as investors weigh AI exposure.\nThe post Anthropic vs. Nvidia: $1.5T IPO Valuation and AI Exposure appeared first on Bitcoin Foundation.",
-          "url": "https://bitcoinfoundation.org/news/ai/anthropic-vs-nvidia-1-5t-ipo-valuation-and-ai-exposure/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-11-19T08:15:42Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/anthropic-vs-nvidia-1-5t-ipo-valuation-and-ai-exposure.webp"
-        },
-        {
-          "title": "DBS Teams Up With Circle to Give Asian Institutions 24/7 USDC Minting and Redemption",
-          "description": "DBS and Circle have partnered to let eligible institutional clients in Asia mint and redeem USDC directly through the bank with near-instant, round-the-clock settlement. The move supports rising demand for tokenised money as shown in a recent DBS survey of la…",
-          "url": "https://dailyhodl.com/2026/11/19/dbs-teams-up-with-circle-to-give-asian-institutions-24-7-usdc-minting-and-redemption/",
-          "source": "The Daily Hodl",
-          "published": "2026-11-19T08:05:59Z",
-          "image": "https://dailyhodl.com/wp-content/uploads/2026/10/buffett-dollar-new.jpg?resize=1365,800"
-        },
-        {
-          "title": "HSBC Now Sells Tokenized Money Fund Units for RedCoin, Starting at HK$100",
-          "description": "From Nov. 19, HSBC customers can use the bank's RedCoin stablecoin to buy tokenized units of its Hong Kong dollar money market fund, recorded on Ethereum, from HK$100.",
-          "url": "https://www.dcforecasts.com/blockchain-news/hsbc-redcoin-tokenized-money-market-fund/",
-          "source": "Dcforecasts.com",
-          "published": "2026-11-19T08:02:42Z",
-          "image": "https://www.dcforecasts.com/wp-content/uploads/2026/11/hsbc-redcoin-tokenized-money-market-fund.webp"
-        },
-        {
-          "title": "Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts",
-          "description": "Sygnum predicts that Bitcoin carry trades may offer higher returns than Treasury bills in 2027, following a sharp drop in funding rates that made the strategy less compelling in 2026.",
-          "url": "https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027",
-          "source": "Cointelegraph",
-          "published": "2026-11-19T06:00:00Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7R6WEJ8WD3YY7VF1JPW7MH8/sponsor-screen-traid-bitcoin-1280x853.webp"
         }
       ]
     },
@@ -172,44 +180,36 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Hashi Mainnet is Live With 20-Plus Partners, Bringing Bitcoin Finance to Sui at Scale",
-          "description": "Grand Cayman, Cayman Islands, 19th November 2026, Chainwire\nThe post Hashi Mainnet is Live With 20-Plus Partners, Bringing Bitcoin Finance to Sui at Scale appeared first on The Daily Hodl.",
-          "url": "https://dailyhodl.com/2026/11/19/hashi-mainnet-is-live-with-20-plus-partners-bringing-bitcoin-finance-to-sui-at-scale/",
-          "source": "The Daily Hodl",
-          "published": "2026-11-19T14:05:34Z",
-          "image": "https://dailyhodl.com/wp-content/uploads/2026/11/PR_Header_MMDD_Headline_Text_1795001839MYc4CvegGM.jpg?resize=1200,720"
+          "title": "VanEck to end Gemini ETF custody deals, keeps Coinbase",
+          "description": "VanEck plans to end Gemini’s custody agreements for three crypto ETFs in February 2027, while Coinbase will continue serving as a custodian for the funds.",
+          "url": "https://cointelegraph.com/news/vaneck-gemini-etf-custody-end-keep-coinbase",
+          "source": "Cointelegraph",
+          "published": "2026-11-20T10:54:38Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7W70S79VWG5A9Q3C9MCT7R8/vvv-1280x853.webp"
         },
         {
-          "title": "The Bitcoin Policy Institute Is Now the Finney Foundation, Named for Bitcoin’s First Recipient",
-          "description": "The Bitcoin Policy Institute relaunched as the Finney Foundation for Open Technology, named for Hal Finney, and added 10 fellows while keeping its 12 Bitcoin fellows.",
-          "url": "https://www.dcforecasts.com/bitcoin-news/bitcoin-policy-institute-finney-foundation-rebrand/",
-          "source": "Dcforecasts.com",
-          "published": "2026-11-18T23:42:58Z",
-          "image": "https://www.dcforecasts.com/wp-content/uploads/2026/11/bitcoin-policy-institute-finney-foundation-rebrand.webp"
-        },
-        {
-          "title": "World Bank Taps Circle and Citi to Expand Stablecoin Use",
-          "description": "World Bank Group wants to test the potential of regulated stablecoin infrastructure in improving payments and settlements for its clients. “This initiative is about exploring ways to make the financial plumbing of development work better for the people who ne…",
-          "url": "https://www.pymnts.com/blockchain/2026/world-bank-taps-circle-and-citi-to-expand-stablecoin-use/",
+          "title": "Why Banks Want Blockchain’s Customers",
+          "description": "Financial institutions have enjoyed the systemic benefits that come from controlling both where money sits and how it moves. Deposits provide funding, payment networks generate fees, and the infrastructure connecting them helps keep customers inside the banki…",
+          "url": "https://www.pymnts.com/blockchain/2026/why-banks-want-blockchain-customers/",
           "source": "pymnts.com",
-          "published": "2026-11-18T20:41:42Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2026/11/World-Bank-Group.jpeg"
+          "published": "2026-11-19T23:00:45Z",
+          "image": "https://www.pymnts.com/wp-content/uploads/2026/11/blockchain-stablecoins-tokenization-banks.jpeg"
         },
         {
-          "title": "Polymarket US Certifies $100 Oil and $3.50 Gas Contracts for Listing as Soon as Nov. 19",
-          "description": "Polymarket US self-certified WTI, Brent and natural gas event contracts with the CFTC on Nov. 17, extending its crypto up-or-down model to energy prices.",
-          "url": "https://www.dcforecasts.com/regulation/polymarket-us-oil-natural-gas-event-contracts-cftc/",
+          "title": "Cosmos Health to Resume Share Repurchases as Insiders Commit to 12-Month Lock-Up",
+          "description": "* Announces shareholder-focused actions reflecting management's belief that the Company's common stock is undervalued * Share repurchases to resume under the...",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/cosmos-health-resume-share-repurchases-153000095.html",
+          "source": "Yahoo Entertainment",
+          "published": "2026-11-19T16:00:47Z",
+          "image": "https://s.yimg.com/lo/mysterio/api/769fae3518ca996333b62d0eac9d45e0150a45340c72c22f3e7db6b3433142c5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Faccesswire.ca%2Fdc2ff1403d630a7ef4814c3bbeacc3bb.png"
+        },
+        {
+          "title": "Hashi Brings Bitcoin Lending to Sui, With Fluid Taking hBTC for USDC Loans",
+          "description": "Hashi went live on Sui mainnet with 20+ partners, letting Bitcoin holders mint 1:1 hBTC and borrow USDC on Fluid while their BTC stays on the Bitcoin network.",
+          "url": "https://www.dcforecasts.com/bitcoin-news/bitcoin-lending-sui-hashi-mainnet-fluid-hbtc/",
           "source": "Dcforecasts.com",
-          "published": "2026-11-18T19:28:22Z",
-          "image": "https://www.dcforecasts.com/wp-content/uploads/2026/11/polymarket-us-oil-natural-gas-event-contracts-cftc.webp"
-        },
-        {
-          "title": "Hyundai Card and JPMorgan Test AI Agents’ Payments Abilities",
-          "description": "Hyundai’s credit card arm says it has seen success from its blockchain payments partnership with Kinexys by J.P. Morgan. This effort has shown the potential for artificial intelligence (AI) agents to “autonomously and securely execute financial transactions,”…",
-          "url": "https://www.pymnts.com/news/artificial-intelligence/2026/hyundai-card-and-jpmorgan-test-ai-agents-payments-abilities/",
-          "source": "pymnts.com",
-          "published": "2026-11-18T16:31:46Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2026/11/digital-payments.jpeg"
+          "published": "2026-11-19T15:49:18Z",
+          "image": "https://www.dcforecasts.com/wp-content/uploads/2026/11/bitcoin-lending-sui-hashi-mainnet-fluid-hbtc.webp"
         },
         {
           "title": "Cosmos Health Reports Record Nine-Month Revenue of $53.6 Million, Up 18%; Q3 Gross Margin Up 465 Basis Points Sequentially; Total Debt Down 34% and Stockholders' Equity Up 21% Since Year-End",
@@ -234,6 +234,14 @@
           "source": "WWD",
           "published": "2026-11-18T06:00:00Z",
           "image": "https://wwd.com/wp-content/uploads/2026/05/The-Aura-enabled-QR-code-on-a-Loro-Piana-piece.jpeg"
+        },
+        {
+          "title": "Waller, Considerations at the Intersection of Payments and Tokenized Markets",
+          "description": "Thank you for inviting me to return and speak today.  1     I am delighted to be here during a transformational time in payments. Two years ago, I spoke at The",
+          "url": "https://www.federalreserve.gov/newsevents/speech/waller20261117a.htm",
+          "source": "Federalreserve.gov",
+          "published": "2026-11-17T14:10:00Z",
+          "image": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg"
         }
       ]
     },
@@ -247,12 +255,12 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "NYSE owner targets Hyperliquid’s $5 billion trading boom, but the liquidity may not follow",
-              "description": "Hyperion DeFi CEO Hyunsu Jung says firms quoting across separate order books could narrow price gaps between the proposed US market and overseas venues.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get Th…",
-              "url": "https://cryptoslate.com/nyse-owner-targets-hyperliquids-5-billion-trading-boom-but-the-liquidity-may-not-follow/",
+              "title": "Bitcoin buyers face a trading issue as stablecoins just suffer their biggest supply drop since 2022",
+              "description": "Flowdesk’s Greg Guttas explains how a market maker could use its own stablecoins to fund a Bitcoin purchase and settle with the client later.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst …",
+              "url": "https://cryptoslate.com/bitcoin-buyers-face-a-trading-issue-as-stablecoins-just-suffer-their-biggest-supply-drop-since-2022/",
               "source": "CryptoSlate",
-              "published": "2026-11-19T12:20:23Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/11/brave_1ZBl0co8vZ-960x720.jpg"
+              "published": "2026-11-20T12:40:46Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-dealer-transfer-lift-960x720.webp"
             },
             {
               "title": "Binance Says Withdrawals Reopened on 87 Networks as Recovery Moves Toward Full Access",
@@ -261,14 +269,6 @@
               "source": "newsBTC",
               "published": "2026-11-17T11:00:00Z",
               "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/newsbtc-2026-11-16-N16-19_cover.jpg"
-            },
-            {
-              "title": "Binance says stolen crypto has been replaced but some customers have to wait",
-              "description": "The 198-token reserve snapshot expands Binance's disclosed scope, while proof availability, phased withdrawals and SAFU restoration remain separate tests.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get …",
-              "url": "https://cryptoslate.com/binance-says-stolen-crypto-has-been-replaced-but-some-customers-have-to-wait/",
-              "source": "CryptoSlate",
-              "published": "2026-11-14T17:20:40Z",
-              "image": "https://cryptoslate.com/wp-content/uploads/2026/11/binance-vault-withdrawal-gates.webp"
             }
           ]
         },
@@ -277,12 +277,28 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "Quantum Upgrade Could Be 'Particularly Challenging' for Blockchains: IOSCO",
-              "description": "The global securities watchdog said markets shouldn't wait for quantum computers to arrive, flagging bulkier signatures and harder upgrades.",
-              "url": "https://decrypt.co/383613/quantum-upgrade-could-be-particularly-challenging-for-blockchains-iosco",
-              "source": "Decrypt",
-              "published": "2026-11-19T13:47:00Z",
-              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/03/quantum-computer-decrypt-style-gID_7.jpg"
+              "title": "Virtual Crypto Card: 9 Mistakes That Cost Users Money",
+              "description": "The virtual crypto card appears as simple as a group of card information supported by digital assets. The trouble that users complain about in practice is mostly due to small details, including networks, balances, and merchant settings. For the Karta crypto c…",
+              "url": "https://the-digital-reader.com/virtual-crypto-card-9-mistakes-that-cost-users-money/",
+              "source": "The-digital-reader.com",
+              "published": "2026-11-20T09:37:35Z",
+              "image": "https://the-digital-reader.com/wp-content/uploads/2026/11/Virtual-Crypto-Card.webp"
+            },
+            {
+              "title": "FBI Uncovers Chilling Cyberattack: North Korean Hackers Steal $400 Million Through Fake Video Meetings",
+              "description": "North Korean state-backed hackers stole more than $400 million in cryptocurrency over the past 18 months by secretly recording video images of people and using those images to target their contacts, the Federal Bureau of Investigation (FBI) said on Nov. 12. T…",
+              "url": "https://www.naturalnews.com/2026-11-20-north-korean-hackers-steal-400m-through-fake-video.html",
+              "source": "Naturalnews.com",
+              "published": "2026-11-20T06:00:00Z",
+              "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/11/north-korean-hackers-cryptocurrency-theft-facestealer-6652-c16023f9-original.jpg"
+            },
+            {
+              "title": "Enable AI agents to pay for AWS Marketplace x402 products with Amazon Bedrock AgentCore payments",
+              "description": "Amazon Bedrock AgentCore payments now supports AWS Marketplace, so agents can discover and buy x402-enabled products, APIs, data, and content and pay in USD on the developer's AWS bill, with no stablecoin wallets or API keys. This post walks through a researc…",
+              "url": "https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments/",
+              "source": "Amazon.com",
+              "published": "2026-11-19T23:02:16Z",
+              "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/19/ML-22459-featured-image-2.png"
             },
             {
               "title": "Byzantine-resilient decentralized online federated learning with Bandit feedback for IoV networks",
@@ -309,28 +325,12 @@
               "image": "https://i.dailymail.com/1s/2026/11/17/19/112566643-0-image-a-13_1794942031458.jpg"
             },
             {
-              "title": "CNN, Zoom and IKEA Among 178 Websites Hit by Cyberattack in Sweeping Crypto Raid",
-              "description": "One researcher's investigation identified 188 compromised scripts across 178 organizations after examining more than 1,600 files associated with Optimizely.\nThe post CNN, Zoom and IKEA Among 178 Websites Hit by Cyberattack in Sweeping Crypto Raid first appear…",
-              "url": "https://www.mediaite.com/media/news/cnn-zoom-and-ikea-among-178-websites-hit-by-cyberattack-in-sweeping-crypto-raid/",
-              "source": "Mediaite",
-              "published": "2026-11-17T15:47:23Z",
-              "image": "https://www.mediaite.com/wp-content/uploads/2026/11/AP26304739482581-scaled.jpg"
-            },
-            {
               "title": "Show HN: CofreAdmin Wallet – Self-Custodial Web3 Personal Finance",
               "description": "Article URL: https://github.com/cofreadminwallet/app\nComments URL: https://news.ycombinator.com/item?id=50530414\nPoints: 1\n# Comments: 0",
               "url": "https://github.com/cofreadminwallet/app",
               "source": "Github.com",
               "published": "2026-11-17T12:18:08Z",
               "image": "https://opengraph.githubassets.com/99e45dcd5e47d90b2d7544e77bcdae7430aa9efb32a8c0fd23eda768ffbfbc4e/cofreadminwallet/app"
-            },
-            {
-              "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
-              "description": "US District Judge Jessica Clarke has acquitted two brothers accused of stealing $25 million in cryptocurrency in about 12 seconds through a scheme that exploited a bug in the Ethereum blockchain. [...]",
-              "url": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
-              "source": "BleepingComputer",
-              "published": "2026-11-17T09:44:22Z",
-              "image": "https://www.bleepstatic.com/content/hl-images/2026/11/17/Ethereum-coin.jpg"
             },
             {
               "title": "Bitcoin is either the best or worst asset class every year. ZebPay CEO Rahul Pagidipati explains why",
