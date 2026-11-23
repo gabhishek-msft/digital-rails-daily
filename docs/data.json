@@ -1,5 +1,5 @@
 {
-  "date": "November 22, 2026",
+  "date": "November 23, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -101,6 +101,30 @@
       "color": "#00a4ef",
       "articles": [
         {
+          "title": "XRP’s institutional adoption story has a catch that investors may be overlooking",
+          "description": "CertiK checked selected network controls, and two live fund designs show where sterling, RLUSD and XRP come into play.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+          "url": "https://cryptoslate.com/xrps-institutional-adoption-story-has-a-catch-that-investors-may-be-overlooking/",
+          "source": "CryptoSlate",
+          "published": "2026-11-22T17:05:07Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/11/xrp-fund-settlement-paths-960x720.webp"
+        },
+        {
+          "title": "Bank and Wall Street Groups Seek 45 More Days on SEC Crypto Custody Rules",
+          "description": "Seven signatories led by bank and Wall Street trade groups want 45 more days to comment on the SEC's crypto custody rules, while the Dec. 7 deadline still stands.",
+          "url": "https://www.dcforecasts.com/bitcoin-news/sec-crypto-custody-rule-comment-extension-request/",
+          "source": "Dcforecasts.com",
+          "published": "2026-11-22T13:56:16Z",
+          "image": "https://www.dcforecasts.com/wp-content/uploads/2026/11/sec-crypto-custody-rule-comment-extension-request.webp"
+        },
+        {
+          "title": "SEC Exposes $37 Million Crypto Scam: Fake Trading Platforms Allegedly Fleeced Over 1,500 Investors",
+          "description": "The U.S. Securities and Exchange Commission (SEC) charged eight Colorado-based entities on Nov. 19, Thursday, with operating a fake investment adviser and cryptocurrency trading platform scheme that stole more than $37 million from U.S. investors [1]. The SEC…",
+          "url": "https://www.naturalnews.com/2026-11-22-sec-exposes-crypto-scam-fake-trading-platforms.html",
+          "source": "Naturalnews.com",
+          "published": "2026-11-22T06:00:00Z",
+          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/11/sec-enforcement-crypto-scam-fake-trading-platform-6968-ced03dd4-original.jpg"
+        },
+        {
           "title": "Bitcoin Falls 10% Below $57,000 as Crypto Liquidations Top $2.4B",
           "description": "Why is Bitcoin dropping? BTC fell nearly 10% below $57,000 as $2.4 billion in crypto futures liquidations and higher Treasury yields intensified selling.\nThe post Bitcoin Falls 10% Below $57,000 as Crypto Liquidations Top $2.4B appeared first on Bitcoin Found…",
           "url": "https://bitcoinfoundation.org/news/analysis/bitcoin-falls-10-below-57-000-as-crypto-liquidations-top-2-4b/",
@@ -125,22 +149,6 @@
           "image": "https://www.dcforecasts.com/wp-content/uploads/2026/11/fedwire-sunday-hours-banks-fed-funds-survey.webp"
         },
         {
-          "title": "Euro Area Crypto Holders Pick Bitcoin First and Tether Over a Euro Token, ECB Finds",
-          "description": "The ECB's Consumer Expectations Survey shows crypto ownership rising to 13% of euro area consumers, with Bitcoin in 63% of portfolios and USDT ahead of EURC.",
-          "url": "https://www.dcforecasts.com/bitcoin-news/euro-area-crypto-holders-bitcoin-stablecoins-ecb-survey/",
-          "source": "Dcforecasts.com",
-          "published": "2026-11-20T21:29:36Z",
-          "image": "https://www.dcforecasts.com/wp-content/uploads/2026/11/euro-area-crypto-holders-bitcoin-stablecoins-ecb-survey.webp"
-        },
-        {
-          "title": "Italian Banking Giant Rotates Crypto ETF Portfolio From Bitcoin to Solana and XRP",
-          "description": "Italy’s largest banking group, Intesa Sanpaolo increased its spot altcoin ETF holdings according to a new disclosure.",
-          "url": "https://zycrypto.com/italian-banking-giant-rotates-crypto-etf-portfolio-from-bitcoin-to-solana-and-xrp/",
-          "source": "ZyCrypto",
-          "published": "2026-11-20T18:22:04Z",
-          "image": "https://zycrypto.com/wp-content/uploads/2024/06/Solana-Releases-New-Major-Upgrade-as-ETF-Rumors-Intensify-for-SOL-and-XRP.jpg"
-        },
-        {
           "title": "Europe’s Tokenized Asset Market Risks Fragmentation Without Common Rules, ECB Says",
           "description": "ECB tokenization plans face a policy test as Lagarde warns Europe could lose market unity without shared rules, despite a €1 billion Pontes bond settlement.\nThe post Europe’s Tokenized Asset Market Risks Fragmentation Without Common Rules, ECB Says appeared f…",
           "url": "https://bitcoinfoundation.org/news/blockchain-news/europes-tokenized-asset-market-risks-fragmentation-without-common-rules-ecb-says/",
@@ -149,20 +157,12 @@
           "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/europes-tokenized-asset-market-risks-fragmentation-without-common-rules-ecb-says.webp"
         },
         {
-          "title": "Bitcoin selloff: Crypto is failing the 'digital gold' test again as it sinks with stocks",
-          "description": "Bitcoin’s selloff is tracking risk assets again as experts weigh rates, ETF flows, politics and whether the crypto can function as a market hedge.",
-          "url": "https://www.cnbc.com/2026/11/20/bitcoin-price-gold-market-hedge.html",
-          "source": "CNBC",
-          "published": "2026-11-20T15:09:06Z",
-          "image": "https://image.cnbcfm.com/api/v1/image/108556431-1795182074431-gettyimages-2224450056-HONG_KONG_CRYPTO.jpeg?v=1795182089&w=1200&h=675"
-        },
-        {
-          "title": "Bitcoin's regulation bull case is played out. What could drive crypto gains moving forward",
-          "description": "Crypto investors are hunting for the next positive catalyst after U.S. crypto regulation — a long-time market driver — fizzled in 2026.\nBitcoin traded around $61,500 on Friday, a more than 50% decline from its all-time high above $126,000 reached in October 2…",
-          "url": "https://biztoc.com/x/ae4c776d02e42ac3",
-          "source": "Biztoc.com",
-          "published": "2026-11-20T14:49:03Z",
-          "image": "https://cdn.biztoc.com/ae4c776d02e42ac3_s.webp"
+          "title": "Lagarde warns Europe could miss chance to unify tokenized markets",
+          "description": "ECB President Lagarde warned that Europe has a limited window to seize the benefits of tokenization and establish rules before market fragmentation occurs.",
+          "url": "https://cointelegraph.com/news/lagarde-europe-limited-window-tokenization-rules",
+          "source": "Cointelegraph",
+          "published": "2026-11-20T13:21:39Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7WGQEQ57ZB4C6X8Y2M5KYTQ/christine-lagarde-imf-1280x853.webp"
         }
       ]
     },
@@ -171,6 +171,14 @@
       "icon": "🏥",
       "color": "#00cc88",
       "articles": [
+        {
+          "title": "Cosmos Health Reports Record Nine-Month Revenue of $53.6 Million, Up 18%; Q3 Gross Margin Up 465 Basis Points Sequentially; Total Debt Down 34% and Stockholders' Equity Up 21% Since Year-End",
+          "description": "Record nine-month revenue of $53.59 million, up 17.6% from $45.57 million, driven by strong momentum across core operating segmentsQ3 gross margin rebounded to 12.6%, up 465 basis points from 7.96% in Q2 2026Adjusted EBITDA improved approximately 18% sequenti…",
+          "url": "https://www.newswire.com/news/see-2472979",
+          "source": "Newswire.com",
+          "published": "2026-11-22T08:29:50Z",
+          "image": "https://cdn.nwe.io/files/x/43/df/2a7159299512ad84832ba6d3b5af.jpg"
+        },
         {
           "title": "Show HN: Accounting built like Git, with files in your own storage",
           "description": "Lots of ways to do your accounting today with LLMs, but for some reason there is this expectation you are suppose to keep the old accounting software around? And it sort of makes sense, they vouch for the ledger integrity and keep the audit trail.It reminded …",
@@ -210,14 +218,6 @@
           "source": "Dcforecasts.com",
           "published": "2026-11-20T20:34:36Z",
           "image": "https://www.dcforecasts.com/wp-content/uploads/2026/11/marshall-islands-tokenized-bonds-sec-filing-30-million.webp"
-        },
-        {
-          "title": "HSBC lets Hong Kong customers buy a money-market fund with HK$100 in RedCoin",
-          "description": "Eligible Hong Kong customers can pay in the HSBC HK App, while fund redemptions go through a distributor on dealing days.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
-          "url": "https://cryptoslate.com/hsbc-lets-hong-kong-customers-buy-a-money-market-fund-with-hk100-in-redcoin/",
-          "source": "CryptoSlate",
-          "published": "2026-11-20T20:15:20Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/11/redcoin-dealing-sorter-960x720.webp"
         },
         {
           "title": "Cosmos Health to Resume Share Repurchases as Insiders Commit to 12-Month Lock-Up",
@@ -283,6 +283,14 @@
               "source": "Plos.org",
               "published": "2026-11-18T14:00:00Z",
               "image": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0362324.t007&size=inline"
+            },
+            {
+              "title": "Coinbase and Broadridge propose standard for tokenized stock disclosures",
+              "description": "Coinbase and Broadridge proposed an Ethereum standard to deliver shareholder communications to tokenized stockholders through digital wallets, without creating new shareholder rights.",
+              "url": "https://cointelegraph.com/news/coinbase-broadridge-tokenized-stock-shareholder-notices",
+              "source": "Cointelegraph",
+              "published": "2026-11-16T19:56:18Z",
+              "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JTN734VB6CHE3TCTHAYQMT/digital-bonds-on-blockchain-2.png"
             }
           ]
         }
