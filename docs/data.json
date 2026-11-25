@@ -1,5 +1,5 @@
 {
-  "date": "November 24, 2026",
+  "date": "November 25, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -13,22 +13,6 @@
           "source": "CryptoSlate",
           "published": "2026-11-19T16:40:20Z",
           "image": "https://cryptoslate.com/wp-content/uploads/2026/11/zcash-redemption-optical-split-960x720.webp"
-        },
-        {
-          "title": "Aptos Confidential Assets standard brings encrypted balances onchain",
-          "description": "Aptos' Confidential Assets standard enhances privacy for businesses on blockchain, balancing confidentiality with regulatory compliance needs.\nThe post Aptos Confidential Assets standard brings encrypted balances onchain appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/aptos-confidential-assets-encrypted-transactions/",
-          "source": "Crypto Briefing",
-          "published": "2026-11-17T18:06:36Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/17130634/cb-image-pwDGKVt5-800x420.webp"
-        },
-        {
-          "title": "Grvt launches Stable Funding Perps tied to real-world assets",
-          "description": "Grvt's innovative approach could reshape crypto derivatives by aligning funding rates with traditional market costs, potentially stabilizing volatility.\nThe post Grvt launches Stable Funding Perps tied to real-world assets appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/grvt-launches-stable-funding-perps-rwa/",
-          "source": "Crypto Briefing",
-          "published": "2026-11-17T17:51:38Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/17125135/cb-image-HnBJ71wd-800x420.webp"
         }
       ]
     },
@@ -38,20 +22,28 @@
       "color": "#e6a200",
       "articles": [
         {
+          "title": "David Tse and Byzantine Research unveil Praxis, a practical witness encryption scheme for NP",
+          "description": "Praxis could revolutionize crypto by enabling trustless cross-chain swaps, reducing reliance on intermediaries, and enhancing security.\nThe post David Tse and Byzantine Research unveil Praxis, a practical witness encryption scheme for NP appeared first on Cry…",
+          "url": "https://cryptobriefing.com/praxis-practical-witness-encryption-np/",
+          "source": "Crypto Briefing",
+          "published": "2026-11-24T13:16:02Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/24081554/library-david-tse-and-byzantine-research-unveil-praxis-a-practic-800x450.jpg"
+        },
+        {
+          "title": "Witness Encryption Shrinks to 7.88 GiB, Reviving the Custodian-Free Bitcoin Bridge Idea",
+          "description": "A new preprint, Praxis, cuts witness encryption ciphertext from over 110 billion GiB to 7.88 GiB, and its authors name Bitcoin bridges, proof checks and covenants as uses.",
+          "url": "https://www.dcforecasts.com/bitcoin-news/witness-encryption-praxis-bitcoin-bridge/",
+          "source": "Dcforecasts.com",
+          "published": "2026-11-24T08:11:21Z",
+          "image": "https://www.dcforecasts.com/wp-content/uploads/2026/11/witness-encryption-praxis-bitcoin-bridge.webp"
+        },
+        {
           "title": "Citrea Moves Every Bitcoin Rollup Proof to Succinct’s SP1 in Today’s Pomelo Upgrade",
           "description": "Citrea's Pomelo upgrade moves its Bitcoin zk rollup and Clementine bridge proofs to Succinct's SP1 today, as its TVL in BTC terms rose 11.5% in November.",
           "url": "https://www.dcforecasts.com/bitcoin-news/citrea-pomelo-upgrade-sp1-bitcoin-rollup/",
           "source": "Dcforecasts.com",
           "published": "2026-11-23T08:50:20Z",
           "image": "https://www.dcforecasts.com/wp-content/uploads/2026/11/citrea-pomelo-upgrade-sp1-bitcoin-rollup.webp"
-        },
-        {
-          "title": "Eli Ben-Sasson questions why AI can find bugs but not fix them",
-          "description": "AI's inability to reliably fix bugs it finds highlights the need for human oversight and robust cryptographic frameworks to ensure security.\nThe post Eli Ben-Sasson questions why AI can find bugs but not fix them appeared first on Crypto Briefing.",
-          "url": "https://cryptobriefing.com/eli-ben-sasson-ai-security-patches/",
-          "source": "Crypto Briefing",
-          "published": "2026-11-18T16:20:22Z",
-          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/18112012/library-eli-ben-sasson-questions-why-ai-can-find-bugs-but-not-fi-800x450.jpg"
         },
         {
           "title": "Kaito Pulse adds Activity Feeds that pair trader opinions with real positions",
@@ -85,68 +77,68 @@
       "color": "#00a4ef",
       "articles": [
         {
-          "title": "Hackers Use Fake Ads to Steal iPhone Users’ Crypto",
-          "description": "New cybersecurity research shows cryptocurrency thieves are using online ads to break into users’ iPhones. That’s according to cybersecurity company Confiant, which published findings recently on a widescale “malvertising” (malicious advertising) campaign kno…",
-          "url": "https://www.pymnts.com/cybersecurity/2026/hackers-use-fake-ads-to-steal-iphone-users-crypto/",
-          "source": "pymnts.com",
-          "published": "2026-11-23T15:39:06Z",
-          "image": "https://www.pymnts.com/wp-content/uploads/2026/11/hackers-iPhone-crypto.jpeg"
+          "title": "Fortuna Entertainment Group Partners With Confirmo",
+          "description": "Fortuna Entertainment Group (FEG) is partnering with Confirmo Limited to integrate MiCA-compliant cryptocurrency and stablecoin deposits.",
+          "url": "https://gamblersconnect.com/news/b2b/fortuna-entertainment-group-partners-confirmo/",
+          "source": "Gamblersconnect.com",
+          "published": "2026-11-24T16:11:45Z",
+          "image": "https://gamblersconnect.com/wp-content/uploads/2026/11/fortuna-entertainment-group-partners-confirmo-crypto-deposits.png"
         },
         {
-          "title": "Nexo partners with FactSet to provide digital asset research to clients",
-          "description": "Nexo will provide its digital asset research to FactSet clients. The partnership covers daily, weekly, and in-depth market reports. Nexo’s existing readers will continue receiving its publications directly. Nexo has partnered with FactSet to distribute its da…",
-          "url": "https://coinjournal.net/news/nexo-partners-with-factset-to-provide-digital-asset-research-to-clients/",
-          "source": "Coinjournal.net",
-          "published": "2026-11-23T15:00:49Z",
-          "image": "https://coinjournal.net/wp-content/uploads/2026/11/HX0M3sBXgAA513M.jpg"
+          "title": "Bybit Introduces TradFi Earn, Unifying Access to Global ETFs and RWA",
+          "description": "Dubai, United Arab Emirates, 24th November 2026, Chainwire\nThe post Bybit Introduces TradFi Earn, Unifying Access to Global ETFs and RWA appeared first on The Daily Hodl.",
+          "url": "https://dailyhodl.com/2026/11/24/bybit-introduces-tradfi-earn-unifying-access-to-global-etfs-and-rwa/",
+          "source": "The Daily Hodl",
+          "published": "2026-11-24T16:09:20Z",
+          "image": "https://dailyhodl.com/wp-content/uploads/2026/11/TradFiEarn_1795535374JSTCNRBFxE.jpg?resize=1280,720"
         },
         {
-          "title": "AI agents are using credit cards. Where does that leave crypto?",
-          "description": "AI agents are already using credit cards to transact, raising questions about where crypto fits in the emerging agent economy.",
-          "url": "https://cointelegraph.com/magazine/ai-agents-are-using-credit-cards-where-does-that-leave-crypto",
-          "source": "Cointelegraph",
-          "published": "2026-11-23T13:30:00Z",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M81KPV0M9CF68V4DWCFN377B/magazine-ai-agents-are-trading-crypto-now-but-beware-these-rookie-mistakes-1280x720.webp"
-        },
-        {
-          "title": "Tokenized Assets on EU Pilot Platforms Are Set to Back ECB Loans in 2027",
-          "description": "The ECB approved accepting assets issued on DLT Pilot Regime platforms as collateral, with requirements due in spring 2027 and implementation planned for June 2027.",
-          "url": "https://www.dcforecasts.com/blockchain-news/tokenized-assets-ecb-collateral-dlt-pilot-regime/",
-          "source": "Dcforecasts.com",
-          "published": "2026-11-23T10:45:06Z",
-          "image": "https://www.dcforecasts.com/wp-content/uploads/2026/11/tokenized-assets-ecb-collateral-dlt-pilot-regime.webp"
-        },
-        {
-          "title": "Senators want state-licensed firms to keep issuing stablecoins after Jan. 18",
-          "description": "Treasury’s GENIUS Act proposal recognizes temporary federal stablecoin waivers as senators press for clarity on whether state issuers can keep issuing.Six senators want Treasury to give state-regulated stablecoin issuers temporary protection when the GENIUS A…",
-          "url": "https://cryptoslate.com/senators-want-state-licensed-firms-to-keep-issuing-stablecoins-after-jan-18/",
+          "title": "BlackRock drives Bitcoin ETFs to worst month on record as crypto fund withdrawals near $6 billion",
+          "description": "US spot Bitcoin funds passed June’s monthly record on November 23, with BlackRock’s Ether funds also recording net withdrawals through that date.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catal…",
+          "url": "https://cryptoslate.com/blackrock-drives-bitcoin-etfs-to-worst-month-on-record-as-crypto-fund-withdrawals-near-6-billion/",
           "source": "CryptoSlate",
-          "published": "2026-11-22T22:05:49Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/11/state-stablecoin-certification-path-960x720.webp"
+          "published": "2026-11-24T15:30:51Z",
+          "image": "https://cryptoslate.com/wp-content/uploads/2026/11/ibit-redemption-drain-960x720.webp"
         },
         {
-          "title": "XRP’s institutional adoption story has a catch that investors may be overlooking",
-          "description": "CertiK checked selected network controls, and two live fund designs show where sterling, RLUSD and XRP come into play.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
-          "url": "https://cryptoslate.com/xrps-institutional-adoption-story-has-a-catch-that-investors-may-be-overlooking/",
-          "source": "CryptoSlate",
-          "published": "2026-11-22T17:05:07Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/11/xrp-fund-settlement-paths-960x720.webp"
+          "title": "Fidelity joins OKXICE: Wall Street’s biggest names line up for tokenized stocks",
+          "description": "OKXICE launched its tokenized securities venue with 113 assets. Fidelity, eToro and Strive joined despite objections from 67 issuers.\nThe post Fidelity joins OKXICE: Wall Street’s biggest names line up for tokenized stocks appeared first on ValueWalk.",
+          "url": "https://www.valuewalk.com/fidelity-etoro-strive-join-okxice-tokenized-stocks/",
+          "source": "ValueWalk",
+          "published": "2026-11-24T15:17:21Z",
+          "image": "https://www.valuewalk.com/wp-content/uploads/2026/11/senseserp-1795533421.jpg"
         },
         {
-          "title": "Just 8 of 91 Banks Plan to Trade Fed Funds Under Fedwire Sunday Hours",
-          "description": "Fedwire Sunday hours arrive no earlier than 2028, yet a Fed survey shows just 8.8% of banks plan Sunday fed funds trading. Bitcoin already settles 24/7.",
-          "url": "https://www.dcforecasts.com/bitcoin-news/fedwire-sunday-hours-banks-fed-funds-survey/",
+          "title": "Swiss National Bank Seats UBS, SIX and PostFinance on a Shared-Ledger Study",
+          "description": "The Swiss National Bank and eight firms, including UBS, SIX and Sygnum, will test whether one shared ledger can settle money and tokenized assets.",
+          "url": "https://www.dcforecasts.com/blockchain-news/swiss-national-bank-swiss-financial-ledger-study/",
           "source": "Dcforecasts.com",
-          "published": "2026-11-20T23:33:49Z",
-          "image": "https://www.dcforecasts.com/wp-content/uploads/2026/11/fedwire-sunday-hours-banks-fed-funds-survey.webp"
+          "published": "2026-11-24T15:12:17Z",
+          "image": "https://www.dcforecasts.com/wp-content/uploads/2026/11/swiss-national-bank-swiss-financial-ledger-study.webp"
         },
         {
-          "title": "Europe’s Tokenized Asset Market Risks Fragmentation Without Common Rules, ECB Says",
-          "description": "ECB tokenization plans face a policy test as Lagarde warns Europe could lose market unity without shared rules, despite a €1 billion Pontes bond settlement.\nThe post Europe’s Tokenized Asset Market Risks Fragmentation Without Common Rules, ECB Says appeared f…",
-          "url": "https://bitcoinfoundation.org/news/blockchain-news/europes-tokenized-asset-market-risks-fragmentation-without-common-rules-ecb-says/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-11-20T16:32:41Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/europes-tokenized-asset-market-risks-fragmentation-without-common-rules-ecb-says.webp"
+          "title": "BlackRock Launches Hong Kong Tokenized Fund With A HK$10 Entry Point",
+          "description": "Key takeaways BlackRock has launched its first tokenized money market fund in Asia-Pacific, the HKD Digital Liquidity Fund, for investors in Hong Kong. The tokenized D OnChain class lists a minimum investment of HK$10, against HK$10 million for the convention…",
+          "url": "https://www.newsbtc.com/crypto-news/blackrock-tokenized-fund-hong-kong-stablecoin/",
+          "source": "newsBTC",
+          "published": "2026-11-24T14:35:22Z",
+          "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/Hong-Kong-Tokenized-Fund-Skyline-860x484.png"
+        },
+        {
+          "title": "Neuberger Berman’s HINC fund goes live as junk-rated collateral on Aave Horizon",
+          "description": "The inclusion of junk-rated collateral on Aave Horizon could increase borrowing opportunities but also heightens credit risk exposure for lenders.\nThe post Neuberger Berman’s HINC fund goes live as junk-rated collateral on Aave Horizon appeared first on Crypt…",
+          "url": "https://cryptobriefing.com/neuberger-berman-hinc-aave-horizon-collateral/",
+          "source": "Crypto Briefing",
+          "published": "2026-11-24T14:12:14Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/24091205/library-neuberger-berman-s-hinc-fund-goes-live-as-junk-rated-col-800x450.jpg"
+        },
+        {
+          "title": "Circle signs MOU with Paribu to expand onchain finance in Türkiye",
+          "description": "The partnership could enhance financial stability in Trkiye by leveraging blockchain technology amid currency volatility, fostering digital asset adoption.\nThe post Circle signs MOU with Paribu to expand onchain finance in Türkiye appeared first on Crypto Bri…",
+          "url": "https://cryptobriefing.com/circle-paribu-mou-onchain-finance-turkiye/",
+          "source": "Crypto Briefing",
+          "published": "2026-11-24T14:09:48Z",
+          "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/24090936/library-circle-signs-mou-with-paribu-to-expand-onchain-finance-i-800x450.jpg"
         }
       ]
     },
@@ -156,12 +148,20 @@
       "color": "#00cc88",
       "articles": [
         {
-          "title": "Chainflip founder admits heavy losses after second hack in 10 weeks drains $12 million",
-          "description": "The November offer seeks bitcoin and ether, leaving any new payouts dependent on what Chainflip holds and what it owes liquidity providers.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in…",
-          "url": "https://cryptoslate.com/chainflip-founder-admits-heavy-losses-after-second-hack-in-10-weeks-drains-12-million/",
-          "source": "CryptoSlate",
-          "published": "2026-11-23T13:40:07Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/11/chainflip-reimbursement-ledger-gap-960x720.webp"
+          "title": "Hartree Is Top Supplier Behind $10MM Oil Crypto Coin Mint",
+          "description": "Hartree Partners LP is supplying physical oil to back a crypto token in an unusual tie-up.",
+          "url": "https://www.rigzone.com/news/wire/hartree_is_top_supplier_behind_10mm_oil_crypto_coin_mint-24-nov-2026-185159-article/",
+          "source": "Rigzone",
+          "published": "2026-11-24T15:50:32Z",
+          "image": "https://images.rigzone.com/images/news/articles/Hartree-Is-Top-Supplier-Behind-10MM-Oil-Crypto-Coin-Mint-185159-1200x628.png"
+        },
+        {
+          "title": "How Anthony Boyle Got Inside the Mind of Sam Bankman-Fried",
+          "description": "The star of Netflix’s The Altruists reveals what it took to become a billionaire crypto criminal.",
+          "url": "https://www.esquire.com/entertainment/tv/a74494265/anthony-boyle-sam-bankman-fried/",
+          "source": "esquire.com",
+          "published": "2026-11-24T11:00:00Z",
+          "image": "https://hips.hearstapps.com/hmg-prod/images/e7e58588-d07d-4d74-91c4-71c165d8b287.jpg?crop=1xw:0.667xh;0xw,0.066xh&resize=1200:*"
         },
         {
           "title": "ECB to let banks pledge more tokenized securities as collateral",
@@ -188,14 +188,6 @@
           "image": "https://s.yimg.com/lo/mysterio/api/769fae3518ca996333b62d0eac9d45e0150a45340c72c22f3e7db6b3433142c5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Faccesswire.ca%2Fdc2ff1403d630a7ef4814c3bbeacc3bb.png"
         },
         {
-          "title": "Singapore’s Tokenized MAS Bills Hit S$100 Million, 100 Times the First Issue",
-          "description": "Singapore issued S$100 million of tokenized MAS Bills on its own ledger, settled in wholesale CBDC, after two smaller trials in September and October.",
-          "url": "https://www.dcforecasts.com/blockchain-news/singapore-tokenized-mas-bills-wholesale-cbdc-100-million/",
-          "source": "Dcforecasts.com",
-          "published": "2026-11-19T10:44:47Z",
-          "image": "https://www.dcforecasts.com/wp-content/uploads/2026/11/singapore-tokenized-mas-bills-wholesale-cbdc-100-million.webp"
-        },
-        {
           "title": "Blockchain dalam Pertanian: Meningkatkan Ketelusan dan Kebolehkesanan Hasil dari Ladang hingga ke Pengguna",
           "description": "Pengenalan Rantaian bekalan pertanian melibatkan petani, pengedar, peruncit dan pengguna, dan kerumitannya menyukarkan pembangunan penyelesaian",
           "url": "https://fazlisyam.com/blockchain-dalam-pertanian-meningkatkan-ketelusan-dan-kebolehkesanan-hasil-dari-ladang-hingga-ke-pengguna/",
@@ -210,14 +202,6 @@
           "source": "WWD",
           "published": "2026-11-18T06:00:00Z",
           "image": "https://wwd.com/wp-content/uploads/2026/05/The-Aura-enabled-QR-code-on-a-Loro-Piana-piece.jpeg"
-        },
-        {
-          "title": "Waller, Considerations at the Intersection of Payments and Tokenized Markets",
-          "description": "Thank you for inviting me to return and speak today.  1     I am delighted to be here during a transformational time in payments. Two years ago, I spoke at The",
-          "url": "https://www.federalreserve.gov/newsevents/speech/waller20261117a.htm",
-          "source": "Federalreserve.gov",
-          "published": "2026-11-17T14:10:00Z",
-          "image": "https://www.federalreserve.gov/images/social-media/social-default-image-opengraph.jpg"
         }
       ]
     },
@@ -231,28 +215,20 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "Non-GamStop Casinos for UK Players – Payment Methods",
-              "description": "Start by selecting a casino not on GamStop that supports Visa, Mastercard, and e‑wallets such as PayPal, Skrill, and Neteller. These providers process",
-              "url": "https://blogdoandroid.com/non-gamstop-casinos-for-uk-players-payment-methods/",
-              "source": "Blogdoandroid.com",
-              "published": "2026-11-23T14:47:45Z",
-              "image": null
+              "title": "Bisq 2 desktop users must update to keep trading Bitcoin",
+              "description": "Desktop version 2.1.16 fixes a bundled Java flaw, and the Nov. 25 network change requires nodes to run at least 2.1.14.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+              "url": "https://cryptoslate.com/bisq-2-desktop-users-must-update-to-keep-trading-bitcoin/",
+              "source": "CryptoSlate",
+              "published": "2026-11-24T14:10:15Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/11/bisq-desktop-security-update-960x720.webp"
             },
             {
-              "title": "Rebounding Stock Futures Help Bitcoin Recover Above $61K",
-              "description": "Bitcoin recovery lifts BTC above $61K after a weekend low near $55K, as rebounding stock futures support gains while ETF outflows weigh on demand.\nThe post Rebounding Stock Futures Help Bitcoin Recover Above $61K appeared first on Bitcoin Foundation.",
-              "url": "https://bitcoinfoundation.org/news/bitcoin/rebounding-stock-futures-help-bitcoin-recover-above-61k/",
-              "source": "Bitcoinfoundation.org",
-              "published": "2026-11-23T13:50:11Z",
-              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/rebounding-stock-futures-help-bitcoin-recover-above-61k.webp"
-            },
-            {
-              "title": "Binance Says Withdrawals Reopened on 87 Networks as Recovery Moves Toward Full Access",
-              "description": "Binance says 87 withdrawal networks reopened during the week and sets a target for remaining routes, while reserve backing follows a separate verification process.",
-              "url": "https://www.newsbtc.com/exchanges/binance-withdrawals-reopened-87-networks-recovery/",
-              "source": "newsBTC",
-              "published": "2026-11-17T11:00:00Z",
-              "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/newsbtc-2026-11-16-N16-19_cover.jpg"
+              "title": "Perps and Swaps: How to Trade the News on Decrypt",
+              "description": "Decrypt readers can now swap tokens and trade perpetual futures from a single Money Account. Here's how The Information Exchange works.",
+              "url": "https://decrypt.co/resources/perps-and-swaps-how-to-trade-the-news-on-decrypt",
+              "source": "Decrypt",
+              "published": "2026-11-23T18:15:45Z",
+              "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/11/decrypt-trade-the-news-learn-gID_1-pID_2.png"
             }
           ]
         },
@@ -260,30 +236,6 @@
           "title": "Hyperscalers",
           "icon": "☁️",
           "articles": [
-            {
-              "title": "Wealthy businessman tied up with hairdryer cord at knifepoint by masked men during £1million cryptocurrency raid, court hears",
-              "description": "Andrew Oliver was punched and dragged into the bathroom at his home in Sloane Square and had the beauty appliance's cable secured around his legs.",
-              "url": "https://www.dailymail.com/news/article-16315093/Wealthy-businessman-cryptocurrency-raid-court.html",
-              "source": "Dailymail.com",
-              "published": "2026-11-23T13:20:28Z",
-              "image": "https://i.dailymail.com/1s/2026/11/23/13/112675557-0-image-a-48_1795438955551.jpg"
-            },
-            {
-              "title": "FBI Uncovers Chilling Cyberattack: North Korean Hackers Steal $400 Million Through Fake Video Meetings",
-              "description": "North Korean state-backed hackers stole more than $400 million in cryptocurrency over the past 18 months by secretly recording video images of people and using those images to target their contacts, the Federal Bureau of Investigation (FBI) said on Nov. 12. T…",
-              "url": "https://www.naturalnews.com/2026-11-20-north-korean-hackers-steal-400m-through-fake-video.html",
-              "source": "Naturalnews.com",
-              "published": "2026-11-20T06:00:00Z",
-              "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/11/north-korean-hackers-cryptocurrency-theft-facestealer-6652-c16023f9-original.jpg"
-            },
-            {
-              "title": "Enable AI agents to pay for AWS Marketplace x402 products with Amazon Bedrock AgentCore payments",
-              "description": "Amazon Bedrock AgentCore payments now supports AWS Marketplace, so agents can discover and buy x402-enabled products, APIs, data, and content and pay in USD on the developer's AWS bill, with no stablecoin wallets or API keys. This post walks through a researc…",
-              "url": "https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments/",
-              "source": "Amazon.com",
-              "published": "2026-11-19T23:02:16Z",
-              "image": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/11/19/ML-22459-featured-image-2.png"
-            },
             {
               "title": "Byzantine-resilient decentralized online federated learning with Bandit feedback for IoV networks",
               "description": "As a canonical application of computational complex networks, the intelligent Internet of Vehicles (IoV) has attracted significant research interest regarding network security. This paper investigates a class of decentralized federated learning algorithms des…",
