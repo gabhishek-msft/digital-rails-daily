@@ -1,5 +1,5 @@
 {
-  "date": "November 27, 2026",
+  "date": "November 28, 2026",
   "categories": {
     "zkp-finance": {
       "title": "ZKP in Finance",
@@ -68,14 +68,6 @@
           "source": "Dcforecasts.com",
           "published": "2026-11-24T08:11:21Z",
           "image": "https://www.dcforecasts.com/wp-content/uploads/2026/11/witness-encryption-praxis-bitcoin-bridge.webp"
-        },
-        {
-          "title": "Citrea Moves Every Bitcoin Rollup Proof to Succinct’s SP1 in Today’s Pomelo Upgrade",
-          "description": "Citrea's Pomelo upgrade moves its Bitcoin zk rollup and Clementine bridge proofs to Succinct's SP1 today, as its TVL in BTC terms rose 11.5% in November.",
-          "url": "https://www.dcforecasts.com/bitcoin-news/citrea-pomelo-upgrade-sp1-bitcoin-rollup/",
-          "source": "Dcforecasts.com",
-          "published": "2026-11-23T08:50:20Z",
-          "image": "https://www.dcforecasts.com/wp-content/uploads/2026/11/citrea-pomelo-upgrade-sp1-bitcoin-rollup.webp"
         }
       ]
     },
@@ -84,6 +76,38 @@
       "icon": "🏦",
       "color": "#00a4ef",
       "articles": [
+        {
+          "title": "House advances bill to block U.S. government from selling bitcoin for 20 years",
+          "description": "The American Reserve Modernization Act of 2026, introduced by Rep. Nick Begich (R-AK) and Rep. Jared Golden (D-ME), has cleared the House Financial Services Committee and is eligible for a floor vote, aiming to codify the U.S. government’s bitcoin holdings in…",
+          "url": "https://www.naturalnews.com/2026-11-27-house-advances-bill-blocking-govt-selling-bitcoin.html",
+          "source": "Naturalnews.com",
+          "published": "2026-11-27T06:00:00Z",
+          "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/11/Bitcoin-Business-Crypto-Currency-Anonymous-Bank-Banking.jpg"
+        },
+        {
+          "title": "UK is ‘getting it wrong’ on DeFi regulation, says Coinbase",
+          "description": "Coinbase and Stand With Crypto say the FCA’s planned DeFi authorization rules would leave UK users without a regulated route into decentralized finance.",
+          "url": "https://cointelegraph.com/news/uk-wrong-defi-regulation-coinbase",
+          "source": "Cointelegraph",
+          "published": "2026-11-26T21:13:53Z",
+          "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CJBJZM1MK2FZDDPQ6PK8RE/token-character-pushing-gavel-1280x853.webp"
+        },
+        {
+          "title": "Q&A: Beyond Bitcoin: Why crypto investors may stop chasing the next big token",
+          "description": "Picking the next crypto winner has long defined digital asset investing. Joe Sticco, co-founder of Cryptex Finance, argues that institutional adoption could shift the market towards diversified indexes, benchmarks and a more traditional approach to portfolio …",
+          "url": "https://www.digitaljournal.com/article/qa-beyond-bitcoin-why-crypto-investors-may-stop-chasing-the-next-big-token/",
+          "source": "Digital Journal",
+          "published": "2026-11-26T20:48:01Z",
+          "image": "https://www.digitaljournal.com/wp-content/uploads/2026/02/86998fc22a089d274ed88f5ba7f2b24122078e33.jpg"
+        },
+        {
+          "title": "Ripple’s $900 Million Revenue Target Raises Questions About XRP’s Stagnant Price",
+          "description": "Ripple’s growing business operations and ambitious $900 million revenue target are drawing attention to the disconnect between the company’s commercial expansion and XRP’s price performance. Despite increasing its presence in institutional payments, corporate…",
+          "url": "https://zycrypto.com/ripples-900-million-revenue-target-raises-questions-about-xrps-stagnant-price/",
+          "source": "ZyCrypto",
+          "published": "2026-11-26T19:28:41Z",
+          "image": "https://zycrypto.com/wp-content/uploads/2026/03/Ripples-XRP-Whales-Eye-1.7-Trillion-Payments-Industry-as-New-SWIFT-Narrative-Gains-Momentum.jpg"
+        },
         {
           "title": "Scott Aaronson Flags Unverified OpenAI, Anthropic Factoring Rumors",
           "description": "Scott Aaronson shared unverified AI factoring rumors involving OpenAI and Anthropic. A real breakthrough could threaten RSA, but Bitcoin uses different math.\nThe post Scott Aaronson Flags Unverified OpenAI, Anthropic Factoring Rumors appeared first on Bitcoin…",
@@ -101,14 +125,6 @@
           "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8C09F24P5KHBWTW0KT3PDYS/hi-ericx-launches-spot-market2-1280x853.webp"
         },
         {
-          "title": "Standard Chartered's Zodia Custody Says Hackers Accessed Client Contact Details",
-          "description": "The crypto custodian said an unauthorized party accessed some client and staff names and emails, but found no unauthorized transactions.",
-          "url": "https://decrypt.co/384033/standard-chartereds-zodia-custody-says-hackers-accessed-client-contact-details",
-          "source": "Decrypt",
-          "published": "2026-11-26T13:13:19Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/hacker3-gID_7.png"
-        },
-        {
           "title": "UK Regulator Cites Binance Hack as It Plans Tougher DeFi Rules Than US and EU: Report",
           "description": "The FCA plans to require DeFi platforms to be authorized and to keep regulated exchanges from routing UK retail trades to them.",
           "url": "https://decrypt.co/384027/uk-regulator-cites-binance-hack-as-it-plans-tougher-defi-rules-than-us-and-eu-report",
@@ -117,36 +133,12 @@
           "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/uk-fca-financial-conduct-authority-decrypt-style-gID_7.jpg"
         },
         {
-          "title": "Exclusive-StanChart's crypto unit Zodia Custody hit by security breach, some client data exposed",
-          "description": "HONG KONG, Nov 26 : Standard Chartered's cryptocurrency custody unit Zodia Custody suffered a security breach earlier this week that exposed some client and employee information, the unit's chief executive told Reuters on Thursday.The breach, detected by Zodi…",
-          "url": "https://www.channelnewsasia.com/business/exclusive-stancharts-crypto-unit-zodia-custody-hit-security-breach-some-client-data-exposed-6584906",
-          "source": "CNA",
-          "published": "2026-11-26T10:47:38Z",
-          "image": "https://dam.mediacorp.sg/image/upload/s--pxvqADdd--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-11-26T104425Z_1_LYNXNPEMAP0X8_RTROPTP_3_STANCHART-RESULTS.JPG?itok=YEsRZBH8"
-        },
-        {
-          "title": "Strategic Bitcoin Reserve Bill Reaches the House Calendar With a 20-Year Sale Ban",
-          "description": "H.R. 8957 was formally reported on November 24 and placed on the Union Calendar. The rewritten bill bans selling reserve Bitcoin for 20 years and drops Fed-funded purchase ideas.",
-          "url": "https://www.dcforecasts.com/bitcoin-news/strategic-bitcoin-reserve-bill-house-calendar-20-year-sale-ban/",
-          "source": "Dcforecasts.com",
-          "published": "2026-11-26T10:40:14Z",
-          "image": "https://www.dcforecasts.com/wp-content/uploads/2026/11/strategic-bitcoin-reserve-bill-house-calendar-20-year-sale-b.webp"
-        },
-        {
           "title": "BlackRock Opens Tokenized HKD Money Market Fund to Hong Kong Investors",
           "description": "BlackRock's first Asia-Pacific tokenized money market fund is open in Hong Kong, with a HK$10 tokenized class and $100 million in seeded assets.\nThe post BlackRock Opens Tokenized HKD Money Market Fund to Hong Kong Investors appeared first on ValueWalk.",
           "url": "https://www.valuewalk.com/blackrock-tokenized-hkd-money-market-fund-hong-kong/",
           "source": "ValueWalk",
           "published": "2026-11-26T09:09:57Z",
           "image": "https://www.valuewalk.com/wp-content/uploads/2026/11/senseserp-1795684177.jpg"
-        },
-        {
-          "title": "Ukraine Passes Crypto Bill 271-8, Sets July 2027 Start",
-          "description": "Ukraine’s parliament passed a crypto regulation and tax bill with 271 votes, setting a July 2027 start and a 23% tax on individual crypto profits.\nThe post Ukraine Passes Crypto Bill 271-8, Sets July 2027 Start appeared first on Bitcoin Foundation.",
-          "url": "https://bitcoinfoundation.org/news/blockchain-news/ukraine-passes-crypto-bill-271-8-sets-july-2027-start/",
-          "source": "Bitcoinfoundation.org",
-          "published": "2026-11-26T07:01:27Z",
-          "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/ukraine-passes-crypto-bill-271-8-sets-july-2027-start.webp"
         }
       ]
     },
@@ -156,28 +148,28 @@
       "color": "#00cc88",
       "articles": [
         {
+          "title": "What Happens When You Mine Crypto in a Game Instead of Real Life?",
+          "description": "Learn how crypto mining games work, how they differ from real cryptocurrency mining, and what to know about rewards, withdrawals, costs and risks.",
+          "url": "https://hackread.com/what-happens-when-you-mine-crypto-in-game/",
+          "source": "HackRead",
+          "published": "2026-11-27T11:01:03Z",
+          "image": "https://hackread.com/wp-content/uploads/2026/11/what-happens-when-you-mine-crypto-in-game.jpg"
+        },
+        {
+          "title": "The​‍​‌‍​‍‌ Connection Between Digital Wallets and Modern Gaming Platforms",
+          "description": "The gaming industry has changed a lot, and one factor in that change is the evolution of digital technology and, more specifically, how people interact with entertainment. Take casino games on mobile devices, for example: modern game environments rely heavily…",
+          "url": "https://punchng.com/the-connection-between-digital-wallets-and-modern-gaming-platforms/",
+          "source": "The Punch",
+          "published": "2026-11-27T07:55:34Z",
+          "image": "https://cdn.punchng.com/wp-content/uploads/2026/11/27084435/gam_1795765475.webp"
+        },
+        {
           "title": "Ethereum’s Next Upgrade Could Be Harder Than The Merge, Foundation Warns",
           "description": "The Ethereum Foundation is planning a security upgrade to protect the network against artificial intelligence (AI) and quantum computing risks. This year, the wider sector has faced hacks that drained billions from the market, prompting devs to roll out secur…",
           "url": "https://zycrypto.com/ethereums-next-upgrade-could-be-harder-than-the-merge-foundation-warns/",
           "source": "ZyCrypto",
           "published": "2026-11-25T19:46:56Z",
           "image": "https://zycrypto.com/wp-content/uploads/2023/11/Ethereum-Not-Yet-Ready-to-Put-Everything-on-A-Rollup-Says-Buterin-as-Layer-2-Projects-Surge.jpg"
-        },
-        {
-          "title": "Bitcoin Falls Further as Inflation, Trump Tariffs and AI Selloff Rattle Markets",
-          "description": "Bitcoin fell below $58,000 as stronger U.S. growth, accelerating inflation and proposed tariffs coincided with a renewed AI stock selloff and bets on higher interest rates in December and beyond.",
-          "url": "https://decrypt.co/383967/bitcoin-sinks-inflation-trump-tariffs-ai-selloff",
-          "source": "Decrypt",
-          "published": "2026-11-25T16:52:50Z",
-          "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg"
-        },
-        {
-          "title": "Bitcoin’s selloff deepens as Trump tariffs and hot inflation revive market fears",
-          "description": "Bitcoin fell to $57,470 on Wednesday as hotter-than-expected US core inflation and the announcement of new tariffs intensified selling across risk assets. The Nasdaq 100 extended its losses to 2.9%, reversing the optimism that followed Jensen Huang's reinstat…",
-          "url": "https://cryptoslate.com/bitcoins-selloff-deepens-as-trump-tariffs-and-hot-inflation-revive-market-fears/",
-          "source": "CryptoSlate",
-          "published": "2026-11-25T15:49:19Z",
-          "image": "https://cryptoslate.com/wp-content/uploads/2026/11/bitcoin-market-floor-break-960x720.webp"
         },
         {
           "title": "CFTC Says FIs Can Count Stablecoins as Financial Resources, Not Cash",
@@ -223,20 +215,20 @@
           "icon": "💡",
           "articles": [
             {
-              "title": "PrimeXBT Celebrates 8 Years of Redefining Crypto Trading with 50% Deposit Bonus",
-              "description": "PrimeXBT celebrates its 8th anniversary, marking its evolution from crypto margin trading into a global multi-asset broker and crypto asset service provider. Since its founding in 2018, the company has expanded its offering through continuous product innovati…",
-              "url": "https://zycrypto.com/primexbt-celebrates-8-years-of-redefining-crypto-trading-with-50-deposit-bonus/",
-              "source": "ZyCrypto",
-              "published": "2026-11-26T14:48:22Z",
-              "image": "https://zycrypto.com/wp-content/uploads/2026/11/unnamed-2026-11-26T144414.131.jpg"
+              "title": "Bit Digital borrowed against Ethereum to fund AI, and now its crypto treasury is paying the price",
+              "description": "The sale left $50 million owed to Galaxy and 69,089 LsETH pledged while WhiteFiber’s separate bridge loan remained outstanding.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+              "url": "https://cryptoslate.com/bit-digital-borrowed-against-ethereum-to-fund-ai-and-now-its-crypto-treasury-is-paying-the-price/",
+              "source": "CryptoSlate",
+              "published": "2026-11-27T12:40:54Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/11/ether-sale-server-bridge-960x720.webp"
             },
             {
-              "title": "VVV Crypto Gains 33% as Venice AI Privacy Claims Face Scrutiny",
-              "description": "VVV crypto gained 33% before a privacy dispute triggered a sharp selloff, putting Venice AI's utility, staking model and token risks under scrutiny.\nThe post VVV Crypto Gains 33% as Venice AI Privacy Claims Face Scrutiny appeared first on Bitcoin Foundation.",
-              "url": "https://bitcoinfoundation.org/news/altcoins/vvv-crypto-gains-33-as-venice-ai-privacy-claims-face-scrutiny/",
-              "source": "Bitcoinfoundation.org",
-              "published": "2026-11-26T14:20:25Z",
-              "image": "https://bitcoinfoundation.org/wp-content/uploads/2026/11/vvv-crypto-gains-33-as-venice-ai-privacy-claims-face-scrutiny.webp"
+              "title": "BASIS Opens First-Round Applications for Card Offering Cashback in the Asset Spent",
+              "description": "Victoria, Seychelles, 27th November 2026, Chainwire\nThe post BASIS Opens First-Round Applications for Card Offering Cashback in the Asset Spent appeared first on The Daily Hodl.",
+              "url": "https://dailyhodl.com/2026/11/27/basis-opens-first-round-applications-for-card-offering-cashback-in-the-asset-spent/",
+              "source": "The Daily Hodl",
+              "published": "2026-11-27T10:01:12Z",
+              "image": "https://dailyhodl.com/wp-content/uploads/2026/11/BASIS_Card_Applications_Main_amber_1200x720_1795762522r88ZVMVWUP.jpg?resize=1200,720"
             },
             {
               "title": "Perps and Swaps: How to Trade the News on Decrypt",
@@ -253,12 +245,28 @@
           "icon": "☁️",
           "articles": [
             {
-              "title": "Old Crypto Mining Rigs Just Found A New Purpose; PCIe x1 Risers Do Not Slow Down Local AI Inference As Qwen3-8B Works Flawlessly On A Quadro RTX 4000",
-              "description": "The crypto mining craze evaporated a few years ago, but that doesn’t mean that enthusiasts discarded their hardware because you never know when all of these components could be repurposed again. In the age of open-source AI models, older GPUs can find a new p…",
-              "url": "https://wccftech.com/old-crypto-mining-rigs-pcie-x1-risers-local-ai-inference-quadro-rtx-4000/",
-              "source": "Wccftech",
-              "published": "2026-11-26T07:29:46Z",
-              "image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/NVIDIA-Quadro-RTX-4000.jpg"
+              "title": "‘The Altruists’ star Alex Lawther has spoken with the real crypto bro Sam Trabucco: ‘He wrote back within the hour",
+              "description": "\"He made a comment about one of the shirts I was wearing and said, 'I would never wear that,'\" Lawther shared.",
+              "url": "https://decider.com/2026/11/27/the-altruists-star-alex-lawther-has-spoken-with-the-real-sam-trabucco/",
+              "source": "Decider",
+              "published": "2026-11-27T14:30:00Z",
+              "image": "https://decider.com/wp-content/uploads/2026/11/altruists-alex-lawther-qa.jpg?quality=75&strip=all&w=1200"
+            },
+            {
+              "title": "Nvidia agrees to $290 million settlement over 2018 crypto mining GPU sales",
+              "description": "Nvidia agrees to pay $290 million settlement for class action allegedly misleading investors that much of gaming GPU sales were actually driven by cryptocurrency mining demand.",
+              "url": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-agrees-to-usd290-million-settlement-over-2018-crypto-mining-gpu-sales-ends-eight-year-investor-lawsuit-without-admitting-wrongdoing",
+              "source": "Tom's Hardware UK",
+              "published": "2026-11-27T11:30:00Z",
+              "image": "https://cdn.mos.cms.futurecdn.net/vZTixu9pzvdLkseqLS3M4b-1920-80.jpg"
+            },
+            {
+              "title": "Chainlink jumps 10% as its Wall Street ambitions gain momentum on two fronts",
+              "description": "Chainlink's LINK token climbed 10% over the past 24 hours to $9.20 as the network deepened its integration with traditional finance. The rally comes as Fidelity Investments filed to launch a spot Chainlink exchange-traded fund (ETF), a day after enabling dire…",
+              "url": "https://cryptoslate.com/chainlink-jumps-10-as-its-wall-street-ambitions-gain-momentum-on-two-fronts/",
+              "source": "CryptoSlate",
+              "published": "2026-11-26T20:40:01Z",
+              "image": "https://cryptoslate.com/wp-content/uploads/2026/11/fidelity-chainlink-etf-filing-960x720.webp"
             },
             {
               "title": "Fidelity Files for Chainlink ETF. What Does It Mean for LINK?",
@@ -267,6 +275,14 @@
               "source": "newsBTC",
               "published": "2026-11-26T03:58:10Z",
               "image": "https://www.newsbtc.com/wp-content/uploads/2026/11/Chainlink-Hexagon-in-Glass-Vault-1.png"
+            },
+            {
+              "title": "Berkshire Hathaway Market Cap Is Only $35 Billion Above Bitcoin’s",
+              "description": "The Berkshire Hathaway market cap sits just 2.9% above Bitcoin's $1.19 trillion. We rank BTC 12th among U.S. companies, ahead of Anthropic and Walmart.",
+              "url": "https://www.dcforecasts.com/analysis/berkshire-hathaway-market-cap-bitcoin-35-billion/",
+              "source": "Dcforecasts.com",
+              "published": "2026-11-25T04:35:52Z",
+              "image": "https://www.dcforecasts.com/wp-content/uploads/2026/11/berkshire-hathaway-market-cap-bitcoin-35-billion.webp"
             },
             {
               "title": "Curator Karen Archey Wants Zero 10 to Showcase the Breadth of Digital Art",
